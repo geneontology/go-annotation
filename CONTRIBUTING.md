@@ -1,4 +1,4 @@
-## Guidelines for creating GitHub tickets to contribut annotations:
+## Guidelines for creating GitHub tickets to contribute annotations:
 
 1. **Write a detailed request:** Please be specific and include as many details as necessary, providing background information, and if possible, suggesting a solution. GOC editors will be better equipped to address your suggestions if you offer details regarding *'what is new'*, *'what is wrong'*, *'why'*, and *'how to fix it'*.
 
