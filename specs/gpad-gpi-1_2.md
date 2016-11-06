@@ -456,6 +456,15 @@ the GPAD document as-is:
 
 See [http://www.geneontology.org/GO.annotation.conventions.shtml](conventions)
 
+### Other relations
+
+The list of relations that can be used is open-ended, but these should
+come from RO. The following will be in standard usage in GO from 2016
+onwards:
+
+ * acts_upstream_of_or_within
+ * acts_upstream_of
+ * involved_in
 
 ## References
 
