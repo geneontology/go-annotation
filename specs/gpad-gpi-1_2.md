@@ -29,8 +29,8 @@ Comments should be sent to go-discuss AT geneontology.org
     "go_evidence" (shorthand), comment
   - GPI properties: DB_Subset (swissprot vs tremble),
     Annotation_Complete (Date), slim/subset type of thing
-  - JSON: properties is an array with objects 
-  - file names: *.gpa (also accepted *.gpad) and *.gpi 
+  - JSON: properties is an array with objects
+  - file names: *.gpa (also accepted *.gpad) and *.gpi
 
 ## Introduction
 
@@ -79,7 +79,7 @@ syntax, the second defined GPI syntax.
 
 his document uses only a very simple form of UML class diagrams that
 are expected to be easily understandable by readers familiar with the
-basic concepts of object-oriented systems. 
+basic concepts of object-oriented systems.
 
 *TODO* - move UML elsewhere
 
@@ -95,7 +95,7 @@ GPAD and GPI document structures are defined using a standard BNF notation, whic
  * groupings are written using parentheses
  * complementation is written using minus symbol
 
-GPI and GPAD documents consist of sequences of Unicode characters and are encoded in UTF-8 [RFC 3629]. 
+GPI and GPAD documents consist of sequences of Unicode characters and are encoded in UTF-8 [RFC 3629].
 
  * TODO - do we allow UTF-8 or restrict to ASCII? DECIDED: ASCII
 
@@ -103,7 +103,7 @@ GPI and GPAD documents consist of sequences of Unicode characters and are encode
 
     Alpha_Char ::= a |b |c |d |e |f |g |h |i |j |k |l |m |n |o |p |q |r |s |t |u |v |w |x |y |z
        | A |B |C |D |E |F |G |H |I |J |K |L |M |N |O |P |Q |R |S |T |U |V |W |X |Y |Z
-    Digit ::= 0 |1 |2 |3 |4 |5 |6 |7 |8 |9 
+    Digit ::= 0 |1 |2 |3 |4 |5 |6 |7 |8 |9
     Alphanumeric_Char ::= Alpha_Char | Digit
 
 ### Spacing Characters
@@ -160,7 +160,7 @@ of specifying a URI that denotes the actual property used.
 
 Dates are written into what is equivalent to the date portion of ISO-8601, omitting hyphens:
 
-    YYYYMMDD ::= Year Month Day_of_month 
+    YYYYMMDD ::= Year Month Day_of_month
     Year ::= digit digit digit digit
     Month ::= digit digit
     Day_of_month ::= digit digit
@@ -197,7 +197,7 @@ by zero or more metadata lines:
 Each metadata line starts with an exclamation mark '!'. One mark
 indicates a structured tag-value pair, two marks indicates free text.
 
-    GPAD_Header_Line ::= 
+    GPAD_Header_Line ::=
        '!' Property_Symbol ':' Space* Value nl |
        '!!' (Char - nl)* nl
 
@@ -226,7 +226,7 @@ Each annotation is on a separate line of tab separated values:
 
 Each of these columns has its own syntax, as specified below:
 
-1. `DB ::= Prefix` 
+1. `DB ::= Prefix`
 2. `DB_Object_ID ::= Local_ID`
 3. `Qualifiers ::= [Qualifier] ('|' Qualifier)*`
 4. `Ontology_Class_ID ::= OBO_ID`
@@ -264,7 +264,7 @@ conjunctive expressions:
 A property value pair uses an open-ended vocabulary of properties to
 association information with the annotation.
 
-    Property_Value_Pair ::= Property_Symbol '=' Property_Value 
+    Property_Value_Pair ::= Property_Symbol '=' Property_Value
     Property_Value  ::= (AnyChar - ('=' | '|' | nl))
 
 *TODO* define AnyChar such that escaping is allowed
@@ -331,7 +331,7 @@ with an exclamation point:
 Each metadata line starts with an exclamation mark '!'. One mark
 indicates a structured tag-value pair, two marks indicates free text.
 
-    GPI_Header_Line ::= 
+    GPI_Header_Line ::=
        '!' Property_Symbol ':' Space* Value nl |
        '!!' (Char - nl)* nl
 
@@ -352,15 +352,16 @@ Each entity is written on a separate line of tab separated values:
 
 Each of these columns has its own syntax, as specified below:
 
-1. `DB_Object_ID ::= Local_ID`
-2. `DB_Object_Symbol ::= xxxx`
-3. `DB_Object_Name ::= xxxx`
-4. `DB_Object_Synonyms ::= [Label] ('|' Label)*`
-5. `DB_Object_Type ::= Type_Symbol`
-6. `DB_Object_Taxon ::= Taxon_ID`
-7. `Parent_ObjectID ::= [ID??] ('|' ID)*`
-8. `DB_Xrefs ::= [ID??] ('|' ID)*`
-9. `Properties ::= [Property_Value] (',' Property_Value)*`
+1. `DB ::= Prefix`
+2. `DB_Object_ID ::= Local_ID`
+3. `DB_Object_Symbol ::= xxxx`
+4. `DB_Object_Name ::= xxxx`
+5. `DB_Object_Synonyms ::= [Label] ('|' Label)*`
+6. `DB_Object_Type ::= Type_Symbol`
+7. `DB_Object_Taxon ::= Taxon_ID`
+8. `Parent_ObjectID ::= [ID??] ('|' ID)*`
+9. `DB_Xrefs ::= [ID??] ('|' ID)*`
+10. `Properties ::= [Property_Value] (',' Property_Value)*`
 
 The ID for the entity is formed as follows:
 
@@ -387,7 +388,7 @@ interconverting between the two.
 
 The following mappings describe how GAF-2 columns map to GPAD/GPI
 
-1. `DB --> GPAD-c1 & GPI-Header` 
+1. `DB --> GPAD-c1 & GPI-Header`
 2. `DB_Object_ID --> GPAD-c2 & GPI-c1`
 3. `DB_Object_Symbol --> GPI-c3`
 4. `Qualifiers --> GPAD-c3` (see notes below)
@@ -446,7 +447,7 @@ defaults are chosen:
  * enables (molecular functon)
 
 If a NOT modifer is present, then this is also included (separated by
-'|'). 
+'|').
 
 If the following relations are present in the GAF, they are used in
 the GPAD document as-is:
