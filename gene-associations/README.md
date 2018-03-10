@@ -9,7 +9,7 @@ zgrep -c "^\![[:space:]]\?gaf[-_]ver" *.gz | grep 2
 zgrep "^\![[:space:]]\?gaf_ver" *.gz
 ```
 
-Header to ensure:
+Header to ensure IN THE CASE OF ADDING A NEW HEADER:
 ```
 !gaf-version: 2.1
 !
