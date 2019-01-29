@@ -2,11 +2,13 @@
 ## Abstract
 This document specifies the syntax of Gene Product Annotation Data (GPAD) and Gene Product Information (GPI) formats. GPAD describes the relationships between biological entities (such as gene products) and biological descriptors (such as GO terms). GPI describes the biological entities.
 ## Status
-This is a working draft, for comment by the community.
-Date: 2019-01-29 (from Montreal 2019)
+This is a working draft, that will be for comment by the community.
+
+Date: 2019-01-29 (GoogleDoc from Montreal 2019)
+
 Comments should be sent to go-discuss@geneontology.org
 
-## Columns
+## GPAD Columns
 
  Each of these columns has its own syntax, as specified below:
 1. ID ::= DB Prefix ':' Local_ID    
@@ -30,6 +32,24 @@ Comments should be sent to go-discuss@geneontology.org
 
     Property_Value  ::= (AnyChar - ('=' | '|' | nl))
     
-    ## Headers 
+## Headers 
     
-    need to be standard
+need to be standard
+    
+# GPI 2.0 Specs 
+## Columns
+
+1. ID ::= DB Prefix ':' Local_ID 
+2. DB_Object_Symbol ::= xxxx
+3. DB_Object_Name ::= xxxx
+4. DB_Object_Synonyms ::= [Label] ('|' Label)*
+5. DB_Object_Type ::= OBO_ID
+6. DB_Object_Taxon ::= NCBI:txid[Taxon_ID]
+7. Parent_ObjectID ::= [ID??] ('|' ID)*
+8. DB_Xrefs ::= [ID??] ('|' ID)*
+9. Properties ::= [Property_Value] (',' Property_Value)*
+
+## Headers 
+    
+need to be standard
+    
