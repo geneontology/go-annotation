@@ -63,7 +63,7 @@ need to be standard
 4 | DB_Object_Synonyms ::= [Label] ('\|' Label)*     | 
 5 | DB_Object_Type ::= OBO_ID     | 
 6 | DB_Object_Taxon ::= NCBI:txid[Taxon_ID]     |  As for GPAD, will this break too many things?
-7 | Parent_ObjectID ::= [ID] ('\|' ID)* .     |  Need to be clear on what is meant by 'parent'.  Also, what is meant by the pipe here?
+7 | Parent_ObjectID ::= [ID] ('\|' ID)*      |  Need to be clear on what is meant by 'parent'.  Also, what is meant by the pipe here?
 8 | DB_Xrefs ::= [ID] ('\|' ID)*      |  Also need to be clear on what is required, e.g. MOD gene IDs xref to UniProtKB GCRP.
 9 | Properties ::= [Property_Value_Pair] (',' Property_Value_Pair)*     | 
 
