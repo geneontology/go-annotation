@@ -1,3 +1,13 @@
+----
+
+## On this page
+{:.no_toc}
+
+- TOC
+{:toc}
+
+----
+
 # Proposed specifications for Gene Ontology Consortium GPAD and GPI tabular formats version 2.0
 
 ## Abstract
