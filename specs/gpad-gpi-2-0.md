@@ -9,17 +9,17 @@ This is a working draft, intended for comment by the community.
 Comments should be sent to go-discuss AT geneontology.org
 
 ## Summary of changes relative to 1.2
-  - columns 1 and 2 are now combined in both GPAD and GPI to form a single column containing an id in CURIE syntax, e.g. UniProtKB:P56704
-  - In GPAD, negation is captured in a separate column, column 2, using the text string 'NOT'
-  - In GPAD, the gene product-to-term relation captured in column 3 now uses a Relations Ontology (RO) identifier instead of a text string
-  - In GPAD, the Reference column, column 5, is now a single value field.
-  - In GPAD, the With/From column, column 7, may contain identifiers separated by commas as well as pipes.
-  - In GPAD and GPI - anything to change about taxon id, i.e. NCBITaxon:6239
-  - In GPAD, Annotation_Extensions in column 11 use a Relation_ID, rather than a Relation_Symbol, in the Relational_Expression.
-  - GPAD Standard set of properties: ##Still need to agree on these
-  - In GPI, the entity type in column 6 is capture using an ID from the Molecular Sequence Ontology.  
-  - GPI properties:  ##Still need to agree on these
-  - file names: \*.gpad and \*.gpi 
+  ### - columns 1 and 2 are now combined in both GPAD and GPI to form a single column containing an id in CURIE syntax, e.g. UniProtKB:P56704
+  ### - In GPAD, negation is captured in a separate column, column 2, using the text string 'NOT'
+  ### - In GPAD, the gene product-to-term relation captured in column 3 now uses a Relations Ontology (RO) identifier instead of a text string
+  ### - In GPAD, the Reference column, column 5, is now a single value field.
+  ### - In GPAD, the With/From column, column 7, may contain identifiers separated by commas as well as pipes.
+  ### - In GPAD and GPI - anything to change about taxon id, i.e. NCBITaxon:6239
+  ### - In GPAD, Annotation_Extensions in column 11 use a Relation_ID, rather than a Relation_Symbol, in the Relational_Expression.
+  ### - GPAD Standard set of properties: ##Still need to agree on these
+  ### - In GPI, the entity type in column 6 is capture using an ID from the Molecular Sequence Ontology.  
+  ### - GPI properties:  ##Still need to agree on these
+  ### - file names: \*.gpad and \*.gpi 
   
 # Outline
 
@@ -36,8 +36,6 @@ syntax, the second defines GPI syntax.
 This document uses only a very simple form of UML class diagrams that
 are expected to be easily understandable by readers familiar with the
 basic concepts of object-oriented systems.
-
-*TODO* - move UML elsewhere
 
 ### BNF Notation
 
@@ -180,25 +178,27 @@ Each annotation is on a separate line of tab separated values:
 
  Each of these columns has its own syntax, as specified below:
  
- Column 	| Content 	| Comments
---------|----------|-----------
- 1 | DB_Object_ID ::= ID   |   
- 2 | Negation ::= 'NOT'     | 
- 3 | Relation ::= OBO_ID        | 
- 4 | Ontology_Class_ID ::= OBO_ID     | 
- 5 | Reference ::= ID      | 
- 6 | Evidence_type ::= OBO_ID     | 
- 7 | With_or_From ::= [ID] ('\|' \| ‘,’ ID)*     | 
- 8 | Interacting_taxon_ID ::= NCBITaxon:[Taxon_ID] |
- 9 | Date ::= YYYY-MM-DD     | 
-10 | Assigned_by ::= Prefix     | 
-11 | Annotation_Extensions ::= [Extension_Conj] ('\|' Extension_Conj)*       |   
-12 | Annotation_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)*     | 
+ Column 	| Content 	| Ontology  | Cardinality | Example ID
+--------|----------|----------- | -------------- | ----------|
+ 1 | DB_Object_ID ::= ID | | 1 | UniProtKB:P11678 |
+ 2 | Negation ::= 'NOT' | | 0 or 1 | NOT |
+ 3 | Relation ::= OBO_ID | Relations Ontology | 1 | RO:0002263 |
+ 4 | Ontology_Class_ID ::= OBO_ID | Gene Ontology | 1 | GO:0050803 |
+ 5 | Reference ::= ID | | 1 | PMID:30695063 |
+ 6 | Evidence_type ::= OBO_ID | Evidence and Conclusion Ontology | 1 | ECO:0000315 |  
+ 7 | With_or_From ::= [ID] ('\|' \| ‘,’ ID)* | | 0 or greater | WB:WBVar00000510 |
+ 8 | Interacting_taxon_ID ::= NCBITaxon:[Taxon_ID] | | 0 or greater | NCBITaxon:5476 |
+ 9 | Date ::= YYYY-MM-DD | | 1 | 2019-01-30 | 
+10 | Assigned_by ::= Prefix | | 1 | MGI |
+11 | Annotation_Extensions ::= [Extension_Conj] ('\|' Extension_Conj)* | | 0 or greater | BFO:0000066 |   
+12 | Annotation_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* | | 0 or greater | contributor=https://orcid.org/0000-0002-1478-7671 |
 
 Extension_Conj ::= [Relational_Expression] (',' Relational_Expression)*
+
 Relational_Expression ::= Relation_ID '(' ID ')'
 
 Property_Value_Pair ::= Property_Symbol '=' Property_Value
+
 Property_Value  ::= (AnyChar - ('=' | '|' | nl))
     
     
