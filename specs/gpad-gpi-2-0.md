@@ -24,7 +24,7 @@ Comments should be sent to go-discuss AT geneontology.org
     Annotation_Complete (Date), slim/subset type of thing
   - file names: *.gpa (also accepted *.gpad) and *.gpi ##Are we just going with .gpad and .gpi?
   
-### Outline
+# Outline
 
 We first start with some preliminary definitions, including a
 description of the notation used in this specification.
@@ -143,11 +143,10 @@ This is illustrated in the following UML diagram:
 
 ### GPAD Headers
 
-
 A header consists of an obligatory format version declaration followed
 by zero or more metadata lines:
 
-    GPAD_Header ::= '!gpa-version: 1.1' nl
+    GPAD_Header ::= '!gpa-version: 2.0' nl
                     GPAD_Header_Line*
 
 Each metadata line starts with an exclamation mark '!'. One mark
@@ -193,7 +192,7 @@ Each annotation is on a separate line of tab separated values:
  5 | Reference ::= ID      | 
  6 | Evidence_type ::= OBO_ID     | 
  7 | With_or_From ::= [ID] ('\|' \| ‘,’ ID)*     | 
- 8 | Interacting_taxon_ID ::= NCBI:txid[Taxon_ID] | Will this break too many things?
+ 8 | Interacting_taxon_ID ::= NCBI:txid[Taxon_ID] | Will this break too many things if we make this a CURIE?
  9 | Date ::= YYYYMMDD     | 
 10 | Assigned_by ::= Prefix     | 
 11 | Annotation_Extensions ::= [Extension_Conj] ('\|' Extension_Conj)*       |   
@@ -205,12 +204,38 @@ Relational_Expression ::= Relation_ID '(' ID ')'
 Property_Value_Pair ::= Property_Symbol '=' Property_Value
 Property_Value  ::= (AnyChar - ('=' | '|' | nl))
     
-## Headers 
-    
-need to be standard
     
 # GPI 2.0 Specs 
-## Columns
+
+## GPI Headers
+
+A header consists of an obligatory format version declaration followed
+by an obligator database declaration then zero or more lines starting
+with an exclamation point:
+
+    GPI_Header ::= '!gpi-version: 1.1' nl
+                   '!namespace: ' Prefix nl
+                   Header_Line*
+
+Each metadata line starts with an exclamation mark '!'. One mark
+indicates a structured tag-value pair, two marks indicates free text.
+
+    GPI_Header_Line ::=
+       '!' Property_Symbol ':' Space* Value nl |
+       '!!' (Char - nl)* nl
+       
+## GP Entities
+
+A GP entity is any biological entity that can be annotated using GPAD
+
+![image](gpi-uml.png)
+
+Each entity is written on a separate line of tab separated values:
+
+    Entity ::= Col_1 tab Col_2 tab ... Col_9 nl
+       
+## GPI Columns
+
  Column 	| Content 	| Comments
 --------|----------|-----------
 1 | DB_Object_ID ::= ID      | 
@@ -218,12 +243,10 @@ need to be standard
 3 | DB_Object_Name ::= xxxx     | 
 4 | DB_Object_Synonyms ::= [Label] ('\|' Label)*     | 
 5 | DB_Object_Type ::= OBO_ID     | 
-6 | DB_Object_Taxon ::= NCBI:txid[Taxon_ID]     |  As for GPAD, will this break too many things?
-7 | Parent_ObjectID ::= [ID] ('\|' ID)*      |  Need to be clear on what is meant by 'parent'.  Also, what is meant by the pipe here?
+6 | DB_Object_Taxon ::= NCBI:txid[Taxon_ID]     |  As for GPAD, will making this a CURIE break too many things?
+7 | Parent_ObjectID ::= [ID] ('\|' ID)*      |  Need to be clear on what is meant by 'parent'.  Also, what is intended by the pipe here?
 8 | DB_Xrefs ::= [ID] ('\|' ID)*      |  Also need to be clear on what is required, e.g. MOD gene IDs xref to UniProtKB GCRP.
 9 | Properties ::= [Property_Value_Pair] (',' Property_Value_Pair)*     | 
 
-## Headers 
-    
-need to be standard
+
     
