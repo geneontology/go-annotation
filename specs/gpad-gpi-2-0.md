@@ -57,8 +57,6 @@ need to be standard
 ## Columns
  Column 	| Content 	| Comments
 --------|----------|-----------
-
-
 1 | DB_Object_ID ::= ID      | 
 2 | DB_Object_Symbol ::= xxxx     | 
 3 | DB_Object_Name ::= xxxx     | 
