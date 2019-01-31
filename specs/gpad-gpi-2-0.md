@@ -1,6 +1,30 @@
 
 # Proposed specifications for Gene Ontology Consortium GPAD and GPI tabular formats version 2.0
 
+Table of contents
+  * [Abstract](#abstract)
+  * [Status](#status)
+  * [Summary of changes relative to 1.2](#summary-of-changes-relative-to-12)
+- [Outline](#outline)
+  * [Preliminary Definitions](#preliminary-definitions)
+    + [UML Notation](#uml-notation)
+    + [BNF Notation](#bnf-notation)
+    + [Basic Characters](#basic-characters)
+    + [Spacing Characters](#spacing-characters)
+    + [Identifiers](#identifiers)
+    + [GO database registry](#go-database-registry)
+    + [Property Symbols](#property-symbols)
+    + [Dates](#dates)
+- [GPAD Syntax](#gpad-syntax)
+    + [GPAD Document Structure](#gpad-document-structure)
+    + [GPAD Headers](#gpad-headers)
+    + [Annotations](#annotations)
+  * [GPAD columns](#gpad-columns)
+- [GPI 2.0 Specs](#gpi-20-specs)
+  * [GPI Headers](#gpi-headers)
+  * [GP Entities](#gp-entities)
+  * [GPI Columns](#gpi-columns)
+  
 ## Abstract
 This document specifies the syntax of Gene Product Annotation Data (GPAD) and Gene Product Information (GPI) formats. GPAD describes the relationships between biological entities (such as gene products) and biological descriptors (such as GO terms). GPI describes the biological entities.
 
