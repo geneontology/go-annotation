@@ -257,17 +257,17 @@ Each entity is written on a separate line of tab separated values:
        
 ## GPI Columns
 
- Column 	| Content 	| Comments
---------|----------|-----------
-1 | DB_Object_ID ::= ID      | 
-2 | DB_Object_Symbol ::= xxxx     | 
-3 | DB_Object_Name ::= xxxx     | 
-4 | DB_Object_Synonyms ::= [Label] ('\|' Label)*     | 
-5 | DB_Object_Type ::= OBO_ID     | 
-6 | DB_Object_Taxon ::= NCBITaxon:[Taxon_ID]     |  
-7 | Parent_ObjectID ::= [ID] ('\|' ID)*      |  Need to be clear on what is meant by 'parent'.  Also, what is intended by the pipe here?
-8 | DB_Xrefs ::= [ID] ('\|' ID)*      |  Also need to be clear on what is required, e.g. MOD gene IDs xref to UniProtKB GCRP.
-9 | Properties ::= [Property_Value_Pair] (',' Property_Value_Pair)*     | 
+ Column 	| Content 	| Ontology  | Cardinality | Example ID | Comments
+--------|----------|-----------|-----------|-----------|-----------|
+1 | DB_Object_ID ::= ID      | | | | |
+2 | DB_Object_Symbol ::= xxxx      | | | | |
+3 | DB_Object_Name ::= xxxx      | | | | | 
+4 | DB_Object_Synonyms ::= [Label] ('\|' Label)*     | | | | | 
+5 | DB_Object_Type ::= OBO_ID      | | | | | 
+6 | DB_Object_Taxon ::= NCBITaxon:[Taxon_ID]     || | | |  
+7 | Parent_ObjectID ::= [ID] ('\|' ID)*      | | |  | Need to be clear on what is meant by 'parent'.  Also, what is intended by the pipe here?|
+8 | DB_Xrefs ::= [ID] ('\|' ID)*      | | | |  Also need to be clear on what is required, e.g. MOD gene IDs xref to UniProtKB GCRP.| 
+9 | Properties ::= [Property_Value_Pair] (',' Property_Value_Pair)*      | | | | |
 
 
     
