@@ -259,15 +259,15 @@ Each entity is written on a separate line of tab separated values:
 
  Column 	| Content 	| Ontology  | Cardinality | Example ID | Comments
 --------|----------|-----------|-----------|-----------|-----------|
-1 | DB_Object_ID ::= ID      | | | | |
-2 | DB_Object_Symbol ::= xxxx      | | | | |
-3 | DB_Object_Name ::= xxxx      | | | | | 
-4 | DB_Object_Synonyms ::= [Label] ('\|' Label)*     | | | | | 
-5 | DB_Object_Type ::= OBO_ID      | | | | | 
-6 | DB_Object_Taxon ::= NCBITaxon:[Taxon_ID]     || | | |  
+1 | DB_Object_ID ::= ID      | | 1 | UniProtKB:Q4VCS5 | |
+2 | DB_Object_Symbol ::= xxxx      | | 1 | AMOT | |
+3 | DB_Object_Name ::= xxxx      | | 0 or greater | Angiomotin | | 
+4 | DB_Object_Synonyms ::= [Label] ('\|' Label)*     | | 0 or greater | AMOT\|KIAA1071 | | 
+5 | DB_Object_Type ::= OBO_ID      | | 1 | protein | | 
+6 | DB_Object_Taxon ::= NCBITaxon:[Taxon_ID]     || 1 |  NCBITaxon:9606 | |  
 7 | Parent_ObjectID ::= [ID] ('\|' ID)*      | | |  | Need to be clear on what is meant by 'parent'.  Also, what is intended by the pipe here?|
-8 | DB_Xrefs ::= [ID] ('\|' ID)*      | | | |  Also need to be clear on what is required, e.g. MOD gene IDs xref to UniProtKB GCRP.| 
-9 | Properties ::= [Property_Value_Pair] (',' Property_Value_Pair)*      | | | | |
+8 | DB_Xrefs ::= [ID] ('\|' ID)*      | | 0 or greater | |  Also need to be clear on what is required, e.g. MOD gene IDs xref to UniProtKB GCRP.| 
+9 | Properties ::= [Property_Value_Pair] (',' Property_Value_Pair)*      | | 0 or greater | db_subset=Swiss-Prot  | |
 
 
     
