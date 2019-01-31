@@ -146,7 +146,7 @@ A Date is equivalent to an
 [xsd:date](http://www.w3.org/TR/xmlschema11-2/#date), and inherits the
 same semantics and constraints.
 
-## GPAD Syntax
+# GPAD Syntax
 
 ### GPAD Document Structure
 
