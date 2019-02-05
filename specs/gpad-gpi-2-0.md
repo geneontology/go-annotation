@@ -220,7 +220,7 @@ Each annotation is on a separate line of tab separated values:
  6 | Evidence_type ::= OBO_ID | Evidence and Conclusion Ontology | 1 | ECO:0000315 |  
  7 | With_or_From ::= [ID] ('\|' \| ‘,’ ID)* | | 0 or greater | WB:WBVar00000510 |
  8 | Interacting_taxon_ID ::= NCBITaxon:[Taxon_ID] | | 0 or greater | NCBITaxon:5476 |
- 9 | Date ::= YYYY-MM-DD | | 1 | 2019-01-30 | 
+ 9 | Date ::= YYYY-MM-DD | | 1 | 2019-01-30 |  
 10 | Assigned_by ::= Prefix | | 1 | MGI |
 11 | Annotation_Extensions ::= [Extension_Conj] ('\|' Extension_Conj)* | | 0 or greater | BFO:0000066 |   
 12 | Annotation_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* | | 0 or greater | contributor=https://orcid.org/0000-0002-1478-7671 |
@@ -233,9 +233,22 @@ Property_Value_Pair ::= Property_Symbol '=' Property_Value
 
 Property_Value  ::= (AnyChar - ('=' | '|' | nl))
 
-Annotation_Property_Symbol 	| Property_Value 	| Cardinality | Example ID
---------|----------|----------- | -------------- |
-    
+### GPAD Annotation Properties (Proposed)
+
+Annotation_Property_Symbol | Property_Value | Cardinality | Example | Semantics 
+---------------------------|----------------|------------ | ------- | --------- |
+ id | unique database identifier | 0 or 1 | 2113482942 | id=2113482942 | |
+ go_evidence | three-letter GO code | 0 or 1 | go_evidence=IMP | |
+ model-state | GO-CAM model state | 0 or 1 | model-state=production | |
+ noctua-model-id | unique GO-CAM model id | 0 or greater | noctua-model-id=gomodel:5a7e68a100001078 | |
+ curator_name | text | 0 or 1 | Kimberly Van Auken | Used by UniProtKB to indicate name of curator who last changed an annotation 
+ curator_uri | ORCID | 0 or 1 | curator_uri=https://orcid.org/0000-0002-1706-4196 | Used by UniProtKB to indicate ORCID of curator who last changed an annotation
+ contributor | ORCID | 0 or greater | contributor=https://orcid.org/0000-0002-1706-4196 | Used by GOC to indicate ORCID of curator or user who entered or last changed an annotation (SynGO lists multiple ORCIDs - what is the intended meaning?)
+ reviewer | ORCID | 0 or greater | reviewer=http://orcid.org/0000-0001-7476-6306 | Used by GOC to indicate ORCID of curator or user who last reviewed an annotation
+ creation_date | YYYY-MM-DD | 0 or 1 | 2019-02-05 | The date on which the annotation was created.
+ modification_date | YYYY-MM-DD | 0 or greater | 2019-02-06 | The date(s) on which an annotation was modified.
+ reviewed_date | YYYY-MM-DD | 0 or greater | 2019-02-06 | The date(s) on which the annotation was reviewed.
+ annotation_note | text | 0 or greater | Confirmed species by checking PMID:nnnnnnnn. | Free-text field that allows curators or users to enter notes about a specific annotation.  
     
 # GPI 2.0 Specs 
 
