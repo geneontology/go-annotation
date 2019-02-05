@@ -187,6 +187,7 @@ Groups may decide to include additional information. Examples include:
 
  * Project_name: E.g. SGD
  * URL: E.g. http://www.yeastgenome.org/
+ * Project_release: e.g. WS275
  * Funding: e.g. NHGRI
  * Columns: file format written out
  * Date: an ISO-8601 formatted date describing when the file was produced
@@ -235,20 +236,21 @@ Property_Value  ::= (AnyChar - ('=' | '|' | nl))
 
 ### GPAD Annotation Properties (Proposed)
 
-Annotation_Property_Symbol | Property_Value | Cardinality | Example | Semantics 
+Annotation_Property_Symbol | Property_Value | Cardinality (if used) | Example | Semantics 
 ---------------------------|----------------|------------ | ------- | --------- |
- id | unique database identifier | 0 or 1 | 2113482942 | id=2113482942 | |
- go_evidence | three-letter GO code | 0 or 1 | go_evidence=IMP | |
- model-state | GO-CAM model state | 0 or 1 | model-state=production | |
- noctua-model-id | unique GO-CAM model id | 0 or greater | noctua-model-id=gomodel:5a7e68a100001078 | |
- curator_name | text | 0 or 1 | Kimberly Van Auken | Used by UniProtKB to indicate name of curator who last changed an annotation 
- curator_uri | ORCID | 0 or 1 | curator_uri=https://orcid.org/0000-0002-1706-4196 | Used by UniProtKB to indicate ORCID of curator who last changed an annotation
- contributor | ORCID | 0 or greater | contributor=https://orcid.org/0000-0002-1706-4196 | Used by GOC to indicate ORCID of curator or user who entered or last changed an annotation (SynGO lists multiple ORCIDs - what is the intended meaning?)
- reviewer | ORCID | 0 or greater | reviewer=http://orcid.org/0000-0001-7476-6306 | Used by GOC to indicate ORCID of curator or user who last reviewed an annotation
- creation_date | YYYY-MM-DD | 0 or 1 | 2019-02-05 | The date on which the annotation was created.
- modification_date | YYYY-MM-DD | 0 or greater | 2019-02-06 | The date(s) on which an annotation was modified.
- reviewed_date | YYYY-MM-DD | 0 or greater | 2019-02-06 | The date(s) on which the annotation was reviewed.
- annotation_note | text | 0 or greater | Confirmed species by checking PMID:nnnnnnnn. | Free-text field that allows curators or users to enter notes about a specific annotation.  
+ id | unique database identifier | 1 | 2113482942 | id=2113482942 | |
+ go_evidence | three-letter GO code | 1 | go_evidence=IMP | |
+ model-state | GO-CAM model state | 1 | model-state=production | |
+ noctua-model-id | unique GO-CAM model id | 1 or greater | noctua-model-id=gomodel:5a7e68a100001078 | |
+ curator_name | text | 1 | Kimberly Van Auken | Used by UniProtKB to indicate name of curator who last changed an annotation 
+ curator_uri | ORCID | 1 | curator_uri=https://orcid.org/0000-0002-1706-4196 | Used by UniProtKB to indicate ORCID of curator who last changed an annotation
+ contributor | ORCID | 1 | contributor=https://orcid.org/0000-0002-1706-4196 | Used by GOC to indicate ORCID of curator or user who entered or last changed an annotation (SynGO lists multiple ORCIDs - what is the intended meaning?)
+ reviewer | ORCID | 1 | reviewer=http://orcid.org/0000-0001-7476-6306 | Used by GOC to indicate ORCID of curator or user who last reviewed an annotation
+ creation_date | YYYY-MM-DD | 1 | 2019-02-05 | The date on which the annotation was created.
+ modification_date | YYYY-MM-DD | 1 | 2019-02-06 | The date(s) on which an annotation was modified.
+ reviewed_date | YYYY-MM-DD | 1 | 2019-02-06 | The date(s) on which the annotation was reviewed.
+ annotation_note | text | 1 | Confirmed species by checking PMID:nnnnnnnn. | Free-text field that allows curators or users to enter notes about a specific annotation.  
+
     
 # GPI 2.0 Specs 
 
@@ -268,6 +270,23 @@ indicates a structured tag-value pair, two marks indicates free text.
     GPI_Header_Line ::=
        '!' Property_Symbol ':' Space* Value nl |
        '!!' (Char - nl)* nl
+      
+The list of allowed property symbols is open-ended, however several
+properties are required:
+
+ * mso_version: PURL
+ * gpi_date: YYYY-MM-DD (but see below)
+
+Groups may decide to include additional information. Examples include:
+
+ * Project_name: E.g. SGD
+ * URL: E.g. http://www.yeastgenome.org/
+ * Project_release: e.g. WS275
+ * Funding: e.g. NHGRI
+ * Columns: file format written out
+ * DB_Object_Type information, e.g. DB_Object_Type = "gene", DB = "MGI", DB_Object_ID = "MGI:xxxx"
+ * Date: an ISO-8601 formatted date describing when the file was produced
+ (Generated: YYYY-MM-DD 00:00 has also been used here; need to standardize)
        
 ## GP Entities
 
@@ -278,7 +297,8 @@ A GP entity is any biological entity that can be annotated using GPAD
 Each entity is written on a separate line of tab separated values:
 
     Entity ::= Col_1 tab Col_2 tab ... Col_9 nl
-       
+    
+    
 ## GPI Columns
 
  Column 	| Content 	| Ontology  | Cardinality | Example ID | Comments
@@ -288,10 +308,21 @@ Each entity is written on a separate line of tab separated values:
 3 | DB_Object_Name ::= xxxx      | | 0 or greater | Angiomotin | | 
 4 | DB_Object_Synonyms ::= [Label] ('\|' Label)*     | | 0 or greater | AMOT\|KIAA1071 | | 
 5 | DB_Object_Type ::= OBO_ID      | Molecular Sequence Ontology | 1 | MSO:3100254 | | 
-6 | DB_Object_Taxon ::= NCBITaxon:[Taxon_ID]     || 1 |  NCBITaxon:9606 | |  
-7 | Parent_ObjectID ::= [ID] ('\|' ID)*      | | |  | Need to be clear on what is meant by 'parent'.  Also, what is intended by the pipe here?|
-8 | DB_Xrefs ::= [ID] ('\|' ID)*      | | 0 or greater | |  Also need to be clear on what is required, e.g. MOD gene IDs xref to UniProtKB GCRP.| 
-9 | Properties ::= [Property_Value_Pair] (',' Property_Value_Pair)*      | | 0 or greater | db_subset=Swiss-Prot  | |
+6 | DB_Object_Taxon ::= NCBITaxon:[Taxon_ID] || 1 |  NCBITaxon:9606 | |  
+7 | Parent_ObjectID ::= [ID] ('\|' ID)* | | |  | Need to be clear on what is meant by 'parent'.  Also, what is intended by the pipe here?|
+8 | DB_Xrefs ::= [ID] ('\|' ID)* | | 0 or greater | |  Also need to be clear on what is required, e.g. MOD gene IDs xref to UniProtKB GCRP.| 
+9 | Gene_Product_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* |  | 0 or greater | db_subset=Swiss-Prot  | |
+
+Property_Value_Pair ::= Property_Symbol '=' Property_Value
+
+Property_Value  ::= (AnyChar - ('=' | '|' | nl))
 
 
-    
+### GPI Gene Product Properties (Proposed)
+
+Annotation_Property_Symbol | Property_Value | Cardinality (if used) | Example | Semantics 
+---------------------------|----------------|------------ | ------- | --------- |
+db_subset | TrEMBL or Swiss-Prot | 1 | db_subset=TrEMBL | The status of a UniProtKB accession with respect to curator review.
+uniprot_proteome | identifier  | 1 | uniprot_proteome=UP000001940 | A unique UniProtKB identifier for the set of proteins that constitute an organism's proteome.
+go_annotation_complete | YYYY-MM-DD | 1| 2019-02-05 | Indicates the date on which a curator determined that the set of GO annotations for a given entity is complete with respect to GO annotation.  Complete means that all information about a gene has been captured as a GO term, but not necessarily that all possible supporting evidence is annotated.
+go_annotation_summary | text | 1 | go_annotation_summary=Sterol binding protein with a role in intracellular sterol transport; localizes to mitochondria and the cortical ER | A textual gene or gene product description.
