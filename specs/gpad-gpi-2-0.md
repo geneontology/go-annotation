@@ -38,12 +38,11 @@ Comments should be sent to go-discuss AT geneontology.org
   ### - In GPAD, the gene product-to-term relation captured in column 3 now uses a Relations Ontology (RO) identifier instead of a text string
   ### - In GPAD, the Reference column, column 5, is now a single value field.
   ### - In GPAD, the With/From column, column 7, may contain identifiers separated by commas as well as pipes.
-  ### - In GPAD and GPI - anything to change about taxon id, i.e. NCBITaxon:6239
+  ### - In GPAD and GPI, NCBI taxon ids are prefixed with 'NCBITaxon:' to indicate the source of the id, e.g. NCBITaxon:6239
   ### - In GPAD, Annotation_Extensions in column 11 use a Relation_ID, rather than a Relation_Symbol, in the Relational_Expression.
-  ### - GPAD Standard set of properties: ##Still need to agree on these
-  ### - In GPI, the entity type in column 6 is capture using an ID from the Molecular Sequence Ontology.  
-  ### - GPI properties:  ##Still need to agree on these
-  ### - file names: \*.gpad and \*.gpi 
+  ### - In GPAD, the date is now in the format: YYYY-MM-DD (i.e. dashes between year, month, and day)
+  ### - In GPI, the entity type in column 6 is captured using an ID from the Molecular Sequence Ontology.  
+  ### - Extensions in file names are: \*.gpad and \*.gpi 
   
 # Outline
 
@@ -175,14 +174,23 @@ indicates a structured tag-value pair, two marks indicates free text.
        '!' Property_Symbol ':' Space* Value nl |
        '!!' (Char - nl)* nl
 
-The list of allowed property symbols is open-ended and outside the
-scope of this specification. Different groups may decide on their own
-conventions. Examples include:
+The list of allowed property symbols is open-ended, however several
+properties are required:
+
+ * go_version: PURL
+ * ro_version: PURL
+ * gorel_version: PURL
+ * eco_version: PURL
+ * gpad_date: YYYY-MM-DD (but see below)
+
+Groups may decide to include additional information. Examples include:
 
  * Project_name: E.g. SGD
  * URL: E.g. http://www.yeastgenome.org/
  * Funding: e.g. NHGRI
+ * Columns: file format written out
  * Date: an ISO-8601 formatted date describing when the file was produced
+ (Generated: YYYY-MM-DD 00:00 has also been used here; need to standardize)
 
 ### Annotations
 
@@ -224,6 +232,9 @@ Relational_Expression ::= Relation_ID '(' ID ')'
 Property_Value_Pair ::= Property_Symbol '=' Property_Value
 
 Property_Value  ::= (AnyChar - ('=' | '|' | nl))
+
+Annotation_Property_Symbol 	| Property_Value 	| Cardinality | Example ID
+--------|----------|----------- | -------------- |
     
     
 # GPI 2.0 Specs 
@@ -263,7 +274,7 @@ Each entity is written on a separate line of tab separated values:
 2 | DB_Object_Symbol ::= xxxx      | | 1 | AMOT | |
 3 | DB_Object_Name ::= xxxx      | | 0 or greater | Angiomotin | | 
 4 | DB_Object_Synonyms ::= [Label] ('\|' Label)*     | | 0 or greater | AMOT\|KIAA1071 | | 
-5 | DB_Object_Type ::= OBO_ID      | | 1 | protein | | 
+5 | DB_Object_Type ::= OBO_ID      | Molecular Sequence Ontology | 1 | MSO:3100254 | | 
 6 | DB_Object_Taxon ::= NCBITaxon:[Taxon_ID]     || 1 |  NCBITaxon:9606 | |  
 7 | Parent_ObjectID ::= [ID] ('\|' ID)*      | | |  | Need to be clear on what is meant by 'parent'.  Also, what is intended by the pipe here?|
 8 | DB_Xrefs ::= [ID] ('\|' ID)*      | | 0 or greater | |  Also need to be clear on what is required, e.g. MOD gene IDs xref to UniProtKB GCRP.| 
