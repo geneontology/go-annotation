@@ -309,7 +309,7 @@ Each entity is written on a separate line of tab separated values:
 4 | DB_Object_Synonyms ::= [Label] ('\|' Label)*     | | 0 or greater | AMOT\|KIAA1071 | | 
 5 | DB_Object_Type ::= OBO_ID      | Molecular Sequence Ontology | 1 | MSO:3100254 | | 
 6 | DB_Object_Taxon ::= NCBITaxon:[Taxon_ID] || 1 |  NCBITaxon:9606 | |  
-7 | Parent_ObjectID ::= [ID] ('\|' ID)* | | |  | Need to be clear on what is meant by 'parent'.  Also, what is intended by the pipe here?|
+7 | Parent_ObjectID ::= [ID] ('\|' ID)* | | 1 |  | Need to be clear on what is meant by 'parent'.  Also, what is intended by the pipe here?|
 8 | DB_Xrefs ::= [ID] ('\|' ID)* | | 0 or greater | |  Also need to be clear on what is required, e.g. MOD gene IDs xref to UniProtKB GCRP.| 
 9 | Gene_Product_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* |  | 0 or greater | db_subset=Swiss-Prot  | |
 
