@@ -132,9 +132,9 @@ of specifying a URI that denotes the actual property used.
 
 ### Dates
 
-Dates are written into what is equivalent to the date portion of ISO-8601, omitting hyphens:
+Dates are written into what is equivalent to the date portion of ISO-8601, keeping hyphens:
 
-    YYYYMMDD ::= Year Month Day_of_month
+    YYYY-MM-DD ::= Year - Month - Day_of_month
     Year ::= digit digit digit digit
     Month ::= digit digit
     Day_of_month ::= digit digit
