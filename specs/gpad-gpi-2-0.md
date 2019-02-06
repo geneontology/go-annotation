@@ -226,13 +226,13 @@ Each annotation is on a separate line of tab separated values:
 11 | Annotation_Extensions ::= [Extension_Conj] ('\|' Extension_Conj)* | | 0 or greater | BFO:0000066 |   
 12 | Annotation_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* | | 0 or greater | contributor=https://orcid.org/0000-0002-1478-7671 |
 
-Extension_Conj ::= [Relational_Expression] (',' Relational_Expression)*
+    Extension_Conj ::= [Relational_Expression] (',' Relational_Expression)*
 
-Relational_Expression ::= Relation_ID '(' ID ')'
+    Relational_Expression ::= Relation_ID '(' ID ')'
 
-Property_Value_Pair ::= Property_Symbol '=' Property_Value
+    Property_Value_Pair ::= Property_Symbol '=' Property_Value
 
-Property_Value  ::= (AnyChar - ('=' | '|' | nl))
+    Property_Value  ::= (AnyChar - ('=' | '|' | nl))
 
 ### GPAD Annotation Properties (Proposed)
 
@@ -313,9 +313,9 @@ Each entity is written on a separate line of tab separated values:
 8 | DB_Xrefs ::= [ID] ('\|' ID)* | | 0 or greater | |  Also need to be clear on what is required, e.g. MOD gene IDs xref to UniProtKB GCRP.| 
 9 | Gene_Product_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* |  | 0 or greater | db_subset=Swiss-Prot  | |
 
-Property_Value_Pair ::= Property_Symbol '=' Property_Value
+    Property_Value_Pair ::= Property_Symbol '=' Property_Value
 
-Property_Value  ::= (AnyChar - ('=' | '|' | nl))
+    Property_Value  ::= (AnyChar - ('=' | '|' | nl))
 
 
 ### GPI Gene Product Properties (Proposed)
