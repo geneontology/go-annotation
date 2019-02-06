@@ -241,11 +241,11 @@ Annotation_Property_Symbol | Property_Value | Cardinality (if used) | Example | 
  id | unique database identifier | 1 | 2113482942 | id=2113482942 | |
  go_evidence | three-letter GO code | 1 | go_evidence=IMP | |
  model-state | GO-CAM model state | 1 | model-state=production | |
- noctua-model-id | unique GO-CAM model id | 1 or greater | noctua-model-id=gomodel:5a7e68a100001078 | |
+ noctua-model-id | unique GO-CAM model id | 1 | noctua-model-id=gomodel:5a7e68a100001078 | |
  curator_name | text | 1 | Kimberly Van Auken | Used by UniProtKB to indicate name of curator who last changed an annotation 
- curator_uri | ORCID | 1 | curator_uri=https://orcid.org/0000-0002-1706-4196 | Used by UniProtKB to indicate ORCID of curator who last changed an annotation
- contributor | ORCID | 1 | contributor=https://orcid.org/0000-0002-1706-4196 | Used by GOC to indicate ORCID of curator or user who entered or last changed an annotation (SynGO lists multiple ORCIDs - what is the intended meaning?)
- reviewer | ORCID | 1 | reviewer=http://orcid.org/0000-0001-7476-6306 | Used by GOC to indicate ORCID of curator or user who last reviewed an annotation
+ curator_uri (curator_id ?) | ORCID | 1 | curator_uri=https://orcid.org/0000-0002-1706-4196 | Used by UniProtKB to indicate ORCID of curator who last changed an annotation
+ contributor (contributor_id ?) | ORCID | 1 | contributor=https://orcid.org/0000-0002-1706-4196 | Used by GOC to indicate ORCID of curator or user who entered or changed an annotation (SynGO lists multiple ORCIDs - what is the intended meaning?)
+ reviewer (reviewer_id ?) | ORCID | 1 | reviewer=http://orcid.org/0000-0001-7476-6306 | Used by GOC to indicate ORCID of curator or user who last reviewed an annotation
  creation_date | YYYY-MM-DD | 1 | 2019-02-05 | The date on which the annotation was created.
  modification_date | YYYY-MM-DD | 1 | 2019-02-06 | The date(s) on which an annotation was modified.
  reviewed_date | YYYY-MM-DD | 1 | 2019-02-06 | The date(s) on which the annotation was reviewed.
