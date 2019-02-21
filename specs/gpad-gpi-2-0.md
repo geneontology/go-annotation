@@ -111,12 +111,12 @@ References are also types of identifier
 
     Reference ::= ID
 
-### GO database registry
+### GO database registry (db-xrefs.yaml)
 
 The [GO database
 registry](https://github.com/geneontology/go-site/blob/master/metadata/db-xrefs.yaml) contains a
 list of valid prefixes that can be used in GPAD or GPI files. Every
-identifier used in a GPAD or GPI file SHOULD have an entry in the
+identifier used in a GPAD or GPI file MUST have an entry in the
 registry.
 
 The combination of prefix plus Local_ID (see previous section)
