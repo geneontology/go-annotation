@@ -229,6 +229,8 @@ Each annotation is on a separate line of tab separated values:
     Extension_Conj ::= [Relational_Expression] (',' Relational_Expression)*
 
     Relational_Expression ::= Relation_ID '(' ID ')'
+    
+    The Relation_ID may be from the Relations Ontology or from the set of GO relations, go_rel.
 
     Property_Value_Pair ::= Property_Symbol '=' Property_Value
 
