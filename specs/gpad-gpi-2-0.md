@@ -41,7 +41,7 @@ Comments should be sent to go-discuss AT geneontology.org
   ### - In GPAD and GPI, NCBI taxon ids are prefixed with 'NCBITaxon:' to indicate the source of the id, e.g. NCBITaxon:6239
   ### - In GPAD, Annotation_Extensions in column 11 use a Relation_ID, rather than a Relation_Symbol, in the Relational_Expression.
   ### - In GPAD, the date is now in the format: YYYY-MM-DD (i.e. dashes between year, month, and day)
-  ### - In GPI, the entity type in column 6 is captured using an ID from the Molecular Sequence Ontology.  
+  ### - In GPI, the entity type in column 6 is captured using an ID from the Sequence Ontology.  
   ### - Extensions in file names are: \*.gpad and \*.gpi 
   
 # Outline
@@ -309,7 +309,7 @@ Each entity is written on a separate line of tab separated values:
 2 | DB_Object_Symbol ::= xxxx      | | 1 | AMOT | |
 3 | DB_Object_Name ::= xxxx      | | 0 or greater | Angiomotin | | 
 4 | DB_Object_Synonyms ::= [Label] ('\|' Label)*     | | 0 or greater | AMOT\|KIAA1071 | | 
-5 | DB_Object_Type ::= OBO_ID      | Molecular Sequence Ontology | 1 | MSO:3100254 | | 
+5 | DB_Object_Type ::= OBO_ID      | Sequence Ontology | 1 | SO:0000104 | | 
 6 | DB_Object_Taxon ::= NCBITaxon:[Taxon_ID] || 1 |  NCBITaxon:9606 | |  
 7 | Parent_ObjectID ::= [ID] ('\|' ID)* | | 1 |  | Need to be clear on what is meant by 'parent'.  Also, what is intended by the pipe here?|
 8 | DB_Xrefs ::= [ID] ('\|' ID)* | | 0 or greater | |  Also need to be clear on what is required, e.g. MOD gene IDs xref to UniProtKB GCRP.| 
