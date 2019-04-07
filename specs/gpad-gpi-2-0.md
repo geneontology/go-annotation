@@ -240,7 +240,7 @@ Each annotation is on a separate line of tab separated values:
 
 Annotation_Property_Symbol | Property_Value | Cardinality (if used) | Example | Semantics 
 ---------------------------|----------------|------------ | ------- | --------- |
- id | unique database identifier | 1 | 2113482942 | id=2113482942 | |
+ id | unique database identifier | 1 | id=2113482942 | Unique identifier for an annotation in a contributing database.  Should be a PURL | |
  go_evidence | three-letter GO code | 1 | go_evidence=IMP | |
  model-state | GO-CAM model state | 1 | model-state=production | |
  noctua-model-id | unique GO-CAM model id | 1 | noctua-model-id=gomodel:5a7e68a100001078 | |
