@@ -217,14 +217,14 @@ Each annotation is on a separate line of tab separated values:
  2 | Negation ::= 'NOT' | | 0 or 1 | NOT |
  3 | Relation ::= OBO_ID | Relations Ontology | 1 | RO:0002263 |
  4 | Ontology_Class_ID ::= OBO_ID | Gene Ontology | 1 | GO:0050803 |
- 5 | Reference ::= ID | | 1 | PMID:30695063 |
+ 5 | Reference ::= ID  ('\|' ID)* | | 1 or greater | PMID:30695063 |
  6 | Evidence_type ::= OBO_ID | Evidence and Conclusion Ontology | 1 | ECO:0000315 |  
- 7 | With_or_From ::= [ID] ('\|' \| ‘,’ ID)* | | 0 or greater | WB:WBVar00000510 |
- 8 | Interacting_taxon_ID ::= NCBITaxon:[Taxon_ID] | | 0 or greater | NCBITaxon:5476 |
+ 7 | With_or_From ::= [ID] ('\|' ID)* | | 0 or greater | WB:WBVar00000510 |
+ 8 | Interacting_taxon_ID ::= NCBITaxon:[Taxon_ID] ('\|' Taxon_ID)*| | 0 or greater | NCBITaxon:5476|NCBITaxon:0053 |
  9 | Date ::= YYYY-MM-DD | | 1 | 2019-01-30 |  
 10 | Assigned_by ::= Prefix | | 1 | MGI |
-11 | Annotation_Extensions ::= [Extension_Conj] ('\|' Extension_Conj)* | | 0 or greater | BFO:0000066 |   
-12 | Annotation_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* | | 0 or greater | contributor=https://orcid.org/0000-0002-1478-7671 |
+11 | Annotation_Extensions ::= [Extension_Conj] ('\|' Extension_Conj)* | | 0 or greater | BFO:0000066|BFO:0000003 |   
+12 | Annotation_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* | | 0 or greater | contributor-id=https://orcid.org/0000-0002-1478-7671|reviewer-id=http://orcid.org/0000-0001-7476-6306 |
 
     Extension_Conj ::= [Relational_Expression] (',' Relational_Expression)*
 
