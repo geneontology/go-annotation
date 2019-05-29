@@ -215,7 +215,7 @@ Each annotation is on a separate line of tab separated values:
 --------|----------|----------- | -------------- | ----------|
  1 | DB_Object_ID ::= ID | | 1 | UniProtKB:P11678 |
  2 | Negation ::= 'NOT' | | 0 or 1 | NOT |
- 3 | Relation ::= OBO_ID | Relations Ontology | 1 | RO:0002263 |
+ 3 | Relation ::= OBO_ID | Relations Ontology (subset, see table below) | 1 | RO:0002263 |
  4 | Ontology_Class_ID ::= OBO_ID | Gene Ontology | 1 | GO:0050803 |
  5 | Reference ::= ID | | 1 | PMID:30695063 |
  6 | Evidence_type ::= OBO_ID | Evidence and Conclusion Ontology | 1 | ECO:0000315 |  
@@ -235,6 +235,23 @@ Each annotation is on a separate line of tab separated values:
     Property_Value_Pair ::= Property_Symbol '=' Property_Value
 
     Property_Value  ::= (AnyChar - ('=' | '|' | nl))
+    
+### Allowed Gene Product to GO Term Relations
+
+GO Aspect 	| Relations Ontology Label  | Relations Ontology ID 
+-----------|---------------------------|----------------------|
+Molecular Function | enables | RO:0002327 |
+Molecular Function | contributes to | RO:0002326 |
+Biological Process | involved in | RO:0002331 |
+Biological Process | acts upstream of | RO:0002263 |
+Biological Process | acts upstream of positive effect | RO:0004034 |
+Biological Process | acts upstream of negative effect | RO:0004035 |
+Biological Process | acts upstream of or within | RO:0002264 |
+Biological Process | acts upstream of or within positive effect | RO:0004032 |
+Biological Process | acts upstream of or within negative effect | RO:0004033 |
+Cellular Component | part of	| BFO:0000050 |
+Cellular Component | colocalizes with | RO:0002325 |
+Cellular Component | is active in | RO:0002432 |
 
 ### GPAD Annotation Properties (Proposed)
 
