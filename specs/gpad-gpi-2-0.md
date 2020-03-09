@@ -166,19 +166,19 @@ indicates a structured tag-value pair, two marks indicates free text.
 The list of allowed property symbols is open-ended, however several
 properties are required:
 
- * generated_by: database listed in dbxrefs.yaml
- * date_generated: YYYY-MM-DD or YYYY-MM-DDTHH:MM
+ * generated-by: database listed in dbxrefs.yaml
+ * date-generated: YYYY-MM-DD or YYYY-MM-DDTHH:MM
 
 Groups may decide to include additional information. Examples include:
 
  * URL: e.g. http://www.yeastgenome.org/
- * Project_release: e.g. WS275
+ * Project-release: e.g. WS275
  * Funding: e.g. NHGRI
  * Columns: file format written out
- * go_version: PURL
- * ro_version: PURL
- * gorel_version: PURL
- * eco_version: PURL
+ * go-version: PURL
+ * ro-version: PURL
+ * gorel-version: PURL
+ * eco-version: PURL
 
 ### Annotations
 
@@ -236,25 +236,23 @@ Biological Process | acts upstream of or within | RO:0002264 |
 Biological Process | acts upstream of or within positive effect | RO:0004032 |
 Biological Process | acts upstream of or within negative effect | RO:0004033 |
 Cellular Component | part of	| BFO:0000050 |
-Cellular Component | colocalizes with | RO:0002325 |
+Cellular Component | located in | RO:0001025 |
 Cellular Component | is active in | RO:0002432 |
+Cellular Component | colocalizes with | RO:0002325 |
 
 ### GPAD Annotation Properties (Proposed)
 
 Annotation_Property_Symbol | Property_Value | Cardinality (if used) | Example | Semantics 
 ---------------------------|----------------|------------ | ------- | --------- |
- id | unique database identifier | 1 | id=2113482942 | Unique identifier for an annotation in a contributing database.  Should be a PURL | |
- go_evidence | three-letter GO code | 1 | go_evidence=IMP | |
+ id | unique database identifier | 1 | id=WBOA:3219 | Unique identifier for an annotation in a contributing database.   | |
  model-state | GO-CAM model state | 1 | model-state=production | |
  noctua-model-id | unique GO-CAM model id | 1 | noctua-model-id=gomodel:5a7e68a100001078 | |
- curator_name | text | 1 | Kimberly Van Auken | Used by UniProtKB to indicate name of curator who last changed an annotation 
- curator-id | ORCID | 1 | curator-id=https://orcid.org/0000-0002-1706-4196 | Used by UniProtKB to indicate ORCID of curator who last changed an annotation
- contributor-id | ORCID | 1 | contributor-id=https://orcid.org/0000-0002-1706-4196 | Used by GOC to indicate ORCID of curator or user who entered or changed an annotation (SynGO lists multiple ORCIDs - what is the intended meaning?)
+ contributor-id | ORCID | 1 | contributor-id=https://orcid.org/0000-0002-1706-4196 | Used by GOC to indicate ORCID of curator or user who entered or changed an annotation
  reviewer-id | ORCID | 1 | reviewer-id=http://orcid.org/0000-0001-7476-6306 | Used by GOC to indicate ORCID of curator or user who last reviewed an annotation
  creation-date | YYYY-MM-DD | 1 | 2019-02-05 | The date on which the annotation was created.
  modification-date | YYYY-MM-DD | 1 | 2019-02-06 | The date(s) on which an annotation was modified.
  reviewed-date | YYYY-MM-DD | 1 | 2019-02-06 | The date(s) on which the annotation was reviewed.
- annotation_note | text | 1 | Confirmed species by checking PMID:nnnnnnnn. | Free-text field that allows curators or users to enter notes about a specific annotation.  
+ comment | text | 1 | Confirmed species by checking PMID:nnnnnnnn. | Free-text field that allows curators or users to enter notes about a specific annotation.  
 
     
 # GPI 2.0 Specs 
@@ -279,25 +277,21 @@ indicates a structured tag-value pair, two marks indicates free text.
 The list of allowed property symbols is open-ended, however several
 properties are required:
 
- * mso_version: PURL
- * gpi_date: YYYY-MM-DD (but see below)
-
+ * generated-by: database listed in dbxrefs.yaml
+ * date-generated: YYYY-MM-DD or YYYY-MM-DDTHH:MM
+ 
 Groups may decide to include additional information. Examples include:
 
- * Project_name: E.g. SGD
- * URL: E.g. http://www.yeastgenome.org/
- * Project_release: e.g. WS275
+ * URL: e.g. http://www.yeastgenome.org/
+ * Project-release: e.g. WS275
  * Funding: e.g. NHGRI
  * Columns: file format written out
- * DB_Object_Type information, e.g. DB_Object_Type = "gene", DB = "MGI", DB_Object_ID = "MGI:xxxx"
- * Date: an ISO-8601 formatted date describing when the file was produced
- (Generated: YYYY-MM-DD 00:00 has also been used here; need to standardize)
+ * DB-Object-Type-information, e.g. DB_Object_Type = "gene", DB = "MGI", DB_Object_ID = "MGI:xxxx"
        
 ## GP Entities
 
 A GP entity is any biological entity that can be annotated using GPAD
 
-![image](gpi-uml.png)
 
 Each entity is written on a separate line of tab separated values:
 
@@ -312,16 +306,49 @@ Each entity is written on a separate line of tab separated values:
 2 | DB_Object_Symbol ::= xxxx      | | 1 | AMOT | |
 3 | DB_Object_Name ::= xxxx      | | 0 or greater | Angiomotin | | 
 4 | DB_Object_Synonyms ::= [Label] ('\|' Label)*     | | 0 or greater | AMOT\|KIAA1071 | | 
-5 | DB_Object_Type ::= OBO_ID      | Sequence Ontology | 1 | SO:0000104 | | 
+5 | DB_Object_Type ::= OBO_ID      | Sequence Ontology OR Protein Ontology OR Gene Ontology | 1 | SO:0000104 | | 
 6 | DB_Object_Taxon ::= NCBITaxon:[Taxon_ID] || 1 |  NCBITaxon:9606 | |  
-7 | Parent_ObjectID ::= [ID] ('\|' ID)* | | 1 |  | Need to be clear on what is meant by 'parent'.  Also, what is intended by the pipe here?|
-8 | DB_Xrefs ::= [ID] ('\|' ID)* | | 0 or greater | |  Also need to be clear on what is required, e.g. MOD gene IDs xref to UniProtKB GCRP.| 
-9 | Gene_Product_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* |  | 0 or greater | db_subset=Swiss-Prot  | |
+7 | Parent_ObjectID ::= [ID] ('\|' ID)* | | 1 |  | This refers to the gene-centric parent id.
+8 | Protein_Containing_Complex_Members ::= [ID] ('|' ID)* | | |1 or greater | UniProtKB:Q15021|UniProtKB:Q15003
+9 | DB_Xrefs ::= [ID] ('\|' ID)* | | 0 or greater | |  See below for required DB xref values
+10 | Gene_Product_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* |  | 0 or greater | db_subset=Swiss-Prot  | |
 
     Property_Value_Pair ::= Property_Symbol '=' Property_Value
 
     Property_Value  ::= (AnyChar - ('=' | '|' | nl))
+    ASCII, except for non-printing characters, tabs, new lines, control characters, quotation marks, or pipe
+    
+### GPI Entity Types (Proposed)
 
+Entity Type | Ontology Label | Ontology ID 
+---------------------------|----------------|------------ | 
+protein-coding gene | protein_coding_gene | SO:0001217 
+ncRNA-coding gene | ncRNA_gene  | SO:0001263 
+mRNA | mRNA | SO:0000234
+ncRNA | ncRNA | SO:0000655 
+protein | protein | PR:000000001
+protein-containing complex | protein-containing complex | GO:0032991
+marker or uncloned locus | genetic_marker | SO:0001645
+
+Other possible entity types from MGI (examples coming):
+gene segment: SO_3000000
+pseudogene: SO_0000336
+gene: SO_0000704
+biological region: SO_0001411
+
+
+### Required and Optional DB xrefs
+Required:
+MODs: Must associate gene ids with UniProtKB gene-centric reference protein accessions
+UniProtKB: Must associate gene-centric reference protein accessions with MOD gene ids
+
+Additional DB xref suggestions (where applicable):
+RNAcentral - what groups can currently do this?
+Ensembl gene
+NCBI RefSeq gene
+HGNC
+ComplexPortal
+PRO
 
 ### GPI Gene Product Properties (Proposed)
 
