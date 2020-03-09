@@ -7,7 +7,6 @@ Table of contents
   * [Summary of changes relative to 1.1](#summary-of-changes-relative-to-11)
 - [Outline](#outline)
   * [Preliminary Definitions](#preliminary-definitions)
-    + [UML Notation](#uml-notation)
     + [BNF Notation](#bnf-notation)
     + [Basic Characters](#basic-characters)
     + [Spacing Characters](#spacing-characters)
@@ -52,12 +51,6 @@ The body of the document is split in two - the first part defines GPAD
 syntax, the second defines GPI syntax.
 
 ## Preliminary Definitions
-
-### UML Notation
-
-This document uses only a very simple form of UML class diagrams that
-are expected to be easily understandable by readers familiar with the
-basic concepts of object-oriented systems.
 
 ### BNF Notation
 
@@ -137,8 +130,9 @@ Dates are written into what is equivalent to the date portion of ISO-8601, keepi
     Year ::= digit digit digit digit
     Month ::= digit digit
     Day_of_month ::= digit digit
+    Time ::= digit digit:digit digit
 
-Both months and days count from 1. E.g. Jan=1, first day of month=1.
+Both months and days count from 01. e.g. Jan=01, first day of month=01.
 
 A Date is equivalent to an
 [xsd:date](http://www.w3.org/TR/xmlschema11-2/#date), and inherits the
@@ -152,10 +146,6 @@ A GPAD document consists of a header followed by zero or more
 annotations
 
     GPAD_Doc ::= GPAD_Header Annotation*
-
-This is illustrated in the following UML diagram:
-
-![image](gpad-document-uml.png)
 
 
 ### GPAD Headers
@@ -176,21 +166,19 @@ indicates a structured tag-value pair, two marks indicates free text.
 The list of allowed property symbols is open-ended, however several
 properties are required:
 
+ * generated_by: database listed in dbxrefs.yaml
+ * date_generated: YYYY-MM-DD or YYYY-MM-DDTHH:MM
+
+Groups may decide to include additional information. Examples include:
+
+ * URL: e.g. http://www.yeastgenome.org/
+ * Project_release: e.g. WS275
+ * Funding: e.g. NHGRI
+ * Columns: file format written out
  * go_version: PURL
  * ro_version: PURL
  * gorel_version: PURL
  * eco_version: PURL
- * gpad_date: YYYY-MM-DD (but see below)
-
-Groups may decide to include additional information. Examples include:
-
- * Project_name: E.g. SGD
- * URL: E.g. http://www.yeastgenome.org/
- * Project_release: e.g. WS275
- * Funding: e.g. NHGRI
- * Columns: file format written out
- * Date: an ISO-8601 formatted date describing when the file was produced
- (Generated: YYYY-MM-DD 00:00 has also been used here; need to standardize)
 
 ### Annotations
 
@@ -199,8 +187,6 @@ biological entity (such as a gene or gene product) and an ontology
 class (term). The association describes some aspect of that entity,
 and includes with metadata about the association, such as evidence and
 provenance.
-
-![image](gpad-uml.png)
 
 Each annotation is on a separate line of tab separated values:
 
@@ -215,13 +201,13 @@ Each annotation is on a separate line of tab separated values:
  1 | DB_Object_ID ::= ID | | 1 | UniProtKB:P11678 |
  2 | Negation ::= 'NOT' | | 0 or 1 | NOT |
  3 | Relation ::= OBO_ID | Relations Ontology (subset, see table below) | 1 | RO:0002263 |
- 4 | Ontology_Class_ID ::= OBO_ID | Gene Ontology | 1 | GO:0050803 |
+ 4 | Ontology_Class_ID ::= OBO_ID | Gene Ontology | 1 or greater (different ids must correspond to the same publication or reference) | GO:0050803 |
  5 | Reference ::= ID | | 1 | PMID:30695063 |
  6 | Evidence_type ::= OBO_ID | Evidence and Conclusion Ontology | 1 | ECO:0000315 |  
  7 | With_or_From ::= [ID] ('\|' \| ‘,’ ID)* | | 0 or greater | WB:WBVar00000510 |
  8 | Interacting_taxon_ID ::= NCBITaxon:[Taxon_ID] | | 0 or greater | NCBITaxon:5476 |
  9 | Date ::= YYYY-MM-DD | | 1 | 2019-01-30 |  
-10 | Assigned_by ::= Prefix | | 1 | MGI |
+10 | Assigned_by ::= Prefix | | 1 or greater | MGI |
 11 | Annotation_Extensions ::= [Extension_Conj] ('\|' Extension_Conj)* | | 0 or greater | BFO:0000066 |   
 12 | Annotation_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* | | 0 or greater | contributor=https://orcid.org/0000-0002-1478-7671 |
 
@@ -234,6 +220,7 @@ Each annotation is on a separate line of tab separated values:
     Property_Value_Pair ::= Property_Symbol '=' Property_Value
 
     Property_Value  ::= (AnyChar - ('=' | '|' | nl))
+    ASCII, except for non-printing characters, tabs, new lines, control characters, quotation marks, or pipe
     
 ### Allowed Gene Product to GO Term Relations
 
