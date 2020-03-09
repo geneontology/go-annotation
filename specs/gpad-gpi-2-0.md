@@ -30,18 +30,17 @@ This document specifies the syntax of Gene Product Annotation Data (GPAD) and Ge
 
 ## Status
 This is a working draft, intended for comment by the community.
-Comments should be sent to go-discuss AT geneontology.org
+Comments should be added to: https://github.com/geneontology/go-annotation/issues/2864 
 
 ## Summary of changes relative to 1.1
-  ### - columns 1 and 2 are now combined in both GPAD and GPI to form a single column containing an id in CURIE syntax, e.g. UniProtKB:P56704
-  ### - In GPAD, negation is captured in a separate column, column 2, using the text string 'NOT'
-  ### - In GPAD, the gene product-to-term relation captured in column 3 now uses a Relations Ontology (RO) identifier instead of a text string
-  ### - In GPAD, the Reference column, column 5, is now a single value field.
-  ### - In GPAD, the With/From column, column 7, may contain identifiers separated by commas as well as pipes.
-  ### - In GPAD and GPI, NCBI taxon ids are prefixed with 'NCBITaxon:' to indicate the source of the id, e.g. NCBITaxon:6239
-  ### - In GPAD, Annotation_Extensions in column 11 use a Relation_ID, rather than a Relation_Symbol, in the Relational_Expression.
-  ### - In GPAD, the date is now in the format: YYYY-MM-DD (i.e. dashes between year, month, and day)
-  ### - In GPI, the entity type in column 6 is captured using an ID from the Sequence Ontology.  
+  ### - GPAD and GPI: columns 1 and 2 are now combined in a single column containing an id in CURIE syntax, e.g. UniProtKB:P56704.
+  ### - GPAD: negation is captured in a separate column, column 2, using the text string 'NOT'.
+  ### - GPAD: gene product-to-term relations captured in column 3 use a Relations Ontology (RO) identifier instead of a text string
+  ### - GPAD: the With/From column, column 7, may contain identifiers separated by commas as well as pipes.
+  ### - GPAD and GPI: NCBI taxon ids are prefixed with 'NCBITaxon:' to indicate the source of the id, e.g. NCBITaxon:6239
+  ### - GPAD: Annotation Extensions in column 11 will use a Relation_ID, rather than a Relation_Symbol, in the Relational_Expression, e.g. RO:0002233(UniProtKB:Q00362)
+  ### - GPAD and GPI: dates follow the ISO-8601 format, e.g. YYYY-MM-DD; time may be included as YYYY-MM-DDTHH:MM
+  ### - GPI: the entity type in column 6 is captured using an ID from the Sequence Ontology, Protein Ontology, or Gene Ontology.  
   ### - Extensions in file names are: \*.gpad and \*.gpi 
   
 # Outline
