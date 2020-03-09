@@ -309,7 +309,7 @@ Each entity is written on a separate line of tab separated values:
 5 | DB_Object_Type ::= OBO_ID      | Sequence Ontology OR Protein Ontology OR Gene Ontology | 1 | SO:0000104 | | 
 6 | DB_Object_Taxon ::= NCBITaxon:[Taxon_ID] || 1 |  NCBITaxon:9606 | | 
 7 | Parent_ObjectID ::= [ID] ('\|' ID)* | | 1 |  | This refers to the gene-centric parent id. |
-8 | Protein_Containing_Complex_Members ::= [ID] ('|' ID)* | | |1 or greater | UniProtKB:Q15021|UniProtKB:Q15003 | |
+8 | Protein_Containing_Complex_Members ::= [ID] ('\|' ID)* | | |1 or greater | UniProtKB:Q15021|UniProtKB:Q15003 | |
 9 | DB_Xrefs ::= [ID] ('\|' ID)* | | 0 or greater | |  See below for required DB xref values |
 10 | Gene_Product_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* |  | 0 or greater | db_subset=Swiss-Prot  | |
 
@@ -331,24 +331,36 @@ protein-containing complex | protein-containing complex | GO:0032991
 marker or uncloned locus | genetic_marker | SO:0001645
 
 Other possible entity types from MGI (examples coming):
-*gene segment: SO_3000000
-*pseudogene: SO_0000336
-*gene: SO_0000704
-*biological region: SO_0001411
+
+ *gene segment: SO_3000000
+ 
+ *pseudogene: SO_0000336
+ 
+ *gene: SO_0000704
+ 
+ *biological region: SO_0001411
 
 
 ### Required and Optional DB xrefs
 Required:
-MODs: Must associate gene ids with UniProtKB gene-centric reference protein accessions
-UniProtKB: Must associate gene-centric reference protein accessions with MOD gene ids
 
-Additional DB xref suggestions (where applicable):
-RNAcentral - what groups can currently do this?
-Ensembl gene
-NCBI RefSeq gene
-HGNC
-ComplexPortal
-PRO
+ MODs: Must associate gene ids with UniProtKB gene-centric reference protein accessions
+ 
+ UniProtKB: Must associate gene-centric reference protein accessions with MOD gene ids
+
+Optional DB xref suggestions (where applicable):
+
+ *RNAcentral - what groups can currently do this?
+ 
+ *Ensembl gene
+ 
+ *NCBI RefSeq gene
+ 
+ *HGNC
+ 
+ *ComplexPortal
+ 
+ *PRO
 
 ### GPI Gene Product Properties (Proposed)
 
