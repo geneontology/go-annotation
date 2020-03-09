@@ -244,15 +244,15 @@ Cellular Component | colocalizes with | RO:0002325 |
 
 Annotation_Property_Symbol | Property_Value | Cardinality (if used) | Example | Semantics 
 ---------------------------|----------------|------------ | ------- | --------- |
- id | unique database identifier | 1 | id=WBOA:3219 | Unique identifier for an annotation in a contributing database.   | |
- model-state | GO-CAM model state | 1 | model-state=production | |
- noctua-model-id | unique GO-CAM model id | 1 | noctua-model-id=gomodel:5a7e68a100001078 | |
- contributor-id | ORCID | 1 | contributor-id=https://orcid.org/0000-0002-1706-4196 | Used by GOC to indicate ORCID of curator or user who entered or changed an annotation
- reviewer-id | ORCID | 1 | reviewer-id=http://orcid.org/0000-0001-7476-6306 | Used by GOC to indicate ORCID of curator or user who last reviewed an annotation
- creation-date | YYYY-MM-DD | 1 | 2019-02-05 | The date on which the annotation was created.
- modification-date | YYYY-MM-DD | 1 | 2019-02-06 | The date(s) on which an annotation was modified.
- reviewed-date | YYYY-MM-DD | 1 | 2019-02-06 | The date(s) on which the annotation was reviewed.
- comment | text | 1 | Confirmed species by checking PMID:nnnnnnnn. | Free-text field that allows curators or users to enter notes about a specific annotation.  
+ id | unique database identifier | 1 | id=WBOA:3219 | Unique identifier for an annotation in a contributing database. |
+ model-state | GO-CAM model state | 1 | model-state=production |
+ noctua-model-id | unique GO-CAM model id | 1 | noctua-model-id=gomodel:5a7e68a100001078 |
+ contributor-id | ORCID | 1 | contributor-id=https://orcid.org/0000-0002-1706-4196 | Used by GOC to indicate ORCID of curator or user who entered or changed an annotation |
+ reviewer-id | ORCID | 1 | reviewer-id=http://orcid.org/0000-0001-7476-6306 | Used by GOC to indicate ORCID of curator or user who last reviewed an annotation |
+ creation-date | YYYY-MM-DD | 1 | 2019-02-05 | The date on which the annotation was created. |
+ modification-date | YYYY-MM-DD | 1 | 2019-02-06 | The date(s) on which an annotation was modified. |
+ reviewed-date | YYYY-MM-DD | 1 | 2019-02-06 | The date(s) on which the annotation was reviewed. |
+ comment | text | 1 | Confirmed species by checking PMID:nnnnnnnn. | Free-text field that allows curators or users to enter notes about a specific annotation. |
 
     
 # GPI 2.0 Specs 
@@ -304,13 +304,13 @@ Each entity is written on a separate line of tab separated values:
 --------|----------|-----------|-----------|-----------|-----------|
 1 | DB_Object_ID ::= ID      | | 1 | UniProtKB:Q4VCS5 | |
 2 | DB_Object_Symbol ::= xxxx      | | 1 | AMOT | |
-3 | DB_Object_Name ::= xxxx      | | 0 or greater | Angiomotin | | 
+3 | DB_Object_Name ::= xxxx      | | 0 or greater | Angiomotin | |
 4 | DB_Object_Synonyms ::= [Label] ('\|' Label)*     | | 0 or greater | AMOT\|KIAA1071 | | 
 5 | DB_Object_Type ::= OBO_ID      | Sequence Ontology OR Protein Ontology OR Gene Ontology | 1 | SO:0000104 | | 
-6 | DB_Object_Taxon ::= NCBITaxon:[Taxon_ID] || 1 |  NCBITaxon:9606 | |  
-7 | Parent_ObjectID ::= [ID] ('\|' ID)* | | 1 |  | This refers to the gene-centric parent id.
-8 | Protein_Containing_Complex_Members ::= [ID] ('|' ID)* | | |1 or greater | UniProtKB:Q15021|UniProtKB:Q15003
-9 | DB_Xrefs ::= [ID] ('\|' ID)* | | 0 or greater | |  See below for required DB xref values
+6 | DB_Object_Taxon ::= NCBITaxon:[Taxon_ID] || 1 |  NCBITaxon:9606 | | 
+7 | Parent_ObjectID ::= [ID] ('\|' ID)* | | 1 |  | This refers to the gene-centric parent id. |
+8 | Protein_Containing_Complex_Members ::= [ID] ('|' ID)* | | |1 or greater | UniProtKB:Q15021|UniProtKB:Q15003 | |
+9 | DB_Xrefs ::= [ID] ('\|' ID)* | | 0 or greater | |  See below for required DB xref values |
 10 | Gene_Product_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* |  | 0 or greater | db_subset=Swiss-Prot  | |
 
     Property_Value_Pair ::= Property_Symbol '=' Property_Value
@@ -331,10 +331,10 @@ protein-containing complex | protein-containing complex | GO:0032991
 marker or uncloned locus | genetic_marker | SO:0001645
 
 Other possible entity types from MGI (examples coming):
-gene segment: SO_3000000
-pseudogene: SO_0000336
-gene: SO_0000704
-biological region: SO_0001411
+*gene segment: SO_3000000
+*pseudogene: SO_0000336
+*gene: SO_0000704
+*biological region: SO_0001411
 
 
 ### Required and Optional DB xrefs
