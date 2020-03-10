@@ -124,19 +124,9 @@ of specifying a URI that denotes the actual property used.
 
 ### Dates
 
-Dates are written into what is equivalent to the date portion of ISO-8601, keeping hyphens:
+Dates are written into what is equivalent to the date portion of ISO-8601, with the additional constraint that the YMD portion must conform to the regexp /([12]\d{3}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01]))/, i.e. “hyphenated” YMD, e.g. 2020-03-10.
 
-    YYYY-MM-DD ::= Year - Month - Day_of_month
-    Year ::= digit digit digit digit
-    Month ::= digit digit
-    Day_of_month ::= digit digit
-    Time ::= digit digit:digit digit
-
-Both months and days count from 01. e.g. Jan=01, first day of month=01.
-
-A Date is equivalent to an
-[xsd:date](http://www.w3.org/TR/xmlschema11-2/#date), and inherits the
-same semantics and constraints.
+In most cases, only the year, month, and date will be lifted and used within the data ingest; additional information, e.g. time, is optional, but may be useful for tracking annotation history as part of annotation imports into Noctua.
 
 # GPAD Syntax
 
