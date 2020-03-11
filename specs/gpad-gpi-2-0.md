@@ -191,8 +191,8 @@ Each annotation is on a separate line of tab separated values:
  1 | DB_Object_ID ::= ID | | 1 | UniProtKB:P11678 |
  2 | Negation ::= 'NOT' | | 0 or 1 | NOT |
  3 | Relation ::= OBO_ID | Relations Ontology (subset, see table below) | 1 | RO:0002263 |
- 4 | Ontology_Class_ID ::= OBO_ID | Gene Ontology | 1 or greater (different ids must correspond to the same publication or reference) | GO:0050803 |
- 5 | Reference ::= ID | | 1 | PMID:30695063 |
+ 4 | Ontology_Class_ID ::= OBO_ID | Gene Ontology | 1 | GO:0050803 |
+ 5 | Reference ::= ID | | 1 or greater (different ids must correspond to the same publication or reference) | PMID:30695063 |
  6 | Evidence_type ::= OBO_ID | Evidence and Conclusion Ontology | 1 | ECO:0000315 |  
  7 | With_or_From ::= [ID] ('\|' \| ‘,’ ID)* | | 0 or greater | WB:WBVar00000510 |
  8 | Interacting_taxon_ID ::= NCBITaxon:[Taxon_ID] | | 0 or greater | NCBITaxon:5476 |
