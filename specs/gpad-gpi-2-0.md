@@ -186,19 +186,19 @@ Each annotation is on a separate line of tab separated values:
 
  Each of these columns has its own syntax, as specified below:
  
- Column 	| Content 	| Ontology  | Cardinality | Example ID
---------|----------|----------- | -------------- | ----------|
+ Column 	| Content 	| Ontology  | Cardinality | Example ID | Comment
+--------|----------|----------- | -------------- | ----------| ---------- |
  1 | DB_Object_ID ::= ID | | 1 | UniProtKB:P11678 |
  2 | Negation ::= 'NOT' | | 0 or 1 | NOT |
  3 | Relation ::= OBO_ID | Relations Ontology (subset, see table below) | 1 | RO:0002263 |
  4 | Ontology_Class_ID ::= OBO_ID | Gene Ontology | 1 | GO:0050803 |
- 5 | Reference ::= ID | | 1 or greater (different ids must correspond to the same publication or reference) | PMID:30695063 |
- 6 | Evidence_type ::= OBO_ID | Evidence and Conclusion Ontology | 1 | ECO:0000315 |  
- 7 | With_or_From ::= [ID] ('\|' \| ‘,’ ID)* | | 0 or greater | WB:WBVar00000510 |
+ 5 | Reference ::= [ID] ('\|' ID)* | | 1 or greater | PMID:30695063 | Different IDs, e.g. PMID and MOD paper id, must correspond to the same publication or reference
+ 6 | Evidence_type ::= OBO_ID | Evidence and Conclusion Ontology | 1 | ECO:0000315 |  Mapping file in progress:  https://github.com/evidenceontology/evidenceontology/issues/249
+ 7 | With_or_From ::= [ID] ('\|' \| ‘,’ ID)* | | 0 or greater | WB:WBVar00000510 | Pipe-separated entries represent independent evidence; comma-separated entries represent grouped evidence, e.g. two of three genes in a triply mutant organism
  8 | Interacting_taxon_ID ::= NCBITaxon:[Taxon_ID] | | 0 or greater | NCBITaxon:5476 |
  9 | Date ::= YYYY-MM-DD | | 1 | 2019-01-30 |  
 10 | Assigned_by ::= Prefix | | 1 or greater | MGI |
-11 | Annotation_Extensions ::= [Extension_Conj] ('\|' Extension_Conj)* | | 0 or greater | BFO:0000066 |   
+11 | Annotation_Extensions ::= [Extension_Conj] ('\|' Extension_Conj)* | | 0 or greater | BFO:0000066(GO:0005829) |   
 12 | Annotation_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* | | 0 or greater | contributor=https://orcid.org/0000-0002-1478-7671 |
 
     Extension_Conj ::= [Relational_Expression] (',' Relational_Expression)*
@@ -296,9 +296,9 @@ Each entity is written on a separate line of tab separated values:
 2 | DB_Object_Symbol ::= xxxx      | | 1 | AMOT | |
 3 | DB_Object_Name ::= xxxx      | | 0 or greater | Angiomotin | |
 4 | DB_Object_Synonyms ::= [Label] ('\|' Label)*     | | 0 or greater | AMOT\|KIAA1071 | | 
-5 | DB_Object_Type ::= OBO_ID      | Sequence Ontology OR Protein Ontology OR Gene Ontology | 1 | SO:0000104 | | 
+5 | DB_Object_Type ::= OBO_ID      | Sequence Ontology OR Protein Ontology OR Gene Ontology | 1 or greater | SO:0000104 | | If a gene encodes for both protein and ncRNA, more than one type can be applied.
 6 | DB_Object_Taxon ::= NCBITaxon:[Taxon_ID] || 1 |  NCBITaxon:9606 | | 
-7 | Parent_ObjectID ::= [ID] ('\|' ID)* | | 1 |  | This refers to the gene-centric parent id. |
+7 | Parent_ObjectID ::= [ID] ('\|' ID)* | | 0 or 1 |  | This refers to the gene-centric parent id. | Protein-containing complexes do not require a gene-centric parent ID.
 8 | Protein_Containing_Complex_Members ::= [ID] ('\|' ID)* | | |1 or greater | UniProtKB:Q15021|UniProtKB:Q15003 | |
 9 | DB_Xrefs ::= [ID] ('\|' ID)* | | 0 or greater | |  See below for required DB xref values |
 10 | Gene_Product_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* |  | 0 or greater | db_subset=Swiss-Prot  | |
@@ -308,7 +308,8 @@ Each entity is written on a separate line of tab separated values:
     Property_Value  ::= (AnyChar - ('=' | '|' | nl))
     ASCII, except for non-printing characters, tabs, new lines, control characters, quotation marks, or pipe
     
-### GPI Entity Types (Proposed)
+### GPI Entity Types 
+#### Entity types may be one of the following, or a more granular child term.
 
 Entity Type | Ontology Label | Ontology ID 
 ---------------------------|----------------|------------ | 
@@ -332,15 +333,15 @@ Other possible entity types from MGI (examples coming):
 
 
 ### Required and Optional DB xrefs
-Required:
+#### Required:
 
  MODs: Must associate gene ids with UniProtKB gene-centric reference protein accessions
  
  UniProtKB: Must associate gene-centric reference protein accessions with MOD gene ids
 
-Optional DB xref suggestions (where applicable):
+#### Optional DB xref suggestions (where applicable):
 
- *RNAcentral - what groups can currently do this?
+ *RNAcentral 
  
  *Ensembl gene
  
