@@ -214,9 +214,11 @@ Each annotation is on a separate line of tab separated values:
     
 ### Allowed Gene Product to GO Term Relations
 
-GO Aspect 	| Relations Ontology Label  | Relations Ontology ID 
------------|---------------------------|----------------------|
-Molecular Function | enables | RO:0002327 |
+#### Default usage is indicated for MF and CC.  Groups may choose which relation to use for BP annotations according to their curation practice.  'acts upstream of or within' is the parent Relations Ontology term for the BP relations listed below.  A full view of the BP relation hierarchy can be found at http://www.ontobee.org/ or https://www.ebi.ac.uk/ols/index
+
+GO Aspect 	| Relations Ontology Label  | Relations Ontology ID | Usage Guidelines
+-----------|---------------------------|----------------------| ------------------ |
+Molecular Function | enables | RO:0002327 | Default for MF
 Molecular Function | contributes to | RO:0002326 |
 Biological Process | involved in | RO:0002331 |
 Biological Process | acts upstream of | RO:0002263 |
@@ -225,9 +227,9 @@ Biological Process | acts upstream of negative effect | RO:0004035 |
 Biological Process | acts upstream of or within | RO:0002264 |
 Biological Process | acts upstream of or within positive effect | RO:0004032 |
 Biological Process | acts upstream of or within negative effect | RO:0004033 |
-Cellular Component | part of	| BFO:0000050 |
-Cellular Component | located in | RO:0001025 |
-Cellular Component | is active in | RO:0002432 |
+Cellular Component | part of	| BFO:0000050 | Default for protein-containing complex (GO:0032991) and child terms
+Cellular Component | located in | RO:0001025 | Default for non-protein-containing complex CC terms
+Cellular Component | is active in | RO:0002432 | Used to indicate where a gene product enables its MF
 Cellular Component | colocalizes with | RO:0002325 |
 
 ### GPAD Annotation Properties (Proposed)
