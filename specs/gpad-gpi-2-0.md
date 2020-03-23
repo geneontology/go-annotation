@@ -39,7 +39,8 @@ Comments should be added to: https://github.com/geneontology/go-annotation/issue
   ### - GPAD and GPI: NCBI taxon ids are prefixed with 'NCBITaxon:' to indicate the source of the id, e.g. NCBITaxon:6239
   ### - GPAD: Annotation Extensions in column 11 will use a Relation_ID, rather than a Relation_Symbol, in the Relational_Expression, e.g. RO:0002233(UniProtKB:Q00362)
   ### - GPAD and GPI: dates follow the ISO-8601 format, e.g. YYYY-MM-DD; time may be included as YYYY-MM-DDTHH:MM
-  ### - GPI: the entity type in column 6 is captured using an ID from the Sequence Ontology, Protein Ontology, or Gene Ontology.  
+  ### - GPI: the entity type in column 5 is captured using an ID from the Sequence Ontology, Protein Ontology, or Gene Ontology.  
+  ### - GPI: the parent object id in column 7 refers to the gene-centric parent, e.g. the UniProtKB Gene-Centric Reference Proteome accession or a Model Organism Database gene identifier
   ### - Extensions in file names are: \*.gpad and \*.gpi 
   
 # Outline
