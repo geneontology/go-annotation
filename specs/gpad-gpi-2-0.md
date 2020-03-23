@@ -301,7 +301,7 @@ Each entity is written on a separate line of tab separated values:
 4 | DB_Object_Synonyms ::= [Label] ('\|' Label)*     | | 0 or greater | AMOT\|KIAA1071 | | 
 5 | DB_Object_Type ::= OBO_ID      | Sequence Ontology OR Protein Ontology OR Gene Ontology | 1 or greater | SO:0000104 | | If a gene encodes for both protein and ncRNA, more than one type can be applied.
 6 | DB_Object_Taxon ::= NCBITaxon:[Taxon_ID] || 1 |  NCBITaxon:9606 | | 
-7 | Parent_ObjectID ::= [ID] ('\|' ID)* | | 0 or 1 |  | This refers to the gene-centric parent id. | Protein-containing complexes do not require a gene-centric parent ID.
+7 | Parent_Object_ID ::= [ID] ('\|' ID)* | | 0 or 1 |  | This refers to the gene-centric parent id. | Protein-containing complexes do not require a gene-centric parent ID.
 8 | Protein_Containing_Complex_Members ::= [ID] ('\|' ID)* | | |1 or greater | UniProtKB:Q15021|UniProtKB:Q15003 | |
 9 | DB_Xrefs ::= [ID] ('\|' ID)* | | 0 or greater | |  See below for required DB xref values |
 10 | Gene_Product_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* |  | 0 or greater | db_subset=Swiss-Prot  | |
