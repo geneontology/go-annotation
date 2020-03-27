@@ -338,7 +338,7 @@ Other possible entity types from MGI (examples coming):
 ### Required and Optional DB xrefs
 #### Required:
 
- MODs: Must associate gene ids with UniProtKB gene-centric reference protein accessions
+ MODs: Must associate gene ids, for protein-coding genes, with UniProtKB gene-centric reference protein accessions
  
  UniProtKB: Must associate gene-centric reference protein accessions with MOD gene ids
 
