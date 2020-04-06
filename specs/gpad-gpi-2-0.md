@@ -299,12 +299,13 @@ Each entity is written on a separate line of tab separated values:
 2 | DB_Object_Symbol ::= xxxx      | | 1 | AMOT | |
 3 | DB_Object_Name ::= xxxx      | | 0 or greater | Angiomotin | |
 4 | DB_Object_Synonyms ::= [Label] ('\|' Label)*     | | 0 or greater | AMOT\|KIAA1071 | | 
-5 | DB_Object_Type ::= OBO_ID      | Sequence Ontology OR Protein Ontology OR Gene Ontology | 1 or greater | SO:0000104 | | If a gene encodes for both protein and ncRNA, more than one type can be applied.
+5 | DB_Object_Type ::= OBO_ID      | Sequence Ontology OR Protein Ontology OR Gene Ontology | 1 or greater | PR:000000001 | | If a gene encodes for both protein and ncRNA, more than one type can be applied.
 6 | DB_Object_Taxon ::= NCBITaxon:[Taxon_ID] || 1 |  NCBITaxon:9606 | | 
-7 | Parent_Object_ID ::= [ID] ('\|' ID)* | | 0 or 1 |  | This refers to the gene-centric parent id. | Protein-containing complexes do not require a gene-centric parent ID.
-8 | Protein_Containing_Complex_Members ::= [ID] ('\|' ID)* | | |1 or greater | UniProtKB:Q15021|UniProtKB:Q15003 | |
-9 | DB_Xrefs ::= [ID] ('\|' ID)* | | 0 or greater | |  See below for required DB xref values |
-10 | Gene_Product_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* |  | 0 or greater | db_subset=Swiss-Prot  | |
+7 | Encoded_By ::= [ID] ('\|' ID)* | | 0 or greater | HGNC:17810  | For proteins and transcripts, this refers to the gene id that encodes those entities. | 
+8 | Parent_Protein ::= [ID] ('\|' ID)* | | 0 or greater |  | For proteins, this refers to the gene-centric reference protein accession. | 
+9 | Protein_Containing_Complex_Members ::= [ID] ('\|' ID)* | | 1 or greater | UniProtKB:Q15021\|UniProtKB:Q15003 | 
+10 | DB_Xrefs ::= [ID] ('\|' ID)* | | 0 or greater | |  See below for required DB xref values |
+11 | Gene_Product_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* |  | 0 or greater | db_subset=Swiss-Prot  | |
 
     Property_Value_Pair ::= Property_Symbol '=' Property_Value
 
@@ -326,13 +327,13 @@ marker or uncloned locus | genetic_marker | SO:0001645
 
 Other possible entity types from MGI (examples coming):
 
- *gene segment: SO_3000000
+ *gene segment: SO:3000000
  
- *pseudogene: SO_0000336
+ *pseudogene: SO:0000336
  
- *gene: SO_0000704
+ *gene: SO:0000704
  
- *biological region: SO_0001411
+ *biological region: SO:0001411
 
 
 ### Required and Optional DB xrefs
