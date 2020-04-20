@@ -325,11 +325,13 @@ protein | protein | PR:000000001
 protein-containing complex | protein-containing complex | GO:0032991
 marker or uncloned locus | genetic_marker | SO:0001645
 
-Other possible entity types from MGI (examples coming):
+Other possible entity types from MGI (additional examples coming):
 
  *gene segment: SO:3000000
  
  *pseudogene: SO:0000336
+ 
+ *Example: http://www.informatics.jax.org/marker/MGI:3029152
  
  *gene: SO:0000704
  
