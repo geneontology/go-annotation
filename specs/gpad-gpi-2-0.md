@@ -200,7 +200,7 @@ Each annotation is on a separate line of tab separated values:
  9 | Date ::= YYYY-MM-DD | | 1 | 2019-01-30 |  
 10 | Assigned_by ::= Prefix | | 1 or greater | MGI |
 11 | Annotation_Extensions ::= [Extension_Conj] ('\|' Extension_Conj)* | | 0 or greater | BFO:0000066(GO:0005829) |   
-12 | Annotation_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* | | 0 or greater | contributor=https://orcid.org/0000-0002-1478-7671 |
+12 | Annotation_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* | | 0 or greater | contributor-id=https://orcid.org/0000-0002-1478-7671 |
 
     Extension_Conj ::= [Relational_Expression] (',' Relational_Expression)*
 
