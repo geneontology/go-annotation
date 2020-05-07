@@ -305,7 +305,7 @@ Each entity is written on a separate line of tab separated values:
 8 | Parent_Protein ::= [ID] ('\|' ID)* | | 0 or greater |  | For proteins, this refers to the gene-centric reference protein accession. | 
 9 | Protein_Containing_Complex_Members ::= [ID] ('\|' ID)* | | 1 or greater | UniProtKB:Q15021\|UniProtKB:Q15003 | 
 10 | DB_Xrefs ::= [ID] ('\|' ID)* | | 0 or greater | |  See below for required DB xref values |
-11 | Gene_Product_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* |  | 0 or greater | db_subset=Swiss-Prot  | |
+11 | Gene_Product_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* |  | 0 or greater | db-subset=Swiss-Prot  | |
 
     Property_Value_Pair ::= Property_Symbol '=' Property_Value
 
@@ -363,7 +363,7 @@ Other possible entity types from MGI (additional examples coming):
 
 Annotation_Property_Symbol | Property_Value | Cardinality (if used) | Example | Semantics 
 ---------------------------|----------------|------------ | ------- | --------- |
-db_subset | TrEMBL or Swiss-Prot | 1 | db_subset=TrEMBL | The status of a UniProtKB accession with respect to curator review.
-uniprot_proteome | identifier  | 1 | uniprot_proteome=UP000001940 | A unique UniProtKB identifier for the set of proteins that constitute an organism's proteome.
-go_annotation_complete | YYYY-MM-DD | 1| 2019-02-05 | Indicates the date on which a curator determined that the set of GO annotations for a given entity is complete with respect to GO annotation.  Complete means that all information about a gene has been captured as a GO term, but not necessarily that all possible supporting evidence is annotated.
-go_annotation_summary | text | 1 | go_annotation_summary=Sterol binding protein with a role in intracellular sterol transport; localizes to mitochondria and the cortical ER | A textual gene or gene product description.
+db-subset | TrEMBL or Swiss-Prot | 1 | db-subset=TrEMBL | The status of a UniProtKB accession with respect to curator review.
+uniprot-proteome | identifier  | 1 | uniprot-proteome=UP000001940 | A unique UniProtKB identifier for the set of proteins that constitute an organism's proteome.
+go-annotation-complete | YYYY-MM-DD | 1| 2019-02-05 | Indicates the date on which a curator determined that the set of GO annotations for a given entity is complete with respect to GO annotation.  Complete means that all information about a gene has been captured as a GO term, but not necessarily that all possible supporting evidence is annotated.
+go-annotation-summary | text | 1 | go-annotation-summary=Sterol binding protein with a role in intracellular sterol transport; localizes to mitochondria and the cortical ER | A textual gene or gene product description.
