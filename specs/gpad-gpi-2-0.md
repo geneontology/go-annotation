@@ -242,10 +242,10 @@ Annotation_Property_Symbol | Property_Value | Cardinality (if used) | Example | 
  noctua-model-id | unique GO-CAM model id | 1 | noctua-model-id=gomodel:5a7e68a100001078 |
  contributor-id | ORCID | 1 | contributor-id=https://orcid.org/0000-0002-1706-4196 | Used by GOC to indicate ORCID of curator or user who entered or changed an annotation |
  reviewer-id | ORCID | 1 | reviewer-id=http://orcid.org/0000-0001-7476-6306 | Used by GOC to indicate ORCID of curator or user who last reviewed an annotation |
- creation-date | YYYY-MM-DD | 1 | 2019-02-05 | The date on which the annotation was created. |
- modification-date | YYYY-MM-DD | 1 | 2019-02-06 | The date(s) on which an annotation was modified. |
- reviewed-date | YYYY-MM-DD | 1 | 2019-02-06 | The date(s) on which the annotation was reviewed. |
- comment | text | 1 | Confirmed species by checking PMID:nnnnnnnn. | Free-text field that allows curators or users to enter notes about a specific annotation. |
+ creation-date | YYYY-MM-DD | 1 | creation-date=2019-02-05 | The date on which the annotation was created. |
+ modification-date | YYYY-MM-DD | 1 | modification-date=2019-02-06 | The date(s) on which an annotation was modified. |
+ reviewed-date | YYYY-MM-DD | 1 | reviewed-date=2019-02-06 | The date(s) on which the annotation was reviewed. |
+ comment | text | 1 | comment=Confirmed species by checking PMID:nnnnnnnn. | Free-text field that allows curators or users to enter notes about a specific annotation. |
 
     
 # GPI 2.0 Specs 
