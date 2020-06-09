@@ -215,7 +215,7 @@ Each annotation is on a separate line of tab separated values:
     
 ### Allowed Gene Product to GO Term Relations
 
-#### Default usage is indicated for MF and CC.  Groups may choose which relation to use for BP annotations according to their curation practice.  'acts upstream of or within' is the parent Relations Ontology term for the BP relations listed below.  A full view of the BP relation hierarchy can be found at http://www.ontobee.org/ or https://www.ebi.ac.uk/ols/index. Note: the RO term labels and IDs listed below are current as of 2020-06-09.  However, to ensure accurate use of RO, groups should always derive mappings between RO tern labels and IDs from the RO source file available here: https://github.com/oborel/obo-relations
+#### Default usage is indicated for MF and CC.  Groups may choose which relation to use for BP annotations according to their curation practice.  'acts upstream of or within' is the parent Relations Ontology term for the BP relations listed below.  A full view of the BP relation hierarchy can be found at http://www.ontobee.org/ or https://www.ebi.ac.uk/ols/index. Note: the RO term labels and IDs listed below are current as of 2020-06-09.  However, to ensure accurate use of RO, groups should always derive mappings between RO term labels and IDs from the RO source file available here: https://github.com/oborel/obo-relations
 
 
 GO Aspect 	| Relations Ontology Label  | Relations Ontology ID | Usage Guidelines
