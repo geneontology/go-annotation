@@ -251,6 +251,13 @@ Annotation_Property_Symbol | Property_Value | Cardinality (if used) | Example | 
     
 # GPI 2.0 Specs 
 
+### GPI Document Structure
+
+A GPI document consists of a header followed by zero or more
+annotations
+
+    GPI_Doc ::= GPI_Header Annotation*
+
 ## GPI Headers
 
 A header consists of an obligatory format version declaration followed
