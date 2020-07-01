@@ -73,6 +73,7 @@ GPI and GPAD documents consist of sequences of Unicode characters and are encode
        | A |B |C |D |E |F |G |H |I |J |K |L |M |N |O |P |Q |R |S |T |U |V |W |X |Y |Z
     Digit ::= 0 |1 |2 |3 |4 |5 |6 |7 |8 |9
     Alphanumeric_Char ::= Alpha_Char | Digit
+    Alphanumeric ::= Alphanumeric_Char+
 
 ### Spacing Characters
 
@@ -196,15 +197,21 @@ Each annotation is on a separate line of tab separated values:
  5 | Reference ::= [ID] ('\|' ID)* | | 1 or greater | PMID:30695063 | Different IDs, e.g. PMID and MOD paper id, must correspond to the same publication or reference
  6 | Evidence_type ::= OBO_ID | Evidence and Conclusion Ontology | 1 | ECO:0000315 |  Mapping file in progress:  https://github.com/evidenceontology/evidenceontology/issues/249
  7 | With_or_From ::= [ID] ('\|' \| ‘,’ ID)* | | 0 or greater | WB:WBVar00000510 | Pipe-separated entries represent independent evidence; comma-separated entries represent grouped evidence, e.g. two of three genes in a triply mutant organism
- 8 | Interacting_taxon_ID ::= NCBITaxon:[Taxon_ID] | | 0 or greater | NCBITaxon:5476 |
+ 8 | Interacting_taxon_ID ::= ['NCBITaxon:'Taxon_ID] ('\|' \| ‘,’ 'NCBITaxon:'[Taxon_ID])* | | 0 or greater | NCBITaxon:5476 |
  9 | Date ::= YYYY-MM-DD | | 1 | 2019-01-30 |  
 10 | Assigned_by ::= Prefix | | 1 or greater | MGI |
 11 | Annotation_Extensions ::= [Extension_Conj] ('\|' Extension_Conj)* | | 0 or greater | BFO:0000066(GO:0005829) |   
 12 | Annotation_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* | | 0 or greater | contributor-id=https://orcid.org/0000-0002-1478-7671 |
 
+    Taxon_ID ::= Digit+
+    
+    The Taxon_ID should be a taxon identifier from the NCBI Taxonomy database.
+    
     Extension_Conj ::= [Relational_Expression] (',' Relational_Expression)*
 
     Relational_Expression ::= Relation_ID '(' ID ')'
+    
+    Relation_ID ::= ID
     
     The Relation_ID may be from the Relations Ontology or from the set of GO relations, go_rel.
 
