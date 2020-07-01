@@ -96,9 +96,10 @@ A local identifier can consist of any non-whitespace character
 
 An OBO ID is a type of identifier
 
-    OBO_ID ::= ID
+    OBO_ID ::= OBO_Prefix ':' Local_ID
+    OBO_Prefix ::= 'GO' | 'ECO' | 'RO' | 'CL' | 'CHEBI' | ...
 
-OBO identifiers (which include GO identifiers) SHOULD follow the [OBO identifier policy](http://www.obofoundry.org/id-policy.shtml)
+The list of OBO prefixes can be found on [obofoundry.org](http://obofoundry.org) in the [json-ld context file](https://raw.githubusercontent.com/OBOFoundry/OBOFoundry.github.io/master/registry/context.jsonld)
 
 References are also types of identifier
 
