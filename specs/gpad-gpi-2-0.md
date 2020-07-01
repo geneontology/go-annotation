@@ -197,7 +197,7 @@ Each annotation is on a separate line of tab separated values:
  5 | Reference ::= [ID] ('\|' ID)* | | 1 or greater | PMID:30695063 | Different IDs, e.g. PMID and MOD paper id, must correspond to the same publication or reference
  6 | Evidence_type ::= OBO_ID | Evidence and Conclusion Ontology | 1 | ECO:0000315 |  Mapping file in progress:  https://github.com/evidenceontology/evidenceontology/issues/249
  7 | With_or_From ::= [ID] ('\|' \| ‘,’ ID)* | | 0 or greater | WB:WBVar00000510 | Pipe-separated entries represent independent evidence; comma-separated entries represent grouped evidence, e.g. two of three genes in a triply mutant organism
- 8 | Interacting_taxon_ID ::= ['NCBITaxon:'Taxon_ID] (',' 'NCBITaxon:'[Taxon_ID])* | | 0 or greater | NCBITaxon:5476 |
+ 8 | Interacting_taxon_ID ::= ['NCBITaxon:'Taxon_ID] ('\|' \| ‘,’ 'NCBITaxon:'[Taxon_ID])* | | 0 or greater | NCBITaxon:5476 |
  9 | Date ::= YYYY-MM-DD | | 1 | 2019-01-30 |  
 10 | Assigned_by ::= Prefix | | 1 or greater | MGI |
 11 | Annotation_Extensions ::= [Extension_Conj] ('\|' Extension_Conj)* | | 0 or greater | BFO:0000066(GO:0005829) |   
