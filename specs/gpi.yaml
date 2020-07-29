@@ -1,0 +1,56 @@
+## IN PROGRESS
+
+prefixes:
+  biolink: 'https://w3id.org/biolink/vocab/'
+  biolinkml: 'https://w3id.org/biolink/biolinkml/'
+  gff3: todo
+
+classes:
+  gene product:
+    slots:
+      - id
+      - symbol
+      - name
+      - synonyms
+      - type
+      - taxon
+      - parent
+      - xrefs
+      - properties
+
+slots:
+  id:
+    identifier: true
+    
+  symbol:
+    type: symbol type
+    multivalued: false
+          
+  name:
+    type: string
+    multivalued: false
+    mappings:
+      - biolink:name
+      - gff3p:name
+
+  synonyms:
+    type: string
+    multivalued: true
+    mappings:
+      - biolink:synonym
+
+  type:
+    type: category type
+    multivalued: false
+      
+types:
+  symbol type:
+    pattern: "^\S+$"
+    base: str
+    uri: xsd:string
+
+  category type:
+    typeof: uriorcurie
+    description: >-
+      A primitive type in which the value denotes a class within the biolink model.
+    
