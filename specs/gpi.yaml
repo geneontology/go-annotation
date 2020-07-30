@@ -3,7 +3,7 @@
 prefixes:
   biolink: 'https://w3id.org/biolink/vocab/'
   biolinkml: 'https://w3id.org/biolink/biolinkml/'
-  gff3: todo
+  gff3: 'https://github.com/The-Sequence-Ontology/Specifications/blob/master/gff3.md'
 
 classes:
   gene product:
@@ -18,30 +18,74 @@ classes:
       - xrefs
       - properties
 
+  gene product properties:
+    slots:
+      - todo
+
 slots:
   id:
     identifier: true
+    required: true
+    mappings:
+      - biolink:id
+      - alliancegenome:primaryId
+      - gff3:ID
     
   symbol:
-    type: symbol type
+    range: symbol type
     multivalued: false
+    required: true
+    mappings:
+      - alliancegenome:symbol
+      - rdfs:label
           
   name:
-    type: string
+    range: string
     multivalued: false
+    required: true
     mappings:
       - biolink:name
-      - gff3p:name
+      - gff3:Name
 
   synonyms:
-    type: string
+    range: string
     multivalued: true
     mappings:
       - biolink:synonym
-
+      - alliancegenome:synonyms
+      - gff3:Alias
+      - skos:altLabel
+      
   type:
-    type: category type
+    range: category type
     multivalued: false
+    required: true
+    mappings:
+      - biolink:type
+      - alliancegenome:soTermId
+      - gff3:type
+      - rdfs:type
+
+  taxon:
+    range: taxon type
+    multivalued: false
+    required: true
+    mappings:
+      - alliancegenome:taxonId
+      - RO:0002162
+      
+  parent:
+    range: gene product
+    multivalued: false  ##?
+    mappings:
+      - gff3:Parent
+
+  xrefs:
+    range: string
+    multivalued: true
+    mappings:
+      - alliancegenome:crossReferences  # inlined
+      - gff3:Dbxref
       
 types:
   symbol type:
@@ -53,4 +97,10 @@ types:
     typeof: uriorcurie
     description: >-
       A primitive type in which the value denotes a class within the biolink model.
-    
+
+  taxon type:
+    typeof: uriorcurie
+    pattern: "^NCBITaxon:\d+$"
+    description: >-
+      A primitive type in which the value denotes a class within the biolink model.
+      
