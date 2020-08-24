@@ -317,7 +317,7 @@ Each entity is written on a separate line of tab separated values:
 5 | DB_Object_Type ::= OBO_ID      | Sequence Ontology OR Protein Ontology OR Gene Ontology | 1 or greater | PR:000000001 | | If a gene encodes for both protein and ncRNA, more than one type can be applied.
 6 | DB_Object_Taxon ::= NCBITaxon:[Taxon_ID] || 1 |  NCBITaxon:9606 | | 
 7 | Encoded_By ::= [ID] ('\|' ID)* | | 0 or greater | HGNC:17810  | For proteins and transcripts, this refers to the gene id that encodes those entities. | 
-8 | Parent_Protein ::= [ID] ('\|' ID)* | | 0 or greater |  | For proteins, this refers to the gene-centric reference protein accession. | 
+8 | Parent_Protein ::= [ID] ('\|' ID)* | | 0 or greater |  | When column 1 refers to a protein isoform or modified protein, this column refers to the gene-centric reference protein accession of the column 1 entry. | 
 9 | Protein_Containing_Complex_Members ::= [ID] ('\|' ID)* | | 0 or greater | UniProtKB:Q15021\|UniProtKB:Q15003 | 
 10 | DB_Xrefs ::= [ID] ('\|' ID)* | | 0 or greater | |  See below for required DB xref values |
 11 | Gene_Product_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* |  | 0 or greater | db-subset=Swiss-Prot  | |
