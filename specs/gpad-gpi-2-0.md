@@ -194,7 +194,7 @@ Each annotation is on a separate line of tab separated values:
  2 | Negation ::= 'NOT' | | 0 or 1 | NOT |
  3 | Relation ::= OBO_ID | Relations Ontology (subset, see table below) | 1 | RO:0002263 |
  4 | Ontology_Class_ID ::= OBO_ID | Gene Ontology | 1 | GO:0050803 |
- 5 | Reference ::= [ID] ('\|' ID)* | | 1 or greater | PMID:30695063 | Different IDs, e.g. PMID and MOD paper id, must correspond to the same publication or reference
+ 5 | Reference ::= ID ('\|' ID)* | | 1 or greater | PMID:30695063 | Different IDs, e.g. PMID and MOD paper id, must correspond to the same publication or reference
  6 | Evidence_type ::= OBO_ID | Evidence and Conclusion Ontology | 1 | ECO:0000315 |  Mapping file in progress:  https://github.com/evidenceontology/evidenceontology/issues/249
  7 | With_or_From ::= [ID] ('\|' \| ‘,’ ID)* | | 0 or greater | WB:WBVar00000510 | Pipe-separated entries represent independent evidence; comma-separated entries represent grouped evidence, e.g. two of three genes in a triply mutant organism
  8 | Interacting_taxon_ID ::= ['NCBITaxon:'Taxon_ID] ('\|' \| ‘,’ 'NCBITaxon:'[Taxon_ID])* | | 0 or greater | NCBITaxon:5476 |
@@ -314,7 +314,7 @@ Each entity is written on a separate line of tab separated values:
 2 | DB_Object_Symbol ::= xxxx      | | 1 | AMOT | |
 3 | DB_Object_Name ::= [Label] ('\|' Label)*  | | 0 or greater | Angiomotin | |
 4 | DB_Object_Synonyms ::= [Label] ('\|' Label)*  | | 0 or greater | AMOT\|KIAA1071 | | 
-5 | DB_Object_Type ::= [OBO_ID] ('\|' OBO_ID)* | Sequence Ontology OR Protein Ontology OR Gene Ontology | 1 or greater | PR:000000001 | | If a gene encodes for both protein and ncRNA, more than one type can be applied.
+5 | DB_Object_Type ::= OBO_ID ('\|' OBO_ID)* | Sequence Ontology OR Protein Ontology OR Gene Ontology | 1 or greater | PR:000000001 | | If a gene encodes for both protein and ncRNA, more than one type can be applied.
 6 | DB_Object_Taxon ::= NCBITaxon:[Taxon_ID] || 1 |  NCBITaxon:9606 | | 
 7 | Encoded_By ::= [ID] ('\|' ID)* | | 0 or greater | HGNC:17810  | For proteins and transcripts, this refers to the gene id that encodes those entities. | 
 8 | Parent_Protein ::= [ID] ('\|' ID)* | | 0 or greater |  | When column 1 refers to a protein isoform or modified protein, this column refers to the gene-centric reference protein accession of the column 1 entry. | 
