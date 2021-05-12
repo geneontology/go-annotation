@@ -3,7 +3,7 @@ name: PAINT issue
 about: Report incorrect PAINT (IBA) annotations
 title: ''
 labels: PAINT annotation
-assignees: pgaudet, marcfeuermann
+assignees: marcfeuermann, pgaudet
 
 ---
 
@@ -11,6 +11,6 @@ assignees: pgaudet, marcfeuermann
 
 * **Sequences with problematic annotation (ID + gene/protein name):**
 
-* **Description of issue**
+* **Type of Issue: Erroneous source or erroneous propagation, or other issue**
 
 * Add the label 'high priority' if needed. Generally high priority issues affect a lot of proteins, and annotations are incorrect (as opposed to just imprecise).
