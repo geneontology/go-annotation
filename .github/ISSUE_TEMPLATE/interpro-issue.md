@@ -3,7 +3,7 @@ name: InterPro issue
 about: Report incorrect InterPro assignments
 title: ''
 labels: InterPro mapping
-assignees: EBI-Hsinyu, sarach06
+assignees: EBI-Hsinyu, sarach06, blazaropinto
 
 ---
 
