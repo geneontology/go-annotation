@@ -1,7 +1,7 @@
 ---
 name: ARBA issue
 about: Report incorrect ARBA annotation
-title: 'Incorrect UniProt KW mapping: '
+title: ''
 labels: ARBA
 assignees: esperetta, Antonialock, PedroRaposo 
 
