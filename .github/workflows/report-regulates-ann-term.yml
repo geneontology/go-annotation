@@ -1,0 +1,32 @@
+on:
+  issues:
+    types: [opened] # change to "locked"?
+
+jobs:
+
+  run-regulates-report-on-issue:
+    if: contains(github.event.issue.labels.*.name, 'reg_ann_to_list_of_terms')
+    runs-on: ubuntu-22.04
+    name: Add issue comment
+    steps:
+      - name: Proof of env
+        env:
+          NUMBER: ${{ github.event.issue.number }}
+        run: |
+          echo A comment on issue $NUMBER
+      - name: Checkout this repo
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+      - name: Run script
+        env:
+          NUMBER: ${{ github.event.issue.number }}
+        run: mkdir -p reports/$NUMBER && python3 ./scripts/annotation-review-report.py geneontology/simple-report-system 7 --number $NUMBER --label reg_ann_to_list_of_terms --field regulates_closure --output ./reports/$NUMBER --verbose
+      - name: Commit reports back to main
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: |
+            Reports at https://github.com/geneontology/simple-report-system/tree/main/reports/${{ github.event.issue.number }} for issue https://github.com/geneontology/simple-report-system/issues/${{ github.event.issue.number }}
+          commit_user_email: sjcarbon@lbl.gov
+          # Please do the dirty check, don't skip
+          skip_dirty_check: false
