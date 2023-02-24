@@ -3,7 +3,7 @@ name: InterPro issue
 about: Report incorrect InterPro assignments
 title: ''
 labels: InterPro mapping
-assignees: blazaropinto, sarach06
+assignees: blazaropinto, sarach06, tony787
 
 ---
 
