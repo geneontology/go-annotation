@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ParkinsonsUK-UCL	UniProtKB:O14976	GAK	PMID:16155256		GO:1905224	clathrin-coated pit assembly	IMP			PANTHER:PTHR23172	20161031		NCBITaxon:9606
+ParkinsonsUK-UCL	RGD:62042	Syt11	PMID:26589353|RGD:11079192		GO:1905469	negative regulation of clathrin-coated pit assembly	IMP			PANTHER:PTHR10024	20160920	GO:1900186	NCBITaxon:10116
+UniProt	UniProtKB:Q13492	PICALM	PMID:16262731		GO:1905224	clathrin-coated pit assembly	IDA			PANTHER:PTHR22951	20181122		NCBITaxon:9606
