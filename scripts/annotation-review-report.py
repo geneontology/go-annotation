@@ -132,12 +132,18 @@ def get_term_annotation_data(fq: str, term: str):
         raise Exception("HTTP error status code: {} for url: {}".format(resp.status_code, url))
     else:
         resp_tsv = resp.text.rstrip()
+        #LOG.info('resp_tsv: ' + resp_tsv)
+
+        ## Move on if there are no annotations.
+        if resp_tsv == "":
+            return ""
 
         ## Split and clean references column--PMID first if there.
         resp_list = resp_tsv.split("\n")
         cleaned_list = []
         for r in resp_list:
             cols = r.split("\t")
+            #LOG.info('r: ' + r)
             ref = cols[3]
             split_ref = ref.split('|')
             if len(split_ref) == 2:
@@ -213,5 +219,9 @@ if __name__ == "__main__":
             LOG.info(t)
 
             ## Print out header line:
-            fhandle.write(get_term_annotation_data(args.field, t))
-            fhandle.write("\n")
+            issue_output = get_term_annotation_data(args.field, t)
+            if issue_output == "":
+                LOG.info("No annotations for: " + t)
+            else:
+                fhandle.write(issue_output)
+                fhandle.write("\n")
