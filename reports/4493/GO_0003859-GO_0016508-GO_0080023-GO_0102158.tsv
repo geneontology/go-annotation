@@ -1,0 +1,15 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:C5AZ74	croR	PMID:11872727		GO:0003859	3-hydroxybutyryl-CoA dehydratase activity	IMP				20140401		NCBITaxon:272630
+ComplexPortal	ComplexPortal:CPX-6245	tfp_human	PMID:29915090		GO:0016508	long-chain-enoyl-CoA hydratase activity	IDA				20201111		NCBITaxon:9606
+MTBBASE	UniProtKB:Q11198	SAMEA2683035_02931	PMID:17240207		GO:0016508	long-chain-enoyl-CoA hydratase activity	IDA				20100709		NCBITaxon:1773
+RGD	RGD:620512	Hadha	PMID:1730633|RGD:1600572		GO:0016508	long-chain-enoyl-CoA hydratase activity	IDA			PANTHER:PTHR43612	20070315		NCBITaxon:10116
+UniProt	UniProtKB:P51659	HSD17B4	PMID:10400999		GO:0016508	long-chain-enoyl-CoA hydratase activity	IDA			PANTHER:PTHR13078	20120425		NCBITaxon:9606
+UniProt	AGI_LocusCode:AT3G06860	MFP2	PMID:20463021|TAIR:Publication:501737933		GO:0016508	long-chain-enoyl-CoA hydratase activity	IDA		TAIR:locus:2077542		20210401		NCBITaxon:3702
+UniProt	UniProtKB:P51659	HSD17B4	PMID:9089413		GO:0016508	long-chain-enoyl-CoA hydratase activity	IDA			PANTHER:PTHR13078	20120612	UBERON:0002107	NCBITaxon:9606
+UniProt	UniProtKB:P51659	HSD17B4	PMID:9482850		GO:0016508	long-chain-enoyl-CoA hydratase activity	IDA			PANTHER:PTHR13078	20120813		NCBITaxon:9606
+FlyBase	FB:FBgn0030731	Mfe2	PMID:21320074|FB:FBrf0213858		GO:0080023	3R-hydroxyacyl-CoA dehydratase activity	IDA			PANTHER:PTHR13078	20110609		NCBITaxon:7227
+Reactome	UniProtKB:B0YJ81	HACD1	PMID:18554506		GO:0080023	3R-hydroxyacyl-CoA dehydratase activity	EXP			PANTHER:PTHR11035	20200515		NCBITaxon:9606
+Reactome	UniProtKB:Q6Y1H2	HACD2	PMID:18554506		GO:0080023	3R-hydroxyacyl-CoA dehydratase activity	EXP			PANTHER:PTHR11035	20200515		NCBITaxon:9606
+TAIR	AGI_LocusCode:AT1G76150	ECH2	PMID:16982622|TAIR:Publication:501719904		GO:0080023	3R-hydroxyacyl-CoA dehydratase activity	IDA		TAIR:locus:2199767		20081030		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G76150	ECH2	PMID:16982622|TAIR:Publication:501719904		GO:0080023	3R-hydroxyacyl-CoA dehydratase activity	IGI		TAIR:locus:2199767		20081030		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G10480	PAS2	PMID:18799749|TAIR:Publication:501728710		GO:0080023	3R-hydroxyacyl-CoA dehydratase activity	IGI	SGD:S000003633	TAIR:locus:2142429		20210924		NCBITaxon:3702
