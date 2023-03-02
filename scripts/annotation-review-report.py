@@ -203,6 +203,15 @@ if __name__ == "__main__":
 
     ## All reports to single file.
     outfile = "-".join(collected_issues)
+
+    ## Truncate length if too long:
+    ## https://github.com/geneontology/go-annotation/issues/4495
+    if len(outfile) > 100:
+        outfile = outfile[0:98]
+        outfile = outfile + '_etc'
+        LOG.info('output list truncation: ' + outfile)
+
+    ## Continue assembly.
     outfile = outfile.replace(':','_') + '.tsv'
     outfile = args.output + '/' + outfile
     LOG.info('output to file: ' + outfile)
