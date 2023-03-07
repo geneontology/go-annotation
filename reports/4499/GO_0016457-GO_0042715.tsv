@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	FB:FBgn0019661	lncRNA:roX1	PMID:25501352|FB:FBrf0227152		GO:0016457	dosage compensation complex assembly involved in dosage compensation by hyperactivation of X chromosome	IMP				20150604		NCBITaxon:7227
+WB	WB:WBGene00004747	sdc-3	PMID:9056777|WB_REF:WBPaper00002743		GO:0042715	dosage compensation complex assembly involved in dosage compensation by hypoactivation of X chromosome	IDA				20090430		NCBITaxon:6239
