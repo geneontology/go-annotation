@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ComplexPortal	SGD:S000217939	CPX-2147	PMID:19079236		GO:0098787	mRNA cleavage involved in mRNA processing	IDA				20201103		NCBITaxon:559292
+ParkinsonsUK-UCL	UniProtKB:O75460	ERN1	PMID:21317875		GO:0098787	mRNA cleavage involved in mRNA processing	IDA			PANTHER:PTHR13954	20180227	UniProtKB:P17861|GO:0070054	NCBITaxon:9606
+SGD	SGD:S000004095	SEN2	PMID:25971974		GO:0098787	mRNA cleavage involved in mRNA processing	IMP		UniProtKB:P16658	PANTHER:PTHR21227	20180226	SGD:S000003745	NCBITaxon:559292
+UniProt	WB:WBGene00002147	ire-1	PMID:22125500|WB_REF:WBPaper00040453		GO:0098787	mRNA cleavage involved in mRNA processing	IGI	WB:WBGene00006959		PANTHER:PTHR13954	20220106	WB:WBGene00006959	NCBITaxon:6239
