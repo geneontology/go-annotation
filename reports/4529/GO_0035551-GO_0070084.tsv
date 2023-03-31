@@ -1,0 +1,11 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MTBBASE	UniProtKB:P9WK19	map	PMID:20038112		GO:0035551	protein initiator methionine removal involved in protein maturation	IDA			PANTHER:PTHR43330	20110725		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WK21	map-1	PMID:20363127		GO:0035551	protein initiator methionine removal involved in protein maturation	IDA			PANTHER:PTHR43330	20110725		NCBITaxon:83332
+SGD	SGD:S000004234	MAP1	PMID:11811952		GO:0035551	protein initiator methionine removal involved in protein maturation	IMP		UniProtKB:Q01662	PANTHER:PTHR43330	20101012		NCBITaxon:559292
+SGD	SGD:S000000187	MAP2	PMID:11811952		GO:0035551	protein initiator methionine removal involved in protein maturation	IMP		UniProtKB:P38174	PANTHER:PTHR45777	20101012		NCBITaxon:559292
+UniProt	UniProtKB:P53582	METAP1	PMID:17114291		GO:0035551	protein initiator methionine removal involved in protein maturation	IDA			PANTHER:PTHR43330	20220617		NCBITaxon:9606
+UniProt	MGI:MGI:1922874	Metap1	PMID:35584675|MGI:MGI:7294463		GO:0035551	protein initiator methionine removal involved in protein maturation	IDA			PANTHER:PTHR43330	20220620		NCBITaxon:10090
+UniProt	MGI:MGI:1922874	Metap1	PMID:35584702		GO:0035551	protein initiator methionine removal involved in protein maturation	IDA			PANTHER:PTHR43330	20220617		NCBITaxon:10090
+UniProt	UniProtKB:Q5BKX5	ACTMAP	PMID:36173861		GO:0035551	protein initiator methionine removal involved in protein maturation	IDA			PANTHER:PTHR28631	20221021		NCBITaxon:9606
+UniProt	MGI:MGI:3041247	Actmap	PMID:36173861|MGI:MGI:7367297		GO:0035551	protein initiator methionine removal involved in protein maturation	IDA			PANTHER:PTHR28631	20221021		NCBITaxon:10090
+EcoCyc	UniProtKB:P0AE18	map	PMID:3027045		GO:0070084	protein initiator methionine removal	IDA			PANTHER:PTHR43330	20081119		NCBITaxon:83333
