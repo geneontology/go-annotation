@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	AGI_LocusCode:AT2G38050	DET2	PMID:15993049|TAIR:Publication:501716363		GO:0050213	progesterone 5-alpha-reductase activity	IMP		TAIR:locus:2005506		20210401		NCBITaxon:3702
+UniProt	UniProtKB:Q2QDF6	DET2	PMID:17565582		GO:0050213	progesterone 5-alpha-reductase activity	IDA			PANTHER:PTHR10556	20120608		NCBITaxon:3635
+UniProt	AGI_LocusCode:AT2G38050	DET2	PMID:9108014|TAIR:Publication:3302		GO:0050213	progesterone 5-alpha-reductase activity	IDA		TAIR:locus:2005506		20210401		NCBITaxon:3702
