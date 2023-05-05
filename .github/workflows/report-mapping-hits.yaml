@@ -1,0 +1,32 @@
+on:
+  issues:
+    types: [opened] # change to "locked"?
+
+jobs:
+
+  run-mapping-hit-report-on-issue:
+    if: contains(github.event.issue.labels.*.name, 'mapping_hits_to_list_of_terms')
+    runs-on: ubuntu-22.04
+    name: Add issue comment
+    steps:
+      - name: Proof of env
+        env:
+          NUMBER: ${{ github.event.issue.number }}
+        run: |
+          echo A comment on issue $NUMBER
+      - name: Checkout this repo
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+      - name: Run script
+        env:
+          NUMBER: ${{ github.event.issue.number }}
+        run: mkdir -p reports/$NUMBER && wget --recursive --no-parent http://snapshot.geneontology.org/ontology/external2go/ && rm -f snapshot.geneontology.org/ontology/external2go/README.md snapshot.geneontology.org/ontology/external2go/index.html && python3 ./scripts/mapping-report.py geneontology/go-annotation 7 --number $NUMBER --label mapping_hits_to_list_of_terms --input ./snapshot.geneontology.org/ontology/external2go/ --output ./reports/$NUMBER --verbose
+      - name: Commit reports back to main
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: |
+            Reports at https://github.com/geneontology/go-annotation/tree/master/reports/${{ github.event.issue.number }} for issue https://github.com/geneontology/go-annotation/issues/${{ github.event.issue.number }}
+          commit_user_email: sjcarbon@lbl.gov
+          # Please do the dirty check, don't skip
+          skip_dirty_check: false
