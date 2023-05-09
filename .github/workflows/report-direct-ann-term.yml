@@ -18,10 +18,14 @@ jobs:
         uses: actions/checkout@v2
         with:
           ref: ${{ github.head_ref }}
-      - name: Run script
+      - name: Run annotation script
         env:
           NUMBER: ${{ github.event.issue.number }}
         run: mkdir -p reports/$NUMBER && python3 ./scripts/annotation-review-report.py geneontology/go-annotation 7 --number $NUMBER --label direct_ann_to_list_of_terms --field annotation_class --output ./reports/$NUMBER --verbose
+      - name: Run mapping hit script
+        env:
+          NUMBER: ${{ github.event.issue.number }}
+        run: mkdir -p reports/$NUMBER && wget --recursive --no-parent http://snapshot.geneontology.org/ontology/external2go/ && rm -f snapshot.geneontology.org/ontology/external2go/README.md snapshot.geneontology.org/ontology/external2go/index.html && python3 ./scripts/mapping-report.py geneontology/go-annotation 7 --number $NUMBER --label mapping_hits_to_list_of_terms --input ./snapshot.geneontology.org/ontology/external2go/ --output ./reports/$NUMBER --verbose
       - name: Commit reports back to main
         uses: stefanzweifel/git-auto-commit-action@v4
         with:

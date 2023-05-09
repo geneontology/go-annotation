@@ -157,7 +157,7 @@ if __name__ == "__main__":
 
     ## Continue assembly.
     outfile = outfile.replace(':','_') + '.tsv'
-    outfile = args.output + '/' + outfile
+    outfile = args.output + '/' + 'mappings_' + outfile
     LOG.info('output to file: ' + outfile)
 
     ## Define TSV headers.
