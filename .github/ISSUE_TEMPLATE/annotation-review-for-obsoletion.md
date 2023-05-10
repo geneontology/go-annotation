@@ -2,7 +2,7 @@
 name: Annotation review for obsoletion
 about: Annotation review for obsoletion
 title: Review annotations to [INSERT GO TERM]
-labels: annotation review
+labels: annotation review, direct_ann_to_list_of_terms
 assignees: ''
 
 ---
