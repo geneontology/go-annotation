@@ -1,4 +1,4 @@
-! Generated on 2023-04-26T18:32Z from the ontology 'go' with data version: 'releases/2023-04-26'
+! Generated on 2023-05-08T18:43Z from the ontology 'go' with data version: 'releases/2023-05-08'
 !
 MetaCyc:+-BORNEOL-DEHYDROGENASE-RXN > GO:(+)-borneol dehydrogenase activity ; GO:0047500
 MetaCyc:+-NEOMENTHOL-DEHYDROGENASE-RXN > GO:(+)-neomenthol dehydrogenase activity ; GO:0047501
@@ -761,14 +761,14 @@ MetaCyc:2.4.2.37-RXN > GO:NAD+-dinitrogen-reductase ADP-D-ribosyltransferase act
 MetaCyc:2.4.2.38-RXN > GO:glycoprotein 2-beta-D-xylosyltransferase activity ; GO:0050513
 MetaCyc:2.4.2.39-RXN > GO:xyloglucan 6-xylosyltransferase activity ; GO:0033843
 MetaCyc:2.4.99.1-RXN > GO:beta-galactoside alpha-2,6-sialyltransferase activity ; GO:0003835
-MetaCyc:2.4.99.10-RXN > GO:neolactotetraosylceramide alpha-2,3-sialyltransferase activity ; GO:0004513
-MetaCyc:2.4.99.11-RXN > GO:lactosylceramide alpha-2,6-N-sialyltransferase activity ; GO:0047287
-MetaCyc:2.4.99.2-RXN > GO:monosialoganglioside sialyltransferase activity ; GO:0047288
+MetaCyc:2.4.99.10-RXN > GO:N-acetyllactosaminide alpha-2,3-sialyltransferase activity ; GO:0008118
+MetaCyc:2.4.99.11-RXN > GO:beta-galactoside alpha-2,6-sialyltransferase activity ; GO:0003835
+MetaCyc:2.4.99.2-RXN > GO:beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide alpha-2,3- sialyltransferase ; GO:0047288
 MetaCyc:2.4.99.3-RXN > GO:alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase activity ; GO:0001665
 MetaCyc:2.4.99.4-RXN > GO:beta-galactoside (CMP) alpha-2,3-sialyltransferase activity ; GO:0003836
 MetaCyc:2.4.99.5-RXN > GO:galactosyldiacylglycerol alpha-2,3-sialyltransferase activity ; GO:0047289
 MetaCyc:2.4.99.6-RXN > GO:N-acetyllactosaminide alpha-2,3-sialyltransferase activity ; GO:0008118
-MetaCyc:2.4.99.7-RXN > GO:(alpha-N-acetylneuraminyl-2,3-beta-galactosyl-1,3)-N-acetyl-galactosaminide 6-alpha-sialyltransferase activity ; GO:0047290
+MetaCyc:2.4.99.7-RXN > GO:alpha-N-acetylneuraminyl-2,3-beta-galactosyl-1,3-N-acetyl-galactosaminide 6-alpha-sialyltransferase activity ; GO:0047290
 MetaCyc:2.4.99.8-RXN > GO:alpha-N-acetylneuraminate alpha-2,8-sialyltransferase activity ; GO:0003828
 MetaCyc:2.4.99.9-RXN > GO:lactosylceramide alpha-2,3-sialyltransferase activity ; GO:0047291
 MetaCyc:2.5.1.19-RXN > GO:3-phosphoshikimate 1-carboxyvinyltransferase activity ; GO:0003866

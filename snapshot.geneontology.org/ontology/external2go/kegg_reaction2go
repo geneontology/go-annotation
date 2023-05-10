@@ -1,4 +1,4 @@
-! Generated on 2023-04-26T18:32Z from the ontology 'go' with data version: 'releases/2023-04-26'
+! Generated on 2023-05-08T18:43Z from the ontology 'go' with data version: 'releases/2023-05-08'
 !
 KEGG_REACTION:R00004 > GO:inorganic diphosphate phosphatase activity ; GO:0004427
 KEGG_REACTION:R00005 > GO:allophanate hydrolase activity ; GO:0004039
@@ -1326,7 +1326,7 @@ KEGG_REACTION:R04597 > GO:3,4-dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-
 KEGG_REACTION:R04602 > GO:chloridazon-catechol dioxygenase activity ; GO:0047744
 KEGG_REACTION:R04606 > GO:lipid-A-disaccharide synthase activity ; GO:0008915
 KEGG_REACTION:R04623 > GO:dihydrobunolol dehydrogenase activity ; GO:0047855
-KEGG_REACTION:R04635 > GO:(alpha-N-acetylneuraminyl-2,3-beta-galactosyl-1,3)-N-acetyl-galactosaminide 6-alpha-sialyltransferase activity ; GO:0047290
+KEGG_REACTION:R04635 > GO:alpha-N-acetylneuraminyl-2,3-beta-galactosyl-1,3-N-acetyl-galactosaminide 6-alpha-sialyltransferase activity ; GO:0047290
 KEGG_REACTION:R04640 > GO:1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase activity ; GO:0003949
 KEGG_REACTION:R04657 > GO:tetraacyldisaccharide 4'-kinase activity ; GO:0009029
 KEGG_REACTION:R04690 > GO:(S)-stylopine synthase activity ; GO:0047052

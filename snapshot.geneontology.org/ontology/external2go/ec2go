@@ -1,4 +1,4 @@
-! Generated on 2023-04-26T18:32Z from the ontology 'go' with data version: 'releases/2023-04-26'
+! Generated on 2023-05-08T18:43Z from the ontology 'go' with data version: 'releases/2023-05-08'
 !
 EC:1.-.-.- > GO:oxidoreductase activity ; GO:0016491
 EC:1.1.-.- > GO:oxidoreductase activity, acting on CH-OH group of donors ; GO:0016614
@@ -2543,23 +2543,22 @@ EC:2.4.2.7 > GO:adenine phosphoribosyltransferase activity ; GO:0003999
 EC:2.4.2.8 > GO:hypoxanthine phosphoribosyltransferase activity ; GO:0004422
 EC:2.4.2.8 > GO:guanine phosphoribosyltransferase activity ; GO:0052657
 EC:2.4.2.9 > GO:uracil phosphoribosyltransferase activity ; GO:0004845
-EC:2.4.99.1 > GO:beta-galactoside alpha-2,6-sialyltransferase activity ; GO:0003835
-EC:2.4.99.10 > GO:neolactotetraosylceramide alpha-2,3-sialyltransferase activity ; GO:0004513
-EC:2.4.99.11 > GO:lactosylceramide alpha-2,6-N-sialyltransferase activity ; GO:0047287
+EC:2.4.3.- > GO:sialyltransferase activity ; GO:0008373
+EC:2.4.3.1 > GO:beta-galactoside alpha-2,6-sialyltransferase activity ; GO:0003835
+EC:2.4.3.2 > GO:beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide alpha-2,3- sialyltransferase ; GO:0047288
+EC:2.4.3.3 > GO:alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase activity ; GO:0001665
+EC:2.4.3.4 > GO:beta-galactoside (CMP) alpha-2,3-sialyltransferase activity ; GO:0003836
+EC:2.4.3.5 > GO:galactosyldiacylglycerol alpha-2,3-sialyltransferase activity ; GO:0047289
+EC:2.4.3.6 > GO:N-acetyllactosaminide alpha-2,3-sialyltransferase activity ; GO:0008118
+EC:2.4.3.7 > GO:alpha-N-acetylneuraminyl-2,3-beta-galactosyl-1,3-N-acetyl-galactosaminide 6-alpha-sialyltransferase activity ; GO:0047290
+EC:2.4.3.8 > GO:alpha-N-acetylneuraminate alpha-2,8-sialyltransferase activity ; GO:0003828
+EC:2.4.3.9 > GO:lactosylceramide alpha-2,3-sialyltransferase activity ; GO:0047291
 EC:2.4.99.12 > GO:Kdo transferase activity ; GO:0043842
 EC:2.4.99.13 > GO:Kdo transferase activity ; GO:0043842
 EC:2.4.99.14 > GO:Kdo transferase activity ; GO:0043842
 EC:2.4.99.15 > GO:Kdo transferase activity ; GO:0043842
 EC:2.4.99.17 > GO:S-adenosylmethionine:tRNA ribosyltransferase-isomerase activity ; GO:0051075
 EC:2.4.99.18 > GO:dolichyl-diphosphooligosaccharide-protein glycotransferase activity ; GO:0004579
-EC:2.4.99.2 > GO:monosialoganglioside sialyltransferase activity ; GO:0047288
-EC:2.4.99.3 > GO:alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase activity ; GO:0001665
-EC:2.4.99.4 > GO:beta-galactoside (CMP) alpha-2,3-sialyltransferase activity ; GO:0003836
-EC:2.4.99.5 > GO:galactosyldiacylglycerol alpha-2,3-sialyltransferase activity ; GO:0047289
-EC:2.4.99.6 > GO:N-acetyllactosaminide alpha-2,3-sialyltransferase activity ; GO:0008118
-EC:2.4.99.7 > GO:(alpha-N-acetylneuraminyl-2,3-beta-galactosyl-1,3)-N-acetyl-galactosaminide 6-alpha-sialyltransferase activity ; GO:0047290
-EC:2.4.99.8 > GO:alpha-N-acetylneuraminate alpha-2,8-sialyltransferase activity ; GO:0003828
-EC:2.4.99.9 > GO:lactosylceramide alpha-2,3-sialyltransferase activity ; GO:0047291
 EC:2.5.1.- > GO:transferase activity, transferring alkyl or aryl (other than methyl) groups ; GO:0016765
 EC:2.5.1.- > GO:(S)-2,3-di-O-geranylgeranylglyceryl phosphate synthase activity ; GO:0043888
 EC:2.5.1.- > GO:ATP dimethylallyltransferase activity ; GO:0052622
@@ -3457,6 +3456,7 @@ EC:3.1.3.77 > GO:acireductone synthase activity ; GO:0043874
 EC:3.1.3.78 > GO:phosphatidylinositol-4,5-bisphosphate 4-phosphatase activity ; GO:0034597
 EC:3.1.3.8 > GO:3-phytase activity ; GO:0016158
 EC:3.1.3.80 > GO:bisphosphoglycerate 3-phosphatase activity ; GO:0034417
+EC:3.1.3.86 > GO:phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity ; GO:0034485
 EC:3.1.3.9 > GO:glucose-6-phosphatase activity ; GO:0004346
 EC:3.1.3.95 > GO:phosphatidylinositol-3,5-bisphosphate 3-phosphatase activity ; GO:0052629
 EC:3.1.3.96 > GO:pseudouridine 5'-phosphatase activity ; GO:1990738

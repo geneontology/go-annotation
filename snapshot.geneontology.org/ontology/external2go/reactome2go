@@ -1,4 +1,4 @@
-! Generated on 2023-04-26T18:32Z from the ontology 'go' with data version: 'releases/2023-04-26'
+! Generated on 2023-05-08T18:43Z from the ontology 'go' with data version: 'releases/2023-05-08'
 !
 Reactome:R-HSA-1008248 > GO:nucleoside triphosphate adenylate kinase activity ; GO:0046899
 Reactome:R-HSA-1013012 > GO:G protein-coupled GABA receptor activity ; GO:0004965
@@ -6022,7 +6022,7 @@ Reactome:R-HSA-9817362 > GO:ubiquitin-protein transferase activity ; GO:0004842
 Reactome:R-HSA-9817397 > GO:protein serine/threonine kinase activity ; GO:0004674
 Reactome:R-HSA-9817400 > GO:K63-linked deubiquitinase activity ; GO:0061578
 Reactome:R-HSA-9817575 > GO:protein-disulfide reductase activity ; GO:0015035
-Reactome:R-HSA-981809 > GO:(alpha-N-acetylneuraminyl-2,3-beta-galactosyl-1,3)-N-acetyl-galactosaminide 6-alpha-sialyltransferase activity ; GO:0047290
+Reactome:R-HSA-981809 > GO:alpha-N-acetylneuraminyl-2,3-beta-galactosyl-1,3-N-acetyl-galactosaminide 6-alpha-sialyltransferase activity ; GO:0047290
 Reactome:R-HSA-981814 > GO:sialyltransferase activity ; GO:0008373
 Reactome:R-HSA-9818789 > GO:protein serine/threonine kinase activity ; GO:0004674
 Reactome:R-HSA-9818975 > GO:Met1-linked polyubiquitin deubiquitinase activity ; GO:0061815

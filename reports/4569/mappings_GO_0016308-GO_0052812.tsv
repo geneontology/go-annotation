@@ -1,0 +1,13 @@
+term	file	line
+GO:0016308	metacyc2go	MetaCyc:2.7.1.68-RXN > GO:1-phosphatidylinositol-4-phosphate 5-kinase activity ; GO:0016308
+GO:0016308	kegg_reaction2go	KEGG_REACTION:R03469 > GO:1-phosphatidylinositol-4-phosphate 5-kinase activity ; GO:0016308
+GO:0016308	unirule2go	UniRule:UR000639764 > GO:1-phosphatidylinositol-4-phosphate 5-kinase activity ; GO:0016308
+GO:0016308	reactome2go	Reactome:R-HSA-1676082 > GO:1-phosphatidylinositol-4-phosphate 5-kinase activity ; GO:0016308
+GO:0016308	reactome2go	Reactome:R-HSA-3772436 > GO:1-phosphatidylinositol-4-phosphate 5-kinase activity ; GO:0016308
+GO:0016308	reactome2go	Reactome:R-HSA-8868066 > GO:1-phosphatidylinositol-4-phosphate 5-kinase activity ; GO:0016308
+GO:0016308	interpro2go	InterPro:IPR017163 Phosphatidylinositol-4-phosphate 5-kinase, plant > GO:1-phosphatidylinositol-4-phosphate 5-kinase activity ; GO:0016308
+GO:0016308	ec2go	EC:2.7.1.68 > GO:1-phosphatidylinositol-4-phosphate 5-kinase activity ; GO:0016308
+GO:0016308	rhea2go	RHEA:14425 > GO:1-phosphatidylinositol-4-phosphate 5-kinase activity ; GO:0016308
+GO:0016308	pirsf2go	PIRSF:PIRSF037274 PIP5K_plant_prd > GO:1-phosphatidylinositol-4-phosphate 5-kinase activity ; GO:0016308
+GO:0052812	reactome2go	Reactome:R-HSA-1675773 > GO:phosphatidylinositol-3,4-bisphosphate 5-kinase activity ; GO:0052812
+GO:0052812	ec2go	EC:2.7.1.153 > GO:phosphatidylinositol-3,4-bisphosphate 5-kinase activity ; GO:0052812

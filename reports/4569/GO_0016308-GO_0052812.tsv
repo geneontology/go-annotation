@@ -1,0 +1,49 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CGD	CGD:CAL0000192511	MSS4	PMID:12055293|CGD_REF:CAL0081566		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IGI	SGD:S000002616		PANTHER:PTHR23086	20140625		NCBITaxon:237561
+FlyBase	FB:FBgn0016984	sktl	PMID:24768049|FB:FBrf0225093		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IMP			PANTHER:PTHR23086	20140626		NCBITaxon:7227
+GeneDB	PlasmoDB:PF3D7_0110600	PIP5K	PMID:19017115		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA				20090609		NCBITaxon:36329
+GeneDB	PlasmoDB:PF3D7_1020900	ARF1	PMID:19171150		GO:0090215	regulation of 1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA				20200309		NCBITaxon:36329
+MGI	MGI:MGI:2448520	Pip5kl1	PMID:14701839		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA			PANTHER:PTHR23086	20051209		NCBITaxon:10090
+MGI	MGI:MGI:1298224	Pip5k1c	PMID:14741049		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA			PANTHER:PTHR23086	20040504		NCBITaxon:10090
+MGI	MGI:MGI:107930	Pip5k1b	PMID:20622009		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IGI	MGI:MGI:1298224		PANTHER:PTHR23086	20160126	EMAPA:16894	NCBITaxon:10090
+MGI	MGI:MGI:107929	Pip5k1a	PMID:20622009		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IGI	MGI:MGI:1298224		PANTHER:PTHR23086	20160126	EMAPA:16894	NCBITaxon:10090
+MGI	MGI:MGI:1298224	Pip5k1c	PMID:20622009		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IMP	MGI:MGI:3054978		PANTHER:PTHR23086	20160126	EMAPA:16894	NCBITaxon:10090
+MGI	MGI:MGI:1298224	Pip5k1c	PMID:20622009		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA			PANTHER:PTHR23086	20160126	EMAPA:16894	NCBITaxon:10090
+MGI	MGI:MGI:107930	Pip5k1b	PMID:8798574		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA			PANTHER:PTHR23086	20110203		NCBITaxon:10090
+MGI	MGI:MGI:107929	Pip5k1a	PMID:8798574		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA			PANTHER:PTHR23086	20110203		NCBITaxon:10090
+MGI	UniProtKB:P78356	PIP4K2B	PMID:9038203		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA			PANTHER:PTHR23086	20080829		NCBITaxon:9606
+MGI	MGI:MGI:1298224	Pip5k1c	PMID:9535851		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA			PANTHER:PTHR23086	20110203		NCBITaxon:10090
+PomBase	PomBase:SPAC19G12.14	its3	PMID:10950958		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	EXP			PANTHER:PTHR23086	20221110	GO:0005886	NCBITaxon:4896
+PomBase	PomBase:SPAC19G12.14	its3	PMID:9873063		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IGI	SGD:S000002616		PANTHER:PTHR23086	20091230		NCBITaxon:4896
+RGD	RGD:621711	Pip4k2c	PMID:9685379|RGD:633581		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA			PANTHER:PTHR23086	20050217		NCBITaxon:10116
+SGD	SGD:S000002616	MSS4	PMID:9624177		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA		UniProtKB:P38994	PANTHER:PTHR23086	20010214		NCBITaxon:559292
+SGD	SGD:S000002616	MSS4	PMID:9624178		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA		UniProtKB:P38994	PANTHER:PTHR23086	20080609		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT1G21980	PIP5K1	PMID:15949803|TAIR:Publication:501716535		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA		TAIR:locus:2201108		20051012		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G01190	PIP5K11	PMID:15949803|TAIR:Publication:501716535		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA		TAIR:locus:2125098		20051007		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G56960	PIP5K4	PMID:17883374|TAIR:Publication:501723123		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA		TAIR:locus:2080585		20071126		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G26420	AT2G26420	PMID:18178770|TAIR:Publication:501724003		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA		TAIR:locus:2066246		20080227		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G41210	PIP5K5	PMID:19060112|TAIR:Publication:501729399		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA		TAIR:locus:2040327		20090326		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G77740	PIP5K2	PMID:19903693|TAIR:Publication:501735470		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA		TAIR:locus:2203211		20100129		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G07960	PIP5K6	PMID:21189293|TAIR:Publication:501741110		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA		TAIR:locus:2077397		20110325		NCBITaxon:3702
+UniProt	UniProtKB:Q99755	PIP5K1A	PMID:15157668		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA			PANTHER:PTHR23086	20100415		NCBITaxon:9606
+UniProt	UniProtKB:Q13574	DGKZ	PMID:15157668		GO:0090216	positive regulation of 1-phosphatidylinositol-4-phosphate 5-kinase activity	IMP			PANTHER:PTHR11255	20180804		NCBITaxon:9606
+UniProt	WB:WBGene00013709	csnk-1	PMID:18694560|WB_REF:WBPaper00032096		GO:0090217	negative regulation of 1-phosphatidylinositol-4-phosphate 5-kinase activity	IMP			PANTHER:PTHR11909	20151023		NCBITaxon:6239
+UniProt	WB:WBGene00004087	ppk-1	PMID:18694560|WB_REF:WBPaper00032096		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IMP			PANTHER:PTHR23086	20151023		NCBITaxon:6239
+UniProt	UniProtKB:Q99755	PIP5K1A	PMID:21477596		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA			PANTHER:PTHR23086	20201019		NCBITaxon:9606
+UniProt	UniProtKB:Q99755	PIP5K1A	PMID:22942276		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA			PANTHER:PTHR23086	20201019		NCBITaxon:9606
+UniProt	MGI:MGI:107930	Pip5k1b	PMID:22942276|MGI:MGI:6478055		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA			PANTHER:PTHR23086	20201019		NCBITaxon:10090
+UniProt	MGI:MGI:1298224	Pip5k1c	PMID:22942276|MGI:MGI:6478055		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA			PANTHER:PTHR23086	20201019		NCBITaxon:10090
+UniProt	UniProtKB:P48426	PIP4K2A	PMID:26774281		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA			PANTHER:PTHR23086	20200828		NCBITaxon:9606
+UniProt	UniProtKB:Q8TBX8	PIP4K2C	PMID:26774281		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA			PANTHER:PTHR23086	20200828		NCBITaxon:9606
+UniProt	UniProtKB:P78356	PIP4K2B	PMID:26774281		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA			PANTHER:PTHR23086	20200828		NCBITaxon:9606
+UniProt	MGI:MGI:107929	Pip5k1a	PMID:27739494|MGI:MGI:6201900		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IMP			PANTHER:PTHR23086	20180804		NCBITaxon:10090
+UniProt	MGI:MGI:1278339	Dgkz	PMID:27739494|MGI:MGI:6201900		GO:0090216	positive regulation of 1-phosphatidylinositol-4-phosphate 5-kinase activity	IMP			PANTHER:PTHR11255	20180804		NCBITaxon:10090
+UniProt	UniProtKB:P48426	PIP4K2A	PMID:31091439		GO:0090217	negative regulation of 1-phosphatidylinositol-4-phosphate 5-kinase activity	IMP			PANTHER:PTHR23086	20201117		NCBITaxon:9606
+UniProt	UniProtKB:Q8TBX8	PIP4K2C	PMID:31091439		GO:0090217	negative regulation of 1-phosphatidylinositol-4-phosphate 5-kinase activity	IMP			PANTHER:PTHR23086	20201117		NCBITaxon:9606
+UniProt	UniProtKB:P78356	PIP4K2B	PMID:31091439		GO:0090217	negative regulation of 1-phosphatidylinositol-4-phosphate 5-kinase activity	IMP			PANTHER:PTHR23086	20201117		NCBITaxon:9606
+UniProt	MGI:MGI:107930	Pip5k1b	PMID:9367159|MGI:MGI:6478527		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA			PANTHER:PTHR23086	20201019		NCBITaxon:10090
+UniProt	MGI:MGI:1335106	Pikfyve	PMID:9858586|MGI:MGI:1321345		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA			PANTHER:PTHR46715	20040712		NCBITaxon:10090
+ZFIN	ZFIN:ZDB-GENE-080721-18	pip4k2aa	PMID:23542014		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IMP	ZFIN:ZDB-MRPHLNO-130801-3		PANTHER:PTHR23086	20140131		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-050522-517	pip5k1aa	PMID:29959184		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA			PANTHER:PTHR23086	20191115		NCBITaxon:7955
+dictyBase	dictyBase:DDB_G0267588	DDB_G0267588	PMID:24485835		GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	IDA			PANTHER:PTHR23086	20150203		NCBITaxon:44689
+PomBase	PomBase:SPAC19G12.14	its3	PMID:15249580		GO:0052812	phosphatidylinositol-3,4-bisphosphate 5-kinase activity	IMP			PANTHER:PTHR23086	20180405	GO:0046854	NCBITaxon:4896
