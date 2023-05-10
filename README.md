@@ -23,12 +23,13 @@ As it stands now (and this still a bit of a mess) what we have is:
 
 ### direct\_ann\_to\_list\_of\_terms
 
-A set of TSVs of the annotations directly annotated the given GO terms.
+A set of TSVs of the annotations directly annotated the given GO terms. This report also includes direct mappings to all terms in the list.
 
 ### reg\_ann\_to\_list\_of\_terms
 
 A set of TSVs of the direct and indirect annotations over the regulates
-closure for the given GO terms.
+closure for the given GO terms. This report also includes mappings (direct and indirect annotations over the regulates
+closure) to all terms in the list. 
 
 ## Things to ponder
 
