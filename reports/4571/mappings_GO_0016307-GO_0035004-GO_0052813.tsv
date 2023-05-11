@@ -1,0 +1,17 @@
+term	file	line
+GO:0016307	smart2go	SMART:SM00330 PIPKc > GO:phosphatidylinositol phosphate kinase activity ; GO:0016307
+GO:0016307	unirule2go	UniRule:UR000400519 > GO:phosphatidylinositol phosphate kinase activity ; GO:0016307
+GO:0016307	interpro2go	InterPro:IPR002498 Phosphatidylinositol-4-phosphate 5-kinase, core > GO:phosphatidylinositol phosphate kinase activity ; GO:0016307
+GO:0016307	prosite2go	PROSITE:PS51455 PIPK > GO:phosphatidylinositol phosphate kinase activity ; GO:0016307
+GO:0016307	pfam2go	Pfam:PF01504 PIP5K > GO:phosphatidylinositol phosphate kinase activity ; GO:0016307
+GO:0035004	interpro2go	InterPro:IPR037702 PI3Kbeta, catalytic domain > GO:phosphatidylinositol 3-kinase activity ; GO:0035004
+GO:0035004	interpro2go	InterPro:IPR037703 PI3Kdelta, catalytic domain > GO:phosphatidylinositol 3-kinase activity ; GO:0035004
+GO:0035004	interpro2go	InterPro:IPR037704 PI3Kalpha, catalytic domain > GO:phosphatidylinositol 3-kinase activity ; GO:0035004
+GO:0035004	interpro2go	InterPro:IPR037705 PI3K-C2-alpha, catalytic domain > GO:phosphatidylinositol 3-kinase activity ; GO:0035004
+GO:0035004	interpro2go	InterPro:IPR037707 PI3K-C2-gamma, catalytic domain > GO:phosphatidylinositol 3-kinase activity ; GO:0035004
+GO:0035004	wikipedia2go	Wikipedia:Phosphoinositide_3-kinase > GO:phosphatidylinositol 3-kinase activity ; GO:0035004
+GO:0035004	reactome2go	Reactome:R-HSA-1433514 > GO:phosphatidylinositol 3-kinase activity ; GO:0035004
+GO:0035004	reactome2go	Reactome:R-HSA-2045911 > GO:phosphatidylinositol 3-kinase activity ; GO:0035004
+GO:0035004	reactome2go	Reactome:R-HSA-9028519 > GO:phosphatidylinositol 3-kinase activity ; GO:0035004
+GO:0035004	reactome2go	Reactome:R-HSA-9670433 > GO:phosphatidylinositol 3-kinase activity ; GO:0035004
+GO:0035004	reactome2go	Reactome:R-HSA-9680389 > GO:phosphatidylinositol 3-kinase activity ; GO:0035004

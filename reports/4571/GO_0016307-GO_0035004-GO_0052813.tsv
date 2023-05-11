@@ -1,0 +1,11 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+GeneDB	TriTrypDB:Tb927.4.1620	PIPKA	PMID:24639465		GO:0016307	phosphatidylinositol phosphate kinase activity	IMP				20150618		NCBITaxon:185431
+TAIR	AGI_LocusCode:AT1G21980	PIP5K1	PMID:11672432|TAIR:Publication:1546071		GO:0016307	phosphatidylinositol phosphate kinase activity	IDA		TAIR:locus:2201108		20040129		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G21980	PIP5K1	PMID:20427464|TAIR:Publication:501736577		GO:0016307	phosphatidylinositol phosphate kinase activity	IDA		TAIR:locus:2201108		20100628		NCBITaxon:3702
+dictyBase	dictyBase:DDB_G0275635	PIPkinA	PMID:11689442		GO:0016307	phosphatidylinositol phosphate kinase activity	IDA			PANTHER:PTHR23086	20060825		NCBITaxon:44689
+BHF-UCL	UniProtKB:P32871	PIK3CA	PMID:1322797		GO:0035004	phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR10048	20120921		NCBITaxon:9913
+FlyBase	FB:FBgn0015278	Pi3K68D	PMID:14701751|FB:FBrf0167897		GO:0035004	phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR10048	20130307		NCBITaxon:7227
+FlyBase	FB:FBgn0015279	Pi3K92E	PMID:9169420|FB:FBrf0093782		GO:0035004	phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR10048	20180314		NCBITaxon:7227
+RGD	RGD:620899	Pik3c3	PMID:11171063|RGD:628447		GO:0035004	phosphatidylinositol 3-kinase activity	IMP			PANTHER:PTHR10048	20090204		NCBITaxon:10116
+SGD	SGD:S000002580	ARG82	PMID:16123124		GO:0035004	phosphatidylinositol 3-kinase activity	IDA		UniProtKB:P07250	PANTHER:PTHR12400	20060831		NCBITaxon:559292
+ZFIN	ZFIN:ZDB-GENE-050522-517	pip5k1aa	PMID:27439870		GO:0052813	phosphatidylinositol bisphosphate kinase activity	IDA			PANTHER:PTHR23086	20161020		NCBITaxon:7955
