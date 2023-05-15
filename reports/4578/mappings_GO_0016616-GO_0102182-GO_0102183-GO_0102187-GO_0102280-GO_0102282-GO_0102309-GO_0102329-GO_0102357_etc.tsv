@@ -1,0 +1,89 @@
+term	file	line
+GO:0016616	ec2go	EC:1.1.1.- > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	hamap2go	HAMAP:MF_01166 > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	hamap2go	HAMAP:MF_02046 > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	hamap2go	HAMAP:MF_02047 > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	hamap2go	HAMAP:MF_02228 > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	smart2go	SMART:SM00984 UDPG_MGDP_dh_C > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	unirule2go	UniRule:UR000100805 > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	unirule2go	UniRule:UR000199743 > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	unirule2go	UniRule:UR000199757 > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	unirule2go	UniRule:UR001296157 > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR001557 L-lactate/malate dehydrogenase > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR001692 Histidinol dehydrogenase, conserved site > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR001732 UDP-glucose/GDP-mannose dehydrogenase, N-terminal > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR002225 3-beta hydroxysteroid dehydrogenase/isomerase > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR004553 Hydroxymethylglutaryl-CoA reductase, bacterial-type > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR006108 3-hydroxyacyl-CoA dehydrogenase, C-terminal > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR006139 D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR006180 3-hydroxyacyl-CoA dehydrogenase, conserved site > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR009029 Hydroxymethylglutaryl-CoA reductase, class I/II, substrate-binding domain superfamily > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR011128 Glycerol-3-phosphate dehydrogenase, NAD-dependent, N-terminal > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR011275 Malate dehydrogenase, type 3 > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR011829 Tartrate dehydrogenase > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR012131 Histidinol dehydrogenase > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR014026 UDP-glucose/GDP-mannose dehydrogenase, dimerisation > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR014027 UDP-glucose/GDP-mannose dehydrogenase, C-terminal > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR015955 Lactate dehydrogenase/glycoside hydrolase, family 4, C-terminal > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR017476 UDP-glucose/GDP-mannose dehydrogenase > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR019818 Isocitrate/isopropylmalate dehydrogenase, conserved site > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR022383 Lactate/malate dehydrogenase, C-terminal > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR022694 3-hydroxyacyl-CoA dehydrogenase > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR023689 2,3-diketo-L-gulonate reductase > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR043322 C-terminal binding protein > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR043678 Sulfopropanediol 3-dehydrogenase > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR044497 Aldo-keto reductase family 4A/B > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR045306 Sorbitol dehydrogenase-like > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR045309 Xanthoxin dehydrogenase ABA2-like > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR045313 Carbonyl reductase [NADPH] 1-like > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	interpro2go	InterPro:IPR047109 Cinnamyl alcohol dehydrogenase-like > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	prints2go	PRINTS:PR00083 HOLDHDRGNASE > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	prints2go	PRINTS:PR00086 LLDHDRGNASE > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	pirsf2go	PIRSF:PIRSF000102 Lac_mal_DH > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	pirsf2go	PIRSF:PIRSF000105 HCDH > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	pirsf2go	PIRSF:PIRSF000124 UDPglc_GDPman_dh > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	reactome2go	Reactome:R-HSA-975629 > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	prosite2go	PROSITE:PS00067 3HCDH > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	prosite2go	PROSITE:PS00470 IDH_IMDH > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	prosite2go	PROSITE:PS00611 HISOL_DEHYDROGENASE > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	pfam2go	Pfam:PF00389 2-Hacid_dh > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	pfam2go	Pfam:PF00725 3HCDH > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	pfam2go	Pfam:PF00815 Histidinol_dh > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	pfam2go	Pfam:PF00984 UDPG_MGDP_dh > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	pfam2go	Pfam:PF01073 3Beta_HSD > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	pfam2go	Pfam:PF01210 NAD_Gly3P_dh_N > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	pfam2go	Pfam:PF02866 Ldh_1_C > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	pfam2go	Pfam:PF03720 UDPG_MGDP_dh_C > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0016616	pfam2go	Pfam:PF03721 UDPG_MGDP_dh_N > GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616
+GO:0102182	metacyc2go	MetaCyc:RXN-11938 > GO:4alpha-carboxy-stigmasta-7,24(241)-dien-3beta-ol dehydrogenase/C4-decarboxylase activity ; GO:0102182
+GO:0102183	metacyc2go	MetaCyc:RXN-11939 > GO:avenastenone reductase activity ; GO:0102183
+GO:0102187	metacyc2go	MetaCyc:RXN-11949 > GO:4alpha-carboxy,4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-cholest-24-en-3beta-ol dehydrogenase/C4-decarboxylase activity ; GO:0102187
+GO:0102280	metacyc2go	MetaCyc:RXN-12582 > GO:choline monooxygenase activity (NADP-dependent) ; GO:0102280
+GO:0102282	metacyc2go	MetaCyc:RXN-12641 > GO:3-ketodihydrosphinganine (C18) reductase activity ; GO:0102282
+GO:0102309	metacyc2go	MetaCyc:RXN-12930 > GO:dTDP-4-oxo-2,6-dideoxy-D-glucose 4-ketoreductase (dTDP-D-oliose producing) activity ; GO:0102309
+GO:0102329	metacyc2go	MetaCyc:RXN-13251 > GO:hentriaconta-3,6,9,12,19,22,25,28-octaene-16-one-15-oyl-CoA reductase activity ; GO:0102329
+GO:0102357	metacyc2go	MetaCyc:RXN-13385 > GO:mithramycin dehydrogenase activity ; GO:0102357
+GO:0102386	metacyc2go	MetaCyc:RXN-13536 > GO:phenylacetaldehyde reductase activity ; GO:0102386
+GO:0102394	metacyc2go	MetaCyc:RXN-13637 > GO:4-hydroxy-L-isoleucine dehydrogenase activity ; GO:0102394
+GO:0102616	metacyc2go	MetaCyc:RXN-15464 > GO:oryzalexin A synthase activity ; GO:0102616
+GO:0102617	metacyc2go	MetaCyc:RXN-15465 > GO:oryzalexin C synthase (oryzalexin B dependent) activity ; GO:0102617
+GO:0102618	metacyc2go	MetaCyc:RXN-15466 > GO:oryzalexin B synthase activity ; GO:0102618
+GO:0102619	metacyc2go	MetaCyc:RXN-15467 > GO:oryzalexin C synthase (oryzalexin A dependent) activity ; GO:0102619
+GO:0102722	metacyc2go	MetaCyc:RXN-6903 > GO:gamma-hydroxybutyrate dehydrogenase activity (NAD(P)-dependent ; GO:0102722
+GO:0102727	metacyc2go	MetaCyc:RXN-710 > GO:3beta-hydroxysteroid dehydrogenase activity ; GO:0102727
+GO:0102909	metacyc2go	MetaCyc:RXN-8645 > GO:alpha-ketoglutarate reductase activity (NADH-dependent) ; GO:0102909
+GO:0102982	metacyc2go	MetaCyc:RXN-9578 > GO:UDP-3-dehydro-alpha-D-glucose dehydrogenase activity ; GO:0102982
+GO:0102982	rhea2go	RHEA:35755 > GO:UDP-3-dehydro-alpha-D-glucose dehydrogenase activity ; GO:0102982
+GO:0103014	metacyc2go	MetaCyc:RXN0-1941 > GO:beta-keto ester reductase activity ; GO:0103014
+GO:0103030	metacyc2go	MetaCyc:RXN0-5213 > GO:ethylglyoxal reductase (NADH-dependent, hydroxyacetone-forming) activity ; GO:0103030
+GO:0103030	rhea2go	RHEA:35615 > GO:ethylglyoxal reductase (NADH-dependent, hydroxyacetone-forming) activity ; GO:0103030
+GO:0103032	metacyc2go	MetaCyc:RXN0-5289 > GO:tartronate semialdehyde reductase activity ; GO:0103032
+GO:0103032	rhea2go	RHEA:18845 > GO:tartronate semialdehyde reductase activity ; GO:0103032
+GO:0103037	metacyc2go	MetaCyc:RXN0-5410 > GO:L-glyceraldehyde 3-phosphate reductase activity ; GO:0103037
+GO:0103050	metacyc2go	MetaCyc:RXN0-7119 > GO:isobutyraldehyde reductase activity ; GO:0103050
+GO:0103081	metacyc2go	MetaCyc:RXNQT-4165 > GO:methylthiopropylmalate dehydrogenase activity ; GO:0103081
+GO:0103084	metacyc2go	MetaCyc:RXNQT-4168 > GO:methylthiobutylmalate dehydrogenase activity ; GO:0103084
+GO:0103087	metacyc2go	MetaCyc:RXNQT-4171 > GO:methylthiopentylmalate dehydrogenase activity ; GO:0103087
+GO:0103090	metacyc2go	MetaCyc:RXNQT-4174 > GO:methylthiohexylmalate dehydrogenase activity ; GO:0103090
+GO:0103093	metacyc2go	MetaCyc:RXNQT-4178 > GO:methylthioalkylmalate dehydrogenase activity ; GO:0103093
+GO:1990002	rhea2go	RHEA:27986 > GO:methylglyoxal reductase (NADPH-dependent, acetol producing) ; GO:1990002

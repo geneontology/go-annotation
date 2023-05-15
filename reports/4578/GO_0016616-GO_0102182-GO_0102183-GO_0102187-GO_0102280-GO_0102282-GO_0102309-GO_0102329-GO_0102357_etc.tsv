@@ -1,0 +1,61 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AspGD	UniProtKB:A2QVE5	An11g01120	PMID:23924507		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20131104		NCBITaxon:425011
+CACAO	UniProtKB:Q6LZC3	wecC	PMID:18263721		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20130221		NCBITaxon:267377
+CACAO	UniProtKB:A6KWY5	BVU_0222	PMID:24963813		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20141022		NCBITaxon:435590
+CACAO	UniProtKB:A6KWY2	BVU_0219	PMID:24963813		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20141022		NCBITaxon:435590
+CGD	CGD:CAL0000189861	GRP2	PMID:29017767|CGD_REF:CAL0000215200		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR10366	20171024		NCBITaxon:237561
+EcoCyc	UniProtKB:P37672	dlgD	PMID:14718529		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR11091	20061205		NCBITaxon:83333
+EcoCyc	UniProtKB:Q46857	dkgA	PMID:16077126		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR11732	20121105		NCBITaxon:83333
+EcoCyc	UniProtKB:Q46851	gpr	PMID:18620424		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR43150	20080724		NCBITaxon:83333
+EcoCyc	UniProtKB:P76553	eutG	PMID:22731523		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR11496	20120703		NCBITaxon:83333
+EcoCyc	UniProtKB:P37769	kduD	PMID:24509771		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR42760	20140619		NCBITaxon:83333
+EcoCyc	UniProtKB:P39400	lgoD	PMID:24861318		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR43401	20140609		NCBITaxon:83333
+EcoCyc	UniProtKB:P45579	hcxA	PMID:27941785		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR43616	20170109		NCBITaxon:83333
+EcoCyc	UniProtKB:P76043	ycjQ	PMID:30742415		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR43350	20190506		NCBITaxon:83333
+EcoCyc	UniProtKB:P77503	ycjS	PMID:30742415		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR43249	20190507		NCBITaxon:83333
+SGD	SGD:S000003153	YGL185C	PMID:17173333		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IMP		UniProtKB:P53100	PANTHER:PTHR10996	20170609		NCBITaxon:559292
+SGD	SGD:S000006034	YPL113C	PMID:17173333		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IMP		UniProtKB:Q02961	PANTHER:PTHR10996	20070430		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT1G10310	AT1G10310	PMID:17550420|TAIR:Publication:501722586		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA		TAIR:locus:2012793		20070829		NCBITaxon:3702
+UniProt	UniProtKB:Q00278	aflD	PMID:10584035		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20130906		NCBITaxon:1403190
+UniProt	UniProtKB:Q58085	arfC	PMID:11889103		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR38011	20120618		NCBITaxon:243232
+UniProt	UniProtKB:P87017	aflH	PMID:14602595		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20130906		NCBITaxon:1403190
+UniProt	UniProtKB:G4WJD3	colC	PMID:15610039		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20160629		NCBITaxon:633
+UniProt	UniProtKB:Q9L9E9	novS	PMID:15752721		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20130910		NCBITaxon:193462
+UniProt	UniProtKB:Q3ZFI7	gar1	PMID:16101307		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20140113		NCBITaxon:51453
+UniProt	UniProtKB:Q9L9F8	novJ	PMID:16171397		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20130910		NCBITaxon:193462
+UniProt	UniProtKB:Q53TZ2	araA	PMID:16326697		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20160629		NCBITaxon:192
+UniProt	UniProtKB:Q5P5I4	ped	PMID:16388583		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20120629		NCBITaxon:76114
+UniProt	UniProtKB:Q13268	DHRS2	PMID:16685466		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR43943	20210831		NCBITaxon:9606
+UniProt	UniProtKB:Q58085	arfC	PMID:16730025		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR38011	20120618		NCBITaxon:243232
+UniProt	UniProtKB:P15428	HPGD	PMID:16757471		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR44229	20200326		NCBITaxon:9606
+UniProt	UniProtKB:Q2VEQ7	ddh	PMID:17049749		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20111020		NCBITaxon:523841
+UniProt	UniProtKB:Q82IY9	ptlF	PMID:17178094		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20130226		NCBITaxon:227882
+UniProt	UniProtKB:A9CQL8	PRXL2B	PMID:18006499		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR28630	20110222		NCBITaxon:9823
+UniProt	MGI:MGI:1913719	Prxl2b	PMID:18006499|MGI:MGI:3771130		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR28630	20110222		NCBITaxon:10090
+UniProt	UniProtKB:O66747	ribD2	PMID:18671734		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR38011	20120618		NCBITaxon:224324
+UniProt	UniProtKB:Q58085	arfC	PMID:18671734		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR38011	20120618		NCBITaxon:243232
+UniProt	UniProtKB:D3J0Z1	fgaDH	PMID:20039019		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20130125		NCBITaxon:746128
+UniProt	UniProtKB:P40332	iolX	PMID:20133360		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR42840	20170515		NCBITaxon:224308
+UniProt	UniProtKB:A0A072VDF2	CCR1	PMID:20876124		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR10366	20221024		NCBITaxon:3880
+UniProt	UniProtKB:G7JEE5	CCR2	PMID:20876124		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR10366	20221024		NCBITaxon:3880
+UniProt	UniProtKB:G5DGA8	IDOLDH	PMID:22101251		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20150616		NCBITaxon:102803
+UniProt	UniProtKB:Q2MFU6	kanK	PMID:22374809		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20130903		NCBITaxon:1967
+UniProt	UniProtKB:D4AK45	easD	PMID:22403186		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20130125		NCBITaxon:663331
+UniProt	UniProtKB:Q9HK58	rhaD	PMID:22481639		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20141114		NCBITaxon:273075
+UniProt	UniProtKB:O07564	ntdC	PMID:23586652		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR43708	20131209		NCBITaxon:224308
+UniProt	UniProtKB:D4GP33	xacB	PMID:23949136		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20160629		NCBITaxon:309800
+UniProt	UniProtKB:Q9Y394	DHRS7	PMID:24246760		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR44269	20210831		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y394	DHRS7	PMID:26466768		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR44269	20210831		NCBITaxon:9606
+UniProt	UniProtKB:A0QXD8	eltD	PMID:26560079		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20151221		NCBITaxon:246196
+UniProt	UniProtKB:Q9Y394	DHRS7	PMID:28457967		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR44269	20210831		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y394	DHRS7	PMID:28687384		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR44269	20210831		NCBITaxon:9606
+UniProt	UniProtKB:P16152	CBR1	PMID:28878267		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR43963	20220113	CHEBI:17650	NCBITaxon:9606
+UniProt	MGI:MGI:88284	Cbr1	PMID:28878267|MGI:MGI:6109036		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR43963	20220113	CHEBI:16827	NCBITaxon:10090
+UniProt	MGI:MGI:88284	Cbr1	PMID:28878267|MGI:MGI:6109036		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR43963	20220113	CHEBI:139311	NCBITaxon:10090
+UniProt	UniProtKB:Q96LJ7	DHRS1	PMID:30031147		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR44147	20210831		NCBITaxon:9606
+UniProt	UniProtKB:A0A8F5XX49	BDH2	PMID:31927319		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20221101		NCBITaxon:38868
+UniProt	UniProtKB:A0A8F5SIS3	BDH1	PMID:31927319		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20221101		NCBITaxon:38868
+UniProt	UniProtKB:Q53882	dauE	PMID:8655529		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20140107		NCBITaxon:45212
+UniProt	UniProtKB:Q9ZAU1	dnrU	PMID:9864344		GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IMP				20140117		NCBITaxon:1950
+EcoCyc	UniProtKB:P30863	dkgB	PMID:16077126		GO:1990002	methylglyoxal reductase (NADPH-dependent, acetol producing)	IDA			PANTHER:PTHR43827	20130102		NCBITaxon:83333
+EcoCyc	UniProtKB:Q46856	yqhD	PMID:20543070		GO:1990002	methylglyoxal reductase (NADPH-dependent, acetol producing)	IDA			PANTHER:PTHR43633	20150622		NCBITaxon:83333
