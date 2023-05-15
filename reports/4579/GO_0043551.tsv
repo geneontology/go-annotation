@@ -1,0 +1,47 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:P23727	PIK3R1	PMID:1322797		GO:0043551	regulation of phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR10155	20120921		NCBITaxon:9913
+BHF-UCL	UniProtKB:Q99731	CCL19	PMID:15059845		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR12015	20110322		NCBITaxon:9606
+BHF-UCL	UniProtKB:O00585	CCL21	PMID:15059845		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR12015	20110322		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q99731	CCL19	PMID:15778365		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR12015	20110322		NCBITaxon:9606
+BHF-UCL	UniProtKB:O00585	CCL21	PMID:15778365		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR12015	20110322		NCBITaxon:9606
+BHF-UCL	FB:FBgn0039044	p53	PMID:17686972|FB:FBrf0201223		GO:0043553	negative regulation of phosphatidylinositol 3-kinase activity	IMP			PANTHER:PTHR11447	20110122		NCBITaxon:7227
+BHF-UCL	UniProtKB:P01137	TGFB1	PMID:18625725		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR11848	20081119		NCBITaxon:9606
+BHF-UCL	MGI:MGI:2429397	Nod2	PMID:21156799|MGI:MGI:4946442		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IMP			PANTHER:PTHR24106	20110203		NCBITaxon:10090
+DFLAT	UniProtKB:P09038	FGF2	PMID:20011604		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR11486	20100415		NCBITaxon:9606
+MGI	MGI:MGI:99454	Irs1	PMID:11375348		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IMP			PANTHER:PTHR10614	20110121	GO:0035004	NCBITaxon:10090
+MGI	MGI:MGI:96573	Ins2	PMID:11375348		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR11454	20110121	GO:0035004	NCBITaxon:10090
+MGI	MGI:MGI:102718	Vav2	PMID:15728722		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IGI	MGI:MGI:1888518		PANTHER:PTHR45818	20060106		NCBITaxon:10090
+MGI	MGI:MGI:1888518	Vav3	PMID:15728722		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IGI	MGI:MGI:102718		PANTHER:PTHR45818	20060106		NCBITaxon:10090
+MGI	MGI:MGI:106211	Cdc42	PMID:15728722		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IMP			PANTHER:PTHR24072	20060106		NCBITaxon:10090
+MGI	MGI:MGI:97320	Klk1b4	PMID:15728722		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR24271	20060106		NCBITaxon:10090
+MGI	MGI:MGI:97845	Rac1	PMID:15728722		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IMP			PANTHER:PTHR24072	20101117		NCBITaxon:10090
+ParkinsonsUK-UCL	UniProtKB:Q9C0C7	AMBRA1	PMID:21753002		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR22874	20151112		NCBITaxon:9606
+RGD	RGD:1563261	Pik3r5	PMID:12882977|RGD:4144086		GO:0043551	regulation of phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR15593	20101001		NCBITaxon:10116
+RGD	RGD:3329	Pik3r1	PMID:12882977|RGD:4144086		GO:0043551	regulation of phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR10155	20101001		NCBITaxon:10116
+RGD	RGD:628844	Agap2	PMID:21847098|RGD:8553599		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IMP			PANTHER:PTHR45819	20220610		NCBITaxon:10116
+UniProt	UniProtKB:P09769	FGR	PMID:10739672		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IMP			PANTHER:PTHR24418	20110909		NCBITaxon:9606
+UniProt	UniProtKB:P22607	FGFR3	PMID:11294897		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IMP			PANTHER:PTHR24416	20110914		NCBITaxon:9606
+UniProt	UniProtKB:P17948	FLT1	PMID:11312102		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IMP			PANTHER:PTHR24416	20110922		NCBITaxon:9606
+UniProt	MGI:MGI:109378	Epha8	PMID:11416136|MGI:MGI:5294313		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR46877	20110829		NCBITaxon:10090
+UniProt	UniProtKB:Q02763	TEK	PMID:12816861		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IMP			PANTHER:PTHR24416	20111114		NCBITaxon:9606
+UniProt	MGI:MGI:104908	Ptk2b	PMID:12960403|MGI:MGI:3583523		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IMP			PANTHER:PTHR24418	20111123		NCBITaxon:10090
+UniProt	UniProtKB:P09619	PDGFRB	PMID:1314164		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR24416	20111007		NCBITaxon:9606
+UniProt	RGD:2922	Irs1	PMID:1380456|RGD:8553725		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR10614	20060106		NCBITaxon:10116
+UniProt	UniProtKB:P16234	PDGFRA	PMID:1646396		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IMP			PANTHER:PTHR24416	20111005		NCBITaxon:9606
+UniProt	UniProtKB:P01127	PDGFB	PMID:16530387		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR11633	20110406		NCBITaxon:9606
+UniProt	RGD:620795	Src	PMID:16530387|RGD:8553998		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IMP			PANTHER:PTHR24418	20110406		NCBITaxon:10116
+UniProt	UniProtKB:Q96FE7	PIK3IP1	PMID:17475214		GO:0043553	negative regulation of phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR24261	20120820		NCBITaxon:9606
+UniProt	MGI:MGI:1859730	Sh3glb1	PMID:17891140|MGI:MGI:3770552		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IMP			PANTHER:PTHR14167	20150327		NCBITaxon:10090
+UniProt	UniProtKB:Q02763	TEK	PMID:18425120		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IMP			PANTHER:PTHR24416	20111114		NCBITaxon:9606
+UniProt	MGI:MGI:1917016	Pik3ip1	PMID:18632611|MGI:MGI:3806716		GO:0043553	negative regulation of phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR24261	20120820		NCBITaxon:10090
+UniProt	UniProtKB:Q5VWQ8	DAB2IP	PMID:19903888		GO:0043553	negative regulation of phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR10194	20130325		NCBITaxon:9606
+UniProt	UniProtKB:Q6ZNE5	ATG14	PMID:21062745		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR13664	20150422		NCBITaxon:9606
+UniProt	UniProtKB:Q99570	PIK3R4	PMID:21062745		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR17583	20150422		NCBITaxon:9606
+UniProt	UniProtKB:Q92622	RUBCN	PMID:21062745		GO:0043553	negative regulation of phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR45971	20150422		NCBITaxon:9606
+UniProt	MGI:MGI:1916017	Washc1	PMID:23974797|MGI:MGI:5519172		GO:0043553	negative regulation of phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR23331	20141208		NCBITaxon:10090
+UniProt	MGI:MGI:2685363	Tnfaip8l3	PMID:25242044|MGI:MGI:5613301		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IDA			PANTHER:PTHR12757	20150724		NCBITaxon:10090
+UniProt	UniProtKB:A4D1P6	WDR91	PMID:26783301		GO:0043551	regulation of phosphatidylinositol 3-kinase activity	IMP			PANTHER:PTHR13083	20170713		NCBITaxon:9606
+UniProt	UniProtKB:Q562E7	WDR81	PMID:26783301		GO:0043551	regulation of phosphatidylinositol 3-kinase activity	IMP			PANTHER:PTHR44662	20170713		NCBITaxon:9606
+UniProt	MGI:MGI:96892	Lyn	PMID:8128248|MGI:MGI:5297796		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IMP			PANTHER:PTHR24418	20111102		NCBITaxon:10090
+UniProt	UniProtKB:P15391	CD19	PMID:9382888		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IMP			PANTHER:PTHR16674	20181107		NCBITaxon:9606
+UniProt	MGI:MGI:88319	Cd19	PMID:9382888|MGI:MGI:1100180		GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	IMP			PANTHER:PTHR16674	20181107		NCBITaxon:10090
