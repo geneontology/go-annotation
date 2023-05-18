@@ -233,7 +233,7 @@ Biological Process | involved in | RO:0002331 |
 Biological Process | acts upstream of | RO:0002263 |
 Biological Process | acts upstream of positive effect | RO:0004034 |
 Biological Process | acts upstream of negative effect | RO:0004035 |
-Biological Process | acts upstream of or within | RO:0002264 |
+Biological Process | acts upstream of or within | RO:0002264 | Default for BP (GO:0008150) and child terms
 Biological Process | acts upstream of or within positive effect | RO:0004032 |
 Biological Process | acts upstream of or within negative effect | RO:0004033 |
 Cellular Component | part of	| BFO:0000050 | Default for protein-containing complex (GO:0032991) and child terms
