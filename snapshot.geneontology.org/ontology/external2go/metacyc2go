@@ -1,4 +1,4 @@
-! Generated on 2023-05-08T18:43Z from the ontology 'go' with data version: 'releases/2023-05-08'
+! Generated on 2023-05-14T18:17Z from the ontology 'go' with data version: 'releases/2023-05-12'
 !
 MetaCyc:+-BORNEOL-DEHYDROGENASE-RXN > GO:(+)-borneol dehydrogenase activity ; GO:0047500
 MetaCyc:+-NEOMENTHOL-DEHYDROGENASE-RXN > GO:(+)-neomenthol dehydrogenase activity ; GO:0047501
@@ -761,8 +761,6 @@ MetaCyc:2.4.2.37-RXN > GO:NAD+-dinitrogen-reductase ADP-D-ribosyltransferase act
 MetaCyc:2.4.2.38-RXN > GO:glycoprotein 2-beta-D-xylosyltransferase activity ; GO:0050513
 MetaCyc:2.4.2.39-RXN > GO:xyloglucan 6-xylosyltransferase activity ; GO:0033843
 MetaCyc:2.4.99.1-RXN > GO:beta-galactoside alpha-2,6-sialyltransferase activity ; GO:0003835
-MetaCyc:2.4.99.10-RXN > GO:N-acetyllactosaminide alpha-2,3-sialyltransferase activity ; GO:0008118
-MetaCyc:2.4.99.11-RXN > GO:beta-galactoside alpha-2,6-sialyltransferase activity ; GO:0003835
 MetaCyc:2.4.99.2-RXN > GO:beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide alpha-2,3- sialyltransferase ; GO:0047288
 MetaCyc:2.4.99.3-RXN > GO:alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase activity ; GO:0001665
 MetaCyc:2.4.99.4-RXN > GO:beta-galactoside (CMP) alpha-2,3-sialyltransferase activity ; GO:0003836
@@ -841,7 +839,7 @@ MetaCyc:2.7.1.149-RXN > GO:1-phosphatidylinositol-5-phosphate 4-kinase activity 
 MetaCyc:2.7.1.150-RXN > GO:1-phosphatidylinositol-3-phosphate 5-kinase activity ; GO:0000285
 MetaCyc:2.7.1.151-RXN > GO:inositol-1,4,5-trisphosphate 6-kinase activity ; GO:0000823
 MetaCyc:2.7.1.152-RXN > GO:inositol hexakisphosphate 5-kinase activity ; GO:0000832
-MetaCyc:2.7.1.153-RXN > GO:phosphatidylinositol-4,5-bisphosphate 3-kinase activity ; GO:0046934
+MetaCyc:2.7.1.153-RXN > GO:1-phosphatidylinositol-4,5-bisphosphate 3-kinase activity ; GO:0046934
 MetaCyc:2.7.1.154-RXN > GO:1-phosphatidylinositol-4-phosphate 3-kinase activity ; GO:0035005
 MetaCyc:2.7.1.156-RXN > GO:adenosylcobinamide kinase activity ; GO:0043752
 MetaCyc:2.7.1.157-RXN > GO:N-acetylgalactosamine kinase activity ; GO:0033858
@@ -1737,7 +1735,6 @@ MetaCyc:ADENOSYLHOMOCYSCAT-PWY > GO:S-adenosylhomocysteine catabolic process ; G
 MetaCyc:ADENOSYLHOMOCYSTEINASE-RXN > GO:adenosylhomocysteinase activity ; GO:0004013
 MetaCyc:ADENOSYLHOMOCYSTEINE-NUCLEOSIDASE-RXN > GO:adenosylhomocysteine nucleosidase activity ; GO:0008782
 MetaCyc:ADENOSYLMETHIONINE-CYCLOTRANSFERASE-RXN > GO:adenosylmethionine cyclotransferase activity ; GO:0047625
-MetaCyc:ADENOSYLMETHIONINE-HYDROLASE-RXN > GO:adenosylmethionine hydrolase activity ; GO:0047626
 MetaCyc:ADENPRIBOSYLTRAN-RXN > GO:adenine phosphoribosyltransferase activity ; GO:0003999
 MetaCyc:ADENYL-KIN-RXN > GO:adenylate kinase activity ; GO:0004017
 MetaCyc:ADENYLATECYC-RXN > GO:adenylate cyclase activity ; GO:0004016
@@ -4371,9 +4368,6 @@ MetaCyc:RXN-13260 > GO:fatty-acyl-[acp] elongase/decarboxylase activity ; GO:010
 MetaCyc:RXN-13261 > GO:stearoyl-[acp] elongase/decarboxylase activity ; GO:0102333
 MetaCyc:RXN-13269 > GO:N,N'-diacetylbacilliosaminyl-1-phosphate transferase activity ; GO:0102334
 MetaCyc:RXN-13274 > GO:N,N'-diacetylbacillosaminyl-diphospho-undecaprenol alpha-1,3-N-acetylgalactosaminyltransferase activity ; GO:0102335
-MetaCyc:RXN-13294 > GO:3-oxo-arachidoyl-CoA synthase activity ; GO:0102336
-MetaCyc:RXN-13296 > GO:3-oxo-cerotoyl-CoA synthase activity ; GO:0102337
-MetaCyc:RXN-13297 > GO:3-oxo-lignoceronyl-CoA synthase activity ; GO:0102338
 MetaCyc:RXN-13298 > GO:3-oxo-arachidoyl-CoA reductase activity ; GO:0102339
 MetaCyc:RXN-13299 > GO:3-oxo-behenoyl-CoA reductase activity ; GO:0102340
 MetaCyc:RXN-13300 > GO:3-oxo-lignoceroyl-CoA reductase activity ; GO:0102341

@@ -1,4 +1,4 @@
-! Generated on 2023-05-08T18:43Z from the ontology 'go' with data version: 'releases/2023-05-08'
+! Generated on 2023-05-14T18:17Z from the ontology 'go' with data version: 'releases/2023-05-12'
 !
 KEGG_REACTION:R00004 > GO:inorganic diphosphate phosphatase activity ; GO:0004427
 KEGG_REACTION:R00005 > GO:allophanate hydrolase activity ; GO:0004039
@@ -44,7 +44,6 @@ KEGG_REACTION:R00149 > GO:carbamoyl-phosphate synthase (ammonia) activity ; GO:0
 KEGG_REACTION:R00155 > GO:UDP phosphatase activity ; GO:0045134
 KEGG_REACTION:R00161 > GO:FMN adenylyltransferase activity ; GO:0003919
 KEGG_REACTION:R00162 > GO:MAP kinase activity ; GO:0004707
-KEGG_REACTION:R00175 > GO:adenosylmethionine hydrolase activity ; GO:0047626
 KEGG_REACTION:R00178 > GO:adenosylmethionine decarboxylase activity ; GO:0004014
 KEGG_REACTION:R00179 > GO:1-aminocyclopropane-1-carboxylate synthase activity ; GO:0016847
 KEGG_REACTION:R00180 > GO:adenosylmethionine cyclotransferase activity ; GO:0047625
@@ -1309,7 +1308,7 @@ KEGG_REACTION:R04529 > GO:UDP-2-acetamido-4-amino-2,4,6-trideoxyglucose transami
 KEGG_REACTION:R04537 > GO:(3R)-3-hydroxyoctanoyl-[acyl-carrier-protein] dehydratase activity ; GO:0047451
 KEGG_REACTION:R04538 > GO:furylfuramide isomerase activity ; GO:0047907
 KEGG_REACTION:R04541 > GO:coenzyme-B sulfoethylthiotransferase activity ; GO:0050524
-KEGG_REACTION:R04545 > GO:phosphatidylinositol-4,5-bisphosphate 3-kinase activity ; GO:0046934
+KEGG_REACTION:R04545 > GO:1-phosphatidylinositol-4,5-bisphosphate 3-kinase activity ; GO:0046934
 KEGG_REACTION:R04552 > GO:15-hydroxyprostaglandin dehydrogenase (NADP+) activity ; GO:0047021
 KEGG_REACTION:R04556 > GO:13-prostaglandin reductase activity ; GO:0036132
 KEGG_REACTION:R04556 > GO:15-oxoprostaglandin 13-oxidase activity ; GO:0047522

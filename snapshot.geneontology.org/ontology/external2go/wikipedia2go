@@ -1,4 +1,4 @@
-! Generated on 2023-05-08T18:43Z from the ontology 'go' with data version: 'releases/2023-05-08'
+! Generated on 2023-05-14T18:17Z from the ontology 'go' with data version: 'releases/2023-05-12'
 !
 Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase [NAD(P)] activity ; GO:0003845
 Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase (NAD+) activity ; GO:0070523
@@ -516,7 +516,7 @@ Wikipedia:Peroxisome > GO:peroxisome ; GO:0005777
 Wikipedia:Phagocytosis > GO:phagocytosis ; GO:0006909
 Wikipedia:Phagolysosome > GO:phagolysosome ; GO:0032010
 Wikipedia:Phagosome > GO:phagocytic vesicle ; GO:0045335
-Wikipedia:Phosphoinositide_3-kinase > GO:phosphatidylinositol 3-kinase activity ; GO:0035004
+Wikipedia:Phosphoinositide_3-kinase > GO:1-phosphatidylinositol-3-kinase activity ; GO:0016303
 Wikipedia:Phosphorylation > GO:phosphorylation ; GO:0016310
 Wikipedia:Photoinhibition > GO:photoinhibition ; GO:0010205
 Wikipedia:Photolysis#Photolysis_in_photosynthesis > GO:photosynthesis, light reaction ; GO:0019684
