@@ -1,4 +1,4 @@
-! Generated on 2023-05-14T18:17Z from the ontology 'go' with data version: 'releases/2023-05-12'
+! Generated on 2023-05-18T18:44Z from the ontology 'go' with data version: 'releases/2023-05-18'
 !
 Reactome:R-HSA-1008248 > GO:nucleoside triphosphate adenylate kinase activity ; GO:0046899
 Reactome:R-HSA-1013012 > GO:G protein-coupled GABA receptor activity ; GO:0004965
@@ -708,7 +708,6 @@ Reactome:R-HSA-167191 > GO:RNA polymerase II CTD heptapeptide repeat kinase acti
 Reactome:R-HSA-167408 > GO:G protein-coupled receptor activity ; GO:0004930
 Reactome:R-HSA-167415 > GO:GTPase activity ; GO:0003924
 Reactome:R-HSA-167429 > GO:GTP binding ; GO:0005525
-Reactome:R-HSA-1675773 > GO:1-phosphatidylinositol-3,4-bisphosphate 5-kinase activity ; GO:0052812
 Reactome:R-HSA-1675776 > GO:1-phosphatidylinositol-5-phosphate 4-kinase activity ; GO:0016309
 Reactome:R-HSA-1675780 > GO:1-phosphatidylinositol 4-kinase activity ; GO:0004430
 Reactome:R-HSA-1675795 > GO:phosphatidylinositol-3-phosphate phosphatase activity ; GO:0004438
@@ -5537,9 +5536,9 @@ Reactome:R-HSA-964958 > GO:pyridoxal kinase activity ; GO:0008478
 Reactome:R-HSA-964962 > GO:pyridoxal kinase activity ; GO:0008478
 Reactome:R-HSA-964970 > GO:pyridoxal kinase activity ; GO:0008478
 Reactome:R-HSA-9649736 > GO:GTPase activity ; GO:0003924
-Reactome:R-HSA-965019 > GO:pyridoxamine-phosphate oxidase activity ; GO:0004733
+Reactome:R-HSA-965019 > GO:pyridoxamine phosphate oxidase activity ; GO:0004733
 Reactome:R-HSA-965067 > GO:thiamine triphosphate phosphatase activity ; GO:0050333
-Reactome:R-HSA-965079 > GO:pyridoxamine-phosphate oxidase activity ; GO:0004733
+Reactome:R-HSA-965079 > GO:pyridoxamine phosphate oxidase activity ; GO:0004733
 Reactome:R-HSA-9652165 > GO:protein serine/threonine kinase activity ; GO:0004674
 Reactome:R-HSA-9652816 > GO:protein tyrosine/serine/threonine phosphatase activity ; GO:0008138
 Reactome:R-HSA-9653249 > GO:serine-type endopeptidase activity ; GO:0004252

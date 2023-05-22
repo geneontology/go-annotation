@@ -1,4 +1,4 @@
-! Generated on 2023-05-14T18:17Z from the ontology 'go' with data version: 'releases/2023-05-12'
+! Generated on 2023-05-18T18:44Z from the ontology 'go' with data version: 'releases/2023-05-18'
 !
 RHEA:10000 > GO:pentanamidase activity ; GO:0050168
 RHEA:10004 > GO:thiocyanate isomerase activity ; GO:0050335
@@ -1210,7 +1210,7 @@ RHEA:15801 > GO:phospholipase A2 activity ; GO:0004623
 RHEA:15805 > GO:dethiobiotin synthase activity ; GO:0004141
 RHEA:15809 > GO:R-linalool synthase activity ; GO:0034008
 RHEA:15813 > GO:imidazole N-acetyltransferase activity ; GO:0047716
-RHEA:15817 > GO:pyridoxamine-phosphate oxidase activity ; GO:0004733
+RHEA:15817 > GO:pyridoxamine phosphate oxidase activity ; GO:0004733
 RHEA:15821 > GO:glycine dehydrogenase (cyanide-forming) activity ; GO:0050622
 RHEA:15829 > GO:16-hydroxysteroid epimerase activity ; GO:0047524
 RHEA:15833 > GO:4-hydroxymandelate oxidase activity ; GO:0047579
@@ -3621,7 +3621,7 @@ RHEA:32703 > GO:copal-8-ol diphosphate synthase activity ; GO:0102161
 RHEA:32711 > GO:(3R)-hydroxyacyl-CoA dehydrogenase (NAD) activity ; GO:0106386
 RHEA:32719 > GO:CYP79F1 dihomomethionine monooxygenase activity ; GO:0103096
 RHEA:32723 > GO:CYP79F1 trihomomethionine monooxygenase activity ; GO:0103097
-RHEA:32727 > GO:very-long-chain 3-ketoacyl-CoA synthase activity ; GO:0102756
+RHEA:32727 > GO:fatty acid elongase activity ; GO:0009922
 RHEA:32735 > GO:phosphatidyl-N-methylethanolamine N-methyltransferase activity ; GO:0000773
 RHEA:32739 > GO:phosphatidyl-N-dimethylethanolamine N-methyltransferase activity ; GO:0080101
 RHEA:32747 > GO:ethanolamine transmembrane transporter activity ; GO:0034228
@@ -3676,7 +3676,7 @@ RHEA:33299 > GO:deoxyhypusine synthase activity ; GO:0034038
 RHEA:33419 > GO:2-oxo-delta3-4,5,5-trimethylcyclopentenylacetyl-CoA synthetase activity ; GO:0018855
 RHEA:33447 > GO:4alpha-carboxy-5alpha-cholesta-8-en-3beta-ol:NAD(P)+ 3-dehydrogenase (decarboxylating) activity ; GO:0103067
 RHEA:33503 > GO:ABC-type azole transporter activity ; GO:0140394
-RHEA:33559 > GO:sn-2-glycerol-3-phosphate omega-OH-C22:0-CoA acyl transferase activity ; GO:0102419
+RHEA:33559 > GO:glycerol-3-phosphate 2-O-acyltransferase activity ; GO:0090447
 RHEA:33627 > GO:decanoate-CoA ligase activity ; GO:0102391
 RHEA:33655 > GO:oleate transmembrane transporter activity ; GO:1901480
 RHEA:33687 > GO:3'-N-debenzoyl-2'-deoxytaxol N-benzoyltransferase activity ; GO:0102923
@@ -4481,6 +4481,10 @@ RHEA:70615 > GO:ACP-dependent peptidyl-lysine N6-palmitoyltransferase activity ;
 RHEA:70783 > GO:aspartate:glutamate, proton antiporter activity ; GO:0000515
 RHEA:70827 > GO:L-lysine:L-arginine antiporter activity ; GO:0106439
 RHEA:70967 > GO:3-sulfino-L-alanine: proton, glutamate antiporter activity ; GO:0000514
+RHEA:71059 > GO:broad specificity neutral L-amino acid:basic L-amino acid antiporter activity ; GO:0180009
+RHEA:71067 > GO:broad specificity neutral L-amino acid:basic L-amino acid antiporter activity ; GO:0180009
+RHEA:71071 > GO:broad specificity neutral L-amino acid:basic L-amino acid antiporter activity ; GO:0180009
+RHEA:71075 > GO:broad specificity neutral L-amino acid:basic L-amino acid antiporter activity ; GO:0180009
 RHEA:71127 > GO:L-glutamine, sodium:proton antiporter activity ; GO:0140830
 RHEA:71131 > GO:L-asparagine, sodium:proton antiporter activity ; GO:0140831
 RHEA:71135 > GO:L-histidine, sodium:proton antiporter activity ; GO:0140832

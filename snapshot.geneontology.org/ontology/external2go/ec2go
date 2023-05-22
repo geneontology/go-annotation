@@ -1,4 +1,4 @@
-! Generated on 2023-05-14T18:17Z from the ontology 'go' with data version: 'releases/2023-05-12'
+! Generated on 2023-05-18T18:44Z from the ontology 'go' with data version: 'releases/2023-05-18'
 !
 EC:1.-.-.- > GO:oxidoreductase activity ; GO:0016491
 EC:1.1.-.- > GO:oxidoreductase activity, acting on CH-OH group of donors ; GO:0016614
@@ -1431,7 +1431,7 @@ EC:1.4.3.22 > GO:methylputrescine oxidase activity ; GO:0052599
 EC:1.4.3.22 > GO:propane-1,3-diamine oxidase activity ; GO:0052600
 EC:1.4.3.3 > GO:D-amino-acid oxidase activity ; GO:0003884
 EC:1.4.3.4 > GO:monoamine oxidase activity ; GO:0097621
-EC:1.4.3.5 > GO:pyridoxamine-phosphate oxidase activity ; GO:0004733
+EC:1.4.3.5 > GO:pyridoxamine phosphate oxidase activity ; GO:0004733
 EC:1.4.3.7 > GO:D-glutamate oxidase activity ; GO:0047821
 EC:1.4.3.8 > GO:ethanolamine oxidase activity ; GO:0047883
 EC:1.4.4.- > GO:oxidoreductase activity, acting on the CH-NH2 group of donors, disulfide as acceptor ; GO:0016642
@@ -2060,8 +2060,8 @@ EC:2.3.1.19 > GO:phosphate butyryltransferase activity ; GO:0050182
 EC:2.3.1.191 > GO:UDP-3-O-(R-3-hydroxymyristoyl)-glucosamine N-acyltransferase activity ; GO:0103118
 EC:2.3.1.192 > GO:phenylacetyl-coenzyme A:glycine N-acyltransferase activity ; GO:0102080
 EC:2.3.1.195 > GO:(Z)-3-hexen-1-ol acetyltransferase activity ; GO:0102165
-EC:2.3.1.198 > GO:sn-2-glycerol-3-phosphate omega-OH-C22:0-CoA acyl transferase activity ; GO:0102419
-EC:2.3.1.199 > GO:very-long-chain 3-ketoacyl-CoA synthase activity ; GO:0102756
+EC:2.3.1.198 > GO:glycerol-3-phosphate 2-O-acyltransferase activity ; GO:0090447
+EC:2.3.1.199 > GO:fatty acid elongase activity ; GO:0009922
 EC:2.3.1.2 > GO:imidazole N-acetyltransferase activity ; GO:0047716
 EC:2.3.1.20 > GO:diacylglycerol O-acyltransferase activity ; GO:0004144
 EC:2.3.1.21 > GO:carnitine O-palmitoyltransferase activity ; GO:0004095

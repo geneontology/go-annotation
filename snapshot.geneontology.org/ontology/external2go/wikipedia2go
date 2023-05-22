@@ -1,4 +1,4 @@
-! Generated on 2023-05-14T18:17Z from the ontology 'go' with data version: 'releases/2023-05-12'
+! Generated on 2023-05-18T18:44Z from the ontology 'go' with data version: 'releases/2023-05-18'
 !
 Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase [NAD(P)] activity ; GO:0003845
 Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase (NAD+) activity ; GO:0070523
@@ -633,6 +633,7 @@ Wikipedia:Sexual_differentiation > GO:sex differentiation ; GO:0007548
 Wikipedia:Sexual_reproduction > GO:sexual reproduction ; GO:0019953
 Wikipedia:Shade_avoidance > GO:shade avoidance ; GO:0009641
 Wikipedia:Short-term_memory > GO:short-term memory ; GO:0007614
+Wikipedia:Sialyltransferase > GO:sialyltransferase activity ; GO:0008373
 Wikipedia:Signal_recognition_particle > GO:signal recognition particle, endoplasmic reticulum targeting ; GO:0005786
 Wikipedia:Signal_recognition_particle > GO:signal recognition particle ; GO:0048500
 Wikipedia:Signal_transduction > GO:signal transduction ; GO:0007165
