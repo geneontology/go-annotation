@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	FB:FBgn0264493	rdx	PMID:26263855|FB:FBrf0229291		GO:1901044	protein polyubiquitination involved in nucleus-associated proteasomal ubiquitin-dependent protein catabolic process	IDA			PANTHER:PTHR24413	20170524		NCBITaxon:7227
+FlyBase	FB:FBgn0261268	Cul3	PMID:26263855|FB:FBrf0229291		GO:1901044	protein polyubiquitination involved in nucleus-associated proteasomal ubiquitin-dependent protein catabolic process	IDA			PANTHER:PTHR11932	20170228		NCBITaxon:7227
