@@ -1,0 +1,9 @@
+term	file	line
+GO:0004965	interpro2go	InterPro:IPR002455 GPCR family 3, GABA-B receptor > GO:G protein-coupled GABA receptor activity ; GO:0004965
+GO:0004965	interpro2go	InterPro:IPR002456 GPCR family 3, gamma-aminobutyric acid receptor, type B1 > GO:G protein-coupled GABA receptor activity ; GO:0004965
+GO:0004965	interpro2go	InterPro:IPR002457 GPCR family 3, gamma-aminobutyric acid receptor, type B2 > GO:G protein-coupled GABA receptor activity ; GO:0004965
+GO:0004965	prints2go	PRINTS:PR01178 GABAB2RECPTR > GO:G protein-coupled GABA receptor activity ; GO:0004965
+GO:0004965	reactome2go	Reactome:R-HSA-1013012 > GO:G protein-coupled GABA receptor activity ; GO:0004965
+GO:0004965	reactome2go	Reactome:R-HSA-1013013 > GO:G protein-coupled GABA receptor activity ; GO:0004965
+GO:0006953	unirule2go	UniRule:UR000000215 > GO:acute-phase response ; GO:0006953
+GO:0006953	uniprotkb_kw2go	UniProtKB-KW:KW-0011 Acute phase > GO:acute-phase response ; GO:0006953
