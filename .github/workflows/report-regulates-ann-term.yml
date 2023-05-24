@@ -18,10 +18,18 @@ jobs:
         uses: actions/checkout@v2
         with:
           ref: ${{ github.head_ref }}
-      - name: Run annotation script
+      - name: Run main annotation script
         env:
           NUMBER: ${{ github.event.issue.number }}
         run: mkdir -p reports/$NUMBER && python3 ./scripts/annotation-review-report.py geneontology/go-annotation 7 --number $NUMBER --label reg_ann_to_list_of_terms --field regulates_closure --output ./reports/$NUMBER --verbose
+      - name: Run extensions annotation script
+        env:
+          NUMBER: ${{ github.event.issue.number }}
+        run: mkdir -p reports/$NUMBER && python3 ./scripts/annotation-review-report.py geneontology/go-annotation 7 --number $NUMBER --label reg_ann_to_list_of_terms --field annotation_extension_class --output ./reports/$NUMBER --prefix extensions --verbose
+      - name: Run evidence_with annotation script
+        env:
+          NUMBER: ${{ github.event.issue.number }}
+        run: mkdir -p reports/$NUMBER && python3 ./scripts/annotation-review-report.py geneontology/go-annotation 7 --number $NUMBER --label direct_ann_to_list_of_terms --field evidence_with --output ./reports/$NUMBER --prefix ev_with --verbose
       - name: Run mapping hit script
         env:
           NUMBER: ${{ github.event.issue.number }}

@@ -1,9 +1,9 @@
 ####
 #### Invocation examples:
 ####
-#### Dump GAF-like direct annotation TSVs into /tmp, scanning geneontology/simple-report-system titles for the last seven days with the label "direct_ann_to_list_of_terms":
+#### Dump GAF-like direct annotation TSVs into /tmp, scanning geneontology/go-annotation titles for the last seven days with the label "direct_ann_to_list_of_terms" and output file prefix "foo_":
 ####
-####   python3.6 ./scripts/annotation-review-report.py geneontology/simple-report-system 7 --number 6 --field annotation_class --label direct_ann_to_list_of_terms --output /tmp --verbose
+####   python3.6 ./scripts/annotation-review-report.py geneontology/go-annotation 7 --number 6 --field annotation_class --label direct_ann_to_list_of_terms --output /tmp --prefix foo --verbose
 ####
 
 import logging
@@ -37,6 +37,7 @@ parser.add_argument('-n', '--number',  help='GH issue to filter for')
 parser.add_argument('-l', '--label',  help='GH label to filter for')
 parser.add_argument('-f', '--field',  help='The filter query to run (e.g. "annotation_class" or "regulates_closure"')
 parser.add_argument('-o', '--output',  help='Output directory')
+parser.add_argument('-p', '--prefix',  help='Optional file prefix')
 parser.add_argument('-v', '--verbose', action='store_true', help='More verbose output')
 
 args = parser.parse_args()
@@ -49,6 +50,14 @@ LOG.info('Verbose: on')
 if not args.output:
     die_screaming('need an output directory')
 LOG.info('Will output to: ' + args.output)
+
+## Verbose messages or not.
+file_prefix = ''
+if args.prefix:
+    file_prefix = args.prefix + '_'
+    LOG.info('Prefix: ' + file_prefix)
+else:
+    LOG.info('Prefix: none')
 
 if not args.number:
     die_screaming('need an issue number')
@@ -211,9 +220,9 @@ if __name__ == "__main__":
         outfile = outfile + '_etc'
         LOG.info('output list truncation: ' + outfile)
 
-    ## Continue assembly.
+    ## Continue with assembly of filename.
     outfile = outfile.replace(':','_') + '.tsv'
-    outfile = args.output + '/' + outfile
+    outfile = args.output + '/' + file_prefix + outfile
     LOG.info('output to file: ' + outfile)
 
     ## Final writeout to files of the same name as the term.
