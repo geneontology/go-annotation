@@ -1,0 +1,7 @@
+term	file	line
+GO:0065003	interpro2go	InterPro:IPR005973 Nitrogenase MoFe cofactor biosynthesis protein NifE > GO:protein-containing complex assembly ; GO:0065003
+GO:0065003	interpro2go	InterPro:IPR005975 Nitrogenase molybdenum-iron cofactor biosynthesis protein > GO:protein-containing complex assembly ; GO:0065003
+GO:0065003	interpro2go	InterPro:IPR007864 Urease accessory protein UreE, C-terminal domain > GO:protein-containing complex assembly ; GO:0065003
+GO:0065003	interpro2go	InterPro:IPR010591 ATP11 > GO:protein-containing complex assembly ; GO:0065003
+GO:0065003	pfam2go	Pfam:PF05194 UreE_C > GO:protein-containing complex assembly ; GO:0065003
+GO:0065003	pfam2go	Pfam:PF06644 ATP11 > GO:protein-containing complex assembly ; GO:0065003

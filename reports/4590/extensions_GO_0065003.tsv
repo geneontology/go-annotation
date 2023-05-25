@@ -1,0 +1,9 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	UniProtKB:P10909	CLU	PMID:22179788		GO:0031333	negative regulation of protein-containing complex assembly	IDA			PANTHER:PTHR10970	20190717	UniProtKB:P05067:PRO_0000000093|GO:0065003|GO:1990000|ComplexPortal:CPX-1180	NCBITaxon:9606
+MGI	MGI:MGI:2147032	Ticam1	PMID:12872135		GO:0043254	regulation of protein-containing complex assembly	IMP	MGI:MGI:2679794		PANTHER:PTHR47230	20190715	GO:0065003	NCBITaxon:10090
+MGI	MGI:MGI:1913398	Dnajc15	PMID:23530063		GO:0031333	negative regulation of protein-containing complex assembly	IMP	MGI:MGI:4329547		PANTHER:PTHR12763	20140507	GO:0065003	NCBITaxon:10090
+MGI	MGI:MGI:2444600	Akain1	PMID:25653177		GO:0031333	negative regulation of protein-containing complex assembly	IDA				20160414	GO:0065003	NCBITaxon:10090
+SGD	SGD:S000000420	YBP1	PMID:28628095		GO:0140297	DNA-binding transcription factor binding	IDA		UniProtKB:P38315	PANTHER:PTHR28020	20210504	GO:0065003	NCBITaxon:559292
+UniProt	UniProtKB:Q14457	BECN1	PMID:25891078		GO:0030674	protein-macromolecule adaptor activity	IDA			PANTHER:PTHR12768	20230117	GO:0006914|GO:0065003	NCBITaxon:9606
+UniProt	UniProtKB:A1A4Y4	IRGM	PMID:25891078		GO:0030674	protein-macromolecule adaptor activity	IDA			PANTHER:PTHR32341	20230117	GO:0010508|GO:0042742|GO:0065003	NCBITaxon:9606
+UniProt	UniProtKB:A1A4Y4	IRGM	PMID:25891078		GO:0042742	defense response to bacterium	IDA			PANTHER:PTHR32341	20230117	GO:0010508|GO:0065003	NCBITaxon:9606
