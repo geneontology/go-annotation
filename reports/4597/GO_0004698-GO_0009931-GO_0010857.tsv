@@ -1,0 +1,62 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CAFA	MGI:MGI:97595	Prkca	PMID:7828597|MGI:MGI:5882922		GO:0004698	calcium-dependent protein kinase C activity	IMP			PANTHER:PTHR24356	20170123		NCBITaxon:10090
+MGI	MGI:MGI:97595	Prkca	PMID:10879655		GO:0004698	calcium-dependent protein kinase C activity	IDA			PANTHER:PTHR24356	20021101		NCBITaxon:10090
+MGI	MGI:MGI:97595	Prkca	PMID:7741753		GO:0004698	calcium-dependent protein kinase C activity	IDA			PANTHER:PTHR24356	20090129		NCBITaxon:10090
+RGD	RGD:3397	Prkcg	PMID:18972403|RGD:5131882		GO:0004698	calcium-dependent protein kinase C activity	IDA			PANTHER:PTHR24356	20110513		NCBITaxon:10116
+RGD	RGD:3395	Prkca	PMID:18972403|RGD:5131882		GO:0004698	calcium-dependent protein kinase C activity	IDA			PANTHER:PTHR24356	20110513		NCBITaxon:10116
+RGD	RGD:3395	Prkca	PMID:9046017|RGD:731217		GO:0004698	calcium-dependent protein kinase C activity	IDA			PANTHER:PTHR24356	20050217		NCBITaxon:10116
+TAIR	AGI_LocusCode:AT3G57530	CPK32	PMID:16299177|TAIR:Publication:501718038		GO:0004698	calcium-dependent protein kinase C activity	IDA		TAIR:locus:2103498		20060607		NCBITaxon:3702
+UniProt	UniProtKB:J9W1R7	CNAG_01845	PMID:15014071		GO:0004698	calcium-dependent protein kinase C activity	IDA				20200616		NCBITaxon:235443
+UniProt	UniProtKB:P10147	CCL3	PMID:15764707		GO:0004698	calcium-dependent protein kinase C activity	IDA			PANTHER:PTHR12015	20111211		NCBITaxon:9606
+UniProt	UniProtKB:P17252	PRKCA	PMID:33934390		GO:0004698	calcium-dependent protein kinase C activity	IMP			PANTHER:PTHR24356	20220909	GO:0036064|GO:0061630|UniProtKB:O75665	NCBITaxon:9606
+WB	WB:WBGene00004033	pkc-2	PMID:9045693|WB_REF:WBPaper00002733		GO:0004698	calcium-dependent protein kinase C activity	IDA			PANTHER:PTHR24356	20120522		NCBITaxon:6239
+CAFA	MGI:MGI:88256	Camk2a	PMID:15994560|MGI:MGI:5882895		GO:0009931	calcium-dependent protein serine/threonine kinase activity	IDA			PANTHER:PTHR24347	20160919		NCBITaxon:10090
+CAFA	MGI:MGI:97595	Prkca	PMID:7828597|MGI:MGI:5882922		GO:0004698	calcium-dependent protein kinase C activity	IMP			PANTHER:PTHR24356	20170123		NCBITaxon:10090
+GeneDB	PlasmoDB:PF3D7_0217500	CDPK1	PMID:8142371		GO:0009931	calcium-dependent protein serine/threonine kinase activity	IDA				20220901		NCBITaxon:36329
+GeneDB	PlasmoDB:PF3D7_0610600	CDPK2	PMID:9247932		GO:0009931	calcium-dependent protein serine/threonine kinase activity	IDA				20220901		NCBITaxon:36329
+MGI	MGI:MGI:97595	Prkca	PMID:10879655		GO:0004698	calcium-dependent protein kinase C activity	IDA			PANTHER:PTHR24356	20021101		NCBITaxon:10090
+MGI	MGI:MGI:97595	Prkca	PMID:7741753		GO:0004698	calcium-dependent protein kinase C activity	IDA			PANTHER:PTHR24356	20090129		NCBITaxon:10090
+RGD	RGD:3397	Prkcg	PMID:18972403|RGD:5131882		GO:0004698	calcium-dependent protein kinase C activity	IDA			PANTHER:PTHR24356	20110513		NCBITaxon:10116
+RGD	RGD:3395	Prkca	PMID:18972403|RGD:5131882		GO:0004698	calcium-dependent protein kinase C activity	IDA			PANTHER:PTHR24356	20110513		NCBITaxon:10116
+RGD	RGD:3395	Prkca	PMID:9046017|RGD:731217		GO:0004698	calcium-dependent protein kinase C activity	IDA			PANTHER:PTHR24356	20050217		NCBITaxon:10116
+TAIR	AGI_LocusCode:AT3G57530	CPK32	PMID:16299177|TAIR:Publication:501718038		GO:0004698	calcium-dependent protein kinase C activity	IDA		TAIR:locus:2103498		20060607		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G17290	CPK6	PMID:23766366|TAIR:Publication:501755775		GO:0009931	calcium-dependent protein serine/threonine kinase activity	IDA		TAIR:locus:2827528		20131016		NCBITaxon:3702
+UniProt	UniProtKB:J9W1R7	CNAG_01845	PMID:15014071		GO:0004698	calcium-dependent protein kinase C activity	IDA				20200616		NCBITaxon:235443
+UniProt	UniProtKB:P10147	CCL3	PMID:15764707		GO:0004698	calcium-dependent protein kinase C activity	IDA			PANTHER:PTHR12015	20111211		NCBITaxon:9606
+UniProt	UniProtKB:A0AAR7	CCAMK	PMID:16810257		GO:0009931	calcium-dependent protein serine/threonine kinase activity	IDA				20100923		NCBITaxon:34305
+UniProt	UniProtKB:A0A2I0BVG8	PDCK1	PMID:27923926		GO:0009931	calcium-dependent protein serine/threonine kinase activity	IDA				20210310		NCBITaxon:5843
+UniProt	UniProtKB:Q13554	CAMK2B	PMID:31930741		GO:0009931	calcium-dependent protein serine/threonine kinase activity	IDA			PANTHER:PTHR24347	20220711		NCBITaxon:9606
+UniProt	UniProtKB:P17252	PRKCA	PMID:33934390		GO:0004698	calcium-dependent protein kinase C activity	IMP			PANTHER:PTHR24356	20220909	GO:0036064|GO:0061630|UniProtKB:O75665	NCBITaxon:9606
+WB	WB:WBGene00006779	unc-43	PMID:16079277|WB_REF:WBPaper00026734		GO:0009931	calcium-dependent protein serine/threonine kinase activity	IDA			PANTHER:PTHR24347	20101206		NCBITaxon:6239
+WB	WB:WBGene00004033	pkc-2	PMID:9045693|WB_REF:WBPaper00002733		GO:0004698	calcium-dependent protein kinase C activity	IDA			PANTHER:PTHR24356	20120522		NCBITaxon:6239
+BHF-UCL	UniProtKB:Q9BXM7	PINK1	PMID:19880420		GO:0010857	calcium-dependent protein kinase activity	IDA			PANTHER:PTHR22972	20091202		NCBITaxon:9606
+CACAO	UniProtKB:Q99828	CIB1	PMID:20473878		GO:0008427	calcium-dependent protein kinase inhibitor activity	IMP			PANTHER:PTHR45791	20140128		NCBITaxon:9606
+CACAO	UniProtKB:Q7XZK5	CDPK1	PMID:22760783		GO:0010857	calcium-dependent protein kinase activity	IDA				20131013		NCBITaxon:3827
+CAFA	MGI:MGI:88256	Camk2a	PMID:15994560|MGI:MGI:5882895		GO:0009931	calcium-dependent protein serine/threonine kinase activity	IDA			PANTHER:PTHR24347	20160919		NCBITaxon:10090
+CAFA	MGI:MGI:97595	Prkca	PMID:7828597|MGI:MGI:5882922		GO:0004698	calcium-dependent protein kinase C activity	IMP			PANTHER:PTHR24356	20170123		NCBITaxon:10090
+GeneDB	PlasmoDB:PF3D7_0217500	CDPK1	PMID:8142371		GO:0009931	calcium-dependent protein serine/threonine kinase activity	IDA				20220901		NCBITaxon:36329
+GeneDB	PlasmoDB:PF3D7_0610600	CDPK2	PMID:9247932		GO:0009931	calcium-dependent protein serine/threonine kinase activity	IDA				20220901		NCBITaxon:36329
+HGNC-UCL	RGD:708430	Camk2n1	PMID:11182241|RGD:1299437		GO:0008427	calcium-dependent protein kinase inhibitor activity	IDA			PANTHER:PTHR31007	20070418		NCBITaxon:10116
+MGI	MGI:MGI:97595	Prkca	PMID:10879655		GO:0004698	calcium-dependent protein kinase C activity	IDA			PANTHER:PTHR24356	20021101		NCBITaxon:10090
+MGI	MGI:MGI:1920297	Camk2n2	PMID:23051746		GO:0008427	calcium-dependent protein kinase inhibitor activity	IDA			PANTHER:PTHR31007	20140627		NCBITaxon:10090
+MGI	MGI:MGI:96113	Hmgb1	PMID:7741753		GO:0010858	calcium-dependent protein kinase regulator activity	IDA			PANTHER:PTHR48112	20090129		NCBITaxon:10090
+MGI	MGI:MGI:97595	Prkca	PMID:7741753		GO:0004698	calcium-dependent protein kinase C activity	IDA			PANTHER:PTHR24356	20090129		NCBITaxon:10090
+RGD	RGD:3397	Prkcg	PMID:18972403|RGD:5131882		GO:0004698	calcium-dependent protein kinase C activity	IDA			PANTHER:PTHR24356	20110513		NCBITaxon:10116
+RGD	RGD:3395	Prkca	PMID:18972403|RGD:5131882		GO:0004698	calcium-dependent protein kinase C activity	IDA			PANTHER:PTHR24356	20110513		NCBITaxon:10116
+RGD	RGD:3395	Prkca	PMID:9046017|RGD:731217		GO:0004698	calcium-dependent protein kinase C activity	IDA			PANTHER:PTHR24356	20050217		NCBITaxon:10116
+RGD	RGD:708411	Camk2n2	PMID:9724800|RGD:1302397		GO:0008427	calcium-dependent protein kinase inhibitor activity	IMP			PANTHER:PTHR31007	20050217		NCBITaxon:10116
+TAIR	AGI_LocusCode:AT3G57530	CPK32	PMID:16299177|TAIR:Publication:501718038		GO:0004698	calcium-dependent protein kinase C activity	IDA		TAIR:locus:2103498		20060607		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G17290	CPK6	PMID:23766366|TAIR:Publication:501755775		GO:0009931	calcium-dependent protein serine/threonine kinase activity	IDA		TAIR:locus:2827528		20131016		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT5G04870	CPK1	PMID:10823962|TAIR:Publication:393		GO:0010857	calcium-dependent protein kinase activity	IDA		TAIR:locus:2175503		20210401		NCBITaxon:3702
+UniProt	UniProtKB:P53682	CPK23	PMID:11910009		GO:0010857	calcium-dependent protein kinase activity	IDA			PANTHER:PTHR24349	20170302		NCBITaxon:39947
+UniProt	UniProtKB:J9W1R7	CNAG_01845	PMID:15014071		GO:0004698	calcium-dependent protein kinase C activity	IDA				20200616		NCBITaxon:235443
+UniProt	UniProtKB:P10147	CCL3	PMID:15764707		GO:0004698	calcium-dependent protein kinase C activity	IDA			PANTHER:PTHR12015	20111211		NCBITaxon:9606
+UniProt	UniProtKB:Q53P85	CPK24	PMID:16255173		GO:0010857	calcium-dependent protein kinase activity	IDA			PANTHER:PTHR24349	20170302		NCBITaxon:39947
+UniProt	UniProtKB:A0AAR7	CCAMK	PMID:16810257		GO:0009931	calcium-dependent protein serine/threonine kinase activity	IDA				20100923		NCBITaxon:34305
+UniProt	UniProtKB:Q0D715	CPK18	PMID:23456295		GO:0010857	calcium-dependent protein kinase activity	IDA			PANTHER:PTHR24349	20170302		NCBITaxon:39947
+UniProt	UniProtKB:A0A2I0BVG8	PDCK1	PMID:27923926		GO:0009931	calcium-dependent protein serine/threonine kinase activity	IDA				20210310		NCBITaxon:5843
+UniProt	UniProtKB:Q13554	CAMK2B	PMID:31930741		GO:0009931	calcium-dependent protein serine/threonine kinase activity	IDA			PANTHER:PTHR24347	20220711		NCBITaxon:9606
+UniProt	UniProtKB:P17252	PRKCA	PMID:33934390		GO:0004698	calcium-dependent protein kinase C activity	IMP			PANTHER:PTHR24356	20220909	GO:0036064|GO:0061630|UniProtKB:O75665	NCBITaxon:9606
+WB	WB:WBGene00006779	unc-43	PMID:16079277|WB_REF:WBPaper00026734		GO:0009931	calcium-dependent protein serine/threonine kinase activity	IDA			PANTHER:PTHR24347	20101206		NCBITaxon:6239
+WB	WB:WBGene00004033	pkc-2	PMID:9045693|WB_REF:WBPaper00002733		GO:0004698	calcium-dependent protein kinase C activity	IDA			PANTHER:PTHR24356	20120522		NCBITaxon:6239
+ZFIN	ZFIN:ZDB-GENE-080402-7	camk1da	PMID:27207832		GO:0010857	calcium-dependent protein kinase activity	IDA			PANTHER:PTHR24347	20160829		NCBITaxon:7955
