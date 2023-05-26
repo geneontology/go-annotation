@@ -1,0 +1,59 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CGD	CGD:CAL0000200116	UBP8	PMID:33010070|CGD_REF:CAL0000228589		GO:0035616	histone H2B conserved C-terminal lysine deubiquitination	IMP			PANTHER:PTHR21646	20201103		NCBITaxon:237561
+ComplexPortal	UniProtKB:Q96ES7	SGF29	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR21539	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q96ES7	SGF29	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR21539	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:O15265	ATXN7	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR15117	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:O15265	ATXN7	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR15117	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q86TJ2	TADA2B	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR12374	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q86TJ2	TADA2B	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR12374	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9UPT9	USP22	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR21646	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9UPT9	USP22	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR21646	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9BWJ5	SF3B5	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR20978	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9BWJ5	SF3B5	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR20978	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:O94864	SUPT7L	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR28598	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:O94864	SUPT7L	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR28598	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q12962	TAF10	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR21242	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q12962	TAF10	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR21242	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q15393	SF3B3	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR10644	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q15393	SF3B3	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR10644	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q15545	TAF7	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR12228	20180406		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q15545	TAF7	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR12228	20180406		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q15542	TAF5	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR19879	20180406		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q15542	TAF5	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR19879	20180406		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q92830	KAT2A	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR45750	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q92830	KAT2A	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR45750	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q8NEM7	SUPT20H	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR13526	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q8NEM7	SUPT20H	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR13526	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:O75486	SUPT3H	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR11380	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:O75486	SUPT3H	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR11380	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9Y6J9	TAF6L	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR10221	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9Y6J9	TAF6L	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR10221	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9Y4A5	TRRAP	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR11139	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9Y4A5	TRRAP	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR11139	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q96BN2	TADA1	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR21277	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q96BN2	TADA1	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR21277	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q16594	TAF9	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR48068	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q16594	TAF9	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR48068	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q16514	TAF12	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR12264	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q16514	TAF12	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR12264	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q6P1X5	TAF2	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR15137	20180406		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q6P1X5	TAF2	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR15137	20180406		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9NPA8	ENY2	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR12514	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9NPA8	ENY2	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR12514	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q14CW9	ATXN7L3	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR46367	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q14CW9	ATXN7L3	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR46367	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:P49848	TAF6	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR10221	20180406		NCBITaxon:9606
+ComplexPortal	UniProtKB:P49848	TAF6	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR10221	20180406		NCBITaxon:9606
+ComplexPortal	UniProtKB:O75529	TAF5L	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR19879	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:O75529	TAF5L	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR19879	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:O75528	TADA3	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR13556	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:O75528	TADA3	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR13556	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:O00268	TAF4	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA			PANTHER:PTHR15138	20180406		NCBITaxon:9606
+ComplexPortal	UniProtKB:O00268	TAF4	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR15138	20180406		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-903	tftc_human	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA				20180406		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-903	tftc_human	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA				20180406		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-900	saga-kat2a_human	PMID:18206972		GO:0035521	monoubiquitinated histone deubiquitination	IDA				20210712		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-900	saga-kat2a_human	PMID:18206972		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA				20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q92560	BAP1	PMID:20436459		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR10589	20180406		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q8IXJ9	ASXL1	PMID:20436459		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA			PANTHER:PTHR13578	20180406		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-414	bap1-asxl1_human	PMID:20436459		GO:0035522	monoubiquitinated histone H2A deubiquitination	IDA				20180406		NCBITaxon:9606

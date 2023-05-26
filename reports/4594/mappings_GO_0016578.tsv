@@ -1,0 +1,8 @@
+term	file	line
+GO:0016578	hamap2go	HAMAP:MF_03046 > GO:histone deubiquitination ; GO:0016578
+GO:0016578	hamap2go	HAMAP:MF_03047 > GO:histone deubiquitination ; GO:0016578
+GO:0016578	hamap2go	HAMAP:MF_03062 > GO:histone deubiquitination ; GO:0016578
+GO:0016578	unirule2go	UniRule:UR000112776 > GO:histone deubiquitination ; GO:0016578
+GO:0016578	unirule2go	UniRule:UR000160894 > GO:histone deubiquitination ; GO:0016578
+GO:0016578	unirule2go	UniRule:UR000161210 > GO:histone deubiquitination ; GO:0016578
+GO:0016578	interpro2go	InterPro:IPR030849 Ubiquitin carboxyl-terminal hydrolase 16 > GO:histone deubiquitination ; GO:0016578
