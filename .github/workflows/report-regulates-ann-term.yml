@@ -29,7 +29,7 @@ jobs:
       - name: Run evidence_with annotation script
         env:
           NUMBER: ${{ github.event.issue.number }}
-        run: mkdir -p reports/$NUMBER && python3 ./scripts/annotation-review-report.py geneontology/go-annotation 7 --number $NUMBER --label direct_ann_to_list_of_terms --field evidence_with --output ./reports/$NUMBER --prefix ev_with --verbose
+        run: mkdir -p reports/$NUMBER && python3 ./scripts/annotation-review-report.py geneontology/go-annotation 7 --number $NUMBER --label reg_ann_to_list_of_terms --field evidence_with --output ./reports/$NUMBER --prefix ev_with --verbose
       - name: Run mapping hit script
         env:
           NUMBER: ${{ github.event.issue.number }}

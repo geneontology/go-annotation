@@ -208,7 +208,7 @@ if __name__ == "__main__":
 
     ## Check that we got something.
     if len(collected_issues) == 0:
-        die_screaming('no terms found in ')
+        die_screaming('no terms found or label filtered')
 
     ## All reports to single file.
     outfile = "-".join(collected_issues)
