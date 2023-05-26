@@ -1,0 +1,8 @@
+term	file	line
+GO:0016570	interpro2go	InterPro:IPR007133 RNA polymerase II associated factor Paf1 > GO:histone modification ; GO:0016570
+GO:0016570	interpro2go	InterPro:IPR007149 Leo1-like protein > GO:histone modification ; GO:0016570
+GO:0016570	interpro2go	InterPro:IPR007852 Cdc73/Parafibromin > GO:histone modification ; GO:0016570
+GO:0016570	interpro2go	InterPro:IPR031101 RNA polymerase-associated protein Ctr9 > GO:histone modification ; GO:0016570
+GO:0016570	wikipedia2go	Wikipedia:Histone#Histone_modifications_in_chromatin_regulation > GO:histone modification ; GO:0016570
+GO:0016570	pfam2go	Pfam:PF03985 Paf1 > GO:histone modification ; GO:0016570
+GO:0016570	pfam2go	Pfam:PF04004 Leo1 > GO:histone modification ; GO:0016570
