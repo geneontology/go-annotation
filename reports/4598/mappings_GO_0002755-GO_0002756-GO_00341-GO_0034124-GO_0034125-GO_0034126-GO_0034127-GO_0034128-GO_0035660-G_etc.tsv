@@ -1,0 +1,19 @@
+term	file	line
+GO:0002755	interpro2go	InterPro:IPR017281 Myeloid differentiation primary response protein MyD88 > GO:MyD88-dependent toll-like receptor signaling pathway ; GO:0002755
+GO:0002755	pirsf2go	PIRSF:PIRSF037756 MyD88 > GO:MyD88-dependent toll-like receptor signaling pathway ; GO:0002755
+GO:00341	hamap2go	HAMAP:MF_01289 > GO:D-galactonate catabolic process ; GO:0034194
+GO:00341	metacyc2go	MetaCyc:GALACTCAT-PWY > GO:D-galactonate catabolic process ; GO:0034194
+GO:00341	metacyc2go	MetaCyc:GALACTCAT-PWY > GO:L-galactonate catabolic process ; GO:0034195
+GO:00341	unirule2go	UniRule:UR000101684 > GO:D-galactonate catabolic process ; GO:0034194
+GO:00341	unirule2go	UniRule:UR000736773 > GO:triglyceride transport ; GO:0034197
+GO:00341	unirule2go	UniRule:UR001553778 > GO:cellular response to amino acid starvation ; GO:0034198
+GO:00341	interpro2go	InterPro:IPR007729 2-keto-3-deoxy-galactonokinase > GO:D-galactonate catabolic process ; GO:0034194
+GO:00341	interpro2go	InterPro:IPR023592 D-galactonate dehydratase > GO:D-galactonate catabolic process ; GO:0034194
+GO:00341	interpro2go	InterPro:IPR027869 TASL protein > GO:regulation of toll-like receptor signaling pathway ; GO:0034121
+GO:00341	interpro2go	InterPro:IPR039184 Sterile alpha and TIR motif-containing protein 1 > GO:negative regulation of MyD88-independent toll-like receptor signaling pathway ; GO:0034128
+GO:00341	interpro2go	InterPro:IPR044160 Protein TRIGALACTOSYLDIACYLGLYCEROL 4-like > GO:acylglycerol transport ; GO:0034196
+GO:00341	rfam2go	Rfam:RF00391 RtT > GO:cellular response to amino acid starvation ; GO:0034198
+GO:00341	pfam2go	Pfam:PF05035 DGOK > GO:D-galactonate catabolic process ; GO:0034194
+GO:00341	pfam2go	Pfam:PF15133 TASL > GO:regulation of toll-like receptor signaling pathway ; GO:0034121
+GO:0034128	interpro2go	InterPro:IPR039184 Sterile alpha and TIR motif-containing protein 1 > GO:negative regulation of MyD88-independent toll-like receptor signaling pathway ; GO:0034128
+GO:0035666	interpro2go	InterPro:IPR046946 TIR domain-containing adapter molecule 1/2 > GO:TRIF-dependent toll-like receptor signaling pathway ; GO:0035666

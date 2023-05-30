@@ -1,0 +1,39 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	MGI:MGI:1341296	Tlr6	PMID:20037584|MGI:MGI:4438693		GO:0002755	MyD88-dependent toll-like receptor signaling pathway	IGI	UniProtKB:Q9QUK6		PANTHER:PTHR24365	20170517	CL:0000235|GO:0002269|GO:0071404	NCBITaxon:10090
+ARUK-UCL	MGI:MGI:96824	Tlr4	PMID:20037584|MGI:MGI:4438693		GO:0002755	MyD88-dependent toll-like receptor signaling pathway	IGI	UniProtKB:Q9EPW9		PANTHER:PTHR24365	20170517	CL:0000235|GO:0002269|GO:0071404	NCBITaxon:10090
+BHF-UCL	UniProtKB:P10809	HSPD1	PMID:16148103		GO:0002755	MyD88-dependent toll-like receptor signaling pathway	IDA			PANTHER:PTHR45633	20080718		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9Y2C9	TLR6	PMID:20037584		GO:0002755	MyD88-dependent toll-like receptor signaling pathway	IDA			PANTHER:PTHR24365	20211018		NCBITaxon:9606
+ComplexPortal	UniProtKB:O00206	TLR4	PMID:20037584		GO:0002755	MyD88-dependent toll-like receptor signaling pathway	IDA			PANTHER:PTHR24365	20211018		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-945	tlr4_tlr6_human	PMID:20037584		GO:0002755	MyD88-dependent toll-like receptor signaling pathway	IDA				20211013		NCBITaxon:9606
+MGI	MGI:MGI:108005	Myd88	PMID:12719478		GO:0002755	MyD88-dependent toll-like receptor signaling pathway	IGI	MGI:MGI:1346060		PANTHER:PTHR15079	20070227	CL:0000235	NCBITaxon:10090
+MGI	MGI:MGI:1346060	Tlr2	PMID:12719478		GO:0002755	MyD88-dependent toll-like receptor signaling pathway	IGI	MGI:MGI:108005		PANTHER:PTHR24365	20070227	CL:0000235	NCBITaxon:10090
+MGI	MGI:MGI:108005	Myd88	PMID:12872135		GO:0002755	MyD88-dependent toll-like receptor signaling pathway	IMP	MGI:MGI:2385681		PANTHER:PTHR15079	20070227	CL:0000235	NCBITaxon:10090
+MGI	MGI:MGI:108005	Myd88	PMID:14764662		GO:0002755	MyD88-dependent toll-like receptor signaling pathway	IMP			PANTHER:PTHR15079	20101207	CL:0000235	NCBITaxon:10090
+MGI	MGI:MGI:3045213	Tlr13	PMID:21131352		GO:0002755	MyD88-dependent toll-like receptor signaling pathway	IGI	MGI:MGI:108005		PANTHER:PTHR24365	20120920	CL:0000057	NCBITaxon:10090
+UniProt	UniProtKB:P12682	HMGB1	PMID:14660645		GO:0002755	MyD88-dependent toll-like receptor signaling pathway	IDA			PANTHER:PTHR48112	20150710		NCBITaxon:9823
+UniProt	MGI:MGI:109406	Reg3g	PMID:17635956|MGI:MGI:3760234		GO:0002755	MyD88-dependent toll-like receptor signaling pathway	IMP			PANTHER:PTHR22803	20130527		NCBITaxon:10090
+UniProt	MGI:MGI:1932389	Tlr9	PMID:18820679|MGI:MGI:3826712		GO:0002755	MyD88-dependent toll-like receptor signaling pathway	IPI	UniProtKB:P22366		PANTHER:PTHR47410	20170331		NCBITaxon:10090
+UniProt	MGI:MGI:1926194	Tnip1	PMID:22011580|MGI:MGI:5305352		GO:0002755	MyD88-dependent toll-like receptor signaling pathway	IDA			PANTHER:PTHR31882	20120521		NCBITaxon:10090
+MGI	MGI:MGI:2147032	Ticam1	PMID:12855817		GO:0002756	MyD88-independent toll-like receptor signaling pathway	IMP	MGI:MGI:3029019		PANTHER:PTHR47230	20070228	CL:0000057	NCBITaxon:10090
+MGI	MGI:MGI:2147032	Ticam1	PMID:12872135		GO:0002756	MyD88-independent toll-like receptor signaling pathway	IMP	MGI:MGI:2679794		PANTHER:PTHR47230	20070226	CL:0000235	NCBITaxon:10090
+MGI	MGI:MGI:1918518	Lrrfip2	PMID:19265123		GO:0002756	MyD88-independent toll-like receptor signaling pathway	IDA			PANTHER:PTHR19212	20160217		NCBITaxon:10090
+UniProt	UniProtKB:Q96KP6	TNIP3	PMID:17088249		GO:0002756	MyD88-independent toll-like receptor signaling pathway	IDA			PANTHER:PTHR31882	20120521		NCBITaxon:9606
+UniProt	MGI:MGI:1859212	Irf7	PMID:15800576|MGI:MGI:3575992		GO:0034124	regulation of MyD88-dependent toll-like receptor signaling pathway	IMP			PANTHER:PTHR11949	20120410		NCBITaxon:10090
+UniProt	MGI:MGI:96590	Irf1	PMID:17018642|MGI:MGI:3691368		GO:0034124	regulation of MyD88-dependent toll-like receptor signaling pathway	IMP			PANTHER:PTHR11949	20120408		NCBITaxon:10090
+UniProt	UniProtKB:A0A0H2V8B5	TcpC	PMID:18327267		GO:0034125	negative regulation of MyD88-dependent toll-like receptor signaling pathway	IDA				20191114		NCBITaxon:199310
+UniProt	UniProtKB:Q9UGN4	CD300A	PMID:22043923		GO:0034125	negative regulation of MyD88-dependent toll-like receptor signaling pathway	IMP			PANTHER:PTHR11860	20161214		NCBITaxon:9606
+UniProt	UniProtKB:Q8TDQ1	CD300LF	PMID:22043923		GO:0034125	negative regulation of MyD88-dependent toll-like receptor signaling pathway	IMP			PANTHER:PTHR11860	20161214		NCBITaxon:9606
+UniProt	UniProtKB:Q833J1	tcpF	PMID:25369374		GO:0034125	negative regulation of MyD88-dependent toll-like receptor signaling pathway	IDA				20191114		NCBITaxon:226185
+UniProt	MGI:MGI:1859212	Irf7	PMID:15800576|MGI:MGI:3575992		GO:0034127	regulation of MyD88-independent toll-like receptor signaling pathway	IMP			PANTHER:PTHR11949	20120410		NCBITaxon:10090
+MGI	MGI:MGI:1918518	Lrrfip2	PMID:19265123		GO:0035660	MyD88-dependent toll-like receptor 4 signaling pathway	IDA			PANTHER:PTHR19212	20160217		NCBITaxon:10090
+BHF-UCL	UniProtKB:P58753	TIRAP	PMID:11544529		GO:0035665	TIRAP-dependent toll-like receptor 4 signaling pathway	IDA			PANTHER:PTHR22662	20110223		NCBITaxon:9606
+ARUK-UCL	MGI:MGI:1341296	Tlr6	PMID:20037584|MGI:MGI:4438693		GO:0035666	TRIF-dependent toll-like receptor signaling pathway	IGI	UniProtKB:Q9QUK6		PANTHER:PTHR24365	20170517	CL:0000235|GO:0002269|GO:0071404	NCBITaxon:10090
+ARUK-UCL	MGI:MGI:96824	Tlr4	PMID:20037584|MGI:MGI:4438693		GO:0035666	TRIF-dependent toll-like receptor signaling pathway	IGI	UniProtKB:Q9EPW9		PANTHER:PTHR24365	20170517	CL:0000235|GO:0002269|GO:0071404	NCBITaxon:10090
+CACAO	UniProtKB:Q8IUC6	TICAM1	PMID:25636800		GO:0035666	TRIF-dependent toll-like receptor signaling pathway	IMP			PANTHER:PTHR47230	20151103		NCBITaxon:9606
+ParkinsonsUK-UCL	MGI:MGI:2147032	Ticam1	PMID:17658277|MGI:MGI:3718934		GO:0035666	TRIF-dependent toll-like receptor signaling pathway	IMP			PANTHER:PTHR47230	20160726	CL:0000235|GO:0010506	NCBITaxon:10090
+UniProt	UniProtKB:Q8TDQ1	CD300LF	PMID:22043923		GO:0035666	TRIF-dependent toll-like receptor signaling pathway	IMP			PANTHER:PTHR11860	20161214		NCBITaxon:9606
+UniProt	UniProtKB:Q14653	IRF3	PMID:25636800		GO:0035666	TRIF-dependent toll-like receptor signaling pathway	IDA			PANTHER:PTHR11949	20190321		NCBITaxon:9606
+ZFIN	ZFIN:ZDB-GENE-090313-95	cd40	PMID:22345667		GO:0035666	TRIF-dependent toll-like receptor signaling pathway	IMP	ZFIN:ZDB-MRPHLNO-120914-1		PANTHER:PTHR46875	20130205		NCBITaxon:7955
+UniProt	MGI:MGI:97599	Prkce	PMID:16757566|MGI:MGI:3652658		GO:0035669	TRAM-dependent toll-like receptor 4 signaling pathway	IMP			PANTHER:PTHR24356	20111209		NCBITaxon:10090
+UniProt	UniProtKB:Q86XR7	TICAM2	PMID:22685567		GO:0035669	TRAM-dependent toll-like receptor 4 signaling pathway	IMP			PANTHER:PTHR47230	20130523		NCBITaxon:9606
+UniProt	UniProtKB:Q7L804	RAB11FIP2	PMID:30883606		GO:0035669	TRAM-dependent toll-like receptor 4 signaling pathway	IDA			PANTHER:PTHR15746	20190325		NCBITaxon:9606
