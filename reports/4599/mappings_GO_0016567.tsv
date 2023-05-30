@@ -1,0 +1,65 @@
+term	file	line
+GO:0016567	smart2go	SMART:SM00504 Ubox > GO:protein ubiquitination ; GO:0016567
+GO:0016567	unirule2go	UniRule:UR000141802 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	unirule2go	UniRule:UR001116780 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	unirule2go	UniRule:UR001376755 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	unirule2go	UniRule:UR001426773 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	unirule2go	UniRule:UR001429768 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	unirule2go	UniRule:UR001694787 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	unirule2go	UniRule:UR001695760 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	unirule2go	UniRule:UR001695780 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	unirule2go	UniRule:UR001695792 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR003613 U-box domain > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR010606 Mib-herc2 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR015036 E3 ubiquitin-protein ligase NRDP1 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR017335 E3 ubiquitin-protein ligase RNF8 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR018801 E3 ubiquitin-protein ligase TM129 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR019474 Ubiquitin conjugation factor E4, core > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR022170 E3 Ubiquitin ligase MUL1-like > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR025725 E3 ubiquitin-protein ligase SopA-like, catalytic domain > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR027139 TNF receptor-associated factor 6, C3HC3D-type RING zinc finger > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR029169 PEST proteolytic signal-containing nuclear protein > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR029487 Novel E3 ligase domain > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR029641 Anaphase-promoting complex subunit 16 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR030577 Kelch-like protein 21, BTB/POZ domain > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR030597 Kelch-like protein 15, BTB/POZ domain > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR030599 Kelch-like protein 7, BTB/POZ domain > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR031127 E3 ubiquitin ligase RBR family > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR031620 DDB1- and CUL4-associated factor 17 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR033270 VPRBP/DCAF1 family > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR033276 E3 ubiquitin-protein ligase BIG BROTHER > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR033489 E3 ubiquitin-protein ligase RBBP6 family > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR034725 E3 ubiquitin-protein ligase RNF168 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR037299 TRIM37, MATH domain > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR037309 TNF receptor-associated factor 6, MATH domain > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR037340 SSB2, SOCS box domain > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR037345 SOCS6, SOCS box domain > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR037381 E3 ubiquitin-protein ligase RFWD3 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR038914 DDB1- and CUL4-associated factor 15 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR039087 Deubiquitinating protein VCPIP1 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR039398 Deltex family > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR040383 E3 ubiquitin-protein ligase HAKAI/CBLL2 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR042494 E3 ubiquitin-protein ligase RNF103 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR042508 F-box/WD repeat-containing protein 5 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR044231 E3 ubiquitin-protein ligase SP1-like > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR044289 RING-H2 finger protein ATL67-70 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR044584 E3 ubiquitin-protein ligase KEG > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR044600 RING-H2 finger protein ATL1/ATL16-like > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR044602 RING-H2 finger protein ATL10/ATL75-79-like > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR044718 E3 ubiquitin-protein ligase HOS1 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR045005 BTB/POZ and MATH domain-containing protein 1-6 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	interpro2go	InterPro:IPR046356 E3 ubiquitin-protein ligase MARCHF4/9/11 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	pirsf2go	PIRSF:PIRSF037950 E3_ubiquit_lig_RNF8 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	prosite2go	PROSITE:PS51416 MIB_HERC2 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	prosite2go	PROSITE:PS51698 U_BOX > GO:protein ubiquitination ; GO:0016567
+GO:0016567	pfam2go	Pfam:PF04564 U-box > GO:protein ubiquitination ; GO:0016567
+GO:0016567	pfam2go	Pfam:PF06701 MIB_HERC2 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	pfam2go	Pfam:PF08941 USP8_interact > GO:protein ubiquitination ; GO:0016567
+GO:0016567	pfam2go	Pfam:PF10272 Tmpp129 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	pfam2go	Pfam:PF10408 Ufd2P_core > GO:protein ubiquitination ; GO:0016567
+GO:0016567	pfam2go	Pfam:PF12483 GIDE > GO:protein ubiquitination ; GO:0016567
+GO:0016567	pfam2go	Pfam:PF13979 SopA_C > GO:protein ubiquitination ; GO:0016567
+GO:0016567	pfam2go	Pfam:PF14496 NEL > GO:protein ubiquitination ; GO:0016567
+GO:0016567	pfam2go	Pfam:PF15473 PCNP > GO:protein ubiquitination ; GO:0016567
+GO:0016567	pfam2go	Pfam:PF15802 DCAF17 > GO:protein ubiquitination ; GO:0016567
+GO:0016567	pfam2go	Pfam:PF17256 ANAPC16 > GO:protein ubiquitination ; GO:0016567
