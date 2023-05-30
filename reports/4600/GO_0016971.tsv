@@ -1,0 +1,12 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AspGD	UniProtKB:Q2UA33	AO090102000564	PMID:20727152		GO:0016971	flavin-linked sulfhydryl oxidase activity	IDA				20120127		NCBITaxon:510516
+AspGD	UniProtKB:Q2U4P3	AO090020000257	PMID:21327412		GO:0016971	flavin-linked sulfhydryl oxidase activity	IDA				20120127		NCBITaxon:510516
+GeneDB	TriTrypDB:Tb927.6.1850	QSOX	PMID:20121244		GO:0016971	flavin-linked sulfhydryl oxidase activity	IDA				20100318		NCBITaxon:185431
+RGD	RGD:61845	Gfer	PMID:11346147|RGD:9685721		GO:0016971	flavin-linked sulfhydryl oxidase activity	IDA			PANTHER:PTHR12645	20150123		NCBITaxon:10116
+SGD	SGD:S000003261	ERV1	PMID:10899311		GO:0016971	flavin-linked sulfhydryl oxidase activity	IDA		UniProtKB:P27882	PANTHER:PTHR12645	20061005		NCBITaxon:559292
+SGD	SGD:S000006241	ERV2	PMID:11584268		GO:0016971	flavin-linked sulfhydryl oxidase activity	IDA		UniProtKB:Q12284	PANTHER:PTHR12645	20210519	SGD:S000000548|GO:0005789|GO:0060904	NCBITaxon:559292
+UniProt	RGD:68957	Qsox1	PMID:11278790|RGD:67932		GO:0016971	flavin-linked sulfhydryl oxidase activity	IDA		UniProtKB:Q6IUU3-3	PANTHER:PTHR22897	20190327		NCBITaxon:10116
+UniProt	UniProtKB:O00391	QSOX1	PMID:17331072		GO:0016971	flavin-linked sulfhydryl oxidase activity	IDA			PANTHER:PTHR22897	20170306		NCBITaxon:9606
+UniProt	UniProtKB:O00391	QSOX1	PMID:18393449		GO:0016971	flavin-linked sulfhydryl oxidase activity	IDA			PANTHER:PTHR22897	20101214		NCBITaxon:9606
+ZFIN	ZFIN:ZDB-GENE-060810-186	gfer	PMID:22292055		GO:0016971	flavin-linked sulfhydryl oxidase activity	IDA			PANTHER:PTHR12645	20120215		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-060810-186	gfer	PMID:22292055		GO:0016971	flavin-linked sulfhydryl oxidase activity	IMP			PANTHER:PTHR12645	20120215		NCBITaxon:7955
