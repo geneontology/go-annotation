@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:Q14790	CASP8	PMID:16920334		GO:0097199	cysteine-type endopeptidase activity involved in apoptotic signaling pathway	IDA			PANTHER:PTHR10454	20220928	GO:0019777	NCBITaxon:9606

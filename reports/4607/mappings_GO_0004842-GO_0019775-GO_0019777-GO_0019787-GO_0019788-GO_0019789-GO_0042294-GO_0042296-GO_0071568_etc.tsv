@@ -1,0 +1,358 @@
+term	file	line
+GO:0004842	smart2go	SMART:SM00119 HECTc > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	smart2go	SMART:SM00504 Ubox > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	unirule2go	UniRule:UR000138767 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	unirule2go	UniRule:UR000141802 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	unirule2go	UniRule:UR000148759 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	unirule2go	UniRule:UR000369684 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	unirule2go	UniRule:UR000370030 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	unirule2go	UniRule:UR000736776 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	unirule2go	UniRule:UR000907796 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	unirule2go	UniRule:UR001000751 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	unirule2go	UniRule:UR001427773 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	unirule2go	UniRule:UR001694787 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	unirule2go	UniRule:UR001695760 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	unirule2go	UniRule:UR001695780 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	pirsf2go	PIRSF:PIRSF037880 Parkin > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	pirsf2go	PIRSF:PIRSF037950 E3_ubiquit_lig_RNF8 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	prosite2go	PROSITE:PS50237 HECT > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	prosite2go	PROSITE:PS51416 MIB_HERC2 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	prosite2go	PROSITE:PS51698 U_BOX > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	hamap2go	HAMAP:MF_03066 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	hamap2go	HAMAP:MF_03067 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	kegg_reaction2go	KEGG_REACTION:R03876 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	prints2go	PRINTS:PR00493 BRSTCANCERI > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	prints2go	PRINTS:PR01475 PARKIN > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-1169394 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-1169395 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-1169397 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-1169398 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-1169402 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-1169405 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-1169406 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-1234163 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-1234172 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-1253282 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-1358789 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-1358790 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-1358792 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-1363331 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-168915 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-173542 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-173545 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-174057 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-174104 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-174144 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-174159 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-174195 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-174227 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-179417 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-180540 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-180597 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-182986 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-182993 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-183036 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-183051 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-183084 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-183089 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-1852623 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-187575 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-1912357 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-1912386 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-1918092 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-1918095 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-1977296 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-1980074 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-1980118 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-201425 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-202453 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-202534 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-205118 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-209063 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-211734 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-2169050 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-2172172 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-2179276 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-2186747 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-2186785 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-2187368 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-2213017 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-264444 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-2682349 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-2730904 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-2737728 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-2769007 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-2900765 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-3000335 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-3134804 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-3134946 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-3249386 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-3780995 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-3781009 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-3788724 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-3797226 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-400267 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-4332236 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-446877 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-450358 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-451418 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-5205682 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-5357757 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-5362412 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-5483238 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-5607725 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-5607728 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-5607756 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-5607757 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-5610742 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-5610745 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-5610746 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-5652009 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-5655170 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-5660753 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-5667107 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-5667111 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-5668454 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-5668534 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-5675470 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-5684250 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-5691108 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-5693108 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-68712 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-69598 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-741386 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-75824 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-870449 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-8948709 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-8956106 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-9013069 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-9013974 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-9014342 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-918224 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-936412 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-936942 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-936986 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-9628444 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-9645394 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-9645414 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-9688831 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-9701000 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-9750946 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-975118 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-975147 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-9758604 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-9793444 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-9793485 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-9793679 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-9796346 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-9796387 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-9796626 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-9815507 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-9817362 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-983140 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-983153 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	reactome2go	Reactome:R-HSA-983156 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR000569 HECT domain > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR003613 U-box domain > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR003977 E3 ubiquitin-protein ligase parkin > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR010489 Effector protein NleG > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR010606 Mib-herc2 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR011364 Breast cancer type 1 susceptibility protein (BRCA1) > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR013956 E3 ubiquitin ligase Bre1 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR017335 E3 ubiquitin-protein ligase RNF8 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR022103 Baculoviral IAP repeat-containing protein 6 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR022170 E3 Ubiquitin ligase MUL1-like > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR024162 Adaptor protein Cbl > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR025725 E3 ubiquitin-protein ligase SopA-like, catalytic domain > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR026254 E3 ubiquitin-protein ligase RNF31-like > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR026848 E3 ubiquitin-protein ligase FANCL > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR027139 TNF receptor-associated factor 6, C3HC3D-type RING zinc finger > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR029487 Novel E3 ligase domain > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR031127 E3 ubiquitin ligase RBR family > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR031248 E3 ubiquitin-protein ligase RNF213 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR033276 E3 ubiquitin-protein ligase BIG BROTHER > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR034725 E3 ubiquitin-protein ligase RNF168 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR035983 HECT, E3 ligase catalytic domain > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR037252 Mib/herc2 domain superfamily > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR037305 TNF receptor-associated factor 2, MATH domain > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR037309 TNF receptor-associated factor 6, MATH domain > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR037381 E3 ubiquitin-protein ligase RFWD3 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR039209 ORC ubiquitin ligase 1 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR039780 CCR4-NOT transcription complex subunit 4 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR040178 E3 ubiquitin-protein ligase RNF220, RING finger > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR042469 E3 ubiquitin-protein ligase HECTD3 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR042494 E3 ubiquitin-protein ligase RNF103 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR044231 E3 ubiquitin-protein ligase SP1-like > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR044247 E3 ubiquitin-protein ligase SPL2-like > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR044274 E3 ubiquitin-protein ligase RFI2 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR044584 E3 ubiquitin-protein ligase KEG > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR044718 E3 ubiquitin-protein ligase HOS1 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR044793 E3 ubiquitin-protein ligase SIS3 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR044807 E3 ubiquitin protein ligase DRIP1-like > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR045098 Fyv10 family > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR045129 E3 ubiquitin-protein ligase RNF123/RSPRY1-like > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	interpro2go	InterPro:IPR046356 E3 ubiquitin-protein ligase MARCHF4/9/11 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	pfam2go	Pfam:PF00632 HECT > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	pfam2go	Pfam:PF04564 U-box > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	pfam2go	Pfam:PF06416 T3SS_NleG > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	pfam2go	Pfam:PF06701 MIB_HERC2 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	pfam2go	Pfam:PF12356 BIRC6 > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	pfam2go	Pfam:PF12483 GIDE > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	pfam2go	Pfam:PF13979 SopA_C > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0004842	pfam2go	Pfam:PF14496 NEL > GO:ubiquitin-protein transferase activity ; GO:0004842
+GO:0019777	unirule2go	UniRule:UR000360759 > GO:Atg12 transferase activity ; GO:0019777
+GO:0019777	pirsf2go	PIRSF:PIRSF007802 Autophagy-rel_ATG10 > GO:Atg12 transferase activity ; GO:0019777
+GO:0019777	reactome2go	Reactome:R-HSA-5681999 > GO:Atg12 transferase activity ; GO:0019777
+GO:0019777	interpro2go	InterPro:IPR016524 Ubiquitin-like-conjugating enzyme Atg10 > GO:Atg12 transferase activity ; GO:0019777
+GO:0019787	unirule2go	UniRule:UR000091066 > GO:ubiquitin-like protein transferase activity ; GO:0019787
+GO:0019787	hamap2go	HAMAP:MF_02111 > GO:ubiquitin-like protein transferase activity ; GO:0019787
+GO:0019787	reactome2go	Reactome:R-HSA-5678490 > GO:ubiquitin-like protein transferase activity ; GO:0019787
+GO:0019787	reactome2go	Reactome:R-HSA-688137 > GO:ubiquitin-like protein transferase activity ; GO:0019787
+GO:0019787	interpro2go	InterPro:IPR007135 Ubiquitin-like-conjugating enzyme Atg3/Atg10 > GO:ubiquitin-like protein transferase activity ; GO:0019787
+GO:0019787	pfam2go	Pfam:PF03987 Autophagy_act_C > GO:ubiquitin-like protein transferase activity ; GO:0019787
+GO:0019788	reactome2go	Reactome:R-HSA-8951648 > GO:NEDD8 transferase activity ; GO:0019788
+GO:0019788	reactome2go	Reactome:R-HSA-8951661 > GO:NEDD8 transferase activity ; GO:0019788
+GO:0019788	reactome2go	Reactome:R-HSA-8951764 > GO:NEDD8 transferase activity ; GO:0019788
+GO:0019788	reactome2go	Reactome:R-HSA-8952044 > GO:NEDD8 transferase activity ; GO:0019788
+GO:0019788	reactome2go	Reactome:R-HSA-8952618 > GO:NEDD8 transferase activity ; GO:0019788
+GO:0019788	reactome2go	Reactome:R-HSA-8952626 > GO:NEDD8 transferase activity ; GO:0019788
+GO:0019788	reactome2go	Reactome:R-HSA-8952631 > GO:NEDD8 transferase activity ; GO:0019788
+GO:0019788	reactome2go	Reactome:R-HSA-8952638 > GO:NEDD8 transferase activity ; GO:0019788
+GO:0019788	reactome2go	Reactome:R-HSA-8956025 > GO:NEDD8 transferase activity ; GO:0019788
+GO:0019789	reactome2go	Reactome:R-HSA-2993769 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-2993780 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-2993790 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-2997616 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-2997706 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-2997709 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-2997723 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3000348 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3000383 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3000399 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3000411 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3000433 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3000434 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3000449 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3108203 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3108209 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3108212 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3232162 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3234081 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3234084 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3234094 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3247493 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3296126 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3465545 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3782535 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3899291 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3900047 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3900070 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3900177 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3900194 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3903017 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3927824 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3927886 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3927959 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3968362 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-3968414 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4085296 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4085318 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4085331 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4085347 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4085350 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4085372 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4085992 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4085994 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4086036 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4086059 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4086083 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4086088 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4090281 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4090284 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4090288 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4090390 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4090408 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4341016 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4341025 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4341048 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4341070 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4341072 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4341073 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4546385 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4546386 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4546387 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4551604 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4551616 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4551648 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4551649 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4551655 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4551661 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4551679 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4551683 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4551721 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4551724 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4551727 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4551738 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4551768 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4568846 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4568848 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4568863 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4568914 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4570463 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4570467 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4570485 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4570489 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4570493 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4570496 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4570499 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4570528 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4570553 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4570554 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4615839 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4615872 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4615873 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4615889 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4615900 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4615905 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4615910 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4615933 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4615987 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4616015 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4641342 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4641345 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4641350 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4641362 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4655355 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4655374 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4655431 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4655440 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4656914 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4717461 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4717521 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4719413 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4719423 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4719424 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4719436 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4719447 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4719448 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4720432 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4720446 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4755411 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4755478 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4755479 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4755494 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4755526 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-4755536 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-5228508 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-5228521 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-5228523 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-5228525 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-5682607 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-5684052 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-6790454 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-6804468 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-6804485 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	reactome2go	Reactome:R-HSA-8956365 > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	interpro2go	InterPro:IPR026846 E3 SUMO-protein ligase Nse2 (Mms21) > GO:SUMO transferase activity ; GO:0019789
+GO:0019789	interpro2go	InterPro:IPR042123 Zip3/RNF212-like > GO:SUMO transferase activity ; GO:0019789
+GO:0042296	reactome2go	Reactome:R-HSA-5653754 > GO:ISG15 transferase activity ; GO:0042296
