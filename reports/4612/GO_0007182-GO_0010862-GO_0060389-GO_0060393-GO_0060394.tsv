@@ -1,0 +1,141 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:98388	Sptbn1	PMID:12543979		GO:0007182	common-partner SMAD protein phosphorylation	IDA			PANTHER:PTHR11915	20030310		NCBITaxon:10090
+MGI	MGI:MGI:104662	Pml	PMID:15356634		GO:0007182	common-partner SMAD protein phosphorylation	IMP	MGI:MGI:2429949		PANTHER:PTHR25462	20070321		NCBITaxon:10090
+MGI	UniProtKB:Q15796	SMAD2	PMID:16806156		GO:0007182	common-partner SMAD protein phosphorylation	IDA			PANTHER:PTHR13703	20100113		NCBITaxon:9606
+MGI	MGI:MGI:1920480	Bmper	PMID:20807528		GO:0007182	common-partner SMAD protein phosphorylation	IMP	MGI:MGI:3711028		PANTHER:PTHR11339	20210519	GO:0030509|MGI:MGI:109452|MGI:MGI:1328787|MGI:MGI:1859993	NCBITaxon:10090
+RGD	RGD:69651	Tgfbr2	PMID:14729511|RGD:1579921		GO:0007182	common-partner SMAD protein phosphorylation	IDA			PANTHER:PTHR23255	20060531		NCBITaxon:10116
+UniProt	UniProtKB:P01137	TGFB1	PMID:20573232		GO:0007182	common-partner SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20130205	UniProtKB:P84022	NCBITaxon:9606
+UniProt	UniProtKB:P12644	BMP4	PMID:20573232		GO:0007182	common-partner SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20130205	UniProtKB:Q99717|UniProtKB:Q15797|UniProtKB:P84022	NCBITaxon:9606
+ARUK-UCL	UniProtKB:P01137	TGFB1	PMID:28467929		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20210524	CL:0002591|GO:0007179	NCBITaxon:9606
+BHF-UCL	UniProtKB:P22003	BMP5	PMID:11580864		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20120425	UniProtKB:Q15797|GO:0016358	NCBITaxon:9606
+BHF-UCL	UniProtKB:P17813	ENG	PMID:12015308		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR14002	20090205		NCBITaxon:9606
+BHF-UCL	MGI:MGI:894293	Smad4	PMID:14691138|MGI:MGI:2683382		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR13703	20090304		NCBITaxon:10090
+BHF-UCL	MGI:MGI:98727	Tgfb3	PMID:14691138|MGI:MGI:2683382		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR11848	20090304		NCBITaxon:10090
+BHF-UCL	UniProtKB:Q6KF10	GDF6	PMID:16049014		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090205		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q7Z4P5	GDF7	PMID:16049014		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090205		NCBITaxon:9606
+BHF-UCL	UniProtKB:P18075	BMP7	PMID:16049014		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090205		NCBITaxon:9606
+BHF-UCL	UniProtKB:P12643	BMP2	PMID:16049014		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090205		NCBITaxon:9606
+BHF-UCL	UniProtKB:O95393	BMP10	PMID:16049014		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090205		NCBITaxon:9606
+BHF-UCL	MGI:MGI:87911	Acvr1	PMID:16140292|MGI:MGI:3610266		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR23255	20160621	UniProtKB:Q62432|UBERON:0003930	NCBITaxon:10090
+BHF-UCL	MGI:MGI:1338820	Bmp10	PMID:16798733|MGI:MGI:3695247		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090205		NCBITaxon:10090
+BHF-UCL	UniProtKB:Q9UK05	GDF2	PMID:17068149		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090205		NCBITaxon:9606
+BHF-UCL	UniProtKB:O95393	BMP10	PMID:17068149		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090205		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9GZX9	TWSG1	PMID:17164348		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR12312	20170310	UniProtKB:Q15796|CL:0000492	NCBITaxon:9606
+BHF-UCL	MGI:MGI:88182	Bmp6	PMID:19252488|MGI:MGI:4352622		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR11848	20150717	EMAPA:16846|UniProtKB:P70340|EMAPA:16846|UniProtKB:P97454|EMAPA:16846|UniProtKB:Q9JIW5	NCBITaxon:10090
+BHF-UCL	UniProtKB:P37023	ACVRL1	PMID:19366699		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR23255	20120314	UniProtKB:Q15797|UniProtKB:Q99717|UniProtKB:Q15796	NCBITaxon:9606
+BHF-UCL	UniProtKB:P22004	BMP6	PMID:19366699		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20120314	UniProtKB:Q15797|UniProtKB:Q99717	NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9UK05	GDF2	PMID:19366699		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20120314	UniProtKB:Q15797|UniProtKB:Q99717|UniProtKB:Q15796	NCBITaxon:9606
+BHF-UCL	UniProtKB:P27037	ACVR2A	PMID:19366699		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR23255	20120314	UniProtKB:Q15796	NCBITaxon:9606
+BHF-UCL	UniProtKB:Q13873	BMPR2	PMID:19366699		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR23255	20121001	UniProtKB:Q15797|UniProtKB:Q99717	NCBITaxon:9606
+BHF-UCL	UniProtKB:Q04771	ACVR1	PMID:19506109		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR23255	20120312		NCBITaxon:9606
+BHF-UCL	UniProtKB:P67870	CSNK2B	PMID:19592636		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11740	20120319		NCBITaxon:9606
+BHF-UCL	UniProtKB:P12643	BMP2	PMID:19664780		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR11848	20120730		NCBITaxon:9606
+BHF-UCL	UniProtKB:P08476	INHBA	PMID:19736306		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20120312		NCBITaxon:9606
+BHF-UCL	UniProtKB:P01137	TGFB1	PMID:19736306		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20120312		NCBITaxon:9606
+BHF-UCL	UniProtKB:P18075	BMP7	PMID:19736306		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20120312		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9UK05	GDF2	PMID:19903896		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20120319	UniProtKB:Q15797	NCBITaxon:9606
+BHF-UCL	UniProtKB:O95393	BMP10	PMID:19903896		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20120319	UniProtKB:Q15797	NCBITaxon:9606
+BHF-UCL	UniProtKB:P12644	BMP4	PMID:20559569		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20120821	UniProtKB:Q15797	NCBITaxon:9606
+BHF-UCL	UniProtKB:Q96S42	NODAL	PMID:21741376		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR11848	20120716		NCBITaxon:9606
+BHF-UCL	UniProtKB:P36894	BMPR1A	PMID:24904118		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR23255	20150724	UniProtKB:Q15797|UniProtKB:Q99717|UniProtKB:O15198	NCBITaxon:9606
+BHF-UCL	UniProtKB:Q30201	HFE	PMID:24904118		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR16675	20150724	UniProtKB:Q15797|UniProtKB:Q99717|UniProtKB:O15198	NCBITaxon:9606
+BHF-UCL	UniProtKB:P01137	TGFB1	PMID:26634652		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20180516	UBERON:0002137|UniProtKB:Q15796	NCBITaxon:9606
+BHF-UCL	UniProtKB:P01137	TGFB1	PMID:31023188		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20210603	CL:0002591|GO:0007179	NCBITaxon:9606
+BHF-UCL	UniProtKB:P37231	PPARG	PMID:31023188		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IGI	UniProtKB:P01137		PANTHER:PTHR24082	20210603	CL:0002591|GO:0007179	NCBITaxon:9606
+BHF-UCL	MGI:MGI:97747	Pparg	PMID:31023188|MGI:MGI:6434720		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IGI	UniProtKB:Q91ZX7		PANTHER:PTHR24082	20210603	EMAPA:16728	NCBITaxon:10090
+BHF-UCL	UniProtKB:P36897	TGFBR1	PMID:9311995		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR23255	20090205		NCBITaxon:9606
+BHF-UCL	UniProtKB:P18075	BMP7	PMID:9311995		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090205		NCBITaxon:9606
+BHF-UCL	UniProtKB:P36897	TGFBR1	PMID:9389648		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR23255	20090205		NCBITaxon:9606
+BHF-UCL	UniProtKB:P01137	TGFB1	PMID:9389648		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090205		NCBITaxon:9606
+BHF-UCL	UniProtKB:P36894	BMPR1A	PMID:9389648		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR23255	20090205		NCBITaxon:9606
+BHF-UCL	UniProtKB:P12644	BMP4	PMID:9389648		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090205		NCBITaxon:9606
+ComplexPortal	UniProtKB:P36897	TGFBR1	PMID:12065756		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR23255	20161219		NCBITaxon:9606
+ComplexPortal	UniProtKB:P37173	TGFBR2	PMID:12065756		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR23255	20161219		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-602	tgfb1_human-1	PMID:12065756		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA				20161219		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-529	tgfb1-tgfbr1-tgfbr2_human	PMID:12065756		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA				20161219		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-605	tgfb2_human-1	PMID:18358889		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA				20161219		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-1035	tenascin-x_bovin	PMID:24821840		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA				20170313		NCBITaxon:9913
+RGD	RGD:735207	Acvr1b	PMID:17040568|RGD:2315948		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR23255	20100118		NCBITaxon:10116
+UniProt	UniProtKB:P98082	DAB2	PMID:11387212		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR47695	20120917		NCBITaxon:9606
+UniProt	UniProtKB:P12644	BMP4	PMID:16816361		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20100201		NCBITaxon:9606
+UniProt	UniProtKB:Q93062	RBPMS	PMID:17099224		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR10501	20091202		NCBITaxon:9606
+UniProt	UniProtKB:P18075	BMP7	PMID:17244894		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20100729		NCBITaxon:9606
+UniProt	UniProtKB:P22004	BMP6	PMID:17244894		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20100729		NCBITaxon:9606
+UniProt	UniProtKB:P12644	BMP4	PMID:17244894		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20100729		NCBITaxon:9606
+UniProt	UniProtKB:P12643	BMP2	PMID:17244894		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20100729		NCBITaxon:9606
+UniProt	UniProtKB:P12644	BMP4	PMID:17992660		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR11848	20100119		NCBITaxon:9606
+UniProt	UniProtKB:P12643	BMP2	PMID:17992660		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR11848	20100121		NCBITaxon:9606
+UniProt	UniProtKB:Q13873	BMPR2	PMID:17992660		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR23255	20100121		NCBITaxon:9606
+UniProt	MGI:MGI:109175	Dab2	PMID:20881059|MGI:MGI:5317100		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR47695	20120917		NCBITaxon:10090
+UniProt	MGI:MGI:95684	Gdf10	PMID:21712809|MGI:MGI:5545973		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20150326		NCBITaxon:10090
+UniProt	MGI:MGI:107335	Bmp8b	PMID:22579288|MGI:MGI:5431162		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR11848	20130415		NCBITaxon:10090
+UniProt	MGI:MGI:109496	Lgals9	PMID:25065622|MGI:MGI:5688819		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR11346	20150826	CL:0000902	NCBITaxon:10090
+UniProt	UniProtKB:O00560	SDCBP	PMID:25893292		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR12345	20160112		NCBITaxon:9606
+ZFIN	ZFIN:ZDB-GENE-040426-1413	bmp5	PMID:27790787		GO:0010862	positive regulation of pathway-restricted SMAD protein phosphorylation	IMP	ZFIN:ZDB-MRPHLNO-050902-1		PANTHER:PTHR11848	20170724		NCBITaxon:7955
+BHF-UCL	UniProtKB:P36897	TGFBR1	PMID:11157754		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR23255	20090114		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q03167	TGFBR3	PMID:11157754		GO:0060389	pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR14002	20090114		NCBITaxon:9606
+BHF-UCL	UniProtKB:P01137	TGFB1	PMID:11157754		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090114		NCBITaxon:9606
+BHF-UCL	UniProtKB:P61812	TGFB2	PMID:11157754		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090114		NCBITaxon:9606
+BHF-UCL	UniProtKB:P36897	TGFBR1	PMID:12015308		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR23255	20090115		NCBITaxon:9606
+BHF-UCL	MGI:MGI:98725	Tgfb1	PMID:12773577|MGI:MGI:2663364		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090114		NCBITaxon:10090
+BHF-UCL	MGI:MGI:98726	Tgfb2	PMID:12773577|MGI:MGI:2663364		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090114		NCBITaxon:10090
+BHF-UCL	UniProtKB:Q6KF10	GDF6	PMID:16049014		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090114		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q7Z4P5	GDF7	PMID:16049014		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090114		NCBITaxon:9606
+BHF-UCL	UniProtKB:P12643	BMP2	PMID:16049014		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090114		NCBITaxon:9606
+BHF-UCL	UniProtKB:O95393	BMP10	PMID:16049014		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090114		NCBITaxon:9606
+BHF-UCL	MGI:MGI:1338820	Bmp10	PMID:16798733|MGI:MGI:3695247		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090114		NCBITaxon:10090
+BHF-UCL	UniProtKB:Q9UK05	GDF2	PMID:17068149		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090114		NCBITaxon:9606
+BHF-UCL	UniProtKB:O95393	BMP10	PMID:17068149		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090114		NCBITaxon:9606
+BHF-UCL	MGI:MGI:104637	Tgfbr3	PMID:17295310|MGI:MGI:3699491		GO:0060389	pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR14002	20090114		NCBITaxon:10090
+BHF-UCL	UniProtKB:P01137	TGFB1	PMID:17999987		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090114		NCBITaxon:9606
+BHF-UCL	UniProtKB:P12643	BMP2	PMID:18184661		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090114		NCBITaxon:9606
+BHF-UCL	UniProtKB:P61812	TGFB2	PMID:18358889		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090114		NCBITaxon:9606
+BHF-UCL	UniProtKB:P01137	TGFB1	PMID:18453574		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20090114		NCBITaxon:9606
+BHF-UCL	UniProtKB:P37173	TGFBR2	PMID:18453574		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR23255	20090114		NCBITaxon:9606
+BHF-UCL	UniProtKB:P36897	TGFBR1	PMID:18625725		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR23255	20090114		NCBITaxon:9606
+BHF-UCL	MGI:MGI:1100518	Smad7	PMID:18952608|MGI:MGI:3836072		GO:0060389	pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR13703	20090211		NCBITaxon:10090
+BHF-UCL	UniProtKB:P36897	TGFBR1	PMID:19736306		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR23255	20120312		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q04771	ACVR1	PMID:19736306		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR23255	20120312		NCBITaxon:9606
+FlyBase	FB:FBgn0011300	babo	PMID:22563507|FB:FBrf0218205		GO:0060389	pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR23255	20190430		NCBITaxon:7227
+UniProt	UniProtKB:Q16671	AMHR2	PMID:10854429		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR23255	20210924		NCBITaxon:9606
+UniProt	UniProtKB:P03971	AMH	PMID:20861221		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR15009	20210927		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y4E8	USP15	PMID:22344298		GO:0060389	pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR21646	20121022		NCBITaxon:9606
+UniProt	UniProtKB:P01137	TGFB1	PMID:25893292		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20160112		NCBITaxon:9606
+Xenbase	Xenbase:XB-GENE-17340954	gdf6.L	PMID:17010201		GO:0060389	pathway-restricted SMAD protein phosphorylation	IMP	Xenbase:XB-MORPHOLINO-17249623			20220524		NCBITaxon:8355
+ZFIN	ZFIN:ZDB-GENE-050102-2	araf	PMID:23591895		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR44329	20131004		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-030603-1	mgaa	PMID:30324105		GO:0060389	pathway-restricted SMAD protein phosphorylation	IMP	ZFIN:ZDB-GENO-200218-18		PANTHER:PTHR11267	20200218	GO:0030509	NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-030603-1	mgaa	PMID:30324105		GO:0060389	pathway-restricted SMAD protein phosphorylation	IMP	ZFIN:ZDB-GENO-200218-17		PANTHER:PTHR11267	20200218	GO:0030509	NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-030603-1	mgaa	PMID:30324105		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11267	20200218	GO:0030509	NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-030603-1	mgaa	PMID:30324105		GO:0060389	pathway-restricted SMAD protein phosphorylation	IMP	ZFIN:ZDB-GENO-200218-16		PANTHER:PTHR11267	20200218	GO:0030509	NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-000502-1	bmpr1aa	PMID:30324105		GO:0060389	pathway-restricted SMAD protein phosphorylation	IMP	ZFIN:ZDB-GENO-200218-16		PANTHER:PTHR23255	20200218	GO:0030509	NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-000502-1	bmpr1aa	PMID:30324105		GO:0060389	pathway-restricted SMAD protein phosphorylation	IMP	ZFIN:ZDB-GENO-200218-18		PANTHER:PTHR23255	20200218	GO:0030509	NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-000502-1	bmpr1aa	PMID:30324105		GO:0060389	pathway-restricted SMAD protein phosphorylation	IMP	ZFIN:ZDB-GENO-200218-17		PANTHER:PTHR23255	20200218	GO:0030509	NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-000502-1	bmpr1aa	PMID:30324105		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR23255	20200218	GO:0030509	NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-050522-301	zmynd11	PMID:30324105		GO:0060389	pathway-restricted SMAD protein phosphorylation	IMP	ZFIN:ZDB-GENO-200218-16		PANTHER:PTHR46379	20200218	GO:0030509	NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-050522-301	zmynd11	PMID:30324105		GO:0060389	pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR46379	20200218	GO:0030509	NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-050522-301	zmynd11	PMID:30324105		GO:0060389	pathway-restricted SMAD protein phosphorylation	IMP	ZFIN:ZDB-GENO-200218-17		PANTHER:PTHR46379	20200218	GO:0030509	NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-050522-301	zmynd11	PMID:30324105		GO:0060389	pathway-restricted SMAD protein phosphorylation	IMP	ZFIN:ZDB-GENO-200218-18		PANTHER:PTHR46379	20200218	GO:0030509	NCBITaxon:7955
+BHF-UCL	UniProtKB:P18075	BMP7	PMID:16049014		GO:0060393	regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20130123		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q8N8U9	BMPER	PMID:18787191		GO:0060393	regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11339	20100520		NCBITaxon:9606
+BHF-UCL	UniProtKB:P12644	BMP4	PMID:18787191		GO:0060393	regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR11848	20100520		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q13526	PIN1	PMID:19122240		GO:0060393	regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR10657	20090115		NCBITaxon:9606
+ARUK-UCL	UniProtKB:P37231	PPARG	PMID:28467929		GO:0060394	negative regulation of pathway-restricted SMAD protein phosphorylation	IGI	UniProtKB:P01137		PANTHER:PTHR24082	20210524	CL:0002591|GO:0030512	NCBITaxon:9606
+BHF-UCL	UniProtKB:Q13253	NOG	PMID:15539560		GO:0060394	negative regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR10494	20120307		NCBITaxon:9606
+BHF-UCL	UniProtKB:O60565	GREM1	PMID:15539560		GO:0060394	negative regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR15283	20120307		NCBITaxon:9606
+BHF-UCL	MGI:MGI:104327	Nog	PMID:17218603|MGI:MGI:3783944		GO:0060394	negative regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR10494	20160727	EMAPA:16117|EMAPA:17331|EMAPA:16346	NCBITaxon:10090
+BHF-UCL	UniProtKB:O15105	SMAD7	PMID:17438144		GO:0060394	negative regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR13703	20090219		NCBITaxon:9606
+BHF-UCL	UniProtKB:O43541	SMAD6	PMID:19047146		GO:0060394	negative regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR13703	20090326		NCBITaxon:9606
+BHF-UCL	UniProtKB:O94907	DKK1	PMID:20559569		GO:0060394	negative regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR12113	20120821	UniProtKB:Q15797	NCBITaxon:9606
+BHF-UCL	RNAcentral:URS00004AFF8D_9606	URS00004AFF8D_9606	PMID:24291274		GO:0060394	negative regulation of pathway-restricted SMAD protein phosphorylation	IDA				20171208	GO:0071559|CL:0002618	NCBITaxon:9606
+BHF-UCL	MGI:MGI:1926189	Emilin1	PMID:25056700|MGI:MGI:5605894		GO:0060394	negative regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR15427	20180327	EMAPA:17870|GO:0003180|GO:0030512	NCBITaxon:10090
+BHF-UCL	UniProtKB:P37231	PPARG	PMID:31023188		GO:0060394	negative regulation of pathway-restricted SMAD protein phosphorylation	IGI	UniProtKB:P01137		PANTHER:PTHR24082	20210603	CL:0002591|GO:0030512	NCBITaxon:9606
+BHF-UCL	MGI:MGI:96828	Lrp1	PMID:31023188|MGI:MGI:6434720		GO:0060394	negative regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR24270	20210603	EMAPA:16728|CL:0002591	NCBITaxon:10090
+BHF-UCL	UniProtKB:O43541	SMAD6	PMID:9436979		GO:0060394	negative regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR13703	20090218		NCBITaxon:9606
+FlyBase	FB:FBgn0020493	Dad	PMID:18588885|FB:FBrf0206955		GO:0060394	negative regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR13703	20190502		NCBITaxon:7227
+FlyBase	FB:FBgn0020493	Dad	PMID:9693372|FB:FBrf0104455		GO:0060394	negative regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR13703	20190502		NCBITaxon:7227
+UniProt	UniProtKB:Q969W9	PMEPA1	PMID:20129061		GO:0060394	negative regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR16514	20140724		NCBITaxon:9606
+UniProt	MGI:MGI:1929600	Pmepa1	PMID:20129061|MGI:MGI:5582164		GO:0060394	negative regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR16514	20140723		NCBITaxon:10090
+UniProt	UniProtKB:Q9H3E2	SNX25	PMID:21266196		GO:0060394	negative regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR22775	20130702		NCBITaxon:9606
+UniProt	UniProtKB:O15165	LDLRAD4	PMID:24627487		GO:0060394	negative regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR16514	20140723		NCBITaxon:9606
+UniProt	UniProtKB:Q969W9	PMEPA1	PMID:24627487		GO:0060394	negative regulation of pathway-restricted SMAD protein phosphorylation	IDA			PANTHER:PTHR16514	20140722		NCBITaxon:9606
+ZFIN	ZFIN:ZDB-GENE-011015-1	smad6a	PMID:22247485		GO:0060394	negative regulation of pathway-restricted SMAD protein phosphorylation	IMP			PANTHER:PTHR13703	20150105		NCBITaxon:7955
