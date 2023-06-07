@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:1351642	Msrb1	PMID:20634897		GO:0070191	methionine-R-sulfoxide reductase activity	IDA			PANTHER:PTHR46755	20100929		NCBITaxon:10090
+SGD	SGD:S000001552	YKL069W	PMID:19049972		GO:0070191	methionine-R-sulfoxide reductase activity	IDA		UniProtKB:P36088	PANTHER:PTHR21021	20081212		NCBITaxon:559292
+UniProt	AGI_LocusCode:AT4G04800	MSRB3	PMID:17956860|TAIR:Publication:501723291		GO:0070191	methionine-R-sulfoxide reductase activity	IMP		TAIR:locus:2138892		20210401		NCBITaxon:3702
