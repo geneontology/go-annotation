@@ -201,7 +201,7 @@ Each annotation is on a separate line of tab separated values:
  9 | Date ::= YYYY-MM-DD | | 1 | 2019-01-30 |  
 10 | Assigned_by ::= Prefix | | 1 or greater | MGI |
 11 | Annotation_Extensions ::= [Extension_Conj] ('\|' Extension_Conj)* | | 0 or greater | BFO:0000066(GO:0005829) |   
-12 | Annotation_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* | | 0 or greater | contributor-id=https://orcid.org/0000-0002-1478-7671 |
+12 | Annotation_Properties ::= [Property_Value_Pair] ('\|' Property_Value_Pair)* | | 0 or greater | contributor-id=https://orcid.org/0000-0002-1478-7671 | Annotation property field is optional; if property exists, property has cardinality as listed below. All properties are single valued as shown in GPAD Annotation Properties table.
 
     Taxon_ID ::= Digit+
     
@@ -242,18 +242,19 @@ Cellular Component | is active in | RO:0002432 | Used to indicate where a gene p
 Cellular Component | colocalizes with | RO:0002325 |
 
 ### GPAD Annotation Properties (Proposed)
+All properties are single valued as shown.
 
-Annotation_Property_Symbol | Property_Value | Cardinality (if used) | Example | Semantics 
+Annotation_Property_Symbol | Property must be unique | Property_Value | Example | Semantics 
 ---------------------------|----------------|------------ | ------- | --------- |
- id | unique database identifier | 1 | id=WBOA:3219 | Unique identifier for an annotation in a contributing database. |
- model-state | GO-CAM model state | 1 | model-state=production |
- noctua-model-id | unique GO-CAM model id | 1 | noctua-model-id=gomodel:5a7e68a100001078 |
- contributor-id | ORCID | 1 | contributor-id=https://orcid.org/0000-0002-1706-4196 | Used by GOC to indicate ORCID of curator or user who entered or changed an annotation |
- reviewer-id | ORCID | 1 | reviewer-id=https://orcid.org/0000-0001-7476-6306 | Used by GOC to indicate ORCID of curator or user who last reviewed an annotation |
- creation-date | YYYY-MM-DD | 1 | creation-date=2019-02-05 | The date on which the annotation was created. |
- modification-date | YYYY-MM-DD | 1 | modification-date=2019-02-06 | The date(s) on which an annotation was modified. |
- reviewed-date | YYYY-MM-DD | 1 | reviewed-date=2019-02-06 | The date(s) on which the annotation was reviewed. |
- comment | text | 1 | comment=Confirmed species by checking PMID:nnnnnnnn. | Free-text field that allows curators or users to enter notes about a specific annotation. |
+ id | True | unique database identifier | id=WBOA:3219 | Unique identifier for an annotation in a contributing database. |
+ model-state | True | GO-CAM model state | model-state=production |
+ noctua-model-id | True | unique GO-CAM model id | noctua-model-id=gomodel:5a7e68a100001078 |
+ contributor-id | False | ORCID | contributor-id=https://orcid.org/0000-0002-1706-4196 | Used by GOC to indicate ORCID of curator or user who entered or changed an annotation |
+ reviewer-id | False | ORCID | reviewer-id=https://orcid.org/0000-0001-7476-6306 | Used by GOC to indicate ORCID of curator or user who last reviewed an annotation |
+ creation-date | True | YYYY-MM-DD | creation-date=2019-02-05 | The date on which the annotation was created. |
+ modification-date | False | YYYY-MM-DD | modification-date=2019-02-06 | The date(s) on which an annotation was modified. |
+ reviewed-date | False | YYYY-MM-DD | reviewed-date=2019-02-06 | The date(s) on which the annotation was reviewed. |
+ comment | False | text | comment=Confirmed species by checking PMID:nnnnnnnn. | Free-text field that allows curators or users to enter notes about a specific annotation. |
 
     
 # GPI 2.0 Specs 
