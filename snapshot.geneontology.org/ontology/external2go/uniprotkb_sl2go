@@ -1,4 +1,4 @@
-!version date: 2023/03/06 12:40:19
+!version date: 2023/05/07 15:16:38
 !description: Mapping of UniProt Subcellular Location vocabulary to GO terms.
 !external resource: http://www.uniprot.org
 !citation: Barrell, D. et al. (2009) Nucleic Acids Res. 37: D396-D403.
@@ -159,7 +159,6 @@ UniProtKB-SubCell:SL-0118 Focal adhesion > GO:focal adhesion ; GO:0005925
 UniProtKB-SubCell:SL-0119 Forespore > GO:intracellular immature spore ; GO:0042763
 UniProtKB-SubCell:SL-0124 Gap junction > GO:gap junction ; GO:0005921
 UniProtKB-SubCell:SL-0125 Gas vesicle > GO:gas vesicle ; GO:0031411
-UniProtKB-SubCell:SL-0126 Gas vesicle membrane > GO:gas vesicle shell ; GO:0033172
 UniProtKB-SubCell:SL-0127 Gem > GO:Gemini of coiled bodies ; GO:0097504
 UniProtKB-SubCell:SL-0129 Glycosome > GO:glycosome ; GO:0020015
 UniProtKB-SubCell:SL-0332 Glycosome matrix > GO:glycosome lumen ; GO:0034468

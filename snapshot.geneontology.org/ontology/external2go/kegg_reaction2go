@@ -1,4 +1,4 @@
-! Generated on 2023-05-18T18:44Z from the ontology 'go' with data version: 'releases/2023-05-18'
+! Generated on 2023-06-10T18:59Z from the ontology 'go' with data version: 'releases/2023-06-10'
 !
 KEGG_REACTION:R00004 > GO:inorganic diphosphate phosphatase activity ; GO:0004427
 KEGG_REACTION:R00005 > GO:allophanate hydrolase activity ; GO:0004039
@@ -445,7 +445,6 @@ KEGG_REACTION:R01468 > GO:ethanolamine kinase activity ; GO:0004305
 KEGG_REACTION:R01473 > GO:UDP-arabinose 4-epimerase activity ; GO:0050373
 KEGG_REACTION:R01476 > GO:glucuronokinase activity ; GO:0047940
 KEGG_REACTION:R01481 > GO:L-glucuronate reductase activity ; GO:0047939
-KEGG_REACTION:R01485 > GO:aspartyltransferase activity ; GO:0047690
 KEGG_REACTION:R01504 > GO:(2,3-dihydroxybenzoyl)adenylate synthase activity ; GO:0008668
 KEGG_REACTION:R01505 > GO:2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase activity ; GO:0008667
 KEGG_REACTION:R01506 > GO:2,3-dihydroxybenzoate 2,3-dioxygenase activity ; GO:0047072
@@ -600,7 +599,7 @@ KEGG_REACTION:R02004 > GO:(-)-endo-fenchol synthase activity ; GO:0050437
 KEGG_REACTION:R02006 > GO:sabinene-hydrate synthase activity ; GO:0050469
 KEGG_REACTION:R02007 > GO:geranyl-diphosphate cyclase activity ; GO:0047926
 KEGG_REACTION:R02009 > GO:myrcene synthase activity ; GO:0050551
-KEGG_REACTION:R02016 > GO:thioredoxin-disulfide reductase activity ; GO:0004791
+KEGG_REACTION:R02016 > GO:thioredoxin-disulfide reductase (NADP) activity ; GO:0004791
 KEGG_REACTION:R02021 > GO:phosphoadenylyl-sulfate reductase (thioredoxin) activity ; GO:0004604
 KEGG_REACTION:R02035 > GO:6-phosphogluconolactonase activity ; GO:0017057
 KEGG_REACTION:R02036 > GO:phosphogluconate dehydratase activity ; GO:0004456
@@ -776,7 +775,7 @@ KEGG_REACTION:R02587 > GO:2-deoxyglucose-6-phosphatase activity ; GO:0003850
 KEGG_REACTION:R02589 > GO:3-hydroxybenzoate 6-monooxygenase activity ; GO:0018669
 KEGG_REACTION:R02591 > GO:glycerophosphocholine cholinephosphodiesterase activity ; GO:0047390
 KEGG_REACTION:R02605 > GO:L-2-amino-4-chloropent-4-enoate dehydrochlorinase activity ; GO:0047460
-KEGG_REACTION:R02610 > GO:3-oxo-5alpha-steroid 4-dehydrogenase (NADP(+)) ; GO:0047751
+KEGG_REACTION:R02610 > GO:3-oxo-5alpha-steroid 4-dehydrogenase (NADP+) ; GO:0047751
 KEGG_REACTION:R02613 > GO:phenethylamine:oxygen oxidoreductase (deaminating) activity ; GO:0052596
 KEGG_REACTION:R02615 > GO:styrene-oxide isomerase activity ; GO:0018846
 KEGG_REACTION:R02632 > GO:quercetin-3-sulfate 3'-sulfotransferase activity ; GO:0047365

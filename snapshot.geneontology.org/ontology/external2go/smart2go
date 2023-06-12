@@ -1,4 +1,4 @@
-!version date: 2023/03/07 22:16:20
+!version date: 2023/05/09 00:17:03
 !description: Mapping of GO terms to SMART entries. This mapping is generated from data supplied by InterPro for the InterPro2GO mapping.
 !external resources: http://www.ebi.ac.uk/interpro, http://smart.embl-heidelberg.de/
 !citation: Mitchell et al. (2015) Nucl. Acids Res. 43 :D213-D221
@@ -43,7 +43,7 @@ SMART:SM00040 CSF2 > GO:extracellular region ; GO:0005576
 SMART:SM00043 CY > GO:cysteine-type endopeptidase inhibitor activity ; GO:0004869
 SMART:SM00044 CYCc > GO:cyclic nucleotide biosynthetic process ; GO:0009190
 SMART:SM00044 CYCc > GO:intracellular signal transduction ; GO:0035556
-SMART:SM00045 DAGKa > GO:diacylglycerol kinase activity ; GO:0004143
+SMART:SM00045 DAGKa > GO:ATP-dependent diacylglycerol kinase activity ; GO:0004143
 SMART:SM00045 DAGKa > GO:protein kinase C-activating G protein-coupled receptor signaling pathway ; GO:0007205
 SMART:SM00046 DAGKc > GO:kinase activity ; GO:0016301
 SMART:SM00047 LYZ2 > GO:amidase activity ; GO:0004040
@@ -442,7 +442,7 @@ SMART:SM00467 GS > GO:ATP binding ; GO:0005524
 SMART:SM00467 GS > GO:protein phosphorylation ; GO:0006468
 SMART:SM00467 GS > GO:membrane ; GO:0016020
 SMART:SM00468 PreSET > GO:zinc ion binding ; GO:0008270
-SMART:SM00468 PreSET > GO:obsolete histone lysine N-methyltransferase activity ; GO:0018024
+SMART:SM00468 PreSET > GO:histone methyltransferase activity ; GO:0042054
 SMART:SM00468 PreSET > GO:histone lysine methylation ; GO:0034968
 SMART:SM00468 PreSET > GO:nucleus ; GO:0005634
 SMART:SM00474 35EXOc > GO:nucleic acid binding ; GO:0003676
@@ -551,7 +551,7 @@ SMART:SM00561 MBT > GO:regulation of DNA-templated transcription ; GO:0006355
 SMART:SM00561 MBT > GO:nucleus ; GO:0005634
 SMART:SM00563 PlsC > GO:acyltransferase activity ; GO:0016746
 SMART:SM00569 L27 > GO:protein binding ; GO:0005515
-SMART:SM00570 AWS > GO:obsolete histone lysine N-methyltransferase activity ; GO:0018024
+SMART:SM00570 AWS > GO:histone methyltransferase activity ; GO:0042054
 SMART:SM00570 AWS > GO:nucleus ; GO:0005634
 SMART:SM00575 ZnF_PMZ > GO:zinc ion binding ; GO:0008270
 SMART:SM00586 ZnF_DBF > GO:nucleic acid binding ; GO:0003676
@@ -585,6 +585,7 @@ SMART:SM00645 Pept_C1 > GO:cysteine-type peptidase activity ; GO:0008234
 SMART:SM00645 Pept_C1 > GO:proteolysis ; GO:0006508
 SMART:SM00646 Ami_3 > GO:N-acetylmuramoyl-L-alanine amidase activity ; GO:0008745
 SMART:SM00646 Ami_3 > GO:peptidoglycan catabolic process ; GO:0009253
+SMART:SM00647 IBR > GO:zinc ion binding ; GO:0008270
 SMART:SM00648 SWAP > GO:RNA binding ; GO:0003723
 SMART:SM00648 SWAP > GO:RNA processing ; GO:0006396
 SMART:SM00649 RL11 > GO:structural constituent of ribosome ; GO:0003735
@@ -599,6 +600,7 @@ SMART:SM00653 eIF2B_5 > GO:translation initiation factor activity ; GO:0003743
 SMART:SM00653 eIF2B_5 > GO:translational initiation ; GO:0006413
 SMART:SM00654 eIF6 > GO:ribosome binding ; GO:0043022
 SMART:SM00654 eIF6 > GO:cytosolic ribosome assembly ; GO:0042256
+SMART:SM00658 RPOL8c > GO:DNA-directed 5'-3' RNA polymerase activity ; GO:0003899
 SMART:SM00658 RPOL8c > GO:DNA-templated transcription ; GO:0006351
 SMART:SM00659 RPOLCX > GO:DNA binding ; GO:0003677
 SMART:SM00659 RPOLCX > GO:DNA-directed 5'-3' RNA polymerase activity ; GO:0003899
@@ -612,6 +614,8 @@ SMART:SM00663 RPOLA_N > GO:DNA-templated transcription ; GO:0006351
 SMART:SM00666 PB1 > GO:protein binding ; GO:0005515
 SMART:SM00667 LisH > GO:protein binding ; GO:0005515
 SMART:SM00678 WWE > GO:zinc ion binding ; GO:0008270
+SMART:SM00684 DM15 > GO:RNA cap binding ; GO:0000339
+SMART:SM00684 DM15 > GO:mRNA stabilization ; GO:0048255
 SMART:SM00693 DysFN > GO:membrane ; GO:0016020
 SMART:SM00694 DysFC > GO:membrane ; GO:0016020
 SMART:SM00695 DUSP > GO:cysteine-type deubiquitinase activity ; GO:0004843
@@ -1111,6 +1115,7 @@ SMART:SM01321 Y1_Tnp > GO:transposase activity ; GO:0004803
 SMART:SM01321 Y1_Tnp > GO:DNA transposition ; GO:0006313
 SMART:SM01330 Frizzled > GO:cell surface receptor signaling pathway ; GO:0007166
 SMART:SM01330 Frizzled > GO:membrane ; GO:0016020
+SMART:SM01335 PADR1 > GO:zinc ion binding ; GO:0008270
 SMART:SM01336 zf-PARP > GO:DNA binding ; GO:0003677
 SMART:SM01336 zf-PARP > GO:zinc ion binding ; GO:0008270
 SMART:SM01338 NOD > GO:cell differentiation ; GO:0030154

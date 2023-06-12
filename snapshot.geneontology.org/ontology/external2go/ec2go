@@ -1,4 +1,4 @@
-! Generated on 2023-05-18T18:44Z from the ontology 'go' with data version: 'releases/2023-05-18'
+! Generated on 2023-06-10T18:59Z from the ontology 'go' with data version: 'releases/2023-06-10'
 !
 EC:1.-.-.- > GO:oxidoreductase activity ; GO:0016491
 EC:1.1.-.- > GO:oxidoreductase activity, acting on CH-OH group of donors ; GO:0016614
@@ -191,7 +191,6 @@ EC:1.1.1.268 > GO:2-(R)-hydroxypropyl-CoM dehydrogenase activity ; GO:0050574
 EC:1.1.1.269 > GO:2-(S)-hydroxypropyl-CoM dehydrogenase activity ; GO:0050575
 EC:1.1.1.27 > GO:L-lactate dehydrogenase activity ; GO:0004459
 EC:1.1.1.270 > GO:3-keto sterol reductase activity ; GO:0000253
-EC:1.1.1.270 > GO:cycloeucalenone reductase activity ; GO:0102176
 EC:1.1.1.271 > GO:GDP-L-fucose synthase activity ; GO:0050577
 EC:1.1.1.272 > GO:(R)-2-hydroxyacid dehydrogenase activity ; GO:0050578
 EC:1.1.1.273 > GO:vellosimine dehydrogenase activity ; GO:0050579
@@ -243,10 +242,7 @@ EC:1.1.1.324 > GO:8-hydroxygeraniol dehydrogenase activity ; GO:0102311
 EC:1.1.1.326 > GO:zerumbone synthase activity ; GO:0102069
 EC:1.1.1.327 > GO:5-exo-hydroxycamphor dehydrogenase activity ; GO:0018452
 EC:1.1.1.33 > GO:mevaldate reductase (NADPH) activity ; GO:0019726
-EC:1.1.1.330 > GO:3-oxo-arachidoyl-CoA reductase activity ; GO:0102339
-EC:1.1.1.330 > GO:3-oxo-behenoyl-CoA reductase activity ; GO:0102340
-EC:1.1.1.330 > GO:3-oxo-lignoceroyl-CoA reductase activity ; GO:0102341
-EC:1.1.1.330 > GO:3-oxo-cerotoyl-CoA reductase activity ; GO:0102342
+EC:1.1.1.330 > GO:very-long-chain 3-oxoacyl-CoA reductase activity ; GO:0141040
 EC:1.1.1.336 > GO:UDP-N-acetyl-D-mannosamine dehydrogenase activity ; GO:0089714
 EC:1.1.1.337 > GO:L-2-hydroxycarboxylate dehydrogenase (NAD+) activity ; GO:0102443
 EC:1.1.1.34 > GO:hydroxymethylglutaryl-CoA reductase (NADPH) activity ; GO:0004420
@@ -1096,7 +1092,7 @@ EC:1.2.1.17 > GO:glyoxylate dehydrogenase (acylating) activity ; GO:0047968
 EC:1.2.1.18 > GO:malonate-semialdehyde dehydrogenase (acetylating) activity ; GO:0018478
 EC:1.2.1.19 > GO:aminobutyraldehyde dehydrogenase activity ; GO:0019145
 EC:1.2.1.19 > GO:1-pyrroline dehydrogenase activity ; GO:0033737
-EC:1.2.1.20 > GO:glutarate-semialdehyde dehydrogenase (NAD+) activity ; GO:0047949
+EC:1.2.1.20 > GO:glutarate-semialdehyde dehydrogenase (NADP+) activity ; GO:0102810
 EC:1.2.1.21 > GO:glycolaldehyde dehydrogenase activity ; GO:0050569
 EC:1.2.1.22 > GO:lactaldehyde dehydrogenase activity ; GO:0008911
 EC:1.2.1.23 > GO:2-oxoaldehyde dehydrogenase (NAD+) activity ; GO:0047551
@@ -1246,7 +1242,7 @@ EC:1.3.1.19 > GO:cis-1,2-dihydrobenzene-1,2-diol dehydrogenase activity ; GO:001
 EC:1.3.1.2 > GO:dihydropyrimidine dehydrogenase (NADP+) activity ; GO:0017113
 EC:1.3.1.20 > GO:trans-1,2-dihydrobenzene-1,2-diol dehydrogenase activity ; GO:0047115
 EC:1.3.1.21 > GO:7-dehydrocholesterol reductase activity ; GO:0047598
-EC:1.3.1.22 > GO:3-oxo-5alpha-steroid 4-dehydrogenase (NADP(+)) ; GO:0047751
+EC:1.3.1.22 > GO:3-oxo-5alpha-steroid 4-dehydrogenase (NADP+) ; GO:0047751
 EC:1.3.1.24 > GO:biliverdin reductase (NAD(P)+) activity ; GO:0004074
 EC:1.3.1.24 > GO:biliberdin reductase NAD+ activity ; GO:0106276
 EC:1.3.1.24 > GO:biliverdin reductase (NADP+) activity ; GO:0106277
@@ -1255,7 +1251,7 @@ EC:1.3.1.27 > GO:2-hexadecenal reductase activity ; GO:0047543
 EC:1.3.1.28 > GO:2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase activity ; GO:0008667
 EC:1.3.1.29 > GO:cis-1,2-dihydro-1,2-dihydroxynaphthalene dehydrogenase activity ; GO:0018505
 EC:1.3.1.3 > GO:delta4-3-oxosteroid 5beta-reductase activity ; GO:0047787
-EC:1.3.1.30 > GO:3-oxo-5alpha-steroid 4-dehydrogenase (NADP(+)) ; GO:0047751
+EC:1.3.1.30 > GO:3-oxo-5alpha-steroid 4-dehydrogenase (NADP+) ; GO:0047751
 EC:1.3.1.31 > GO:2-enoate reductase activity ; GO:0047540
 EC:1.3.1.32 > GO:maleylacetate reductase activity ; GO:0018506
 EC:1.3.1.33 > GO:protochlorophyllide reductase activity ; GO:0016630
@@ -1600,20 +1596,20 @@ EC:1.7.99.1 > GO:hydroxylamine reductase activity ; GO:0050418
 EC:1.7.99.4 > GO:nitrate reductase activity ; GO:0008940
 EC:1.8.-.- > GO:oxidoreductase activity, acting on a sulfur group of donors ; GO:0016667
 EC:1.8.1.- > GO:oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor ; GO:0016668
-EC:1.8.1.10 > GO:CoA-glutathione reductase activity ; GO:0050452
+EC:1.8.1.10 > GO:CoA-glutathione reductase (NADP) activity ; GO:0050452
 EC:1.8.1.11 > GO:asparagusate reductase activity ; GO:0050445
-EC:1.8.1.12 > GO:trypanothione-disulfide reductase activity ; GO:0015042
+EC:1.8.1.12 > GO:trypanothione-disulfide reductase (NADP) activity ; GO:0015042
 EC:1.8.1.13 > GO:bis-gamma-glutamylcystine reductase activity ; GO:0047135
-EC:1.8.1.14 > GO:CoA-disulfide reductase activity ; GO:0050451
+EC:1.8.1.14 > GO:CoA-disulfide reductase (NADP) activity ; GO:0050451
 EC:1.8.1.15 > GO:mycothione reductase activity ; GO:0050627
 EC:1.8.1.18 > GO:NADPH:sulfur oxidoreductase activity ; GO:0043914
 EC:1.8.1.2 > GO:sulfite reductase (NADPH) activity ; GO:0004783
 EC:1.8.1.4 > GO:dihydrolipoyl dehydrogenase activity ; GO:0004148
 EC:1.8.1.5 > GO:2-oxopropyl-CoM reductase (carboxylating) activity ; GO:0050628
 EC:1.8.1.6 > GO:cystine reductase activity ; GO:0050456
-EC:1.8.1.7 > GO:glutathione-disulfide reductase (NADPH) activity ; GO:0004362
+EC:1.8.1.7 > GO:glutathione-disulfide reductase (NADP) activity ; GO:0004362
 EC:1.8.1.8 > GO:protein-disulfide reductase (NAD(P)) activity ; GO:0047134
-EC:1.8.1.9 > GO:thioredoxin-disulfide reductase activity ; GO:0004791
+EC:1.8.1.9 > GO:thioredoxin-disulfide reductase (NADP) activity ; GO:0004791
 EC:1.8.2.- > GO:oxidoreductase activity, acting on a sulfur group of donors, cytochrome as acceptor ; GO:0016669
 EC:1.8.2.1 > GO:sulfite dehydrogenase activity ; GO:0050310
 EC:1.8.2.2 > GO:thiosulfate dehydrogenase activity ; GO:0050338
@@ -1649,10 +1645,8 @@ EC:1.8.7.1 > GO:sulfite reductase (ferredoxin) activity ; GO:0050311
 EC:1.8.7.2 > GO:ferredoxin-thioredoxin reductase activity ; GO:0103012
 EC:1.8.98.1 > GO:CoB--CoM heterodisulfide reductase activity ; GO:0051912
 EC:1.8.98.2 > GO:sulfiredoxin activity ; GO:0032542
-EC:1.8.99.- > GO:dimethyl sulfoxide reductase activity ; GO:0009389
-EC:1.8.99.- > GO:tetrachloro-p-hydroquinone reductive dehalogenase activity ; GO:0018550
 EC:1.8.99.2 > GO:adenylyl-sulfate reductase activity ; GO:0009973
-EC:1.8.99.3 > GO:hydrogensulfite reductase activity ; GO:0018551
+EC:1.8.99.5 > GO:dissimilatory sulfite reductase activity ; GO:0018551
 EC:1.9.-.- > GO:oxidoreductase activity, acting on a heme group of donors ; GO:0016675
 EC:1.9.6.- > GO:oxidoreductase activity, acting on a heme group of donors, nitrogenous group as acceptor ; GO:0016677
 EC:1.9.6.1 > GO:nitrate reductase (cytochrome) activity ; GO:0050140
@@ -2171,23 +2165,20 @@ EC:2.3.1.99 > GO:quinate O-hydroxycinnamoyltransferase activity ; GO:0047205
 EC:2.3.2.- > GO:aminoacyltransferase activity ; GO:0016755
 EC:2.3.2.1 > GO:D-glutamyltransferase activity ; GO:0047823
 EC:2.3.2.10 > GO:UDP-N-acetylmuramoylpentapeptide-lysine N6-alanyltransferase activity ; GO:0047206
-EC:2.3.2.11 > GO:alanylphosphatidylglycerol synthase activity ; GO:0047637
+EC:2.3.2.11 > GO:phosphatidylglycerol alanyltransferase activity ; GO:0047637
 EC:2.3.2.12 > GO:peptidyltransferase activity ; GO:0000048
 EC:2.3.2.13 > GO:protein-glutamine gamma-glutamyltransferase activity ; GO:0003810
 EC:2.3.2.14 > GO:D-alanine gamma-glutamyltransferase activity ; GO:0047811
 EC:2.3.2.15 > GO:glutathione gamma-glutamylcysteinyltransferase activity ; GO:0016756
-EC:2.3.2.2 > GO:hypoglycin A gamma-glutamyl transpeptidase activity ; GO:0102953
 EC:2.3.2.2 > GO:leukotriene C4 gamma-glutamyl transferase activity ; GO:0103068
 EC:2.3.2.23 > GO:ubiquitin conjugating enzyme activity ; GO:0061631
-EC:2.3.2.3 > GO:lysyltransferase activity ; GO:0050071
+EC:2.3.2.3 > GO:phosphatidylglycerol lysyltransferase activity ; GO:0050071
 EC:2.3.2.30 > GO:ornithine-acyl [acyl carrier protein] N-acyltransferase activity ; GO:0043810
 EC:2.3.2.32 > GO:NEDD8 ligase activity ; GO:0061663
 EC:2.3.2.34 > GO:NEDD8 conjugating enzyme activity ; GO:0061654
 EC:2.3.2.5 > GO:glutaminyl-peptide cyclotransferase activity ; GO:0016603
-EC:2.3.2.6 > GO:leucyltransferase activity ; GO:0008914
-EC:2.3.2.7 > GO:aspartyltransferase activity ; GO:0047690
-EC:2.3.2.8 > GO:arginyltransferase activity ; GO:0004057
-EC:2.3.2.9 > GO:agaritine gamma-glutamyltransferase activity ; GO:0050411
+EC:2.3.2.6 > GO:leucyl-tRNA--protein transferase activity ; GO:0008914
+EC:2.3.2.8 > GO:arginyl-tRNA--protein transferase activity ; GO:0004057
 EC:2.3.3.- > GO:acyltransferase activity, acyl groups converted into alkyl on transfer ; GO:0046912
 EC:2.3.3.1 > GO:citrate (Si)-synthase activity ; GO:0004108
 EC:2.3.3.10 > GO:hydroxymethylglutaryl-CoA synthase activity ; GO:0004421
@@ -2514,7 +2505,7 @@ EC:2.4.2.25 > GO:flavone apiosyltransferase activity ; GO:0047892
 EC:2.4.2.26 > GO:protein xylosyltransferase activity ; GO:0030158
 EC:2.4.2.27 > GO:dTDP-dihydrostreptose-streptidine-6-phosphate dihydrostreptosyltransferase activity ; GO:0047282
 EC:2.4.2.28 > GO:S-methyl-5-thioadenosine phosphorylase activity ; GO:0017061
-EC:2.4.2.29 > GO:queuine tRNA-ribosyltransferase activity ; GO:0008479
+EC:2.4.2.29 > GO:tRNA-guanosine(34) queuine transglycosylase activity ; GO:0008479
 EC:2.4.2.3 > GO:uridine phosphorylase activity ; GO:0004850
 EC:2.4.2.30 > GO:NAD+ ADP-ribosyltransferase activity ; GO:0003950
 EC:2.4.2.31 > GO:NAD+-protein-arginine ADP-ribosyltransferase activity ; GO:0106274
@@ -3042,7 +3033,7 @@ EC:2.7.7.50 > GO:mRNA guanylyltransferase activity ; GO:0004484
 EC:2.7.7.51 > GO:adenylylsulfate-ammonia adenylyltransferase activity ; GO:0047352
 EC:2.7.7.52 > GO:RNA uridylyltransferase activity ; GO:0050265
 EC:2.7.7.53 > GO:ATP adenylyltransferase activity ; GO:0003877
-EC:2.7.7.56 > GO:phosphate-dependent exonuclease activity ; GO:0009022
+EC:2.7.7.56 > GO:tRNA nucleotidyltransferase activity ; GO:0009022
 EC:2.7.7.57 > GO:N-methylphosphoethanolamine cytidylyltransferase activity ; GO:0047353
 EC:2.7.7.58 > GO:(2,3-dihydroxybenzoyl)adenylate synthase activity ; GO:0008668
 EC:2.7.7.59 > GO:[protein-PII] uridylyltransferase activity ; GO:0008773
@@ -3195,8 +3186,8 @@ EC:2.8.4.2 > GO:mycothiol-arsenate ligase activity ; GO:0102100
 EC:2.8.4.4 > GO:protein methylthiotransferase activity ; GO:0103039
 EC:2.8.4.5 > GO:tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))-methylthiotransferase ; GO:0061712
 EC:2.9.1.- > GO:selenotransferase activity ; GO:0016785
-EC:2.9.1.1 > GO:L-seryl-tRNASec selenium transferase activity ; GO:0004125
-EC:2.9.1.2 > GO:phosphoseryl-selenocysteinyl-tRNA selenium transferase activity ; GO:0098621
+EC:2.9.1.1 > GO:L-seryl-tRNA(Sec) selenium transferase activity ; GO:0004125
+EC:2.9.1.2 > GO:O-phosphoseryl-tRNA(Sec) selenium transferase activity ; GO:0098621
 EC:2.9.1.3 > GO:tRNA 2-selenouridine synthase activity ; GO:0043828
 EC:3.-.-.- > GO:hydrolase activity ; GO:0016787
 EC:3.1.-.- > GO:hydrolase activity, acting on ester bonds ; GO:0016788

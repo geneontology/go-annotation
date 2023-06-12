@@ -1,4 +1,4 @@
-! Generated on 2023-05-18T18:44Z from the ontology 'go' with data version: 'releases/2023-05-18'
+! Generated on 2023-06-10T18:59Z from the ontology 'go' with data version: 'releases/2023-06-10'
 !
 Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase [NAD(P)] activity ; GO:0003845
 Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase (NAD+) activity ; GO:0070523
@@ -579,7 +579,7 @@ Wikipedia:Pyruvic_acid > GO:pyruvate metabolic process ; GO:0006090
 Wikipedia:Quorum_sensing > GO:quorum sensing ; GO:0009372
 Wikipedia:RNA-induced_silencing_complex > GO:RISC complex ; GO:0016442
 Wikipedia:RNA_editing > GO:RNA modification ; GO:0009451
-Wikipedia:RNA_interference > GO:ncRNA-mediated post-transcriptional gene silencing ; GO:0035194
+Wikipedia:RNA_interference > GO:regulatory ncRNA-mediated post-transcriptional gene silencing ; GO:0035194
 Wikipedia:RNA_splicing > GO:RNA splicing ; GO:0008380
 Wikipedia:RNase_MRP > GO:ribonuclease MRP activity ; GO:0000171
 Wikipedia:RNase_P > GO:ribonuclease P activity ; GO:0004526

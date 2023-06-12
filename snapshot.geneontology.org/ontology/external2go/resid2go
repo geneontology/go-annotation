@@ -1,4 +1,4 @@
-! Generated on 2023-05-18T18:44Z from the ontology 'go' with data version: 'releases/2023-05-18'
+! Generated on 2023-06-10T18:59Z from the ontology 'go' with data version: 'releases/2023-06-10'
 !
 RESID:AA0022 > GO:selenocysteine incorporation ; GO:0001514
 RESID:AA0025 > GO:peptide cross-linking via L-cystine ; GO:0018316
@@ -99,7 +99,6 @@ RESID:AA0121 > GO:peptidyl-lysine oxidation ; GO:0018057
 RESID:AA0123 > GO:peptide cross-linking via L-lysinoalanine ; GO:0018274
 RESID:AA0124 > GO:protein-glutamine gamma-glutamyltransferase activity ; GO:0003810
 RESID:AA0124 > GO:isopeptide cross-linking via N6-(L-isoglutamyl)-L-lysine ; GO:0018153
-RESID:AA0125 > GO:isopeptide cross-linking via N6-glycyl-L-lysine ; GO:0018276
 RESID:AA0127 > GO:N-terminal protein amino acid deamination, from amino carbon ; GO:0018058
 RESID:AA0127 > GO:N-terminal peptidyl-amino acid deamination to pyruvic acid ; GO:0018387
 RESID:AA0128 > GO:N-terminal protein amino acid deamination, from amino carbon ; GO:0018058
@@ -188,7 +187,6 @@ RESID:AA0202 > GO:protein polyglutamylation ; GO:0018095
 RESID:AA0203 > GO:peptidyl-tyrosine adenylylation ; GO:0018254
 RESID:AA0204 > GO:peptide cross-linking via S-(2-aminovinyl)-D-cysteine ; GO:0018096
 RESID:AA0205 > GO:peptidyl-cysteine oxidation ; GO:0018171
-RESID:AA0206 > GO:peptide cross-linking via S-glycyl-L-cysteine ; GO:0018255
 RESID:AA0208 > GO:protein-chondroitin sulfate linkage via chondroitin sulfate D-glucuronyl-D-galactosyl-D-galactosyl-D-xylosyl-L-serine ; GO:0018402
 RESID:AA0209 > GO:protein-dermatan sulfate linkage via dermatan 4-sulfate D-glucuronyl-D-galactosyl-D-galactosyl-D-xylosyl-L-serine ; GO:0018403
 RESID:AA0210 > GO:heparan sulfate proteoglycan biosynthetic process ; GO:0015012

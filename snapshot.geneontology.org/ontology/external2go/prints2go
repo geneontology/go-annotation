@@ -1,4 +1,4 @@
-!version date: 2023/03/07 22:16:20
+!version date: 2023/05/09 00:17:03
 !description: Mapping of GO terms to PRINTS entries. This mapping is generated from data supplied by InterPro for the InterPro2GO mapping.
 !external resources:http://www.ebi.ac.uk/interpro, http://www.bioinf.man.ac.uk/dbbrowser/PRINTS/
 !citation: Mitchell et al. (2015) Nucl. Acids Res. 43 :D213-D221
@@ -2504,7 +2504,6 @@ PRINTS:PR01180 ARGDCRBXLASE > GO:spermidine biosynthetic process ; GO:0008295
 PRINTS:PR01181 DAPDCRBXLASE > GO:diaminopimelate decarboxylase activity ; GO:0008836
 PRINTS:PR01181 DAPDCRBXLASE > GO:lysine biosynthetic process via diaminopimelate ; GO:0009089
 PRINTS:PR01182 ORNDCRBXLASE > GO:polyamine biosynthetic process ; GO:0006596
-PRINTS:PR01183 RIBORDTASEM1 > GO:DNA replication ; GO:0006260
 PRINTS:PR01184 ORNATIN > GO:cell adhesion ; GO:0007155
 PRINTS:PR01184 ORNATIN > GO:regulation of blood coagulation ; GO:0030193
 PRINTS:PR01184 ORNATIN > GO:extracellular region ; GO:0005576
@@ -2596,7 +2595,7 @@ PRINTS:PR01213 BSYNUCLEIN > GO:cytoplasm ; GO:0005737
 PRINTS:PR01216 ADHESIVEI > GO:extracellular region ; GO:0005576
 PRINTS:PR01219 APOLIPOPROTD > GO:lipid binding ; GO:0008289
 PRINTS:PR01219 APOLIPOPROTD > GO:lipid transport ; GO:0006869
-PRINTS:PR01219 APOLIPOPROTD > GO:aging ; GO:0007568
+PRINTS:PR01219 APOLIPOPROTD > GO:obsolete aging ; GO:0007568
 PRINTS:PR01220 HISBINDING > GO:amine binding ; GO:0043176
 PRINTS:PR01220 HISBINDING > GO:mitigation of host defenses by symbiont ; GO:0030682
 PRINTS:PR01223 BRIDEOF7LESS > GO:sevenless binding ; GO:0005118
@@ -2648,7 +2647,6 @@ PRINTS:PR01242 GPROTEINAPLT > GO:G-protein beta/gamma-subunit complex binding ; 
 PRINTS:PR01242 GPROTEINAPLT > GO:adenylate cyclase-modulating G protein-coupled receptor signaling pathway ; GO:0007188
 PRINTS:PR01242 GPROTEINAPLT > GO:heterotrimeric G-protein complex ; GO:0005834
 PRINTS:PR01243 NUCDPKINASE > GO:nucleoside diphosphate kinase activity ; GO:0004550
-PRINTS:PR01243 NUCDPKINASE > GO:obsolete nucleoside diphosphate phosphorylation ; GO:0006165
 PRINTS:PR01243 NUCDPKINASE > GO:GTP biosynthetic process ; GO:0006183
 PRINTS:PR01243 NUCDPKINASE > GO:UTP biosynthetic process ; GO:0006228
 PRINTS:PR01243 NUCDPKINASE > GO:CTP biosynthetic process ; GO:0006241
@@ -2658,7 +2656,7 @@ PRINTS:PR01244 PEROPSIN > GO:membrane ; GO:0016020
 PRINTS:PR01245 RAD1REC1 > GO:DNA damage checkpoint signaling ; GO:0000077
 PRINTS:PR01246 RAD1REPAIR > GO:DNA damage checkpoint signaling ; GO:0000077
 PRINTS:PR01246 RAD1REPAIR > GO:nucleus ; GO:0005634
-PRINTS:PR01247 RECEXONCLASE > GO:obsolete exodeoxyribonuclease III activity ; GO:0008853
+PRINTS:PR01247 RECEXONCLASE > GO:double-stranded DNA 3'-5' DNA exonuclease activity ; GO:0008311
 PRINTS:PR01247 RECEXONCLASE > GO:nucleus ; GO:0005634
 PRINTS:PR01248 TYPE1KERATIN > GO:structural molecule activity ; GO:0005198
 PRINTS:PR01249 RIBOSOMALL31 > GO:structural constituent of ribosome ; GO:0003735
@@ -4250,7 +4248,7 @@ PRINTS:PR02057 PROTEINF105B > GO:cysteine-type deubiquitinase activity ; GO:0004
 PRINTS:PR02057 PROTEINF105B > GO:protein linear deubiquitination ; GO:1990108
 PRINTS:PR02058 APODVERTBRTE > GO:lipid binding ; GO:0008289
 PRINTS:PR02058 APODVERTBRTE > GO:lipid transport ; GO:0006869
-PRINTS:PR02058 APODVERTBRTE > GO:aging ; GO:0007568
+PRINTS:PR02058 APODVERTBRTE > GO:obsolete aging ; GO:0007568
 PRINTS:PR02059 JAGGEDFAMILY > GO:Notch binding ; GO:0005112
 PRINTS:PR02059 JAGGEDFAMILY > GO:Notch signaling pathway ; GO:0007219
 PRINTS:PR02061 WOLFRAMIN > GO:calcium ion homeostasis ; GO:0055074
@@ -4270,7 +4268,9 @@ PRINTS:PR02082 GLC7IP4 > GO:protein phosphatase regulator activity ; GO:0019888
 PRINTS:PR02082 GLC7IP4 > GO:cytoplasm ; GO:0005737
 PRINTS:PR02083 GKINASEAP1 > GO:signal transduction ; GO:0007165
 PRINTS:PR02083 GKINASEAP1 > GO:Golgi apparatus ; GO:0005794
-PRINTS:PR02085 POLR2GRINL1 > GO:RNA polymerase II, holoenzyme ; GO:0016591
+PRINTS:PR02085 POLR2GRINL1 > GO:transcription elongation factor activity ; GO:0003711
+PRINTS:PR02085 POLR2GRINL1 > GO:transcription elongation by RNA polymerase II ; GO:0006368
+PRINTS:PR02085 POLR2GRINL1 > GO:nucleus ; GO:0005634
 PRINTS:PR02087 HAUSAUGMINL1 > GO:spindle assembly ; GO:0051225
 PRINTS:PR02087 HAUSAUGMINL1 > GO:HAUS complex ; GO:0070652
 PRINTS:PR02088 HAUSAUGMINL2 > GO:centrosome cycle ; GO:0007098

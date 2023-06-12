@@ -1,4 +1,4 @@
-!version date: 2023/03/07 22:16:20
+!version date: 2023/05/09 00:17:03
 !description: Mapping of GO terms to PROSITE entries. This mapping is generated from data supplied by InterPro for the InterPro2GO mapping.
 !external resources: http://www.ebi.ac.uk/interpro, http://www.expasy.org/prosite/
 !citation: Mitchell et al. (2015) Nucl. Acids Res. 43 :D213-D221
@@ -1984,7 +1984,7 @@ PROSITE:PS50861 AA_TRNA_LIGASE_II_GLYAB > GO:cytoplasm ; GO:0005737
 PROSITE:PS50863 B3 > GO:DNA binding ; GO:0003677
 PROSITE:PS50864 SAND > GO:DNA binding ; GO:0003677
 PROSITE:PS50867 PRE_SET > GO:zinc ion binding ; GO:0008270
-PROSITE:PS50867 PRE_SET > GO:obsolete histone lysine N-methyltransferase activity ; GO:0018024
+PROSITE:PS50867 PRE_SET > GO:histone methyltransferase activity ; GO:0042054
 PROSITE:PS50867 PRE_SET > GO:histone lysine methylation ; GO:0034968
 PROSITE:PS50867 PRE_SET > GO:nucleus ; GO:0005634
 PROSITE:PS50870 AH > GO:protein domain specific binding ; GO:0019904
@@ -2317,7 +2317,7 @@ PROSITE:PS51211 VITELLOGENIN > GO:lipid transport ; GO:0006869
 PROSITE:PS51213 ELK > GO:DNA binding ; GO:0003677
 PROSITE:PS51214 IBB > GO:nuclear import signal receptor activity ; GO:0061608
 PROSITE:PS51214 IBB > GO:protein import into nucleus ; GO:0006606
-PROSITE:PS51215 AWS > GO:obsolete histone lysine N-methyltransferase activity ; GO:0018024
+PROSITE:PS51215 AWS > GO:histone methyltransferase activity ; GO:0042054
 PROSITE:PS51215 AWS > GO:nucleus ; GO:0005634
 PROSITE:PS51217 UVRD_HELICASE_CTER > GO:ATP binding ; GO:0005524
 PROSITE:PS51217 UVRD_HELICASE_CTER > GO:hydrolase activity ; GO:0016787
@@ -2591,22 +2591,23 @@ PROSITE:PS51567 SAM_MT43_SUVAR420_1 > GO:histone H4K20 methyltransferase activit
 PROSITE:PS51567 SAM_MT43_SUVAR420_1 > GO:histone H4-K20 methylation ; GO:0034770
 PROSITE:PS51568 SAM_MT43_SET2_1 > GO:histone H3K36 methyltransferase activity ; GO:0046975
 PROSITE:PS51568 SAM_MT43_SET2_1 > GO:histone H3-K36 methylation ; GO:0010452
-PROSITE:PS51569 DOT1 > GO:obsolete histone lysine N-methyltransferase activity ; GO:0018024
+PROSITE:PS51569 DOT1 > GO:histone H3K79 methyltransferase activity ; GO:0031151
 PROSITE:PS51570 SAM_MT43_SUVAR420_2 > GO:histone H4K20 methyltransferase activity ; GO:0042799
 PROSITE:PS51570 SAM_MT43_SUVAR420_2 > GO:histone H4-K20 dimethylation ; GO:0034772
-PROSITE:PS51571 SAM_MT43_PR_SET > GO:obsolete histone lysine N-methyltransferase activity ; GO:0018024
-PROSITE:PS51572 SAM_MT43_1 > GO:obsolete histone lysine N-methyltransferase activity ; GO:0018024
+PROSITE:PS51571 SAM_MT43_PR_SET > GO:histone H4K20 methyltransferase activity ; GO:0042799
+PROSITE:PS51572 SAM_MT43_1 > GO:histone H3K4 methyltransferase activity ; GO:0042800
 PROSITE:PS51572 SAM_MT43_1 > GO:histone lysine methylation ; GO:0034968
 PROSITE:PS51572 SAM_MT43_1 > GO:Set1C/COMPASS complex ; GO:0048188
-PROSITE:PS51574 SAM_MT43_2 > GO:obsolete histone lysine N-methyltransferase activity ; GO:0018024
+PROSITE:PS51574 SAM_MT43_2 > GO:histone H4 methyltransferase activity ; GO:0140939
 PROSITE:PS51574 SAM_MT43_2 > GO:histone lysine methylation ; GO:0034968
 PROSITE:PS51575 SAM_MT43_SUVAR39_2 > GO:histone methylation ; GO:0016571
 PROSITE:PS51576 SAM_MT43_EZ > GO:PcG protein complex ; GO:0031519
-PROSITE:PS51577 SAM_MT43_SET7 > GO:obsolete histone lysine N-methyltransferase activity ; GO:0018024
+PROSITE:PS51577 SAM_MT43_SET7 > GO:protein-lysine N-methyltransferase activity ; GO:0016279
+PROSITE:PS51577 SAM_MT43_SET7 > GO:histone H3K4 monomethyltransferase activity ; GO:0140945
 PROSITE:PS51577 SAM_MT43_SET7 > GO:regulation of DNA-templated transcription ; GO:0006355
 PROSITE:PS51577 SAM_MT43_SET7 > GO:histone lysine methylation ; GO:0034968
 PROSITE:PS51577 SAM_MT43_SET7 > GO:chromosome ; GO:0005694
-PROSITE:PS51579 SAM_MT43_SUVAR39_3 > GO:obsolete histone lysine N-methyltransferase activity ; GO:0018024
+PROSITE:PS51579 SAM_MT43_SUVAR39_3 > GO:histone H3K9 methyltransferase activity ; GO:0046974
 PROSITE:PS51579 SAM_MT43_SUVAR39_3 > GO:histone lysine methylation ; GO:0034968
 PROSITE:PS51579 SAM_MT43_SUVAR39_3 > GO:nucleus ; GO:0005634
 PROSITE:PS51581 SAM_GTMT > GO:methyltransferase activity ; GO:0008168
@@ -2884,6 +2885,11 @@ PROSITE:PS51997 UPF1_CH_RICH > GO:zinc ion binding ; GO:0008270
 PROSITE:PS51997 UPF1_CH_RICH > GO:nuclear-transcribed mRNA catabolic process, nonsense-mediated decay ; GO:0000184
 PROSITE:PS51997 UPF1_CH_RICH > GO:cytoplasm ; GO:0005737
 PROSITE:PS51999 ZF_GRF > GO:zinc ion binding ; GO:0008270
+PROSITE:PS52002 SM > GO:RNA binding ; GO:0003723
+PROSITE:PS52003 OCA > GO:DNA binding ; GO:0003677
+PROSITE:PS52003 OCA > GO:POU domain binding ; GO:0070974
+PROSITE:PS52005 CBM56 > GO:carbohydrate binding ; GO:0030246
+PROSITE:PS52007 PADR1 > GO:zinc ion binding ; GO:0008270
 PROSITE:PS60000 CHITOSANASE_46_80 > GO:chitosanase activity ; GO:0016977
 PROSITE:PS60000 CHITOSANASE_46_80 > GO:carbohydrate metabolic process ; GO:0005975
 PROSITE:PS60000 CHITOSANASE_46_80 > GO:extracellular region ; GO:0005576
