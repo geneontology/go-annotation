@@ -1,0 +1,9 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:Q9HCE7	SMURF1	PMID:11278251		GO:0030579	ubiquitin-dependent SMAD protein catabolic process	IDA			PANTHER:PTHR11254	20090219		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9HCE7	SMURF1	PMID:12151385		GO:0030579	ubiquitin-dependent SMAD protein catabolic process	IDA			PANTHER:PTHR11254	20090603		NCBITaxon:9606
+BHF-UCL	MGI:MGI:1934919	Rnf111	PMID:16601693|MGI:MGI:3628833		GO:0030579	ubiquitin-dependent SMAD protein catabolic process	IMP			PANTHER:PTHR16200	20100728		NCBITaxon:10090
+BHF-UCL	UniProtKB:O43294	TGFB1I1	PMID:18762808		GO:0030579	ubiquitin-dependent SMAD protein catabolic process	IDA			PANTHER:PTHR24216	20090218		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9HAU4	SMURF2	PMID:19122240		GO:0030579	ubiquitin-dependent SMAD protein catabolic process	IDA			PANTHER:PTHR11254	20090115		NCBITaxon:9606
+HGNC-UCL	UniProtKB:Q9UNE7	STUB1	PMID:15781469		GO:0030579	ubiquitin-dependent SMAD protein catabolic process	IDA			PANTHER:PTHR46803	20060124		NCBITaxon:9606
+MGI	MGI:MGI:1934919	Rnf111	PMID:16601693		GO:0030579	ubiquitin-dependent SMAD protein catabolic process	IDA			PANTHER:PTHR16200	20100920		NCBITaxon:10090
+MGI	MGI:MGI:98953	Wnt1	PMID:16601693		GO:0030579	ubiquitin-dependent SMAD protein catabolic process	IDA			PANTHER:PTHR12027	20100920		NCBITaxon:10090
