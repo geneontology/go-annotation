@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	MGI:MGI:88177	Bmp2	PMID:16730346|MGI:MGI:3640731		GO:0005125	cytokine activity	IMP			PANTHER:PTHR11848	20200825	GO:1905072|EMAPA:16546|GO:0003331|GO:0030509|GO:1905222|GO:0061312|GO:0003272|GO:0061312|GO:0001837|EMAPA:16546|GO:0061312	NCBITaxon:10090
