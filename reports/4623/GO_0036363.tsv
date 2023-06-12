@@ -1,0 +1,26 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AgBase	UniProtKB:Q90670	ACVR2B	DOI:10.1016/j.procbio.2011.10.027		GO:1901389	negative regulation of transforming growth factor beta activation	IMP			PANTHER:PTHR23255	20160111		NCBITaxon:9031
+AgBase	UniProtKB:Q66T47	ACVR2B	DOI:10.1016/j.procbio.2011.10.027		GO:1901389	negative regulation of transforming growth factor beta activation	IMP			PANTHER:PTHR23255	20160111		NCBITaxon:9823
+AgBase	UniProtKB:P17785	ANXA2	PMID:14697359		GO:0036366	transforming growth factor beta3 activation	IDA			PANTHER:PTHR10502	20130306		NCBITaxon:9031
+AgBase	UniProtKB:Q99IB8	Q99IB8	PMID:24263861		GO:1901397	positive regulation of transforming growth factor beta2 activation	IDA		UniProtKB:Q99IB8:PRO_0000045599		20140515		NCBITaxon:356411
+ComplexPortal	UniProtKB:P26012	ITGB8	PMID:11970960		GO:1901388	regulation of transforming growth factor beta activation	IDA			PANTHER:PTHR10082	20200303		NCBITaxon:9606
+ComplexPortal	UniProtKB:P06756	ITGAV	PMID:11970960		GO:1901388	regulation of transforming growth factor beta activation	IDA			PANTHER:PTHR23220	20200303		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-1821	intg_av_b8_human	PMID:11970960		GO:1901388	regulation of transforming growth factor beta activation	IDA				20200303		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-1035	tenascin-x_bovin	PMID:24821840		GO:1901390	positive regulation of transforming growth factor beta activation	IDA				20170313		NCBITaxon:9913
+UniProt	UniProtKB:Q9NS15	LTBP3	PMID:18672106		GO:0036363	transforming growth factor beta activation	IMP			PANTHER:PTHR24034	20131021	UniProtKB:P01137	NCBITaxon:9606
+UniProt	UniProtKB:Q14392	LRRC32	PMID:19651619		GO:1901388	regulation of transforming growth factor beta activation	IDA			PANTHER:PTHR24373	20180904		NCBITaxon:9606
+UniProt	UniProtKB:Q14392	LRRC32	PMID:19750484		GO:1901388	regulation of transforming growth factor beta activation	IDA			PANTHER:PTHR24373	20180904		NCBITaxon:9606
+UniProt	UniProtKB:Q14766	LTBP1	PMID:2022183		GO:1901388	regulation of transforming growth factor beta activation	IDA			PANTHER:PTHR24034	20180904		NCBITaxon:9606
+UniProt	UniProtKB:P08238	HSP90AB1	PMID:20599762		GO:1901389	negative regulation of transforming growth factor beta activation	IDA			PANTHER:PTHR11528	20170214		NCBITaxon:9606
+UniProt	UniProtKB:Q14392	LRRC32	PMID:22278742		GO:1901388	regulation of transforming growth factor beta activation	IDA			PANTHER:PTHR24373	20180904		NCBITaxon:9606
+UniProt	UniProtKB:P18564	ITGB6	PMID:22278742		GO:1901388	regulation of transforming growth factor beta activation	IDA			PANTHER:PTHR10082	20180904		NCBITaxon:9606
+UniProt	UniProtKB:P06756	ITGAV	PMID:22278742		GO:1901388	regulation of transforming growth factor beta activation	IDA			PANTHER:PTHR23220	20180904		NCBITaxon:9606
+UniProt	MGI:MGI:1338035	Itgb8	PMID:22278742|MGI:MGI:5490445		GO:1901388	regulation of transforming growth factor beta activation	IDA			PANTHER:PTHR10082	20180904		NCBITaxon:10090
+UniProt	UniProtKB:Q00887	PSG9	PMID:27389696		GO:0036364	transforming growth factor beta1 activation	IDA			PANTHER:PTHR44427	20210630		NCBITaxon:9606
+UniProt	MGI:MGI:93882	Lrrc32	PMID:28912269|MGI:MGI:5920420		GO:1901398	regulation of transforming growth factor beta3 activation	IDA			PANTHER:PTHR24373	20180904		NCBITaxon:10090
+UniProt	MGI:MGI:2445095	Nrros	PMID:29909984|MGI:MGI:6192878		GO:0036364	transforming growth factor beta1 activation	IDA			PANTHER:PTHR45617	20180904		NCBITaxon:10090
+UniProt	UniProtKB:Q92908	GATA6	PMID:33082341		GO:1901390	positive regulation of transforming growth factor beta activation	IDA			PANTHER:PTHR10071	20201111		NCBITaxon:9606
+UniProt	MGI:MGI:107825	Adam8	PMID:34615811|MGI:MGI:7444872		GO:1901394	positive regulation of transforming growth factor beta1 activation	IMP			PANTHER:PTHR11905	20230222		NCBITaxon:10090
+UniProt	MGI:MGI:87963	Agt	PMID:34615811|MGI:MGI:7444872		GO:1901394	positive regulation of transforming growth factor beta1 activation	IMP			PANTHER:PTHR11461	20230222		NCBITaxon:10090
+UniProt	UniProtKB:P09958	FURIN	PMID:7737999		GO:1901394	positive regulation of transforming growth factor beta1 activation	IDA			PANTHER:PTHR42884	20180904		NCBITaxon:9606
+UniProt	UniProtKB:Q14766	LTBP1	PMID:8617200		GO:1901388	regulation of transforming growth factor beta activation	IDA			PANTHER:PTHR24034	20180904		NCBITaxon:9606
