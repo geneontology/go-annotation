@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CAFA	UniProtKB:P73124	ssl1911	PMID:10377385		GO:1905479	negative regulation of glutamate-ammonia ligase activity	IMP				20160922		NCBITaxon:1111708
+CAFA	UniProtKB:P72975	sll1515	PMID:10377385		GO:1905479	negative regulation of glutamate-ammonia ligase activity	IMP				20160922		NCBITaxon:1111708
+CAFA	UniProtKB:P72975	sll1515	PMID:10377385		GO:1905479	negative regulation of glutamate-ammonia ligase activity	IMP	UniProtKB:P73124			20160922		NCBITaxon:1111708
+ZFIN	ZFIN:ZDB-GENE-030131-9710	yap1	PMID:27428308		GO:1905480	positive regulation of glutamate-ammonia ligase activity	IMP	ZFIN:ZDB-GENO-161027-2			20161027		NCBITaxon:7955
