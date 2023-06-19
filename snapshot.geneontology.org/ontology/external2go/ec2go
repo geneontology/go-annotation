@@ -1,4 +1,4 @@
-! Generated on 2023-06-10T18:59Z from the ontology 'go' with data version: 'releases/2023-06-10'
+! Generated on 2023-06-16T19:00Z from the ontology 'go' with data version: 'releases/2023-06-16'
 !
 EC:1.-.-.- > GO:oxidoreductase activity ; GO:0016491
 EC:1.1.-.- > GO:oxidoreductase activity, acting on CH-OH group of donors ; GO:0016614
@@ -5034,7 +5034,7 @@ EC:6.3.1.12 > GO:D-aspartate ligase activity ; GO:0034025
 EC:6.3.1.13 > GO:cysteine-glucosaminylinositol ligase activity ; GO:0035446
 EC:6.3.1.14 > GO:diphthine-ammonia ligase activity ; GO:0017178
 EC:6.3.1.15 > GO:8-demethylnovobiocate synthase activity ; GO:0102527
-EC:6.3.1.2 > GO:glutamate-ammonia ligase activity ; GO:0004356
+EC:6.3.1.2 > GO:glutamine synthetase activity ; GO:0004356
 EC:6.3.1.20 > GO:lipoate-protein ligase activity ; GO:0016979
 EC:6.3.1.4 > GO:aspartate-ammonia ligase (ADP-forming) activity ; GO:0047478
 EC:6.3.1.5 > GO:NAD+ synthase activity ; GO:0008795

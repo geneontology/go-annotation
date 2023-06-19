@@ -1,4 +1,4 @@
-! Generated on 2023-06-10T18:59Z from the ontology 'go' with data version: 'releases/2023-06-10'
+! Generated on 2023-06-16T19:00Z from the ontology 'go' with data version: 'releases/2023-06-16'
 !
 RHEA:10000 > GO:pentanamidase activity ; GO:0050168
 RHEA:10004 > GO:thiocyanate isomerase activity ; GO:0050335
@@ -1279,7 +1279,7 @@ RHEA:16145 > GO:CMP-N-acetylneuraminate monooxygenase activity ; GO:0030338
 RHEA:16149 > GO:nicotinamide phosphoribosyltransferase activity ; GO:0047280
 RHEA:16153 > GO:aliphatic amine oxidase activity ; GO:0052595
 RHEA:16165 > GO:tryptophan 2-monooxygenase activity ; GO:0050361
-RHEA:16169 > GO:glutamate-ammonia ligase activity ; GO:0004356
+RHEA:16169 > GO:glutamine synthetase activity ; GO:0004356
 RHEA:16173 > GO:(S)-norcoclaurine synthase activity ; GO:0050474
 RHEA:16177 > GO:retinal dehydrogenase activity ; GO:0001758
 RHEA:16181 > GO:3-methylquercitin 7-O-methyltransferase activity ; GO:0030757

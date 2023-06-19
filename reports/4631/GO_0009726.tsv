@@ -1,0 +1,15 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	Xenbase:XB-GENE-865412	dand5.S	PMID:20381352		GO:0003127	detection of nodal flow	IMP				20120217		NCBITaxon:8355
+BHF-UCL	MGI:MGI:2156538	Pkd1l1	PMID:21307093|MGI:MGI:4946570		GO:0003127	detection of nodal flow	IMP			PANTHER:PTHR10877	20110803		NCBITaxon:10090
+BHF-UCL	MGI:MGI:1099818	Pkd2	PMID:21307093|MGI:MGI:4946570		GO:0003127	detection of nodal flow	IMP			PANTHER:PTHR10877	20110803		NCBITaxon:10090
+GR	UniProtKB:Q942F3	BRI1	PMID:11006334		GO:0009729	detection of brassinosteroid stimulus	IMP			PANTHER:PTHR48053	20060831		NCBITaxon:39947
+MGI	MGI:MGI:1914160	Tmem107	PMID:31887266		GO:0003127	detection of nodal flow	IMP	MGI:MGI:5007367		PANTHER:PTHR34341	20201016		NCBITaxon:10090
+TAIR	AGI_LocusCode:AT1G62380	ACO2	PMID:10409511|TAIR:Publication:1345		GO:0009727	detection of ethylene stimulus	IDA		TAIR:locus:2027099		20041108		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G18710	BIN2	PMID:11553730|TAIR:Publication:501680521		GO:0009729	detection of brassinosteroid stimulus	IMP		TAIR:locus:2124082		20030715		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G32040	KNAT5	PMID:16463096|TAIR:Publication:501718568		GO:0009727	detection of ethylene stimulus	IEP		TAIR:locus:2116632		20060412		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G25220	KNAT3	PMID:16463096|TAIR:Publication:501718568		GO:0009722	detection of cytokinin stimulus	IEP		TAIR:locus:2146945		20060612		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G39400	BRI1	PMID:9298904|TAIR:Publication:3078		GO:0009729	detection of brassinosteroid stimulus	IMP		TAIR:locus:2005498		20060502		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G66340	ETR1	PMID:9974395|TAIR:Publication:1795		GO:0009727	detection of ethylene stimulus	IMP		TAIR:locus:2201552		20060607		NCBITaxon:3702
+UniProt	UniProtKB:H2LRU7	pkd2	PMID:21307098		GO:0003127	detection of nodal flow	IMP			PANTHER:PTHR10877	20140404		NCBITaxon:8090
+UniProt	UniProtKB:E7FKV8	pkd1l1	PMID:21307098		GO:0003127	detection of nodal flow	IMP			PANTHER:PTHR10877	20140404		NCBITaxon:8090
+UniProt	UniProtKB:Q6Z4U4	BAK1	PMID:27424498		GO:0009729	detection of brassinosteroid stimulus	IMP			PANTHER:PTHR47988	20170511		NCBITaxon:39947

@@ -1,4 +1,4 @@
-! Generated on 2023-06-10T18:59Z from the ontology 'go' with data version: 'releases/2023-06-10'
+! Generated on 2023-06-16T19:00Z from the ontology 'go' with data version: 'releases/2023-06-16'
 !
 KEGG_REACTION:R00004 > GO:inorganic diphosphate phosphatase activity ; GO:0004427
 KEGG_REACTION:R00005 > GO:allophanate hydrolase activity ; GO:0004039
@@ -66,7 +66,7 @@ KEGG_REACTION:R00227 > GO:acetyl-CoA hydrolase activity ; GO:0003986
 KEGG_REACTION:R00237 > GO:(S)-citramalyl-CoA lyase activity ; GO:0047777
 KEGG_REACTION:R00239 > GO:glutamate 5-kinase activity ; GO:0004349
 KEGG_REACTION:R00251 > GO:5-oxoprolinase (ATP-hydrolyzing) activity ; GO:0017168
-KEGG_REACTION:R00253 > GO:glutamate-ammonia ligase activity ; GO:0004356
+KEGG_REACTION:R00253 > GO:glutamine synthetase activity ; GO:0004356
 KEGG_REACTION:R00258 > GO:L-alanine:2-oxoglutarate aminotransferase activity ; GO:0004021
 KEGG_REACTION:R00259 > GO:acetyl-CoA:L-glutamate N-acetyltransferase activity ; GO:0004042
 KEGG_REACTION:R00260 > GO:glutamate racemase activity ; GO:0008881

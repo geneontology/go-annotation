@@ -1,4 +1,4 @@
-! Generated on 2023-06-10T18:59Z from the ontology 'go' with data version: 'releases/2023-06-10'
+! Generated on 2023-06-16T19:00Z from the ontology 'go' with data version: 'releases/2023-06-16'
 !
 MetaCyc:+-BORNEOL-DEHYDROGENASE-RXN > GO:(+)-borneol dehydrogenase activity ; GO:0047500
 MetaCyc:+-NEOMENTHOL-DEHYDROGENASE-RXN > GO:(+)-neomenthol dehydrogenase activity ; GO:0047501
@@ -2614,7 +2614,7 @@ MetaCyc:GLUTAMINE--TRNA-LIGASE-RXN > GO:glutamine-tRNA ligase activity ; GO:0004
 MetaCyc:GLUTAMINE-N-ACYLTRANSFERASE-RXN > GO:glutamine N-acyltransferase activity ; GO:0047946
 MetaCyc:GLUTAMINE-N-PHENYLACETYLTRANSFERASE-RXN > GO:glutamine N-phenylacetyltransferase activity ; GO:0047947
 MetaCyc:GLUTAMINEFUM-PWY > GO:glutamine catabolic process to fumarate, using glutamate synthase (NADPH) ; GO:0019461
-MetaCyc:GLUTAMINESYN-RXN > GO:glutamate-ammonia ligase activity ; GO:0004356
+MetaCyc:GLUTAMINESYN-RXN > GO:glutamine synthetase activity ; GO:0004356
 MetaCyc:GLUTAMINYL-PEPTIDE-CYCLOTRANSFERASE-RXN > GO:glutaminyl-peptide cyclotransferase activity ; GO:0016603
 MetaCyc:GLUTARATE--COA-LIGASE-RXN > GO:glutarate-CoA ligase activity ; GO:0047948
 MetaCyc:GLUTARATE-SEMIALDEHYDE-DEHYDROGENASE-RXN > GO:glutarate-semialdehyde dehydrogenase (NADP+) activity ; GO:0102810
