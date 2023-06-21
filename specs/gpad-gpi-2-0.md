@@ -388,65 +388,65 @@ go-annotation-summary | text | 1 | go-annotation-summary=Sterol binding protein 
 
 ## Document structure
 
-| Grammar | Comments |
-| ------ | ------ |
-| <code><a name="Doc">Doc</a>                       ::== [GPAD_Doc](#GPAD_Doc) \| [GPI_Doc](#GPI_Doc)<code>| |
-| <code><a name="GPAD_Doc">GPAD_Doc</a>                  ::== [GPAD_Header](#GPAD_Header) [Annotation](#Annotation)*<code>| |
-| <code><a name="GPI_Doc">GPI_Doc<a>                   ::== [GPI_Header](#GPI_Header) [Entity](#Entity)*<code>| |
-| <code><a name="GPAD_Header">GPAD_Header</a>               ::== '!gpa-version: 2.0' \n [Header_Line](#Header_Line)*</code>| |
-| <code><a name="GPI_Header">GPAD_Header</a>               ::== '!gpi-version: 2.0' \n '!namespace: ' [Prefix](#Prefix) \n [Header_Line](#Header_Line)*</code>| |
-| <code><a name="Header_Line">Header_Line</a>               ::== ( [Tag_Value_Header](#Tag_Value_Header) \| [Unstructured_Value_Header](#Unstructured_Value_Header) ) \n<code>| |
-| <code><a name="Tag_Value_Header">Tag_Value_Header</a>          ::== '!' [Header_Property](#Header_Property) ':' [Space](#Space)* [Header_Value](#Header_Value)<code>| |
-| <code><a name="Unstructured_Value_Header">Unstructured_Value_Header</a> ::==  '!!' [Header_Value](#Header_Value)<code>| |
-| <code><a name="Header_Property">Header_Property</a>              ::==  TODO</code>| |
-| <code><a name="Header_Value">Header_Value</a>              ::==  TODO</code>| |
-| <code><a name="Annotation">Annotation</a>                ::== [DB_Object_ID](#DB_Object_ID) \t [Negation](#Negation) \t [Relation](#Relation) \t [Ontology_Class_ID](#Ontology_Class_ID) \t [Reference](#Reference) \t [Evidence_Type](#Evidence_Type) \t [With_Or_From](#With_Or_From) \t [Interacting_Taxon_ID](#Interacting_Taxon_ID) \t [Annotation_Date](#Annotation_Date) \t [Assigned_By](#Assigned_By) \t [Annotation_Extensions](#Annotation_Extensions) \t [Annotation_Properties](#Annotation_Properties) \n</code>| |
-| <code><a name="Entity">Entity</a>              ::==  [DB_Object_ID](#DB_Object_ID) \t [DB_Object_Symbol](#DB_Object_Symbol) \t [DB_Object_Name](#DB_Object_Name) \t [DB_Object_Synonyms](#DB_Object_Synonyms) \t [DB_Object_Type](#DB_Object_Type) \t [DB_Object_Taxon](#DB_Object_Taxon) \t [Encoded_By](#Encoded_By) \t [Parent_Protein](#Parent_Protein) \t [Protein_Containing_Complex_Members](#Protein_Containing_Complex_Members) \t [DB_Xrefs](#DB_Xrefs) [Gene_Product_Properties](#Gene_Product_Properties) \n</code>| |
+| | Grammar | Comments |
+| ------ | ------ | ------ |
+| <code><a name="Doc">Doc</a></code> | <code>[GPAD_Doc](#GPAD_Doc) \| [GPI_Doc](#GPI_Doc)</code>| |
+| <code><a name="GPAD_Doc">GPAD_Doc</a></code> | <code>[GPAD_Header](#GPAD_Header) [Annotation](#Annotation)*</code>| |
+| <code><a name="GPI_Doc">GPI_Doc<a></code> | <code>[GPI_Header](#GPI_Header) [Entity](#Entity)*<code>| |
+| <code><a name="GPAD_Header">GPAD_Header</a></code> | <code>'!gpa-version: 2.0' \n [Header_Line](#Header_Line)*</code>| |
+| <code><a name="GPI_Header">GPAD_Header</a></code> | <code>'!gpi-version: 2.0' \n '!namespace: ' [Prefix](#Prefix) \n [Header_Line](#Header_Line)*</code>| |
+| <code><a name="Header_Line">Header_Line</a></code> | <code>( [Tag_Value_Header](#Tag_Value_Header) \| [Unstructured_Value_Header](#Unstructured_Value_Header) ) \n</code>| |
+| <code><a name="Tag_Value_Header">Tag_Value_Header</a></code> | <code>'!' [Header_Property](#Header_Property) ':' [Space](#Space)* [Header_Value](#Header_Value)</code>| |
+| <code><a name="Unstructured_Value_Header">Unstructured_Value_Header</a></code> | <code> '!!' [Header_Value](#Header_Value)</code>| |
+| <code><a name="Header_Property">Header_Property</a></code> | <code>TODO</code>| |
+| <code><a name="Header_Value">Header_Value</a></code> | <code>TODO</code>| |
+| <code><a name="Annotation">Annotation</a></code> | <code>[DB_Object_ID](#DB_Object_ID) \t [Negation](#Negation) \t [Relation](#Relation) \t [Ontology_Class_ID](#Ontology_Class_ID) \t [Reference](#Reference) \t [Evidence_Type](#Evidence_Type) \t [With_Or_From](#With_Or_From) \t [Interacting_Taxon_ID](#Interacting_Taxon_ID) \t [Annotation_Date](#Annotation_Date) \t [Assigned_By](#Assigned_By) \t [Annotation_Extensions](#Annotation_Extensions) \t [Annotation_Properties](#Annotation_Properties) \n</code>| |
+| <code><a name="Entity">Entity</a></code> | <code>[DB_Object_ID](#DB_Object_ID) \t [DB_Object_Symbol](#DB_Object_Symbol) \t [DB_Object_Name](#DB_Object_Name) \t [DB_Object_Synonyms](#DB_Object_Synonyms) \t [DB_Object_Type](#DB_Object_Type) \t [DB_Object_Taxon](#DB_Object_Taxon) \t [Encoded_By](#Encoded_By) \t [Parent_Protein](#Parent_Protein) \t [Protein_Containing_Complex_Members](#Protein_Containing_Complex_Members) \t [DB_Xrefs](#DB_Xrefs) [Gene_Product_Properties](#Gene_Product_Properties) \n</code>| |
 
 ## GPAD columns
 
-| Column | Grammar | Example | Comments |
-| ------ | ------ | ------ | ------ |
-| 1 | <code><a name="DB_Object_ID">DB_Object_ID</a> ::== [ID](#ID)</code>| UniProtKB:P11678 | |
-| 2 | <code><a name="Negation">Negation</a> ::== 'NOT'?</code>| NOT | |
-| 3 | <code><a name="Relation">Relation</a> ::== [Relation_ID](#Relation_ID)</code>| RO:0002263 | |
-| 4 | <code><a name="Ontology_Class_ID">Ontology_Class_ID</a> ::== TODO</code>| GO:0050803 | |
-| 5 | <code><a name="Reference">Reference</a> ::== [ID](#ID) ( '\|' [ID](#ID) )*</code>| PMID:30695063 | Different IDs, e.g. PMID and MOD paper ID, must correspond to the same publication or reference |
-| 6 | <code><a name="Evidence_Type">Evidence_Type</a> ::== TODO</code>| ECO:0000315 | Mapping file in progress: https://github.com/evidenceontology/evidenceontology#249 |
-| 7 | <code><a name="With_Or_From">With_Or_From</a> ::== TODO</code>| WB:WBVar00000510 | Pipe-separated entries represent independent evidence; comma-separated entries represent grouped evidence, e.g. two of three genes in a triply mutant organism |
-| 8 | <code><a name="Interacting_Taxon_ID">Interacting_Taxon_ID</a> ::== TODO</code>| NCBITaxon:5476 | |
-| 9 | <code><a name="Annotation_Date">Annotation_Date</a> ::== [Date](#Date)</code>| 2019-01-30 | |
-| 10 | <code><a name="Assigned_By">Assigned_By</a> ::== TODO</code>| MGI | |
-| 11 | <code><a name="Annotation_Extensions">Annotation_Extensions</a> ::== [Extension_Conj](#Extension_Conj) ( '\|' [Extension_Conj](#Extension_Conj) )*</code>| BFO:0000066(GO:0005829) | |
-| 12 | <code><a name="Annotation_Properties">Annotation_Properties</a> ::== [Property_Value_Pair](#Property_Value_Pair) ( '\|' [Property_Value_Pair](#Property_Value_Pair) )*</code>| contributor-id=orcid:0000-0002-1478-7671 | |
+| Column | | Grammar | Example | Comments |
+| ------ | ------ | ------ | ------ | ------ |
+| 1 | <code><a name="DB_Object_ID">DB_Object_ID</a></code> | <code>[ID](#ID)</code>| UniProtKB:P11678 | |
+| 2 | <code><a name="Negation">Negation</a></code> | <code>'NOT'?</code>| NOT | |
+| 3 | <code><a name="Relation">Relation</a></code> | <code>[Relation_ID](#Relation_ID)</code>| RO:0002263 | |
+| 4 | <code><a name="Ontology_Class_ID">Ontology_Class_ID</a></code> | <code>TODO</code>| GO:0050803 | |
+| 5 | <code><a name="Reference">Reference</a></code> | <code>[ID](#ID) ( '\|' [ID](#ID) )*</code>| PMID:30695063 | Different IDs, e.g. PMID and MOD paper ID, must correspond to the same publication or reference |
+| 6 | <code><a name="Evidence_Type">Evidence_Type</a></code> | <code>TODO</code>| ECO:0000315 | Mapping file in progress: https://github.com/evidenceontology/evidenceontology#249 |
+| 7 | <code><a name="With_Or_From">With_Or_From</a></code> | <code>TODO</code>| WB:WBVar00000510 | Pipe-separated entries represent independent evidence; comma-separated entries represent grouped evidence, e.g. two of three genes in a triply mutant organism |
+| 8 | <code><a name="Interacting_Taxon_ID">Interacting_Taxon_ID</a></code> | <code>TODO</code>| NCBITaxon:5476 | |
+| 9 | <code><a name="Annotation_Date">Annotation_Date</a></code> | <code>[Date](#Date)</code>| 2019-01-30 | |
+| 10 | <code><a name="Assigned_By">Assigned_By</a></code> | <code>TODO</code>| MGI | |
+| 11 | <code><a name="Annotation_Extensions">Annotation_Extensions</a></code> | <code>[Extension_Conj](#Extension_Conj) ( '\|' [Extension_Conj](#Extension_Conj) )*</code>| BFO:0000066(GO:0005829) | |
+| 12 | <code><a name="Annotation_Properties">Annotation_Properties</a></code> | <code>[Property_Value_Pair](#Property_Value_Pair) ( '\|' [Property_Value_Pair](#Property_Value_Pair) )*</code>| contributor-id=orcid:0000-0002-1478-7671 | |
 
 ## GPI columns
 
-| Column | Grammar | Example | Comments |
-| ------ | ------ | ------ | ------ |
-| 1 | <code><a name="DB_Object_ID">DB_Object_ID</a> ::== [ID](#ID)</code>| UniProtKB:Q4VCS5 | |
-| 2 | <code><a name="DB_Object_Symbol">DB_Object_Symbol</a> ::== TODO</code>| AMOT | |
-| 3 | <code><a name="DB_Object_Name">DB_Object_Name</a> ::== [Label](#Label)</code>| Angiomotin | |
-| 4 | <code><a name="DB_Object_Synonyms">DB_Object_Synonyms</a> ::== [Label](#Label) ( '\|' [Label](#Label) )*</code>| AMOT\|KIAA1071 | |
-| 5 | <code><a name="DB_Object_Type">DB_Object_Type</a> ::== [ID](#ID) ( '\|' [ID](#ID) )*</code>| PR:000000001 | Sequence Ontology OR Protein Ontology OR Gene Ontology |
-| 6 | <code><a name="DB_Object_Taxon">DB_Object_Taxon</a> ::== TODO</code>| NCBITaxon:9606 | |
-| 7 | <code><a name="Encoded_By">Encoded_By</a> ::== [ID](#ID) ( '\|' [ID](#ID) )*</code>| HGNC:17810 | For proteins and transcripts, this refers to the gene id that encodes those entities. |
-| 8 | <code><a name="Parent_Protein">Parent_Protein</a> ::== [ID](#ID) ( '\|' [ID](#ID) )*</code>| | When column 1 refers to a protein isoform or modified protein, this column refers to the gene-centric reference protein accession of the column 1 entry. |
-| 9 | <code><a name="Protein_Containing_Complex_Members">Protein_Containing_Complex_Members</a> ::== [ID](#ID) ( '\|' [ID](#ID) )*</code>| UniProtKB:Q15021|UniProtKB:Q15003 | |
-| 10 | <code><a name="DB_Xrefs">DB_Xrefs</a> ::== [ID](#ID) ( '\|' [ID](#ID) )*</code>| HGNC:17810 | See below for required DB xref values |
-| 11 | <code><a name="Gene_Product_Properties">Gene_Product_Properties</a> ::== [Property_Value_Pair](#Property_Value_Pair) ( '\|' [Property_Value_Pair](#Property_Value_Pair) )*</code>| db-subset=Swiss-Prot | |
+| Column | | Grammar | Example | Comments |
+| ------ | ------ | ------ | ------ | ------ |
+| 1 | <code><a name="DB_Object_ID">DB_Object_ID</a></code> | <code>[ID](#ID)</code>| UniProtKB:Q4VCS5 | |
+| 2 | <code><a name="DB_Object_Symbol">DB_Object_Symbol</a></code> | <code>TODO</code>| AMOT | |
+| 3 | <code><a name="DB_Object_Name">DB_Object_Name</a></code> | <code>[Label](#Label)</code>| Angiomotin | |
+| 4 | <code><a name="DB_Object_Synonyms">DB_Object_Synonyms</a></code> | <code>[Label](#Label) ( '\|' [Label](#Label) )*</code>| AMOT\|KIAA1071 | |
+| 5 | <code><a name="DB_Object_Type">DB_Object_Type</a></code> | <code>[ID](#ID) ( '\|' [ID](#ID) )*</code>| PR:000000001 | Sequence Ontology OR Protein Ontology OR Gene Ontology |
+| 6 | <code><a name="DB_Object_Taxon">DB_Object_Taxon</a></code> | <code>TODO</code>| NCBITaxon:9606 | |
+| 7 | <code><a name="Encoded_By">Encoded_By</a></code> | <code>[ID](#ID) ( '\|' [ID](#ID) )*</code>| HGNC:17810 | For proteins and transcripts, this refers to the gene id that encodes those entities. |
+| 8 | <code><a name="Parent_Protein">Parent_Protein</a></code> | <code>[ID](#ID) ( '\|' [ID](#ID) )*</code>| | When column 1 refers to a protein isoform or modified protein, this column refers to the gene-centric reference protein accession of the column 1 entry. |
+| 9 | <code><a name="Protein_Containing_Complex_Members">Protein_Containing_Complex_Members</a></code> | <code>[ID](#ID) ( '\|' [ID](#ID) )*</code>| UniProtKB:Q15021|UniProtKB:Q15003 | |
+| 10 | <code><a name="DB_Xrefs">DB_Xrefs</a></code> | <code>[ID](#ID) ( '\|' [ID](#ID) )*</code>| HGNC:17810 | See below for required DB xref values |
+| 11 | <code><a name="Gene_Product_Properties">Gene_Product_Properties</a></code> | <code>[Property_Value_Pair](#Property_Value_Pair) ( '\|' [Property_Value_Pair](#Property_Value_Pair) )*</code>| db-subset=Swiss-Prot | |
 
 ## Values
 
-| Grammar | Comments |
-| ------ | ------ |
-| <code><a name="Extension_Conj">Extension_Conj</a> ::== [Relational_Expression](#Relational_Expression) ( ',' [Relational_Expression](Relational_Expression) )*</code>| |
-| <code><a name="Relational_Expression">Relational_Expression</a> ::== [Relation_ID](#Relation_ID) '(' [ID](#ID) ')'</code>| |
-| <code><a name="Relation_ID">Relation_ID</a> ::== [ID](#ID)</code>| |
-| <code><a name="Property_Value_Pair">Property_Value_Pair</a> ::== [Property](#Property) '=' [Property_Value](#Property_Value)</code>| |
-| <code><a name="Property">Property</a> ::== TODO</code>| |
-| <code><a name="Property_Value">Property_Value</a> ::== TODO</code>| |
-| <code><a name="ID">ID</a> ::== TODO</code>| |
-| <code><a name="Label">Label</a> ::== TODO</code>| |
-| <code><a name="Date">Date</a> ::== YYYY-MM-DD</code>| |
-| <code><a name="Space">Space</a> ::== ' '</code>| |
+| | Grammar | Comments |
+| ------ | ------ | ------ |
+| <code><a name="Extension_Conj">Extension_Conj</a></code> | <code>[Relational_Expression](#Relational_Expression) ( ',' [Relational_Expression](Relational_Expression) )*</code>| |
+| <code><a name="Relational_Expression">Relational_Expression</a></code> | <code>[Relation_ID](#Relation_ID) '(' [ID](#ID) ')'</code>| |
+| <code><a name="Relation_ID">Relation_ID</a></code> | <code>[ID](#ID)</code>| |
+| <code><a name="Property_Value_Pair">Property_Value_Pair</a></code> | <code>[Property](#Property) '=' [Property_Value](#Property_Value)</code>| |
+| <code><a name="Property">Property</a></code> | <code>TODO</code>| |
+| <code><a name="Property_Value">Property_Value</a></code> | <code>TODO</code>| |
+| <code><a name="ID">ID</a></code> | <code>TODO</code>| |
+| <code><a name="Label">Label</a></code> | <code>TODO</code>| |
+| <code><a name="Date">Date</a></code> | <code>YYYY-MM-DD</code>| |
+| <code><a name="Space">Space</a></code> | <code>' '</code>| |
