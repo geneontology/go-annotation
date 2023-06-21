@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+dictyBase	dictyBase:DDB_G0288679	myoE	PMID:22296834		GO:0030041	actin filament polymerization	IGI	UniProtKB:P34109|UniProtKB:P54695		PANTHER:PTHR13140	20171024	GO:0048015	NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0288679	myoE	PMID:22296834		GO:0043327	chemotaxis to cAMP	IGI	UniProtKB:P34109|UniProtKB:P54695		PANTHER:PTHR13140	20171024	GO:0048015	NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0289177	myoF	PMID:22296834		GO:0030041	actin filament polymerization	IGI	UniProtKB:P34109|UniProtKB:Q03479		PANTHER:PTHR13140	20200403	GO:0048015	NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0289177	myoF	PMID:22296834		GO:0043327	chemotaxis to cAMP	IGI	UniProtKB:P34109|UniProtKB:Q03479		PANTHER:PTHR13140	20171024	GO:0048015	NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0275447	myoD	PMID:22296834		GO:0030041	actin filament polymerization	IGI	UniProtKB:P54695|UniProtKB:Q03479		PANTHER:PTHR13140	20171024	GO:0048015	NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0275447	myoD	PMID:22296834		GO:0043327	chemotaxis to cAMP	IGI	UniProtKB:P54695|UniProtKB:Q03479		PANTHER:PTHR13140	20171024	GO:0048015	NCBITaxon:44689

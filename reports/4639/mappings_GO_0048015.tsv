@@ -1,0 +1,6 @@
+term	file	line
+GO:0048015	unirule2go	UniRule:UR000399976 > GO:phosphatidylinositol-mediated signaling ; GO:0048015
+GO:0048015	interpro2go	InterPro:IPR008290 Phosphatidylinositol 3-kinase, Vps34 type > GO:phosphatidylinositol-mediated signaling ; GO:0048015
+GO:0048015	interpro2go	InterPro:IPR015433 Phosphatidylinositol kinase > GO:phosphatidylinositol-mediated signaling ; GO:0048015
+GO:0048015	interpro2go	InterPro:IPR028392 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase eta-1, catalytic domain > GO:phosphatidylinositol-mediated signaling ; GO:0048015
+GO:0048015	pirsf2go	PIRSF:PIRSF000587 PI3K_Vps34 > GO:phosphatidylinositol-mediated signaling ; GO:0048015

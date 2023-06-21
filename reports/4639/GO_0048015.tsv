@@ -1,0 +1,38 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:P05019	IGF1	PMID:7692086		GO:0048015	phosphatidylinositol-mediated signaling	IDA			PANTHER:PTHR46845	20080528		NCBITaxon:9606
+BHF-UCL	UniProtKB:P08069	IGF1R	PMID:7692086		GO:0048015	phosphatidylinositol-mediated signaling	IDA			PANTHER:PTHR24416	20080528		NCBITaxon:9606
+MGI	MGI:MGI:88253	Car8	PMID:12611586		GO:0048015	phosphatidylinositol-mediated signaling	IDA			PANTHER:PTHR18952	20040109		NCBITaxon:10090
+MGI	UniProtKB:Q4KWH8	PLCH1	PMID:15702972		GO:0048015	phosphatidylinositol-mediated signaling	IDA			PANTHER:PTHR10336	20091109		NCBITaxon:9606
+MGI	MGI:MGI:2443635	Pirt	PMID:18455988		GO:0048015	phosphatidylinositol-mediated signaling	IDA			PANTHER:PTHR16100	20151111		NCBITaxon:10090
+MGI	MGI:MGI:2141867	Inpp5f	PMID:19875726		GO:0048015	phosphatidylinositol-mediated signaling	IMP	MGI:MGI:4128518		PANTHER:PTHR45662	20120703		NCBITaxon:10090
+RGD	RGD:1303089	Gsn	PMID:11861757|RGD:1303950		GO:0048015	phosphatidylinositol-mediated signaling	IMP			PANTHER:PTHR11977	20050217		NCBITaxon:10116
+RGD	RGD:68417	Ncs1	PMID:12034721|RGD:728470		GO:0048015	phosphatidylinositol-mediated signaling	IDA			PANTHER:PTHR23055	20050217		NCBITaxon:10116
+RGD	RGD:620899	Pik3c3	PMID:12244116|RGD:633560		GO:0048015	phosphatidylinositol-mediated signaling	IDA			PANTHER:PTHR10048	20050217		NCBITaxon:10116
+RGD	RGD:3196	Npr3	PMID:12829435|RGD:1581460		GO:0048015	phosphatidylinositol-mediated signaling	IMP			PANTHER:PTHR44755	20061004		NCBITaxon:10116
+UniProt	UniProtKB:Q9BZ72	PITPNM2	PMID:10022914		GO:0048015	phosphatidylinositol-mediated signaling	IDA			PANTHER:PTHR10658	20180125		NCBITaxon:9606
+UniProt	MGI:MGI:1333854	Gab2	PMID:11449275|MGI:MGI:2137187		GO:0048015	phosphatidylinositol-mediated signaling	IMP			PANTHER:PTHR45960	20091113		NCBITaxon:10090
+UniProt	UniProtKB:P51810	GPR143	PMID:16524428		GO:0048015	phosphatidylinositol-mediated signaling	IDA			PANTHER:PTHR15177	20110117		NCBITaxon:9606
+UniProt	UniProtKB:P25105	PTAFR	PMID:1657923		GO:0048015	phosphatidylinositol-mediated signaling	IDA			PANTHER:PTHR24233	20050330		NCBITaxon:9606
+UniProt	UniProtKB:O15294	OGT	PMID:18288188		GO:0048015	phosphatidylinositol-mediated signaling	IDA			PANTHER:PTHR44366	20111212		NCBITaxon:9606
+UniProt	UniProtKB:O75038	PLCH2	PMID:18361507		GO:0048015	phosphatidylinositol-mediated signaling	IDA			PANTHER:PTHR10336	20200825		NCBITaxon:9606
+UniProt	MGI:MGI:1339758	Csf1r	PMID:21610095|MGI:MGI:5294513		GO:0048015	phosphatidylinositol-mediated signaling	IMP			PANTHER:PTHR24416	20111014		NCBITaxon:10090
+UniProt	AGI_LocusCode:AT4G29380	VPS15	PMID:21833541|TAIR:Publication:501744852		GO:0048015	phosphatidylinositol-mediated signaling	IMP		TAIR:locus:2118234		20210331		NCBITaxon:3702
+UniProt	UniProtKB:P09619	PDGFRB	PMID:2554309		GO:0048015	phosphatidylinositol-mediated signaling	IMP			PANTHER:PTHR24416	20111004		NCBITaxon:9606
+UniProt	UniProtKB:P16234	PDGFRA	PMID:2554309		GO:0048015	phosphatidylinositol-mediated signaling	IMP			PANTHER:PTHR24416	20111004		NCBITaxon:9606
+UniProt	UniProtKB:P15311	EZR	PMID:25591774		GO:0048015	phosphatidylinositol-mediated signaling	IDA			PANTHER:PTHR23281	20220204	CL:0000066	NCBITaxon:9606
+UniProt	UniProtKB:P98088	MUC5AC	PMID:25591774		GO:0048015	phosphatidylinositol-mediated signaling	IDA			PANTHER:PTHR11339	20150305	CL:0002368	NCBITaxon:9606
+UniProt	UniProtKB:Q9NV70	EXOC1	PMID:25591774		GO:0048015	phosphatidylinositol-mediated signaling	IDA			PANTHER:PTHR16092	20150305	CL:0002368	NCBITaxon:9606
+UniProt	MGI:MGI:2686961	Inpp5a	PMID:26051944|MGI:MGI:6099010		GO:0048015	phosphatidylinositol-mediated signaling	IMP			PANTHER:PTHR12997	20230309		NCBITaxon:10090
+UniProt	UniProtKB:O95259	KCNH1	PMID:27005320		GO:0048015	phosphatidylinositol-mediated signaling	IMP			PANTHER:PTHR10217	20160928		NCBITaxon:9606
+UniProt	RGD:61993	Plcb3	PMID:8454637|RGD:61699		GO:0048015	phosphatidylinositol-mediated signaling	IDA			PANTHER:PTHR10336	20180619		NCBITaxon:10116
+dictyBase	dictyBase:DDB_G0274387	prep	PMID:10329620		GO:0048015	phosphatidylinositol-mediated signaling	IMP			PANTHER:PTHR42881	20211130		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0278727	pikA	PMID:18840645		GO:0048015	phosphatidylinositol-mediated signaling	IGI	UniProtKB:P54674		PANTHER:PTHR10048	20141015		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0283081	pikB	PMID:18840645		GO:0048015	phosphatidylinositol-mediated signaling	IGI	UniProtKB:P54673		PANTHER:PTHR10048	20210913		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0281239	impa1	PMID:19383941		GO:0048015	phosphatidylinositol-mediated signaling	IMP			PANTHER:PTHR20854	20201008		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0272110	gskA	PMID:20534815		GO:0048015	phosphatidylinositol-mediated signaling	IMP			PANTHER:PTHR24057	20220505		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0278727	pikA	PMID:20562345		GO:0048015	phosphatidylinositol-mediated signaling	IGI	UniProtKB:P54674|UniProtKB:P54675|UniProtKB:Q54S78|UniProtKB:Q55FX5		PANTHER:PTHR10048	20160621		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0286557	pteN	PMID:20562345		GO:0048015	phosphatidylinositol-mediated signaling	IMP			PANTHER:PTHR12305	20230314		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0283349	gpaA	PMID:8280098		GO:0048015	phosphatidylinositol-mediated signaling	IMP			PANTHER:PTHR10218	20230120	UniProtKB:Q02158	NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0273533	carA-1	PMID:8280098		GO:0048015	phosphatidylinositol-mediated signaling	IMP				20230120	UniProtKB:Q02158	NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0276267	gpaB	PMID:8280098		GO:0048015	phosphatidylinositol-mediated signaling	IMP			PANTHER:PTHR10218	20230120	UniProtKB:Q02158	NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0273397	carA-1	PMID:8280098		GO:0048015	phosphatidylinositol-mediated signaling	IMP			PANTHER:PTHR23112	20230120	UniProtKB:Q02158	NCBITaxon:44689
