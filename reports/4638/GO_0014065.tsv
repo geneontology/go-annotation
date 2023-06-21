@@ -1,0 +1,251 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	RGD:3876	Tnf	PMID:12729461|RGD:13673777		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR11471	20180604	CL:0002539|GO:0007249	NCBITaxon:10116
+ARUK-UCL	UniProtKB:P56270	MAZ	PMID:25487955		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR24390	20181112		NCBITaxon:9606
+ARUK-UCL	RNAcentral:URS00001F5B39_9606	URS00001F5B39_9606	PMID:25487955		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IDA				20181112		NCBITaxon:9606
+ARUK-UCL	UniProtKB:O15041	SEMA3E	PMID:25985275		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11036	20220331	CL:0011111|GO:0021828|UBERON:0000955	NCBITaxon:9606
+ARUK-UCL	MGI:MGI:1913150	Trem2	PMID:29663649|MGI:MGI:6695683		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR11860	20210318	GO:0071222|CL:0000129	NCBITaxon:10090
+ARUK-UCL	MGI:MGI:1913150	Trem2	PMID:30684126|MGI:MGI:6458378		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR11860	20210323	GO:0150076|GO:1903376|CL:1001571|GO:0010350	NCBITaxon:10090
+AgBase	UniProtKB:Q6TJY3	RPS6KB1	PMID:17459944		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR24351	20141106		NCBITaxon:9913
+AgBase	UniProtKB:P01317	INS	PMID:17459944		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11454	20141106	UniProtKB:A6QLN6|UniProtKB:F1MNP4	NCBITaxon:9913
+AgBase	UniProtKB:F1MTL5	PIK3C3	PMID:17459944		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP				20141106		NCBITaxon:9913
+AgBase	UniProtKB:F1MNP4	RPS6KB1	PMID:17459944		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR24351	20141106		NCBITaxon:9913
+AgBase	UniProtKB:Q5G547	SSTR1A	PMID:20732992		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA				20160219		NCBITaxon:8022
+AgBase	UniProtKB:Q5G546	SSTR1B	PMID:20732992		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA				20160219		NCBITaxon:8022
+AgBase	UniProtKB:D7REY1	D7REY1	PMID:20732992		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA				20160219		NCBITaxon:8022
+AgBase	UniProtKB:P05019	IGF1	PMID:24508636		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR46845	20150528	GO:0070371|CL:1000274	NCBITaxon:9606
+AgBase	UniProtKB:I3L8Q3	CSF2	PMID:24520418		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR10059	20150528	GO:0070371|GO:0031929|CL:1000274	NCBITaxon:9823
+AgBase	UniProtKB:Q4LAM1	lep	PMID:26667900		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP				20160223	UBERON:0001898	NCBITaxon:8022
+AgBase	UniProtKB:B0M1K7	lep	PMID:26667900		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP				20160223	UBERON:0001898	NCBITaxon:8022
+BHF-UCL	RGD:69069	Ccl5	PMID:10477596|RGD:8553666		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR12015	20110222		NCBITaxon:10116
+BHF-UCL	UniProtKB:P01019	AGT	PMID:15652490		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11461	20080808		NCBITaxon:9606
+BHF-UCL	RNAcentral:URS000039ED8D_9606	URS000039ED8D_9606	PMID:16762633		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP				20170310		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q15672	TWIST1	PMID:17003487		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR23349	20110620		NCBITaxon:9606
+BHF-UCL	UniProtKB:P22681	CBL	PMID:17003487		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR23007	20110620		NCBITaxon:9606
+BHF-UCL	RGD:2868	Igf1	PMID:17023532|RGD:1600072		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR46845	20110420		NCBITaxon:10116
+BHF-UCL	UniProtKB:P05305	EDN1	PMID:17078114		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR13874	20080215		NCBITaxon:9606
+BHF-UCL	UniProtKB:P46934	NEDD4	PMID:17218260		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR11254	20081003		NCBITaxon:9606
+BHF-UCL	UniProtKB:P61812	TGFB2	PMID:18223299		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11848	20080815		NCBITaxon:9606
+BHF-UCL	UniProtKB:P48736	PIK3CG	PMID:18558630		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR10048	20200820	GO:0003376|GO:0010595|CL:0002618	NCBITaxon:9606
+BHF-UCL	UniProtKB:P42338	PIK3CB	PMID:18558630		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR10048	20200820	GO:0003376|GO:0010595|CL:0002618	NCBITaxon:9606
+BHF-UCL	MGI:MGI:1922019	Pik3cb	PMID:18558630|MGI:MGI:4461861		GO:0014065	phosphatidylinositol 3-kinase signaling	IGI	UniProtKB:O35904		PANTHER:PTHR10048	20200820	GO:0003376|GO:0010595|CL:1001567	NCBITaxon:10090
+BHF-UCL	MGI:MGI:1353576	Pik3cg	PMID:18558630|MGI:MGI:4461861		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR10048	20200820	GO:0003376|GO:0010595|CL:1001567	NCBITaxon:10090
+BHF-UCL	UniProtKB:P01127	PDGFB	PMID:19126672		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11633	20201120	CL:0000057	NCBITaxon:9606
+BHF-UCL	UniProtKB:P02751	FN1	PMID:19126672		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR46708	20201120	CL:0000057	NCBITaxon:9606
+BHF-UCL	UniProtKB:P23727	PIK3R1	PMID:19126672		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR10155	20201120	CL:0000057	NCBITaxon:9913
+BHF-UCL	UniProtKB:P29350	PTPN6	PMID:19838216		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR46257	20100927		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9UBV4	WNT16	PMID:19951988		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR12027	20100707		NCBITaxon:9606
+BHF-UCL	UniProtKB:P14210	HGF	PMID:20655899		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR24261	20160526	GO:0010421	NCBITaxon:9606
+BHF-UCL	ZFIN:ZDB-GENE-131121-332	pdgfbb	PMID:20858732|ZFIN:ZDB-PUB-101004-32		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP		UniProtKB:E7FBB3	PANTHER:PTHR11633	20170727	GO:0050673|CL:0002494	NCBITaxon:7955
+BHF-UCL	UniProtKB:Q14116	IL18	PMID:21321938		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA				20160725	GO:0048661|GO:0035655|UBERON:0007318	NCBITaxon:9606
+BHF-UCL	UniProtKB:P27986	PIK3R1	PMID:21321938		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR10155	20160725	GO:0048661|GO:0035655|UBERON:0007318	NCBITaxon:9606
+BHF-UCL	UniProtKB:P14317	HCLS1	PMID:23001182		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR45929	20121120		NCBITaxon:9606
+BHF-UCL	UniProtKB:O00165	HAX1	PMID:23001182		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR14938	20121120		NCBITaxon:9606
+BHF-UCL	UniProtKB:P09919	CSF3	PMID:23001182		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR10511	20121120		NCBITaxon:9606
+BHF-UCL	RNAcentral:URS000034B6F5_9606	URS000034B6F5_9606	PMID:26175229		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IMP				20180122	CL:0002619	NCBITaxon:9606
+BHF-UCL	RNAcentral:URS00001F1DA8_9606	URS00001F1DA8_9606	PMID:28578351		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP				20171207	CL:2000008|UBERON:0000948	NCBITaxon:9606
+BHF-UCL	UniProtKB:P13725	OSM	PMID:28972028		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IGI	RNAcentral:URS0000574A2C_9606		PANTHER:PTHR14261	20180625	CL:0000492	NCBITaxon:9606
+BHF-UCL	RNAcentral:URS0000574A2C_9606	URS0000574A2C_9606	PMID:28972028		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IDA				20191025	CL:0000492	NCBITaxon:9606
+BHF-UCL	UniProtKB:P42338	PIK3CB	PMID:30496354		GO:0014065	phosphatidylinositol 3-kinase signaling	IGI	UniProtKB:P15692		PANTHER:PTHR10048	20200820	GO:1903671|CL:2000018	NCBITaxon:9606
+BHF-UCL	UniProtKB:P42336	PIK3CA	PMID:30496354		GO:0014065	phosphatidylinositol 3-kinase signaling	IGI	UniProtKB:P15692		PANTHER:PTHR10048	20200820	CL:0002618|GO:0038084	NCBITaxon:9606
+BHF-UCL	MGI:MGI:1922019	Pik3cb	PMID:30496354|MGI:MGI:6444553		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR10048	20200820	GO:1990144|CL:0000746	NCBITaxon:10090
+BHF-UCL	MGI:MGI:1206581	Pik3ca	PMID:30568254|MGI:MGI:6450443		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR10048	20200820	GO:0030835|GO:0035994	NCBITaxon:10090
+BHF-UCL	UniProtKB:P01133	EGF	PMID:31915155		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IGI	UniProtKB:O00329		PANTHER:PTHR46513	20200818	CL:0002586|GO:0007173	NCBITaxon:9606
+BHF-UCL	UniProtKB:O00329	PIK3CD	PMID:31915155		GO:0014065	phosphatidylinositol 3-kinase signaling	IGI	UniProtKB:P01133|UniProtKB:P09038|UniProtKB:P15692		PANTHER:PTHR10048	20200818	CL:2000008|GO:0048010|GO:0030335|UBERON:0000966|CL:2000008|GO:0007173|GO:0030335|UBERON:0000966|CL:2000008|GO:0008543|GO:0030335|UBERON:0000966|CL:2000008|GO:0048010|GO:0001938|UBERON:0000966|CL:2000008|GO:0007173|GO:0001938|UBERON:0000966|CL:2000008|GO:0008543|GO:0001938|UBERON:0000966	NCBITaxon:9606
+BHF-UCL	UniProtKB:P09038	FGF2	PMID:31915155		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IGI	UniProtKB:O00329		PANTHER:PTHR11486	20200818	CL:0002586|GO:0008543	NCBITaxon:9606
+BHF-UCL	UniProtKB:P13501	CCL5	PMID:7544376		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR12015	20110222		NCBITaxon:9606
+BHF-UCL	UniProtKB:P04626	ERBB2	PMID:7556068		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR24416	20080226		NCBITaxon:9606
+BHF-UCL	UniProtKB:P21860	ERBB3	PMID:7556068		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR24416	20080226		NCBITaxon:9606
+BHF-UCL	UniProtKB:P05019	IGF1	PMID:7688386		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR46845	20090430		NCBITaxon:9606
+BHF-UCL	UniProtKB:P01308	INS	PMID:7688386		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11454	20090430		NCBITaxon:9606
+BHF-UCL	UniProtKB:P01241	GH1	PMID:7782332		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11417	20081209		NCBITaxon:9606
+BHF-UCL	UniProtKB:P35568	IRS1	PMID:7782332		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR10614	20081209		NCBITaxon:9606
+BHF-UCL	UniProtKB:P27986	PIK3R1	PMID:7782332		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR10155	20081209		NCBITaxon:9606
+BHF-UCL	MGI:MGI:96629	Jak2	PMID:7782332|MGI:MGI:3828423		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR45807	20081209		NCBITaxon:10090
+CACAO	MGI:MGI:103022	Reln	PMID:21664258|MGI:MGI:5286805		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11841	20111022		NCBITaxon:10090
+CAFA	UniProtKB:O00329	PIK3CD	PMID:25339672		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR10048	20161215		NCBITaxon:9606
+CAFA	UniProtKB:P42338	PIK3CB	PMID:25339672		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR10048	20161215		NCBITaxon:9606
+CAFA	UniProtKB:P31749	AKT1	PMID:26514923		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24356	20161214		NCBITaxon:9606
+CAFA	UniProtKB:P14598	NCF1	PMID:26514923		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR15706	20161214		NCBITaxon:9606
+CAFA	UniProtKB:P00533	EGFR	PMID:26514923		GO:0014066	regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24416	20161214		NCBITaxon:9606
+FlyBase	FB:FBgn0026379	Pten	PMID:10556061|FB:FBrf0111917		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IGI	FB:FBgn0015279		PANTHER:PTHR12305	20180301		NCBITaxon:7227
+FlyBase	FB:FBgn0024248	chico	PMID:10823906|FB:FBrf0128436		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR10614	20180302		NCBITaxon:7227
+FlyBase	FB:FBgn0026379	Pten	PMID:10823906|FB:FBrf0128436		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR12305	20191217		NCBITaxon:7227
+FlyBase	FB:FBgn0015279	Pi3K92E	PMID:11832249|FB:FBrf0144797		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR10048	20180212		NCBITaxon:7227
+FlyBase	FB:FBgn0020622	Pi3K21B	PMID:11832249|FB:FBrf0144797		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR10155	20191209		NCBITaxon:7227
+FlyBase	FB:FBgn0283499	InR	PMID:11832249|FB:FBrf0144797		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24416	20180212		NCBITaxon:7227
+FlyBase	FB:FBgn0026379	Pten	PMID:11832249|FB:FBrf0144797		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR12305	20191209		NCBITaxon:7227
+FlyBase	FB:FBgn0026379	Pten	PMID:12841848|FB:FBrf0161966		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR12305	20180205		NCBITaxon:7227
+FlyBase	FB:FBgn0033885	DJ-1alpha	PMID:16155123|FB:FBrf0188284		GO:0014065	phosphatidylinositol 3-kinase signaling	IGI	FB:FBgn0015279		PANTHER:PTHR48094	20141120		NCBITaxon:7227
+FlyBase	FB:FBgn0086779	step	PMID:17167488|FB:FBrf0193977		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR10663	20180307		NCBITaxon:7227
+FlyBase	FB:FBgn0283499	InR	PMID:18412985|FB:FBrf0204716		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24416	20180309		NCBITaxon:7227
+FlyBase	FB:FBgn0001257	ImpL2	PMID:18412985|FB:FBrf0204716		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IGI	FB:FBgn0283499		PANTHER:PTHR10075	20180222		NCBITaxon:7227
+FlyBase	FB:FBgn0028717	Lnk	PMID:19680438|FB:FBrf0208673		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR10872	20180213		NCBITaxon:7227
+FlyBase	FB:FBgn0028717	Lnk	PMID:20333234|FB:FBrf0210418		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR10872	20180213		NCBITaxon:7227
+FlyBase	FB:FBgn0260945	Atg1	PMID:22555456|FB:FBrf0218812		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24348	20140327		NCBITaxon:7227
+FlyBase	FB:FBgn0044452	Atg2	PMID:22555456|FB:FBrf0218812		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR13190	20140327		NCBITaxon:7227
+FlyBase	FB:FBgn0035850	Atg18a	PMID:22555456|FB:FBrf0218812		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR11227	20140327		NCBITaxon:7227
+FlyBase	FB:FBgn0024248	chico	PMID:23590848|FB:FBrf0221426		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR10614	20180212		NCBITaxon:7227
+FlyBase	FB:FBgn0028717	Lnk	PMID:23590848|FB:FBrf0221426		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR10872	20180212		NCBITaxon:7227
+FlyBase	FB:FBgn0022800	Cad96Ca	PMID:23935447|FB:FBrf0222378		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24416	20191211		NCBITaxon:7227
+FlyBase	FB:FBgn0283499	InR	PMID:23935447|FB:FBrf0222378		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24416	20191211		NCBITaxon:7227
+FlyBase	FB:FBgn0015509	Cul1	PMID:24068890|FB:FBrf0222810		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IGI	FB:FBgn0015279|FLYBASE:Pten		PANTHER:PTHR11932	20180213		NCBITaxon:7227
+FlyBase	FB:FBgn0267487	Ptp61F	PMID:24752400|FB:FBrf0226348		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IGI	FB:FBgn0010379		PANTHER:PTHR46047	20141016		NCBITaxon:7227
+FlyBase	FB:FBgn0267487	Ptp61F	PMID:24752400|FB:FBrf0226348		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IGI	FB:FBgn0015279		PANTHER:PTHR46047	20141016		NCBITaxon:7227
+FlyBase	FB:FBgn0263593	Lpin	PMID:26490996|FB:FBrf0230319		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR12181	20180301		NCBITaxon:7227
+FlyBase	FB:FBgn0029975	spidey	PMID:27500738|FB:FBrf0233078		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR43899	20160908		NCBITaxon:7227
+FlyBase	FB:FBgn0032006	Pvr	PMID:30327326|FB:FBrf0240855		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24416	20191217		NCBITaxon:7227
+FlyBase	FB:FBgn0039924	PIP4K	PMID:31091438|FB:FBrf0242339		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR23086	20191209		NCBITaxon:7227
+GO_Central	UniProtKB:P01127	PDGFB	PMID:16530387		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11633	20230512		NCBITaxon:9606
+GO_Central	RGD:620795	Src	PMID:16530387|RGD:8553998		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24418	20230512		NCBITaxon:10116
+GO_Central	UniProtKB:Q99570	PIK3R4	PMID:21062745		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR17583	20230512		NCBITaxon:9606
+GO_Central	UniProtKB:Q92622	RUBCN	PMID:21062745		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR45971	20230512		NCBITaxon:9606
+GO_Central	UniProtKB:Q6ZNE5	ATG14	PMID:21062745		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR13664	20230512		NCBITaxon:9606
+GO_Central	UniProtKB:Q96T49	PPP1R16B	PMID:25007873		GO:0014066	regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24179	20141124	CL:0002188	NCBITaxon:9606
+MGI	MGI:MGI:104847	Adora3	PMID:12817016		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR24246	20090113	GO:0014065	NCBITaxon:10090
+MGI	MGI:MGI:104847	Adora3	PMID:12817016		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR24246	20090113	CL:0000097	NCBITaxon:10090
+MGI	MGI:MGI:97306	Nf1	PMID:14724565		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP	MGI:MGI:1857444		PANTHER:PTHR10194	20070208	CL:0000218|EMAPA:16668	NCBITaxon:10090
+MGI	MGI:MGI:88271	Cat	PMID:15020231		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11465	20080523		NCBITaxon:10090
+MGI	MGI:MGI:102548	Tsc2	PMID:15249583		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR10063	20070406	CL:0000057	NCBITaxon:10090
+MGI	MGI:MGI:102548	Tsc2	PMID:16027169		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IMP	MGI:MGI:1857938		PANTHER:PTHR10063	20070406	GO:0014065	NCBITaxon:10090
+MGI	MGI:MGI:102548	Tsc2	PMID:16027169		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP	MGI:MGI:1857938		PANTHER:PTHR10063	20070406	EMAPA:35523	NCBITaxon:10090
+MGI	MGI:MGI:1919949	Lime1	PMID:16249387		GO:0014066	regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR47740	20110223		NCBITaxon:10090
+MGI	MGI:MGI:105098	Ube3a	PMID:16254014		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP	MGI:MGI:2181811		PANTHER:PTHR45622	20090617		NCBITaxon:10090
+MGI	MGI:MGI:97895	Reg1	PMID:16405968		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP	MGI:MGI:2446480		PANTHER:PTHR22803	20210601	GO:0001934|GO:1990798	NCBITaxon:10090
+MGI	MGI:MGI:1890662	Nherf2	PMID:16456542		GO:0014065	phosphatidylinositol 3-kinase signaling	IGI	MGI:MGI:97528		PANTHER:PTHR14191	20110214	CL:0000057	NCBITaxon:10090
+MGI	MGI:MGI:1890662	Nherf2	PMID:16456542		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IGI	MGI:MGI:97528		PANTHER:PTHR14191	20110214	GO:0014065	NCBITaxon:10090
+MGI	MGI:MGI:1349482	Nherf1	PMID:16456542		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IGI	MGI:MGI:97528		PANTHER:PTHR14191	20110214		NCBITaxon:10090
+MGI	MGI:MGI:97528	Pdgfb	PMID:16456542		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IGI	MGI:MGI:1349482		PANTHER:PTHR11633	20110214	GO:0014065	NCBITaxon:10090
+MGI	MGI:MGI:97528	Pdgfb	PMID:16456542		GO:0014065	phosphatidylinositol 3-kinase signaling	IGI	MGI:MGI:1349482		PANTHER:PTHR11633	20110214	CL:0000057	NCBITaxon:10090
+MGI	MGI:MGI:97528	Pdgfb	PMID:16456542		GO:0014065	phosphatidylinositol 3-kinase signaling	IGI	MGI:MGI:1890662		PANTHER:PTHR11633	20110214	CL:0000057	NCBITaxon:10090
+MGI	MGI:MGI:97528	Pdgfb	PMID:16456542		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IGI	MGI:MGI:1890662		PANTHER:PTHR11633	20110214	GO:0014065	NCBITaxon:10090
+MGI	MGI:MGI:101884	Ppard	PMID:16581799		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR24082	20060609	GO:0014065	NCBITaxon:10090
+MGI	MGI:MGI:101884	Ppard	PMID:16581799		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR24082	20060609	CL:0000351	NCBITaxon:10090
+MGI	MGI:MGI:101884	Ppard	PMID:16581799		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR24082	20060609	EMAPA:16042	NCBITaxon:10090
+MGI	MGI:MGI:1314635	Rasgrp1	PMID:17190838		GO:0014066	regulation of phosphatidylinositol 3-kinase signaling	IMP	MGI:MGI:2386261		PANTHER:PTHR23113	20121108	GO:0014065	NCBITaxon:10090
+MGI	MGI:MGI:1349717	Ncor1	PMID:17606624		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR13992	20090803		NCBITaxon:10090
+MGI	MGI:MGI:101780	Serpine2	PMID:18398001		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IGI	MGI:MGI:88380		PANTHER:PTHR11461	20100503		NCBITaxon:10090
+MGI	MGI:MGI:88380	F2	PMID:18398001		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IGI	MGI:MGI:101780		PANTHER:PTHR24254	20100503		NCBITaxon:10090
+MGI	MGI:MGI:88380	F2	PMID:18398001		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IGI	MGI:MGI:101802		PANTHER:PTHR24254	20100503		NCBITaxon:10090
+MGI	MGI:MGI:101802	F2r	PMID:18398001		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IGI	MGI:MGI:88380		PANTHER:PTHR24232	20100503		NCBITaxon:10090
+MGI	MGI:MGI:104771	Erbb4	PMID:18458158		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IGI	MGI:MGI:96083		PANTHER:PTHR24416	20150604	CL:0000101	NCBITaxon:10090
+MGI	PR:000044840	mNRG1/iso:III	PMID:18458158		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IGI	MGI:MGI:104771			20150604	CL:0000101	NCBITaxon:10090
+MGI	MGI:MGI:108448	Angpt1	PMID:19409199		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR19143	20100408		NCBITaxon:10090
+MGI	MGI:MGI:96432	Igf1	PMID:21413931		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR46845	20130814	GO:0014065	NCBITaxon:10090
+MGI	MGI:MGI:96432	Igf1	PMID:21413931		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR46845	20130814	EMAPA:17373	NCBITaxon:10090
+MGI	MGI:MGI:1919696	Prr5l	PMID:21413931		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IGI	MGI:MGI:1924714		PANTHER:PTHR32428	20130814	GO:0014065	NCBITaxon:10090
+MGI	MGI:MGI:1919696	Prr5l	PMID:21413931		GO:0014065	phosphatidylinositol 3-kinase signaling	IGI	MGI:MGI:1924714		PANTHER:PTHR32428	20130814	EMAPA:17373	NCBITaxon:10090
+MGI	MGI:MGI:1924714	Prr5	PMID:21413931		GO:0014065	phosphatidylinositol 3-kinase signaling	IGI	MGI:MGI:1919696		PANTHER:PTHR32428	20130814	EMAPA:17373	NCBITaxon:10090
+MGI	MGI:MGI:1924714	Prr5	PMID:21413931		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IGI	MGI:MGI:1919696		PANTHER:PTHR32428	20130814	GO:0014065	NCBITaxon:10090
+MGI	MGI:MGI:1924714	Prr5	PMID:21413931		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR32428	20130814	EMAPA:17373	NCBITaxon:10090
+MGI	MGI:MGI:1924714	Prr5	PMID:21413931		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR32428	20130814	GO:0014065	NCBITaxon:10090
+MGI	MGI:MGI:1915304	Serpina12	PMID:22837305		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP	MGI:MGI:5568548		PANTHER:PTHR11461	20140618	EMAPA:16846	NCBITaxon:10090
+MGI	MGI:MGI:1915304	Serpina12	PMID:22837305		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP	MGI:MGI:5568548		PANTHER:PTHR11461	20140618	GO:0014065	NCBITaxon:10090
+MGI	MGI:MGI:3606486	Btn2a2	PMID:23589618		GO:0014065	phosphatidylinositol 3-kinase signaling	IGI	MGI:MGI:88327		PANTHER:PTHR24100	20140627	CL:0000084	NCBITaxon:10090
+MGI	MGI:MGI:3606486	Btn2a2	PMID:23589618		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IGI	MGI:MGI:88327		PANTHER:PTHR24100	20140627	GO:0014065	NCBITaxon:10090
+MGI	MGI:MGI:88327	Cd28	PMID:23589618		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11494	20140627	CL:0000084	NCBITaxon:10090
+MGI	MGI:MGI:88327	Cd28	PMID:23589618		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11494	20140627	GO:0014065	NCBITaxon:10090
+MGI	UniProtKB:P07585	DCN	PMID:23798385		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR45712	20151228		NCBITaxon:9606
+MGI	MGI:MGI:107483	Rgl2	PMID:24069211		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA				20160127		NCBITaxon:10090
+MGI	MGI:MGI:1923385	Prex2	PMID:24367090		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP	MGI:MGI:3856561		PANTHER:PTHR22829	20140724		NCBITaxon:10090
+MGI	MGI:MGI:1920432	Pear1	PMID:27614188		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP	MGI:MGI:4363617		PANTHER:PTHR24052	20170623	CL:0000233	NCBITaxon:10090
+MGI	MGI:MGI:2384811	Kbtbd2	PMID:27708159		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP	MGI:5806485		PANTHER:PTHR24412	20200121		NCBITaxon:10090
+RGD	RGD:2370	Cntf	PMID:15574731|RGD:1626128		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR15196	20070713		NCBITaxon:10116
+RGD	RGD:3350	Pld2	PMID:15705590|RGD:2299907		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR18896	20080820		NCBITaxon:10116
+RGD	RGD:2561	Erbb2	PMID:16168116|RGD:1582137		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24416	20061101		NCBITaxon:10116
+RGD	RGD:2965	Kdr	PMID:18221855|RGD:2292019		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24416	20080409		NCBITaxon:10116
+RGD	RGD:619845	Gper1	PMID:19717735|RGD:4892081		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR24226	20110203		NCBITaxon:10116
+RGD	RGD:620478	Inpp5e	PMID:21436142|RGD:12911213		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR46625	20170706		NCBITaxon:10116
+RGD	RGD:2415	Cryba1	PMID:21993393|RGD:10059647		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR11818	20150824		NCBITaxon:10116
+RGD	RGD:2869	Igf1r	PMID:25186839|RGD:10046020		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24416	20150701		NCBITaxon:10116
+RGD	RGD:2325598	Mir21	PMID:31759996|RGD:41410819		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP				20210216		NCBITaxon:10116
+UniProt	UniProtKB:Q9UBK5	HCST	PMID:10426994		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR21409	20130307		NCBITaxon:9606
+UniProt	UniProtKB:P01127	PDGFB	PMID:10734101		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11633	20110405		NCBITaxon:9606
+UniProt	UniProtKB:P09769	FGR	PMID:10739672		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24418	20110909		NCBITaxon:9606
+UniProt	RGD:3213	Ntrk2	PMID:10985347|RGD:8553408		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24416	20111124		NCBITaxon:10116
+UniProt	RGD:3000	Lep	PMID:11677594|RGD:10448951		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11724	20151127		NCBITaxon:10116
+UniProt	RGD:67396	Ceacam1	PMID:11694516|RGD:11041061		GO:0014066	regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR44427	20160405		NCBITaxon:10116
+UniProt	UniProtKB:P01127	PDGFB	PMID:11788434		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11633	20110405		NCBITaxon:9606
+UniProt	UniProtKB:P04085	PDGFA	PMID:11788434		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11633	20110405		NCBITaxon:9606
+UniProt	UniProtKB:Q9HB21	PLEKHA1	PMID:12101241		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR14336	20100204		NCBITaxon:9606
+UniProt	UniProtKB:P48736	PIK3CG	PMID:12507995		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR10048	20120702		NCBITaxon:9606
+UniProt	UniProtKB:O02696	PIK3R5	PMID:12507995		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR15593	20120702		NCBITaxon:9823
+UniProt	RGD:628844	Agap2	PMID:14528310|RGD:1299350		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR45819	20131122		NCBITaxon:10116
+UniProt	UniProtKB:P17948	FLT1	PMID:14633857		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24416	20110922		NCBITaxon:9606
+UniProt	UniProtKB:Q05397	PTK2	PMID:15166238		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24418	20111118		NCBITaxon:9606
+UniProt	UniProtKB:Q07352	ZFP36L1	PMID:15538381		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR12547	20160524		NCBITaxon:9606
+UniProt	UniProtKB:Q99527	GPER1	PMID:15705806		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR24226	20130821		NCBITaxon:9606
+UniProt	UniProtKB:Q92854	SEMA4D	PMID:16055703		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR11036	20120105		NCBITaxon:9606
+UniProt	UniProtKB:Q07021	C1QBP	PMID:16177118		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR10826	20121126		NCBITaxon:9606
+UniProt	MGI:MGI:1349482	Nherf1	PMID:16456542|MGI:MGI:3617099		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR14191	20110208		NCBITaxon:10090
+UniProt	UniProtKB:P28223	HTR2A	PMID:16517693		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR24247	20130821		NCBITaxon:9606
+UniProt	UniProtKB:P41595	HTR2B	PMID:16517693		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR24247	20130821		NCBITaxon:9606
+UniProt	UniProtKB:Q9NZM5	NOP53	PMID:16971513		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR14211	20170509		NCBITaxon:9606
+UniProt	UniProtKB:O95971	CD160	PMID:17307798		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR15425	20181221		NCBITaxon:9606
+UniProt	UniProtKB:Q96FE7	PIK3IP1	PMID:17475214		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR24261	20120820		NCBITaxon:9606
+UniProt	UniProtKB:P16109	SELP	PMID:17632516		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR19325	20120521		NCBITaxon:9606
+UniProt	UniProtKB:P01127	PDGFB	PMID:17942966		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11633	20110405		NCBITaxon:9606
+UniProt	MGI:MGI:97531	Pdgfrb	PMID:17942966|MGI:MGI:5009390		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR24416	20110405		NCBITaxon:10090
+UniProt	UniProtKB:Q02763	TEK	PMID:18425120		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24416	20111114		NCBITaxon:9606
+UniProt	UniProtKB:Q8IZJ1	UNC5B	PMID:18469807		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR12582	20131122		NCBITaxon:9606
+UniProt	RGD:628844	Agap2	PMID:18469807|RGD:8553892		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR45819	20131122		NCBITaxon:10116
+UniProt	RGD:2641	Fyn	PMID:18469807|RGD:8553892		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24418	20131122		NCBITaxon:10116
+UniProt	MGI:MGI:1917016	Pik3ip1	PMID:18632611|MGI:MGI:3806716		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR24261	20120820		NCBITaxon:10090
+UniProt	UniProtKB:Q02763	TEK	PMID:19223473		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24416	20111111		NCBITaxon:9606
+UniProt	RGD:3534	Rara	PMID:19531492|RGD:8553301		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP		UniProtKB:Q499N1	PANTHER:PTHR24082	20100614		NCBITaxon:10116
+UniProt	RGD:621445	Klf4	PMID:19531492|RGD:8553301		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IMP		UniProtKB:Q923V7	PANTHER:PTHR23235	20100614		NCBITaxon:10116
+UniProt	MGI:MGI:2154238	Plxnb1	PMID:19788569|MGI:MGI:4413657		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR22625	20120106		NCBITaxon:10090
+UniProt	UniProtKB:Q5VWQ8	DAB2IP	PMID:19903888		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR10194	20130325		NCBITaxon:9606
+UniProt	MGI:MGI:101910	F2rl1	PMID:20215560|MGI:MGI:5285163		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR24232	20110706		NCBITaxon:10090
+UniProt	MGI:MGI:101802	F2r	PMID:20215560|MGI:MGI:5285163		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR24232	20110706		NCBITaxon:10090
+UniProt	UniProtKB:Q99801	NKX3-1	PMID:20395202		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR24340	20110929		NCBITaxon:9606
+UniProt	MGI:MGI:104663	Lep	PMID:20620997|MGI:MGI:4821191		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11724	20151208		NCBITaxon:10090
+UniProt	MGI:MGI:2135607	Sirt1	PMID:20620997|MGI:MGI:4821191		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR47651	20151208		NCBITaxon:10090
+UniProt	MGI:MGI:95663	Gata3	PMID:20696860|MGI:MGI:5285154		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR10071	20110513		NCBITaxon:10090
+UniProt	MGI:MGI:98371	Sox9	PMID:21367821|MGI:MGI:4950303		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR45803	20110710		NCBITaxon:10090
+UniProt	UniProtKB:Q99972	MYOC	PMID:21656515		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR23192	20140304		NCBITaxon:9606
+UniProt	UniProtKB:P48736	PIK3CG	PMID:21840392		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR10048	20220408	GO:0045765	NCBITaxon:9606
+UniProt	UniProtKB:O95398	RAPGEF3	PMID:21840392		GO:0014066	regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR23113	20220408	GO:0045765	NCBITaxon:9606
+UniProt	MGI:MGI:2685951	Myo16	PMID:21946561|MGI:MGI:5304984		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR47335	20120430		NCBITaxon:10090
+UniProt	MGI:MGI:2443880	Nyap1	PMID:21946561|MGI:MGI:5304984		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR22633	20120430		NCBITaxon:10090
+UniProt	MGI:MGI:2443135	Nyap2	PMID:21946561|MGI:MGI:5304984		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR22633	20120430		NCBITaxon:10090
+UniProt	MGI:MGI:1933177	Pik3ap1	PMID:22187458|MGI:MGI:5305504		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR16267	20130320		NCBITaxon:10090
+UniProt	MGI:MGI:1933177	Pik3ap1	PMID:22187460|MGI:MGI:5305503		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR16267	20130320		NCBITaxon:10090
+UniProt	UniProtKB:O43909	EXTL3	PMID:22727489		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11062	20221019	GO:0045617	NCBITaxon:9606
+UniProt	UniProtKB:P08637	FCGR3A	PMID:23024279		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11481	20211102		NCBITaxon:9606
+UniProt	UniProtKB:O95630	STAMBP	PMID:23542699		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR12947	20130711		NCBITaxon:9606
+UniProt	UniProtKB:Q12923	PTPN13	PMID:23604317		GO:0014066	regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR46900	20141015		NCBITaxon:9606
+UniProt	UniProtKB:O00459	PIK3R2	PMID:23604317		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR10155	20141016		NCBITaxon:9606
+UniProt	UniProtKB:Q9UKC9	FBXL2	PMID:23604317		GO:0014066	regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR13382	20141015		NCBITaxon:9606
+UniProt	UniProtKB:Q8NDZ4	DIPK2A	PMID:23784961		GO:0014066	regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR32073	20130912		NCBITaxon:9606
+UniProt	UniProtKB:P23945	FSHR	PMID:24058690		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24372	20150924		NCBITaxon:9606
+UniProt	UniProtKB:P41159	LEP	PMID:24340098		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11724	20151211		NCBITaxon:9606
+UniProt	MGI:MGI:2156020	Mydgf	PMID:25581518|MGI:MGI:5609664		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR31230	20150123		NCBITaxon:10090
+UniProt	MGI:MGI:103038	Stat3	PMID:27830702		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11801	20230215	GO:0106015	NCBITaxon:10090
+UniProt	MGI:MGI:1860765	Extl3	PMID:27830702		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11062	20230215	GO:0106015	NCBITaxon:10090
+UniProt	UniProtKB:O43909	EXTL3	PMID:27830702		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11062	20221024	GO:0106015	NCBITaxon:9606
+UniProt	UniProtKB:P40763	STAT3	PMID:27830702		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR11801	20221024	GO:0106015	NCBITaxon:9606
+UniProt	MGI:MGI:2444070	Nlrc3	PMID:27951586|MGI:MGI:5883388		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24106	20170308		NCBITaxon:10090
+UniProt	MGI:MGI:2681862	Obscn	PMID:28826662|MGI:MGI:6101642		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR35971	20190211		NCBITaxon:10090
+UniProt	UniProtKB:Q9UBG3	CRNN	PMID:30009832		GO:0014066	regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR11639	20190919		NCBITaxon:9606
+UniProt	FB:FBgn0039802	dj-1beta	PMID:30540251|FB:FBrf0241109		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR48094	20190104		NCBITaxon:7227
+UniProt	FB:FBgn0015279	Pi3K92E	PMID:30540251|FB:FBrf0241109		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR10048	20190104		NCBITaxon:7227
+UniProt	FB:FBgn0026379	Pten	PMID:30540251|FB:FBrf0241109		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR12305	20191217		NCBITaxon:7227
+UniProt	UniProtKB:P60484	PTEN	PMID:31492966		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR12305	20230124	GO:0007056	NCBITaxon:9606
+UniProt	UniProtKB:P29376	LTK	PMID:9223670		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24416	20110516		NCBITaxon:9606
+UniProt	UniProtKB:P60484	PTEN	PMID:9593664		GO:0014065	phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR12305	20221124		NCBITaxon:9606
+UniProt	UniProtKB:P35968	KDR	PMID:9804796		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IDA			PANTHER:PTHR24416	20110921		NCBITaxon:9606
+ZFIN	ZFIN:ZDB-GENE-061130-2	tyrobp	PMID:17891481		GO:0014065	phosphatidylinositol 3-kinase signaling	IPI	UniProtKB:Q5YCY7		PANTHER:PTHR17554	20080209		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-041001-6	nitr9	PMID:17891481		GO:0014065	phosphatidylinositol 3-kinase signaling	IPI	UniProtKB:A6Y956		PANTHER:PTHR19433	20080209		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-040426-1016	mtmr8	PMID:20815916		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP	ZFIN:ZDB-MRPHLNO-090506-1		PANTHER:PTHR10807	20141117		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-050522-222	cep55l	PMID:25667221		GO:0014066	regulation of phosphatidylinositol 3-kinase signaling	IMP	ZFIN:ZDB-GENO-150723-6		PANTHER:PTHR31838	20150731		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-060803-2	itgb1a	PMID:27780917		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP	ZFIN:ZDB-GENO-180523-5		PANTHER:PTHR10082	20201210	GO:1903672|GO:1905564	NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-040718-157	egfl6	PMID:27780917		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP	ZFIN:ZDB-GENO-180523-5		PANTHER:PTHR24050	20201210	GO:1903672|GO:1905564	NCBITaxon:7955
+dictyBase	dictyBase:DDB_G0278727	pikA	PMID:12062104		GO:0014065	phosphatidylinositol 3-kinase signaling	IGI	UniProtKB:P54674		PANTHER:PTHR10048	20160617		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0286557	pteN	PMID:12062104		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR12305	20160617		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0283081	pikB	PMID:12062104		GO:0014065	phosphatidylinositol 3-kinase signaling	IGI	UniProtKB:P54673		PANTHER:PTHR10048	20210913		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0283419	gpaI	PMID:15059962		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR10218	20181219		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0293434	rasG	PMID:15534002		GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24070	20200205	GO:0051591	NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0293526	racC	PMID:16968699		GO:0014065	phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR24072	20061102		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0287969	cnrN	PMID:18676953		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR12305	20230214		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0274383	pdeD	PMID:29626371		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR11635	20181008	GO:0051591	NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0293044	DDB_G0293044	PMID:29626371		GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	IMP			PANTHER:PTHR23244	20181008	GO:0051591	NCBITaxon:44689
