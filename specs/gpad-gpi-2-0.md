@@ -22,7 +22,7 @@ Table of contents
 - [GPI 2.0 Specs](#gpi-20-specs)
   * [GPI Headers](#gpi-headers)
   * [GP Entities](#gp-entities)
-  * [GPI Columns](#gpi-columns)
+  * [GPI Columns](#`gpi-columns`)
   
 ## Abstract
 This document specifies the syntax of Gene Product Annotation Data (GPAD) and Gene Product Information (GPI) formats. GPAD describes the relationships between biological entities (such as gene products) and biological descriptors (such as GO terms). GPI describes the biological entities.
@@ -383,3 +383,33 @@ db-subset | TrEMBL or Swiss-Prot | 1 | db-subset=TrEMBL | The status of a UniPro
 uniprot-proteome | identifier  | 1 | uniprot-proteome=UP000001940 | A unique UniProtKB identifier for the set of proteins that constitute an organism's proteome.
 go-annotation-complete | YYYY-MM-DD | 1| 2019-02-05 | Indicates the date on which a curator determined that the set of GO annotations for a given entity is complete with respect to GO annotation.  Complete means that all information about a gene has been captured as a GO term, but not necessarily that all possible supporting evidence is annotated.
 go-annotation-summary | text | 1 | go-annotation-summary=Sterol binding protein with a role in intracellular sterol transport; localizes to mitochondria and the cortical ER | A textual gene or gene product description.
+
+# GPAD-GPI Full Grammar
+
+| Grammar | Comments |
+| ------ | ------ |
+| <code><a name="Doc">Doc</a>                       ::== [GPAD_Doc](#GPAD_Doc) \| [GPI_Doc](#GPI_Doc)<code>| |
+| <code><a name="GPAD_Doc">GPAD_Doc</a>                  ::== [GPAD_Header](#GPAD_Header) [Annotation](#Annotation)*<code>| |
+| <code><a name="GPI_Doc">GPI_Doc<a>                   ::== [GPI_Header](#GPI_Header) [Entity](#Entity)*<code>| |
+| <code><a name="GPAD_Header">GPAD_Header</a>               ::== '!gpa-version: 2.0' \n [Header_Line](#Header_Line)*</code>| |
+| <code><a name="GPI_Header">GPAD_Header</a>               ::== '!gpi-version: 2.0' \n '!namespace: ' [Prefix](#Prefix) \n [Header_Line](#Header_Line)*</code>| |
+| <code><a name="Header_Line">Header_Line</a>               ::== ( [Tag_Value_Header](#Tag_Value_Header) \| [Unstructured_Value_Header](#Unstructured_Value_Header) ) \n<code>| |
+| <code><a name="Tag_Value_Header">Tag_Value_Header</a>          ::== '!' [Header_Property](#Header_Property) ':' [Space](#Space)* [Header_Value](#Header_Value)<code>| |
+| <code><a name="Unstructured_Value_Header">Unstructured_Value_Header</a> ::==  '!!' [Header_Value](#Header_Value)<code>| |
+| <code><a name="Header_Value">Header_Value</a>              ::==  TODO</code>| |
+| <code><a name="Annotation">Annotation</a>                ::== [GPAD_Col_1](#GPAD_Col_1) \t [GPAD_Col_2](#GPAD_Col_2) \t [GPAD_Col_3](#GPAD_Col_3) \t [GPAD_Col_4](#GPAD_Col_4) \t [GPAD_Col_5](#GPAD_Col_5) \t [GPAD_Col_6](#GPAD_Col_6) \t [GPAD_Col_7](#GPAD_Col_7) \t [GPAD_Col_8](#GPAD_Col_8) \t [GPAD_Col_9](#GPAD_Col_9) \t [GPAD_Col_10](#GPAD_Col_10) \t [GPAD_Col_11](#GPAD_Col_11) \t [GPAD_Col_12](#GPAD_Col_12) \n  </code>| |
+| <code><a name="GPAD_Col_1">GPAD_Col_1</a>                ::== [DB_Object_ID](#DB_Object_ID)</code>| |
+| <code><a name="GPAD_Col_2">GPAD_Col_2</a>                ::== [Negation](#Negation)?</code>| |
+| <code><a name="GPAD_Col_3">GPAD_Col_3</a>                ::== [Relation](#Relation)</code>| |
+| <code><a name="GPAD_Col_4">GPAD_Col_4</a>                ::== [Ontology_Class_ID](#Ontology_Class_ID)</code>| |
+| <code><a name="GPAD_Col_5">GPAD_Col_5</a>                ::== [Reference](#Reference) ( '\|' [Reference](#Reference))*</code>| |
+| <code><a name="GPAD_Col_6">GPAD_Col_6</a>                ::== TODO</code>| |
+| <code><a name="GPAD_Col_7">GPAD_Col_7</a>                ::== TODO</code>| |
+| <code><a name="GPAD_Col_8">GPAD_Col_8</a>                ::== TODO</code>| |
+| <code><a name="GPAD_Col_9">GPAD_Col_9</a>                ::== TODO</code>| |
+| <code><a name="GPAD_Col_10">GPAD_Col_10</a>               ::== TODO</code>| |
+| <code><a name="GPAD_Col_11">GPAD_Col_11</a>               ::== TODO</code>| |
+| <code><a name="GPAD_Col_12">GPAD_Col_12</a>               ::== TODO</code>| |
+| <code><a name="Negation">Negation</a>                  ::== 'NOT'</code>| |
+| <code><a name="Reference">Reference</a>                 ::== [ID](#ID)</code>| |
+| <code><a name="Space">Space</a>                      ::== ' '</code>| |
