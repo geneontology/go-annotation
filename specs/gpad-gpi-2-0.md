@@ -48,42 +48,30 @@ Comments should be added to: https://github.com/geneontology/go-annotation/issue
 We first start with some preliminary definitions, including a
 description of the notation used in this specification.
 
-The body of the document is split in two - the first part defines GPAD
+The body of the document is split in two—the first part defines GPAD
 syntax, the second defines GPI syntax.
 
 ## Preliminary Definitions
 
 ### BNF Notation
 
-GPAD and GPI document structures are defined using a standard BNF notation, which is summarized below.
+GPAD and GPI document structures are defined using a BNF notation similar to [W3C specs](https://www.w3.org/TR/2004/REC-xml11-20040204/#sec-notation), which is summarized below.
 
  * terminal symbols are single quoted
  * non-terminal symbols are unquoted
  * zero or more symbols are indicated by following the symbol with a star; e.g. `Annotation*`
- * zero or one symbols are written using square brackets; e.g. `[Extension_Conj]`
+ * one or more symbols are indicated by following the symbol with a plus; e.g. `Digit+`
+ * zero or one symbols are indicated by following the symbol with a question mark; e.g. `Extension_Conj?`
  * alternative symbols are written using vertical bars
  * groupings are written using parentheses
  * complementation is written using minus symbol
 
 GPI and GPAD documents consist of sequences of Unicode characters and are encoded in ASCII.
 
-### Basic Characters
-
-    Alpha_Char ::= a |b |c |d |e |f |g |h |i |j |k |l |m |n |o |p |q |r |s |t |u |v |w |x |y |z
-       | A |B |C |D |E |F |G |H |I |J |K |L |M |N |O |P |Q |R |S |T |U |V |W |X |Y |Z
-    Digit ::= 0 |1 |2 |3 |4 |5 |6 |7 |8 |9
-    Alphanumeric_Char ::= Alpha_Char | Digit
-    Alphanumeric ::= Alphanumeric_Char+
-
-### Spacing Characters
-
-There is a single space character allowed
-
-    Space ::= ' '
-
 ### Identifiers
 
-An identifier consists of a prefix and a local identifier separated by a colon symbol
+An [identifier](#ID) consists of a prefix and a local identifier separated by a colon symbol. Identifiers denote biological 
+entities, ontology terms, and references. Examples include `UniProtKB:P11678`, `GO:0050803`, and `PMID:30695063`.
 
     ID ::= Prefix ':' Local_ID
 
