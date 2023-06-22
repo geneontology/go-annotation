@@ -392,7 +392,7 @@ go-annotation-summary | text | 1 | go-annotation-summary=Sterol binding protein 
 | ------ | ------ | ------ |
 | <code><a name="Doc">Doc</a></code> | <code>[GPAD_Doc](#GPAD_Doc) \| [GPI_Doc](#GPI_Doc)</code>| |
 | <code><a name="GPAD_Doc">GPAD_Doc</a></code> | <code>[GPAD_Header](#GPAD_Header) [Annotation](#Annotation)*</code>| |
-| <code><a name="GPI_Doc">GPI_Doc<a></code> | <code>[GPI_Header](#GPI_Header) [Entity](#Entity)*<code>| |
+| <code><a name="GPI_Doc">GPI_Doc<a></code> | <code>[GPI_Header](#GPI_Header) [Entity](#Entity)*</code>| |
 | <code><a name="GPAD_Header">GPAD_Header</a></code> | <code>'!gpa-version: 2.0' \n [Header_Line](#Header_Line)*</code>| |
 | <code><a name="GPI_Header">GPI_Header</a></code> | <code>'!gpi-version: 2.0' \n '!namespace: ' [Prefix](#Prefix) \n [Header_Line](#Header_Line)*</code>| |
 | <code><a name="Header_Line">Header_Line</a></code> | <code>( [Tag_Value_Header](#Tag_Value_Header) \| [Unstructured_Value_Header](#Unstructured_Value_Header) ) \n</code>| |
@@ -449,7 +449,7 @@ go-annotation-summary | text | 1 | go-annotation-summary=Sterol binding protein 
 | <code><a name="ID">ID</a></code> | <code>[Prefix](#Prefix) ':' [Local_ID](#Local_ID)</code>| |
 | <code><a name="Prefix">Prefix</a></code> | <code>[Alpha_Char](#Alpha_Char) [ID_Char](#ID_Char)*</code>| |
 | <code><a name="Local_ID">Local_ID</a></code> | <code>( [ID_Char](#ID_Char) \| ':' )+</code>| |
-| <code><a name="ID_Char">ID_Char</a></code> | <code>[Alpha_Char](#Alpha_Char) \| [Digit](#Digit) \| '_' \| '-' \| '.'</code>| |
+| <code><a name="ID_Char">ID_Char</a></code> | <code>[Alpha_Char](#Alpha_Char) \| [Digit](#Digit) \| '_' \| '-' \| '.'</code>| TODO - Do we need any of <code>'_' '~' '.' '-' '!' '$' '&' "'" '(' ')' '*' '+' ',' ';' '=' '/' '?' '#' '@' '%'</code> |
 | <code><a name="Label">Label</a></code> | <code>TODO</code>| |
 | <code><a name="Date">Date</a></code> | <code>YYYY-MM-DD</code>| |
 | <code><a name="Alpha_Char">Alpha_Char</a></code> | <code>[A-Z][a-z]</code>| |
