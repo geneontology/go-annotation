@@ -451,7 +451,8 @@ go-annotation-summary | text | 1 | go-annotation-summary=Sterol binding protein 
 | <code><a name="Local_ID">Local_ID</a></code> | <code>( [ID_Char](#ID_Char) \| ':' )+</code>| |
 | <code><a name="ID_Char">ID_Char</a></code> | <code>[Alpha_Char](#Alpha_Char) \| [Digit](#Digit) \| '_' \| '-' \| '.'</code>| TODO - Do we need any of <code>'_' '~' '.' '-' '!' '$' '&' "'" '(' ')' '*' '+' ',' ';' '=' '/' '?' '#' '@' '%'</code> |
 | <code><a name="Label">Label</a></code> | <code>TODO</code>| |
-| <code><a name="Date">Date</a></code> | <code>YYYY-MM-DD</code>| |
+| <code><a name="Date">Date</a></code> | <code>YYYY-MM-DD</code>| Corresponds to [xsd:date](https://www.w3.org/TR/xmlschema-2/#date) |
+| <code><a name="Date_Time">Date_Time</a></code> | <code>YYYY-MM-DDTHH:MM:SS('.' s+)?((('+' \| '-') hh ':' mm) \| 'Z')?</code>| Corresponds to [xsd:dateTime](https://www.w3.org/TR/xmlschema-2/#dateTime) |
 | <code><a name="Alpha_Char">Alpha_Char</a></code> | <code>[A-Z][a-z]</code>| |
 | <code><a name="Digit">Digit</a></code> | <code>[0-9]</code>| |
 | <code><a name="Space">Space</a></code> | <code>' '</code>| |
