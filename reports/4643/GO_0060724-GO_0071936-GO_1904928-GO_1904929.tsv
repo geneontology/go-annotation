@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:O75581	LRP6	PMID:11029007		GO:0071936	coreceptor activity involved in Wnt signaling pathway	IDA			PANTHER:PTHR46513	20110705		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O75197	LRP5	PMID:11336703		GO:0071936	coreceptor activity involved in Wnt signaling pathway	IPI	UniProtKB:P04426		PANTHER:PTHR46513	20160128	UniProtKB:P04628	NCBITaxon:9606
+Xenbase	Xenbase:XB-GENE-17337757	dkk1.L	PMID:20858598		GO:0071936	coreceptor activity involved in Wnt signaling pathway	IMP				20220705		NCBITaxon:8355
+UniProt	MGI:MGI:1855698	Reck	PMID:30026314|MGI:MGI:6255947		GO:1904928	coreceptor activity involved in canonical Wnt signaling pathway	IDA			PANTHER:PTHR13487	20181030		NCBITaxon:10090
+Xenbase	Xenbase:XB-GENE-959274	mink1	PMID:36572140		GO:1904928	coreceptor activity involved in canonical Wnt signaling pathway	IMP	Xenbase:XB-gRNA-25919051			20230206	GO:0007507|GO:0060061|GO:0061371|GO:0005829|Xenbase:XB-GENE-487200|Xenbase:XB-GENE-6258173	NCBITaxon:8364
