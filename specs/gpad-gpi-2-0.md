@@ -395,11 +395,6 @@ go-annotation-summary | text | 1 | go-annotation-summary=Sterol binding protein 
 | <code><a name="GPI_Doc">GPI_Doc<a></code> | <code>[GPI_Header](#GPI_Header) [Entity](#Entity)*</code>| |
 | <code><a name="GPAD_Header">GPAD_Header</a></code> | <code>'!gpa-version: 2.0' \n [Header_Line](#Header_Line)*</code>| |
 | <code><a name="GPI_Header">GPI_Header</a></code> | <code>'!gpi-version: 2.0' \n '!namespace: ' [Prefix](#Prefix) \n [Header_Line](#Header_Line)*</code>| |
-| <code><a name="Header_Line">Header_Line</a></code> | <code>( [Tag_Value_Header](#Tag_Value_Header) \| [Unstructured_Value_Header](#Unstructured_Value_Header) ) \n</code>| |
-| <code><a name="Tag_Value_Header">Tag_Value_Header</a></code> | <code>'!' [Header_Property](#Header_Property) ':' [Space](#Space)* [Header_Value](#Header_Value)</code>| |
-| <code><a name="Unstructured_Value_Header">Unstructured_Value_Header</a></code> | <code>'!!' [Header_Value](#Header_Value)</code>| |
-| <code><a name="Header_Property">Header_Property</a></code> | <code>TODO</code>| |
-| <code><a name="Header_Value">Header_Value</a></code> | <code>TODO</code>| |
 | <code><a name="Annotation">Annotation</a></code> | <code>[DB_Object_ID](#DB_Object_ID) \t [Negation](#Negation) \t [Relation](#Relation) \t [Ontology_Class_ID](#Ontology_Class_ID) \t [Reference](#Reference) \t [Evidence_Type](#Evidence_Type) \t [With_Or_From](#With_Or_From) \t [Interacting_Taxon_ID](#Interacting_Taxon_ID) \t [Annotation_Date](#Annotation_Date) \t [Assigned_By](#Assigned_By) \t [Annotation_Extensions](#Annotation_Extensions) \t [Annotation_Properties](#Annotation_Properties) \n</code>| |
 | <code><a name="Entity">Entity</a></code> | <code>[DB_Object_ID](#DB_Object_ID) \t [DB_Object_Symbol](#DB_Object_Symbol) \t [DB_Object_Name](#DB_Object_Name) \t [DB_Object_Synonyms](#DB_Object_Synonyms) \t [DB_Object_Type](#DB_Object_Type) \t [DB_Object_Taxon](#DB_Object_Taxon) \t [Encoded_By](#Encoded_By) \t [Parent_Protein](#Parent_Protein) \t [Protein_Containing_Complex_Members](#Protein_Containing_Complex_Members) \t [DB_Xrefs](#DB_Xrefs) [Gene_Product_Properties](#Gene_Product_Properties) \n</code>| |
 
@@ -440,6 +435,11 @@ go-annotation-summary | text | 1 | go-annotation-summary=Sterol binding protein 
 
 | | Grammar | Comments |
 | ------ | ------ | ------ |
+| <code><a name="Header_Line">Header_Line</a></code> | <code>( [Tag_Value_Header](#Tag_Value_Header) \| [Unstructured_Value_Header](#Unstructured_Value_Header) ) \n</code>| |
+| <code><a name="Tag_Value_Header">Tag_Value_Header</a></code> | <code>'!' [Header_Property](#Header_Property) ':' [Space](#Space)* [Header_Value](#Header_Value)</code>| |
+| <code><a name="Unstructured_Value_Header">Unstructured_Value_Header</a></code> | <code>'!!' [Header_Value](#Header_Value)</code>| |
+| <code><a name="Header_Property">Header_Property</a></code> | <code>TODO</code>| |
+| <code><a name="Header_Value">Header_Value</a></code> | <code>TODO</code>| |
 | <code><a name="Extension_Conj">Extension_Conj</a></code> | <code>[Relational_Expression](#Relational_Expression) ( ',' [Relational_Expression](Relational_Expression) )*</code>| |
 | <code><a name="Relational_Expression">Relational_Expression</a></code> | <code>[Relation_ID](#Relation_ID) '(' [ID](#ID) ')'</code>| |
 | <code><a name="Relation_ID">Relation_ID</a></code> | <code>[ID](#ID)</code>| |
@@ -449,9 +449,9 @@ go-annotation-summary | text | 1 | go-annotation-summary=Sterol binding protein 
 | <code><a name="ID">ID</a></code> | <code>[Prefix](#Prefix) ':' [Local_ID](#Local_ID)</code>| |
 | <code><a name="Prefix">Prefix</a></code> | <code>[Alpha_Char](#Alpha_Char) [ID_Char](#ID_Char)*</code>| |
 | <code><a name="Local_ID">Local_ID</a></code> | <code>( [ID_Char](#ID_Char) \| ':' )+</code>| |
-| <code><a name="ID_Char">ID_Char</a></code> | <code>[Alpha_Char](#Alpha_Char) \| [Digit](#Digit) \| '_' \| '-' \| '.'</code>| TODO - Do we need any of <code>'_' '~' '.' '-' '!' '$' '&' "'" '(' ')' '*' '+' ',' ';' '=' '/' '?' '#' '@' '%'</code> |
+| <code><a name="ID_Char">ID_Char</a></code> | <code>[Alpha_Char](#Alpha_Char) \| [Digit](#Digit) \| '_' \| '-' \| '.'</code>| TODO - Do we need any of <code>~ ! $ & ' ( ) * + , ; = < > / ? # @ % [ ] ^ \| { } `</code> (possibly escaped?) |
 | <code><a name="Label">Label</a></code> | <code>TODO</code>| |
-| <code><a name="Date">Date</a></code> | <code>YYYY-MM-DD</code>| Corresponds to [xsd:date](https://www.w3.org/TR/xmlschema-2/#date) |
+| <code><a name="Date">Date</a></code> | <code>YYYY-MM-DD</code>| Corresponds to [xsd:date](https://www.w3.org/TR/xmlschema-2/#date) without optional timezone |
 | <code><a name="Date_Time">Date_Time</a></code> | <code>YYYY-MM-DDTHH:MM:SS('.' s+)?((('+' \| '-') hh ':' mm) \| 'Z')?</code>| Corresponds to [xsd:dateTime](https://www.w3.org/TR/xmlschema-2/#dateTime) |
 | <code><a name="Alpha_Char">Alpha_Char</a></code> | <code>[A-Z][a-z]</code>| |
 | <code><a name="Digit">Digit</a></code> | <code>[0-9]</code>| |
