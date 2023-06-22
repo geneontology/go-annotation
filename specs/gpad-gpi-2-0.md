@@ -416,7 +416,7 @@ go-annotation-summary | text | 1 | go-annotation-summary=Sterol binding protein 
 | 7 | <code><a name="With_Or_From">With_Or_From</a></code> | <code>( [ID](#ID) ( [\|,] [ID](#ID) )* )?</code>| WB:WBVar00000510 | Pipe-separated entries represent independent evidence; comma-separated entries represent grouped evidence, e.g. two of three genes in a triply mutant organism |
 | 8 | <code><a name="Interacting_Taxon_ID">Interacting_Taxon_ID</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| NCBITaxon:5476 | |
 | 9 | <code><a name="Annotation_Date">Annotation_Date</a></code> | <code>[Date](#Date)</code>| 2019-01-30 | |
-| 10 | <code><a name="Assigned_By">Assigned_By</a></code> | <code>TODO</code>| MGI | |
+| 10 | <code><a name="Assigned_By">Assigned_By</a></code> | <code>[Prefix](#Prefix)</code>| MGI | |
 | 11 | <code><a name="Annotation_Extensions">Annotation_Extensions</a></code> | <code>( [Extension_Conj](#Extension_Conj) ( '\|' [Extension_Conj](#Extension_Conj) )* )?</code>| BFO:0000066(GO:0005829) | |
 | 12 | <code><a name="Annotation_Properties">Annotation_Properties</a></code> | <code>( [Property_Value_Pair](#Property_Value_Pair) ( '\|' [Property_Value_Pair](#Property_Value_Pair) )* )?</code>| contributor-id=orcid:0000-0002-1478-7671 | |
 
@@ -446,7 +446,12 @@ go-annotation-summary | text | 1 | go-annotation-summary=Sterol binding protein 
 | <code><a name="Property_Value_Pair">Property_Value_Pair</a></code> | <code>[Property](#Property) '=' [Property_Value](#Property_Value)</code>| |
 | <code><a name="Property">Property</a></code> | <code>TODO</code>| |
 | <code><a name="Property_Value">Property_Value</a></code> | <code>TODO</code>| |
-| <code><a name="ID">ID</a></code> | <code>TODO</code>| |
+| <code><a name="ID">ID</a></code> | <code>[Prefix](#Prefix) ':' [Local_ID](#Local_ID)</code>| |
+| <code><a name="Prefix">Prefix</a></code> | <code>[Alpha_Char](#Alpha_Char) [ID_Char](#ID_Char)*</code>| |
+| <code><a name="Local_ID">Local_ID</a></code> | <code>( [ID_Char](#ID_Char) \| ':' )+</code>| |
+| <code><a name="ID_Char">ID_Char</a></code> | <code>[Alpha_Char](#Alpha_Char) \| [Digit](#Digit) \| '_' \| '-' \| '.'</code>| |
 | <code><a name="Label">Label</a></code> | <code>TODO</code>| |
 | <code><a name="Date">Date</a></code> | <code>YYYY-MM-DD</code>| |
+| <code><a name="Alpha_Char">Alpha_Char</a></code> | <code>[A-Z][a-z]</code>| |
+| <code><a name="Digit">Digit</a></code> | <code>[0-9]</code>| |
 | <code><a name="Space">Space</a></code> | <code>' '</code>| |
