@@ -1,0 +1,9 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	UniProtKB:Q9NPF8	ADAP2	PMID:14690521		GO:0048017	inositol lipid-mediated signaling	IDA			PANTHER:PTHR46021	20191112		NCBITaxon:9606
+SGD	SGD:S000001534	SFK1	PMID:12015967		GO:0048017	inositol lipid-mediated signaling	IGI	SGD:S000004296	UniProtKB:P35735	PANTHER:PTHR21324	20061108		NCBITaxon:559292
+SGD	SGD:S000001727	IRS4	PMID:15265867		GO:0048017	inositol lipid-mediated signaling	IGI	SGD:S000003619	UniProtKB:P36115	PANTHER:PTHR11216	20050524		NCBITaxon:559292
+SGD	SGD:S000003619	TAX4	PMID:15265867		GO:0048017	inositol lipid-mediated signaling	IGI	SGD:S000001727	UniProtKB:P47030		20050524		NCBITaxon:559292
+SGD	SGD:S000000301	VPS15	PMID:16839886		GO:0048017	inositol lipid-mediated signaling	IMP		UniProtKB:P22219	PANTHER:PTHR17583	20060719		NCBITaxon:559292
+SGD	SGD:S000001047	GPA1	PMID:16839886		GO:0048017	inositol lipid-mediated signaling	IMP		UniProtKB:P08539	PANTHER:PTHR10218	20060719		NCBITaxon:559292
+UniProt	MGI:MGI:2685363	Tnfaip8l3	PMID:25242044|MGI:MGI:5613301		GO:0048017	inositol lipid-mediated signaling	IDA			PANTHER:PTHR12757	20150724		NCBITaxon:10090
+WB	WB:WBGene00002173	itr-1	PMID:12062062|WB_REF:WBPaper00005299		GO:0048017	inositol lipid-mediated signaling	IMP			PANTHER:PTHR13715	20190327		NCBITaxon:6239
