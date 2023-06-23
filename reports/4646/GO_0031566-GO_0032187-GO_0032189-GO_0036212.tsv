@@ -1,0 +1,40 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+JaponicusDB	JaponicusDB:SJAG_02592	sty1	PMID:32915139		GO:1904789	regulation of mitotic actomyosin contractile ring maintenance	EXP				20210513	GO:0120306	NCBITaxon:4897
+PomBase	PomBase:SPCC613.04c	rng3	PMID:10852821		GO:1902406	mitotic actomyosin contractile ring maintenance	IMP			PANTHER:PTHR45994	20191030		NCBITaxon:4896
+PomBase	PomBase:SPAC1782.09c	clp1	PMID:15265986		GO:1904789	regulation of mitotic actomyosin contractile ring maintenance	IGI	PomBase:SPBC19G7.05c		PANTHER:PTHR23339	20140925		NCBITaxon:4896
+PomBase	PomBase:SPAC20G8.05c	cdc15	PMID:16687577		GO:1902406	mitotic actomyosin contractile ring maintenance	IMP			PANTHER:PTHR23065	20180228		NCBITaxon:4896
+PomBase	PomBase:SPAC1782.09c	clp1	PMID:18378776		GO:1902406	mitotic actomyosin contractile ring maintenance	IMP			PANTHER:PTHR23339	20090707		NCBITaxon:4896
+PomBase	PomBase:SPCC4B3.15	mid1	PMID:18378776		GO:1902406	mitotic actomyosin contractile ring maintenance	IMP			PANTHER:PTHR21538	20160727		NCBITaxon:4896
+PomBase	PomBase:SPAC20G8.05c	cdc15	PMID:19139265		GO:1902406	mitotic actomyosin contractile ring maintenance	IMP			PANTHER:PTHR23065	20120731		NCBITaxon:4896
+PomBase	PomBase:SPBC11C11.02	imp2	PMID:19139265		GO:1902406	mitotic actomyosin contractile ring maintenance	IMP			PANTHER:PTHR23065	20170916		NCBITaxon:4896
+PomBase	PomBase:SPBC83.18c	fic1	PMID:19139265		GO:1902406	mitotic actomyosin contractile ring maintenance	IMP			PANTHER:PTHR32246	20170914		NCBITaxon:4896
+PomBase	PomBase:SPAC31A2.16	gef2	PMID:23966468		GO:1902406	mitotic actomyosin contractile ring maintenance	IGI	PomBase:SPAC20G8.05c		PANTHER:PTHR12673	20131105		NCBITaxon:4896
+PomBase	PomBase:SPAC12B10.10	nod1	PMID:23966468		GO:1902406	mitotic actomyosin contractile ring maintenance	IGI	PomBase:SPAC20G8.05c			20131105		NCBITaxon:4896
+PomBase	PomBase:SPAC1F5.04c	cdc12	PMID:24115772		GO:1902406	mitotic actomyosin contractile ring maintenance	IMP			PANTHER:PTHR47102	20140225		NCBITaxon:4896
+PomBase	PomBase:SPAC20G8.05c	cdc15	PMID:26702831		GO:1902406	mitotic actomyosin contractile ring maintenance	IMP			PANTHER:PTHR23065	20180308		NCBITaxon:4896
+PomBase	PomBase:SPAC4A8.05c	myp2	PMID:30928696		GO:1902406	mitotic actomyosin contractile ring maintenance	IMP			PANTHER:PTHR45615	20190416	GO:0071475	NCBITaxon:4896
+PomBase	PomBase:SPAC24B11.06c	sty1	PMID:32915139		GO:1904789	regulation of mitotic actomyosin contractile ring maintenance	EXP			PANTHER:PTHR24055	20201021	GO:0120306	NCBITaxon:4896
+PomBase	PomBase:SPCC895.05	for3	PMID:32915139		GO:1902406	mitotic actomyosin contractile ring maintenance	EXP			PANTHER:PTHR47102	20201015	GO:0120306	NCBITaxon:4896
+PomBase	PomBase:SPAC4F8.13c	rng2	PMID:33131769		GO:1902406	mitotic actomyosin contractile ring maintenance	EXP		PR:000050484	PANTHER:PTHR14149	20201109		NCBITaxon:4896
+PomBase	PomBase:SPBC11C11.02	imp2	PMID:34402513		GO:1902406	mitotic actomyosin contractile ring maintenance	EXP			PANTHER:PTHR23065	20210727		NCBITaxon:4896
+CGD	CGD:CAL0000175167	IQG1	PMID:18923418|CGD_REF:CAL0120369		GO:0032187	actomyosin contractile ring localization	IMP			PANTHER:PTHR14149	20140625		NCBITaxon:237561
+FlyBase	FB:FBgn0023508	Ocrl	PMID:21658948|FB:FBrf0213972		GO:0032187	actomyosin contractile ring localization	IMP			PANTHER:PTHR11200	20110721		NCBITaxon:7227
+CACAO	UniProtKB:P75862	zapC	PMID:21216995		GO:0036212	contractile ring maintenance	IDA				20120327		NCBITaxon:83333
+JaponicusDB	JaponicusDB:SJAG_02592	sty1	PMID:32915139		GO:1904789	regulation of mitotic actomyosin contractile ring maintenance	EXP				20210513	GO:0120306	NCBITaxon:4897
+PomBase	PomBase:SPCC613.04c	rng3	PMID:10852821		GO:1902406	mitotic actomyosin contractile ring maintenance	IMP			PANTHER:PTHR45994	20191030		NCBITaxon:4896
+PomBase	PomBase:SPAC1782.09c	clp1	PMID:15265986		GO:1904789	regulation of mitotic actomyosin contractile ring maintenance	IGI	PomBase:SPBC19G7.05c		PANTHER:PTHR23339	20140925		NCBITaxon:4896
+PomBase	PomBase:SPAC20G8.05c	cdc15	PMID:16687577		GO:1902406	mitotic actomyosin contractile ring maintenance	IMP			PANTHER:PTHR23065	20180228		NCBITaxon:4896
+PomBase	PomBase:SPAC1782.09c	clp1	PMID:18378776		GO:1902406	mitotic actomyosin contractile ring maintenance	IMP			PANTHER:PTHR23339	20090707		NCBITaxon:4896
+PomBase	PomBase:SPCC4B3.15	mid1	PMID:18378776		GO:1902406	mitotic actomyosin contractile ring maintenance	IMP			PANTHER:PTHR21538	20160727		NCBITaxon:4896
+PomBase	PomBase:SPAC20G8.05c	cdc15	PMID:19139265		GO:1902406	mitotic actomyosin contractile ring maintenance	IMP			PANTHER:PTHR23065	20120731		NCBITaxon:4896
+PomBase	PomBase:SPBC11C11.02	imp2	PMID:19139265		GO:1902406	mitotic actomyosin contractile ring maintenance	IMP			PANTHER:PTHR23065	20170916		NCBITaxon:4896
+PomBase	PomBase:SPBC83.18c	fic1	PMID:19139265		GO:1902406	mitotic actomyosin contractile ring maintenance	IMP			PANTHER:PTHR32246	20170914		NCBITaxon:4896
+PomBase	PomBase:SPAC31A2.16	gef2	PMID:23966468		GO:1902406	mitotic actomyosin contractile ring maintenance	IGI	PomBase:SPAC20G8.05c		PANTHER:PTHR12673	20131105		NCBITaxon:4896
+PomBase	PomBase:SPAC12B10.10	nod1	PMID:23966468		GO:1902406	mitotic actomyosin contractile ring maintenance	IGI	PomBase:SPAC20G8.05c			20131105		NCBITaxon:4896
+PomBase	PomBase:SPAC1F5.04c	cdc12	PMID:24115772		GO:1902406	mitotic actomyosin contractile ring maintenance	IMP			PANTHER:PTHR47102	20140225		NCBITaxon:4896
+PomBase	PomBase:SPAC20G8.05c	cdc15	PMID:26702831		GO:1902406	mitotic actomyosin contractile ring maintenance	IMP			PANTHER:PTHR23065	20180308		NCBITaxon:4896
+PomBase	PomBase:SPAC4A8.05c	myp2	PMID:30928696		GO:1902406	mitotic actomyosin contractile ring maintenance	IMP			PANTHER:PTHR45615	20190416	GO:0071475	NCBITaxon:4896
+PomBase	PomBase:SPAC24B11.06c	sty1	PMID:32915139		GO:1904789	regulation of mitotic actomyosin contractile ring maintenance	EXP			PANTHER:PTHR24055	20201021	GO:0120306	NCBITaxon:4896
+PomBase	PomBase:SPCC895.05	for3	PMID:32915139		GO:1902406	mitotic actomyosin contractile ring maintenance	EXP			PANTHER:PTHR47102	20201015	GO:0120306	NCBITaxon:4896
+PomBase	PomBase:SPAC4F8.13c	rng2	PMID:33131769		GO:1902406	mitotic actomyosin contractile ring maintenance	EXP		PR:000050484	PANTHER:PTHR14149	20201109		NCBITaxon:4896
+PomBase	PomBase:SPBC11C11.02	imp2	PMID:34402513		GO:1902406	mitotic actomyosin contractile ring maintenance	EXP			PANTHER:PTHR23065	20210727		NCBITaxon:4896
