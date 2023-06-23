@@ -229,7 +229,7 @@ Cellular Component | located in | RO:0001025 | Default for non-protein-containin
 Cellular Component | is active in | RO:0002432 | Used to indicate where a gene product enables its MF
 Cellular Component | colocalizes with | RO:0002325 |
 
-### GPAD Annotation Properties (Proposed)
+### GPAD Annotation Properties
 All properties are single valued as shown.
 
 Annotation_Property_Symbol | Property must be unique | Property_Value | Example | Semantics 
@@ -363,7 +363,7 @@ Other possible entity types from MGI (additional examples coming):
  
  *PRO
 
-### GPI Gene Product Properties (Proposed)
+### GPI Gene Product Properties
 
 Annotation_Property_Symbol | Property_Value | Cardinality (if used) | Example | Semantics 
 ---------------------------|----------------|------------ | ------- | --------- |
@@ -401,7 +401,7 @@ go-annotation-summary | text | 1 | go-annotation-summary=Sterol binding protein 
 | 9 | <code><a name="Annotation_Date">Annotation_Date</a></code> | <code>[Date](#Date)</code>| 2019-01-30 | |
 | 10 | <code><a name="Assigned_By">Assigned_By</a></code> | <code>[Prefix](#Prefix)</code>| MGI | |
 | 11 | <code><a name="Annotation_Extensions">Annotation_Extensions</a></code> | <code>( [Extension_Conj](#Extension_Conj) ( '\|' [Extension_Conj](#Extension_Conj) )* )?</code>| BFO:0000066(GO:0005829) | |
-| 12 | <code><a name="Annotation_Properties">Annotation_Properties</a></code> | <code>( [Property_Value_Pair](#Property_Value_Pair) ( '\|' [Property_Value_Pair](#Property_Value_Pair) )* )?</code>| contributor-id=orcid:0000-0002-1478-7671 | |
+| 12 | <code><a name="Annotation_Properties">Annotation_Properties</a></code> | <code>( [Property_Value_Pair](#Property_Value_Pair) ( '\|' [Property_Value_Pair](#Property_Value_Pair) )* )?</code>| contributor-id=orcid:0000-0002-1478-7671 | Properties used MUST come from the list in [GPAD annotation properties](#gpad-annotation-properties) |
 
 ## GPI columns
 
@@ -417,22 +417,21 @@ go-annotation-summary | text | 1 | go-annotation-summary=Sterol binding protein 
 | 8 | <code><a name="Parent_Protein">Parent_Protein</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| | When column 1 refers to a protein isoform or modified protein, this column refers to the gene-centric reference protein accession of the column 1 entry. |
 | 9 | <code><a name="Protein_Containing_Complex_Members">Protein_Containing_Complex_Members</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| UniProtKB:Q15021|UniProtKB:Q15003 | |
 | 10 | <code><a name="DB_Xrefs">DB_Xrefs</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| HGNC:17810 | See below for required DB xref values |
-| 11 | <code><a name="Gene_Product_Properties">Gene_Product_Properties</a></code> | <code>( [Property_Value_Pair](#Property_Value_Pair) ( '\|' [Property_Value_Pair](#Property_Value_Pair) )* )?</code>| db-subset=Swiss-Prot | |
+| 11 | <code><a name="Gene_Product_Properties">Gene_Product_Properties</a></code> | <code>( [Property_Value_Pair](#Property_Value_Pair) ( '\|' [Property_Value_Pair](#Property_Value_Pair) )* )?</code>| db-subset=Swiss-Prot | Properties used MUST come from the list in [GPI gene product properties](#gpi-gene-product-properties) |
 
 ## Values
 
 | | Grammar | Comments |
 | ------ | ------ | ------ |
 | <code><a name="Header_Line">Header_Line</a></code> | <code>( [Tag_Value_Header](#Tag_Value_Header) \| [Unstructured_Value_Header](#Unstructured_Value_Header) ) \n</code>| |
-| <code><a name="Tag_Value_Header">Tag_Value_Header</a></code> | <code>'!' [Header_Property](#Header_Property) ':' [Space](#Space)* [Header_Value](#Header_Value)</code>| |
+| <code><a name="Tag_Value_Header">Tag_Value_Header</a></code> | <code>'!' [Property](#Property) ':' [Space](#Space)* [Header_Value](#Header_Value)</code>| |
 | <code><a name="Unstructured_Value_Header">Unstructured_Value_Header</a></code> | <code>'!!' [Header_Value](#Header_Value)</code>| |
-| <code><a name="Header_Property">Header_Property</a></code> | <code>TODO</code>| |
 | <code><a name="Header_Value">Header_Value</a></code> | <code>TODO</code>| |
 | <code><a name="Extension_Conj">Extension_Conj</a></code> | <code>[Relational_Expression](#Relational_Expression) ( ',' [Relational_Expression](Relational_Expression) )*</code>| |
 | <code><a name="Relational_Expression">Relational_Expression</a></code> | <code>[Relation_ID](#Relation_ID) '(' [ID](#ID) ')'</code>| |
 | <code><a name="Relation_ID">Relation_ID</a></code> | <code>[ID](#ID)</code>| |
 | <code><a name="Property_Value_Pair">Property_Value_Pair</a></code> | <code>[Property](#Property) '=' [Property_Value](#Property_Value)</code>| |
-| <code><a name="Property">Property</a></code> | <code>TODO</code>| |
+| <code><a name="Property">Property</a></code> | <code>([Alpha_Char](#Alpha_Char) \| [Digit](#Digit) \| '-')+</code>| |
 | <code><a name="Property_Value">Property_Value</a></code> | <code>TODO</code>| |
 | <code><a name="ID">ID</a></code> | <code>[Prefix](#Prefix) ':' [Local_ID](#Local_ID)</code>| |
 | <code><a name="Prefix">Prefix</a></code> | <code>[Alpha_Char](#Alpha_Char) [ID_Char](#ID_Char)*</code>| |
