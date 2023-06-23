@@ -13,8 +13,7 @@ The proposal has been made to obsolete GO TERM ID: GO TERM
 see [LINK TO GO-ONTOLOGY TICKET]
 
 Experimental annotations that need to be reviewed are here: 
-[LINK TO ANNOTATION REVIEW GOOGLE SPREADSHEET Experimental annotations that need to be reviewed are here: 
-[LINK TO ANNOTATION REVIEW GOOGLE SPREADSHEET https://docs.google.com/spreadsheets/d/13oNsCNrIDGH26TAKCvpDW2QJXT_0vsR0g4qMKygR_b4]]
+[LINK TO ANNOTATION REVIEW GOOGLE SPREADSHEET https://docs.google.com/spreadsheets/d/13oNsCNrIDGH26TAKCvpDW2QJXT_0vsR0g4qMKygR_b4]
 
 Impacted groups: 
 [LIST GROUPS + NUMBER OF ANNOTATIONS + ADD ASSIGNEES] 
