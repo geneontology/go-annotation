@@ -1,4 +1,4 @@
-! Generated on 2023-06-16T19:00Z from the ontology 'go' with data version: 'releases/2023-06-16'
+! Generated on 2023-06-22T19:40Z from the ontology 'go' with data version: 'releases/2023-06-22'
 !
 MetaCyc:+-BORNEOL-DEHYDROGENASE-RXN > GO:(+)-borneol dehydrogenase activity ; GO:0047500
 MetaCyc:+-NEOMENTHOL-DEHYDROGENASE-RXN > GO:(+)-neomenthol dehydrogenase activity ; GO:0047501
@@ -4555,6 +4555,7 @@ MetaCyc:RXN-14880 > GO:ornaline synthase activity ; GO:0102544
 MetaCyc:RXN-14899 > GO:phosphatidyl phospholipase B activity ; GO:0102545
 MetaCyc:RXN-14900 > GO:mannosylglycerate hydrolase activity ; GO:0102546
 MetaCyc:RXN-14901 > GO:glucosylglycerate hydrolase activity ; GO:0102547
+MetaCyc:RXN-14903 > GO:proline dehydrogenase activity ; GO:0004657
 MetaCyc:RXN-14912 > GO:1-18:1-2-16:0-monogalactosyldiacylglycerol lipase activity ; GO:0102549
 MetaCyc:RXN-14917 > GO:2-methyl-6-geranylgeranyl-1,4-benzoquinol methyltransferase activity ; GO:0102550
 MetaCyc:RXN-14929 > GO:homogentisate geranylgeranyl transferase activity ; GO:0102551
@@ -4853,7 +4854,6 @@ MetaCyc:RXN-711 > GO:campest-4-en-3-one,NADPH:steroid 5alpha-reductase activity 
 MetaCyc:RXN-715 > GO:6-oxocampestanol hydroxylase activity ; GO:0102729
 MetaCyc:RXN-716 > GO:cathasterone hydroxylase activity ; GO:0102730
 MetaCyc:RXN-7163 > GO:inositol pentakisphosphate 2-kinase activity ; GO:0035299
-MetaCyc:RXN-7181 > GO:proline dehydrogenase activity ; GO:0004657
 MetaCyc:RXN-7184 > GO:inositol tetrakisphosphate 6-kinase activity ; GO:0000825
 MetaCyc:RXN-7185 > GO:D-myo-inositol (1,3,4,6)-tetrakisphosphate 2-kinase activity ; GO:0102731
 MetaCyc:RXN-7186 > GO:myo-inositol-1,2,3,4,6-heptakisphosphate 5-kinase activity ; GO:0102732
@@ -5027,7 +5027,6 @@ MetaCyc:RXN-8187 > GO:adonirubin 3-hydroxylase activity ; GO:0052612
 MetaCyc:RXN-8197 > GO:geraniol 10-hydroxylase activity ; GO:0102811
 MetaCyc:RXN-8204 > GO:4-coumaroyl-CoA:cyanidin-3-O-beta-D-glucoside-6''-O-acyltransferase activity ; GO:0102812
 MetaCyc:RXN-8205 > GO:UDP-D-glucose:cyanidin 3-(p-coumaroyl)-glucoside 5-O-glucosyltransferase activity ; GO:0102813
-MetaCyc:RXN-821 > GO:proline oxidase activity ; GO:0051699
 MetaCyc:RXN-8214 > GO:echinenone 3-hydroxylase activity ; GO:0052608
 MetaCyc:RXN-8218 > GO:4-ketotorulene 3-hydroxylase activity ; GO:0052609
 MetaCyc:RXN-8226 > GO:sulfur oxygenase reductase activity ; GO:0043826

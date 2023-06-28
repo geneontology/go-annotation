@@ -1,4 +1,4 @@
-! Generated on 2023-06-16T19:00Z from the ontology 'go' with data version: 'releases/2023-06-16'
+! Generated on 2023-06-22T19:40Z from the ontology 'go' with data version: 'releases/2023-06-22'
 !
 RHEA:10000 > GO:pentanamidase activity ; GO:0050168
 RHEA:10004 > GO:thiocyanate isomerase activity ; GO:0050335
@@ -3185,7 +3185,6 @@ RHEA:26093 > GO:(R)-limonene 1,2-monooxygenase NADH activity ; GO:0106319
 RHEA:26097 > GO:(R)-limonene 1,2-monooxygenase NADPH activity ; GO:0106320
 RHEA:26115 > GO:epi-cedrol synthase activity ; GO:0052682
 RHEA:26119 > GO:4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity ; GO:0046429
-RHEA:26124 > GO:proline oxidase activity ; GO:0051699
 RHEA:26136 > GO:fatty acid amide hydrolase activity ; GO:0017064
 RHEA:26152 > GO:6,7-dimethyl-8-ribityllumazine synthase activity ; GO:0000906
 RHEA:26160 > GO:thalianol synthase activity ; GO:0051746
