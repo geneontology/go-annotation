@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:2687329	Kash5	PMID:24062341		GO:0090172	microtubule cytoskeleton organization involved in homologous chromosome segregation	IPI	GO:0030286		PANTHER:PTHR47300	20200319		NCBITaxon:10090

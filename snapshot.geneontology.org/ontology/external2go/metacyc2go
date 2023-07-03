@@ -1,4 +1,4 @@
-! Generated on 2023-06-22T19:40Z from the ontology 'go' with data version: 'releases/2023-06-22'
+! Generated on 2023-06-30T19:00Z from the ontology 'go' with data version: 'releases/2023-06-30'
 !
 MetaCyc:+-BORNEOL-DEHYDROGENASE-RXN > GO:(+)-borneol dehydrogenase activity ; GO:0047500
 MetaCyc:+-NEOMENTHOL-DEHYDROGENASE-RXN > GO:(+)-neomenthol dehydrogenase activity ; GO:0047501
@@ -242,7 +242,7 @@ MetaCyc:1.2.1.13-RXN > GO:glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phos
 MetaCyc:1.2.1.18-RXN > GO:malonate-semialdehyde dehydrogenase (acetylating) activity ; GO:0018478
 MetaCyc:1.2.1.2-RXN > GO:formate dehydrogenase (NAD+) activity ; GO:0008863
 MetaCyc:1.2.1.25-RXN > GO:2-oxoisovalerate dehydrogenase (acylating) activity ; GO:0047101
-MetaCyc:1.2.1.27-RXN > GO:methylmalonate-semialdehyde dehydrogenase (acylating) activity ; GO:0004491
+MetaCyc:1.2.1.27-RXN > GO:methylmalonate-semialdehyde dehydrogenase (acylating, NAD) activity ; GO:0004491
 MetaCyc:1.2.1.31-RXN > GO:L-aminoadipate-semialdehyde dehydrogenase activity ; GO:0004043
 MetaCyc:1.2.1.32-RXN > GO:aminomuconate-semialdehyde dehydrogenase activity ; GO:0047102
 MetaCyc:1.2.1.40-RXN > GO:3-alpha,7-alpha,12-alpha-trihydroxycholestan-26-al 26-oxidoreductase activity ; GO:0047103
@@ -4710,7 +4710,7 @@ MetaCyc:RXN-2621 > GO:caffeoyl-CoA:shikimate O-(hydroxycinnamoyl)transferase act
 MetaCyc:RXN-2761 > GO:homogentisate solanyltransferase activity ; GO:0102661
 MetaCyc:RXN-2762 > GO:2-methyl-6-solanyl-1,4-benzoquinone methyltransferase activity ; GO:0051742
 MetaCyc:RXN-2861 > GO:alcohol dehydrogenase (cytochrome c(L)) activity ; GO:0052933
-MetaCyc:RXN-2902 > GO:malonate-semialdehyde dehydrogenase (acetylating, NAD+) activity ; GO:0102662
+MetaCyc:RXN-2902 > GO:malonate-semialdehyde dehydrogenase (acetylating) activity ; GO:0018478
 MetaCyc:RXN-292 > GO:gibberellin A34,2-oxoglutarate:oxygen oxidoreductase activity ; GO:0102663
 MetaCyc:RXN-2945 > GO:indole-3-acetyl-leucine synthetase activity ; GO:0102664
 MetaCyc:RXN-2947 > GO:indole-3-acetyl-glutamate synthetase activity ; GO:0102665
@@ -5781,7 +5781,7 @@ MetaCyc:TRANS-L-3-HYDROXYPROLINE-DEHYDRATASE-RXN > GO:trans-L-3-hydroxyproline d
 MetaCyc:TRANS-OCTAPRENYLTRANSTRANSFERASE-RXN > GO:all-trans-nonaprenyl-diphosphate synthase (geranyl-diphosphate specific) activity ; GO:0052923
 MetaCyc:TRANS-PENTAPRENYLTRANSFERASE-RXN > GO:hexaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific) activity ; GO:0036423
 MetaCyc:TRANS-RXN-167A > GO:D-glucosamine PTS permease activity ; GO:0103111
-MetaCyc:TRANS-RXN-370 > GO:pyrophosphate hydrolysis-driven proton transmembrane transporter activity ; GO:0009678
+MetaCyc:TRANS-RXN-370 > GO:diphosphate hydrolysis-driven proton transmembrane transporter activity ; GO:0009678
 MetaCyc:TRANS-RXN0-162 > GO:ABC-type heme transporter activity ; GO:0015439
 MetaCyc:TRANS-RXN0-491 > GO:ABC-type D-galactofuranose transporter ; GO:0103116
 MetaCyc:TRANSALDOL-RXN > GO:transaldolase activity ; GO:0004801

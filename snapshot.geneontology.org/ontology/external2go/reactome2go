@@ -1,4 +1,4 @@
-! Generated on 2023-06-22T19:40Z from the ontology 'go' with data version: 'releases/2023-06-22'
+! Generated on 2023-06-30T19:00Z from the ontology 'go' with data version: 'releases/2023-06-30'
 !
 Reactome:R-HSA-1008248 > GO:nucleoside triphosphate adenylate kinase activity ; GO:0046899
 Reactome:R-HSA-1013012 > GO:G protein-coupled GABA receptor activity ; GO:0004965
@@ -4268,7 +4268,7 @@ Reactome:R-HSA-70859 > GO:acyl-CoA dehydrogenase activity ; GO:0003995
 Reactome:R-HSA-70870 > GO:enoyl-CoA hydratase activity ; GO:0004300
 Reactome:R-HSA-70881 > GO:3-hydroxyisobutyryl-CoA hydrolase activity ; GO:0003860
 Reactome:R-HSA-70885 > GO:3-hydroxyisobutyrate dehydrogenase activity ; GO:0008442
-Reactome:R-HSA-70893 > GO:methylmalonate-semialdehyde dehydrogenase (acylating) activity ; GO:0004491
+Reactome:R-HSA-70893 > GO:methylmalonate-semialdehyde dehydrogenase (acylating, NAD) activity ; GO:0004491
 Reactome:R-HSA-70899 > GO:histidine ammonia-lyase activity ; GO:0004397
 Reactome:R-HSA-70903 > GO:urocanate hydratase activity ; GO:0016153
 Reactome:R-HSA-70906 > GO:hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides ; GO:0016812
