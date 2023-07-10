@@ -398,7 +398,7 @@ go-annotation-summary | text | 1 | go-annotation-summary=Sterol binding protein 
 | 6 | <code><a name="Evidence_Type">Evidence_Type</a></code> | <code>[ID](#ID)</code>| ECO:0000315 | Mapping file in progress: https://github.com/evidenceontology/evidenceontology#249 |
 | 7 | <code><a name="With_Or_From">With_Or_From</a></code> | <code>( [ID](#ID) ( [\|,] [ID](#ID) )* )?</code>| WB:WBVar00000510 | Pipe-separated entries represent independent evidence; comma-separated entries represent grouped evidence, e.g. two of three genes in a triply mutant organism |
 | 8 | <code><a name="Interacting_Taxon_ID">Interacting_Taxon_ID</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| NCBITaxon:5476 | |
-| 9 | <code><a name="Annotation_Date">Annotation_Date</a></code> | <code>[Date](#Date)</code>| 2019-01-30 | |
+| 9 | <code><a name="Annotation_Date">Annotation_Date</a></code> | <code>[Date](#Date) \| [Date_Time](#Date_Time)</code>| 2019-01-30 | |
 | 10 | <code><a name="Assigned_By">Assigned_By</a></code> | <code>[Prefix](#Prefix)</code>| MGI | |
 | 11 | <code><a name="Annotation_Extensions">Annotation_Extensions</a></code> | <code>( [Extension_Conj](#Extension_Conj) ( '\|' [Extension_Conj](#Extension_Conj) )* )?</code>| BFO:0000066(GO:0005829) | |
 | 12 | <code><a name="Annotation_Properties">Annotation_Properties</a></code> | <code>( [Property_Value_Pair](#Property_Value_Pair) ( '\|' [Property_Value_Pair](#Property_Value_Pair) )* )?</code>| contributor-id=orcid:0000-0002-1478-7671 | Properties used MUST come from the list in [GPAD annotation properties](#gpad-annotation-properties) |
@@ -408,9 +408,9 @@ go-annotation-summary | text | 1 | go-annotation-summary=Sterol binding protein 
 | Column | | Grammar | Example | Comments | Observed characters |
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | 1 | <code><a name="DB_Object_ID">DB_Object_ID</a></code> | <code>[ID](#ID)</code>| UniProtKB:Q4VCS5 | | |
-| 2 | <code><a name="DB_Object_Symbol">DB_Object_Symbol</a></code> | <code>TODO</code>| AMOT | | [Alpha_Char](#Alpha_Char) [Digit](#Digit) [Space](#Space) `#&'()*+,-./:;<>?[\]_\|`  |
+| 2 | <code><a name="DB_Object_Symbol">DB_Object_Symbol</a></code> | <code>( [Text_Char](#Text_Char) - [Space](#Space) )+</code>| AMOT | | [Alpha_Char](#Alpha_Char) [Digit](#Digit) [Space](#Space) `#&'()*+,-./:;<>?[\]_\|`  |
 | 3 | <code><a name="DB_Object_Name">DB_Object_Name</a></code> | <code>[Text](#Text)</code>| Angiomotin | CHECK | [Alpha_Char](#Alpha_Char) [Digit](#Digit) [Space](#Space) ``#%&'()*+,-./:;<=>?@[\]_`ä\|`` |
-| 4 | <code><a name="DB_Object_Synonyms">DB_Object_Synonyms</a></code> | <code>([Label](#Label) ( '\|' [Label](#Label) )* )?</code>| AMOT\|KIAA1071 | | [Alpha_Char](#Alpha_Char) [Digit](#Digit) [Space](#Space) `"#%&'()*+,-./:;<=>?@[]_àäéö~βγδ–` |
+| 4 | <code><a name="DB_Object_Synonyms">DB_Object_Synonyms</a></code> | <code>([Text](#Text) ( '\|' [Text](#Text) )* )?</code>| AMOT\|KIAA1071 | | [Alpha_Char](#Alpha_Char) [Digit](#Digit) [Space](#Space) `"#%&'()*+,-./:;<=>?@[]_àäéö~βγδ–` |
 | 5 | <code><a name="DB_Object_Type">DB_Object_Type</a></code> | <code>[ID](#ID) ( '\|' [ID](#ID) )*</code>| PR:000000001 | Sequence Ontology OR Protein Ontology OR Gene Ontology | |
 | 6 | <code><a name="DB_Object_Taxon">DB_Object_Taxon</a></code> | <code>[ID](#ID)</code>| NCBITaxon:9606 | | |
 | 7 | <code><a name="Encoded_By">Encoded_By</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| HGNC:17810 | For proteins and transcripts, this refers to the gene id that encodes those entities. | |
@@ -439,7 +439,8 @@ go-annotation-summary | text | 1 | go-annotation-summary=Sterol binding protein 
 | <code><a name="ID_Char">ID_Char</a></code> | <code>[Alpha_Char](#Alpha_Char) \| [Digit](#Digit) \| '_' \| '-' \| '.'</code>| |
 | <code><a name="Date">Date</a></code> | <code>YYYY-MM-DD</code>| Corresponds to [xsd:date](https://www.w3.org/TR/xmlschema-2/#date) without optional timezone |
 | <code><a name="Date_Time">Date_Time</a></code> | <code>YYYY-MM-DDTHH:MM:SS('.' s+)?((('+' \| '-') hh ':' mm) \| 'Z')?</code>| Corresponds to [xsd:dateTime](https://www.w3.org/TR/xmlschema-2/#dateTime) |
-| <code><a name="Text">Text</a></code> | <code>[Alpha_Char](#Alpha_Char) \| [Digit](#Digit) \| [Symbol_Char](#Symbol_Char) \| [Space](#Space)</code>| |
+| <code><a name="Text">Text</a></code> | <code>[Text_Char](#Text_Char)+</code>| |
+| <code><a name="Text_Char">Text_Char</a></code> | <code>[Alpha_Char](#Alpha_Char) \| [Digit](#Digit) \| [Symbol_Char](#Symbol_Char) \| [Space](#Space)</code>| |
 | <code><a name="Alpha_Char">Alpha_Char</a></code> | <code>[A-Z] \| [a-z]</code>| |
 | <code><a name="Digit">Digit</a></code> | <code>[0-9]</code>| |
 | <code><a name="Symbol_Char">Symbol_Char</a></code> | <code>'!' \| '"' \| '#' \| '$' \| '%' \| '&' \| ''' \| '(' \| ')' \| '*' \| '+' \| ',' \| '-' \| '.' \| '/' \| ':' \| ';' \| '<' \| '=' \| '>' \| '?' \| '@' \| '[' \| '\\' \| ']' \| '^' \| '_' \| '`' \| '{' \| '}' \| '~'</code>| |
