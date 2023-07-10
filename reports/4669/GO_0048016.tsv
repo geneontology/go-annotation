@@ -1,0 +1,14 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:P31389	HRH1	PMID:10493819		GO:0048016	inositol phosphate-mediated signaling	IDA				20120308		NCBITaxon:10141
+BHF-UCL	UniProtKB:P14138	EDN3	PMID:1917960		GO:0048016	inositol phosphate-mediated signaling	IDA			PANTHER:PTHR13874	20080903		NCBITaxon:9606
+BHF-UCL	UniProtKB:P05305	EDN1	PMID:1917960		GO:0048016	inositol phosphate-mediated signaling	IDA			PANTHER:PTHR13874	20080903		NCBITaxon:9606
+BHF-UCL	UniProtKB:P20800	EDN2	PMID:1917960		GO:0048016	inositol phosphate-mediated signaling	IDA			PANTHER:PTHR13874	20080903		NCBITaxon:9606
+GOC	MGI:MGI:96623	Itpr1	PMID:11117745|MGI:MGI:6202152		GO:0048016	inositol phosphate-mediated signaling	EXP			PANTHER:PTHR13715	20220928		NCBITaxon:10090
+GOC	MGI:MGI:99418	Itpr2	PMID:8063813|MGI:MGI:68044		GO:0048016	inositol phosphate-mediated signaling	IDA			PANTHER:PTHR13715	20080307		NCBITaxon:10090
+MGI	RGD:2848	Htr2c	PMID:8626447|RGD:8554296		GO:0048016	inositol phosphate-mediated signaling	IDA			PANTHER:PTHR24247	20101102		NCBITaxon:10116
+SGD	SGD:S000003549	VTC4	PMID:27080106		GO:0048016	inositol phosphate-mediated signaling	IMP		UniProtKB:P47075	PANTHER:PTHR46140	20160526		NCBITaxon:559292
+UniProt	UniProtKB:Q9GZQ4	NMUR2	PMID:10899166		GO:0048016	inositol phosphate-mediated signaling	IDA			PANTHER:PTHR24243	20031216		NCBITaxon:9606
+UniProt	UniProtKB:Q9HB89	NMUR1	PMID:10899166		GO:0048016	inositol phosphate-mediated signaling	IDA			PANTHER:PTHR24243	20040206		NCBITaxon:9606
+UniProt	AGI_LocusCode:AT3G23430	PHO1	PMID:27080106|TAIR:Publication:501770095		GO:0048016	inositol phosphate-mediated signaling	IMP		TAIR:locus:2090930		20210331		NCBITaxon:3702
+UniProt	UniProtKB:Q9BZJ7	GPR62	PMID:28827538		GO:0048016	inositol phosphate-mediated signaling	IDA			PANTHER:PTHR22752	20180108		NCBITaxon:9606
+WB	WB:WBGene00002146	ipp-5	PMID:12006659|WB_REF:WBPaper00005268		GO:0048016	inositol phosphate-mediated signaling	IGI	WB:WBGene00002299		PANTHER:PTHR12997	20140925		NCBITaxon:6239

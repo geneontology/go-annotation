@@ -1,4 +1,4 @@
-! Generated on 2023-06-30T19:00Z from the ontology 'go' with data version: 'releases/2023-06-30'
+! Generated on 2023-07-08T19:00Z from the ontology 'go' with data version: 'releases/2023-07-08'
 !
 RESID:AA0022 > GO:selenocysteine incorporation ; GO:0001514
 RESID:AA0025 > GO:peptide cross-linking via L-cystine ; GO:0018316
@@ -15,7 +15,7 @@ RESID:AA0036 > GO:peptidyl-histidine phosphorylation ; GO:0018106
 RESID:AA0037 > GO:peptidyl-serine phosphorylation ; GO:0018105
 RESID:AA0038 > GO:peptidyl-threonine phosphorylation ; GO:0018107
 RESID:AA0039 > GO:peptidyl-tyrosine phosphorylation ; GO:0018108
-RESID:AA0040 > GO:peptidyl-diphthamide biosynthetic process from peptidyl-histidine ; GO:0017183
+RESID:AA0040 > GO:protein histidyl modification to diphthamide ; GO:0017183
 RESID:AA0041 > GO:N-terminal peptidyl-alanine acetylation ; GO:0017189
 RESID:AA0042 > GO:N-terminal peptidyl-aspartic acid acetylation ; GO:0017190
 RESID:AA0043 > GO:N-terminal peptidyl-cysteine acetylation ; GO:0018275

@@ -1,4 +1,4 @@
-! Generated on 2023-06-30T19:00Z from the ontology 'go' with data version: 'releases/2023-06-30'
+! Generated on 2023-07-08T19:00Z from the ontology 'go' with data version: 'releases/2023-07-08'
 !
 EC:1.-.-.- > GO:oxidoreductase activity ; GO:0016491
 EC:1.1.-.- > GO:oxidoreductase activity, acting on CH-OH group of donors ; GO:0016614
@@ -1739,7 +1739,6 @@ EC:2.1.1.152 > GO:precorrin-6A synthase (deacetylating) activity ; GO:0043819
 EC:2.1.1.153 > GO:vitexin 2''-O-rhamnoside 7-O-methyltransferase activity ; GO:0033801
 EC:2.1.1.154 > GO:isoliquiritigenin 2'-O-methyltransferase activity ; GO:0033802
 EC:2.1.1.155 > GO:kaempferol 4'-O-methyltransferase activity ; GO:0033803
-EC:2.1.1.156 > GO:glycine N-methyltransferase activity ; GO:0017174
 EC:2.1.1.156 > GO:sarcosine N-methyltransferase activity ; GO:0052730
 EC:2.1.1.157 > GO:dimethylglycine N-methyltransferase activity ; GO:0052729
 EC:2.1.1.157 > GO:sarcosine N-methyltransferase activity ; GO:0052730
@@ -1747,7 +1746,6 @@ EC:2.1.1.16 > GO:methylene-fatty-acyl-phospholipid synthase activity ; GO:000448
 EC:2.1.1.160 > GO:theobromine:S-adenosyl-L-methionine 1-N-methyltransferase activity ; GO:0102740
 EC:2.1.1.160 > GO:paraxanthine:S-adenosyl-L-methionine 3-N-methyltransferase activity ; GO:0102741
 EC:2.1.1.161 > GO:dimethylglycine N-methyltransferase activity ; GO:0052729
-EC:2.1.1.162 > GO:glycine N-methyltransferase activity ; GO:0017174
 EC:2.1.1.162 > GO:dimethylglycine N-methyltransferase activity ; GO:0052729
 EC:2.1.1.162 > GO:sarcosine N-methyltransferase activity ; GO:0052730
 EC:2.1.1.163 > GO:demethylmenaquinone methyltransferase activity ; GO:0043770
@@ -3311,9 +3309,6 @@ EC:3.1.2.10 > GO:formyl-CoA hydrolase activity ; GO:0047901
 EC:3.1.2.11 > GO:acetoacetyl-CoA hydrolase activity ; GO:0047603
 EC:3.1.2.12 > GO:S-formylglutathione hydrolase activity ; GO:0018738
 EC:3.1.2.13 > GO:S-succinylglutathione hydrolase activity ; GO:0050273
-EC:3.1.2.14 > GO:oleoyl-[acyl-carrier-protein] hydrolase activity ; GO:0004320
-EC:3.1.2.14 > GO:myristoyl-[acyl-carrier-protein] hydrolase activity ; GO:0016295
-EC:3.1.2.14 > GO:palmitoyl-[acyl-carrier-protein] hydrolase activity ; GO:0016296
 EC:3.1.2.14 > GO:acyl-[acyl-carrier-protein] hydrolase activity ; GO:0016297
 EC:3.1.2.16 > GO:[citrate-(pro-3S)-lyase] thiolesterase activity ; GO:0047778
 EC:3.1.2.17 > GO:(S)-methylmalonyl-CoA hydrolase activity ; GO:0047511
@@ -3802,7 +3797,7 @@ EC:3.4.17.4 > GO:metallocarboxypeptidase activity ; GO:0004181
 EC:3.4.17.6 > GO:metallocarboxypeptidase activity ; GO:0004181
 EC:3.4.18.- > GO:cysteine-type carboxypeptidase activity ; GO:0016807
 EC:3.4.19.- > GO:omega peptidase activity ; GO:0008242
-EC:3.4.19.1 > GO:serine-type endopeptidase activity ; GO:0004252
+EC:3.4.19.1 > GO:omega peptidase activity ; GO:0008242
 EC:3.4.19.12 > GO:cysteine-type deubiquitinase activity ; GO:0004843
 EC:3.4.19.13 > GO:glutathione hydrolase activity ; GO:0036374
 EC:3.4.19.14 > GO:leukotriene-C(4) hydrolase ; GO:0002951
@@ -3892,8 +3887,8 @@ EC:3.4.24.21 > GO:metalloendopeptidase activity ; GO:0004222
 EC:3.4.24.22 > GO:metalloendopeptidase activity ; GO:0004222
 EC:3.4.24.23 > GO:metalloendopeptidase activity ; GO:0004222
 EC:3.4.24.24 > GO:metalloendopeptidase activity ; GO:0004222
-EC:3.4.24.3 > GO:serine-type endopeptidase activity ; GO:0004252
-EC:3.4.24.34 > GO:serine-type endopeptidase activity ; GO:0004252
+EC:3.4.24.3 > GO:metalloendopeptidase activity ; GO:0004222
+EC:3.4.24.34 > GO:metalloendopeptidase activity ; GO:0004222
 EC:3.4.24.35 > GO:metalloendopeptidase activity ; GO:0004222
 EC:3.4.24.37 > GO:metalloendopeptidase activity ; GO:0004222
 EC:3.4.24.55 > GO:metalloendopeptidase activity ; GO:0004222
@@ -3903,7 +3898,7 @@ EC:3.4.24.59 > GO:metalloendopeptidase activity ; GO:0004222
 EC:3.4.24.61 > GO:metalloendopeptidase activity ; GO:0004222
 EC:3.4.24.64 > GO:metalloendopeptidase activity ; GO:0004222
 EC:3.4.24.69 > GO:metalloendopeptidase activity ; GO:0004222
-EC:3.4.24.7 > GO:serine-type endopeptidase activity ; GO:0004252
+EC:3.4.24.7 > GO:metalloendopeptidase activity ; GO:0004222
 EC:3.4.24.70 > GO:metalloendopeptidase activity ; GO:0004222
 EC:3.4.24.71 > GO:metalloendopeptidase activity ; GO:0004222
 EC:3.4.24.72 > GO:metalloendopeptidase activity ; GO:0004222
@@ -4426,6 +4421,7 @@ EC:4.2.1.128 > GO:lupan-3beta,20-diol synthase activity ; GO:0102245
 EC:4.2.1.130 > GO:glyoxalase III activity ; GO:0019172
 EC:4.2.1.132 > GO:2-hydroxyhexa-2,4-dienoate hydratase activity ; GO:0034856
 EC:4.2.1.133 > GO:copal-8-ol diphosphate synthase activity ; GO:0102161
+EC:4.2.1.134 > GO:very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase activity ; GO:0102158
 EC:4.2.1.136 > GO:ADP-dependent NAD(P)H-hydrate dehydratase activity ; GO:0052855
 EC:4.2.1.139 > GO:pterocarpan synthase activity ; GO:0140859
 EC:4.2.1.143 > GO:versicolorin B synthase activity ; GO:0046572

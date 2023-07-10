@@ -1,4 +1,4 @@
-! Generated on 2023-06-30T19:00Z from the ontology 'go' with data version: 'releases/2023-06-30'
+! Generated on 2023-07-08T19:00Z from the ontology 'go' with data version: 'releases/2023-07-08'
 !
 MetaCyc:+-BORNEOL-DEHYDROGENASE-RXN > GO:(+)-borneol dehydrogenase activity ; GO:0047500
 MetaCyc:+-NEOMENTHOL-DEHYDROGENASE-RXN > GO:(+)-neomenthol dehydrogenase activity ; GO:0047501
@@ -3670,7 +3670,6 @@ MetaCyc:PWY-5129 > GO:sphingolipid biosynthetic process ; GO:0030148
 MetaCyc:PWY-5136 > GO:fatty acid beta-oxidation using acyl-CoA oxidase ; GO:0033540
 MetaCyc:PWY-5137 > GO:fatty acid beta-oxidation, unsaturated, odd number ; GO:0033541
 MetaCyc:PWY-5138 > GO:fatty acid beta-oxidation, unsaturated, even number ; GO:0033542
-MetaCyc:PWY-5142 > GO:oleoyl-[acyl-carrier-protein] hydrolase activity ; GO:0004320
 MetaCyc:PWY-5143 > GO:long-chain fatty acid-CoA ligase activity ; GO:0004467
 MetaCyc:PWY-5148 > GO:palmitoyl-CoA hydrolase activity ; GO:0016290
 MetaCyc:PWY-5153 > GO:delphinidin 3-O-glucoside biosynthetic process ; GO:0033486
@@ -4167,6 +4166,7 @@ MetaCyc:RXN-11705 > GO:2,5-DHBA UDP-glucosyltransferase activity ; GO:0102156
 MetaCyc:RXN-11729 > GO:(R)-sulfopropanediol 2-dehydrogenase activity ; GO:0102157
 MetaCyc:RXN-11731 > GO:aliphatic (S)-hydroxynitrile lyase activity ; GO:0052891
 MetaCyc:RXN-11732 > GO:aromatic (S)-hydroxynitrile lyase activity ; GO:0052892
+MetaCyc:RXN-11750 > GO:very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase activity ; GO:0102158
 MetaCyc:RXN-11755 > GO:baicalein 7-O-glucuronosyltransferase activity ; GO:0102159
 MetaCyc:RXN-11756 > GO:cyanidin-3-O-glucoside 2-O-glucuronosyltransferase activity ; GO:0102160
 MetaCyc:RXN-11760 > GO:baicalin beta-D-glucuronidase activity ; GO:0052748

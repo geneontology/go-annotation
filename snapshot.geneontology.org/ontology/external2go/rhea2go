@@ -1,4 +1,4 @@
-! Generated on 2023-06-30T19:00Z from the ontology 'go' with data version: 'releases/2023-06-30'
+! Generated on 2023-07-08T19:00Z from the ontology 'go' with data version: 'releases/2023-07-08'
 !
 RHEA:10000 > GO:pentanamidase activity ; GO:0050168
 RHEA:10004 > GO:thiocyanate isomerase activity ; GO:0050335
@@ -3441,7 +3441,6 @@ RHEA:30079 > GO:crotonobetaine-CoA ligase activity ; GO:0051109
 RHEA:30099 > GO:1,4-dihydroxy-2-naphthoate octaprenyltransferase activity ; GO:0046428
 RHEA:30119 > GO:dodecanoyl-[acyl-carrier-protein] hydrolase activity ; GO:0047381
 RHEA:30123 > GO:myristoyl-[acyl-carrier-protein] hydrolase activity ; GO:0016295
-RHEA:30131 > GO:acyl-[acyl-carrier-protein] hydrolase activity ; GO:0016297
 RHEA:30187 > GO:dihydroorotate dehydrogenase (quinone) activity ; GO:0106430
 RHEA:30199 > GO:benzoyl-CoA reductase activity ; GO:0018522
 RHEA:30207 > GO:methylamine dehydrogenase (amicyanin) activity ; GO:0052876
@@ -3994,6 +3993,7 @@ RHEA:45584 > GO:crotonyl-CoA hydratase activity ; GO:0120092
 RHEA:45588 > GO:long-chain fatty acid [acyl-carrier-protein] ligase activity ; GO:0008922
 RHEA:45704 > GO:sinapyl alcohol dehydrogenase activity ; GO:0052747
 RHEA:45776 > GO:indole-3-acetonitrile nitrilase activity ; GO:0080061
+RHEA:45812 > GO:very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase activity ; GO:0102158
 RHEA:45824 > GO:serine decarboxylase activity ; GO:0102705
 RHEA:45900 > GO:delta(3)-delta(2)-enoyl-CoA isomerase activity ; GO:0004165
 RHEA:45948 > GO:peptide-lysine-N-acetyltransferase activity ; GO:0061733
