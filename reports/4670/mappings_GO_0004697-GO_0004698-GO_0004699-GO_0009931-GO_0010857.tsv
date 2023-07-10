@@ -1,0 +1,58 @@
+term	file	line
+GO:0004697	pirsf2go	PIRSF:PIRSF000550 PKC_alpha > GO:protein kinase C activity ; GO:0004697
+GO:0004697	pirsf2go	PIRSF:PIRSF000551 PKC_delta > GO:protein kinase C activity ; GO:0004697
+GO:0004697	pirsf2go	PIRSF:PIRSF501104 Protein_kin_C_delta > GO:protein kinase C activity ; GO:0004697
+GO:0004697	pirsf2go	PIRSF:PIRSF501105 Protein_kin_C_theta > GO:protein kinase C activity ; GO:0004697
+GO:0004697	pirsf2go	PIRSF:PIRSF501107 Protein_kin_C_eta > GO:protein kinase C activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR014375 Protein kinase C, alpha/beta/gamma types > GO:protein kinase C activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR014376 Protein kinase C, delta/epsilon/eta/theta types > GO:protein kinase C activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR027264 Protein kinase C, theta > GO:protein kinase C activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR027431 Protein kinase C, eta > GO:protein kinase C activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR027436 Protein kinase C, delta > GO:protein kinase C activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR034661 Atypical protein kinase C iota type, catalytic domain > GO:protein kinase C activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR034663 Classical Protein Kinase C alpha, catalytic domain > GO:protein kinase C activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR034664 Classical protein kinase C beta, catalytic domain > GO:protein kinase C activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR034665 Novel protein kinase C eta, catalytic domain > GO:protein kinase C activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR034667 Novel protein kinase C delta, catalytic domain > GO:protein kinase C activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR034668 Novel protein kinase C theta, catalytic domain > GO:protein kinase C activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR034669 Novel protein kinase C epsilon, catalytic domain > GO:protein kinase C activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR037312 Protein kinase C-like, HR1 domain > GO:protein kinase C activity ; GO:0004697
+GO:0004697	ec2go	EC:2.7.11.13 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	metacyc2go	MetaCyc:2.7.11.13-RXN > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-1433508 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-193703 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-198314 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-2179413 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-2730863 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-374664 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-429698 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-450533 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-450550 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-5138432 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-5218805 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-5218823 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-5229194 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-5623667 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-5625784 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-5671749 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-74615 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-751040 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-8932284 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-8934446 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-9010681 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-9021357 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-909552 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-927889 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-9626817 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-9632858 > GO:protein kinase C activity ; GO:0004697
+GO:0004697	unirule2go	UniRule:UR000130793 > GO:protein kinase C activity ; GO:0004697
+GO:0004698	ec2go	EC:2.7.11.13 > GO:calcium-dependent protein kinase C activity ; GO:0004698
+GO:0004698	reactome2go	Reactome:R-HSA-114683 > GO:calcium-dependent protein kinase C activity ; GO:0004698
+GO:0004698	reactome2go	Reactome:R-HSA-114684 > GO:calcium-dependent protein kinase C activity ; GO:0004698
+GO:0004698	reactome2go	Reactome:R-HSA-416639 > GO:calcium-dependent protein kinase C activity ; GO:0004698
+GO:0004698	reactome2go	Reactome:R-HSA-421007 > GO:calcium-dependent protein kinase C activity ; GO:0004698
+GO:0004699	pirsf2go	PIRSF:PIRSF501106 Protein_kin_C_epsilon > GO:calcium-independent protein kinase C activity ; GO:0004699
+GO:0004699	interpro2go	InterPro:IPR027274 Protein kinase C, epsilon > GO:calcium-independent protein kinase C activity ; GO:0004699
+GO:0004699	reactome2go	Reactome:R-HSA-5607740 > GO:calcium-independent protein kinase C activity ; GO:0004699
+GO:0010857	reactome2go	Reactome:R-HSA-8986937 > GO:calcium-dependent protein kinase activity ; GO:0010857
+GO:0010857	reactome2go	Reactome:R-HSA-9005561 > GO:calcium-dependent protein kinase activity ; GO:0010857
