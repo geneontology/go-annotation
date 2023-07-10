@@ -405,19 +405,19 @@ go-annotation-summary | text | 1 | go-annotation-summary=Sterol binding protein 
 
 ## GPI columns
 
-| Column | | Grammar | Example | Comments |
-| ------ | ------ | ------ | ------ | ------ |
-| 1 | <code><a name="DB_Object_ID">DB_Object_ID</a></code> | <code>[ID](#ID)</code>| UniProtKB:Q4VCS5 | |
-| 2 | <code><a name="DB_Object_Symbol">DB_Object_Symbol</a></code> | <code>TODO</code>| AMOT | |
-| 3 | <code><a name="DB_Object_Name">DB_Object_Name</a></code> | <code>[Label](#Label)</code>| Angiomotin | CHECK |
-| 4 | <code><a name="DB_Object_Synonyms">DB_Object_Synonyms</a></code> | <code>([Label](#Label) ( '\|' [Label](#Label) )* )?</code>| AMOT\|KIAA1071 | |
-| 5 | <code><a name="DB_Object_Type">DB_Object_Type</a></code> | <code>[ID](#ID) ( '\|' [ID](#ID) )*</code>| PR:000000001 | Sequence Ontology OR Protein Ontology OR Gene Ontology |
-| 6 | <code><a name="DB_Object_Taxon">DB_Object_Taxon</a></code> | <code>[ID](#ID)</code>| NCBITaxon:9606 | |
-| 7 | <code><a name="Encoded_By">Encoded_By</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| HGNC:17810 | For proteins and transcripts, this refers to the gene id that encodes those entities. |
-| 8 | <code><a name="Parent_Protein">Parent_Protein</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| | When column 1 refers to a protein isoform or modified protein, this column refers to the gene-centric reference protein accession of the column 1 entry. |
-| 9 | <code><a name="Protein_Containing_Complex_Members">Protein_Containing_Complex_Members</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| UniProtKB:Q15021|UniProtKB:Q15003 | |
-| 10 | <code><a name="DB_Xrefs">DB_Xrefs</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| HGNC:17810 | See below for required DB xref values |
-| 11 | <code><a name="Gene_Product_Properties">Gene_Product_Properties</a></code> | <code>( [Property_Value_Pair](#Property_Value_Pair) ( '\|' [Property_Value_Pair](#Property_Value_Pair) )* )?</code>| db-subset=Swiss-Prot | Properties used MUST come from the list in [GPI gene product properties](#gpi-gene-product-properties) |
+| Column | | Grammar | Example | Comments | Observed characters |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| 1 | <code><a name="DB_Object_ID">DB_Object_ID</a></code> | <code>[ID](#ID)</code>| UniProtKB:Q4VCS5 | | |
+| 2 | <code><a name="DB_Object_Symbol">DB_Object_Symbol</a></code> | <code>TODO</code>| AMOT | | [Alpha_Char](#Alpha_Char) [Digit](#Digit) [Space](#Space) `#&'()*+,-./:;<>?[\]_\|`  |
+| 3 | <code><a name="DB_Object_Name">DB_Object_Name</a></code> | <code>[Label](#Label)</code>| Angiomotin | CHECK | [Alpha_Char](#Alpha_Char) [Digit](#Digit) [Space](#Space) ``#%&'()*+,-./:;<=>?@[\]_`ä\|`` |
+| 4 | <code><a name="DB_Object_Synonyms">DB_Object_Synonyms</a></code> | <code>([Label](#Label) ( '\|' [Label](#Label) )* )?</code>| AMOT\|KIAA1071 | | [Alpha_Char](#Alpha_Char) [Digit](#Digit) [Space](#Space) `"#%&'()*+,-./:;<=>?@[]_àäéö~βγδ–` |
+| 5 | <code><a name="DB_Object_Type">DB_Object_Type</a></code> | <code>[ID](#ID) ( '\|' [ID](#ID) )*</code>| PR:000000001 | Sequence Ontology OR Protein Ontology OR Gene Ontology | |
+| 6 | <code><a name="DB_Object_Taxon">DB_Object_Taxon</a></code> | <code>[ID](#ID)</code>| NCBITaxon:9606 | | |
+| 7 | <code><a name="Encoded_By">Encoded_By</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| HGNC:17810 | For proteins and transcripts, this refers to the gene id that encodes those entities. | |
+| 8 | <code><a name="Parent_Protein">Parent_Protein</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| | When column 1 refers to a protein isoform or modified protein, this column refers to the gene-centric reference protein accession of the column 1 entry. | |
+| 9 | <code><a name="Protein_Containing_Complex_Members">Protein_Containing_Complex_Members</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| UniProtKB:Q15021|UniProtKB:Q15003 | | |
+| 10 | <code><a name="DB_Xrefs">DB_Xrefs</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| HGNC:17810 | See below for required DB xref values | |
+| 11 | <code><a name="Gene_Product_Properties">Gene_Product_Properties</a></code> | <code>( [Property_Value_Pair](#Property_Value_Pair) ( '\|' [Property_Value_Pair](#Property_Value_Pair) )* )?</code>| db-subset=Swiss-Prot | Properties used MUST come from the list in [GPI gene product properties](#gpi-gene-product-properties) | |
 
 ## Values
 
