@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:104518	Cntn2	PMID:18650339		GO:0010769	regulation of cell morphogenesis involved in differentiation	IMP	MGI:MGI:2181052		PANTHER:PTHR44170	20101217	GO:0000904	NCBITaxon:10090
