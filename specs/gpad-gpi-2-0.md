@@ -392,8 +392,8 @@ go-annotation-summary | text | 1 | go-annotation-summary=Sterol binding protein 
 | ------ | ------ | ------ | ------ | ------ |
 | 1 | <code><a name="DB_Object_ID">DB_Object_ID</a></code> | <code>[ID](#ID)</code>| UniProtKB:P11678 | |
 | 2 | <code><a name="Negation">Negation</a></code> | <code>'NOT'?</code>| NOT | |
-| 3 | <code><a name="Relation">Relation</a></code> | <code>[Relation_ID](#Relation_ID)</code>| RO:0002263 | |
-| 4 | <code><a name="Ontology_Class_ID">Ontology_Class_ID</a></code> | <code>TODO</code>| GO:0050803 | |
+| 3 | <code><a name="Relation">Relation</a></code> | <code>[ID](#ID)</code>| RO:0002263 | |
+| 4 | <code><a name="Ontology_Class_ID">Ontology_Class_ID</a></code> | <code>[ID](#ID)</code>| GO:0050803 | |
 | 5 | <code><a name="Reference">Reference</a></code> | <code>[ID](#ID) ( '\|' [ID](#ID) )*</code>| PMID:30695063 | Different IDs, e.g. PMID and MOD paper ID, must correspond to the same publication or reference |
 | 6 | <code><a name="Evidence_Type">Evidence_Type</a></code> | <code>[ID](#ID)</code>| ECO:0000315 | Mapping file in progress: https://github.com/evidenceontology/evidenceontology#249 |
 | 7 | <code><a name="With_Or_From">With_Or_From</a></code> | <code>( [ID](#ID) ( [\|,] [ID](#ID) )* )?</code>| WB:WBVar00000510 | Pipe-separated entries represent independent evidence; comma-separated entries represent grouped evidence, e.g. two of three genes in a triply mutant organism |
@@ -409,7 +409,7 @@ go-annotation-summary | text | 1 | go-annotation-summary=Sterol binding protein 
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | 1 | <code><a name="DB_Object_ID">DB_Object_ID</a></code> | <code>[ID](#ID)</code>| UniProtKB:Q4VCS5 | | |
 | 2 | <code><a name="DB_Object_Symbol">DB_Object_Symbol</a></code> | <code>TODO</code>| AMOT | | [Alpha_Char](#Alpha_Char) [Digit](#Digit) [Space](#Space) `#&'()*+,-./:;<>?[\]_\|`  |
-| 3 | <code><a name="DB_Object_Name">DB_Object_Name</a></code> | <code>[Label](#Label)</code>| Angiomotin | CHECK | [Alpha_Char](#Alpha_Char) [Digit](#Digit) [Space](#Space) ``#%&'()*+,-./:;<=>?@[\]_`ä\|`` |
+| 3 | <code><a name="DB_Object_Name">DB_Object_Name</a></code> | <code>[Text](#Text)</code>| Angiomotin | CHECK | [Alpha_Char](#Alpha_Char) [Digit](#Digit) [Space](#Space) ``#%&'()*+,-./:;<=>?@[\]_`ä\|`` |
 | 4 | <code><a name="DB_Object_Synonyms">DB_Object_Synonyms</a></code> | <code>([Label](#Label) ( '\|' [Label](#Label) )* )?</code>| AMOT\|KIAA1071 | | [Alpha_Char](#Alpha_Char) [Digit](#Digit) [Space](#Space) `"#%&'()*+,-./:;<=>?@[]_àäéö~βγδ–` |
 | 5 | <code><a name="DB_Object_Type">DB_Object_Type</a></code> | <code>[ID](#ID) ( '\|' [ID](#ID) )*</code>| PR:000000001 | Sequence Ontology OR Protein Ontology OR Gene Ontology | |
 | 6 | <code><a name="DB_Object_Taxon">DB_Object_Taxon</a></code> | <code>[ID](#ID)</code>| NCBITaxon:9606 | | |
@@ -426,18 +426,17 @@ go-annotation-summary | text | 1 | go-annotation-summary=Sterol binding protein 
 | <code><a name="Header_Line">Header_Line</a></code> | <code>( [Tag_Value_Header](#Tag_Value_Header) \| [Unstructured_Value_Header](#Unstructured_Value_Header) ) \n</code>| |
 | <code><a name="Tag_Value_Header">Tag_Value_Header</a></code> | <code>'!' [Property](#Property) ':' [Space](#Space)* [Header_Value](#Header_Value)</code>| |
 | <code><a name="Unstructured_Value_Header">Unstructured_Value_Header</a></code> | <code>'!!' [Header_Value](#Header_Value)</code>| |
-| <code><a name="Header_Value">Header_Value</a></code> | <code>TODO</code>| |
+| <code><a name="Header_Value">Header_Value</a></code> | <code>[Text](#Text)</code>| |
 | <code><a name="Extension_Conj">Extension_Conj</a></code> | <code>[Relational_Expression](#Relational_Expression) ( ',' [Relational_Expression](Relational_Expression) )*</code>| |
 | <code><a name="Relational_Expression">Relational_Expression</a></code> | <code>[Relation_ID](#Relation_ID) '(' [ID](#ID) ')'</code>| |
 | <code><a name="Relation_ID">Relation_ID</a></code> | <code>[ID](#ID)</code>| |
 | <code><a name="Property_Value_Pair">Property_Value_Pair</a></code> | <code>[Property](#Property) '=' [Property_Value](#Property_Value)</code>| |
 | <code><a name="Property">Property</a></code> | <code>([Alpha_Char](#Alpha_Char) \| [Digit](#Digit) \| '-')+</code>| |
-| <code><a name="Property_Value">Property_Value</a></code> | <code>TODO</code>| |
+| <code><a name="Property_Value">Property_Value</a></code> | <code>[Text](#Text)</code>| |
 | <code><a name="ID">ID</a></code> | <code>[Prefix](#Prefix) ':' [Local_ID](#Local_ID)</code>| |
 | <code><a name="Prefix">Prefix</a></code> | <code>[Alpha_Char](#Alpha_Char) [ID_Char](#ID_Char)*</code>| |
 | <code><a name="Local_ID">Local_ID</a></code> | <code>( [ID_Char](#ID_Char) \| ':' )+</code>| |
-| <code><a name="ID_Char">ID_Char</a></code> | <code>[Alpha_Char](#Alpha_Char) \| [Digit](#Digit) \| '_' \| '-' \| '.'</code>| TODO - Do we need any of <code>~ ! $ & ' ( ) * + , ; = < > / ? # @ % [ ] ^ \| { } `</code> (possibly escaped?) |
-| <code><a name="Label">Label</a></code> | <code>TODO</code>| |
+| <code><a name="ID_Char">ID_Char</a></code> | <code>[Alpha_Char](#Alpha_Char) \| [Digit](#Digit) \| '_' \| '-' \| '.'</code>| |
 | <code><a name="Date">Date</a></code> | <code>YYYY-MM-DD</code>| Corresponds to [xsd:date](https://www.w3.org/TR/xmlschema-2/#date) without optional timezone |
 | <code><a name="Date_Time">Date_Time</a></code> | <code>YYYY-MM-DDTHH:MM:SS('.' s+)?((('+' \| '-') hh ':' mm) \| 'Z')?</code>| Corresponds to [xsd:dateTime](https://www.w3.org/TR/xmlschema-2/#dateTime) |
 | <code><a name="Text">Text</a></code> | <code>[Alpha_Char](#Alpha_Char) \| [Digit](#Digit) \| [Symbol_Char](#Symbol_Char) \| [Space](#Space)</code>| |
