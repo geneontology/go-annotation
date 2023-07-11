@@ -55,7 +55,7 @@ GPI and GPAD documents consist of sequences of ASCII characters.
 | 2 | <code><a name="DB_Object_Symbol">DB_Object_Symbol</a></code> | <code>[Text_No_Spaces](#Text_No_Spaces)</code>| AMOT | | [Alpha_Char](#Alpha_Char) [Digit](#Digit) [Space](#Space) `#&'()*+,-./:;<>?[\]_\|`  |
 | 3 | <code><a name="DB_Object_Name">DB_Object_Name</a></code> | <code>[Text](#Text)</code>| Angiomotin | CHECK | [Alpha_Char](#Alpha_Char) [Digit](#Digit) [Space](#Space) ``#%&'()*+,-./:;<=>?@[\]_`ä\|`` |
 | 4 | <code><a name="DB_Object_Synonyms">DB_Object_Synonyms</a></code> | <code>([Text](#Text) ( '\|' [Text](#Text) )* )?</code>| AMOT\|KIAA1071 | | [Alpha_Char](#Alpha_Char) [Digit](#Digit) [Space](#Space) `"#%&'()*+,-./:;<=>?@[]_àäéö~βγδ–` |
-| 5 | <code><a name="DB_Object_Type">DB_Object_Type</a></code> | <code>[ID](#ID) ( '\|' [ID](#ID) )*</code>| PR:000000001 | Sequence Ontology OR Protein Ontology OR Gene Ontology | |
+| 5 | <code><a name="DB_Object_Type">DB_Object_Type</a></code> | <code>[ID](#ID) ( '\|' [ID](#ID) )*</code>| PR:000000001 | Identifier used MUST conform to the list in [GPI entity types](#gpi-entity-types) | |
 | 6 | <code><a name="DB_Object_Taxon">DB_Object_Taxon</a></code> | <code>[ID](#ID)</code>| NCBITaxon:9606 | The taxon MUST be a term from the NCBITaxon ontology | |
 | 7 | <code><a name="Encoded_By">Encoded_By</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| HGNC:17810 | For proteins and transcripts, this refers to the gene id that encodes those entities. | |
 | 8 | <code><a name="Parent_Protein">Parent_Protein</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| | When column 1 refers to a protein isoform or modified protein, this column refers to the gene-centric reference protein accession of the column 1 entry. | |
@@ -73,7 +73,7 @@ GPI and GPAD documents consist of sequences of ASCII characters.
 | <code><a name="Header_Value">Header_Value</a></code> | <code>[Text](#Text)</code>| |
 | <code><a name="Extension_Conj">Extension_Conj</a></code> | <code>[Relational_Expression](#Relational_Expression) ( ',' [Relational_Expression](Relational_Expression) )*</code>| |
 | <code><a name="Relational_Expression">Relational_Expression</a></code> | <code>[Relation_ID](#Relation_ID) '(' [Target_ID](#Target_ID) ')'</code>| |
-| <code><a name="Relation_ID">Relation_ID</a></code> | <code>[ID](#ID)</code>| |
+| <code><a name="Relation_ID">Relation_ID</a></code> | <code>[ID](#ID)</code>| The identifier MUST be a term in the OBO relations ontology |
 | <code><a name="Target_ID">Target_ID</a></code> | <code>[ID](#ID)</code>| |
 | <code><a name="Property_Value_Pair">Property_Value_Pair</a></code> | <code>[Property](#Property) '=' [Property_Value](#Property_Value)</code>| |
 | <code><a name="Property">Property</a></code> | <code>([Alpha_Char](#Alpha_Char) \| [Digit](#Digit) \| '-')+</code>| |
@@ -90,13 +90,12 @@ GPI and GPAD documents consist of sequences of ASCII characters.
 | <code><a name="Text_Char">Text_Char</a></code> | <code>[Alpha_Char](#Alpha_Char) \| [Digit](#Digit) \| [Symbol_Char](#Symbol_Char) \| [Space](#Space)</code>| |
 | <code><a name="Alpha_Char">Alpha_Char</a></code> | <code>[A-Z] \| [a-z]</code>| |
 | <code><a name="Digit">Digit</a></code> | <code>[0-9]</code>| |
-| <code><a name="Symbol_Char">Symbol_Char</a></code> | <code>'!' \| '"' \| '#' \| '$' \| '%' \| '&' \| ''' \| '(' \| ')' \| '*' \| '+' \| ',' \| '-' \| '.' \| '/' \| ':' \| ';' \| '<' \| '=' \| '>' \| '?' \| '@' \| '[' \| '\\' \| ']' \| '^' \| '_' \| '`' \| '{' \| '}' \| '~'</code>| |
+| <code><a name="Symbol_Char">Symbol_Char</a></code> | <code>'!' \| '"' \| '#' \| '$' \| '%' \| '&' \| ''' \| '(' \| ')' \| '*' \| '+' \| ',' \| '-' \| '.' \| '/' \| ':' \| ';' \| '<' \| '=' \| '>' \| '?' \| '@' \| '[' \| '\\' \| ']' \| '^' \| '_' \| '`' \| '{' \| '}' \| '~'</code>| ASCII symbols minus `\|` |
 | <code><a name="Space">Space</a></code> | <code>' '</code>| |
 
 ### Allowed Gene Product to GO Term Relations
 
-#### Default usage is indicated for MF and CC.  Groups may choose which relation to use for BP annotations according to their curation practice.  'acts upstream of or within' is the parent Relations Ontology term for the BP relations listed below.  A full view of the BP relation hierarchy can be found at http://www.ontobee.org/ or https://www.ebi.ac.uk/ols/index. Note: the RO term labels and IDs listed below are current as of 2020-06-09.  However, to ensure accurate use of RO, groups should always derive mappings between RO term labels and IDs from the RO source file available here: https://github.com/oborel/obo-relations
-
+Default usage is indicated for MF and CC.  Groups may choose which relation to use for BP annotations according to their curation practice.  'acts upstream of or within' is the parent Relations Ontology term for the BP relations listed below.  A full view of the BP relation hierarchy can be found at http://www.ontobee.org/ or https://www.ebi.ac.uk/ols/index. Note: the RO term labels and IDs listed below are current as of 2020-06-09.  However, to ensure accurate use of RO, groups should always derive mappings between RO term labels and IDs from the RO source file available here: https://github.com/oborel/obo-relations
 
 GO Aspect 	| Relations Ontology Label  | Relations Ontology ID | Usage Guidelines
 -----------|---------------------------|----------------------| ------------------ |
@@ -115,22 +114,24 @@ Cellular Component | is active in | RO:0002432 | Used to indicate where a gene p
 Cellular Component | colocalizes with | RO:0002325 |
 
 ### GPAD Annotation Properties
+
 All properties are single valued as shown.
 
-Annotation_Property_Symbol | Property must be unique | Property_Value | Example | Semantics 
+Annotation_Property_Symbol | Property must be unique | Property_Value | Example | Comment 
 ---------------------------|----------------|------------ | ------- | --------- |
- id | True | unique database identifier | id=WBOA:3219 | Unique identifier for an annotation in a contributing database. |
- model-state | True | GO-CAM model state | model-state=production |
- noctua-model-id | True | unique GO-CAM model id | noctua-model-id=gomodel:5a7e68a100001078 |
- contributor-id | False | ORCID | contributor-id=https://orcid.org/0000-0002-1706-4196 | Used by GOC to indicate ORCID of curator or user who entered or changed an annotation |
- reviewer-id | False | ORCID | reviewer-id=https://orcid.org/0000-0001-7476-6306 | Used by GOC to indicate ORCID of curator or user who last reviewed an annotation |
- creation-date | True | YYYY-MM-DD | creation-date=2019-02-05 | The date on which the annotation was created. |
- modification-date | False | YYYY-MM-DD | modification-date=2019-02-06 | The date(s) on which an annotation was modified. |
- reviewed-date | False | YYYY-MM-DD | reviewed-date=2019-02-06 | The date(s) on which the annotation was reviewed. |
- comment | False | text | comment=Confirmed species by checking PMID:nnnnnnnn. | Free-text field that allows curators or users to enter notes about a specific annotation. |
+ id | True | [ID](#ID) | id=WBOA:3219 | Unique identifier for an annotation in a contributing database. |
+ model-state | True | [Alpha_Char](#Alpha_Char)+ | model-state=production | GO-CAM model state |
+ noctua-model-id | True | [ID](#ID) | noctua-model-id=gomodel:5a7e68a100001078 | unique GO-CAM model id |
+ contributor-id | False | [ID](#ID) | contributor-id=orcid:0000-0002-1706-4196 | ORCID of curator or user who entered or changed an annotation. Prefix MUST be `orcid` |
+ reviewer-id | False | [ID](#ID) | reviewer-id=orcid:0000-0001-7476-6306 | ORCID of curator or user who last reviewed an annotation. Prefix MUST be `orcid` |
+ creation-date | True | [Date_Or_Date_Time](#Date_Or_Date_Time) | creation-date=2019-02-05 | The date on which the annotation was created. |
+ modification-date | False | [Date_Or_Date_Time](#Date_Or_Date_Time) | modification-date=2019-02-06 | The date(s) on which an annotation was modified. |
+ reviewed-date | False | [Date_Or_Date_Time](#Date_Or_Date_Time) | reviewed-date=2019-02-06 | The date(s) on which the annotation was reviewed. |
+ comment | False | [Text](#Text) | comment=Confirmed species by checking PMID:nnnnnnnn. | Free-text field that allows curators or users to enter notes about a specific annotation. |
 
 ### GPI Entity Types 
-#### Entity types may be one of the following, or a more granular child term.
+
+Entity types may be one of the following, or a more granular child term.
 
 Entity Type | Ontology Label | Ontology ID 
 ---------------------------|----------------|------------ | 
@@ -143,16 +144,11 @@ protein-containing complex | protein-containing complex | GO:0032991
 marker or uncloned locus | genetic_marker | SO:0001645
 
 Other possible entity types from MGI (additional examples coming):
-
- *gene segment: SO:3000000
- 
- *pseudogene: SO:0000336
- 
- *Example: http://www.informatics.jax.org/marker/MGI:3029152
- 
- *gene: SO:0000704
- 
- *biological region: SO:0001411
+- gene segment: SO:3000000
+- pseudogene: SO:0000336
+  - Example: http://www.informatics.jax.org/marker/MGI:3029152
+- gene: SO:0000704
+- biological region: SO:0001411
 
 
 ### Required and Optional DB xrefs
