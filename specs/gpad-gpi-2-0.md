@@ -136,7 +136,7 @@ Cellular Component | colocalizes with | `RO:0002325` |
 
 All properties are single valued as shown.
 
-Annotation_Property_Symbol | Property must be unique | Value Grammar | Example | Comment 
+Property | Property must be unique | Value Grammar | Example | Comment 
 ---------------------------|----------------|------------ | ------- | --------- |
 `'id'` | True | [ID](#ID) | `id=WBOA:3219` | Unique identifier for an annotation in a contributing database. |
 `'model-state'` | True | [Alpha_Char](#Alpha_Char)+ | `model-state=production` | GO-CAM model state |
@@ -187,7 +187,7 @@ Other possible entity types from MGI (additional examples coming):
 
 ### GPI Gene Product Properties
 
-Annotation_Property_Symbol | Value Grammar | Cardinality (if used) | Example | Semantics 
+Property | Value Grammar | Cardinality (if used) | Example | Semantics 
 ---------------------------|----------------|------------ | ------- | --------- |
 `'db-subset'` | <code>'TrEMBL' \| 'Swiss-Prot'</code> | 1 | `db-subset=TrEMBL` | The status of a UniProtKB accession with respect to curator review.
 `'uniprot-proteome'` | [ID](#ID)  | 1 | `uniprot-proteome=UP000001940` | A unique UniProtKB identifier for the set of proteins that constitute an organism's proteome.
