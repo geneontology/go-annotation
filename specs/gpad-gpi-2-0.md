@@ -20,7 +20,7 @@ GPI and GPAD documents consist of sequences of ASCII characters.
 
 ### Document structure
 
-| | Grammar | Comments |
+| Production | Grammar | Comments |
 | ------ | ------ | ------ |
 | <code><a name="Doc">Doc</a></code> | <code>[GPAD_Doc](#GPAD_Doc) \| [GPI_Doc](#GPI_Doc)</code>| |
 | <code><a name="GPAD_Doc">GPAD_Doc</a></code> | <code>[GPAD_Header](#GPAD_Header) [Annotation](#Annotation)*</code>| |
@@ -51,7 +51,7 @@ Groups may decide to include optional additional information. Examples include:
 
 ### GPAD columns
 
-| Column | | Grammar | Example | Comments |
+| Column | Production | Grammar | Example | Comments |
 | ------ | ------ | ------ | ------ | ------ |
 | 1 | <code><a name="DB_Object_ID">DB_Object_ID</a></code> | <code>[ID](#ID)</code>| `UniProtKB:P11678` | |
 | 2 | <code><a name="Negation">Negation</a></code> | <code>'NOT'?</code>| `NOT` | |
@@ -68,7 +68,7 @@ Groups may decide to include optional additional information. Examples include:
 
 ### GPI columns
 
-| Column | | Grammar | Example | Comments | Observed characters |
+| Column | Production | Grammar | Example | Comments | Observed characters |
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | 1 | <code><a name="DB_Object_ID">DB_Object_ID</a></code> | <code>[ID](#ID)</code>| `UniProtKB:Q4VCS5` | | |
 | 2 | <code><a name="DB_Object_Symbol">DB_Object_Symbol</a></code> | <code>[Text_No_Spaces](#Text_No_Spaces)</code>| `AMOT` | | [Alpha_Char](#Alpha_Char) [Digit](#Digit) [Space](#Space) `#&'()*+,-./:;<>?[\]_\|`  |
@@ -84,7 +84,7 @@ Groups may decide to include optional additional information. Examples include:
 
 ### Values
 
-| | Grammar | Comments |
+| Production | Grammar | Comments |
 | ------ | ------ | ------ |
 | <code><a name="Header_Line">Header_Line</a></code> | <code>( [Tag_Value_Header](#Tag_Value_Header) \| [Unstructured_Value_Header](#Unstructured_Value_Header) ) \n</code>| |
 | <code><a name="Tag_Value_Header">Tag_Value_Header</a></code> | <code>'!' [Property](#Property) ':' [Space](#Space)* [Header_Value](#Header_Value)</code>| |
@@ -138,7 +138,7 @@ All properties are single valued as shown.
 
 Annotation_Property_Symbol | Property must be unique | Value Grammar | Example | Comment 
 ---------------------------|----------------|------------ | ------- | --------- |
-id | True | [ID](#ID) | id=WBOA:3219 | Unique identifier for an annotation in a contributing database. |
+`'id'` | True | [ID](#ID) | `id=WBOA:3219` | Unique identifier for an annotation in a contributing database. |
 `'model-state'` | True | [Alpha_Char](#Alpha_Char)+ | `model-state=production` | GO-CAM model state |
 `'noctua-model-id'` | True | [ID](#ID) | `noctua-model-id=gomodel:5a7e68a100001078` | unique GO-CAM model id |
 `'contributor-id'` | False | [ID](#ID) | `contributor-id=orcid:0000-0002-1706-4196` | ORCID of curator or user who entered or changed an annotation. Prefix MUST be `orcid` |
