@@ -1,0 +1,8 @@
+term	file	line
+GO:0001505	prints2go	PRINTS:PR01471 HISTAMINEH3R > GO:regulation of neurotransmitter levels ; GO:0001505
+GO:0001505	interpro2go	InterPro:IPR003980 Histamine H3 receptor > GO:regulation of neurotransmitter levels ; GO:0001505
+GO:0042135	pirsf2go	PIRSF:PIRSF037177 Catechol_O-mtfrase_euk > GO:neurotransmitter catabolic process ; GO:0042135
+GO:0042135	uniprotkb_kw2go	UniProtKB-KW:KW-0531 Neurotransmitter degradation > GO:neurotransmitter catabolic process ; GO:0042135
+GO:0042135	interpro2go	InterPro:IPR017128 Catechol O-methyltransferase, eukaryotic > GO:neurotransmitter catabolic process ; GO:0042135
+GO:0042135	unirule2go	UniRule:UR000639763 > GO:neurotransmitter catabolic process ; GO:0042135
+GO:0042136	uniprotkb_kw2go	UniProtKB-KW:KW-0530 Neurotransmitter biosynthesis > GO:neurotransmitter biosynthetic process ; GO:0042136
