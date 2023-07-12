@@ -30,14 +30,14 @@ GPI and GPAD documents consist of sequences of ASCII characters.
 | <code><a name="Annotation">Annotation</a></code> | <code>[DB_Object_ID](#DB_Object_ID) \t [Negation](#Negation) \t [Relation](#Relation) \t [Ontology_Class_ID](#Ontology_Class_ID) \t [Reference](#Reference) \t [Evidence_Type](#Evidence_Type) \t [With_Or_From](#With_Or_From) \t [Interacting_Taxon_ID](#Interacting_Taxon_ID) \t [Annotation_Date](#Annotation_Date) \t [Assigned_By](#Assigned_By) \t [Annotation_Extensions](#Annotation_Extensions) \t [Annotation_Properties](#Annotation_Properties) \n</code>| |
 | <code><a name="Entity">Entity</a></code> | <code>[DB_Object_ID](#DB_Object_ID) \t [DB_Object_Symbol](#DB_Object_Symbol) \t [DB_Object_Name](#DB_Object_Name) \t [DB_Object_Synonyms](#DB_Object_Synonyms) \t [DB_Object_Type](#DB_Object_Type) \t [DB_Object_Taxon](#DB_Object_Taxon) \t [Encoded_By](#Encoded_By) \t [Parent_Protein](#Parent_Protein) \t [Protein_Containing_Complex_Members](#Protein_Containing_Complex_Members) \t [DB_Xrefs](#DB_Xrefs) [Gene_Product_Properties](#Gene_Product_Properties) \n</code>| |
 
-### Required and Optional header properties
+### Header properties
 
 The list of allowed property symbols is open-ended, however two properties are required for both GPAD and GPI:
 
 Header_Property | Value Grammar | Example | Comment 
 -----------------------|---------------|-------- | ------- |
-`'generated-by'` | [Prefix](#Prefix) | `!generated-by: MGI` | Database listed in dbxrefs.yaml
-`'date-generated'` | [Date_Or_Date_Time](#Date_Or_Date_Time) | `!date-generated: 2019-01-30` |
+`'generated-by'` | <code>[Prefix](#Prefix)</code> | `!generated-by: MGI` | Database listed in dbxrefs.yaml
+`'date-generated'` | <code>[Date_Or_Date_Time](#Date_Or_Date_Time)</code> | `!date-generated: 2019-01-30` |
 
 Groups may decide to include optional additional information. Examples include:
 - URL: e.g. http://www.yeastgenome.org/
@@ -68,19 +68,19 @@ Groups may decide to include optional additional information. Examples include:
 
 ### GPI columns
 
-| Column | Production | Grammar | Example | Comments | Observed characters |
-| ------ | ------ | ------ | ------ | ------ | ------ |
-| 1 | <code><a name="DB_Object_ID">DB_Object_ID</a></code> | <code>[ID](#ID)</code>| `UniProtKB:Q4VCS5` | | |
-| 2 | <code><a name="DB_Object_Symbol">DB_Object_Symbol</a></code> | <code>[Text_No_Spaces](#Text_No_Spaces)</code>| `AMOT` | | [Alpha_Char](#Alpha_Char) [Digit](#Digit) [Space](#Space) `#&'()*+,-./:;<>?[\]_\|`  |
-| 3 | <code><a name="DB_Object_Name">DB_Object_Name</a></code> | <code>[Text](#Text)</code>| `Angiomotin` | | [Alpha_Char](#Alpha_Char) [Digit](#Digit) [Space](#Space) ``#%&'()*+,-./:;<=>?@[\]_`ä\|`` |
-| 4 | <code><a name="DB_Object_Synonyms">DB_Object_Synonyms</a></code> | <code>([Text](#Text) ( '\|' [Text](#Text) )* )?</code>| `AMOT\|KIAA1071` | | [Alpha_Char](#Alpha_Char) [Digit](#Digit) [Space](#Space) `"#%&'()*+,-./:;<=>?@[]_àäéö~βγδ–` |
-| 5 | <code><a name="DB_Object_Type">DB_Object_Type</a></code> | <code>[ID](#ID) ( '\|' [ID](#ID) )*</code>| `PR:000000001` | Identifier used MUST conform to the list in [GPI entity types](#gpi-entity-types) | |
-| 6 | <code><a name="DB_Object_Taxon">DB_Object_Taxon</a></code> | <code>[ID](#ID)</code>| `NCBITaxon:9606` | The taxon MUST be a term from the NCBITaxon ontology | |
-| 7 | <code><a name="Encoded_By">Encoded_By</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| `HGNC:17810` | For proteins and transcripts, this refers to the gene id that encodes those entities. | |
-| 8 | <code><a name="Parent_Protein">Parent_Protein</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| | When column 1 refers to a protein isoform or modified protein, this column refers to the gene-centric reference protein accession of the column 1 entry. | |
-| 9 | <code><a name="Protein_Containing_Complex_Members">Protein_Containing_Complex_Members</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| `UniProtKB:Q15021\|UniProtKB:Q15003` | | |
-| 10 | <code><a name="DB_Xrefs">DB_Xrefs</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| `HGNC:17810` | Identifiers used MUST include the [required DB xref values](#required-and-optional-db-xrefs) | |
-| 11 | <code><a name="Gene_Product_Properties">Gene_Product_Properties</a></code> | <code>( [Property_Value_Pair](#Property_Value_Pair) ( '\|' [Property_Value_Pair](#Property_Value_Pair) )* )?</code>| `db-subset=Swiss-Prot` | Properties and values MUST conform to the list in [GPI gene product properties](#gpi-gene-product-properties) | |
+| Column | Production | Grammar | Example | Comments |
+| ------ | ------ | ------ | ------ | ------ |
+| 1 | <code><a name="DB_Object_ID">DB_Object_ID</a></code> | <code>[ID](#ID)</code>| `UniProtKB:Q4VCS5` | |
+| 2 | <code><a name="DB_Object_Symbol">DB_Object_Symbol</a></code> | <code>[Text_No_Spaces](#Text_No_Spaces)</code>| `AMOT` | |
+| 3 | <code><a name="DB_Object_Name">DB_Object_Name</a></code> | <code>[Text](#Text)</code>| `Angiomotin` | |
+| 4 | <code><a name="DB_Object_Synonyms">DB_Object_Synonyms</a></code> | <code>([Text](#Text) ( '\|' [Text](#Text) )* )?</code>| `AMOT\|KIAA1071` | |
+| 5 | <code><a name="DB_Object_Type">DB_Object_Type</a></code> | <code>[ID](#ID) ( '\|' [ID](#ID) )*</code>| `PR:000000001` | Identifier used MUST conform to the list in [GPI entity types](#gpi-entity-types) |
+| 6 | <code><a name="DB_Object_Taxon">DB_Object_Taxon</a></code> | <code>[ID](#ID)</code>| `NCBITaxon:9606` | The taxon MUST be a term from the NCBITaxon ontology |
+| 7 | <code><a name="Encoded_By">Encoded_By</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| `HGNC:17810` | For proteins and transcripts, this refers to the gene id that encodes those entities. |
+| 8 | <code><a name="Parent_Protein">Parent_Protein</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| | When column 1 refers to a protein isoform or modified protein, this column refers to the gene-centric reference protein accession of the column 1 entry. |
+| 9 | <code><a name="Protein_Containing_Complex_Members">Protein_Containing_Complex_Members</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| `UniProtKB:Q15021\|UniProtKB:Q15003` | |
+| 10 | <code><a name="DB_Xrefs">DB_Xrefs</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| `HGNC:17810` | Identifiers used MUST include the [required DB xref values](#required-and-optional-db-xrefs) |
+| 11 | <code><a name="Gene_Product_Properties">Gene_Product_Properties</a></code> | <code>( [Property_Value_Pair](#Property_Value_Pair) ( '\|' [Property_Value_Pair](#Property_Value_Pair) )* )?</code>| `db-subset=Swiss-Prot` | Properties and values MUST conform to the list in [GPI gene product properties](#gpi-gene-product-properties) |
 
 ### Values
 
@@ -138,15 +138,15 @@ All properties are single valued as shown.
 
 Property | Property must be unique | Value Grammar | Example | Comment 
 ---------------------------|----------------|------------ | ------- | --------- |
-`'id'` | True | [ID](#ID) | `id=WBOA:3219` | Unique identifier for an annotation in a contributing database. |
-`'model-state'` | True | [Alpha_Char](#Alpha_Char)+ | `model-state=production` | GO-CAM model state |
-`'noctua-model-id'` | True | [ID](#ID) | `noctua-model-id=gomodel:5a7e68a100001078` | unique GO-CAM model id |
-`'contributor-id'` | False | [ID](#ID) | `contributor-id=orcid:0000-0002-1706-4196` | ORCID of curator or user who entered or changed an annotation. Prefix MUST be `orcid` |
-`'reviewer-id'` | False | [ID](#ID) | `reviewer-id=orcid:0000-0001-7476-6306` | ORCID of curator or user who last reviewed an annotation. Prefix MUST be `orcid` |
-`'creation-date'` | True | [Date_Or_Date_Time](#Date_Or_Date_Time) | `creation-date=2019-02-05` | The date on which the annotation was created. |
-`'modification-date'` | False | [Date_Or_Date_Time](#Date_Or_Date_Time) | `modification-date=2019-02-06` | The date(s) on which an annotation was modified. |
-`'reviewed-date'` | False | [Date_Or_Date_Time](#Date_Or_Date_Time) | `reviewed-date=2019-02-06` | The date(s) on which the annotation was reviewed. |
-`'comment'` | False | [Text](#Text) | `comment=Confirmed species by checking PMID:nnnnnnnn.` | Free-text field that allows curators or users to enter notes about a specific annotation. |
+`'id'` | True | <code>[ID](#ID)</code> | `id=WBOA:3219` | Unique identifier for an annotation in a contributing database. |
+`'model-state'` | True | <code>[Alpha_Char](#Alpha_Char)+</code> | `model-state=production` | GO-CAM model state |
+`'noctua-model-id'` | True | <code>[ID](#ID)</code> | `noctua-model-id=gomodel:5a7e68a100001078` | unique GO-CAM model id |
+`'contributor-id'` | False | <code>[ID](#ID)</code> | `contributor-id=orcid:0000-0002-1706-4196` | ORCID of curator or user who entered or changed an annotation. Prefix MUST be `orcid` |
+`'reviewer-id'` | False | <code>[ID](#ID)</code> | `reviewer-id=orcid:0000-0001-7476-6306` | ORCID of curator or user who last reviewed an annotation. Prefix MUST be `orcid` |
+`'creation-date'` | True | <code>[Date_Or_Date_Time](#Date_Or_Date_Time)</code> | `creation-date=2019-02-05` | The date on which the annotation was created. |
+`'modification-date'` | False | <code>[Date_Or_Date_Time](#Date_Or_Date_Time)</code> | `modification-date=2019-02-06` | The date(s) on which an annotation was modified. |
+`'reviewed-date'` | False | <code>[Date_Or_Date_Time](#Date_Or_Date_Time)</code> | `reviewed-date=2019-02-06` | The date(s) on which the annotation was reviewed. |
+`'comment'` | False | <code>[Text](#Text)</code> | `comment=Confirmed species by checking PMID:nnnnnnnn.` | Free-text field that allows curators or users to enter notes about a specific annotation. |
 
 ### GPI Entity Types 
 
@@ -190,6 +190,6 @@ Other possible entity types from MGI (additional examples coming):
 Property | Value Grammar | Cardinality (if used) | Example | Semantics 
 ---------------------------|----------------|------------ | ------- | --------- |
 `'db-subset'` | <code>'TrEMBL' \| 'Swiss-Prot'</code> | 1 | `db-subset=TrEMBL` | The status of a UniProtKB accession with respect to curator review.
-`'uniprot-proteome'` | [ID](#ID)  | 1 | `uniprot-proteome=UP000001940` | A unique UniProtKB identifier for the set of proteins that constitute an organism's proteome.
-`'go-annotation-complete'` | [Date_Or_Date_Time](#Date_Or_Date_Time) | 1 | `2019-02-05` | Indicates the date on which a curator determined that the set of GO annotations for a given entity is complete with respect to GO annotation.  Complete means that all information about a gene has been captured as a GO term, but not necessarily that all possible supporting evidence is annotated.
-`'go-annotation-summary'` | [Text](#Text) | 1 | `go-annotation-summary=Sterol binding protein with a role in intracellular sterol transport; localizes to mitochondria and the cortical ER` | A textual gene or gene product description.
+`'uniprot-proteome'` | <code>[ID](#ID)</code>  | 1 | `uniprot-proteome=UP000001940` | A unique UniProtKB identifier for the set of proteins that constitute an organism's proteome.
+`'go-annotation-complete'` | <code>[Date_Or_Date_Time](#Date_Or_Date_Time)</code> | 1 | `2019-02-05` | Indicates the date on which a curator determined that the set of GO annotations for a given entity is complete with respect to GO annotation.  Complete means that all information about a gene has been captured as a GO term, but not necessarily that all possible supporting evidence is annotated.
+`'go-annotation-summary'` | <code>[Text](#Text)</code> | 1 | `go-annotation-summary=Sterol binding protein with a role in intracellular sterol transport; localizes to mitochondria and the cortical ER` | A textual gene or gene product description.
