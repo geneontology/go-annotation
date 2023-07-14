@@ -1,4 +1,4 @@
-! Generated on 2023-07-10T18:59Z from the ontology 'go' with data version: 'releases/2023-07-10'
+! Generated on 2023-07-12T19:03Z from the ontology 'go' with data version: 'releases/2023-07-12'
 !
 EC:1.-.-.- > GO:oxidoreductase activity ; GO:0016491
 EC:1.1.-.- > GO:oxidoreductase activity, acting on CH-OH group of donors ; GO:0016614
