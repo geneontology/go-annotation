@@ -1,0 +1,8 @@
+term	file	line
+GO:0000754	pirsf2go	PIRSF:PIRSF022632 UCP022632 > GO:adaptation of signaling pathway by response to pheromone involved in conjugation with cellular fusion ; GO:0000754
+GO:0000754	interpro2go	InterPro:IPR016806 COP9 signalosome complex, subunit 9, fungi > GO:adaptation of signaling pathway by response to pheromone involved in conjugation with cellular fusion ; GO:0000754
+GO:0045168	interpro2go	InterPro:IPR039316 CLAVATA3/ESR (CLE)-related protein 25/26 > GO:cell-cell signaling involved in cell fate commitment ; GO:0045168
+GO:0045168	interpro2go	InterPro:IPR039617 CLAVATA3/ESR (CLE)-related protein > GO:cell-cell signaling involved in cell fate commitment ; GO:0045168
+GO:0045168	interpro2go	InterPro:IPR044962 CLV3/ESR signal peptide family > GO:cell-cell signaling involved in cell fate commitment ; GO:0045168
+GO:0097199	interpro2go	InterPro:IPR035701 Caspase-10, death effector domain > GO:cysteine-type endopeptidase activity involved in apoptotic signaling pathway ; GO:0097199
+GO:1901029	unirule2go	UniRule:UR001029796 > GO:negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway ; GO:1901029
