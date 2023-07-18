@@ -4,7 +4,7 @@ This document specifies the syntax of Gene Product Annotation Data (GPAD) and Ge
 
 ## Status
 
-This is a working draft, intended for comment by the community. Comments should be added to: #4684
+This is a working draft, intended for comment by the community. Comments should be added to: [#4684](https://github.com/geneontology/go-annotation/issues/4684)
 
 ## Summary of changes relative to 1.1
 
