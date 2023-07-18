@@ -1,5 +1,24 @@
-
 # Proposed specifications for Gene Ontology Consortium GPAD and GPI tabular formats version 2.0
+
+This document specifies the syntax of Gene Product Annotation Data (GPAD) and Gene Product Information (GPI) formats. GPAD describes the relationships between biological entities (such as gene products) and biological descriptors (such as GO terms). GPI describes the biological entities.
+
+## Status
+
+This is a working draft, intended for comment by the community. Comments should be added to: #4684
+
+## Summary of changes relative to 1.1
+
+- GPAD and GPI: columns 1 and 2 are now combined in a single column containing an id in CURIE syntax, e.g. UniProtKB:P56704.
+- GPAD: negation is captured in a separate column, column 2, using the text string 'NOT'.
+- GPAD: gene product-to-term relations captured in column 3 use a Relations Ontology (RO) identifier instead of a text string.
+- GPAD: the With/From column, column 7, may contain identifiers separated by commas as well as pipes.
+- GPAD and GPI: NCBI taxon ids are prefixed with 'NCBITaxon:' to indicate the source of the id, e.g. NCBITaxon:6239
+- GPAD: Annotation Extensions in column 11 will use a Relation_ID, rather than a Relation_Symbol, in the Relational_Expression, e.g. RO:0002233(UniProtKB:Q00362)
+- GPAD and GPI: dates follow the ISO-8601 format, e.g. YYYY-MM-DD; time may be included as YYYY-MM-DDTHH:MM:SS
+- GPI: the entity type in column 5 is captured using an ID from the Sequence Ontology, Protein Ontology, or Gene Ontology.
+- GPI: the parent object id in column 7 refers to the gene-centric parent, e.g. the UniProtKB Gene-Centric Reference Proteome accession or a Model Organism Database gene identifier
+- Characters allowed in all fields have been explicitly specified
+- Extensions in file names are: *.gpad and *.gpi
 
 ## BNF Notation
 
