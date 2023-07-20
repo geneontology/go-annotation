@@ -1,0 +1,370 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AgBase	UniProtKB:V9M5F1	LepRtr3	PMID:24797628		GO:0007260	tyrosine phosphorylation of STAT protein	IDA				20160223	CL:0000182	NCBITaxon:8022
+AgBase	UniProtKB:R9QT79	LepR	PMID:24797628		GO:0007260	tyrosine phosphorylation of STAT protein	IDA				20160223	CL:0000182	NCBITaxon:8022
+BHF-UCL	MGI:MGI:104663	Lep	PMID:21234744|MGI:MGI:4889014		GO:0007260	tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR11724	20110707		NCBITaxon:10090
+CACAO	UniProtKB:P40933	IL15	PMID:12244150		GO:0007260	tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR14356	20121113		NCBITaxon:9606
+CACAO	UniProtKB:Q9HBE4	IL21	PMID:12244150		GO:0007260	tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR14356	20121112		NCBITaxon:9606
+MGI	MGI:MGI:96556	Il4	PMID:10485657		GO:0007260	tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR47401	20170417	CL:0000084	NCBITaxon:10090
+MGI	MGI:MGI:96548	Il2	PMID:10485657		GO:0007260	tyrosine phosphorylation of STAT protein	IDA				20170417	CL:0000084	NCBITaxon:10090
+MGI	MGI:MGI:96629	Jak2	PMID:11821424		GO:0007260	tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR45807	20020613		NCBITaxon:10090
+MGI	MGI:MGI:96629	Jak2	PMID:12388746		GO:0007260	tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR45807	20080325		NCBITaxon:10090
+MGI	MGI:MGI:102709	Cav1	PMID:12388746		GO:0007260	tyrosine phosphorylation of STAT protein	IMP	MGI:MGI:2180364		PANTHER:PTHR10844	20170417	EMAPA:17759	NCBITaxon:10090
+MGI	MGI:MGI:104749	Osm	PMID:15012602		GO:0007260	tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR14261	20170417		NCBITaxon:10090
+MGI	MGI:MGI:96787	Lif	PMID:15012602		GO:0007260	tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR10633	20170417		NCBITaxon:10090
+MGI	MGI:MGI:88439	Cntf	PMID:15207851		GO:0007260	tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR15196	20170417	EMAPA:17168	NCBITaxon:10090
+MGI	MGI:MGI:105112	Hpx	PMID:18641331		GO:0007260	tyrosine phosphorylation of STAT protein	IMP	MGI:MGI:2447193		PANTHER:PTHR10201	20170417	CL:0000624	NCBITaxon:10090
+MGI	MGI:MGI:96628	Jak1	PMID:27671227		GO:0007260	tyrosine phosphorylation of STAT protein	IMP	MGI:MGI:2176165|MGI:MGI:5688302		PANTHER:PTHR45807	20180517	PR:000049778|PR:000037009	NCBITaxon:10090
+MGI	MGI:MGI:96628	Jak1	PMID:27671227		GO:0007260	tyrosine phosphorylation of STAT protein	IMP	MGI:MGI:2176165|MGI:MGI:5688302		PANTHER:PTHR45807	20180517	PR:000049977|PR:000049976	NCBITaxon:10090
+MGI	MGI:MGI:96628	Jak1	PMID:27671227		GO:0007260	tyrosine phosphorylation of STAT protein	IMP	MGI:MGI:2176165|MGI:MGI:5688302		PANTHER:PTHR45807	20180517	PR:000049979|PR:000049978	NCBITaxon:10090
+MGI	MGI:MGI:1924222	Snhg20	PMID:31408278		GO:0007260	tyrosine phosphorylation of STAT protein	IDA				20211111	CL:0000863|MGI:MGI:103034|MGI:MGI:103063	NCBITaxon:10090
+RGD	RGD:2939	Jak2	PMID:15659221|RGD:1641883		GO:0007260	tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR45807	20070823		NCBITaxon:10116
+RGD	RGD:2939	Jak2	PMID:17920330|RGD:5686906		GO:0007260	tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR45807	20120131		NCBITaxon:10116
+UniProt	UniProtKB:Q13882	PTK6	PMID:16568091		GO:0007260	tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR24418	20111006		NCBITaxon:9606
+UniProt	UniProtKB:Q13882	PTK6	PMID:17997837		GO:0007260	tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR24418	20111006		NCBITaxon:9606
+UniProt	UniProtKB:P16591	FER	PMID:19147545		GO:0007260	tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR24418	20120412		NCBITaxon:9606
+UniProt	UniProtKB:K9M1U5	IFNL4	PMID:23291588		GO:0007260	tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR31943	20130305		NCBITaxon:9606
+UniProt	UniProtKB:K9M1U5	IFNL4	PMID:23291588		GO:0007260	tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR31943	20130305		NCBITaxon:9606
+BHF-UCL	MGI:MGI:108100	Dvl3	PMID:11274398|MGI:MGI:5437442		GO:0038031	non-canonical Wnt signaling pathway via JNK cascade	IDA			PANTHER:PTHR10878	20120807		NCBITaxon:10090
+BHF-UCL	UniProtKB:Q9ULW2	FZD10	PMID:19137009		GO:0038031	non-canonical Wnt signaling pathway via JNK cascade	IMP			PANTHER:PTHR11309	20120404		NCBITaxon:9606
+BHF-UCL	UniProtKB:O75084	FZD7	PMID:19773752		GO:0038031	non-canonical Wnt signaling pathway via JNK cascade	IMP			PANTHER:PTHR11309	20120404		NCBITaxon:9606
+BHF-UCL	MGI:MGI:98958	Wnt5a	PMID:20032469|MGI:MGI:4820702		GO:0038031	non-canonical Wnt signaling pathway via JNK cascade	IMP			PANTHER:PTHR12027	20120404		NCBITaxon:10090
+UniProt	UniProtKB:Q99972	MYOC	PMID:19188438		GO:0038031	non-canonical Wnt signaling pathway via JNK cascade	IMP			PANTHER:PTHR23192	20140305		NCBITaxon:9606
+Xenbase	Xenbase:XB-GENE-5919104	sqstm1.L	PMID:26754771		GO:0038031	non-canonical Wnt signaling pathway via JNK cascade	IMP	XENBASE:XB-MORPHOLINO-18374219			20210402		NCBITaxon:8355
+Xenbase	Xenbase:XB-GENE-5919104	sqstm1.L	PMID:26754771		GO:0038031	non-canonical Wnt signaling pathway via JNK cascade	IMP	XENBASE:XB-MORPHOLINO-18374220			20210402		NCBITaxon:8355
+BHF-UCL	UniProtKB:P29460	IL12B	PMID:12023369		GO:0042509	regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR23036	20110110		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9NPF7	IL23A	PMID:12023369		GO:0042509	regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR15947	20110110		NCBITaxon:9606
+MGI	MGI:MGI:2665114	Il22ra2	PMID:12700595		GO:0042509	regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR20859	20170417		NCBITaxon:10090
+MGI	MGI:MGI:1355307	Il22	PMID:12700595		GO:0042509	regulation of tyrosine phosphorylation of STAT protein	IDA				20170417		NCBITaxon:10090
+MGI	MGI:MGI:1354910	Socs1	PMID:21606371		GO:0042509	regulation of tyrosine phosphorylation of STAT protein	IMP	MGI:MGI:2656917		PANTHER:PTHR10155	20170417		NCBITaxon:10090
+UniProt	UniProtKB:Q9UIV1	CNOT7	PMID:23386060		GO:0042509	regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR10797	20170510		NCBITaxon:9606
+ZFIN	ZFIN:ZDB-GENE-040801-205	socs1a	PMID:25759395		GO:0042509	regulation of tyrosine phosphorylation of STAT protein	IMP	ZFIN:ZDB-GENO-160519-3		PANTHER:PTHR10155	20160531		NCBITaxon:7955
+ARUK-UCL	UniProtKB:P05112	IL4	PMID:12574355		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IGI	UniProtKB:P08575		PANTHER:PTHR47401	20180724	UniProtKB:P42226	NCBITaxon:9606
+ARUK-UCL	UniProtKB:P05231	IL6	PMID:28433754		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR10511	20190228	GO:0071333|CL:0002585|UniProtKB:P40763	NCBITaxon:9606
+ARUK-UCL	RGD:3876	Tnf	PMID:29702085|RGD:13800534		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR11471	20180927	CL:2000043|UniProtKB:P52631|GO:0032635	NCBITaxon:10116
+ARUK-UCL	UniProtKB:P05231	IL6	PMID:31886314		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR10511	20211119	UniProtKB:P40763	NCBITaxon:9606
+AgBase	UniProtKB:Q5QSL2	ifng	PMID:20353564		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160317		NCBITaxon:8022
+AgBase	UniProtKB:E3P8T5	ifng2	PMID:20353564		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160317		NCBITaxon:8022
+AgBase	UniProtKB:B6UQB7	IFNgamma2	PMID:20353564		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160317		NCBITaxon:8022
+AgBase	UniProtKB:Q6XQG7	IFNA1	PMID:20353564		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160317		NCBITaxon:8030
+AgBase	UniProtKB:B6UQB6	IFNgamma1	PMID:20353564		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160317		NCBITaxon:8022
+AgBase	UniProtKB:E3P8T4	ifng2	PMID:20353564		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160317		NCBITaxon:8022
+AgBase	UniProtKB:E3Q1F7	il6	PMID:21704380		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20150522	CL:0000235	NCBITaxon:8022
+AgBase	UniProtKB:Q0GGL7	il6	PMID:21704380		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20150522	CL:0000235	NCBITaxon:8022
+AgBase	UniProtKB:M5EF24	IL6	PMID:21704380		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20150522	CL:0000235	NCBITaxon:8022
+AgBase	UniProtKB:P48096	prl	PMID:23548829		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20150522	CL:0000235|UBERON:0007132	NCBITaxon:8030
+AgBase	UniProtKB:A0A023GUT0	LPN	PMID:24823393		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP				20150209		NCBITaxon:59729
+AgBase	UniProtKB:K4LAX8	LOC101448043	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:Q5QRA1	ifng	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:C1IRY5	C1IRY5	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:C1IRY3	C1IRY3	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:C1IRY2	C1IRY2	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:C1IRY1	C1IRY1	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:C1IRY0	C1IRY0	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:C1IRX8	C1IRX8	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:Q6XQG7	IFNA1	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:B7SVK1	LOC106600965	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:B7SVJ9	B7SVJ9	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:B7SVJ5	B7SVJ5	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:D2D0D7	D2D0D7	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:C1IRX7	C1IRX7	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+BHF-UCL	UniProtKB:O75462	CRLF1	PMID:10966616		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR23036	20110330		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9UBD9	CLCF1	PMID:10966616		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR21353	20110330		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9UBD9	CLCF1	PMID:11285233		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR21353	20110330		NCBITaxon:9606
+BHF-UCL	UniProtKB:P29460	IL12B	PMID:12023369		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR23036	20110110		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9NPF7	IL23A	PMID:12023369		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR15947	20110110		NCBITaxon:9606
+BHF-UCL	MGI:MGI:1930088	Clcf1	PMID:12090754|MGI:MGI:5009184		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR21353	20110330		NCBITaxon:10090
+BHF-UCL	UniProtKB:P01241	GH1	PMID:12552091		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR11417	20081209		NCBITaxon:9606
+BHF-UCL	UniProtKB:P08887	IL6R	PMID:12643274		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR23036	20081107		NCBITaxon:9606
+BHF-UCL	UniProtKB:P26441	CNTF	PMID:12643274		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR15196	20081107		NCBITaxon:9606
+BHF-UCL	UniProtKB:P05231	IL6	PMID:12643274		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR10511	20081107		NCBITaxon:9606
+BHF-UCL	UniProtKB:P40189	IL6ST	PMID:14764690		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR23036	20081107		NCBITaxon:9606
+BHF-UCL	UniProtKB:P01579	IFNG	PMID:15604419		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR11419	20110323		NCBITaxon:9606
+BHF-UCL	RNAcentral:URS000006FDD4_9606	URS000006FDD4_9606	PMID:18728182		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP				20160223		NCBITaxon:9606
+BHF-UCL	RNAcentral:URS000013D17D_9606	URS000013D17D_9606	PMID:18728182		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP				20160224		NCBITaxon:9606
+BHF-UCL	UniProtKB:P60568	IL2	PMID:19088061		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20110111		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9NPF7	IL23A	PMID:19088061		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR15947	20110111		NCBITaxon:9606
+BHF-UCL	UniProtKB:P15692	VEGFA	PMID:19390056	not	GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR12025	20160122		NCBITaxon:9606
+BHF-UCL	UniProtKB:P05231	IL6	PMID:19390056		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR10511	20160526	GO:0061614|CL:1001568	NCBITaxon:9606
+BHF-UCL	UniProtKB:P15018	LIF	PMID:20624457		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR10633	20110121		NCBITaxon:9606
+BHF-UCL	RGD:2866	Ifng	PMID:20624457|RGD:8554478		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR11419	20110121		NCBITaxon:10116
+BHF-UCL	UniProtKB:P19438	TNFRSF1A	PMID:21410936		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR46861	20111202		NCBITaxon:9606
+BHF-UCL	UniProtKB:P25942	CD40	PMID:21410936		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR46875	20111202		NCBITaxon:9606
+BHF-UCL	UniProtKB:P01563	IFNA2	PMID:22783022		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR11691	20121121		NCBITaxon:9606
+BHF-UCL	RNAcentral:URS0000170CF4_9606	URS0000170CF4_9606	PMID:25019494		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160509		NCBITaxon:9606
+BHF-UCL	UniProtKB:P01241	GH1	PMID:8923468		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR11417	20081205		NCBITaxon:9606
+BHF-UCL	UniProtKB:P19941	GHR	PMID:8923468		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20081205		NCBITaxon:9986
+BHF-UCL	MGI:MGI:96629	Jak2	PMID:8923468|MGI:MGI:3828422		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR45807	20081205		NCBITaxon:10090
+BHF-UCL	UniProtKB:P13501	CCL5	PMID:9417081		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR12015	20110224		NCBITaxon:9606
+BHF-UCL	UniProtKB:P05019	IGF1	PMID:9722506		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR46845	20080530		NCBITaxon:9606
+BHF-UCL	UniProtKB:P04141	CSF2	PMID:9722506		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR10059	20080530		NCBITaxon:9606
+BHF-UCL	UniProtKB:P01588	EPO	PMID:9722506		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR10370	20080530		NCBITaxon:9606
+BHF-UCL	UniProtKB:P08700	IL3	PMID:9722506		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20080530		NCBITaxon:9606
+CACAO	UniProtKB:Q14116	IL18	PMID:10903731		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20121019		NCBITaxon:9606
+CACAO	UniProtKB:P01555	ctxA	PMID:21470923		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20130331		NCBITaxon:243277
+CACAO	UniProtKB:P01556	ctxB	PMID:21470923		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20130304		NCBITaxon:243277
+CACAO	UniProtKB:P13725	OSM	PMID:21912637		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR14261	20130410		NCBITaxon:9606
+CACAO	UniProtKB:P26441	CNTF	PMID:21912637		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR15196	20130410		NCBITaxon:9606
+CACAO	UniProtKB:Q16619	CTF1	PMID:21912637		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR21353	20130410		NCBITaxon:9606
+CACAO	MGI:MGI:95602	Fyn	PMID:23438599|MGI:MGI:5528626		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR24418	20130409		NCBITaxon:10090
+MGI	MGI:MGI:96556	Il4	PMID:10485657		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR47401	20170417	GO:0007260	NCBITaxon:10090
+MGI	MGI:MGI:96548	Il2	PMID:10485657		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20170417	GO:0007260	NCBITaxon:10090
+MGI	MGI:MGI:96756	Lck	PMID:11254359		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR24418	20170417		NCBITaxon:10090
+MGI	MGI:MGI:97537	Pecam1	PMID:11254359		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR11481	20170417		NCBITaxon:10090
+MGI	MGI:MGI:88439	Cntf	PMID:15207851		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR15196	20170417	GO:0007260	NCBITaxon:10090
+MGI	MGI:MGI:101791	Isl1	PMID:15659653		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR24204	20170417		NCBITaxon:10090
+MGI	UniProtKB:P01579	IFNG	PMID:16280321		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR11419	20170417		NCBITaxon:9606
+MGI	UniProtKB:Q9HBE4	IL21	PMID:17673207		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR14356	20170417		NCBITaxon:9606
+MGI	MGI:MGI:105112	Hpx	PMID:18641331		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP	MGI:MGI:2447193		PANTHER:PTHR10201	20170417	GO:0007260	NCBITaxon:10090
+RGD	RGD:2370	Cntf	PMID:14725620|RGD:1626115		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR15196	20070712		NCBITaxon:10116
+RGD	RGD:628641	Ptger4	PMID:17067562|RGD:10043389		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR11866	20150624		NCBITaxon:10116
+RGD	RGD:1308069	Osbp	PMID:18230613|RGD:2291921		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR10972	20210129		NCBITaxon:10116
+RGD	RGD:621484	Il24	PMID:19258414|RGD:5147427		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20110804		NCBITaxon:10116
+RGD	RGD:3000	Lep	PMID:19726711|RGD:5128629		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR11724	20110314		NCBITaxon:10116
+RGD	RGD:619976	Hdac2	PMID:21465537|RGD:9590234		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR48252	20141120		NCBITaxon:10116
+RGD	RGD:1309799	Hdac1	PMID:21465537|RGD:9590234		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR48252	20141120		NCBITaxon:10116
+RGD	RGD:68949	Il13	PMID:21804025|RGD:5684373		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20111216		NCBITaxon:10116
+RGD	RGD:620913	Hsf1	PMID:22426029|RGD:10402789		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR10015	20151029		NCBITaxon:10116
+RGD	RGD:2887	Il15	PMID:8942753|RGD:5024920		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR14356	20110302		NCBITaxon:10116
+UniProt	MGI:MGI:104771	Erbb4	PMID:10508857|MGI:MGI:5297795		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR24416	20111109		NCBITaxon:10090
+UniProt	MGI:MGI:104568	Hcls1	PMID:10713104|MGI:MGI:3694161		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR10829	20060331		NCBITaxon:10090
+UniProt	MGI:MGI:96892	Lyn	PMID:10713104|MGI:MGI:3694161		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR24418	20060331		NCBITaxon:10090
+UniProt	UniProtKB:P22607	FGFR3	PMID:11294897		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR24416	20110914		NCBITaxon:9606
+UniProt	UniProtKB:Q969D9	TSLP	PMID:11480573		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR38003	20171110		NCBITaxon:9606
+UniProt	UniProtKB:Q8NI17	IL31RA	PMID:11877449		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IEP			PANTHER:PTHR23036	20031216		NCBITaxon:9606
+UniProt	UniProtKB:P29459	IL12A	PMID:12372421		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20061117		NCBITaxon:9606
+UniProt	MGI:MGI:96629	Jak2	PMID:15156153|MGI:MGI:5284803		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR45807	20110804		NCBITaxon:10090
+UniProt	MGI:MGI:104876	Hes5	PMID:15156153|MGI:MGI:5284803		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR10985	20110803		NCBITaxon:10090
+UniProt	MGI:MGI:104853	Hes1	PMID:15156153|MGI:MGI:5284803		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR10985	20110803		NCBITaxon:10090
+UniProt	UniProtKB:Q8IU54	IFNL1	PMID:15166220		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR31943	20051206		NCBITaxon:9606
+UniProt	UniProtKB:Q8WXW3	PIBF1	PMID:16393965		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR18950	20150827		NCBITaxon:9606
+UniProt	UniProtKB:Q15303	ERBB4	PMID:16837552		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR24416	20111109		NCBITaxon:9606
+UniProt	MGI:MGI:104771	Erbb4	PMID:16837552|MGI:MGI:3689173		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR24416	20111109		NCBITaxon:10090
+UniProt	UniProtKB:P22607	FGFR3	PMID:17561467		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR24416	20110914		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y2Y0	ARL2BP	PMID:18234692		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR15487	20101222		NCBITaxon:9606
+UniProt	UniProtKB:P10721	KIT	PMID:21135090		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR24416	20110909		NCBITaxon:9606
+UniProt	UniProtKB:Q9UNG2	TNFSF18	PMID:23892569		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP	UniProtKB:Q9Y5U5		PANTHER:PTHR15267	20160104	GO:0071356|CL:0002618	NCBITaxon:9606
+UniProt	UniProtKB:Q9Y5U5	TNFRSF18	PMID:23892569		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP	UniProtKB:Q9UNG2		PANTHER:PTHR47388	20160104	GO:0071356|CL:0002618	NCBITaxon:9606
+UniProt	UniProtKB:Q460N5	PARP14	PMID:27796300		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR14453	20170825	GO:0071353|UniProtKB:P42226	NCBITaxon:9606
+UniProt	UniProtKB:Q8IXQ6	PARP9	PMID:27796300		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR14453	20170825	GO:0071346|UniProtKB:P42224	NCBITaxon:9606
+UniProt	MGI:MGI:1339758	Csf1r	PMID:8007983|MGI:MGI:5294320		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR24416	20111013		NCBITaxon:10090
+ZFIN	ZFIN:ZDB-GENE-101109-1	tnfsf18	PMID:19598108		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP	ZFIN:ZDB-MRPHLNO-101109-3		PANTHER:PTHR15267	20110119		NCBITaxon:7955
+ARUK-UCL	MGI:MGI:893598	Sh2b3	PMID:15337790|MGI:MGI:3510267		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR10872	20190201		NCBITaxon:10090
+ARUK-UCL	RNAcentral:URS000050B527_9606	URS000050B527_9606	PMID:28433754		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IDA				20190228	GO:0071333|CL:0002585|UniProtKB:P40763	NCBITaxon:9606
+ARUK-UCL	RNAcentral:URS00005A4DCF_9606	URS00005A4DCF_9606	PMID:30670152		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IGI	UniProtKB:P05231			20200127	CL:0002618	NCBITaxon:9606
+ARUK-UCL	RNAcentral:URS000000B1C9_9606	URS000000B1C9_9606	PMID:30670152		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IGI	UniProtKB:P05231			20200127	CL:0002618	NCBITaxon:9606
+BHF-UCL	UniProtKB:O14543	SOCS3	PMID:25019494		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR10155	20160509		NCBITaxon:9606
+BHF-UCL	UniProtKB:O15524	SOCS1	PMID:25019494		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR10155	20160509		NCBITaxon:9606
+FlyBase	FB:FBgn0031055	et	PMID:20624926|FB:FBrf0212202		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IMP				20190819		NCBITaxon:7227
+HGNC-UCL	UniProtKB:P35240	NF2	PMID:12444102		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR23281	20070620		NCBITaxon:9606
+MGI	MGI:MGI:102709	Cav1	PMID:12388746		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IMP	MGI:MGI:2180364		PANTHER:PTHR10844	20170417	GO:0007260	NCBITaxon:10090
+MGI	MGI:MGI:102709	Cav1	PMID:12388746		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR10844	20170417		NCBITaxon:10090
+MGI	MGI:MGI:2387356	Ggnbp2	PMID:26764350		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IMP	MGI:MGI:4072637		PANTHER:PTHR13601	20170417	PR:000049778|PR:000037009	NCBITaxon:10090
+MGI	MGI:MGI:1354910	Socs1	PMID:9202127		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR10155	20041102		NCBITaxon:10090
+RGD	RGD:2810	Hnf4a	PMID:16584384|RGD:1625011		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR24083	20070516		NCBITaxon:10116
+RGD	RGD:2920	Irf1	PMID:20980260|RGD:5128774		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR11949	20110316		NCBITaxon:10116
+RGD	RGD:1593621	Suz12	PMID:23192652|RGD:9586745		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IMP				20141006		NCBITaxon:10116
+UniProt	UniProtKB:P17706	PTPN2	PMID:12138178		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR46047	20130612		NCBITaxon:9606
+UniProt	UniProtKB:Q8WXW3	PIBF1	PMID:16393965		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR18950	20150827		NCBITaxon:9606
+UniProt	MGI:MGI:97806	Ptpn2	PMID:17210636|MGI:MGI:5493214		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR46047	20130612		NCBITaxon:10090
+UniProt	UniProtKB:Q9Y2H2	INPP5F	PMID:25476455		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR45662	20160209		NCBITaxon:9606
+UniProt	UniProtKB:Q460N5	PARP14	PMID:27796300		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR14453	20170825	GO:0071346|UniProtKB:P42224	NCBITaxon:9606
+ARUK-UCL	UniProtKB:P08575	PTPRC	PMID:12574355		GO:0046425	regulation of receptor signaling pathway via JAK-STAT	IGI	UniProtKB:P05112		PANTHER:PTHR19134	20180724	UniProtKB:P23458|UniProtKB:P52333	NCBITaxon:9606
+ARUK-UCL	UniProtKB:P08575	PTPRC	PMID:12574355		GO:0046425	regulation of receptor signaling pathway via JAK-STAT	IGI	UniProtKB:P05112		PANTHER:PTHR19134	20180724	UniProtKB:P42226	NCBITaxon:9606
+CACAO	MGI:MGI:97845	Rac1	PMID:27050391|MGI:MGI:6217799		GO:0046425	regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR24072	20160412		NCBITaxon:10090
+HGNC-UCL	UniProtKB:Q9H490	PIGU	PMID:15034568		GO:0046425	regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR13121	20071023		NCBITaxon:9606
+MGI	MGI:MGI:1889642	Elp2	PMID:10954736		GO:0046425	regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR44111	20050818		NCBITaxon:10090
+MGI	MGI:MGI:97762	Prl	PMID:12147240		GO:0046425	regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR11417	20021227		NCBITaxon:10090
+MGI	MGI:MGI:96563	Il9	PMID:18551134		GO:0046425	regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR16926	20210622		NCBITaxon:10090
+MGI	MGI:MGI:1354910	Socs1	PMID:21606371		GO:0046425	regulation of receptor signaling pathway via JAK-STAT	IMP	MGI:MGI:2656917		PANTHER:PTHR10155	20141021		NCBITaxon:10090
+MGI	MGI:MGI:96080	Mst1	PMID:25049204		GO:0046425	regulation of receptor signaling pathway via JAK-STAT	IMP	MGI:MGI:2445230		PANTHER:PTHR24261	20150701		NCBITaxon:10090
+RGD	RGD:1564232	Ephb2	PMID:33722292|RGD:127285641		GO:0046425	regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR46877	20210624		NCBITaxon:10116
+UniProt	MGI:MGI:95290	Egf	PMID:15156153|MGI:MGI:5284803		GO:0046425	regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR46513	20110803		NCBITaxon:10090
+UniProt	MGI:MGI:104853	Hes1	PMID:15156153|MGI:MGI:5284803		GO:0046425	regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR10985	20110803		NCBITaxon:10090
+UniProt	UniProtKB:Q8TEK3	DOT1L	PMID:22002246		GO:0046425	regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR21451	20111130		NCBITaxon:9606
+ARUK-UCL	UniProtKB:Q9UQQ2	SH2B3	PMID:20404132		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR10872	20190201		NCBITaxon:9606
+ARUK-UCL	RNAcentral:URS00004208C5_9606	URS00004208C5_9606	PMID:25809226		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IDA				20181210		NCBITaxon:9606
+AgBase	UniProtKB:S5RA51	S5RA51	PMID:23872231		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP				20160225		NCBITaxon:8030
+AgBase	UniProtKB:V9Q5U6	SOCS1	PMID:24582990		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP				20160225		NCBITaxon:8030
+BHF-UCL	UniProtKB:Q96A54	ADIPOR1	PMID:23776679		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR20855	20160511	CL:0000066	NCBITaxon:9606
+BHF-UCL	UniProtKB:O14543	SOCS3	PMID:25019494		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR10155	20160509		NCBITaxon:9606
+BHF-UCL	UniProtKB:O15524	SOCS1	PMID:25019494		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR10155	20160509		NCBITaxon:9606
+CAFA	UniProtKB:P40337	VHL	PMID:23338840		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR15160	20161213		NCBITaxon:9606
+FlyBase	FB:FBgn0003612	Su(var)2-10	PMID:11504941|FB:FBrf0137351		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IGI	FB:FBgn0016917		PANTHER:PTHR10782	20190819		NCBITaxon:7227
+FlyBase	FB:FBgn0041184	Socs36E	PMID:12101419|FB:FBrf0151456		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR10155	20190918		NCBITaxon:7227
+FlyBase	FB:FBgn0033266	Socs44A	PMID:15488148|FB:FBrf0179958		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IGI	FB:FBgn0004864		PANTHER:PTHR10155	20190819		NCBITaxon:7227
+FlyBase	FB:FBgn0041184	Socs36E	PMID:15488148|FB:FBrf0179958		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR10155	20191018		NCBITaxon:7227
+FlyBase	FB:FBgn0041184	Socs36E	PMID:16049490|FB:FBrf0188143		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR10155	20191028		NCBITaxon:7227
+FlyBase	FB:FBgn0267487	Ptp61F	PMID:16055650|FB:FBrf0187589		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IGI	FB:FBgn0004864		PANTHER:PTHR46047	20220702		NCBITaxon:7227
+FlyBase	FB:FBgn0003612	Su(var)2-10	PMID:16094372|FB:FBrf0188561		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR10782	20190814		NCBITaxon:7227
+FlyBase	FB:FBgn0267487	Ptp61F	PMID:16094372|FB:FBrf0188561		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR46047	20190814		NCBITaxon:7227
+FlyBase	FB:FBgn0041184	Socs36E	PMID:16094372|FB:FBrf0188561		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR10155	20190814		NCBITaxon:7227
+FlyBase	FB:FBgn0011236	ken	PMID:16401426|FB:FBrf0189996		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR45993	20190819		NCBITaxon:7227
+FlyBase	FB:FBgn0015903	apt	PMID:18477455|FB:FBrf0204922		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IGI	FB:FBgn0016917		PANTHER:PTHR21411	20190819		NCBITaxon:7227
+FlyBase	FB:FBgn0000541	E(bx)	PMID:19629165|FB:FBrf0208433		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR45975	20190819		NCBITaxon:7227
+FlyBase	FB:FBgn0041184	Socs36E	PMID:20143337|FB:FBrf0210092		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IGI	FB:FBgn0016917		PANTHER:PTHR10155	20190918		NCBITaxon:7227
+FlyBase	FB:FBgn0031055	et	PMID:20624926|FB:FBrf0212202		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP				20190819		NCBITaxon:7227
+FlyBase	FB:FBgn0031055	et	PMID:20689801|FB:FBrf0211466		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IDA				20190819		NCBITaxon:7227
+FlyBase	FB:FBgn0259785	pzg	PMID:21385730|FB:FBrf0213648		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR24403	20190819		NCBITaxon:7227
+FlyBase	FB:FBgn0262448	mir-279	PMID:21857668|FB:FBrf0215016		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IDA				20210603		NCBITaxon:7227
+FlyBase	FB:FBgn0262448	mir-279	PMID:22305007|FB:FBrf0217497		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP				20200108		NCBITaxon:7227
+FlyBase	FB:FBgn0262406	mir-let7	PMID:22660319|FB:FBrf0218483		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP				20221104		NCBITaxon:7227
+FlyBase	FB:FBgn0267487	Ptp61F	PMID:23339871|FB:FBrf0220991		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR46047	20191017		NCBITaxon:7227
+FlyBase	FB:FBgn0041184	Socs36E	PMID:23583584|FB:FBrf0221789		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR10155	20190918		NCBITaxon:7227
+FlyBase	FB:FBgn0020279	lig	PMID:23874212|FB:FBrf0222164		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR16308	20210108		NCBITaxon:7227
+FlyBase	FB:FBgn0023212	EloB	PMID:23885117|FB:FBrf0222708		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR13248	20190918		NCBITaxon:7227
+FlyBase	FB:FBgn0266711	EloC	PMID:23885117|FB:FBrf0222708		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR20648	20190918		NCBITaxon:7227
+FlyBase	FB:FBgn0288875	Cul5	PMID:23885117|FB:FBrf0222708		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP				20190918		NCBITaxon:7227
+FlyBase	FB:FBgn0041184	Socs36E	PMID:23885117|FB:FBrf0222708		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR10155	20190918		NCBITaxon:7227
+FlyBase	FB:FBgn0032956	Cul2	PMID:26277564|FB:FBrf0230408		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IGI	FB:FBgn0041184		PANTHER:PTHR11932	20190501		NCBITaxon:7227
+FlyBase	FB:FBgn0041184	Socs36E	PMID:26277564|FB:FBrf0230408		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IGI	FB:FBgn0032956		PANTHER:PTHR10155	20190819		NCBITaxon:7227
+FlyBase	FB:FBgn0031055	et	PMID:26658615|FB:FBrf0230821		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IDA				20190819		NCBITaxon:7227
+FlyBase	FB:FBgn0267487	Ptp61F	PMID:27175018|FB:FBrf0232803		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IGI	FB:FBgn0016917		PANTHER:PTHR46047	20191017		NCBITaxon:7227
+FlyBase	FB:FBgn0267487	Ptp61F	PMID:28544778|FB:FBrf0236065		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR46047	20190819		NCBITaxon:7227
+FlyBase	FB:FBgn0014018	Rel	PMID:35905720|FB:FBrf0254155		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR24169	20230301		NCBITaxon:7227
+HGNC-UCL	UniProtKB:P35240	NF2	PMID:12444102		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR23281	20070620		NCBITaxon:9606
+HGNC-UCL	UniProtKB:O14964	HGS	PMID:12444102		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR46275	20070620		NCBITaxon:9606
+MGI	MGI:MGI:1354910	Socs1	PMID:11371356		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP	MGI:MGI:2445448		PANTHER:PTHR10155	20041102		NCBITaxon:10090
+MGI	MGI:MGI:102709	Cav1	PMID:12388746		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP	MGI:MGI:2180364		PANTHER:PTHR10844	20090625		NCBITaxon:10090
+MGI	MGI:MGI:102709	Cav1	PMID:12388746		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR10844	20070809		NCBITaxon:10090
+MGI	MGI:MGI:102709	Cav1	PMID:12388746		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IGI	MGI:MGI:97762		PANTHER:PTHR10844	20070809		NCBITaxon:10090
+MGI	MGI:MGI:1201787	Socs2	PMID:16469767		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IGI	MGI:MGI:97763		PANTHER:PTHR10155	20090623	GO:0007259	NCBITaxon:10090
+MGI	MGI:MGI:1913656	Sac3d1	PMID:18838617		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR12436	20130809		NCBITaxon:10090
+MGI	MGI:MGI:108554	Dab1	PMID:18848628		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP	MGI:MGI:1857750		PANTHER:PTHR47695	20110223	GO:0007259	NCBITaxon:10090
+MGI	MGI:MGI:1339708	Neurod1	PMID:18848628		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR19290	20110223	GO:0007259	NCBITaxon:10090
+MGI	MGI:MGI:97812	Ptprd	PMID:24843164		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP	MGI:MGI:2158795		PANTHER:PTHR19134	20150128		NCBITaxon:10090
+RGD	RGD:620617	Hmga2	PMID:11390395|RGD:1601592		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR23341	20070425		NCBITaxon:10116
+RGD	RGD:1307734	Tbx1	PMID:31982878|RGD:155882591		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR11267	20230131		NCBITaxon:10116
+UniProt	UniProtKB:P20749	BCL3	PMID:16306601		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR24118	20170427		NCBITaxon:9606
+UniProt	UniProtKB:O15243	LEPROT	PMID:18042720		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR12050	20111129		NCBITaxon:9606
+UniProt	FB:FBgn0003053	peb	PMID:18394891|FB:FBrf0204355		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR46451	20141201		NCBITaxon:7227
+UniProt	FB:FBgn0034718	wdp	PMID:25923769|FB:FBrf0228268		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR24369	20150902		NCBITaxon:7227
+UniProt	UniProtKB:Q8N8V2	GBP7	PMID:33408175		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR10751	20210826		NCBITaxon:9606
+ZFIN	ZFIN:ZDB-GENE-040801-205	socs1a	PMID:21421851		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IGI	ZFIN:ZDB-MRPHLNO-100427-10|ZFIN:ZDB-MRPHLNO-120524-9		PANTHER:PTHR10155	20120719		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-040801-205	socs1a	PMID:21421851		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP	ZFIN:ZDB-MRPHLNO-120524-9		PANTHER:PTHR10155	20120719		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-050907-1	cish	PMID:24835394		GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	IMP	ZFIN:ZDB-MRPHLNO-151021-8		PANTHER:PTHR10155	20160513		NCBITaxon:7955
+ARUK-UCL	RGD:3876	Tnf	PMID:29702085|RGD:13800534		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR11471	20180927	CL:2000043|GO:0032635	NCBITaxon:10116
+AgBase	UniProtKB:P48096	prl	PMID:23548829		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA				20150522	CL:0000235|UBERON:0007132	NCBITaxon:8030
+AgBase	UniProtKB:K4LAX8	LOC101448043	PMID:23872231		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP				20150522		NCBITaxon:8030
+AgBase	UniProtKB:C1IRY5	C1IRY5	PMID:23872231		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP				20150522		NCBITaxon:8030
+AgBase	UniProtKB:C1IRY3	C1IRY3	PMID:23872231		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP				20150522		NCBITaxon:8030
+AgBase	UniProtKB:C1IRY2	C1IRY2	PMID:23872231		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP				20150522		NCBITaxon:8030
+AgBase	UniProtKB:C1IRY1	C1IRY1	PMID:23872231		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP				20150522		NCBITaxon:8030
+AgBase	UniProtKB:C1IRY0	C1IRY0	PMID:23872231		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP				20150522		NCBITaxon:8030
+AgBase	UniProtKB:C1IRX8	C1IRX8	PMID:23872231		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP				20150522		NCBITaxon:8030
+AgBase	UniProtKB:Q6XQG7	IFNA1	PMID:23872231		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP				20150522		NCBITaxon:8030
+AgBase	UniProtKB:B7SVK1	LOC106600965	PMID:23872231		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP				20150522		NCBITaxon:8030
+AgBase	UniProtKB:B7SVJ9	B7SVJ9	PMID:23872231		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP				20150522		NCBITaxon:8030
+AgBase	UniProtKB:B7SVJ5	B7SVJ5	PMID:23872231		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP				20150522		NCBITaxon:8030
+AgBase	UniProtKB:C1IRX7	C1IRX7	PMID:23872231		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP				20150522		NCBITaxon:8030
+AgBase	UniProtKB:Q04745	IL4	PMID:24280217		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR47401	20141127	UniProtKB:E1U8C5|UniProtKB:K7GSE8	NCBITaxon:9823
+AgBase	UniProtKB:Q5QSL2	ifng	PMID:24582990		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP				20150522		NCBITaxon:8022
+AgBase	UniProtKB:E3P8T5	ifng2	PMID:24582990		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP				20150522		NCBITaxon:8022
+AgBase	UniProtKB:B6UQB7	IFNgamma2	PMID:24582990		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP				20150522		NCBITaxon:8022
+AgBase	UniProtKB:B6UQB6	IFNgamma1	PMID:24582990		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP				20150522		NCBITaxon:8022
+AgBase	UniProtKB:E3P8T4	ifng2	PMID:24582990		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP				20150522		NCBITaxon:8022
+BHF-UCL	UniProtKB:P05231	IL6	PMID:12419823		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR10511	20081103		NCBITaxon:9606
+BHF-UCL	UniProtKB:P01236	PRL	PMID:12552091		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR11417	20081209		NCBITaxon:9606
+BHF-UCL	UniProtKB:P05231	IL6	PMID:12552091		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR10511	20081209		NCBITaxon:9606
+BHF-UCL	UniProtKB:P05231	IL6	PMID:17324931		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR10511	20110430		NCBITaxon:9606
+BHF-UCL	MGI:MGI:104663	Lep	PMID:21234744|MGI:MGI:4889014		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR11724	20110207		NCBITaxon:10090
+BHF-UCL	RNAcentral:URS0000170CF4_9606	URS0000170CF4_9606	PMID:25019494		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA				20160509		NCBITaxon:9606
+BHF-UCL	UniProtKB:P01241	GH1	PMID:8923468		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR11417	20081205		NCBITaxon:9606
+ComplexPortal	UniProtKB:O60674	JAK2	PMID:12023369		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR45807	20160411		NCBITaxon:9606
+ComplexPortal	UniProtKB:P29597	TYK2	PMID:12023369		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR45807	20160411		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-3290	interleukin-23_human	PMID:12023369		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA				20160324		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-383	interleukin23-receptor_human	PMID:12023369		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA				20160411		NCBITaxon:9606
+ComplexPortal	UniProtKB:O60674	JAK2	PMID:7638186		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR45807	20160411		NCBITaxon:9606
+ComplexPortal	UniProtKB:P29597	TYK2	PMID:7638186		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR45807	20160411		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-382	il12-receptor_human	PMID:7638186		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA				20160411		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-381	interleukin12_human	PMID:7638186		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA				20160411		NCBITaxon:9606
+FlyBase	FB:FBgn0004107	Cdk2	PMID:12586062|FB:FBrf0155684		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IPI	FB:FBgn0016917		PANTHER:PTHR24056	20190918		NCBITaxon:7227
+FlyBase	FB:FBgn0010382	CycE	PMID:12586062|FB:FBrf0155684		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IGI	FB:FBgn0004864		PANTHER:PTHR10177	20190918		NCBITaxon:7227
+FlyBase	FB:FBgn0010315	CycD	PMID:12586062|FB:FBrf0155684		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IGI	FB:FBgn0004956|FLYBASE:Cdk4		PANTHER:PTHR10177	20190918		NCBITaxon:7227
+FlyBase	FB:FBgn0016131	Cdk4	PMID:12586062|FB:FBrf0155684		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IGI	FB:FBgn0004864		PANTHER:PTHR24056	20190918		NCBITaxon:7227
+FlyBase	FB:FBgn0016131	Cdk4	PMID:12586062|FB:FBrf0155684		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IGI	FB:FBgn0004956|FLYBASE:CycD		PANTHER:PTHR24056	20190918		NCBITaxon:7227
+FlyBase	FB:FBgn0016131	Cdk4	PMID:12586062|FB:FBrf0155684		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR24056	20190918		NCBITaxon:7227
+FlyBase	FB:FBgn0016131	Cdk4	PMID:12586062|FB:FBrf0155684		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IPI	FB:FBgn0016917		PANTHER:PTHR24056	20190918		NCBITaxon:7227
+FlyBase	FB:FBgn0011785	BRWD3	PMID:16094372|FB:FBrf0188561		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IGI	FB:FBgn0004956		PANTHER:PTHR16266	20190814		NCBITaxon:7227
+FlyBase	FB:FBgn0051716	Cnot4	PMID:20624926|FB:FBrf0212202		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR12603	20190918		NCBITaxon:7227
+FlyBase	FB:FBgn0051716	Cnot4	PMID:22159038|FB:FBrf0217636		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR12603	20191017		NCBITaxon:7227
+FlyBase	FB:FBgn0285926	Imp	PMID:22660319|FB:FBrf0218483		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR10288	20191010		NCBITaxon:7227
+FlyBase	FB:FBgn0040308	Prx4	PMID:23271054|FB:FBrf0221229		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IGI	FB:FBgn0016917		PANTHER:PTHR10681	20191010		NCBITaxon:7227
+FlyBase	FB:FBgn0040308	Prx4	PMID:23271054|FB:FBrf0221229		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IGI	FB:FBgn0043903		PANTHER:PTHR10681	20191010		NCBITaxon:7227
+FlyBase	FB:FBgn0040308	Prx4	PMID:23271054|FB:FBrf0221229		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IGI	FB:FBgn0004864		PANTHER:PTHR10681	20191010		NCBITaxon:7227
+FlyBase	FB:FBgn0034793	asrij	PMID:23972987|FB:FBrf0222511		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR13336	20191010		NCBITaxon:7227
+FlyBase	FB:FBgn0043884	mask	PMID:29848658|FB:FBrf0239383		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IGI	FB:FBgn0043903		PANTHER:PTHR23206	20191121		NCBITaxon:7227
+FlyBase	FB:FBgn0285926	Imp	PMID:30713156|FB:FBrf0241537		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IGI	FB:FBgn0035626		PANTHER:PTHR10288	20191206		NCBITaxon:7227
+FlyBase	FB:FBgn0035626	lin-28	PMID:30713156|FB:FBrf0241537		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR46109	20191206		NCBITaxon:7227
+FlyBase	FB:FBgn0015396	jumu	PMID:34999256|FB:FBrf0252492		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR13962	20230301		NCBITaxon:7227
+FlyBase	FB:FBgn0003391	shg	PMID:36120588|FB:FBrf0254526		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IGI	FB:FBgn0016917		PANTHER:PTHR24026	20230228		NCBITaxon:7227
+MGI	UniProtKB:Q9HC77	CENPJ	PMID:12198240		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR10331	20191113		NCBITaxon:9606
+MGI	MGI:MGI:97762	Prl	PMID:12388746		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IGI	MGI:MGI:102709		PANTHER:PTHR11417	20070809		NCBITaxon:10090
+MGI	MGI:MGI:3580016	Agap2	PMID:20075866		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP	MGI:MGI:4439325		PANTHER:PTHR45819	20101108	GO:0007259	NCBITaxon:10090
+MGI	MGI:MGI:3580016	Agap2	PMID:20075866		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR45819	20101108		NCBITaxon:10090
+MGI	MGI:MGI:107742	Stra6	PMID:23839944		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP	MGI:MGI:5490784		PANTHER:PTHR21444	20140509		NCBITaxon:10090
+RGD	RGD:2900	Il5	PMID:10867506|RGD:2303751		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP				20090224		NCBITaxon:10116
+RGD	RGD:2687	Ghr	PMID:10976913|RGD:1624964		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR23036	20070514		NCBITaxon:10116
+RGD	RGD:2687	Ghr	PMID:11064147|RGD:1624963		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR23036	20070514		NCBITaxon:10116
+RGD	RGD:2370	Cntf	PMID:15574731|RGD:1626128		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR15196	20070713		NCBITaxon:10116
+RGD	RGD:2901	Il6	PMID:15659221|RGD:1641883		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR10511	20090512		NCBITaxon:10116
+RGD	RGD:2092	Akr1b1	PMID:15746188|RGD:1626095		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR11732	20070709		NCBITaxon:10116
+RGD	RGD:2901	Il6	PMID:16413512|RGD:1580483		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR10511	20060819		NCBITaxon:10116
+RGD	RGD:1303151	Adipor1	PMID:18394428|RGD:2317907		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR20855	20100430		NCBITaxon:10116
+RGD	RGD:708540	Cxcl6	PMID:21114767|RGD:5135266		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR10179	20110718		NCBITaxon:10116
+RGD	RGD:3000	Lep	PMID:21250909|RGD:5128518		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR11724	20110307		NCBITaxon:10116
+UniProt	UniProtKB:Q9UQM7	CAMK2A	PMID:11972023		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR24347	20220707		NCBITaxon:9606
+UniProt	UniProtKB:P0DP23	CALM1	PMID:11972023		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR23050	20220707		NCBITaxon:9606
+UniProt	UniProtKB:Q8IU54	IFNL1	PMID:12483210		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR31943	20051206		NCBITaxon:9606
+UniProt	MGI:MGI:104876	Hes5	PMID:15156153|MGI:MGI:5284803		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR10985	20110803		NCBITaxon:10090
+UniProt	MGI:MGI:104853	Hes1	PMID:15156153|MGI:MGI:5284803		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR10985	20110803		NCBITaxon:10090
+UniProt	MGI:MGI:97363	Notch1	PMID:15156153|MGI:MGI:5284803		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR45836	20110803		NCBITaxon:10090
+UniProt	UniProtKB:Q15303	ERBB4	PMID:15534001		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR24416	20111109		NCBITaxon:9606
+UniProt	UniProtKB:Q09472	EP300	PMID:16257975		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR13808	20220707		NCBITaxon:9606
+UniProt	MGI:MGI:104663	Lep	PMID:16825198|MGI:MGI:5700303		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR11724	20151126		NCBITaxon:10090
+UniProt	MGI:MGI:104771	Erbb4	PMID:16837552|MGI:MGI:3689173		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR24416	20111109		NCBITaxon:10090
+UniProt	UniProtKB:Q13651	IL10RA	PMID:16982608		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR20859	20181107		NCBITaxon:9606
+UniProt	UniProtKB:Q08334	IL10RB	PMID:16982608		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR20859	20181107		NCBITaxon:9606
+UniProt	UniProtKB:P22301	IL10	PMID:16982608		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA				20181107		NCBITaxon:9606
+UniProt	UniProtKB:P41159	LEP	PMID:17344214		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR11724	20151126		NCBITaxon:9606
+UniProt	UniProtKB:Q9NPH9	IL26	PMID:18483078		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA				20100517		NCBITaxon:9606
+UniProt	UniProtKB:Q8IUI8	CRLF3	PMID:19427400		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR23389	20101115		NCBITaxon:9606
+UniProt	UniProtKB:P10721	KIT	PMID:21135090		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR24416	20110909		NCBITaxon:9606
+UniProt	MGI:MGI:88590	Cyp1b1	PMID:23568032|MGI:MGI:5492227		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR24299	20140422		NCBITaxon:10090
+UniProt	UniProtKB:Q9UQM7	CAMK2A	PMID:35568036		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR24347	20220711		NCBITaxon:9606
+UniProt	UniProtKB:P0DP23	CALM1	PMID:35568036		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR23050	20220707		NCBITaxon:9606
+ZFIN	ZFIN:ZDB-GENE-980526-481	jak2a	PMID:16459186		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR45807	20060721		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-001207-1	supt5h	PMID:27520065		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP	ZFIN:ZDB-GENO-090223-1		PANTHER:PTHR11125	20170516		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-080110-7	il7r	PMID:28415697		GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	IMP	ZFIN:ZDB-MRPHLNO-170620-1		PANTHER:PTHR23037	20170713		NCBITaxon:7955
+BHF-UCL	UniProtKB:P51692	STAT5B	PMID:12552091		GO:0060397	growth hormone receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR11801	20090114		NCBITaxon:9606
+BHF-UCL	UniProtKB:P40763	STAT3	PMID:12552091		GO:0060397	growth hormone receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR11801	20090114		NCBITaxon:9606
+BHF-UCL	MGI:MGI:103036	Stat5a	PMID:8702683|MGI:MGI:82362		GO:0060397	growth hormone receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR11801	20090114		NCBITaxon:10090
+BHF-UCL	MGI:MGI:96629	Jak2	PMID:8923468|MGI:MGI:3828422		GO:0060397	growth hormone receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR45807	20090114		NCBITaxon:10090
+BHF-UCL	MGI:MGI:103038	Stat3	PMID:8923468|MGI:MGI:3828422		GO:0060397	growth hormone receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR11801	20090114		NCBITaxon:10090
+BHF-UCL	MGI:MGI:103035	Stat5b	PMID:8923468|MGI:MGI:3828422		GO:0060397	growth hormone receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR11801	20090114		NCBITaxon:10090
+RGD	RGD:2939	Jak2	PMID:11244571|RGD:1624962		GO:0060397	growth hormone receptor signaling pathway via JAK-STAT	IDA			PANTHER:PTHR45807	20120312		NCBITaxon:10116
+UniProt	MGI:MGI:96629	Jak2	PMID:20304997|MGI:MGI:4457458		GO:0060397	growth hormone receptor signaling pathway via JAK-STAT	IMP			PANTHER:PTHR45807	20100413		NCBITaxon:10090
+BHF-UCL	MGI:MGI:2135954	Nkd1	PMID:11274398|MGI:MGI:5437442		GO:1901231	positive regulation of non-canonical Wnt signaling pathway via JNK cascade	IDA			PANTHER:PTHR22611	20120807		NCBITaxon:10090
+ARUK-UCL	UniProtKB:O14522	PTPRT	PMID:17360477		GO:1904893	negative regulation of receptor signaling pathway via STAT	IDA			PANTHER:PTHR19134	20180803		NCBITaxon:9606
+ARUK-UCL	UniProtKB:O14522	PTPRT	PMID:24846175		GO:1904893	negative regulation of receptor signaling pathway via STAT	IMP			PANTHER:PTHR19134	20180803	GO:0030336	NCBITaxon:9606
+ARUK-UCL	RNAcentral:URS000050DE77_9606	URS000050DE77_9606	PMID:26455324		GO:1904893	negative regulation of receptor signaling pathway via STAT	IDA				20190305	GO:0070104	NCBITaxon:9606
+ARUK-UCL	RNAcentral:URS0000157026_9606	URS0000157026_9606	PMID:26455324		GO:1904893	negative regulation of receptor signaling pathway via STAT	IDA				20190305	GO:0070104	NCBITaxon:9606
+ARUK-UCL	RNAcentral:URS0000209905_9606	URS0000209905_9606	PMID:26455324		GO:1904893	negative regulation of receptor signaling pathway via STAT	IDA				20190305	GO:0070104	NCBITaxon:9606
+ARUK-UCL	UniProtKB:P37231	PPARG	PMID:28467929		GO:1904893	negative regulation of receptor signaling pathway via STAT	IDA			PANTHER:PTHR24082	20210524	UniProtKB:P40763|CL:0002591|GO:0030512	NCBITaxon:9606
+ARUK-UCL	RNAcentral:URS000042C6A6_9606	URS000042C6A6_9606	PMID:29029439		GO:1904893	negative regulation of receptor signaling pathway via STAT	IDA				20181119		NCBITaxon:9606
+ARUK-UCL	RNAcentral:URS00005A4DCF_9606	URS00005A4DCF_9606	PMID:30670152		GO:1904893	negative regulation of receptor signaling pathway via STAT	IGI	UniProtKB:P05231			20200127	UniProtKB:P40763|CL:0002618	NCBITaxon:9606
+ARUK-UCL	RNAcentral:URS000000B1C9_9606	URS000000B1C9_9606	PMID:30670152		GO:1904893	negative regulation of receptor signaling pathway via STAT	IGI	UniProtKB:P05231			20200127	UniProtKB:P40763|CL:0002618	NCBITaxon:9606
+UniProt	UniProtKB:Q2HXU8	CLEC12B	PMID:34310951		GO:1904893	negative regulation of receptor signaling pathway via STAT	IDA			PANTHER:PTHR47647	20210903		NCBITaxon:9606
+dictyBase	dictyBase:DDB_G0282145	ptpC	PMID:18305004		GO:1904893	negative regulation of receptor signaling pathway via STAT	IMP			PANTHER:PTHR19134	20220822		NCBITaxon:44689
+ARUK-UCL	UniProtKB:Q09328	MGAT5	PMID:24846175		GO:1904894	positive regulation of receptor signaling pathway via STAT	IDA			PANTHER:PTHR15075	20180803		NCBITaxon:9606
+ARUK-UCL	UniProtKB:P01137	TGFB1	PMID:28467929		GO:1904894	positive regulation of receptor signaling pathway via STAT	IDA			PANTHER:PTHR11848	20210524	UniProtKB:P40763|CL:0002591|GO:0007179	NCBITaxon:9606
+ARUK-UCL	UniProtKB:P05231	IL6	PMID:30670152		GO:1904894	positive regulation of receptor signaling pathway via STAT	IGI	RNAcentral:URS000000B1C9_9606|RNAcentral:URS00005A4DCF_9606		PANTHER:PTHR10511	20200127	UniProtKB:P40763|CL:0002618	NCBITaxon:9606
+MGI	MGI:MGI:96628	Jak1	PMID:27671227		GO:1904894	positive regulation of receptor signaling pathway via STAT	IMP	MGI:MGI:2176165|MGI:MGI:5688302		PANTHER:PTHR45807	20180517		NCBITaxon:10090
+MGI	MGI:MGI:96628	Jak1	PMID:27671227		GO:1904894	positive regulation of receptor signaling pathway via STAT	IMP	MGI:MGI:2176165|MGI:MGI:5688302		PANTHER:PTHR45807	20211122		NCBITaxon:10090
+UniProt	UniProtKB:Q969D9	TSLP	PMID:11418668		GO:1904894	positive regulation of receptor signaling pathway via STAT	IDA			PANTHER:PTHR38003	20171110		NCBITaxon:9606
+UniProt	UniProtKB:Q9HC73	CRLF2	PMID:11418668		GO:1904894	positive regulation of receptor signaling pathway via STAT	IDA			PANTHER:PTHR23036	20171110		NCBITaxon:9606
+UniProt	UniProtKB:P16871	IL7R	PMID:11418668		GO:1904894	positive regulation of receptor signaling pathway via STAT	IDA			PANTHER:PTHR23037	20171110		NCBITaxon:9606
+UniProt	MGI:MGI:96559	Il6	PMID:8910279|MGI:MGI:84432		GO:1904894	positive regulation of receptor signaling pathway via STAT	IMP			PANTHER:PTHR10511	20200526		NCBITaxon:10090
+dictyBase	dictyBase:DDB_G0289001	pyk3	PMID:24587195		GO:1904894	positive regulation of receptor signaling pathway via STAT	IMP			PANTHER:PTHR23257	20221121	GO:0072708	NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0283699	phg2	PMID:24587195		GO:1904894	positive regulation of receptor signaling pathway via STAT	IMP			PANTHER:PTHR23257	20221121	GO:0072708	NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0289001	pyk3	PMID:25143406		GO:1904894	positive regulation of receptor signaling pathway via STAT	IGI	UniProtKB:P18161		PANTHER:PTHR23257	20220201	GO:0006972	NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0285321	splB	PMID:25143406		GO:1904894	positive regulation of receptor signaling pathway via STAT	IGI	UniProtKB:Q54I36		PANTHER:PTHR23257	20160112	GO:0006972	NCBITaxon:44689

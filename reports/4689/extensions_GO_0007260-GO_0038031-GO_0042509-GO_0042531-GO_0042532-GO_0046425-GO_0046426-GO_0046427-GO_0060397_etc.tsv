@@ -1,0 +1,16 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:96556	Il4	PMID:10485657		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR47401	20170417	GO:0007260	NCBITaxon:10090
+MGI	MGI:MGI:96548	Il2	PMID:10485657		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20170417	GO:0007260	NCBITaxon:10090
+MGI	MGI:MGI:102709	Cav1	PMID:12388746		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IMP	MGI:MGI:2180364		PANTHER:PTHR10844	20170417	GO:0007260	NCBITaxon:10090
+MGI	MGI:MGI:88439	Cntf	PMID:15207851		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR15196	20170417	GO:0007260	NCBITaxon:10090
+MGI	MGI:MGI:105112	Hpx	PMID:18641331		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP	MGI:MGI:2447193		PANTHER:PTHR10201	20170417	GO:0007260	NCBITaxon:10090
+UniProt	UniProtKB:Q9UQM7	CAMK2A	PMID:11972023		GO:0071346	cellular response to type II interferon	IDA			PANTHER:PTHR24347	20220707	GO:0046427	NCBITaxon:9606
+UniProt	UniProtKB:P0DP23	CALM1	PMID:11972023		GO:0071346	cellular response to type II interferon	IDA			PANTHER:PTHR23050	20220707	GO:0046427	NCBITaxon:9606
+UniProt	UniProtKB:Q09472	EP300	PMID:16257975		GO:0003713	transcription coactivator activity	IDA			PANTHER:PTHR13808	20220707	GO:0046427|GO:0000981	NCBITaxon:9606
+UniProt	UniProtKB:P0DP24	CALM2	PMID:35568036		GO:0043539	protein serine/threonine kinase activator activity	IDA			PANTHER:PTHR23050	20220711	UniProtKB:Q9UQM7|GO:0035458|GO:0046427	NCBITaxon:9606
+UniProt	UniProtKB:P0DP23	CALM1	PMID:35568036		GO:0005509	calcium ion binding	IDA			PANTHER:PTHR23050	20220707	GO:0035458|GO:0046427|GO:0043539	NCBITaxon:9606
+UniProt	UniProtKB:P0DP23	CALM1	PMID:35568036		GO:0043539	protein serine/threonine kinase activator activity	IDA			PANTHER:PTHR23050	20220711	UniProtKB:Q9UQM7|GO:0035458|GO:0046427	NCBITaxon:9606
+UniProt	UniProtKB:P0DP23	CALM1	PMID:35568036		GO:0035458	cellular response to interferon-beta	IDA			PANTHER:PTHR23050	20220707	GO:0046427	NCBITaxon:9606
+UniProt	UniProtKB:P0DP25	CALM3	PMID:35568036		GO:0043539	protein serine/threonine kinase activator activity	IDA			PANTHER:PTHR23050	20220711	UniProtKB:Q9UQM7|GO:0035458|GO:0046427	NCBITaxon:9606
+ARUK-UCL	UniProtKB:O14522	PTPRT	PMID:17360477		GO:0004725	protein tyrosine phosphatase activity	IMP			PANTHER:PTHR19134	20180803	UniProtKB:P40763|GO:1904893	NCBITaxon:9606
+ARUK-UCL	UniProtKB:O14522	PTPRT	PMID:17360477		GO:0035335	peptidyl-tyrosine dephosphorylation	IDA			PANTHER:PTHR19134	20180803	UniProtKB:P40763|GO:1904893	NCBITaxon:9606
