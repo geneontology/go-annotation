@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	MGI:MGI:96607	Itgam	PMID:22632727|MGI:MGI:6189359		GO:1905114	cell surface receptor signaling pathway involved in cell-cell signaling	IMP			PANTHER:PTHR23220	20210428	CL:0000129|EMAPA:35290|UBERON:0009953	NCBITaxon:10090
+ARUK-UCL	MGI:MGI:88227	C3	PMID:22632727|MGI:MGI:6189359		GO:1905114	cell surface receptor signaling pathway involved in cell-cell signaling	IMP			PANTHER:PTHR11412	20210428	CL:0000129|EMAPA:35290|UBERON:0009953	NCBITaxon:10090
