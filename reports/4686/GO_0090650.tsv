@@ -1,0 +1,24 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:1333777	Aqp3	PMID:24462679		GO:0090650	cellular response to oxygen-glucose deprivation	IDA			PANTHER:PTHR43829	20170222		NCBITaxon:10090
+MGI	MGI:MGI:3718564	Mir874	PMID:24462679		GO:0090650	cellular response to oxygen-glucose deprivation	IDA				20170222		NCBITaxon:10090
+ParkinsonsUK-UCL	RGD:620124	Tsc1	PMID:23435171|RGD:10448950		GO:0090650	cellular response to oxygen-glucose deprivation	IMP			PANTHER:PTHR15154	20151117	CL:0002608|CL:0002609	NCBITaxon:10116
+RGD	RGD:620817	Aifm1	PMID:14526224|RGD:10047409		GO:0090650	cellular response to oxygen-glucose deprivation	IEP			PANTHER:PTHR43557	20150713		NCBITaxon:10116
+RGD	RGD:621539	Ireb2	PMID:16135072|RGD:12904046		GO:0090650	cellular response to oxygen-glucose deprivation	IDA			PANTHER:PTHR11670	20170516		NCBITaxon:10116
+RGD	RGD:619797	Cysltr2	PMID:17910051|RGD:5144007		GO:0090650	cellular response to oxygen-glucose deprivation	IEP			PANTHER:PTHR24230	20230222		NCBITaxon:10116
+RGD	RGD:619796	Cysltr1	PMID:17910051|RGD:5144007		GO:0090650	cellular response to oxygen-glucose deprivation	IEP			PANTHER:PTHR24230	20230222		NCBITaxon:10116
+RGD	RGD:621863	Atf4	PMID:20444431|RGD:13464322		GO:0090650	cellular response to oxygen-glucose deprivation	IEP			PANTHER:PTHR13044	20180103		NCBITaxon:10116
+RGD	RGD:621526	Ppp1r15a	PMID:21525936|RGD:10054236		GO:0090650	cellular response to oxygen-glucose deprivation	IEP			PANTHER:PTHR16489	20150729		NCBITaxon:10116
+RGD	RGD:2248	Cacnb3	PMID:23421680|RGD:13514095		GO:0090650	cellular response to oxygen-glucose deprivation	IEP			PANTHER:PTHR11824	20180328		NCBITaxon:10116
+RGD	RGD:620416	Dnm1l	PMID:23658809|RGD:12738215		GO:0090650	cellular response to oxygen-glucose deprivation	IEP			PANTHER:PTHR11566	20170130		NCBITaxon:10116
+RGD	RGD:628843	Mfn2	PMID:23658809|RGD:12738215		GO:0090650	cellular response to oxygen-glucose deprivation	IEP			PANTHER:PTHR10465	20170130		NCBITaxon:10116
+RGD	RGD:621460	Mfn1	PMID:23658809|RGD:12738215		GO:0090650	cellular response to oxygen-glucose deprivation	IEP			PANTHER:PTHR10465	20170130		NCBITaxon:10116
+RGD	RGD:61941	Robo1	PMID:23994690|RGD:243048442		GO:0090650	cellular response to oxygen-glucose deprivation	IEP			PANTHER:PTHR45080	20230331		NCBITaxon:10116
+RGD	RGD:1561386	Cbl	PMID:24229686|RGD:11038824		GO:0090650	cellular response to oxygen-glucose deprivation	IEP			PANTHER:PTHR23007	20160229		NCBITaxon:10116
+RGD	RGD:69408	Lcn2	PMID:24916903|RGD:126790489		GO:0090650	cellular response to oxygen-glucose deprivation	IEP			PANTHER:PTHR11430	20210423		NCBITaxon:10116
+RGD	RGD:1309381	Dicer1	PMID:26294080|RGD:11553310		GO:0090650	cellular response to oxygen-glucose deprivation	IEP			PANTHER:PTHR14950	20210723		NCBITaxon:10116
+RGD	RGD:2325578	Mir107	PMID:26294080|RGD:11553310		GO:0090650	cellular response to oxygen-glucose deprivation	IEP				20210721		NCBITaxon:10116
+RGD	RGD:69310	Slit2	PMID:26764532|RGD:11573340		GO:0090650	cellular response to oxygen-glucose deprivation	IEP				20230330		NCBITaxon:10116
+RGD	RGD:631365	Nampt	PMID:28528966|RGD:13781879		GO:0090650	cellular response to oxygen-glucose deprivation	IEP			PANTHER:PTHR43816	20180809		NCBITaxon:10116
+RGD	RGD:1309740	Dll4	PMID:30653356|RGD:155663383		GO:0090650	cellular response to oxygen-glucose deprivation	IEP			PANTHER:PTHR24044	20221115		NCBITaxon:10116
+RGD	RGD:1549738	Nono	PMID:32424772|RGD:155882459		GO:0090650	cellular response to oxygen-glucose deprivation	IEP			PANTHER:PTHR23189	20230119		NCBITaxon:10116
+RGD	RGD:1309438	Map3k7	PMID:32734729|RGD:155804275		GO:0090650	cellular response to oxygen-glucose deprivation	IEP			PANTHER:PTHR46716	20230112		NCBITaxon:10116

@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ParkinsonsUK-UCL	RGD:620124	Tsc1	PMID:23435171|RGD:10448950		GO:1901214	regulation of neuron death	IMP			PANTHER:PTHR15154	20151117	GO:0090650|CL:0002608|CL:0002609	NCBITaxon:10116
