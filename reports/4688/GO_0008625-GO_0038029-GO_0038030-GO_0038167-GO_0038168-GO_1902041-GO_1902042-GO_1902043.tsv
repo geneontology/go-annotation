@@ -1,0 +1,137 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:P01375	TNF	PMID:10521396		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR11471	20130529		NCBITaxon:9606
+BHF-UCL	MGI:MGI:95484	Fas	PMID:10950869|MGI:MGI:5009197		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR46874	20130529		NCBITaxon:10090
+BHF-UCL	UniProtKB:P01138	NGF	PMID:14985763		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR11589	20130617		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q99523	SORT1	PMID:14985763		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR12106	20130617		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q96BY2	MOAP1	PMID:16199525		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR23095	20140217		NCBITaxon:9606
+BHF-UCL	UniProtKB:P01375	TNF	PMID:18202225		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR11471	20130523		NCBITaxon:9606
+BHF-UCL	UniProtKB:P48023	FASLG	PMID:18835034		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR11471	20130617		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q5VWQ8	DAB2IP	PMID:19903888		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR10194	20130529		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-975	casp8_human-1	PMID:11717445		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA				20181009		NCBITaxon:9606
+MGI	MGI:MGI:1349399	Casp8ap2	PMID:10235259		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR15489	20101214		NCBITaxon:10090
+MGI	MGI:MGI:95484	Fas	PMID:10429671		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IMP	MGI:MGI:1856334		PANTHER:PTHR46874	20041207		NCBITaxon:10090
+MGI	MGI:MGI:99255	Fasl	PMID:10588860		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR11471	20130425		NCBITaxon:10090
+MGI	MGI:MGI:95484	Fas	PMID:10588860		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR46874	20130425		NCBITaxon:10090
+MGI	MGI:MGI:99702	Bax	PMID:10597216		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR11256	20130425		NCBITaxon:10090
+MGI	UniProtKB:O95817	BAG3	PMID:10597216		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR12329	20130425		NCBITaxon:9606
+MGI	UniProtKB:P10415	BCL2	PMID:10597216		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR11256	20130425		NCBITaxon:9606
+MGI	MGI:MGI:1338016	Bex3	PMID:10764727		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IPI	PR:Q9Z0W1		PANTHER:PTHR19430	20010918		NCBITaxon:10090
+MGI	MGI:MGI:106203	Skil	PMID:10811619		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IMP	MGI:MGI:2387096		PANTHER:PTHR10005	20130624	CL:0000236	NCBITaxon:10090
+MGI	MGI:MGI:106203	Skil	PMID:10811619		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IMP	MGI:MGI:2387096		PANTHER:PTHR10005	20130624	CL:0000057	NCBITaxon:10090
+MGI	MGI:MGI:95484	Fas	PMID:12431371		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR46874	20130516		NCBITaxon:10090
+MGI	MGI:MGI:95484	Fas	PMID:12431371		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:1096330		PANTHER:PTHR46874	20110420		NCBITaxon:10090
+MGI	MGI:MGI:104798	Tnf	PMID:12431371		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:1096330		PANTHER:PTHR11471	20050317		NCBITaxon:10090
+MGI	MGI:MGI:1096330	Bad	PMID:12431371		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IMP	MGI:MGI:3029528		PANTHER:PTHR28540	20130516		NCBITaxon:10090
+MGI	MGI:MGI:95484	Fas	PMID:12801066		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR46874	20101221		NCBITaxon:10090
+MGI	MGI:MGI:95484	Fas	PMID:12801066		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR46874	20040203		NCBITaxon:10090
+MGI	MGI:MGI:1916885	Dapk1	PMID:15010850		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IMP	MGI:MGI:3052030		PANTHER:PTHR24342	20130621		NCBITaxon:10090
+MGI	MGI:MGI:99255	Fasl	PMID:15039234		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR11471	20210322	CL:0000097|EMAPA:32760	NCBITaxon:10090
+MGI	MGI:MGI:95484	Fas	PMID:15039234		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR46874	20210322	CL:0000097|EMAPA:32760	NCBITaxon:10090
+MGI	MGI:MGI:97583	Pik3r1	PMID:15039234		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:97306		PANTHER:PTHR10155	20210323	CL:0000097|EMAPA:32760	NCBITaxon:10090
+MGI	MGI:MGI:97583	Pik3r1	PMID:15039234		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR10155	20210323	CL:0000097|EMAPA:32760	NCBITaxon:10090
+MGI	MGI:MGI:97306	Nf1	PMID:15039234		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IMP	MGI:MGI:1857478		PANTHER:PTHR10194	20210323	CL:0000097|EMAPA:32760	NCBITaxon:10090
+MGI	MGI:MGI:97306	Nf1	PMID:15039234		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:97583		PANTHER:PTHR10194	20210323	CL:0000097|EMAPA:32760	NCBITaxon:10090
+MGI	MGI:MGI:1261423	Casp8	PMID:15322156		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IMP	MGI:MGI:2177602|MGI:MGI:3054930		PANTHER:PTHR10454	20210319	CL:0000182|EMAPA:16846	NCBITaxon:10090
+MGI	MGI:MGI:1261423	Casp8	PMID:15322156		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IMP	MGI:MGI:2177602|MGI:MGI:3054930		PANTHER:PTHR10454	20210319	EMAPA:16042	NCBITaxon:10090
+MGI	MGI:MGI:95484	Fas	PMID:15632112		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR46874	20190401		NCBITaxon:10090
+MGI	MGI:MGI:1889507	Pidd1	PMID:16183742		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:109324		PANTHER:PTHR45752	20190401		NCBITaxon:10090
+MGI	MGI:MGI:107926	Rock2	PMID:16365167		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:97847		PANTHER:PTHR22988	20210324	CL:0000057	NCBITaxon:10090
+MGI	MGI:MGI:107926	Rock2	PMID:16365167		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:95484		PANTHER:PTHR22988	20210324	CL:0000057	NCBITaxon:10090
+MGI	MGI:MGI:97847	Raf1	PMID:16365167		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:95484		PANTHER:PTHR44329	20130613	EMAPA:16846	NCBITaxon:10090
+MGI	MGI:MGI:97847	Raf1	PMID:16365167		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IMP	MGI:MGI:2388026		PANTHER:PTHR44329	20130613	CL:0000057	NCBITaxon:10090
+MGI	MGI:MGI:97847	Raf1	PMID:16365167		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:99255		PANTHER:PTHR44329	20130613	EMAPA:16846	NCBITaxon:10090
+MGI	MGI:MGI:95484	Fas	PMID:18363966		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR46874	20130625		NCBITaxon:10090
+MGI	MGI:MGI:96157	Hmgb2	PMID:19139395		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IMP	MGI:MGI:2387671		PANTHER:PTHR48112	20130625	CL:0000138	NCBITaxon:10090
+MGI	MGI:MGI:1916885	Dapk1	PMID:20053891		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:3042776		PANTHER:PTHR24342	20130621		NCBITaxon:10090
+MGI	MGI:MGI:3042776	Itprip	PMID:20053891		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:1916885		PANTHER:PTHR10656	20130621	CL:0000057	NCBITaxon:10090
+MGI	MGI:MGI:3042776	Itprip	PMID:20053891		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:1916885		PANTHER:PTHR10656	20130621	EMAPA:32845	NCBITaxon:10090
+MGI	MGI:MGI:3042776	Itprip	PMID:20053891		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:1916885		PANTHER:PTHR10656	20130621	CL:0000540	NCBITaxon:10090
+MGI	MGI:MGI:1928487	Stk3	PMID:20080598		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:1928487		PANTHER:PTHR48015	20130617	EMAPA:16846	NCBITaxon:10090
+MGI	MGI:MGI:1928487	Stk3	PMID:20080598		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:104798		PANTHER:PTHR48015	20130617	EMAPA:16846	NCBITaxon:10090
+MGI	MGI:MGI:1928487	Stk3	PMID:20080598		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:1929004		PANTHER:PTHR48015	20130617	EMAPA:16846	NCBITaxon:10090
+MGI	MGI:MGI:1928487	Stk3	PMID:20080598		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:104798		PANTHER:PTHR48015	20130617	CL:0000182	NCBITaxon:10090
+MGI	MGI:MGI:1929004	Stk4	PMID:20080598		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:104798		PANTHER:PTHR48015	20130617	EMAPA:16846	NCBITaxon:10090
+MGI	MGI:MGI:1929004	Stk4	PMID:20080598		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:1928487		PANTHER:PTHR48015	20130617	EMAPA:16846	NCBITaxon:10090
+MGI	MGI:MGI:1929004	Stk4	PMID:20080598		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:104798		PANTHER:PTHR48015	20130617	CL:0000182	NCBITaxon:10090
+MGI	MGI:MGI:104798	Tnf	PMID:20080598		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:1928487		PANTHER:PTHR11471	20210326	CL:0000182	NCBITaxon:10090
+MGI	MGI:MGI:104798	Tnf	PMID:20080598		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:1929004		PANTHER:PTHR11471	20210326	CL:0000182	NCBITaxon:10090
+MGI	UniProtKB:P48023	FASLG	PMID:26582200		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR11471	20170111		NCBITaxon:9606
+MGI	MGI:MGI:95484	Fas	PMID:8524870		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR46874	20100112		NCBITaxon:10090
+MGI	MGI:MGI:95484	Fas	PMID:8524870		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR46874	20080221		NCBITaxon:10090
+MGI	MGI:MGI:1333874	Dedd	PMID:9774341		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR15205	20130620		NCBITaxon:10090
+RGD	RGD:3880	Faslg	PMID:16689665|RGD:1582444		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR11471	20061108		NCBITaxon:10116
+RGD	RGD:1308041	Tnfrsf10b	PMID:19934367|RGD:4142856		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IMP				20100914		NCBITaxon:10116
+UniProt	UniProtKB:Q9XSR0	IL18	PMID:11131641		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IEP				20020906		NCBITaxon:9615
+UniProt	UniProtKB:Q8WXF8	DEDD2	PMID:11741985		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR15205	20031216		NCBITaxon:9606
+UniProt	UniProtKB:Q9H0S4	DDX47	PMID:15977068		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR24031	20130502		NCBITaxon:9606
+UniProt	UniProtKB:O95166	GABARAP	PMID:15977068		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR10969	20130502		NCBITaxon:9606
+UniProt	UniProtKB:Q9UKL3	CASP8AP2	PMID:17245429		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR15489	20130403		NCBITaxon:9606
+UniProt	UniProtKB:Q6QNY1	BLOC1S2	PMID:18188704		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR46479	20130530		NCBITaxon:9606
+UniProt	UniProtKB:P01375	TNF	PMID:18676776		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR11471	20110321		NCBITaxon:9606
+UniProt	UniProtKB:O00571	DDX3X	PMID:18846110		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR47958	20120810		NCBITaxon:9606
+UniProt	UniProtKB:Q14154	DELE1	PMID:20563667		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR45011	20130503		NCBITaxon:9606
+UniProt	UniProtKB:Q13158	FADD	PMID:24025841		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR15077	20210303		NCBITaxon:9606
+UniProt	UniProtKB:Q9UER7	DAXX	PMID:9215629		GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR12766	20210713		NCBITaxon:9606
+UniProt	UniProtKB:P01133	EGF	PMID:18722344		GO:0038029	epidermal growth factor receptor signaling pathway via MAPK cascade	IMP			PANTHER:PTHR46513	20200619		NCBITaxon:9606
+BHF-UCL	UniProtKB:P56705	WNT4	PMID:17720811		GO:0038030	non-canonical Wnt signaling pathway via MAPK cascade	IDA			PANTHER:PTHR12027	20120119		NCBITaxon:9606
+MGI	MGI:MGI:2442060	Rassf2	PMID:22227519		GO:0038168	epidermal growth factor receptor signaling pathway via I-kappaB kinase/NF-kappaB cascade	IMP	MGI:MGI:5314787		PANTHER:PTHR22738	20131202		NCBITaxon:10090
+BHF-UCL	UniProtKB:P17931	LGALS3	PMID:8692888		GO:1902041	regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR11346	20140219	CL:0000084	NCBITaxon:9606
+UniProt	UniProtKB:Q9UK73	FEM1B	PMID:10542291		GO:1902041	regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR24173	20130513		NCBITaxon:9606
+UniProt	UniProtKB:P23497	SP100	PMID:17245429		GO:1902041	regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR46386	20130403		NCBITaxon:9606
+UniProt	UniProtKB:Q12846	STX4	PMID:20956541		GO:1902041	regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR19957	20141023		NCBITaxon:9606
+UniProt	UniProtKB:Q8IU68	TMC8	PMID:23429285		GO:1902041	regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR23302	20130822		NCBITaxon:9606
+UniProt	UniProtKB:Q8WXG6	MADD	PMID:9115275		GO:1902041	regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR13008	20130507		NCBITaxon:9606
+BHF-UCL	UniProtKB:P05362	ICAM1	PMID:10903502		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR13771	20140411	CL:0000115	NCBITaxon:9606
+BHF-UCL	UniProtKB:P02679	FGG	PMID:10903502		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR19143	20140411	CL:0000115	NCBITaxon:9606
+BHF-UCL	UniProtKB:P02675	FGB	PMID:10903502		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR19143	20140411	CL:0000115	NCBITaxon:9606
+BHF-UCL	UniProtKB:P02671	FGA	PMID:10903502		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR47221	20140411	CL:0000115	NCBITaxon:9606
+BHF-UCL	UniProtKB:P29473	NOS3	PMID:11085984		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR19384	20130618		NCBITaxon:9913
+BHF-UCL	UniProtKB:P21580	TNFAIP3	PMID:12167698		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR13367	20130613		NCBITaxon:9606
+BHF-UCL	UniProtKB:P07203	GPX1	PMID:12221075		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR11592	20130617		NCBITaxon:9606
+BHF-UCL	UniProtKB:O15519	CFLAR	PMID:18202225		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR10454	20130523		NCBITaxon:9606
+BHF-UCL	UniProtKB:P09601	HMOX1	PMID:18202225		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR10720	20130523		NCBITaxon:9606
+BHF-UCL	UniProtKB:P05121	SERPINE1	PMID:18835034		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR11461	20130617		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q865S3	ARHGEF2	PMID:22711822		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR13944	20130619		NCBITaxon:9615
+BHF-UCL	UniProtKB:P38398	BRCA1	PMID:23415688		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR13763	20140818	CL:0002618	NCBITaxon:9606
+BHF-UCL	MGI:MGI:108078	Sfrp2	PMID:9391078|MGI:MGI:4835156		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR11309	20130614		NCBITaxon:10090
+MGI	MGI:MGI:1344387	Faim	PMID:10075978		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR13088	20130624		NCBITaxon:10090
+MGI	MGI:MGI:104799	Pea15a	PMID:10588860		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR48169	20130425		NCBITaxon:10090
+MGI	PR:Q80YE7-1	mDAPK1/iso:1	PMID:11485996		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA				20130621		NCBITaxon:10090
+MGI	MGI:MGI:1930270	Tnfrsf22	PMID:12466268		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA				20130624		NCBITaxon:10090
+MGI	MGI:MGI:1930269	Tnfrsf23	PMID:12466268		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR46874	20130624		NCBITaxon:10090
+MGI	MGI:MGI:96079	Hgf	PMID:15314156		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR24261	20130625		NCBITaxon:10090
+MGI	MGI:MGI:97847	Raf1	PMID:16365167		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:99255		PANTHER:PTHR44329	20130613	GO:0008625	NCBITaxon:10090
+MGI	MGI:MGI:97847	Raf1	PMID:16365167		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:95484		PANTHER:PTHR44329	20130613	GO:0008625	NCBITaxon:10090
+MGI	MGI:MGI:97847	Raf1	PMID:16365167		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP	MGI:MGI:2388026		PANTHER:PTHR44329	20130613	GO:0008625	NCBITaxon:10090
+MGI	MGI:MGI:96157	Hmgb2	PMID:19139395		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP	MGI:MGI:2387671		PANTHER:PTHR48112	20130625	GO:0008625	NCBITaxon:10090
+MGI	MGI:MGI:3042776	Itprip	PMID:20053891		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:1916885		PANTHER:PTHR10656	20130621	GO:0008625	NCBITaxon:10090
+MGI	UniProtKB:O15519	CFLAR	PMID:26582200		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR10454	20170111		NCBITaxon:9606
+MGI	UniProtKB:Q07817	BCL2L1	PMID:26582200		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR11256	20170111		NCBITaxon:9606
+MGI	UniProtKB:Q9BWQ8	FAIM2	PMID:26582200		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR23291	20170111		NCBITaxon:9606
+MGI	PR:000036858	mPSEN2/iso:PS2short	PMID:9353287		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA				20130620		NCBITaxon:10090
+UniProt	UniProtKB:Q15121	PEA15	PMID:10442631		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR48169	20130524		NCBITaxon:9606
+UniProt	RGD:708558	Nol3	PMID:12191471|RGD:631884		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR22797	20150106		NCBITaxon:10116
+UniProt	UniProtKB:Q969K3	RNF34	PMID:15069192		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR14879	20131106		NCBITaxon:9606
+UniProt	UniProtKB:Q8WZ73	RFFL	PMID:15069192		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR14879	20131106		NCBITaxon:9606
+UniProt	RGD:708558	Nol3	PMID:15383280|RGD:10047289		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR22797	20141219		NCBITaxon:10116
+UniProt	UniProtKB:O00571	DDX3X	PMID:18846110		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR47958	20191030		NCBITaxon:9606
+UniProt	UniProtKB:P49841	GSK3B	PMID:18846110		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR24057	20191030		NCBITaxon:9606
+UniProt	UniProtKB:Q969X1	TMBIM1	PMID:21107705		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP			PANTHER:PTHR23291	20140515		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q13794	PMAIP1	PMID:15705586		GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR14299	20151130	GO:0043331	NCBITaxon:9606
+BHF-UCL	UniProtKB:P07996	THBS1	PMID:18726995		GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR10199	20130619		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q8N474	SFRP1	PMID:9391078		GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR11309	20130614		NCBITaxon:9606
+MGI	MGI:MGI:104799	Pea15a	PMID:10588860		GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR48169	20130425		NCBITaxon:10090
+MGI	MGI:MGI:106203	Skil	PMID:10811619		GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP	MGI:MGI:2387096		PANTHER:PTHR10005	20130624	GO:0008625	NCBITaxon:10090
+MGI	MGI:MGI:892970	Mal	PMID:12776198		GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR22776	20130621		NCBITaxon:10090
+MGI	MGI:MGI:1919111	Zswim2	PMID:16522193		GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR21540	20130624		NCBITaxon:10090
+MGI	MGI:MGI:107191	Bmpr1b	PMID:18363966		GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:95484		PANTHER:PTHR23255	20130625		NCBITaxon:10090
+MGI	MGI:MGI:107191	Bmpr1b	PMID:18363966		GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:1927616		PANTHER:PTHR23255	20130625		NCBITaxon:10090
+MGI	MGI:MGI:1927616	Trps1	PMID:18363966		GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:107191		PANTHER:PTHR47034	20130625		NCBITaxon:10090
+MGI	MGI:MGI:1927616	Trps1	PMID:18363966		GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:95484		PANTHER:PTHR47034	20130625		NCBITaxon:10090
+MGI	MGI:MGI:1928487	Stk3	PMID:20080598		GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:1928487		PANTHER:PTHR48015	20130617	GO:0008625	NCBITaxon:10090
+MGI	MGI:MGI:1928487	Stk3	PMID:20080598		GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:104798		PANTHER:PTHR48015	20130617	GO:0008625	NCBITaxon:10090
+MGI	MGI:MGI:1928487	Stk3	PMID:20080598		GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:1929004		PANTHER:PTHR48015	20130617	GO:0008625	NCBITaxon:10090
+MGI	MGI:MGI:1929004	Stk4	PMID:20080598		GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:104798		PANTHER:PTHR48015	20130617	GO:0008625	NCBITaxon:10090
+MGI	MGI:MGI:1929004	Stk4	PMID:20080598		GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:1928487		PANTHER:PTHR48015	20130617	GO:0008625	NCBITaxon:10090
+MGI	MGI:MGI:109419	Faf1	PMID:8524870		GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR23322	20130624		NCBITaxon:10090
+MGI	MGI:MGI:109284	Psen2	PMID:8940094		GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	IDA			PANTHER:PTHR10202	20130628		NCBITaxon:10090

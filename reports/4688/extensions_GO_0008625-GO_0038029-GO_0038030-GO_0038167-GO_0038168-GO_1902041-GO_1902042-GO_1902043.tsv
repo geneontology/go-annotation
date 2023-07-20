@@ -1,0 +1,12 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:106203	Skil	PMID:10811619		GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP	MGI:MGI:2387096		PANTHER:PTHR10005	20130624	GO:0008625	NCBITaxon:10090
+MGI	MGI:MGI:97847	Raf1	PMID:16365167		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:99255		PANTHER:PTHR44329	20130613	GO:0008625	NCBITaxon:10090
+MGI	MGI:MGI:97847	Raf1	PMID:16365167		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:95484		PANTHER:PTHR44329	20130613	GO:0008625	NCBITaxon:10090
+MGI	MGI:MGI:97847	Raf1	PMID:16365167		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP	MGI:MGI:2388026		PANTHER:PTHR44329	20130613	GO:0008625	NCBITaxon:10090
+MGI	MGI:MGI:96157	Hmgb2	PMID:19139395		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IMP	MGI:MGI:2387671		PANTHER:PTHR48112	20130625	GO:0008625	NCBITaxon:10090
+MGI	MGI:MGI:3042776	Itprip	PMID:20053891		GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:1916885		PANTHER:PTHR10656	20130621	GO:0008625	NCBITaxon:10090
+MGI	MGI:MGI:1928487	Stk3	PMID:20080598		GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:1928487		PANTHER:PTHR48015	20130617	GO:0008625	NCBITaxon:10090
+MGI	MGI:MGI:1928487	Stk3	PMID:20080598		GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:104798		PANTHER:PTHR48015	20130617	GO:0008625	NCBITaxon:10090
+MGI	MGI:MGI:1928487	Stk3	PMID:20080598		GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:1929004		PANTHER:PTHR48015	20130617	GO:0008625	NCBITaxon:10090
+MGI	MGI:MGI:1929004	Stk4	PMID:20080598		GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:104798		PANTHER:PTHR48015	20130617	GO:0008625	NCBITaxon:10090
+MGI	MGI:MGI:1929004	Stk4	PMID:20080598		GO:1902043	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors	IGI	MGI:MGI:1928487		PANTHER:PTHR48015	20130617	GO:0008625	NCBITaxon:10090
