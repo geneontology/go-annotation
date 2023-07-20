@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:P01133	EGF	PMID:18722344		GO:0038029	epidermal growth factor receptor signaling pathway via MAPK cascade	IMP			PANTHER:PTHR46513	20200619		NCBITaxon:9606
+BHF-UCL	UniProtKB:P56705	WNT4	PMID:17720811		GO:0038030	non-canonical Wnt signaling pathway via MAPK cascade	IDA			PANTHER:PTHR12027	20120119		NCBITaxon:9606
+MGI	MGI:MGI:2442060	Rassf2	PMID:22227519		GO:0038168	epidermal growth factor receptor signaling pathway via I-kappaB kinase/NF-kappaB cascade	IMP	MGI:MGI:5314787		PANTHER:PTHR22738	20131202		NCBITaxon:10090
