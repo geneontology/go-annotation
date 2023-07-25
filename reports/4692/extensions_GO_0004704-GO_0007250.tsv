@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:87963	Agt	PMID:19404405		GO:0007250	activation of NF-kappaB-inducing kinase activity	IDA			PANTHER:PTHR11461	20110715	GO:0004704	NCBITaxon:10090

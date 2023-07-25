@@ -1,4 +1,4 @@
-!version date: 2023/05/07 15:16:38
+!version date: 2023/07/03 12:40:08
 !description: Mapping of UniProt Subcellular Location vocabulary to GO terms.
 !external resource: http://www.uniprot.org
 !citation: Barrell, D. et al. (2009) Nucleic Acids Res. 37: D396-D403.

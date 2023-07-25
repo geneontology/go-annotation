@@ -1,4 +1,4 @@
-!version date: 2023/05/09 00:17:03
+!version date: 2023/07/05 00:21:08
 !description: Mapping of GO terms to PRINTS entries. This mapping is generated from data supplied by InterPro for the InterPro2GO mapping.
 !external resources:http://www.ebi.ac.uk/interpro, http://www.bioinf.man.ac.uk/dbbrowser/PRINTS/
 !citation: Mitchell et al. (2015) Nucl. Acids Res. 43 :D213-D221
@@ -463,7 +463,6 @@ PRINTS:PR00256 REACTNCENTRE > GO:photosynthesis, light reaction ; GO:0019684
 PRINTS:PR00257 PHOTSYSPSAAB > GO:photosynthesis ; GO:0015979
 PRINTS:PR00257 PHOTSYSPSAAB > GO:thylakoid ; GO:0009579
 PRINTS:PR00257 PHOTSYSPSAAB > GO:membrane ; GO:0016020
-PRINTS:PR00258 SPERACTRCPTR > GO:scavenger receptor activity ; GO:0005044
 PRINTS:PR00258 SPERACTRCPTR > GO:membrane ; GO:0016020
 PRINTS:PR00260 CHEMTRNSDUCR > GO:transmembrane signaling receptor activity ; GO:0004888
 PRINTS:PR00260 CHEMTRNSDUCR > GO:chemotaxis ; GO:0006935
@@ -1549,7 +1548,6 @@ PRINTS:PR00759 BASICPTASE > GO:serine-type endopeptidase inhibitor activity ; GO
 PRINTS:PR00760 BONTOXILYSIN > GO:metalloendopeptidase activity ; GO:0004222
 PRINTS:PR00760 BONTOXILYSIN > GO:zinc ion binding ; GO:0008270
 PRINTS:PR00760 BONTOXILYSIN > GO:proteolysis ; GO:0006508
-PRINTS:PR00760 BONTOXILYSIN > GO:negative regulation of neurotransmitter secretion ; GO:0046929
 PRINTS:PR00761 BINDIN > GO:fusion of sperm to egg plasma membrane involved in single fertilization ; GO:0007342
 PRINTS:PR00762 CLCHANNEL > GO:voltage-gated chloride channel activity ; GO:0005247
 PRINTS:PR00762 CLCHANNEL > GO:chloride transport ; GO:0006821
@@ -1770,9 +1768,6 @@ PRINTS:PR00880 ACHEINSECT > GO:acetylcholinesterase activity ; GO:0003990
 PRINTS:PR00880 ACHEINSECT > GO:acetylcholine catabolic process in synaptic cleft ; GO:0001507
 PRINTS:PR00883 NUCLEARHMG > GO:RNA binding ; GO:0003723
 PRINTS:PR00883 NUCLEARHMG > GO:nucleolus ; GO:0005730
-PRINTS:PR00884 RIBOSOMALHS6 > GO:structural constituent of ribosome ; GO:0003735
-PRINTS:PR00884 RIBOSOMALHS6 > GO:translation ; GO:0006412
-PRINTS:PR00884 RIBOSOMALHS6 > GO:ribosome ; GO:0005840
 PRINTS:PR00885 BCTERIALGSPH > GO:protein secretion by the type II secretion system ; GO:0015628
 PRINTS:PR00885 BCTERIALGSPH > GO:type II protein secretion system complex ; GO:0015627
 PRINTS:PR00887 SSRCOGNITION > GO:DNA binding ; GO:0003677
@@ -1952,7 +1947,7 @@ PRINTS:PR00975 RIBOSOMALS19 > GO:ribosome ; GO:0005840
 PRINTS:PR00976 RIBOSOMALS21 > GO:structural constituent of ribosome ; GO:0003735
 PRINTS:PR00976 RIBOSOMALS21 > GO:translation ; GO:0006412
 PRINTS:PR00976 RIBOSOMALS21 > GO:ribosome ; GO:0005840
-PRINTS:PR00977 SCYTLDPTASE > GO:aspartic-type endopeptidase activity ; GO:0004190
+PRINTS:PR00977 SCYTLDPTASE > GO:glutamic-type endopeptidase activity ; GO:0070007
 PRINTS:PR00977 SCYTLDPTASE > GO:proteolysis ; GO:0006508
 PRINTS:PR00978 STARPROTEIN > GO:lipid binding ; GO:0008289
 PRINTS:PR00979 TAFAZZIN > GO:acyltransferase activity ; GO:0016746
@@ -2095,7 +2090,7 @@ PRINTS:PR01033 PHYTOCHROME > GO:regulation of DNA-templated transcription ; GO:0
 PRINTS:PR01033 PHYTOCHROME > GO:detection of visible light ; GO:0009584
 PRINTS:PR01034 RIBOSOMALS12 > GO:structural constituent of ribosome ; GO:0003735
 PRINTS:PR01034 RIBOSOMALS12 > GO:translation ; GO:0006412
-PRINTS:PR01034 RIBOSOMALS12 > GO:ribosome ; GO:0005840
+PRINTS:PR01034 RIBOSOMALS12 > GO:small ribosomal subunit ; GO:0015935
 PRINTS:PR01035 TCRTETA > GO:transmembrane transporter activity ; GO:0022857
 PRINTS:PR01038 TRNASYNTHARG > GO:arginine-tRNA ligase activity ; GO:0004814
 PRINTS:PR01038 TRNASYNTHARG > GO:ATP binding ; GO:0005524
@@ -2200,7 +2195,7 @@ PRINTS:PR01070 ACCCTRFRASEB > GO:acetyl-CoA carboxylase complex ; GO:0009317
 PRINTS:PR01071 ACOABIOTINCC > GO:acetyl-CoA carboxylase activity ; GO:0003989
 PRINTS:PR01071 ACOABIOTINCC > GO:fatty acid biosynthetic process ; GO:0006633
 PRINTS:PR01071 ACOABIOTINCC > GO:acetyl-CoA carboxylase complex ; GO:0009317
-PRINTS:PR01072 PRESENILIN > GO:aspartic-type endopeptidase activity ; GO:0004190
+PRINTS:PR01072 PRESENILIN > GO:aspartic endopeptidase activity, intramembrane cleaving ; GO:0042500
 PRINTS:PR01072 PRESENILIN > GO:protein processing ; GO:0016485
 PRINTS:PR01072 PRESENILIN > GO:membrane ; GO:0016020
 PRINTS:PR01073 PRESENILIN1 > GO:aspartic endopeptidase activity, intramembrane cleaving ; GO:0042500
@@ -2211,6 +2206,7 @@ PRINTS:PR01074 PRESENILIN2 > GO:aspartic endopeptidase activity, intramembrane c
 PRINTS:PR01074 PRESENILIN2 > GO:intracellular signal transduction ; GO:0035556
 PRINTS:PR01074 PRESENILIN2 > GO:amyloid precursor protein catabolic process ; GO:0042987
 PRINTS:PR01074 PRESENILIN2 > GO:membrane ; GO:0016020
+PRINTS:PR01075 PRESENILNSEL > GO:aspartic endopeptidase activity, intramembrane cleaving ; GO:0042500
 PRINTS:PR01075 PRESENILNSEL > GO:nervous system development ; GO:0007399
 PRINTS:PR01075 PRESENILNSEL > GO:egg-laying behavior ; GO:0018991
 PRINTS:PR01075 PRESENILNSEL > GO:membrane ; GO:0016020
@@ -2595,7 +2591,8 @@ PRINTS:PR01213 BSYNUCLEIN > GO:cytoplasm ; GO:0005737
 PRINTS:PR01216 ADHESIVEI > GO:extracellular region ; GO:0005576
 PRINTS:PR01219 APOLIPOPROTD > GO:lipid binding ; GO:0008289
 PRINTS:PR01219 APOLIPOPROTD > GO:lipid transport ; GO:0006869
-PRINTS:PR01219 APOLIPOPROTD > GO:obsolete aging ; GO:0007568
+PRINTS:PR01219 APOLIPOPROTD > GO:brain development ; GO:0007420
+PRINTS:PR01219 APOLIPOPROTD > GO:tissue regeneration ; GO:0042246
 PRINTS:PR01220 HISBINDING > GO:amine binding ; GO:0043176
 PRINTS:PR01220 HISBINDING > GO:mitigation of host defenses by symbiont ; GO:0030682
 PRINTS:PR01223 BRIDEOF7LESS > GO:sevenless binding ; GO:0005118
@@ -3411,7 +3408,7 @@ PRINTS:PR01591 DNABINDNGFIS > GO:DNA binding ; GO:0003677
 PRINTS:PR01591 DNABINDNGFIS > GO:regulation of DNA-templated transcription ; GO:0006355
 PRINTS:PR01592 LCRVANTIGEN > GO:extracellular region ; GO:0005576
 PRINTS:PR01593 SOPEPROTEIN > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
-PRINTS:PR01593 SOPEPROTEIN > GO:actin cytoskeleton reorganization ; GO:0031532
+PRINTS:PR01593 SOPEPROTEIN > GO:actin cytoskeleton organization ; GO:0030036
 PRINTS:PR01593 SOPEPROTEIN > GO:activation of GTPase activity ; GO:0090630
 PRINTS:PR01593 SOPEPROTEIN > GO:extracellular region ; GO:0005576
 PRINTS:PR01594 SECBCHAPRONE > GO:unfolded protein binding ; GO:0051082
@@ -4248,7 +4245,8 @@ PRINTS:PR02057 PROTEINF105B > GO:cysteine-type deubiquitinase activity ; GO:0004
 PRINTS:PR02057 PROTEINF105B > GO:protein linear deubiquitination ; GO:1990108
 PRINTS:PR02058 APODVERTBRTE > GO:lipid binding ; GO:0008289
 PRINTS:PR02058 APODVERTBRTE > GO:lipid transport ; GO:0006869
-PRINTS:PR02058 APODVERTBRTE > GO:obsolete aging ; GO:0007568
+PRINTS:PR02058 APODVERTBRTE > GO:brain development ; GO:0007420
+PRINTS:PR02058 APODVERTBRTE > GO:tissue regeneration ; GO:0042246
 PRINTS:PR02059 JAGGEDFAMILY > GO:Notch binding ; GO:0005112
 PRINTS:PR02059 JAGGEDFAMILY > GO:Notch signaling pathway ; GO:0007219
 PRINTS:PR02061 WOLFRAMIN > GO:calcium ion homeostasis ; GO:0055074

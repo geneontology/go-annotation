@@ -1,4 +1,4 @@
-!version date: 2023/05/09 00:17:03
+!version date: 2023/07/05 00:21:08
 !description: Mapping of GO terms to SMART entries. This mapping is generated from data supplied by InterPro for the InterPro2GO mapping.
 !external resources: http://www.ebi.ac.uk/interpro, http://smart.embl-heidelberg.de/
 !citation: Mitchell et al. (2015) Nucl. Acids Res. 43 :D213-D221
@@ -295,7 +295,7 @@ SMART:SM00325 RhoGEF > GO:guanyl-nucleotide exchange factor activity ; GO:000508
 SMART:SM00326 SH3 > GO:protein binding ; GO:0005515
 SMART:SM00328 BPI1 > GO:lipid binding ; GO:0008289
 SMART:SM00329 BPI2 > GO:lipid binding ; GO:0008289
-SMART:SM00330 PIPKc > GO:phosphatidylinositol phosphate kinase activity ; GO:0016307
+SMART:SM00330 PIPKc > GO:phosphatidylinositol kinase activity ; GO:0052742
 SMART:SM00330 PIPKc > GO:phosphatidylinositol metabolic process ; GO:0046488
 SMART:SM00335 ANX > GO:calcium ion binding ; GO:0005509
 SMART:SM00335 ANX > GO:calcium-dependent phospholipid binding ; GO:0005544
@@ -339,6 +339,7 @@ SMART:SM00361 RRM_1 > GO:nucleic acid binding ; GO:0003676
 SMART:SM00363 S4 > GO:RNA binding ; GO:0003723
 SMART:SM00380 AP2 > GO:DNA-binding transcription factor activity ; GO:0003700
 SMART:SM00380 AP2 > GO:regulation of DNA-templated transcription ; GO:0006355
+SMART:SM00382 AAA > GO:ATP hydrolysis activity ; GO:0016887
 SMART:SM00384 AT_hook > GO:DNA binding ; GO:0003677
 SMART:SM00386 HAT > GO:RNA processing ; GO:0006396
 SMART:SM00388 HisKA > GO:phosphorelay sensor kinase activity ; GO:0000155
@@ -637,7 +638,7 @@ SMART:SM00721 BAR > GO:cytoplasm ; GO:0005737
 SMART:SM00724 TLC > GO:membrane ; GO:0016020
 SMART:SM00729 Elp3 > GO:catalytic activity ; GO:0003824
 SMART:SM00729 Elp3 > GO:iron-sulfur cluster binding ; GO:0051536
-SMART:SM00730 PSN > GO:aspartic-type endopeptidase activity ; GO:0004190
+SMART:SM00730 PSN > GO:aspartic endopeptidase activity, intramembrane cleaving ; GO:0042500
 SMART:SM00730 PSN > GO:membrane ; GO:0016020
 SMART:SM00732 YqgFc > GO:nucleobase-containing compound metabolic process ; GO:0006139
 SMART:SM00733 Mterf > GO:double-stranded DNA binding ; GO:0003690
@@ -645,6 +646,7 @@ SMART:SM00733 Mterf > GO:regulation of DNA-templated transcription ; GO:0006355
 SMART:SM00734 ZnF_Rad18 > GO:DNA binding ; GO:0003677
 SMART:SM00734 ZnF_Rad18 > GO:DNA repair ; GO:0006281
 SMART:SM00736 CADG > GO:membrane ; GO:0016020
+SMART:SM00738 NGN > GO:DNA-templated transcription elongation ; GO:0006354
 SMART:SM00738 NGN > GO:transcription elongation-coupled chromatin remodeling ; GO:0140673
 SMART:SM00742 Hr1 > GO:signal transduction ; GO:0007165
 SMART:SM00744 RINGv > GO:zinc ion binding ; GO:0008270
@@ -775,6 +777,7 @@ SMART:SM00883 Cpn10 > GO:protein folding ; GO:0006457
 SMART:SM00887 EB_dh > GO:heme binding ; GO:0020037
 SMART:SM00888 EF1_GNE > GO:translation elongation factor activity ; GO:0003746
 SMART:SM00888 EF1_GNE > GO:translational elongation ; GO:0006414
+SMART:SM00889 EFG_IV > GO:translation elongation factor activity ; GO:0003746
 SMART:SM00889 EFG_IV > GO:GTP binding ; GO:0005525
 SMART:SM00890 EKR > GO:oxidoreductase activity, acting on the aldehyde or oxo group of donors ; GO:0016903
 SMART:SM00891 ERCC4 > GO:DNA binding ; GO:0003677
@@ -846,6 +849,7 @@ SMART:SM00947 Pro_CA > GO:carbonate dehydratase activity ; GO:0004089
 SMART:SM00947 Pro_CA > GO:zinc ion binding ; GO:0008270
 SMART:SM00948 Proteasome_A_N > GO:ubiquitin-dependent protein catabolic process ; GO:0006511
 SMART:SM00948 Proteasome_A_N > GO:proteasome core complex, alpha-subunit complex ; GO:0019773
+SMART:SM00949 PAZ > GO:RNA binding ; GO:0003723
 SMART:SM00949 PAZ > GO:protein binding ; GO:0005515
 SMART:SM00950 Piwi > GO:nucleic acid binding ; GO:0003676
 SMART:SM00951 QLQ > GO:ATP binding ; GO:0005524
@@ -1004,6 +1008,7 @@ SMART:SM01140 Drf_GBD > GO:small GTPase binding ; GO:0031267
 SMART:SM01140 Drf_GBD > GO:actin cytoskeleton organization ; GO:0030036
 SMART:SM01146 DUF1086 > GO:DNA binding ; GO:0003677
 SMART:SM01146 DUF1086 > GO:chromatin remodeling ; GO:0006338
+SMART:SM01150 DUF1338 > GO:oxidoreductase activity ; GO:0016491
 SMART:SM01151 DUF1518 > GO:nucleus ; GO:0005634
 SMART:SM01153 DUF1693 > GO:poly(A) RNA polymerase activity ; GO:1990817
 SMART:SM01159 DUF1744 > GO:DNA-directed DNA polymerase activity ; GO:0003887
@@ -1045,7 +1050,7 @@ SMART:SM01221 FTCD > GO:folic acid binding ; GO:0005542
 SMART:SM01221 FTCD > GO:transferase activity ; GO:0016740
 SMART:SM01222 FTCD_N > GO:folic acid binding ; GO:0005542
 SMART:SM01222 FTCD_N > GO:transferase activity ; GO:0016740
-SMART:SM01230 Gln-synt_C > GO:glutamate-ammonia ligase activity ; GO:0004356
+SMART:SM01230 Gln-synt_C > GO:glutamine synthetase activity ; GO:0004356
 SMART:SM01230 Gln-synt_C > GO:nitrogen compound metabolic process ; GO:0006807
 SMART:SM01231 H-kinase_dim > GO:phosphorelay sensor kinase activity ; GO:0000155
 SMART:SM01231 H-kinase_dim > GO:protein histidine kinase activity ; GO:0004673

@@ -1,0 +1,24 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:2154952	Ripk3	PMID:10490590		GO:0004704	NF-kappaB-inducing kinase activity	IDA			PANTHER:PTHR23257	20020104		NCBITaxon:10090
+UniProt	UniProtKB:Q14164	IKBKE	PMID:10882136		GO:0004704	NF-kappaB-inducing kinase activity	IDA			PANTHER:PTHR22969	20010814		NCBITaxon:9606
+UniProt	MGI:MGI:1858204	Map3k14	PMID:11239468|MGI:MGI:1931349		GO:0004704	NF-kappaB-inducing kinase activity	IDA			PANTHER:PTHR48016	20100819		NCBITaxon:10090
+AgBase	UniProtKB:P58753	TIRAP	PMID:24275656		GO:0007250	activation of NF-kappaB-inducing kinase activity	IMP			PANTHER:PTHR22662	20160513		NCBITaxon:9606
+MGI	UniProtKB:O95150	TNFSF15	PMID:11911831		GO:0007250	activation of NF-kappaB-inducing kinase activity	IDA			PANTHER:PTHR11471	20030418		NCBITaxon:9606
+MGI	MGI:MGI:2429603	Irak2	PMID:12220507	not	GO:0007250	activation of NF-kappaB-inducing kinase activity	IDA			PANTHER:PTHR24419	20101104		NCBITaxon:10090
+MGI	MGI:MGI:1338074	Ikbkg	PMID:14654787		GO:0007250	activation of NF-kappaB-inducing kinase activity	IDA			PANTHER:PTHR31553	20040430		NCBITaxon:10090
+MGI	MGI:MGI:96918	Mas1	PMID:19404405		GO:0007250	activation of NF-kappaB-inducing kinase activity	IMP	MGI:MGI:2158808		PANTHER:PTHR11334	20110715		NCBITaxon:10090
+MGI	MGI:MGI:87963	Agt	PMID:19404405		GO:0007250	activation of NF-kappaB-inducing kinase activity	IDA			PANTHER:PTHR11461	20110715	GO:0004704	NCBITaxon:10090
+UniProt	UniProtKB:O43318	MAP3K7	PMID:10094049		GO:0007250	activation of NF-kappaB-inducing kinase activity	IMP			PANTHER:PTHR46716	20091216		NCBITaxon:9606
+UniProt	UniProtKB:Q9YJN5	E10	PMID:11113112		GO:0007250	activation of NF-kappaB-inducing kinase activity	IDA				20061121		NCBITaxon:12657
+UniProt	UniProtKB:Q9BWT7	CARD10	PMID:11259443		GO:0007250	activation of NF-kappaB-inducing kinase activity	IDA			PANTHER:PTHR14559	20021106		NCBITaxon:9606
+UniProt	UniProtKB:P51617	IRAK1	PMID:11397809		GO:0007250	activation of NF-kappaB-inducing kinase activity	IDA			PANTHER:PTHR24419	20050708		NCBITaxon:9606
+UniProt	UniProtKB:Q12933	TRAF2	PMID:15125833		GO:0007250	activation of NF-kappaB-inducing kinase activity	IMP			PANTHER:PTHR10131	20061121		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y4K3	TRAF6	PMID:15125833		GO:0007250	activation of NF-kappaB-inducing kinase activity	IMP			PANTHER:PTHR10131	20061121		NCBITaxon:9606
+UniProt	UniProtKB:O43318	MAP3K7	PMID:15125833		GO:0007250	activation of NF-kappaB-inducing kinase activity	IMP			PANTHER:PTHR46716	20061121		NCBITaxon:9606
+UniProt	UniProtKB:Q9UDY8	MALT1	PMID:15125833		GO:0007250	activation of NF-kappaB-inducing kinase activity	IMP			PANTHER:PTHR22576	20061121		NCBITaxon:9606
+UniProt	Xenbase:XB-GENE-865394	traf6.L	PMID:16023795		GO:0007250	activation of NF-kappaB-inducing kinase activity	IDA				20100106		NCBITaxon:8355
+UniProt	Xenbase:XB-GENE-6254727	traf6.S	PMID:16023795		GO:0007250	activation of NF-kappaB-inducing kinase activity	IDA				20100106		NCBITaxon:8355
+UniProt	Xenbase:XB-GENE-951835	tifa.S	PMID:16023795		GO:0007250	activation of NF-kappaB-inducing kinase activity	IDA				20100106		NCBITaxon:8355
+UniProt	UniProtKB:Q96JP5	ZFP91	PMID:20682767		GO:0007250	activation of NF-kappaB-inducing kinase activity	IDA			PANTHER:PTHR46179	20100819		NCBITaxon:9606
+UniProt	MGI:MGI:1340899	Chi3l1	PMID:21546314|MGI:MGI:5306542		GO:0007250	activation of NF-kappaB-inducing kinase activity	IDA			PANTHER:PTHR11177	20111221		NCBITaxon:10090
+UniProt	UniProtKB:Q99627	COPS8	PMID:22992343		GO:0007250	activation of NF-kappaB-inducing kinase activity	IMP			PANTHER:PTHR13339	20131213		NCBITaxon:9606

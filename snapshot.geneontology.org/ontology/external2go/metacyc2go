@@ -1,4 +1,4 @@
-! Generated on 2023-07-12T19:03Z from the ontology 'go' with data version: 'releases/2023-07-12'
+! Generated on 2023-07-22T19:10Z from the ontology 'go' with data version: 'releases/2023-07-22'
 !
 MetaCyc:+-BORNEOL-DEHYDROGENASE-RXN > GO:(+)-borneol dehydrogenase activity ; GO:0047500
 MetaCyc:+-NEOMENTHOL-DEHYDROGENASE-RXN > GO:(+)-neomenthol dehydrogenase activity ; GO:0047501
@@ -1441,7 +1441,6 @@ MetaCyc:4-METHYLENEGLUTAMATE--AMMONIA-LIGASE-RXN > GO:4-methyleneglutamate-ammon
 MetaCyc:4-METHYLENEGLUTAMINASE-RXN > GO:4-methyleneglutaminase activity ; GO:0047582
 MetaCyc:4-METHYLOXALOACETATE-ESTERASE-RXN > GO:4-methyloxaloacetate esterase activity ; GO:0047583
 MetaCyc:4-NITROPHENOL-2-MONOOXYGENASE-RXN > GO:4-nitrophenol 2-monooxygenase activity ; GO:0018601
-MetaCyc:4-NITROPHENYLPHOSPHATASE-RXN > GO:phosphatase activity ; GO:0016791
 MetaCyc:4-OXOPROLINE-REDUCTASE-RXN > GO:4-oxoproline reductase activity ; GO:0016617
 MetaCyc:4-PYRIDOXOLACTONASE-RXN > GO:4-pyridoxolactonase activity ; GO:0047585
 MetaCyc:4-SULFOBENZOATE-34-DIOXYGENASE-RXN > GO:4-sulfobenzoate 3,4-dioxygenase activity ; GO:0018621
