@@ -1,4 +1,4 @@
-! Generated on 2023-07-22T19:10Z from the ontology 'go' with data version: 'releases/2023-07-22'
+! Generated on 2023-07-24T18:58Z from the ontology 'go' with data version: 'releases/2023-07-24'
 !
 RHEA:10000 > GO:pentanamidase activity ; GO:0050168
 RHEA:10004 > GO:thiocyanate isomerase activity ; GO:0050335
@@ -4479,6 +4479,7 @@ RHEA:69500 > GO:ADP-riboxanase activity ; GO:0140740
 RHEA:69647 > GO:beta-glucosidase activity ; GO:0008422
 RHEA:69655 > GO:beta-glucosidase activity ; GO:0008422
 RHEA:69819 > GO:hypotaurine dehydrogenase activity ; GO:0047822
+RHEA:70027 > GO:tRNA m6t6A37 methyltransferase activity ; GO:0089715
 RHEA:70199 > GO:dopaminechrome tautomerase activity ; GO:0106417
 RHEA:70275 > GO:raffinose alpha-galactosidase activity ; GO:0052692
 RHEA:70479 > GO:NAD-dependent protein biotinidase activity ; GO:0106420

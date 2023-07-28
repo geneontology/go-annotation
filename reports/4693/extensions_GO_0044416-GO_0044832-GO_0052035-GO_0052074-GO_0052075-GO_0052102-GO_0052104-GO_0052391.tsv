@@ -1,0 +1,8 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:P0C0J1	speB	PMID:28331908		GO:0051604	protein maturation	IDA				20220713	GO:0052035|UniProtKB:P01584	NCBITaxon:301447
+UniProt	UniProtKB:P03303	P03303	PMID:33093214		GO:0004197	cysteine-type endopeptidase activity	IDA		UniProtKB:P03303:PRO_0000426549		20220811	UniProtKB:Q9C000|GO:0052035	NCBITaxon:12131
+UniProt	UniProtKB:Q82122	Q82122	PMID:33093214		GO:0004197	cysteine-type endopeptidase activity	IDA		UniProtKB:Q82122:PRO_0000426564		20220811	UniProtKB:Q9C000|GO:0052035	NCBITaxon:31708
+UniProt	UniProtKB:Q68T42	Q68T42	PMID:33410748		GO:0004197	cysteine-type endopeptidase activity	IDA		UniProtKB:Q68T42:PRO_0000449067		20220811	UniProtKB:Q9C000|GO:0052035	NCBITaxon:42789
+UniProt	UniProtKB:P03313	P03313	PMID:33410748		GO:0004197	cysteine-type endopeptidase activity	IDA		UniProtKB:P03313:PRO_0000426279		20220811	UniProtKB:Q9C000|GO:0052035	NCBITaxon:103903
+UniProt	UniProtKB:P03303	P03303	PMID:33410748		GO:0004197	cysteine-type endopeptidase activity	IDA		UniProtKB:P03303:PRO_0000426549		20220811	UniProtKB:Q9C000|GO:0052035	NCBITaxon:12131
+UniProt	UniProtKB:Q66478	Q66478	PMID:33410748		GO:0004197	cysteine-type endopeptidase activity	IDA		UniProtKB:Q66478:PRO_0000426148		20220811	UniProtKB:Q9C000|GO:0052035	NCBITaxon:69153
