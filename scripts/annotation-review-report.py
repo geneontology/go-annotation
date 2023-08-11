@@ -8,6 +8,7 @@
 
 import logging
 import sys
+import os
 import re
 import requests
 import json
@@ -225,6 +226,9 @@ if __name__ == "__main__":
     outfile = args.output + '/' + file_prefix + outfile
     LOG.info('output to file: ' + outfile)
 
+    ## Flag to detect whether or not we saw results.
+    saw_a_result_p = False
+
     ## Final writeout to files of the same name as the term.
     with open(outfile, 'w+') as fhandle:
 
@@ -236,10 +240,18 @@ if __name__ == "__main__":
         for t in collected_issues:
             LOG.info(t)
 
-            ## Print out header line:
+            ## Print out lines.
             issue_output = get_term_annotation_data(args.field, t)
             if issue_output == "":
                 LOG.info("No annotations for: " + t)
             else:
+                saw_a_result_p = True
                 fhandle.write(issue_output)
                 fhandle.write("\n")
+
+    ## Rename as empty if did not see any results.
+    if saw_a_result_p == False:
+        LOG.info('No results found, so renaming as EMPTY.')
+        os.rename(outfile, 'EMPTY_' + outfile)
+    else:
+        LOG.info('Results found, no renaming.')
