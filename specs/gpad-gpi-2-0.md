@@ -31,7 +31,6 @@ GPAD and GPI document structures are defined using a BNF notation similar to [W3
  * zero or one symbols are indicated by following the symbol with a question mark; e.g. `Extension_Conj?`
  * alternative symbols are written using vertical bars
  * groupings are written using parentheses
- * complementation is written using minus symbol
 
 GPI and GPAD documents consist of sequences of ASCII characters.
 
@@ -44,7 +43,7 @@ GPI and GPAD documents consist of sequences of ASCII characters.
 | <code><a name="Doc">Doc</a></code> | <code>[GPAD_Doc](#GPAD_Doc) \| [GPI_Doc](#GPI_Doc)</code>| |
 | <code><a name="GPAD_Doc">GPAD_Doc</a></code> | <code>[GPAD_Header](#GPAD_Header) [Annotation](#Annotation)*</code>| |
 | <code><a name="GPI_Doc">GPI_Doc<a></code> | <code>[GPI_Header](#GPI_Header) [Entity](#Entity)*</code>| |
-| <code><a name="GPAD_Header">GPAD_Header</a></code> | <code>'!gpa-version: 2.0' \n [Header_Line](#Header_Line)*</code>| Header MUST include the [required header properties](#header-properties) |
+| <code><a name="GPAD_Header">GPAD_Header</a></code> | <code>'!gpad-version: 2.0' \n [Header_Line](#Header_Line)*</code>| Header MUST include the [required header properties](#header-properties) |
 | <code><a name="GPI_Header">GPI_Header</a></code> | <code>'!gpi-version: 2.0' \n [Header_Line](#Header_Line)*</code>| Header MUST include the [required header properties](#header-properties) |
 | <code><a name="Annotation">Annotation</a></code> | <code>[DB_Object_ID](#DB_Object_ID) \t [Negation](#Negation) \t [Relation](#Relation) \t [Ontology_Class_ID](#Ontology_Class_ID) \t [Reference](#Reference) \t [Evidence_Type](#Evidence_Type) \t [With_Or_From](#With_Or_From) \t [Interacting_Taxon_ID](#Interacting_Taxon_ID) \t [Annotation_Date](#Annotation_Date) \t [Assigned_By](#Assigned_By) \t [Annotation_Extensions](#Annotation_Extensions) \t [Annotation_Properties](#Annotation_Properties) \n</code>| |
 | <code><a name="Entity">Entity</a></code> | <code>[DB_Object_ID](#DB_Object_ID) \t [DB_Object_Symbol](#DB_Object_Symbol) \t [DB_Object_Name](#DB_Object_Name) \t [DB_Object_Synonyms](#DB_Object_Synonyms) \t [DB_Object_Type](#DB_Object_Type) \t [DB_Object_Taxon](#DB_Object_Taxon) \t [Encoded_By](#Encoded_By) \t [Parent_Protein](#Parent_Protein) \t [Protein_Containing_Complex_Members](#Protein_Containing_Complex_Members) \t [DB_Xrefs](#DB_Xrefs) [Gene_Product_Properties](#Gene_Product_Properties) \n</code>| |
@@ -121,11 +120,12 @@ Groups may decide to include optional additional information. Examples include:
 | <code><a name="Local_ID">Local_ID</a></code> | <code>( [ID_Char](#ID_Char) \| ':' )+</code>| |
 | <code><a name="ID_Char">ID_Char</a></code> | <code>[Alpha_Char](#Alpha_Char) \| [Digit](#Digit) \| '_' \| '-' \| '.'</code>| |
 | <code><a name="Date_Or_Date_Time">Date_Or_Date_Time</a></code> | <code>[Date](#Date) \| [Date_Time](#Date_Time)</code>| |
-| <code><a name="Date">Date</a></code> | <code>YYYY-MM-DD</code>| Corresponds to [xsd:date](https://www.w3.org/TR/xmlschema-2/#date) without optional timezone |
-| <code><a name="Date_Time">Date_Time</a></code> | <code>YYYY-MM-DDTHH:MM:SS('.' s+)?((('+' \| '-') hh ':' mm) \| 'Z')?</code>| Corresponds to [xsd:dateTime](https://www.w3.org/TR/xmlschema-2/#dateTime) |
+| <code><a name="Date">Date</a></code> | <code>YYYY-MM-DD</code>| Corresponds to [xsd:date](https://www.w3.org/TR/xmlschema-2/#date) without optional timezone (a subset of the ISO 8601 standard) |
+| <code><a name="Date_Time">Date_Time</a></code> | <code>YYYY-MM-DDTHH:MM:SS('.' s+)?((('+' \| '-') hh ':' mm) \| 'Z')?</code>| Corresponds to [xsd:dateTime](https://www.w3.org/TR/xmlschema-2/#dateTime) (a subset of the ISO 8601 standard) |
 | <code><a name="Text">Text</a></code> | <code>[Text_Char](#Text_Char)+</code>| |
-| <code><a name="Text_No_Spaces">Text_No_Spaces</a></code> | <code>( [Text_Char](#Text_Char) - [Space](#Space) )+</code>| |
+| <code><a name="Text_No_Spaces">Text_No_Spaces</a></code> | <code>[Nonspace_Text_Char](#Nonspace_Text_Char)+</code>| |
 | <code><a name="Text_Char">Text_Char</a></code> | <code>[Alpha_Char](#Alpha_Char) \| [Digit](#Digit) \| [Symbol_Char](#Symbol_Char) \| [Space](#Space)</code>| |
+| <code><a name="Nonspace_Text_Char">Nonspace_Text_Char</a></code> | <code>[Alpha_Char](#Alpha_Char) \| [Digit](#Digit) \| [Symbol_Char](#Symbol_Char)</code>| |
 | <code><a name="Alpha_Char">Alpha_Char</a></code> | <code>[A-Z] \| [a-z]</code>| |
 | <code><a name="Digit">Digit</a></code> | <code>[0-9]</code>| |
 | <code><a name="Symbol_Char">Symbol_Char</a></code> | <code>'!' \| '"' \| '#' \| '$' \| '%' \| '&' \| ''' \| '(' \| ')' \| '*' \| '+' \| ',' \| '-' \| '.' \| '/' \| ':' \| ';' \| '<' \| '=' \| '>' \| '?' \| '@' \| '[' \| '\\' \| ']' \| '^' \| '_' \| '`' \| '{' \| '}' \| '~'</code>| ASCII symbols minus `\|` |
