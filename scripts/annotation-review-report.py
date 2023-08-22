@@ -252,6 +252,6 @@ if __name__ == "__main__":
     ## Rename as empty if did not see any results.
     if saw_a_result_p == False:
         LOG.info('No results found, so renaming as EMPTY.')
-        os.rename(outfile, 'EMPTY_' + outfile)
+        os.rename(outfile, os.path.join(os.path.split(outfile)[0], 'EMPTY_' + os.path.basename(outfile)))
     else:
         LOG.info('Results found, no renaming.')
