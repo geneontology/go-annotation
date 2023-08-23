@@ -1,0 +1,11 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	MGI:MGI:1352457	Nr4a3	PMID:18325999|MGI:MGI:5645208		GO:0009444	pyruvate oxidation	IMP			PANTHER:PTHR24085	20150630		NCBITaxon:10090
+UniProt	UniProtKB:Q75NZ0	SIR	PMID:11163356		GO:0019424	sulfide oxidation, using siroheme sulfite reductase	IDA				20120306		NCBITaxon:3888
+UniProt	UniProtKB:Q9AWB2	SIR	PMID:12081370		GO:0019424	sulfide oxidation, using siroheme sulfite reductase	IDA			PANTHER:PTHR11493	20120306		NCBITaxon:3847
+UniProt	UniProtKB:Q58297	cofC	PMID:18260642	not	GO:0043841	(S)-lactate 2-kinase activity	IDA			PANTHER:PTHR40392	20100929		NCBITaxon:243232
+MTBBASE	UniProtKB:P9WIT3	Rv1771	PMID:16956367		GO:0080049	L-gulono-1,4-lactone dehydrogenase activity	IDA			PANTHER:PTHR43762	20100708		NCBITaxon:83332
+TAIR	AGI_LocusCode:AT3G47930	GLDH	PMID:18190525|TAIR:Publication:501723958		GO:0080049	L-gulono-1,4-lactone dehydrogenase activity	IDA		TAIR:locus:2097865		20090422		NCBITaxon:3702
+UniProt	UniProtKB:A0A314KSQ4	JAR6	PMID:17273867		GO:0102053	(-)-jasmonoyl-isoleucine synthetase activity	IDA				20190201		NCBITaxon:49451
+UniProt	UniProtKB:A0A1J6KGJ9	JAR4	PMID:17273867		GO:0102053	(-)-jasmonoyl-isoleucine synthetase activity	IDA				20190201		NCBITaxon:49451
+UniProt	UniProtKB:Q5NAZ7	GH3.3	PMID:24033451		GO:0102053	(-)-jasmonoyl-isoleucine synthetase activity	IDA			PANTHER:PTHR31901	20190201		NCBITaxon:39947
+UniProt	UniProtKB:Q6I581	GH3.5	PMID:24033451		GO:0102053	(-)-jasmonoyl-isoleucine synthetase activity	IDA			PANTHER:PTHR31901	20190201		NCBITaxon:39947

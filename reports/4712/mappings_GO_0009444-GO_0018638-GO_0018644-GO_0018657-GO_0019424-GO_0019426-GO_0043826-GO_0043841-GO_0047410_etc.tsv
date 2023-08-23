@@ -1,0 +1,29 @@
+term	file	line
+GO:0009444	metacyc2go	MetaCyc:PYRUVOX-PWY > GO:pyruvate oxidation ; GO:0009444
+GO:0009444	wikipedia2go	Wikipedia:Pyruvate_decarboxylation > GO:pyruvate oxidation ; GO:0009444
+GO:0018638	ec2go	EC:1.14.13.- > GO:toluene 4-monooxygenase activity ; GO:0018638
+GO:0018638	um-bbd_enzymeid2go	UM-BBD_enzymeID:e0225 > GO:toluene 4-monooxygenase activity ; GO:0018638
+GO:0018644	ec2go	EC:1.14.13.243 > GO:toluene 2-monooxygenase activity ; GO:0018644
+GO:0018644	rhea2go	RHEA:20349 > GO:toluene 2-monooxygenase activity ; GO:0018644
+GO:0018644	metacyc2go	MetaCyc:TOLUENE-2-MONOOXYGENASE-RXN > GO:toluene 2-monooxygenase activity ; GO:0018644
+GO:0018644	um-bbd_enzymeid2go	UM-BBD_enzymeID:e0222 > GO:toluene 2-monooxygenase activity ; GO:0018644
+GO:0018657	ec2go	EC:1.14.13.- > GO:toluene 3-monooxygenase activity ; GO:0018657
+GO:0018657	metacyc2go	MetaCyc:TOLUENE-3-MONOOXYGENASE-RXN > GO:toluene 3-monooxygenase activity ; GO:0018657
+GO:0018657	um-bbd_enzymeid2go	UM-BBD_enzymeID:e0224 > GO:toluene 3-monooxygenase activity ; GO:0018657
+GO:0019424	metacyc2go	MetaCyc:P223-PWY > GO:sulfide oxidation, using siroheme sulfite reductase ; GO:0019424
+GO:0019426	metacyc2go	MetaCyc:P224-PWY > GO:bisulfite reduction ; GO:0019426
+GO:0043826	metacyc2go	MetaCyc:RXN-8226 > GO:sulfur oxygenase reductase activity ; GO:0043826
+GO:0043841	metacyc2go	MetaCyc:RXN-8076 > GO:(S)-lactate 2-kinase activity ; GO:0043841
+GO:0047410	metacyc2go	MetaCyc:3.5.1.27-RXN > GO:N-formylmethionylaminoacyl-tRNA deformylase activity ; GO:0047410
+GO:0050562	metacyc2go	MetaCyc:6.1.1.25-RXN > GO:lysine-tRNA(Pyl) ligase activity ; GO:0050562
+GO:0080049	metacyc2go	MetaCyc:RXN-1439 > GO:L-gulono-1,4-lactone dehydrogenase activity ; GO:0080049
+GO:0102030	metacyc2go	MetaCyc:DTDPRHAMSYNTHMULTI-RXN > GO:dTDP-L-rhamnose synthetase activity ; GO:0102030
+GO:0102053	metacyc2go	MetaCyc:RXN-10435 > GO:(-)-jasmonoyl-isoleucine synthetase activity ; GO:0102053
+GO:0102184	metacyc2go	MetaCyc:RXN-11946 > GO:cycloartenol 4alpha-methyl oxidase activity ; GO:0102184
+GO:0102185	metacyc2go	MetaCyc:RXN-11947 > GO:4alpha-hydroxymethyl,4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-cholest-24-en-3beta-ol-4alpha-methyl oxidase activity ; GO:0102185
+GO:0102186	metacyc2go	MetaCyc:RXN-11948 > GO:4alpha-formyl,4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-cholest-24-en-3beta-ol-4alpha-methyl oxidase activity ; GO:0102186
+GO:0102188	metacyc2go	MetaCyc:RXN-11956 > GO:4alpha-methyl-5alpha-cholesta-7,24-dien-3beta-ol-4alpha-methyl oxidase activity ; GO:0102188
+GO:0102189	metacyc2go	MetaCyc:RXN-11957 > GO:4alpha-hydroxymethyl-5alpha-cholesta-7,24-dien-3beta-ol-4alpha-methyl oxidase activity ; GO:0102189
+GO:0102190	metacyc2go	MetaCyc:RXN-11958 > GO:4alpha-formyl-5alpha-cholesta-7,24-dien-3beta-ol-4alpha-methyl oxidase activity ; GO:0102190
+GO:0102278	metacyc2go	MetaCyc:RXN-12554 > GO:N,N'-diacetylchitobiose synthase activity ; GO:0102278
+GO:0102783	metacyc2go	MetaCyc:RXN-7883 > GO:beta-carotene oxygenase activity ; GO:0102783
