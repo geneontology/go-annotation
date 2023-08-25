@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:98974	Xist	PMID:23658530		GO:0060819	inactivation of X chromosome by genomic imprinting	IMP				20150818		NCBITaxon:10090
+UniProt	MGI:MGI:1923505	Pcgf5	PMID:28596365|MGI:MGI:5908473		GO:0060819	inactivation of X chromosome by genomic imprinting	IMP			PANTHER:PTHR45893	20170816		NCBITaxon:10090
+UniProt	MGI:MGI:1916837	Pcgf3	PMID:28596365|MGI:MGI:5908473		GO:0060819	inactivation of X chromosome by genomic imprinting	IMP			PANTHER:PTHR45893	20170816		NCBITaxon:10090
+GO_Central	WB:WBGene00003222	mes-4	PMID:12077420|WB_REF:WBPaper00005301		GO:0060820	inactivation of X chromosome by heterochromatin formation	IMP			PANTHER:PTHR22884	20211027		NCBITaxon:6239
+UniProt	MGI:MGI:1921605	Smchd1	PMID:23754746|MGI:MGI:5532809		GO:0060820	inactivation of X chromosome by heterochromatin formation	IMP			PANTHER:PTHR22640	20180710		NCBITaxon:10090
