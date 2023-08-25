@@ -1,0 +1,18 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ComplexPortal	MGI:MGI:2444148	Phf20	PMID:24842875|MGI:MGI:6207704		GO:1900095	regulation of dosage compensation by inactivation of X chromosome	IDA			PANTHER:PTHR15856	20161219		NCBITaxon:10090
+ComplexPortal	MGI:MGI:1341851	Msl3	PMID:24842875|MGI:MGI:6207704		GO:1900095	regulation of dosage compensation by inactivation of X chromosome	IDA			PANTHER:PTHR10880	20201029		NCBITaxon:10090
+ComplexPortal	MGI:MGI:1339639	Ogt	PMID:24842875|MGI:MGI:6207704		GO:1900095	regulation of dosage compensation by inactivation of X chromosome	IDA			PANTHER:PTHR44366	20161219		NCBITaxon:10090
+ComplexPortal	MGI:MGI:1918055	Kansl3	PMID:24842875|MGI:MGI:6207704		GO:1900095	regulation of dosage compensation by inactivation of X chromosome	IDA			PANTHER:PTHR13136	20161219		NCBITaxon:10090
+ComplexPortal	MGI:MGI:1921276	Msl1	PMID:24842875|MGI:MGI:6207704		GO:1900095	regulation of dosage compensation by inactivation of X chromosome	IDA			PANTHER:PTHR21656	20201029		NCBITaxon:10090
+ComplexPortal	MGI:MGI:1915023	Kat8	PMID:24842875|MGI:MGI:6207704		GO:1900095	regulation of dosage compensation by inactivation of X chromosome	IDA			PANTHER:PTHR10615	20201029		NCBITaxon:10090
+ComplexPortal	MGI:MGI:1925103	Msl2	PMID:24842875|MGI:MGI:6207704		GO:1900095	regulation of dosage compensation by inactivation of X chromosome	IDA			PANTHER:PTHR16048	20201029		NCBITaxon:10090
+ComplexPortal	MGI:MGI:2155884	Wdr5	PMID:24842875|MGI:MGI:6207704		GO:1900095	regulation of dosage compensation by inactivation of X chromosome	IDA			PANTHER:PTHR22847	20161219		NCBITaxon:10090
+ComplexPortal	MGI:MGI:1923969	Kansl1	PMID:24842875|MGI:MGI:6207704		GO:1900095	regulation of dosage compensation by inactivation of X chromosome	IDA			PANTHER:PTHR22443	20161219		NCBITaxon:10090
+ComplexPortal	MGI:MGI:105942	Hcfc1	PMID:24842875|MGI:MGI:6207704		GO:1900095	regulation of dosage compensation by inactivation of X chromosome	IDA			PANTHER:PTHR46003	20161219		NCBITaxon:10090
+ComplexPortal	MGI:MGI:1858420	Mcrs1	PMID:24842875|MGI:MGI:6207704		GO:1900095	regulation of dosage compensation by inactivation of X chromosome	IDA			PANTHER:PTHR13233	20161219		NCBITaxon:10090
+ComplexPortal	MGI:MGI:1916862	Kansl2	PMID:24842875|MGI:MGI:6207704		GO:1900095	regulation of dosage compensation by inactivation of X chromosome	IDA			PANTHER:PTHR13453	20161219		NCBITaxon:10090
+MGI	MGI:MGI:2180008	Jpx	PMID:21029862		GO:1900095	regulation of dosage compensation by inactivation of X chromosome	IMP	MGI:MGI:4887255			20150421		NCBITaxon:10090
+MGI	MGI:MGI:1926128	Ftx	PMID:21118898		GO:1900095	regulation of dosage compensation by inactivation of X chromosome	IMP				20121203		NCBITaxon:10090
+MGI	MGI:MGI:1926128	Ftx	PMID:24613346		GO:1900095	regulation of dosage compensation by inactivation of X chromosome	IMP				20150421		NCBITaxon:10090
+MGI	MGI:MGI:2180008	Jpx	PMID:24613346		GO:1900095	regulation of dosage compensation by inactivation of X chromosome	IMP				20150421		NCBITaxon:10090
+MGI	MGI:MGI:1342291	Rlim	PMID:24613346		GO:1900095	regulation of dosage compensation by inactivation of X chromosome	IMP			PANTHER:PTHR45931	20150421		NCBITaxon:10090
