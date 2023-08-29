@@ -1,4 +1,4 @@
-! Generated on 2023-08-20T18:32Z from the ontology 'go' with data version: 'releases/2023-08-18'
+! Generated on 2023-08-26T08:07Z from the ontology 'go' with data version: 'releases/2023-08-26'
 !
 EC:1.-.-.- > GO:oxidoreductase activity ; GO:0016491
 EC:1.1.-.- > GO:oxidoreductase activity, acting on CH-OH group of donors ; GO:0016614
@@ -241,7 +241,6 @@ EC:1.1.1.320 > GO:benzil reductase [(S)-benzoin-forming] activity ; GO:0102306
 EC:1.1.1.324 > GO:8-hydroxygeraniol dehydrogenase activity ; GO:0102311
 EC:1.1.1.326 > GO:zerumbone synthase activity ; GO:0102069
 EC:1.1.1.327 > GO:5-exo-hydroxycamphor dehydrogenase activity ; GO:0018452
-EC:1.1.1.33 > GO:mevaldate reductase (NADPH) activity ; GO:0019726
 EC:1.1.1.330 > GO:very-long-chain 3-oxoacyl-CoA reductase activity ; GO:0141040
 EC:1.1.1.336 > GO:UDP-N-acetyl-D-mannosamine dehydrogenase activity ; GO:0089714
 EC:1.1.1.337 > GO:L-2-hydroxycarboxylate dehydrogenase (NAD+) activity ; GO:0102443

@@ -1,4 +1,4 @@
-! Generated on 2023-08-20T18:32Z from the ontology 'go' with data version: 'releases/2023-08-18'
+! Generated on 2023-08-26T08:07Z from the ontology 'go' with data version: 'releases/2023-08-26'
 !
 RHEA:10000 > GO:pentanamidase activity ; GO:0050168
 RHEA:10004 > GO:thiocyanate isomerase activity ; GO:0050335
@@ -2127,7 +2127,6 @@ RHEA:20177 > GO:pyridoxine 5'-O-beta-D-glucosyltransferase activity ; GO:0047231
 RHEA:20181 > GO:UDP-glucose-glycoprotein glucose phosphotransferase activity ; GO:0047358
 RHEA:20185 > GO:CMP-N-acylneuraminate phosphodiesterase activity ; GO:0047392
 RHEA:20189 > GO:dihydropyrimidine dehydrogenase (NAD+) activity ; GO:0004159
-RHEA:20193 > GO:mevaldate reductase (NADPH) activity ; GO:0019726
 RHEA:20197 > GO:heparosan-N-sulfate-glucuronate 5-epimerase activity ; GO:0047464
 RHEA:20201 > GO:phenylalanine racemase (ATP-hydrolyzing) activity ; GO:0047462
 RHEA:20205 > GO:methyl-ONN-azoxymethanol beta-D-glucosyltransferase activity ; GO:0047236
@@ -4420,6 +4419,7 @@ RHEA:63688 > GO:1-phosphatidylinositol-3-phosphate 4-kinase activity ; GO:005281
 RHEA:63800 > GO:GDP-mannose 3,5-epimerase activity ; GO:0047918
 RHEA:63804 > GO:GDP-mannose 3,5-epimerase activity ; GO:0047918
 RHEA:64020 > GO:protein serine kinase activity (using GTP as donor) ; GO:0106264
+RHEA:64104 > GO:protein serine pyrophosphorylase activity ; GO:0141090
 RHEA:64352 > GO:THPH synthase activity ; GO:0106265
 RHEA:64356 > GO:3-chloro THPH synthase activity ; GO:0106266
 RHEA:64360 > GO:3,5 dichloro-THPH synthase activity ; GO:0106267

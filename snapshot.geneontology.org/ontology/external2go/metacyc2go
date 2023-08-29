@@ -1,4 +1,4 @@
-! Generated on 2023-08-20T18:32Z from the ontology 'go' with data version: 'releases/2023-08-18'
+! Generated on 2023-08-26T08:07Z from the ontology 'go' with data version: 'releases/2023-08-26'
 !
 MetaCyc:+-BORNEOL-DEHYDROGENASE-RXN > GO:(+)-borneol dehydrogenase activity ; GO:0047500
 MetaCyc:+-NEOMENTHOL-DEHYDROGENASE-RXN > GO:(+)-neomenthol dehydrogenase activity ; GO:0047501
@@ -2934,7 +2934,6 @@ MetaCyc:METHYLMALONYL-COA-DECARBOXYLASE-RXN > GO:methyl/ethyl malonyl-CoA decarb
 MetaCyc:METHYLMALONYL-COA-EPIM-RXN > GO:methylmalonyl-CoA epimerase activity ; GO:0004493
 MetaCyc:METHYLMALONYL-COA-MUT-RXN > GO:methylmalonyl-CoA mutase activity ; GO:0004494
 MetaCyc:METHYLTHIOADENOSINE-NUCLEOSIDASE-RXN > GO:methylthioadenosine nucleosidase activity ; GO:0008930
-MetaCyc:MEVALDATE-REDUCTASE-NADPH-RXN > GO:mevaldate reductase (NADPH) activity ; GO:0019726
 MetaCyc:MEVALDATE-REDUCTASE-RXN > GO:mevaldate reductase (NAD+) activity ; GO:0019727
 MetaCyc:MEVALONATE-KINASE-RXN > GO:mevalonate kinase activity ; GO:0004496
 MetaCyc:MGLDLCTANA-PWY > GO:D-lactate biosynthetic process from methylglyoxal via (R)-lactaldehyde ; GO:0019248

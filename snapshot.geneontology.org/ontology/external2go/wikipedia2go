@@ -1,4 +1,4 @@
-! Generated on 2023-08-20T18:32Z from the ontology 'go' with data version: 'releases/2023-08-18'
+! Generated on 2023-08-26T08:07Z from the ontology 'go' with data version: 'releases/2023-08-26'
 !
 Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase [NAD(P)] activity ; GO:0003845
 Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase (NAD+) activity ; GO:0070523
@@ -275,7 +275,7 @@ Wikipedia:Galactose > GO:galactose metabolic process ; GO:0006012
 Wikipedia:Gap_junction > GO:gap junction ; GO:0005921
 Wikipedia:Gastrulation > GO:gastrulation ; GO:0007369
 Wikipedia:Gene_expression > GO:gene expression ; GO:0010467
-Wikipedia:Genomic_imprinting > GO:regulation of gene expression by genomic imprinting ; GO:0006349
+Wikipedia:Genomic_imprinting > GO:genomic imprinting ; GO:0071514
 Wikipedia:Germ_plasm > GO:germ plasm ; GO:0060293
 Wikipedia:Germ_tube > GO:germ tube ; GO:0032179
 Wikipedia:Germination#Seed_germination > GO:seed germination ; GO:0009845
