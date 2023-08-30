@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	MGI:MGI:1306784	Cited2	PMID:15475956|MGI:MGI:3054669		GO:1900164	nodal signaling pathway involved in determination of lateral mesoderm left/right asymmetry	IMP			PANTHER:PTHR17045	20120517		NCBITaxon:10090
+BHF-UCL	MGI:MGI:97359	Nodal	PMID:17507406|MGI:MGI:5315339		GO:1900164	nodal signaling pathway involved in determination of lateral mesoderm left/right asymmetry	IMP			PANTHER:PTHR11848	20120322		NCBITaxon:10090
