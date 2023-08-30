@@ -1,0 +1,12 @@
+term	file	line
+GO:0004587	ec2go	EC:2.6.1.13 > GO:ornithine-oxo-acid transaminase activity ; GO:0004587
+GO:0004587	rhea2go	RHEA:13877 > GO:ornithine-oxo-acid transaminase activity ; GO:0004587
+GO:0004587	metacyc2go	MetaCyc:ORNITHINE--OXO-ACID-AMINOTRANSFERASE-RXN > GO:ornithine-oxo-acid transaminase activity ; GO:0004587
+GO:0004587	interpro2go	InterPro:IPR010164 Ornithine aminotransferase > GO:ornithine-oxo-acid transaminase activity ; GO:0004587
+GO:0004587	interpro2go	InterPro:IPR034757 Ornithine aminotransferase, bacterial type > GO:ornithine-oxo-acid transaminase activity ; GO:0004587
+GO:0004587	hamap2go	HAMAP:MF_01689 > GO:ornithine-oxo-acid transaminase activity ; GO:0004587
+GO:0004587	unirule2go	UniRule:UR000084126 > GO:ornithine-oxo-acid transaminase activity ; GO:0004587
+GO:0004587	reactome2go	Reactome:R-HSA-70654 > GO:ornithine-oxo-acid transaminase activity ; GO:0004587
+GO:0004587	reactome2go	Reactome:R-HSA-70666 > GO:ornithine-oxo-acid transaminase activity ; GO:0004587
+GO:0050155	ec2go	EC:2.6.1.13 > GO:ornithine(lysine) transaminase activity ; GO:0050155
+GO:0050155	metacyc2go	MetaCyc:ORNITHINELYSINE-AMINOTRANSFERASE-RXN > GO:ornithine(lysine) transaminase activity ; GO:0050155

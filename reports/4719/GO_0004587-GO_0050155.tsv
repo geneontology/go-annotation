@@ -1,0 +1,8 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AspGD	UniProtKB:Q92413	otaA	PMID:10079330		GO:0004587	ornithine-oxo-acid transaminase activity	IDA			PANTHER:PTHR11986	20090327		NCBITaxon:227321
+SGD	SGD:S000004430	CAR2	PMID:3036506		GO:0004587	ornithine-oxo-acid transaminase activity	IMP		UniProtKB:P07991	PANTHER:PTHR11986	20100715		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT5G46180	DELTA-OAT	PMID:18419821|TAIR:Publication:501724521		GO:0004587	ornithine-oxo-acid transaminase activity	IMP		TAIR:locus:2161398		20090912		NCBITaxon:3702
+UniProt	UniProtKB:P38021	rocD	PMID:7540694		GO:0004587	ornithine-oxo-acid transaminase activity	IDA			PANTHER:PTHR11986	20120328		NCBITaxon:224308
+UniProt	AGI_LocusCode:AT5G46180	DELTA-OAT	PMID:9576796|TAIR:Publication:2609		GO:0004587	ornithine-oxo-acid transaminase activity	IDA		TAIR:locus:2161398		20210401		NCBITaxon:3702
+UniProt	UniProtKB:P04181	OAT	PMID:1737786		GO:0050155	ornithine(lysine) transaminase activity	IMP			PANTHER:PTHR11986	20210429		NCBITaxon:9606
+UniProt	UniProtKB:P04181	OAT	PMID:23076989		GO:0050155	ornithine(lysine) transaminase activity	IMP			PANTHER:PTHR11986	20210429		NCBITaxon:9606
