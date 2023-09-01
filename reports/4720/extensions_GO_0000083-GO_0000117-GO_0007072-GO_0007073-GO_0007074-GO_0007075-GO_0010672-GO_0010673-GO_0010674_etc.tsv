@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPBC725.16	res1	PMID:7739540		GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific	IMP			PANTHER:PTHR43828	20190130	PomBase:SPAC1F7.05|GO:0071931	NCBITaxon:4896
+SGD	SGD:S000004043	NRS1	PMID:35239649		GO:0003713	transcription coactivator activity	IDA		UniProtKB:Q12026		20220310	GO:0006995|GO:0071931	NCBITaxon:559292
+SGD	SGD:S000004043	NRS1	PMID:35239649		GO:1990841	promoter-specific chromatin binding	IDA		UniProtKB:Q12026		20220310	SGD:S000005233|SGD:S000006177|GO:0000785|GO:0006995|GO:0071931	NCBITaxon:559292
