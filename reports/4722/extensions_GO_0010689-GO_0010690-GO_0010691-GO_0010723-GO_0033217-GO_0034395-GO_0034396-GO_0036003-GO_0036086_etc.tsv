@@ -1,0 +1,10 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPBC16E9.01c	php4	PMID:18223116		GO:0003714	transcription corepressor activity	IMP				20190523	PomBase:SPBC725.11c|PomBase:SPAC23C11.08|PomBase:SPBC3B8.02|GO:0090375|GO:0010106	NCBITaxon:4896
+ParkinsonsUK-UCL	UniProtKB:O54862	MBTPS2	PMID:11163209		GO:0031293	membrane protein intracellular domain proteolysis	IMP				20141118	UniProtKB:G3HTZ9|GO:0034976|GO:1990440	NCBITaxon:10029
+ParkinsonsUK-UCL	UniProtKB:P18850	ATF6	PMID:11163209		GO:0003700	DNA-binding transcription factor activity	IDA			PANTHER:PTHR46164	20141118	GO:1990440	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O43462	MBTPS2	PMID:11163209		GO:0031293	membrane protein intracellular domain proteolysis	IGI	UniProtKB:O54862		PANTHER:PTHR13325	20141118	UniProtKB:P18850|GO:0034976|GO:1990440	NCBITaxon:9606
+ParkinsonsUK-UCL	MGI:MGI:1927072	Ppp1r15a	PMID:11381086|MGI:MGI:5605960		GO:0019888	protein phosphatase regulator activity	IDA			PANTHER:PTHR16489	20141027	GO:1990441	NCBITaxon:10090
+ParkinsonsUK-UCL	UniProtKB:P16333	NCK1	PMID:16835242		GO:1903912	negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation	IDA			PANTHER:PTHR19969	20150209	GO:1990441	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O43639	NCK2	PMID:16835242		GO:1903912	negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation	IDA			PANTHER:PTHR19969	20150209	GO:1990441	NCBITaxon:9606
+ParkinsonsUK-UCL	MGI:MGI:109601	Nck1	PMID:16835242|MGI:MGI:5613475		GO:1903912	negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation	IGI	UniProtKB:O55033		PANTHER:PTHR19969	20150209	GO:1990441	NCBITaxon:10090
+ParkinsonsUK-UCL	MGI:MGI:1306821	Nck2	PMID:16835242|MGI:MGI:5613475		GO:1903912	negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation	IGI	UniProtKB:Q99M51		PANTHER:PTHR19969	20150209	GO:1990441	NCBITaxon:10090

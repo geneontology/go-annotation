@@ -1,0 +1,6 @@
+term	file	line
+GO:0036086	pfam2go	Pfam:PF08731 AFT > GO:positive regulation of transcription from RNA polymerase II promoter in response to iron ion starvation ; GO:0036086
+GO:0036086	interpro2go	InterPro:IPR014842 Iron-regulated transcriptional activator AFT > GO:positive regulation of transcription from RNA polymerase II promoter in response to iron ion starvation ; GO:0036086
+GO:0043618	pirsf2go	PIRSF:PIRSF027124 Histone_acetylase_Rtt109 > GO:regulation of transcription from RNA polymerase II promoter in response to stress ; GO:0043618
+GO:0043618	prosite2go	PROSITE:PS51728 RTT109_HAT > GO:regulation of transcription from RNA polymerase II promoter in response to stress ; GO:0043618
+GO:0043618	interpro2go	InterPro:IPR016849 Histone acetyltransferase Rtt109 > GO:regulation of transcription from RNA polymerase II promoter in response to stress ; GO:0043618
