@@ -91,7 +91,7 @@ Groups may decide to include optional additional information. Examples include:
 | 1 | <code><a name="DB_Object_ID">DB_Object_ID</a></code> | <code>[ID](#ID)</code>| `UniProtKB:Q4VCS5` | |
 | 2 | <code><a name="DB_Object_Symbol">DB_Object_Symbol</a></code> | <code>[Text_No_Spaces](#Text_No_Spaces)</code>| `AMOT` | |
 | 3 | <code><a name="DB_Object_Name">DB_Object_Name</a></code> | <code>[Text](#Text)</code>| `Angiomotin` | |
-| 4 | <code><a name="DB_Object_Synonyms">DB_Object_Synonyms</a></code> | <code>([Text](#Text) ( '\|' [Text](#Text) )* )?</code>| `AMOT\|KIAA1071` | |
+| 4 | <code><a name="DB_Object_Synonyms">DB_Object_Synonyms</a></code> | <code>([Text](#Text) ( '\|' [Text](#Text) )* )?</code>| `E230009N18Rik\|KIAA1071` | |
 | 5 | <code><a name="DB_Object_Type">DB_Object_Type</a></code> | <code>[ID](#ID) ( '\|' [ID](#ID) )*</code>| `PR:000000001` | Identifier used MUST conform to the list in [GPI entity types](#gpi-entity-types) |
 | 6 | <code><a name="DB_Object_Taxon">DB_Object_Taxon</a></code> | <code>[ID](#ID)</code>| `NCBITaxon:9606` | The taxon MUST be a term from the NCBITaxon ontology |
 | 7 | <code><a name="Encoded_By">Encoded_By</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| `HGNC:17810` | For proteins and transcripts, this refers to the gene id that encodes those entities. |
