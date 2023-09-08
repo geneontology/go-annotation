@@ -1,0 +1,16 @@
+term	file	line
+GO:0032775	pirsf2go	PIRSF:PIRSF000398 M_m6A_EcoRV > GO:DNA methylation on adenine ; GO:0032775
+GO:0032775	pirsf2go	PIRSF:PIRSF036638 M_m6A_StsI > GO:DNA methylation on adenine ; GO:0032775
+GO:0032775	pirsf2go	PIRSF:PIRSF037167 Mtase_YfcB_prd > GO:DNA methylation on adenine ; GO:0032775
+GO:0032775	pfam2go	Pfam:PF02086 MethyltransfD12 > GO:DNA methylation on adenine ; GO:0032775
+GO:0032775	pfam2go	Pfam:PF05869 Dam > GO:DNA methylation on adenine ; GO:0032775
+GO:0032775	interpro2go	InterPro:IPR008593 DNA N-6-adenine-methyltransferase > GO:DNA methylation on adenine ; GO:0032775
+GO:0032775	interpro2go	InterPro:IPR012186 Adenine modification methylase, M.StsI-type > GO:DNA methylation on adenine ; GO:0032775
+GO:0032775	interpro2go	InterPro:IPR012263 Adenine modification methylase, M.EcoRV-type > GO:DNA methylation on adenine ; GO:0032775
+GO:0032775	interpro2go	InterPro:IPR012327 D12 class N6 adenine-specific DNA methyltransferase > GO:DNA methylation on adenine ; GO:0032775
+GO:0032775	interpro2go	InterPro:IPR017127 Ribosomal protein uL3 glutamine methyltransferase > GO:DNA methylation on adenine ; GO:0032775
+GO:0032775	prints2go	PRINTS:PR00505 D12N6MTFRASE > GO:DNA methylation on adenine ; GO:0032775
+GO:0090116	pirsf2go	PIRSF:PIRSF037404 DNMT1 > GO:C-5 methylation of cytosine ; GO:0090116
+GO:0090116	interpro2go	InterPro:IPR017198 DNA (cytosine-5)-methyltransferase 1-like > GO:C-5 methylation of cytosine ; GO:0090116
+GO:0090124	prosite2go	PROSITE:PS00093 N4_MTASE > GO:N-4 methylation of cytosine ; GO:0090124
+GO:0090124	interpro2go	InterPro:IPR017985 DNA methylase, N-4 cytosine-specific, conserved site > GO:N-4 methylation of cytosine ; GO:0090124

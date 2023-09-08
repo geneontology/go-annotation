@@ -1,4 +1,4 @@
-! Generated on 2023-08-26T08:07Z from the ontology 'go' with data version: 'releases/2023-08-26'
+! Generated on 2023-09-04T07:38Z from the ontology 'go' with data version: 'releases/2023-09-02'
 !
 MetaCyc:+-BORNEOL-DEHYDROGENASE-RXN > GO:(+)-borneol dehydrogenase activity ; GO:0047500
 MetaCyc:+-NEOMENTHOL-DEHYDROGENASE-RXN > GO:(+)-neomenthol dehydrogenase activity ; GO:0047501
@@ -3083,11 +3083,11 @@ MetaCyc:ORN-AMINOPENTANOATE-CAT-PWY > GO:ornithine catabolic process via proline
 MetaCyc:ORNCARBAMTRANSFER-RXN > GO:ornithine carbamoyltransferase activity ; GO:0004585
 MetaCyc:ORNDECARBOX-RXN > GO:ornithine decarboxylase activity ; GO:0004586
 MetaCyc:ORNDEG-PWY > GO:ornithine catabolic process, by decarboxylation ; GO:0019467
-MetaCyc:ORNITHINE--OXO-ACID-AMINOTRANSFERASE-RXN > GO:ornithine-oxo-acid transaminase activity ; GO:0004587
+MetaCyc:ORNITHINE--OXO-ACID-AMINOTRANSFERASE-RXN > GO:ornithine aminotransferase activity ; GO:0004587
 MetaCyc:ORNITHINE-CYCLODEAMINASE-RXN > GO:ornithine cyclodeaminase activity ; GO:0008473
 MetaCyc:ORNITHINE-N-BENZOYLTRANSFERASE-RXN > GO:ornithine N-benzoyltransferase activity ; GO:0050156
 MetaCyc:ORNITHINE-RACEMASE-RXN > GO:ornithine racemase activity ; GO:0050157
-MetaCyc:ORNITHINELYSINE-AMINOTRANSFERASE-RXN > GO:ornithine(lysine) transaminase activity ; GO:0050155
+MetaCyc:ORNITHINELYSINE-AMINOTRANSFERASE-RXN > GO:ornithine aminotransferase activity ; GO:0004587
 MetaCyc:ORNMUTST-RXN > GO:D-ornithine 4,5-aminomutase activity ; GO:0047831
 MetaCyc:OROPRIBTRANS-RXN > GO:orotate phosphoribosyltransferase activity ; GO:0004588
 MetaCyc:OROTATE-REDUCTASE-NADH-RXN > GO:dihydroorotate dehydrogenase (NADH) activity ; GO:0004589

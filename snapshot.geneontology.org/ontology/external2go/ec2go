@@ -1,4 +1,4 @@
-! Generated on 2023-08-26T08:07Z from the ontology 'go' with data version: 'releases/2023-08-26'
+! Generated on 2023-09-04T07:38Z from the ontology 'go' with data version: 'releases/2023-09-02'
 !
 EC:1.-.-.- > GO:oxidoreductase activity ; GO:0016491
 EC:1.1.-.- > GO:oxidoreductase activity, acting on CH-OH group of donors ; GO:0016614
@@ -2645,8 +2645,7 @@ EC:2.6.1.1 > GO:L-aspartate:2-oxoglutarate aminotransferase activity ; GO:000406
 EC:2.6.1.102 > GO:GDP-4-dehydro-6-deoxy-D-mannose-4-aminotransferase activity ; GO:0102933
 EC:2.6.1.11 > GO:N2-acetyl-L-ornithine:2-oxoglutarate 5-aminotransferase activity ; GO:0003992
 EC:2.6.1.12 > GO:alanine-oxo-acid transaminase activity ; GO:0047635
-EC:2.6.1.13 > GO:ornithine-oxo-acid transaminase activity ; GO:0004587
-EC:2.6.1.13 > GO:ornithine(lysine) transaminase activity ; GO:0050155
+EC:2.6.1.13 > GO:ornithine aminotransferase activity ; GO:0004587
 EC:2.6.1.14 > GO:asparagine-oxo-acid transaminase activity ; GO:0047297
 EC:2.6.1.15 > GO:L-glutamine:pyruvate aminotransferase activity ; GO:0047945
 EC:2.6.1.16 > GO:glutamine-fructose-6-phosphate transaminase (isomerizing) activity ; GO:0004360

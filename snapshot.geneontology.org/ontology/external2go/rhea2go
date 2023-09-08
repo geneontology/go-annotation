@@ -1,4 +1,4 @@
-! Generated on 2023-08-26T08:07Z from the ontology 'go' with data version: 'releases/2023-08-26'
+! Generated on 2023-09-04T07:38Z from the ontology 'go' with data version: 'releases/2023-09-02'
 !
 RHEA:10000 > GO:pentanamidase activity ; GO:0050168
 RHEA:10004 > GO:thiocyanate isomerase activity ; GO:0050335
@@ -799,7 +799,7 @@ RHEA:13861 > GO:D-xylose 1-dehydrogenase (NAD) activity ; GO:0047838
 RHEA:13865 > GO:chitobiosyldiphosphodolichol beta-mannosyltransferase activity ; GO:0004578
 RHEA:13869 > GO:prephenate dehydrogenase (NAD+) activity ; GO:0008977
 RHEA:13873 > GO:abietadiene synthase activity ; GO:0050554
-RHEA:13877 > GO:ornithine-oxo-acid transaminase activity ; GO:0004587
+RHEA:13877 > GO:ornithine aminotransferase activity ; GO:0004587
 RHEA:13881 > GO:aldehyde dehydrogenase (quinone) activity ; GO:0047113
 RHEA:13885 > GO:stipitatonate decarboxylase activity ; GO:0050296
 RHEA:13889 > GO:FAD diphosphatase activity ; GO:0047884

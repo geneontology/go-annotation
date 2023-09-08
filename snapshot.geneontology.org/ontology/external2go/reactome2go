@@ -1,4 +1,4 @@
-! Generated on 2023-08-26T08:07Z from the ontology 'go' with data version: 'releases/2023-08-26'
+! Generated on 2023-09-04T07:38Z from the ontology 'go' with data version: 'releases/2023-09-02'
 !
 Reactome:R-HSA-1008248 > GO:nucleoside triphosphate adenylate kinase activity ; GO:0046899
 Reactome:R-HSA-1013012 > GO:G protein-coupled GABA receptor activity ; GO:0004965
@@ -4248,9 +4248,9 @@ Reactome:R-HSA-70606 > GO:glutamine synthetase activity ; GO:0004356
 Reactome:R-HSA-70609 > GO:glutaminase activity ; GO:0004359
 Reactome:R-HSA-70613 > GO:L-aspartate:2-oxoglutarate aminotransferase activity ; GO:0004069
 Reactome:R-HSA-70634 > GO:L-ornithine transmembrane transporter activity ; GO:0000064
-Reactome:R-HSA-70654 > GO:ornithine-oxo-acid transaminase activity ; GO:0004587
+Reactome:R-HSA-70654 > GO:ornithine aminotransferase activity ; GO:0004587
 Reactome:R-HSA-70664 > GO:pyrroline-5-carboxylate reductase activity ; GO:0004735
-Reactome:R-HSA-70666 > GO:ornithine-oxo-acid transaminase activity ; GO:0004587
+Reactome:R-HSA-70666 > GO:ornithine aminotransferase activity ; GO:0004587
 Reactome:R-HSA-70670 > GO:proline dehydrogenase activity ; GO:0004657
 Reactome:R-HSA-70679 > GO:1-pyrroline-5-carboxylate dehydrogenase activity ; GO:0003842
 Reactome:R-HSA-70692 > GO:ornithine decarboxylase activity ; GO:0004586
