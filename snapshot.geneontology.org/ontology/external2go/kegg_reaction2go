@@ -1,4 +1,4 @@
-! Generated on 2023-09-04T07:38Z from the ontology 'go' with data version: 'releases/2023-09-02'
+! Generated on 2023-09-10T08:04Z from the ontology 'go' with data version: 'releases/2023-09-10'
 !
 KEGG_REACTION:R00004 > GO:inorganic diphosphate phosphatase activity ; GO:0004427
 KEGG_REACTION:R00005 > GO:allophanate hydrolase activity ; GO:0004039
@@ -1596,7 +1596,7 @@ KEGG_REACTION:R07177 > GO:thiosulfate dehydrogenase (quinone) activity ; GO:0043
 KEGG_REACTION:R07185 > GO:2'-deoxymugineic-acid 2'-dioxygenase activity ; GO:0033760
 KEGG_REACTION:R07186 > GO:mugineic-acid 3-dioxygenase activity ; GO:0033761
 KEGG_REACTION:R07187 > GO:2'-deoxymugineic-acid 3-dioxygenase activity ; GO:0052860
-KEGG_REACTION:R07198 > GO:licodione synthase activity ; GO:0033771
+KEGG_REACTION:R07198 > GO:flavanone 2-hydroxylase activity ; GO:0033771
 KEGG_REACTION:R07199 > GO:zeaxanthin epoxidase activity ; GO:0052662
 KEGG_REACTION:R07200 > GO:zeaxanthin epoxidase activity ; GO:0052662
 KEGG_REACTION:R07201 > GO:phenylacetone monooxygenase activity ; GO:0033776
