@@ -1,0 +1,11 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P0AGJ2	trmH	PMID:23867454		GO:0009020	tRNA (guanosine-2'-O-)-methyltransferase activity	IDA			PANTHER:PTHR43453	20130731		NCBITaxon:83333
+EcoliWiki	UniProtKB:P0AGJ2	trmH	PMID:9321663		GO:0009020	tRNA (guanosine-2'-O-)-methyltransferase activity	IMP			PANTHER:PTHR43453	20110520		NCBITaxon:83333
+FlyBase	FB:FBgn0038861	Trm7-34	PMID:31943105|FB:FBrf0244923		GO:0009020	tRNA (guanosine-2'-O-)-methyltransferase activity	IMP			PANTHER:PTHR10920	20200302		NCBITaxon:7227
+PomBase	PomBase:SPAC4F10.03c	trm7	PMID:25404562		GO:0009020	tRNA (guanosine-2'-O-)-methyltransferase activity	IMP			PANTHER:PTHR10920	20190730	PomBase:SPATRNAPHE.01	NCBITaxon:4896
+Reactome	UniProtKB:Q9UET6	FTSJ1	PMID:25404562		GO:0009020	tRNA (guanosine-2'-O-)-methyltransferase activity	EXP			PANTHER:PTHR10920	20220504		NCBITaxon:9606
+Reactome	UniProtKB:Q9UET6	FTSJ1	PMID:26310293		GO:0009020	tRNA (guanosine-2'-O-)-methyltransferase activity	EXP			PANTHER:PTHR10920	20220504		NCBITaxon:9606
+UniProt	UniProtKB:Q5SM16	trmH	PMID:11918670		GO:0009020	tRNA (guanosine-2'-O-)-methyltransferase activity	IDA				20160316		NCBITaxon:300852
+UniProt	UniProtKB:O67577	trmH	PMID:12704200		GO:0009020	tRNA (guanosine-2'-O-)-methyltransferase activity	IDA			PANTHER:PTHR43453	20160316		NCBITaxon:224324
+UniProt	UniProtKB:Q9UET6	FTSJ1	PMID:26310293		GO:0009020	tRNA (guanosine-2'-O-)-methyltransferase activity	IMP			PANTHER:PTHR10920	20230331		NCBITaxon:9606
+UniProt	UniProtKB:Q72GI1	trmH	PMID:7085632		GO:0009020	tRNA (guanosine-2'-O-)-methyltransferase activity	IDA				20160316		NCBITaxon:262724
