@@ -1,0 +1,13 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CAFA	UniProtKB:Q7L0Y3	TRMT10C	PMID:23042678		GO:0009019	tRNA (guanine-N1-)-methyltransferase activity	IDA			PANTHER:PTHR13563	20160726	UniProtKB:Q99714	NCBITaxon:9606
+CAFA	UniProtKB:Q8TBZ6	TRMT10A	PMID:23042678		GO:0009019	tRNA (guanine-N1-)-methyltransferase activity	IDA			PANTHER:PTHR13563	20160726		NCBITaxon:9606
+CAFA	UniProtKB:Q6PF06	TRMT10B	PMID:23042678		GO:0009019	tRNA (guanine-N1-)-methyltransferase activity	IDA			PANTHER:PTHR13563	20160726		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-6161	hsd17b10-trmt10c-6	PMID:23042678		GO:0009019	tRNA (guanine-N1-)-methyltransferase activity	IDA				20201223		NCBITaxon:9606
+EcoCyc	UniProtKB:P0A873	trmD	PMID:14583191		GO:0009019	tRNA (guanine-N1-)-methyltransferase activity	IDA			PANTHER:PTHR46417	20130405		NCBITaxon:83333
+EcoCyc	UniProtKB:P0A873	trmD	PMID:6337136		GO:0009019	tRNA (guanine-N1-)-methyltransferase activity	IDA			PANTHER:PTHR46417	20071023		NCBITaxon:83333
+SGD	SGD:S000001112	TRM5	PMID:11226173		GO:0009019	tRNA (guanine-N1-)-methyltransferase activity	IMP		UniProtKB:P38793	PANTHER:PTHR23245	20150727		NCBITaxon:559292
+SGD	SGD:S000001112	TRM5	PMID:17652090		GO:0009019	tRNA (guanine-N1-)-methyltransferase activity	IDA		UniProtKB:P38793	PANTHER:PTHR23245	20150727		NCBITaxon:559292
+UniProt	UniProtKB:Q58293	trm5b	PMID:15165845		GO:0009019	tRNA (guanine-N1-)-methyltransferase activity	IDA			PANTHER:PTHR23245	20110314		NCBITaxon:243232
+UniProt	UniProtKB:Q9V0Q0	trm5b	PMID:20382657		GO:0009019	tRNA (guanine-N1-)-methyltransferase activity	IDA				20110314		NCBITaxon:272844
+UniProt	UniProtKB:Q9V2G1	taw22	PMID:20382657		GO:0009019	tRNA (guanine-N1-)-methyltransferase activity	IDA				20110314		NCBITaxon:272844
+UniProt	UniProtKB:Q5JD38	TK0422	PMID:20525789		GO:0009019	tRNA (guanine-N1-)-methyltransferase activity	IDA				20110317		NCBITaxon:69014

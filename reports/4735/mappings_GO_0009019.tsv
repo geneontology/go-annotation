@@ -1,0 +1,9 @@
+term	file	line
+GO:0009019	interpro2go	InterPro:IPR025792 tRNA (guanine(37)-N(1))-methyltransferase, eukaryotic > GO:tRNA (guanine-N1-)-methyltransferase activity ; GO:0009019
+GO:0009019	hamap2go	HAMAP:MF_00605 > GO:tRNA (guanine-N1-)-methyltransferase activity ; GO:0009019
+GO:0009019	hamap2go	HAMAP:MF_03152 > GO:tRNA (guanine-N1-)-methyltransferase activity ; GO:0009019
+GO:0009019	unirule2go	UniRule:UR000098201 > GO:tRNA (guanine-N1-)-methyltransferase activity ; GO:0009019
+GO:0009019	unirule2go	UniRule:UR000166087 > GO:tRNA (guanine-N1-)-methyltransferase activity ; GO:0009019
+GO:0009019	reactome2go	Reactome:R-HSA-6782859 > GO:tRNA (guanine-N1-)-methyltransferase activity ; GO:0009019
+GO:0009019	reactome2go	Reactome:R-HSA-6786621 > GO:tRNA (guanine-N1-)-methyltransferase activity ; GO:0009019
+GO:0009019	reactome2go	Reactome:R-HSA-6787591 > GO:tRNA (guanine-N1-)-methyltransferase activity ; GO:0009019
