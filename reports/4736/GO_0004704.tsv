@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:Q14164	IKBKE	PMID:10882136		GO:0004704	NF-kappaB-inducing kinase activity	IDA			PANTHER:PTHR22969	20010814		NCBITaxon:9606
+UniProt	MGI:MGI:1858204	Map3k14	PMID:11239468|MGI:MGI:1931349		GO:0004704	NF-kappaB-inducing kinase activity	IDA			PANTHER:PTHR48016	20100819		NCBITaxon:10090
