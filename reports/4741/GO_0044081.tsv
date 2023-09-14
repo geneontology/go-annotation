@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+GeneDB	TriTrypDB:LmjF.10.0480	GP63-4	PMID:19797268		GO:0044081	symbiont-mediated suppression of host nitric oxide-mediated signaling	IMP				20100222		NCBITaxon:347515
+GeneDB	TriTrypDB:LmjF.10.0470	GP63-3	PMID:19797268		GO:0044081	symbiont-mediated suppression of host nitric oxide-mediated signaling	IMP				20100222		NCBITaxon:347515
+GeneDB	TriTrypDB:LmjF.10.0465	GP63-2	PMID:19797268		GO:0044081	symbiont-mediated suppression of host nitric oxide-mediated signaling	IMP				20100222		NCBITaxon:347515
+GeneDB	TriTrypDB:LmjF.10.0460	GP63-1	PMID:19797268		GO:0044081	symbiont-mediated suppression of host nitric oxide-mediated signaling	IMP				20100222		NCBITaxon:347515
