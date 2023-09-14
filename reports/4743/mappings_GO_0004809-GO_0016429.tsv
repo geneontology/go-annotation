@@ -1,0 +1,22 @@
+term	file	line
+GO:0004809	prosite2go	PROSITE:PS51626 SAM_MT_TRM1 > GO:tRNA (guanine-N2-)-methyltransferase activity ; GO:0004809
+GO:0004809	interpro2go	InterPro:IPR002905 tRNA methyltransferase, Trm1 > GO:tRNA (guanine-N2-)-methyltransferase activity ; GO:0004809
+GO:0004809	interpro2go	InterPro:IPR005885 tRNA guanine(10)-N2-dimethyltransferase > GO:tRNA (guanine-N2-)-methyltransferase activity ; GO:0004809
+GO:0004809	interpro2go	InterPro:IPR022923 tRNA (guanine(26)-N(2))-dimethyltransferase, archaeal and bacterial > GO:tRNA (guanine-N2-)-methyltransferase activity ; GO:0004809
+GO:0004809	reactome2go	Reactome:R-HSA-6782416 > GO:tRNA (guanine-N2-)-methyltransferase activity ; GO:0004809
+GO:0004809	reactome2go	Reactome:R-HSA-6786501 > GO:tRNA (guanine-N2-)-methyltransferase activity ; GO:0004809
+GO:0004809	pfam2go	Pfam:PF02005 TRM > GO:tRNA (guanine-N2-)-methyltransferase activity ; GO:0004809
+GO:0004809	unirule2go	UniRule:UR000035398 > GO:tRNA (guanine-N2-)-methyltransferase activity ; GO:0004809
+GO:0004809	unirule2go	UniRule:UR000414388 > GO:tRNA (guanine-N2-)-methyltransferase activity ; GO:0004809
+GO:0004809	hamap2go	HAMAP:MF_00290 > GO:tRNA (guanine-N2-)-methyltransferase activity ; GO:0004809
+GO:0016429	prosite2go	PROSITE:PS51620 SAM_TRM61 > GO:tRNA (adenine-N1-)-methyltransferase activity ; GO:0016429
+GO:0016429	interpro2go	InterPro:IPR006901 tRNA methyltransferase TrmK > GO:tRNA (adenine-N1-)-methyltransferase activity ; GO:0016429
+GO:0016429	interpro2go	InterPro:IPR014816 tRNA (1-methyladenosine) methyltransferase catalytic subunit Gcd14 > GO:tRNA (adenine-N1-)-methyltransferase activity ; GO:0016429
+GO:0016429	pirsf2go	PIRSF:PIRSF017269 GCD14 > GO:tRNA (adenine-N1-)-methyltransferase activity ; GO:0016429
+GO:0016429	pirsf2go	PIRSF:PIRSF018637 TrmK > GO:tRNA (adenine-N1-)-methyltransferase activity ; GO:0016429
+GO:0016429	reactome2go	Reactome:R-HSA-6783492 > GO:tRNA (adenine-N1-)-methyltransferase activity ; GO:0016429
+GO:0016429	reactome2go	Reactome:R-HSA-6787525 > GO:tRNA (adenine-N1-)-methyltransferase activity ; GO:0016429
+GO:0016429	reactome2go	Reactome:R-HSA-6787594 > GO:tRNA (adenine-N1-)-methyltransferase activity ; GO:0016429
+GO:0016429	pfam2go	Pfam:PF04816 TrmK > GO:tRNA (adenine-N1-)-methyltransferase activity ; GO:0016429
+GO:0016429	pfam2go	Pfam:PF08704 GCD14 > GO:tRNA (adenine-N1-)-methyltransferase activity ; GO:0016429
+GO:0016429	unirule2go	UniRule:UR000484795 > GO:tRNA (adenine-N1-)-methyltransferase activity ; GO:0016429
