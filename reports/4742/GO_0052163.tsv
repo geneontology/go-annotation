@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CGD	CGD:CAL0000179202	YHB1	PMID:18083829|CGD_REF:CAL0118813		GO:0052163	symbiont defense to host-produced nitric oxide	IMP			PANTHER:PTHR43396	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000200226	CTA4	PMID:18083829|CGD_REF:CAL0118813		GO:0052163	symbiont defense to host-produced nitric oxide	IMP			PANTHER:PTHR31069	20140625		NCBITaxon:237561
+MTBBASE	UniProtKB:P9WGE9	sodC	PMID:11447176		GO:0052163	symbiont defense to host-produced nitric oxide	IDA			PANTHER:PTHR10003	20100308		NCBITaxon:83332
