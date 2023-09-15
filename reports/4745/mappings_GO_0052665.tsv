@@ -1,0 +1,5 @@
+term	file	line
+GO:0052665	reactome2go	Reactome:R-HSA-6788707 > GO:tRNA (uracil-2'-O-)-methyltransferase activity ; GO:0052665
+GO:0052665	rhea2go	RHEA:43100 > GO:tRNA (uracil-2'-O-)-methyltransferase activity ; GO:0052665
+GO:0052665	metacyc2go	MetaCyc:RXN0-5143 > GO:tRNA (uracil-2'-O-)-methyltransferase activity ; GO:0052665
+GO:0052665	ec2go	EC:2.1.1.34 > GO:tRNA (uracil-2'-O-)-methyltransferase activity ; GO:0052665
