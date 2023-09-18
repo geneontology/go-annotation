@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	RNAcentral:URS000019D79B_9606	URS000019D79B_9606	PMID:31599428		GO:0039531	regulation of viral-induced cytoplasmic pattern recognition receptor signaling pathway	IDA				20201102	CL:0000235	NCBITaxon:9606
+UniProt	UniProtKB:O43657	TSPAN6	PMID:22908223		GO:0039532	negative regulation of viral-induced cytoplasmic pattern recognition receptor signaling pathway	IMP			PANTHER:PTHR19282	20140702		NCBITaxon:9606
+UniProt	UniProtKB:Q6WB96	M2	PMID:23015697		GO:0039532	negative regulation of viral-induced cytoplasmic pattern recognition receptor signaling pathway	IDA				20230417		NCBITaxon:694067
+UniProt	UniProtKB:Q15633	TARBP2	PMID:30927622		GO:0039532	negative regulation of viral-induced cytoplasmic pattern recognition receptor signaling pathway	IDA			PANTHER:PTHR46205	20230627		NCBITaxon:9606
+UniProt	UniProtKB:Q6WB96	M2	PMID:36045682		GO:0039532	negative regulation of viral-induced cytoplasmic pattern recognition receptor signaling pathway	IDA				20230417		NCBITaxon:694067
