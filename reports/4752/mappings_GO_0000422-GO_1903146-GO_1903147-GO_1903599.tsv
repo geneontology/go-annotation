@@ -1,0 +1,9 @@
+term	file	line
+GO:0000422	interpro2go	InterPro:IPR040040 Autophagy-related protein 11 > GO:autophagy of mitochondrion ; GO:0000422
+GO:0000422	interpro2go	InterPro:IPR040110 PINK1, protein kinase domain > GO:autophagy of mitochondrion ; GO:0000422
+GO:0000422	interpro2go	InterPro:IPR045593 Atg11, middle domain > GO:autophagy of mitochondrion ; GO:0000422
+GO:0000422	interpro2go	InterPro:IPR047118 F-box only protein 7 > GO:autophagy of mitochondrion ; GO:0000422
+GO:0000422	wikipedia2go	Wikipedia:Autophagy_(cellular)#Selective_autophagy > GO:autophagy of mitochondrion ; GO:0000422
+GO:0000422	wikipedia2go	Wikipedia:Mitophagy > GO:autophagy of mitochondrion ; GO:0000422
+GO:0000422	pfam2go	Pfam:PF19697 Atg11_middle > GO:autophagy of mitochondrion ; GO:0000422
+GO:0000422	unirule2go	UniRule:UR001378758 > GO:autophagy of mitochondrion ; GO:0000422

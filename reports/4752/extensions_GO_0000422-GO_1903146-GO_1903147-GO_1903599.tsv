@@ -1,0 +1,8 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ParkinsonsUK-UCL	RGD:61797	Prkn	PMID:20457763|RGD:10047224		GO:0016567	protein ubiquitination	IDA			PANTHER:PTHR11685	20150603	GO:0000422|GO:0005739	NCBITaxon:10116
+ParkinsonsUK-UCL	RGD:61797	Prkn	PMID:20457763|RGD:10047224		GO:0051646	mitochondrion localization	IDA			PANTHER:PTHR11685	20150603	GO:0000422	NCBITaxon:10116
+ParkinsonsUK-UCL	UniProtKB:Q9UII2	ATP5IF1	PMID:24005319		GO:1903052	positive regulation of proteolysis involved in protein catabolic process	IMP			PANTHER:PTHR23407	20150210	GO:0000422|UniProtKB:Q9BXM7	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9P0U1	TOMM7	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	IMP			PANTHER:PTHR46722	20150422	UniProtKB:O60260|CL:0000540|UniProtKB:Q9BXM7|GO:0000422	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9UII2	ATP5IF1	PMID:24005319		GO:1903214	regulation of protein targeting to mitochondrion	IMP			PANTHER:PTHR23407	20150210	GO:1903146|UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9GZQ8	MAP1LC3B	PMID:25215947		GO:0005515	protein binding	IPI	UniProtKB:Q9C0C7		PANTHER:PTHR10969	20150113	GO:0051882|GO:1903599|GO:0005739	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9C0C7	AMBRA1	PMID:25215947		GO:0005515	protein binding	IPI	UniProtKB:Q9GZQ8		PANTHER:PTHR22874	20150113	GO:0051882|GO:1903599|GO:0005739	NCBITaxon:9606
