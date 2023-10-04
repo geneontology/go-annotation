@@ -1,0 +1,15 @@
+term	file	line
+GO:0090305	hamap2go	HAMAP:MF_00901 > GO:nucleic acid phosphodiester bond hydrolysis ; GO:0090305
+GO:0090305	hamap2go	HAMAP:MF_04009 > GO:nucleic acid phosphodiester bond hydrolysis ; GO:0090305
+GO:0090305	interpro2go	InterPro:IPR010584 Exodeoxyribonuclease 8 > GO:nucleic acid phosphodiester bond hydrolysis ; GO:0090305
+GO:0090305	interpro2go	InterPro:IPR016368 Endoribonuclease VapD > GO:nucleic acid phosphodiester bond hydrolysis ; GO:0090305
+GO:0090305	interpro2go	InterPro:IPR018669 Toxin-antitoxin system, mRNA interferase HigB > GO:nucleic acid phosphodiester bond hydrolysis ; GO:0090305
+GO:0090305	interpro2go	InterPro:IPR019064 Type-2 restriction enzyme NlaIV > GO:nucleic acid phosphodiester bond hydrolysis ; GO:0090305
+GO:0090305	interpro2go	InterPro:IPR026770 Ribonuclease kappa > GO:nucleic acid phosphodiester bond hydrolysis ; GO:0090305
+GO:0090305	interpro2go	InterPro:IPR046390 Head completion nuclease > GO:nucleic acid phosphodiester bond hydrolysis ; GO:0090305
+GO:0090305	pirsf2go	PIRSF:PIRSF002882 VapD > GO:nucleic acid phosphodiester bond hydrolysis ; GO:0090305
+GO:0090305	unirule2go	UniRule:UR000100329 > GO:nucleic acid phosphodiester bond hydrolysis ; GO:0090305
+GO:0090305	unirule2go	UniRule:UR000281433 > GO:nucleic acid phosphodiester bond hydrolysis ; GO:0090305
+GO:0090305	pfam2go	Pfam:PF06630 Exonuc_VIII > GO:nucleic acid phosphodiester bond hydrolysis ; GO:0090305
+GO:0090305	pfam2go	Pfam:PF09564 RE_NgoBV > GO:nucleic acid phosphodiester bond hydrolysis ; GO:0090305
+GO:0090305	pfam2go	Pfam:PF09907 HigB_toxin > GO:nucleic acid phosphodiester bond hydrolysis ; GO:0090305
