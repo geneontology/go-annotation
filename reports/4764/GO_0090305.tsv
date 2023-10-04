@@ -1,0 +1,27 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	MGI:MGI:2443732	Dna2	PMID:23604072|MGI:MGI:5499273		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IDA			PANTHER:PTHR10887	20151223	GO:1902990	NCBITaxon:10090
+CAFA	UniProtKB:P09883	col	PMID:12054823		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IDA				20161019		NCBITaxon:562
+CAFA	UniProtKB:P13299	ITEVIR	PMID:15361856		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IDA				20170123		NCBITaxon:10665
+CAFA	FB:FBgn0000100	RpLP0	PMID:8932386|FB:FBrf0090870		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IDA			PANTHER:PTHR45699	20170123		NCBITaxon:7227
+EcoCyc	UniProtKB:P45472	yhbQ	PMID:26774489		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IDA			PANTHER:PTHR34477	20160221		NCBITaxon:83333
+FlyBase	FB:FBgn0039593	Sid	PMID:25083901|FB:FBrf0225786		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IDA			PANTHER:PTHR13966	20140925		NCBITaxon:7227
+GOC	AGI_LocusCode:AT3G56170	CAN	PMID:10760589|TAIR:Publication:529		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IDA		TAIR:locus:2078486		20210401		NCBITaxon:3702
+GOC	AGI_LocusCode:AT4G13870	WRNEXO	PMID:16396834|TAIR:Publication:501718447		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IDA		TAIR:locus:2119525		20210401		NCBITaxon:3702
+GOC	AGI_LocusCode:AT4G21600	ENDO5	PMID:17651368|TAIR:Publication:501722693		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IDA		TAIR:locus:2119612		20210401		NCBITaxon:3702
+GOC	AGI_LocusCode:AT1G68290	ENDO2	PMID:22506810|TAIR:Publication:501748506		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IDA		TAIR:locus:2199297		20210401		NCBITaxon:3702
+GOC	AGI_LocusCode:AT1G01880	GEN1	PMID:25037209|TAIR:Publication:501760496		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IDA		TAIR:locus:2025447		20210401		NCBITaxon:3702
+GOC	AGI_LocusCode:AT3G48900	SEND1	PMID:25037209|TAIR:Publication:501760496		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IDA		TAIR:locus:2099463		20210401		NCBITaxon:3702
+MGI	MGI:MGI:2442925	Atad5	PMID:25404367		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IMP	MGI:4127920		PANTHER:PTHR23389	20160509	GO:0045190|CL:0000236	NCBITaxon:10090
+MTBBASE	UniProtKB:P9WJH7	ndkA	PMID:15888727		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IDA			PANTHER:PTHR11349	20100621		NCBITaxon:83332
+TAIR	AGI_LocusCode:AT4G17620	DXO1	PMID:31449356|TAIR:Publication:501786338		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IDA		TAIR:locus:2129311		20190927		NCBITaxon:3702
+UniProt	UniProtKB:P39748	FEN1	PMID:18499658		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IDA			PANTHER:PTHR11081	20160914		NCBITaxon:9606
+UniProt	UniProtKB:Q92499	DDX1	PMID:18710941		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IDA			PANTHER:PTHR24031	20170324		NCBITaxon:9606
+UniProt	UniProtKB:Q53H47	SETMAR	PMID:22231448		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IMP			PANTHER:PTHR46060	20141001		NCBITaxon:9606
+UniProt	UniProtKB:Q6L8Q7	PDE12	PMID:22285541		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IDA			PANTHER:PTHR12121	20170720		NCBITaxon:9606
+UniProt	UniProtKB:P22413	ENPP1	PMID:22285541		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IDA			PANTHER:PTHR10151	20170720		NCBITaxon:9606
+UniProt	UniProtKB:Q6CPU0	DXO1	PMID:22961381		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IDA				20130423		NCBITaxon:284590
+UniProt	MGI:MGI:1890444	Dxo	PMID:23523372|MGI:MGI:5488528		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IDA			PANTHER:PTHR12395	20130423		NCBITaxon:10090
+UniProt	UniProtKB:Q9NVH0	EXD2	PMID:26807646		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IDA			PANTHER:PTHR13620	20160321		NCBITaxon:9606
+UniProt	WB:WBGene00010734	parn-1	PMID:26919432|WB_REF:WBPaper00049279		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IDA			PANTHER:PTHR15092	20160819		NCBITaxon:6239
+UniProt	UniProtKB:O00370	O00370	PMID:8945517		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IDA			PANTHER:PTHR25952	20131113		NCBITaxon:9606
+ZFIN	ZFIN:ZDB-GENE-030131-4257	trap1	PMID:29991590		GO:0090305	nucleic acid phosphodiester bond hydrolysis	IDA			PANTHER:PTHR11528	20190808		NCBITaxon:7955
