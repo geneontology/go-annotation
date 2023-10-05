@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	UniProtKB:Q8WUX1	SLC38A5	PMID:11243884		GO:0022889	serine transmembrane transporter activity	IMP			PANTHER:PTHR22950	20191210		NCBITaxon:9606
+UniProt	UniProtKB:Q9BWM7	SFXN3	PMID:30442778		GO:0022889	serine transmembrane transporter activity	IDA			PANTHER:PTHR11153	20190107		NCBITaxon:9606
+UniProt	FB:FBgn0037239	Sfxn1-3	PMID:30442778|FB:FBrf0241302		GO:0022889	serine transmembrane transporter activity	IDA			PANTHER:PTHR11153	20190107		NCBITaxon:7227
+UniProt	FB:FBgn0036843	Sfxn2	PMID:30442778|FB:FBrf0241302		GO:0022889	serine transmembrane transporter activity	IDA			PANTHER:PTHR11153	20190107		NCBITaxon:7227
