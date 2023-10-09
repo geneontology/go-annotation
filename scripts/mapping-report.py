@@ -165,6 +165,9 @@ if __name__ == "__main__":
                "file",
                "line"]
 
+    ## Flag to detect whether or not we saw results.
+    saw_a_result_p = False
+
     ## Final writeout to files of the same name as the terms.
     mapping_directory = os.fsencode(args.input)
     mapping_files = os.listdir(mapping_directory)
@@ -194,5 +197,13 @@ if __name__ == "__main__":
                         ## Print matching term lines.
                         if term in line:
                             #LOG.info(term + "\t" + filename + "\t" + line)
+                            saw_a_result_p = True
                             fhandle.write(term + "\t" + map_file.decode("utf-8") + "\t" + line)
                             fhandle.write("\n")
+
+    ## Rename as empty if did not see any results.
+    if saw_a_result_p == False:
+        LOG.info('No results found, so renaming as EMPTY.')
+        os.rename(outfile, os.path.join(os.path.split(outfile)[0], 'EMPTY_' + os.path.basename(outfile)))
+    else:
+        LOG.info('Results found, no renaming.')
