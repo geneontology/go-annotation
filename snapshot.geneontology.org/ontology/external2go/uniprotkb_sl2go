@@ -1,4 +1,4 @@
-!version date: 2023/07/03 12:40:08
+!version date: 2023/09/11 12:15:23
 !description: Mapping of UniProt Subcellular Location vocabulary to GO terms.
 !external resource: http://www.uniprot.org
 !citation: Barrell, D. et al. (2009) Nucleic Acids Res. 37: D396-D403.
@@ -21,15 +21,19 @@ UniProtKB-SubCell:SL-0011 Aleurone grain membrane > GO:aleurone grain membrane ;
 UniProtKB-SubCell:SL-0012 Amyloplast > GO:amyloplast ; GO:0009501
 UniProtKB-SubCell:SL-0013 Amyloplast inner membrane > GO:amyloplast inner membrane ; GO:0033098
 UniProtKB-SubCell:SL-0014 Amyloplast membrane > GO:amyloplast membrane ; GO:0033097
+UniProtKB-SubCell:SL-0491 Anammoxosome > GO:anammoxosome ; GO:0044222
 UniProtKB-SubCell:SL-0015 Apical cell membrane > GO:apical plasma membrane ; GO:0016324
 UniProtKB-SubCell:SL-0016 Apical lamina > GO:apical lamina of hyaline layer ; GO:0032579
 UniProtKB-SubCell:SL-0017 Apicolateral cell membrane > GO:apicolateral plasma membrane ; GO:0016327
 UniProtKB-SubCell:SL-0018 Apicoplast > GO:apicoplast ; GO:0020011
 UniProtKB-SubCell:SL-0019 Apoplast > GO:apoplast ; GO:0048046
 UniProtKB-SubCell:SL-0306 Archaeal flagellum > GO:archaeal-type flagellum ; GO:0097589
+UniProtKB-SubCell:SL-0538 Ascus epiplasm > GO:ascus epiplasm ; GO:0072324
 UniProtKB-SubCell:SL-0020 Attachment organelle > GO:attachment organelle ; GO:0033099
 UniProtKB-SubCell:SL-0021 Attachment organelle membrane > GO:attachment organelle membrane ; GO:0033111
 UniProtKB-SubCell:SL-0535 Autolysosome > GO:autolysosome ; GO:0044754
+UniProtKB-SubCell:SL-0537 Autolysosome lumen > GO:autolysosome lumen ; GO:0120282
+UniProtKB-SubCell:SL-0536 Autolysosome membrane > GO:autolysosome membrane ; GO:0120281
 UniProtKB-SubCell:SL-0023 Autophagosome > GO:autophagosome ; GO:0005776
 UniProtKB-SubCell:SL-0318 Autophagosome lumen > GO:autophagosome lumen ; GO:0034423
 UniProtKB-SubCell:SL-0022 Autophagosome membrane > GO:autophagosome membrane ; GO:0000421
@@ -73,9 +77,10 @@ UniProtKB-SubCell:SL-0042 Cellular chromatophore membrane > GO:plasma membrane-d
 UniProtKB-SubCell:SL-0043 Cellular thylakoid > GO:bacterial thylakoid ; GO:0030075
 UniProtKB-SubCell:SL-0044 Cellular thylakoid lumen > GO:plasma membrane-derived thylakoid lumen ; GO:0031979
 UniProtKB-SubCell:SL-0045 Cellular thylakoid membrane > GO:plasma membrane-derived thylakoid membrane ; GO:0031676
+UniProtKB-SubCell:SL-0485 Centriolar satellite > GO:centriolar satellite ; GO:0034451
 UniProtKB-SubCell:SL-0046 Centriole > GO:centriole ; GO:0005814
 UniProtKB-SubCell:SL-0047 Centromere > GO:chromosome, centromeric region ; GO:0000775
-UniProtKB-SubCell:SL-0048 Centrosome > GO:microtubule organizing center ; GO:0005815
+UniProtKB-SubCell:SL-0048 Centrosome > GO:centrosome ; GO:0005813
 UniProtKB-SubCell:SL-0049 Chloroplast > GO:chloroplast ; GO:0009507
 UniProtKB-SubCell:SL-0050 Chloroplast envelope > GO:chloroplast envelope ; GO:0009941
 UniProtKB-SubCell:SL-0051 Chloroplast inner membrane > GO:chloroplast inner membrane ; GO:0009706
@@ -119,6 +124,7 @@ UniProtKB-SubCell:SL-0277 Cyanelle thylakoid > GO:cyanelle thylakoid ; GO:000984
 UniProtKB-SubCell:SL-0084 Cyanelle thylakoid lumen > GO:cyanelle thylakoid lumen ; GO:0033114
 UniProtKB-SubCell:SL-0085 Cyanelle thylakoid membrane > GO:cyanelle thylakoid membrane ; GO:0033115
 UniProtKB-SubCell:SL-0543 Cytolytic granule > GO:cytolytic granule ; GO:0044194
+UniProtKB-SubCell:SL-0547 Cytolytic granule membrane > GO:cytolytic granule membrane ; GO:0101004
 UniProtKB-SubCell:SL-0086 Cytoplasm > GO:cytoplasm ; GO:0005737
 UniProtKB-SubCell:SL-0495 Cytoplasmic ribonucleoprotein granule > GO:cytoplasmic ribonucleoprotein granule ; GO:0036464
 UniProtKB-SubCell:SL-0325 Cytoplasmic vesicle lumen > GO:cytoplasmic vesicle lumen ; GO:0060205
@@ -133,6 +139,7 @@ UniProtKB-SubCell:SL-0542 Dynein axonemal particle > GO:dynein axonemal particle
 UniProtKB-SubCell:SL-0094 Early endosome > GO:early endosome ; GO:0005769
 UniProtKB-SubCell:SL-0337 Early endosome lumen > GO:early endosome lumen ; GO:0031905
 UniProtKB-SubCell:SL-0093 Early endosome membrane > GO:early endosome membrane ; GO:0031901
+UniProtKB-SubCell:SL-0550 Encapsulin nanocompartment > GO:encapsulin nanocompartment ; GO:0140737
 UniProtKB-SubCell:SL-0147 Endomembrane system > GO:endomembrane system ; GO:0012505
 UniProtKB-SubCell:SL-0095 Endoplasmic reticulum > GO:endoplasmic reticulum ; GO:0005783
 UniProtKB-SubCell:SL-0096 Endoplasmic reticulum lumen > GO:endoplasmic reticulum lumen ; GO:0005788
@@ -148,7 +155,7 @@ UniProtKB-SubCell:SL-0108 Esterosome membrane > GO:esterosome membrane ; GO:0033
 UniProtKB-SubCell:SL-0110 Etioplast > GO:etioplast ; GO:0009513
 UniProtKB-SubCell:SL-0329 Etioplast membrane > GO:etioplast membrane ; GO:0034426
 UniProtKB-SubCell:SL-0330 Etioplast stroma > GO:etioplast stroma ; GO:0009578
-UniProtKB-SubCell:SL-0112 Extracellular space > GO:extracellular space ; GO:0005615
+UniProtKB-SubCell:SL-0112 Extracellular space > GO:extracellular region ; GO:0005576
 UniProtKB-SubCell:SL-0286 Filopodium > GO:filopodium ; GO:0030175
 UniProtKB-SubCell:SL-0287 Filopodium membrane > GO:filopodium membrane ; GO:0031527
 UniProtKB-SubCell:SL-0470 Filopodium tip > GO:filopodium tip ; GO:0032433
@@ -235,6 +242,7 @@ UniProtKB-SubCell:SL-0508 Host pathogen-containing vacuole lumen > GO:pathogen-c
 UniProtKB-SubCell:SL-0509 Host pathogen-containing vacuole membrane > GO:pathogen-containing vacuole membrane ; GO:0140221
 UniProtKB-SubCell:SL-0382 Host perinuclear region > GO:host cell perinuclear region of cytoplasm ; GO:0044220
 UniProtKB-SubCell:SL-0420 Host periplasm > GO:host cell periplasmic space ; GO:0044229
+UniProtKB-SubCell:SL-0475 Host peroxisome > GO:host cell peroxisome ; GO:0120149
 UniProtKB-SubCell:SL-0385 Host plasmodesma > GO:host cell plasmodesma ; GO:0044219
 UniProtKB-SubCell:SL-0434 Host presynaptic cell membrane > GO:host cell presynaptic membrane ; GO:0044231
 UniProtKB-SubCell:SL-0422 Host rough endoplasmic reticulum > GO:host cell rough endoplasmic reticulum ; GO:0044168
@@ -276,6 +284,7 @@ UniProtKB-SubCell:SL-0370 Membrane raft > GO:membrane raft ; GO:0045121
 UniProtKB-SubCell:SL-0163 Microneme > GO:microneme ; GO:0020009
 UniProtKB-SubCell:SL-0339 Microneme lumen > GO:microneme lumen ; GO:0034494
 UniProtKB-SubCell:SL-0164 Microneme membrane > GO:microneme membrane ; GO:0033163
+UniProtKB-SubCell:SL-0484 Microtubule organizing center > GO:microtubule organizing center ; GO:0005815
 UniProtKB-SubCell:SL-0293 Microvillus > GO:microvillus ; GO:0005902
 UniProtKB-SubCell:SL-0294 Microvillus membrane > GO:microvillus membrane ; GO:0031528
 UniProtKB-SubCell:SL-0469 Midbody > GO:midbody ; GO:0030496
@@ -363,9 +372,11 @@ UniProtKB-SubCell:SL-0219 Postsynaptic cell membrane > GO:postsynaptic membrane 
 UniProtKB-SubCell:SL-0297 Postsynaptic density > GO:postsynaptic density ; GO:0014069
 UniProtKB-SubCell:SL-0520 Postsynaptic density membrane > GO:postsynaptic density membrane ; GO:0098839
 UniProtKB-SubCell:SL-0523 Postsynaptic early endosome > GO:postsynaptic early endosome ; GO:0098842
+UniProtKB-SubCell:SL-0534 Postsynaptic early endosome membrane > GO:postsynaptic early endosome membrane ; GO:0098896
 UniProtKB-SubCell:SL-0528 Postsynaptic endocytic zone > GO:postsynaptic endocytic zone ; GO:0098843
 UniProtKB-SubCell:SL-0522 Postsynaptic endosome > GO:postsynaptic endosome ; GO:0098845
 UniProtKB-SubCell:SL-0524 Postsynaptic recycling endosome > GO:postsynaptic recycling endosome ; GO:0098837
+UniProtKB-SubCell:SL-0533 Postsynaptic recycling endosome membrane > GO:postsynaptic recycling endosome membrane ; GO:0098944
 UniProtKB-SubCell:SL-0220 Preautophagosomal structure > GO:phagophore assembly site ; GO:0000407
 UniProtKB-SubCell:SL-0221 Preautophagosomal structure membrane > GO:phagophore assembly site membrane ; GO:0034045
 UniProtKB-SubCell:SL-0516 Presynapse > GO:presynapse ; GO:0098793
@@ -387,6 +398,8 @@ UniProtKB-SubCell:SL-0299 Pseudopodium membrane > GO:pseudopodium membrane ; GO:
 UniProtKB-SubCell:SL-0232 Recycling endosome > GO:recycling endosome ; GO:0055037
 UniProtKB-SubCell:SL-0345 Recycling endosome lumen > GO:recycling endosome lumen ; GO:0034777
 UniProtKB-SubCell:SL-0231 Recycling endosome membrane > GO:recycling endosome membrane ; GO:0055038
+UniProtKB-SubCell:SL-0551 Rhabdomere > GO:rhabdomere ; GO:0016028
+UniProtKB-SubCell:SL-0552 Rhabdomere membrane > GO:rhabdomere membrane ; GO:0033583
 UniProtKB-SubCell:SL-0233 Rhoptry > GO:rhoptry ; GO:0020008
 UniProtKB-SubCell:SL-0346 Rhoptry lumen > GO:rhoptry lumen ; GO:0034591
 UniProtKB-SubCell:SL-0234 Rhoptry membrane > GO:rhoptry membrane ; GO:0033016
@@ -421,6 +434,7 @@ UniProtKB-SubCell:SL-0436 Spore polar tube > GO:polar tube ; GO:0044099
 UniProtKB-SubCell:SL-0254 Spore wall > GO:spore wall ; GO:0031160
 UniProtKB-SubCell:SL-0302 Stereocilium > GO:stereocilium ; GO:0032420
 UniProtKB-SubCell:SL-0303 Stereocilium membrane > GO:stereocilium membrane ; GO:0060171
+UniProtKB-SubCell:SL-0501 Stress fiber > GO:stress fiber ; GO:0001725
 UniProtKB-SubCell:SL-0496 Stress granule > GO:cytoplasmic stress granule ; GO:0010494
 UniProtKB-SubCell:SL-0256 Symbiosome > GO:symbiosome ; GO:0043659
 UniProtKB-SubCell:SL-0257 Symplast > GO:symplast ; GO:0055044
@@ -440,11 +454,13 @@ UniProtKB-SubCell:SL-0141 Uropodium > GO:uropod ; GO:0001931
 UniProtKB-SubCell:SL-0272 Vacuole > GO:vacuole ; GO:0005773
 UniProtKB-SubCell:SL-0270 Vacuole lumen > GO:vacuolar lumen ; GO:0005775
 UniProtKB-SubCell:SL-0271 Vacuole membrane > GO:vacuolar membrane ; GO:0005774
+UniProtKB-SubCell:SL-0498 Vesicle > GO:vesicle ; GO:0031982
 UniProtKB-SubCell:SL-0275 Virion membrane > GO:virion membrane ; GO:0055036
 UniProtKB-SubCell:SL-0273 Virion tegument > GO:viral tegument ; GO:0019033
 UniProtKB-SubCell:SL-0314 Z line > GO:Z disc ; GO:0030018
 UniProtKB-SubCell:SL-0540 Zona pellucida > GO:egg coat ; GO:0035805
 UniProtKB-SubCell:SL-0545 Zymogen granule > GO:zymogen granule ; GO:0042588
+UniProtKB-SubCell:SL-0549 Zymogen granule membrane > GO:zymogen granule membrane ; GO:0042589
 UniProtKB-SubCell:SL-0067 cis-Golgi network > GO:cis-Golgi network ; GO:0005801
 UniProtKB-SubCell:SL-0068 cis-Golgi network membrane > GO:cis-Golgi network membrane ; GO:0033106
 UniProtKB-SubCell:SL-0266 trans-Golgi network > GO:trans-Golgi network ; GO:0005802

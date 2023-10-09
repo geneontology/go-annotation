@@ -1,6 +1,0 @@
-!version date: 2023/07/05 00:21:08
-!description: Mapping of GO terms to PRODOM entries. This mapping is generated from data supplied by InterPro for the InterPro2GO mapping.
-!external resources:http://www.ebi.ac.uk/interpro, http://prodom.prabi.fr/
-!citation: Mitchell et al. (2015) Nucl. Acids Res. 43 :D213-D221
-!contact:interhelp@ebi.ac.uk
-!

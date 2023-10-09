@@ -1,4 +1,4 @@
-! Generated on 2023-09-20T08:04Z from the ontology 'go' with data version: 'releases/2023-09-20'
+! Generated on 2023-10-08T07:34Z from the ontology 'go' with data version: 'releases/2023-10-06'
 !
 MetaCyc:+-BORNEOL-DEHYDROGENASE-RXN > GO:(+)-borneol dehydrogenase activity ; GO:0047500
 MetaCyc:+-NEOMENTHOL-DEHYDROGENASE-RXN > GO:(+)-neomenthol dehydrogenase activity ; GO:0047501
@@ -993,7 +993,7 @@ MetaCyc:3.1.27.9-RXN > GO:tRNA-intron endonuclease activity ; GO:0000213
 MetaCyc:3.1.3.14-RXN > GO:methylphosphothioglycerate phosphatase activity ; GO:0047382
 MetaCyc:3.1.3.16-RXN > GO:protein serine/threonine phosphatase activity ; GO:0004722
 MetaCyc:3.1.3.40-RXN > GO:guanidinodeoxy-scyllo-inositol-4-phosphatase activity ; GO:0047383
-MetaCyc:3.1.3.43-RXN > GO:[pyruvate dehydrogenase (lipoamide)] phosphatase activity ; GO:0004741
+MetaCyc:3.1.3.43-RXN > GO:[pyruvate dehydrogenase (acetyl-transferring)]-phosphatase activity ; GO:0004741
 MetaCyc:3.1.3.46-RXN > GO:fructose-2,6-bisphosphate 2-phosphatase activity ; GO:0004331
 MetaCyc:3.1.3.47-RXN > GO:[hydroxymethylglutaryl-CoA reductase (NADPH)]-phosphatase activity ; GO:0047384
 MetaCyc:3.1.3.52-RXN > GO:[3-methyl-2-oxobutanoate dehydrogenase (lipoamide)]-phosphatase activity ; GO:0047385
@@ -2155,7 +2155,6 @@ MetaCyc:DHBAMPLIG-RXN > GO:(2,3-dihydroxybenzoyl)adenylate synthase activity ; G
 MetaCyc:DHBDEHYD-RXN > GO:2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase activity ; GO:0008667
 MetaCyc:DHDOGALDOL-RXN > GO:2-dehydro-3-deoxy-D-gluconate aldolase activity ; GO:0061677
 MetaCyc:DHGLUCONATE-PYR-CAT-PWY > GO:keto-D-gluconate catabolic process ; GO:0019524
-MetaCyc:DHHB-METHYLTRANSFER-RXN > GO:3-demethylubiquinone-9 3-O-methyltransferase activity ; GO:0008689
 MetaCyc:DHSHIKIMATE-DEHYDRO-RXN > GO:3-dehydroshikimate dehydratase activity ; GO:0046565
 MetaCyc:DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN > GO:diacylglycerol O-acyltransferase activity ; GO:0004144
 MetaCyc:DIACYLGLYKIN-RXN > GO:ATP-dependent diacylglycerol kinase activity ; GO:0004143

@@ -1,4 +1,4 @@
-! Generated on 2023-09-20T08:04Z from the ontology 'go' with data version: 'releases/2023-09-20'
+! Generated on 2023-10-08T07:34Z from the ontology 'go' with data version: 'releases/2023-10-06'
 !
 EC:1.-.-.- > GO:oxidoreductase activity ; GO:0016491
 EC:1.1.-.- > GO:oxidoreductase activity, acting on CH-OH group of donors ; GO:0016614
@@ -1878,7 +1878,7 @@ EC:2.1.1.60 > GO:calmodulin-lysine N-methyltransferase activity ; GO:0018025
 EC:2.1.1.61 > GO:tRNA (5-methylaminomethyl-2-thiouridylate)(34)-methyltransferase activity ; GO:0004808
 EC:2.1.1.62 > GO:mRNA (2'-O-methyladenosine-N6-)-methyltransferase activity ; GO:0016422
 EC:2.1.1.63 > GO:methylated-DNA-[protein]-cysteine S-methyltransferase activity ; GO:0003908
-EC:2.1.1.64 > GO:3-demethylubiquinone-9 3-O-methyltransferase activity ; GO:0008689
+EC:2.1.1.64 > GO:3-demethylubiquinol-n 3-O-methyltransferase activity ; GO:0061542
 EC:2.1.1.65 > GO:licodione 2'-O-methyltransferase activity ; GO:0030751
 EC:2.1.1.67 > GO:thiopurine S-methyltransferase activity ; GO:0008119
 EC:2.1.1.68 > GO:caffeate O-methyltransferase activity ; GO:0047763
@@ -3398,7 +3398,7 @@ EC:3.1.3.39 > GO:streptomycin-6-phosphatase activity ; GO:0050301
 EC:3.1.3.4 > GO:phosphatidate phosphatase activity ; GO:0008195
 EC:3.1.3.40 > GO:guanidinodeoxy-scyllo-inositol-4-phosphatase activity ; GO:0047383
 EC:3.1.3.42 > GO:[glycogen-synthase-D] phosphatase activity ; GO:0050407
-EC:3.1.3.43 > GO:[pyruvate dehydrogenase (lipoamide)] phosphatase activity ; GO:0004741
+EC:3.1.3.43 > GO:[pyruvate dehydrogenase (acetyl-transferring)]-phosphatase activity ; GO:0004741
 EC:3.1.3.43 > GO:[pyruvate dehydrogenase (lipoamide)] phosphatase regulator activity ; GO:0019909
 EC:3.1.3.44 > GO:[acetyl-CoA carboxylase]-phosphatase activity ; GO:0050406
 EC:3.1.3.45 > GO:3-deoxy-manno-octulosonate-8-phosphatase activity ; GO:0019143

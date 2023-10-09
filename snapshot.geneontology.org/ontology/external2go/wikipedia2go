@@ -1,4 +1,4 @@
-! Generated on 2023-09-20T08:04Z from the ontology 'go' with data version: 'releases/2023-09-20'
+! Generated on 2023-10-08T07:34Z from the ontology 'go' with data version: 'releases/2023-10-06'
 !
 Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase [NAD(P)] activity ; GO:0003845
 Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase (NAD+) activity ; GO:0070523
@@ -59,7 +59,6 @@ Wikipedia:Asymmetric_cell_division > GO:asymmetric cell division ; GO:0008356
 Wikipedia:Attenuator_(genetics) > GO:transcriptional attenuation ; GO:0031555
 Wikipedia:Autolysis > GO:autolysis ; GO:0001896
 Wikipedia:Autophagy_(cellular) > GO:autophagy ; GO:0006914
-Wikipedia:Autophagy_(cellular)#Selective_autophagy > GO:autophagy of mitochondrion ; GO:0000422
 Wikipedia:Autophosphorylation > GO:protein autophosphorylation ; GO:0046777
 Wikipedia:Autosome > GO:autosome ; GO:0030849
 Wikipedia:Axolemma > GO:axolemma ; GO:0030673
@@ -424,7 +423,7 @@ Wikipedia:Minor_spliceosome > GO:U12-type spliceosomal complex ; GO:0005689
 Wikipedia:Mitochondrial_matrix > GO:mitochondrial matrix ; GO:0005759
 Wikipedia:Mitochondrion > GO:mitochondrion ; GO:0005739
 Wikipedia:Mitogen-activated_protein_kinase > GO:MAPK cascade ; GO:0000165
-Wikipedia:Mitophagy > GO:autophagy of mitochondrion ; GO:0000422
+Wikipedia:Mitophagy > GO:mitophagy ; GO:0000423
 Wikipedia:Mitosis > GO:mitotic cell cycle ; GO:0000278
 Wikipedia:Mitosis#Endomitosis > GO:endomitotic cell cycle ; GO:0007113
 Wikipedia:Mitosome > GO:mitosome ; GO:0032047

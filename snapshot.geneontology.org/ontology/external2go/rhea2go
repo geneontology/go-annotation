@@ -1,4 +1,4 @@
-! Generated on 2023-09-20T08:04Z from the ontology 'go' with data version: 'releases/2023-09-20'
+! Generated on 2023-10-08T07:34Z from the ontology 'go' with data version: 'releases/2023-10-06'
 !
 RHEA:10000 > GO:pentanamidase activity ; GO:0050168
 RHEA:10004 > GO:thiocyanate isomerase activity ; GO:0050335
@@ -551,7 +551,7 @@ RHEA:12649 > GO:L-rhamnose 1-dehydrogenase activity ; GO:0050034
 RHEA:12653 > GO:malate dehydrogenase (decarboxylating) (NAD+) activity ; GO:0004471
 RHEA:12657 > GO:alpha-methylacyl-CoA racemase activity ; GO:0008111
 RHEA:12661 > GO:carnitine O-palmitoyltransferase activity ; GO:0004095
-RHEA:12669 > GO:[pyruvate dehydrogenase (lipoamide)] phosphatase activity ; GO:0004741
+RHEA:12669 > GO:[pyruvate dehydrogenase (acetyl-transferring)]-phosphatase activity ; GO:0004741
 RHEA:12673 > GO:nitrile hydratase activity ; GO:0018822
 RHEA:12677 > GO:Latia-luciferin monooxygenase (demethylating) activity ; GO:0047098
 RHEA:12681 > GO:creatinine deaminase activity ; GO:0047790
@@ -3988,6 +3988,7 @@ RHEA:44028 > GO:L-altrarate dehydratase activity ; GO:1990594
 RHEA:44140 > GO:pyruvate-flavodoxin oxidoreductase activity ; GO:0043873
 RHEA:44144 > GO:methione N-acyltransferase activity ; GO:0103045
 RHEA:44332 > GO:L-amino-acid alpha-ligase activity ; GO:0034026
+RHEA:44380 > GO:3-demethylubiquinol-n 3-O-methyltransferase activity ; GO:0061542
 RHEA:44412 > GO:3-demethylubiquinol-10 3-O-methyltransferase activity ; GO:0044596
 RHEA:44452 > GO:3,4-dihydroxy-5-polyprenylbenzoic acid O-methyltransferase activity ; GO:0010420
 RHEA:44492 > GO:decaprenyldihydroxybenzoate methyltransferase activity ; GO:0044595
