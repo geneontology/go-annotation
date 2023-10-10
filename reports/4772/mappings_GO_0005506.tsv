@@ -1,0 +1,227 @@
+term	file	line
+GO:0005506	hamap2go	HAMAP:MF_00142 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_00304 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_00334 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_00372 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_00556 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_00642 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_00643 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_00657 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_00660 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_00686 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_00992 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_00993 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_00994 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01010 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01012 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01136 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01137 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01138 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01176 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01177 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01182 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01251 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01272 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01351 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01356 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01379 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01380 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01383 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01429 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01445 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01446 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01447 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01527 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01586 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01611 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01612 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01630 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01648 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01653 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01682 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01694 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_01840 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_02023 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_02035 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_02093 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_03154 > GO:iron ion binding ; GO:0005506
+GO:0005506	hamap2go	HAMAP:MF_03158 > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR000516 Nickel-dependent hydrogenase b-type cytochrome subunit > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR001075 NIF system FeS cluster assembly, NifU, C-terminal > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR001080 3Fe-4S ferredoxin > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR001128 Cytochrome P450 > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR001273 Aromatic amino acid hydroxylase > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR001885 Lipoxygenase, mammalian > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR002057 Isopenicillin N synthase, conserved site > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR002063 Haemerythrin > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR002321 Cytochrome c, class II > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR002323 Cytochrome c, class IE > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR002324 Cytochrome c, class ID > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR002325 Cytochrome f > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR002339 Hemoglobin, pi > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR002340 Hemoglobin, zeta > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR002397 Cytochrome P450, B-class > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR002399 Cytochrome P450, mitochondrial > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR002401 Cytochrome P450, E-class, group I > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR002402 Cytochrome P450, E-class, group II > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR002403 Cytochrome P450, E-class, group IV > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR002742 Desulfoferrodoxin, ferrous iron-binding domain > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR002871 NIF system FeS cluster assembly, NifU, N-terminal > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR002949 Cytochrome P450, E-class, CYP24A, mitochondrial > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR002974 Cytochrome P450, E-class, CYP52, ascomycetes > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR003158 Photosynthetic reaction centre, cytochrome c subunit > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR003815 S-ribosylhomocysteinase (LuxS) > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR004462 Desulfoferrodoxin, N-terminal domain > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR004793 Desulfoferrodoxin > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR006620 Prolyl 4-hydroxylase, alpha subunit > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR006694 Fatty acid hydroxylase > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR007457 Fe(II) trafficking protein YggX > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR007535 Catechol dioxygenase, N-terminal > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR007828 Inositol oxygenase > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR008066 Cytochrome P450, E-class, group I, CYP1 > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR008067 Cytochrome P450, E-class, group I, CYP2A-like > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR008068 Cytochrome P450, E-class, group I, CYP2B-like > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR008069 Cytochrome P450, E-class, group I, CYP2D-like > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR008070 Cytochrome P450, E-class, group I, CYP2E-like > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR008071 Cytochrome P450, E-class, group I, CYP2J-like > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR008072 Cytochrome P450, E-class, CYP3A > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR008168 Cytochrome c, class IC > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR008953 Iron hydrogenase, small subunit HydB-type > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR009152 Cytochrome bc1 complex, cytochrome c subunit > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR009153 Cytochrome cL > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR009154 Membrane-bound tetrahaem cytochrome TorC/YecK > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR009155 Cytochrome b562 > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR010238 NIF system FeS cluster assembly, NifU > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR010300 Cysteine dioxygenase type I > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR010329 3-hydroxyanthranilic acid dioxygenase > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR010980 Cytochrome c/b562 > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR011339 Iron-sulfur cluster assembly scaffold protein IscU > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR011406 Globin, trematode > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR011895 Pyruvate-flavodoxin oxidoreductase > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR012008 Serine/threonine-protein phosphatase with EF-hands > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR012049 Menaquinone:cytochrome c reductase, cytochrome b/c subunit > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR012085 Globin, nematode > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR012127 Cytochrome c prime > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR012206 Ferredoxin-like, FixX > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR012218 Cytochrome c, Bacillus subtilis c550-related > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR012220 Glutamate synthase, eukaryotic > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR012726 Thiazole biosynthesis ThiH > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR012775 Gamma-butyrobetaine hydroxylase-like > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR012776 Trimethyllysine dioxygenase > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR012785 Protocatechuate 3,4-dioxygenase, beta subunit > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR012786 Protocatechuate 3,4-dioxygenase, alpha subunit > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR012801 Catechol 1,2-dioxygenase, proteobacteria > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR012817 Chlorocatechol 1,2-dioxygenase > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR013314 Globin, lamprey/hagfish type > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR013352 Iron hydrogenase, subset > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR014278 Nitrogenase iron-iron, delta subunit > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR014353 Membrane-bound alcohol dehydrogenase, cytochrome c subunit > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR014503 Clavaminate synthase-like > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR014610 Globin, extracellular > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR015038 Glutarate 2-hydroxylase GlaH > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR015879 Aromatic-ring-hydroxylating dioxygenase, alpha subunit, C-terminal domain > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR015881 Aromatic-ring-hydroxylating dioxygenase, 2Fe-2S-binding site > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR015889 Intradiol ring-cleavage dioxygenase, core > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR016003 Photosystem II cytochrome c-550 precursor > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR016208 Aldehyde oxidase/xanthine dehydrogenase > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR016218 Acetyl-CoA decarbonylase/synthase complex, gamma subunit > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR016425 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase, bacterial > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR016758 Glucose-6-phosphate isomerase, archaea/bacteria > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR017178 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase, atypical > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR017203 Signal transduction histidine kinase, NreB > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR017626 Biphenyl-2,3-diol 1,2-dioxygenase > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR017972 Cytochrome P450, conserved site > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR018301 Aromatic amino acid hydroxylase, iron/copper binding site > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR019601 Oxoglutarate/iron-dependent oxygenase, C-terminal degradation domain > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR020469 Cytochrome P450, CYP2 family > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR020875 3-phenylpropionate/cinnamic acid dioxygenase, alpha subunit > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR021764 Enterochelin esterase, N-terminal > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR023655 Cytochrome c6 > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR023789 2,3-dihydroxyphenylpropionate/2,3-dihydroxicinnamic acid 1,2-dioxygenase > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR023956 Acireductone dioxygenase ARD, bacteria > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR023957 Anaerobic nitric oxide reductase flavorubredoxin > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR024167 Cytochrome c4-like > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR024204 Cytochrome P450, cholesterol 7-alpha-monooxygenase-type > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR024922 Rubredoxin > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR024934 Rubredoxin-like domain > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR024935 Rubredoxin domain > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR025114 Beta-carotene isomerase D27-like, C-terminal > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR027286 Prostacyclin synthase > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR030684 Lactotransferrin > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR030686 Cytochrome P450 8B1 > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR030904 Cytochrome P450, CypX > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR036073 Desulfoferrodoxin, ferrous iron-binding domain superfamily > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR036396 Cytochrome P450 superfamily > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR036766 Fe(II) trafficking protein YggX superfamily > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR036951 Aromatic amino acid hydroxylase superfamily > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR037005 S-ribosylhomocysteinase (LuxS) superfamily > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR039983 Cholesterol 24-hydroxylase > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR044225 Ent-kaurene oxidase, chloroplastic > GO:iron ion binding ; GO:0005506
+GO:0005506	interpro2go	InterPro:IPR045236 Reverse rubrerythrin, di-iron-binding domain > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000033437 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000033441 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000034420 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000076232 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000076254 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000076508 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000078156 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000078157 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000078507 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000079165 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000079254 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000079257 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000080092 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000083129 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000083157 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000083182 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000084074 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000084106 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000084150 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000084161 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000085103 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000098261 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000098267 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000098298 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000098303 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000100387 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000100395 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000100727 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000100731 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000100747 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000100850 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000100856 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000100873 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000100881 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000101466 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000101608 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000101644 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000101875 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000101894 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000120713 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000120714 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000120715 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000147812 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000165756 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000171776 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000184690 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000261555 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000336851 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000352928 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000359756 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000361753 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000375967 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000504787 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000573762 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000618754 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000664445 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000668782 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR000925795 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR001080788 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR001184770 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR001348782 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR001528761 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR001528762 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR001528763 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR001528764 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR001528765 > GO:iron ion binding ; GO:0005506
+GO:0005506	unirule2go	UniRule:UR001528766 > GO:iron ion binding ; GO:0005506
