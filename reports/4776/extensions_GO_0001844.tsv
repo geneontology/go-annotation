@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:2181667	Bbc3	PMID:16705087		GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	IMP	MGI:MGI:2681654		PANTHER:PTHR28639	20120903	GO:0001844	NCBITaxon:10090
