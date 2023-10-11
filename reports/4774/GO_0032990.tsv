@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:97822	Nectin2	PMID:10733589		GO:0032990	cell part morphogenesis	IMP	MGI:MGI:2183405		PANTHER:PTHR47387	20110113	CL:0000019	NCBITaxon:10090
