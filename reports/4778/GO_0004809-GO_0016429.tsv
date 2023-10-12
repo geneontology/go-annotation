@@ -1,0 +1,26 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ComplexPortal	SGD:S000217903	CPX-778	PMID:15899842		GO:0004809	tRNA (guanine-N2-)-methyltransferase activity	IDA				20141016		NCBITaxon:559292
+FlyBase	FB:FBgn0032430	Trm1	PMID:33253256|FB:FBrf0247356		GO:0004809	tRNA (guanine-N2-)-methyltransferase activity	IMP			PANTHER:PTHR10631	20201208		NCBITaxon:7227
+PomBase	PomBase:SPBC25D12.05	trm1	PMID:10611485		GO:0004809	tRNA (guanine-N2-)-methyltransferase activity	IMP			PANTHER:PTHR10631	20141029		NCBITaxon:4896
+PomBase	PomBase:SPBC25D12.05	trm1	PMID:28977649		GO:0004809	tRNA (guanine-N2-)-methyltransferase activity	IDA			PANTHER:PTHR10631	20171025		NCBITaxon:4896
+Reactome	UniProtKB:Q9NXH9	TRMT1	PMID:10982862		GO:0004809	tRNA (guanine-N2-)-methyltransferase activity	EXP			PANTHER:PTHR10631	20200515		NCBITaxon:9606
+SGD	SGD:S000005484	TRM11	PMID:15899842		GO:0004809	tRNA (guanine-N2-)-methyltransferase activity	IDA		UniProtKB:Q12463	PANTHER:PTHR13370	20050601		NCBITaxon:559292
+SGD	SGD:S000005484	TRM11	PMID:15899842		GO:0004809	tRNA (guanine-N2-)-methyltransferase activity	IMP		UniProtKB:Q12463	PANTHER:PTHR13370	20050601		NCBITaxon:559292
+SGD	SGD:S000005329	TRM112	PMID:15899842	contributes_to	GO:0004809	tRNA (guanine-N2-)-methyltransferase activity	IMP		UniProtKB:P53738	PANTHER:PTHR12773	20050601		NCBITaxon:559292
+SGD	SGD:S000005329	TRM112	PMID:15899842	contributes_to	GO:0004809	tRNA (guanine-N2-)-methyltransferase activity	IDA		UniProtKB:P53738	PANTHER:PTHR12773	20050601		NCBITaxon:559292
+SGD	SGD:S000002527	TRM1	PMID:9801306		GO:0004809	tRNA (guanine-N2-)-methyltransferase activity	IDA		UniProtKB:P15565	PANTHER:PTHR10631	20020930		NCBITaxon:559292
+SGD	SGD:S000002527	TRM1	PMID:9801306		GO:0004809	tRNA (guanine-N2-)-methyltransferase activity	IMP		UniProtKB:P15565	PANTHER:PTHR10631	20020930		NCBITaxon:559292
+UniProt	UniProtKB:Q9UY84	trmG10	PMID:15210688		GO:0004809	tRNA (guanine-N2-)-methyltransferase activity	IDA				20110221		NCBITaxon:272844
+UniProt	UniProtKB:Q9BV44	THUMPD3	PMID:34669960		GO:0004809	tRNA (guanine-N2-)-methyltransferase activity	IMP			PANTHER:PTHR14911	20220203		NCBITaxon:9606
+CAFA	UniProtKB:Q7L0Y3	TRMT10C	PMID:23042678		GO:0016429	tRNA (adenine-N1-)-methyltransferase activity	IDA			PANTHER:PTHR13563	20160726	UniProtKB:Q99714	NCBITaxon:9606
+ComplexPortal	SGD:S000217951	CPX-1631	PMID:10330157		GO:0016429	tRNA (adenine-N1-)-methyltransferase activity	IDA				20201020		NCBITaxon:559292
+ComplexPortal	ComplexPortal:CPX-6161	hsd17b10-trmt10c-6	PMID:23042678		GO:0016429	tRNA (adenine-N1-)-methyltransferase activity	IDA				20201223		NCBITaxon:9606
+MTBBASE	UniProtKB:P9WFZ1	trmI	PMID:14960715		GO:0016429	tRNA (adenine-N1-)-methyltransferase activity	IDA			PANTHER:PTHR12133	20100317		NCBITaxon:83332
+SGD	SGD:S000005006	GCD10	PMID:10779558	contributes_to	GO:0016429	tRNA (adenine-N1-)-methyltransferase activity	IDA		UniProtKB:P41814	PANTHER:PTHR12945	20050701		NCBITaxon:559292
+SGD	SGD:S000003661	GCD14	PMID:10779558	contributes_to	GO:0016429	tRNA (adenine-N1-)-methyltransferase activity	IDA		UniProtKB:P46959	PANTHER:PTHR12133	20050701		NCBITaxon:559292
+SGD	SGD:S000003661	GCD14	PMID:10779558	contributes_to	GO:0016429	tRNA (adenine-N1-)-methyltransferase activity	IMP		UniProtKB:P46959	PANTHER:PTHR12133	20050701		NCBITaxon:559292
+UniProt	UniProtKB:Q8GBB2	trmI	PMID:12682365		GO:0016429	tRNA (adenine-N1-)-methyltransferase activity	IDA				20040310		NCBITaxon:262724
+UniProt	UniProtKB:P54471	trmK	PMID:18420655		GO:0016429	tRNA (adenine-N1-)-methyltransferase activity	IDA			PANTHER:PTHR38451	20110317		NCBITaxon:224308
+UniProt	UniProtKB:Q4J894	Saci_1677	PMID:20525789		GO:0016429	tRNA (adenine-N1-)-methyltransferase activity	IDA				20110317		NCBITaxon:330779
+UniProt	UniProtKB:Q5JD38	TK0422	PMID:20525789		GO:0016429	tRNA (adenine-N1-)-methyltransferase activity	IDA				20110317		NCBITaxon:69014
+UniProt	UniProtKB:Q9BVS5	TRMT61B	PMID:23097428		GO:0016429	tRNA (adenine-N1-)-methyltransferase activity	IDA			PANTHER:PTHR12133	20121101		NCBITaxon:9606
