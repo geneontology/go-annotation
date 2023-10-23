@@ -1,4 +1,4 @@
-! Generated on 2023-10-08T07:34Z from the ontology 'go' with data version: 'releases/2023-10-06'
+! Generated on 2023-10-20T08:09Z from the ontology 'go' with data version: 'releases/2023-10-20'
 !
 RHEA:10000 > GO:pentanamidase activity ; GO:0050168
 RHEA:10004 > GO:thiocyanate isomerase activity ; GO:0050335
@@ -3753,7 +3753,7 @@ RHEA:34999 > GO:adenine transmembrane transporter activity ; GO:0015207
 RHEA:35015 > GO:riboflavin transmembrane transporter activity ; GO:0032217
 RHEA:35019 > GO:threonine efflux transmembrane transporter activity ; GO:0015565
 RHEA:35027 > GO:ABC-type tungstate transporter activity ; GO:1901238
-RHEA:35031 > GO:serine transmembrane transporter activity ; GO:0022889
+RHEA:35031 > GO:L-serine transmembrane transporter activity ; GO:0015194
 RHEA:35039 > GO:spermidine transmembrane transporter activity ; GO:0015606
 RHEA:35043 > GO:secondary active p-aminobenzoyl-glutamate transmembrane transporter activity ; GO:0015558
 RHEA:35047 > GO:molybdopterin molybdotransferase activity ; GO:0061599
@@ -3831,6 +3831,7 @@ RHEA:36683 > GO:protein-cysteine S-palmitoyltransferase activity ; GO:0019706
 RHEA:36699 > GO:8-demethylnovobiocate synthase activity ; GO:0102527
 RHEA:36779 > GO:GDP-4-dehydro-6-deoxy-D-mannose-4-aminotransferase activity ; GO:0102933
 RHEA:36783 > GO:2-(3-amino-3-carboxypropyl)histidine synthase activity ; GO:0090560
+RHEA:36795 > GO:apyrase activity ; GO:0004050
 RHEA:36799 > GO:nucleoside diphosphate phosphatase activity ; GO:0017110
 RHEA:36899 > GO:tRNA (guanine(37)-N1)-methyltransferase activity ; GO:0052906
 RHEA:37047 > GO:peptide:proton symporter activity ; GO:0015333

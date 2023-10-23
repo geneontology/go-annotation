@@ -1,4 +1,4 @@
-! Generated on 2023-10-08T07:34Z from the ontology 'go' with data version: 'releases/2023-10-06'
+! Generated on 2023-10-20T08:09Z from the ontology 'go' with data version: 'releases/2023-10-20'
 !
 MetaCyc:+-BORNEOL-DEHYDROGENASE-RXN > GO:(+)-borneol dehydrogenase activity ; GO:0047500
 MetaCyc:+-NEOMENTHOL-DEHYDROGENASE-RXN > GO:(+)-neomenthol dehydrogenase activity ; GO:0047501
@@ -1734,6 +1734,7 @@ MetaCyc:ANTHRANSYN-CPLX > GO:anthranilate synthase complex ; GO:0005950
 MetaCyc:ANTHRANSYN-RXN > GO:anthranilate synthase activity ; GO:0004049
 MetaCyc:APIGENIN-4-O-METHYLTRANSFERASE-RXN > GO:apigenin 4'-O-methyltransferase activity ; GO:0030754
 MetaCyc:APIOSE-1-REDUCTASE-RXN > GO:apiose 1-reductase activity ; GO:0047674
+MetaCyc:APYRASE-RXN > GO:apyrase activity ; GO:0004050
 MetaCyc:ARABCAT-PWY > GO:L-arabinose catabolic process to xylulose 5-phosphate ; GO:0019569
 MetaCyc:ARABINONATE-DEHYDRATASE-RXN > GO:arabinonate dehydratase activity ; GO:0047675
 MetaCyc:ARABISOM-RXN > GO:L-arabinose isomerase activity ; GO:0008733

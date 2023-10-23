@@ -1,4 +1,4 @@
-! Generated on 2023-10-08T07:34Z from the ontology 'go' with data version: 'releases/2023-10-06'
+! Generated on 2023-10-20T08:09Z from the ontology 'go' with data version: 'releases/2023-10-20'
 !
 EC:1.-.-.- > GO:oxidoreductase activity ; GO:0016491
 EC:1.1.-.- > GO:oxidoreductase activity, acting on CH-OH group of donors ; GO:0016614
@@ -4151,6 +4151,7 @@ EC:3.6.1.42 > GO:GDP phosphatase activity ; GO:0004382
 EC:3.6.1.43 > GO:dolichyldiphosphatase activity ; GO:0047874
 EC:3.6.1.44 > GO:oligosaccharide-diphosphodolichol diphosphatase activity ; GO:0047430
 EC:3.6.1.45 > GO:UDP-sugar diphosphatase activity ; GO:0008768
+EC:3.6.1.5 > GO:apyrase activity ; GO:0004050
 EC:3.6.1.52 > GO:diphosphoinositol-polyphosphate diphosphatase activity ; GO:0008486
 EC:3.6.1.55 > GO:8-oxo-7,8-dihydrodeoxyguanosine triphosphate pyrophosphatase activity ; GO:0035539
 EC:3.6.1.56 > GO:dATP diphosphatase activity ; GO:0008828
