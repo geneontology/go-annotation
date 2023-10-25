@@ -6,8 +6,7 @@ This document specifies the syntax of Gene Product Annotation Data (GPAD) and Ge
 
 This is a working draft, intended for comment by the community. Comments should be added to: [#4684](https://github.com/geneontology/go-annotation/issues/4684)
 
-## Summary of changes relative to 1.1
-
+## Summary of changes relative to [GPAD/GPI 1.1](https://geneontology.org/docs/gene-product-association-data-gpad-format/)
 - GPAD and GPI: columns 1 and 2 are now combined in a single column containing an id in CURIE syntax, e.g. UniProtKB:P56704.
 - GPAD: negation is captured in a separate column, column 2, using the text string 'NOT'.
 - GPAD: gene product-to-term relations captured in column 3 use a Relations Ontology (RO) identifier instead of a text string.
