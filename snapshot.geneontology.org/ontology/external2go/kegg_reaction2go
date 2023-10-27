@@ -1,4 +1,4 @@
-! Generated on 2023-10-20T08:09Z from the ontology 'go' with data version: 'releases/2023-10-20'
+! Generated on 2023-10-26T08:08Z from the ontology 'go' with data version: 'releases/2023-10-26'
 !
 KEGG_REACTION:R00004 > GO:inorganic diphosphate phosphatase activity ; GO:0004427
 KEGG_REACTION:R00005 > GO:allophanate hydrolase activity ; GO:0004039

@@ -1,0 +1,27 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+TAIR	AGI_LocusCode:AT3G25810	AT3G25810	PMID:12566586|TAIR:Publication:501683444		GO:0050550	pinene synthase activity	IDA		TAIR:locus:2086004		20080829		NCBITaxon:3702
+UniProt	UniProtKB:Q84KL6	PT1	PMID:12623076		GO:0050550	pinene synthase activity	IDA				20120711		NCBITaxon:3352
+UniProt	UniProtKB:Q84KL3	PT30	PMID:12623076		GO:0050550	pinene synthase activity	IDA				20120711		NCBITaxon:3352
+UniProt	UniProtKB:A6XH05	CinS1	PMID:17557809		GO:0050550	pinene synthase activity	IDA				20211125		NCBITaxon:268906
+UniProt	UniProtKB:F2XFA8	TPS-Pin	PMID:21385377		GO:0050550	pinene synthase activity	IDA				20210830		NCBITaxon:3332
+UniProt	UniProtKB:Q6XDB5	Q6XDB5	PMID:21385377		GO:0050550	pinene synthase activity	IDA				20210830		NCBITaxon:3332
+UniProt	UniProtKB:F2XF95	TPS-Pin-1	PMID:21385377		GO:0050550	pinene synthase activity	IDA				20210830		NCBITaxon:3330
+UniProt	UniProtKB:F2XF96	TPS-Pin-2	PMID:21385377		GO:0050550	pinene synthase activity	IDA				20210830		NCBITaxon:3330
+UniProt	UniProtKB:H2ELN1	TER	PMID:21527560		GO:0050550	pinene synthase activity	IDA				20211125		NCBITaxon:118700
+UniProt	UniProtKB:A0A6P6W6H5	TPS1	PMID:23398891		GO:0050550	pinene synthase activity	IDA				20211203		NCBITaxon:13443
+UniProt	UniProtKB:R9QMW5	TPS-(-)Bpin2	PMID:23679205		GO:0050550	pinene synthase activity	IDA				20211119		NCBITaxon:3353
+UniProt	UniProtKB:R9QMY8	TPS-(-)camp/(+)Apin1	PMID:23679205		GO:0050550	pinene synthase activity	IDA				20211119		NCBITaxon:3339
+UniProt	UniProtKB:R9QMQ9	TPS-(-)Bpin1	PMID:23679205		GO:0050550	pinene synthase activity	IDA				20211119		NCBITaxon:3339
+UniProt	UniProtKB:R9QMY9	TPS-(-)Apin1	PMID:23679205		GO:0050550	pinene synthase activity	IDA				20211119		NCBITaxon:3353
+UniProt	UniProtKB:R9QMW2	TPS-(+)Apin1	PMID:23679205		GO:0050550	pinene synthase activity	IDA				20211119		NCBITaxon:3339
+UniProt	UniProtKB:R9QMW1	TPS-(-)A/Bpin1	PMID:23679205		GO:0050550	pinene synthase activity	IDA				20211119		NCBITaxon:3353
+UniProt	UniProtKB:R9QMR3	TPS-(-)Apin1	PMID:23679205		GO:0050550	pinene synthase activity	IDA				20211119		NCBITaxon:3339
+UniProt	UniProtKB:R9QMR1	TPS-(+)Apin1	PMID:23679205		GO:0050550	pinene synthase activity	IDA				20211119		NCBITaxon:3353
+UniProt	UniProtKB:R9QMR0	TPS-(-)Bpin1	PMID:23679205		GO:0050550	pinene synthase activity	IDA				20211119		NCBITaxon:3353
+UniProt	UniProtKB:T1RR72	FENS	PMID:24943828		GO:0050550	pinene synthase activity	IDA				20211020		NCBITaxon:1343918
+UniProt	UniProtKB:T1RR71	PINS	PMID:24943828		GO:0050550	pinene synthase activity	IDA				20211020		NCBITaxon:1343917
+UniProt	UniProtKB:T1RRR9	FENS	PMID:24943828		GO:0050550	pinene synthase activity	IDA				20211020		NCBITaxon:1343917
+UniProt	UniProtKB:T1RRJ4	FENS	PMID:24943828		GO:0050550	pinene synthase activity	IDA				20211020		NCBITaxon:39333
+UniProt	UniProtKB:T1RRI8	PINS	PMID:24943828		GO:0050550	pinene synthase activity	IDA				20211020		NCBITaxon:1343918
+UniProt	UniProtKB:T1RRL8	PINS	PMID:24943828		GO:0050550	pinene synthase activity	IDA				20211020		NCBITaxon:39333
+UniProt	UniProtKB:W6HUT3	TPS7	PMID:25056927		GO:0050550	pinene synthase activity	IDA				20211019		NCBITaxon:71610

@@ -1,0 +1,4 @@
+term	file	line
+GO:0050550	ec2go	EC:4.2.3.14 > GO:pinene synthase activity ; GO:0050550
+GO:0050550	metacyc2go	MetaCyc:RXN-5106 > GO:pinene synthase activity ; GO:0050550
+GO:0050550	metacyc2go	MetaCyc:RXN-5107 > GO:pinene synthase activity ; GO:0050550
