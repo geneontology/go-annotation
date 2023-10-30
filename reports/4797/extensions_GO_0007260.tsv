@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:96556	Il4	PMID:10485657		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR47401	20170417	GO:0007260	NCBITaxon:10090
+MGI	MGI:MGI:96548	Il2	PMID:10485657		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20170417	GO:0007260	NCBITaxon:10090
+MGI	MGI:MGI:102709	Cav1	PMID:12388746		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IMP	MGI:MGI:2180364		PANTHER:PTHR10844	20170417	GO:0007260	NCBITaxon:10090
+MGI	MGI:MGI:88439	Cntf	PMID:15207851		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR15196	20170417	GO:0007260	NCBITaxon:10090
+MGI	MGI:MGI:105112	Hpx	PMID:18641331		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP	MGI:MGI:2447193		PANTHER:PTHR10201	20170417	GO:0007260	NCBITaxon:10090

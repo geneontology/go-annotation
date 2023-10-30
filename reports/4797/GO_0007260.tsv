@@ -1,0 +1,155 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	UniProtKB:P05112	IL4	PMID:12574355		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IGI	UniProtKB:P08575		PANTHER:PTHR47401	20180724	UniProtKB:P42226	NCBITaxon:9606
+ARUK-UCL	RNAcentral:URS000050B527_9606	URS000050B527_9606	PMID:28433754		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IDA				20190228	GO:0071333|CL:0002585|UniProtKB:P40763	NCBITaxon:9606
+ARUK-UCL	UniProtKB:P05231	IL6	PMID:28433754		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR10511	20190228	GO:0071333|CL:0002585|UniProtKB:P40763	NCBITaxon:9606
+ARUK-UCL	RGD:3876	Tnf	PMID:29702085|RGD:13800534		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR11471	20180927	CL:2000043|UniProtKB:P52631|GO:0032635	NCBITaxon:10116
+ARUK-UCL	UniProtKB:P05231	IL6	PMID:31886314		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR10511	20211119	UniProtKB:P40763	NCBITaxon:9606
+AgBase	UniProtKB:Q5QSL2	ifng	PMID:20353564		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160317		NCBITaxon:8022
+AgBase	UniProtKB:B6UQB7	IFNgamma2	PMID:20353564		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160317		NCBITaxon:8022
+AgBase	UniProtKB:E3P8T5	ifng2	PMID:20353564		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160317		NCBITaxon:8022
+AgBase	UniProtKB:Q6XQG7	IFNA1	PMID:20353564		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160317		NCBITaxon:8030
+AgBase	UniProtKB:E3P8T4	ifng2	PMID:20353564		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160317		NCBITaxon:8022
+AgBase	UniProtKB:B6UQB6	IFNgamma1	PMID:20353564		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160317		NCBITaxon:8022
+AgBase	UniProtKB:E3Q1F7	il6	PMID:21704380		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20150522	CL:0000235	NCBITaxon:8022
+AgBase	UniProtKB:M5EF24	IL6	PMID:21704380		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20150522	CL:0000235	NCBITaxon:8022
+AgBase	UniProtKB:Q0GGL7	il6	PMID:21704380		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20150522	CL:0000235	NCBITaxon:8022
+AgBase	UniProtKB:P48096	prl	PMID:23548829		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20150522	CL:0000235|UBERON:0007132	NCBITaxon:8030
+AgBase	UniProtKB:V9M5F1	LepRtr3	PMID:24797628		GO:0007260	tyrosine phosphorylation of STAT protein	IDA				20160223	CL:0000182	NCBITaxon:8022
+AgBase	UniProtKB:R9QT79	LepR	PMID:24797628		GO:0007260	tyrosine phosphorylation of STAT protein	IDA				20160223	CL:0000182	NCBITaxon:8022
+AgBase	UniProtKB:A0A023GUT0	LPN	PMID:24823393		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP				20150209		NCBITaxon:59729
+AgBase	UniProtKB:Q5QRA1	ifng	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:C1IRY5	C1IRY5	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:C1IRY3	C1IRY3	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:C1IRY2	C1IRY2	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:C1IRY1	C1IRY1	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:C1IRY0	C1IRY0	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:C1IRX8	C1IRX8	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:B7SVK1	LOC106600965	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:B7SVJ9	B7SVJ9	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:B7SVJ5	B7SVJ5	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:Q6XQG7	IFNA1	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:K4LAX8	LOC101448043	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:D2D0D7	D2D0D7	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+AgBase	UniProtKB:C1IRX7	C1IRX7	PMID:25379383		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160315		NCBITaxon:8030
+BHF-UCL	UniProtKB:Q9UBD9	CLCF1	PMID:10966616		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR21353	20110330		NCBITaxon:9606
+BHF-UCL	UniProtKB:O75462	CRLF1	PMID:10966616		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR23036	20110330		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9UBD9	CLCF1	PMID:11285233		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR21353	20110330		NCBITaxon:9606
+BHF-UCL	UniProtKB:P29460	IL12B	PMID:12023369		GO:0042509	regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR23036	20110110		NCBITaxon:9606
+BHF-UCL	UniProtKB:P29460	IL12B	PMID:12023369		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR23036	20110110		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9NPF7	IL23A	PMID:12023369		GO:0042509	regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR15947	20110110		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9NPF7	IL23A	PMID:12023369		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR15947	20110110		NCBITaxon:9606
+BHF-UCL	MGI:MGI:1930088	Clcf1	PMID:12090754|MGI:MGI:5009184		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR21353	20110330		NCBITaxon:10090
+BHF-UCL	UniProtKB:P01241	GH1	PMID:12552091		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR11417	20081209		NCBITaxon:9606
+BHF-UCL	UniProtKB:P05231	IL6	PMID:12643274		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR10511	20081107		NCBITaxon:9606
+BHF-UCL	UniProtKB:P26441	CNTF	PMID:12643274		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR15196	20081107		NCBITaxon:9606
+BHF-UCL	UniProtKB:P08887	IL6R	PMID:12643274		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR23036	20081107		NCBITaxon:9606
+BHF-UCL	UniProtKB:P40189	IL6ST	PMID:14764690		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR23036	20081107		NCBITaxon:9606
+BHF-UCL	UniProtKB:P01579	IFNG	PMID:15604419		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR11419	20110323		NCBITaxon:9606
+BHF-UCL	RNAcentral:URS000006FDD4_9606	URS000006FDD4_9606	PMID:18728182		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP				20160223		NCBITaxon:9606
+BHF-UCL	RNAcentral:URS000013D17D_9606	URS000013D17D_9606	PMID:18728182		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP				20160224		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9NPF7	IL23A	PMID:19088061		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR15947	20110111		NCBITaxon:9606
+BHF-UCL	UniProtKB:P60568	IL2	PMID:19088061		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20110111		NCBITaxon:9606
+BHF-UCL	UniProtKB:P05231	IL6	PMID:19390056		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR10511	20160526	GO:0061614|CL:1001568	NCBITaxon:9606
+BHF-UCL	UniProtKB:P15692	VEGFA	PMID:19390056	not	GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR12025	20160122		NCBITaxon:9606
+BHF-UCL	UniProtKB:P15018	LIF	PMID:20624457		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR10633	20110121		NCBITaxon:9606
+BHF-UCL	RGD:2866	Ifng	PMID:20624457|RGD:8554478		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR11419	20110121		NCBITaxon:10116
+BHF-UCL	MGI:MGI:104663	Lep	PMID:21234744|MGI:MGI:4889014		GO:0007260	tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR11724	20110707		NCBITaxon:10090
+BHF-UCL	UniProtKB:P19438	TNFRSF1A	PMID:21410936		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR46861	20111202		NCBITaxon:9606
+BHF-UCL	UniProtKB:P25942	CD40	PMID:21410936		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR46875	20111202		NCBITaxon:9606
+BHF-UCL	RNAcentral:URS0000170CF4_9606	URS0000170CF4_9606	PMID:25019494		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20160509		NCBITaxon:9606
+BHF-UCL	UniProtKB:O15524	SOCS1	PMID:25019494		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR10155	20160509		NCBITaxon:9606
+BHF-UCL	UniProtKB:O14543	SOCS3	PMID:25019494		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR10155	20160509		NCBITaxon:9606
+BHF-UCL	UniProtKB:P19941	GHR	PMID:8923468		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20081205		NCBITaxon:9986
+BHF-UCL	UniProtKB:P01241	GH1	PMID:8923468		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR11417	20081205		NCBITaxon:9606
+BHF-UCL	MGI:MGI:96629	Jak2	PMID:8923468|MGI:MGI:3828422		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR45807	20081205		NCBITaxon:10090
+BHF-UCL	UniProtKB:P13501	CCL5	PMID:9417081		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR12015	20110224		NCBITaxon:9606
+BHF-UCL	UniProtKB:P08700	IL3	PMID:9722506		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20080530		NCBITaxon:9606
+BHF-UCL	UniProtKB:P01588	EPO	PMID:9722506		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR10370	20080530		NCBITaxon:9606
+BHF-UCL	UniProtKB:P05019	IGF1	PMID:9722506		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR46845	20080530		NCBITaxon:9606
+BHF-UCL	UniProtKB:P04141	CSF2	PMID:9722506		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR10059	20080530		NCBITaxon:9606
+CACAO	UniProtKB:Q14116	IL18	PMID:10903731		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20121019		NCBITaxon:9606
+CACAO	UniProtKB:Q9HBE4	IL21	PMID:12244150		GO:0007260	tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR14356	20121112		NCBITaxon:9606
+CACAO	UniProtKB:P40933	IL15	PMID:12244150		GO:0007260	tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR14356	20121113		NCBITaxon:9606
+CACAO	UniProtKB:P01555	ctxA	PMID:21470923		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20130331		NCBITaxon:243277
+CACAO	UniProtKB:P01556	ctxB	PMID:21470923		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20130304		NCBITaxon:243277
+CACAO	UniProtKB:Q16619	CTF1	PMID:21912637		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR21353	20130410		NCBITaxon:9606
+CACAO	UniProtKB:P26441	CNTF	PMID:21912637		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR15196	20130410		NCBITaxon:9606
+CACAO	UniProtKB:P13725	OSM	PMID:21912637		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR14261	20130410		NCBITaxon:9606
+CACAO	MGI:MGI:95602	Fyn	PMID:23438599|MGI:MGI:5528626		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR24418	20130409		NCBITaxon:10090
+HGNC-UCL	UniProtKB:P35240	NF2	PMID:12444102		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR23281	20070620		NCBITaxon:9606
+MGI	MGI:MGI:96556	Il4	PMID:10485657		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR47401	20170417	GO:0007260	NCBITaxon:10090
+MGI	MGI:MGI:96556	Il4	PMID:10485657		GO:0007260	tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR47401	20170417	CL:0000084	NCBITaxon:10090
+MGI	MGI:MGI:96548	Il2	PMID:10485657		GO:0007260	tyrosine phosphorylation of STAT protein	IDA				20170417	CL:0000084	NCBITaxon:10090
+MGI	MGI:MGI:96548	Il2	PMID:10485657		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20170417	GO:0007260	NCBITaxon:10090
+MGI	MGI:MGI:97537	Pecam1	PMID:11254359		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR11481	20170417		NCBITaxon:10090
+MGI	MGI:MGI:96756	Lck	PMID:11254359		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR24418	20170417		NCBITaxon:10090
+MGI	MGI:MGI:96629	Jak2	PMID:11821424		GO:0007260	tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR45807	20020613		NCBITaxon:10090
+MGI	MGI:MGI:102709	Cav1	PMID:12388746		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IMP	MGI:MGI:2180364		PANTHER:PTHR10844	20170417	GO:0007260	NCBITaxon:10090
+MGI	MGI:MGI:102709	Cav1	PMID:12388746		GO:0007260	tyrosine phosphorylation of STAT protein	IMP	MGI:MGI:2180364		PANTHER:PTHR10844	20170417	EMAPA:17759	NCBITaxon:10090
+MGI	MGI:MGI:102709	Cav1	PMID:12388746		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR10844	20170417		NCBITaxon:10090
+MGI	MGI:MGI:96629	Jak2	PMID:12388746		GO:0007260	tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR45807	20080325		NCBITaxon:10090
+MGI	MGI:MGI:1355307	Il22	PMID:12700595		GO:0042509	regulation of tyrosine phosphorylation of STAT protein	IDA				20170417		NCBITaxon:10090
+MGI	MGI:MGI:2665114	Il22ra2	PMID:12700595		GO:0042509	regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR20859	20170417		NCBITaxon:10090
+MGI	MGI:MGI:96787	Lif	PMID:15012602		GO:0007260	tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR10633	20170417		NCBITaxon:10090
+MGI	MGI:MGI:104749	Osm	PMID:15012602		GO:0007260	tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR14261	20170417		NCBITaxon:10090
+MGI	MGI:MGI:88439	Cntf	PMID:15207851		GO:0007260	tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR15196	20170417	EMAPA:17168	NCBITaxon:10090
+MGI	MGI:MGI:88439	Cntf	PMID:15207851		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR15196	20170417	GO:0007260	NCBITaxon:10090
+MGI	MGI:MGI:101791	Isl1	PMID:15659653		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR24204	20170417		NCBITaxon:10090
+MGI	UniProtKB:P01579	IFNG	PMID:16280321		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR11419	20170417		NCBITaxon:9606
+MGI	UniProtKB:Q9HBE4	IL21	PMID:17673207		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR14356	20170417		NCBITaxon:9606
+MGI	MGI:MGI:105112	Hpx	PMID:18641331		GO:0007260	tyrosine phosphorylation of STAT protein	IMP	MGI:MGI:2447193		PANTHER:PTHR10201	20170417	CL:0000624	NCBITaxon:10090
+MGI	MGI:MGI:105112	Hpx	PMID:18641331		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP	MGI:MGI:2447193		PANTHER:PTHR10201	20170417	GO:0007260	NCBITaxon:10090
+MGI	MGI:MGI:1354910	Socs1	PMID:21606371		GO:0042509	regulation of tyrosine phosphorylation of STAT protein	IMP	MGI:MGI:2656917		PANTHER:PTHR10155	20170417		NCBITaxon:10090
+MGI	MGI:MGI:2387356	Ggnbp2	PMID:26764350		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IMP	MGI:MGI:4072637		PANTHER:PTHR13601	20170417	PR:000049778|PR:000037009	NCBITaxon:10090
+MGI	MGI:MGI:96628	Jak1	PMID:27671227		GO:0007260	tyrosine phosphorylation of STAT protein	IMP	MGI:MGI:2176165|MGI:MGI:5688302		PANTHER:PTHR45807	20180517	PR:000049979|PR:000049978	NCBITaxon:10090
+MGI	MGI:MGI:96628	Jak1	PMID:27671227		GO:0007260	tyrosine phosphorylation of STAT protein	IMP	MGI:MGI:2176165|MGI:MGI:5688302		PANTHER:PTHR45807	20180517	PR:000049977|PR:000049976	NCBITaxon:10090
+MGI	MGI:MGI:96628	Jak1	PMID:27671227		GO:0007260	tyrosine phosphorylation of STAT protein	IMP	MGI:MGI:2176165|MGI:MGI:5688302		PANTHER:PTHR45807	20180517	PR:000049778|PR:000037009	NCBITaxon:10090
+MGI	MGI:MGI:1924222	Snhg20	PMID:31408278		GO:0007260	tyrosine phosphorylation of STAT protein	IDA				20211111	CL:0000863|MGI:MGI:103034|MGI:MGI:103063	NCBITaxon:10090
+MGI	MGI:MGI:1354910	Socs1	PMID:9202127		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR10155	20041102		NCBITaxon:10090
+RGD	RGD:2370	Cntf	PMID:14725620|RGD:1626115		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR15196	20070712		NCBITaxon:10116
+RGD	RGD:2810	Hnf4a	PMID:16584384|RGD:1625011		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR24083	20070516		NCBITaxon:10116
+RGD	RGD:628641	Ptger4	PMID:17067562|RGD:10043389		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR11866	20150624		NCBITaxon:10116
+RGD	RGD:1308069	Osbp	PMID:18230613|RGD:2291921		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR10972	20210129		NCBITaxon:10116
+RGD	RGD:621484	Il24	PMID:19258414|RGD:5147427		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20110804		NCBITaxon:10116
+RGD	RGD:3000	Lep	PMID:19726711|RGD:5128629		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR11724	20110314		NCBITaxon:10116
+RGD	RGD:2920	Irf1	PMID:20980260|RGD:5128774		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR11949	20110316		NCBITaxon:10116
+RGD	RGD:619976	Hdac2	PMID:21465537|RGD:9590234		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR48252	20141120		NCBITaxon:10116
+RGD	RGD:1309799	Hdac1	PMID:21465537|RGD:9590234		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR48252	20141120		NCBITaxon:10116
+RGD	RGD:68949	Il13	PMID:21804025|RGD:5684373		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20111216		NCBITaxon:10116
+RGD	RGD:620913	Hsf1	PMID:22426029|RGD:10402789		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR10015	20151029		NCBITaxon:10116
+RGD	RGD:1593621	Suz12	PMID:23192652|RGD:9586745		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IMP				20141006		NCBITaxon:10116
+RGD	RGD:2887	Il15	PMID:8942753|RGD:5024920		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR14356	20110302		NCBITaxon:10116
+UniProt	MGI:MGI:104771	Erbb4	PMID:10508857|MGI:MGI:5297795		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR24416	20111109		NCBITaxon:10090
+UniProt	MGI:MGI:104568	Hcls1	PMID:10713104|MGI:MGI:3694161		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR10829	20060331		NCBITaxon:10090
+UniProt	MGI:MGI:96892	Lyn	PMID:10713104|MGI:MGI:3694161		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR24418	20060331		NCBITaxon:10090
+UniProt	UniProtKB:Q969D9	TSLP	PMID:11480573		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR38003	20171110		NCBITaxon:9606
+UniProt	UniProtKB:Q8NI17	IL31RA	PMID:11877449		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IEP			PANTHER:PTHR23036	20031216		NCBITaxon:9606
+UniProt	UniProtKB:P17706	PTPN2	PMID:12138178		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR46047	20130612		NCBITaxon:9606
+UniProt	UniProtKB:P29459	IL12A	PMID:12372421		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA				20061117		NCBITaxon:9606
+UniProt	MGI:MGI:104876	Hes5	PMID:15156153|MGI:MGI:5284803		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR10985	20110803		NCBITaxon:10090
+UniProt	MGI:MGI:104853	Hes1	PMID:15156153|MGI:MGI:5284803		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR10985	20110803		NCBITaxon:10090
+UniProt	MGI:MGI:96629	Jak2	PMID:15156153|MGI:MGI:5284803		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR45807	20110804		NCBITaxon:10090
+UniProt	UniProtKB:Q8IU54	IFNL1	PMID:15166220		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR31943	20051206		NCBITaxon:9606
+UniProt	UniProtKB:Q8WXW3	PIBF1	PMID:16393965		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR18950	20150827		NCBITaxon:9606
+UniProt	UniProtKB:Q8WXW3	PIBF1	PMID:16393965		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR18950	20150827		NCBITaxon:9606
+UniProt	UniProtKB:Q13882	PTK6	PMID:16568091		GO:0007260	tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR24418	20111006		NCBITaxon:9606
+UniProt	UniProtKB:Q15303	ERBB4	PMID:16837552		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR24416	20111109		NCBITaxon:9606
+UniProt	MGI:MGI:104771	Erbb4	PMID:16837552|MGI:MGI:3689173		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR24416	20111109		NCBITaxon:10090
+UniProt	MGI:MGI:97806	Ptpn2	PMID:17210636|MGI:MGI:5493214		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR46047	20130612		NCBITaxon:10090
+UniProt	UniProtKB:P22607	FGFR3	PMID:17561467		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR24416	20110914		NCBITaxon:9606
+UniProt	UniProtKB:Q13882	PTK6	PMID:17997837		GO:0007260	tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR24418	20111006		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y2Y0	ARL2BP	PMID:18234692		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR15487	20101222		NCBITaxon:9606
+UniProt	UniProtKB:P16591	FER	PMID:19147545		GO:0007260	tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR24418	20120412		NCBITaxon:9606
+UniProt	UniProtKB:P10721	KIT	PMID:21135090		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR24416	20110909		NCBITaxon:9606
+UniProt	UniProtKB:K9M1U5	IFNL4	PMID:23291588		GO:0007260	tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR31943	20130305		NCBITaxon:9606
+UniProt	UniProtKB:K9M1U5	IFNL4	PMID:23291588		GO:0007260	tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR31943	20130305		NCBITaxon:9606
+UniProt	UniProtKB:Q9UIV1	CNOT7	PMID:23386060		GO:0042509	regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR10797	20170510		NCBITaxon:9606
+UniProt	UniProtKB:Q9UNG2	TNFSF18	PMID:23892569		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP	UniProtKB:Q9Y5U5		PANTHER:PTHR15267	20160104	GO:0071356|CL:0002618	NCBITaxon:9606
+UniProt	UniProtKB:Q9Y5U5	TNFRSF18	PMID:23892569		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP	UniProtKB:Q9UNG2		PANTHER:PTHR47388	20160104	GO:0071356|CL:0002618	NCBITaxon:9606
+UniProt	UniProtKB:Q9Y2H2	INPP5F	PMID:25476455		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IDA			PANTHER:PTHR45662	20160209		NCBITaxon:9606
+UniProt	UniProtKB:Q8IXQ6	PARP9	PMID:27796300		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR14453	20170825	GO:0071346|UniProtKB:P42224	NCBITaxon:9606
+UniProt	UniProtKB:Q460N5	PARP14	PMID:27796300		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR14453	20170825	GO:0071353|UniProtKB:P42226	NCBITaxon:9606
+UniProt	UniProtKB:Q460N5	PARP14	PMID:27796300		GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR14453	20170825	GO:0071346|UniProtKB:P42224	NCBITaxon:9606
+UniProt	MGI:MGI:1339758	Csf1r	PMID:8007983|MGI:MGI:5294320		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP			PANTHER:PTHR24416	20111013		NCBITaxon:10090
+ZFIN	ZFIN:ZDB-GENE-101109-1	tnfsf18	PMID:19598108		GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	IMP	ZFIN:ZDB-MRPHLNO-101109-3		PANTHER:PTHR15267	20110119		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-040801-205	socs1a	PMID:25759395		GO:0042509	regulation of tyrosine phosphorylation of STAT protein	IMP	ZFIN:ZDB-GENO-160519-3		PANTHER:PTHR10155	20160531		NCBITaxon:7955
