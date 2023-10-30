@@ -1,0 +1,18 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:108078	Sfrp2	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:2135272		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:108078	Sfrp2	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:892014		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:108078	Sfrp2	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:1860298		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:892014	Sfrp1	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:2135272		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:892014	Sfrp1	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:108078		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:892014	Sfrp1	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:1860298		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:1860298	Sfrp5	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:892014		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:1860298	Sfrp5	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:2135272		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:1860298	Sfrp5	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:108078		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:1298218	Lrp6	PMID:19056682		GO:2000164	negative regulation of planar cell polarity pathway involved in outflow tract morphogenesis	IGI	MGI:MGI:98958		PANTHER:PTHR46513	20101008	GO:0061347	NCBITaxon:10090
+MGI	MGI:MGI:1298218	Lrp6	PMID:19056682		GO:2000149	negative regulation of planar cell polarity pathway involved in ventricular septum morphogenesis	IGI	MGI:MGI:98958		PANTHER:PTHR46513	20101008	GO:0061348	NCBITaxon:10090
+MGI	MGI:MGI:1298218	Lrp6	PMID:19056682		GO:2000162	negative regulation of planar cell polarity pathway involved in cardiac right atrium morphogenesis	IGI	MGI:MGI:98958		PANTHER:PTHR46513	20101008	GO:0061349	NCBITaxon:10090
+MGI	MGI:MGI:1298218	Lrp6	PMID:19056682		GO:2000151	negative regulation of planar cell polarity pathway involved in cardiac muscle tissue morphogenesis	IGI	MGI:MGI:98958		PANTHER:PTHR46513	20101008	GO:0061350	NCBITaxon:10090
+MGI	MGI:MGI:1298218	Lrp6	PMID:19056682		GO:2000166	negative regulation of planar cell polarity pathway involved in pericardium morphogenesis	IGI	MGI:MGI:98958		PANTHER:PTHR46513	20101008	GO:0061354	NCBITaxon:10090
+MGI	MGI:MGI:1298218	Lrp6	PMID:19056682		GO:2000168	negative regulation of planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:98958		PANTHER:PTHR46513	20101008	GO:0090179	NCBITaxon:10090
+ParkinsonsUK-UCL	UniProtKB:P62139	PPP1CA	PMID:17318175		GO:0004721	phosphoprotein phosphatase activity	IDA				20160121	UniProtKB:G1U4F6|GO:1904886|GO:0032091	NCBITaxon:9986
+ParkinsonsUK-UCL	UniProtKB:P62139	PPP1CA	PMID:17318175		GO:0032091	negative regulation of protein binding	IDA				20160121	UniProtKB:G1U4F6|UniProtKB:G1T8E2|GO:1904886	NCBITaxon:9986
