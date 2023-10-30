@@ -1,0 +1,38 @@
+term	file	line
+GO:0016055	uniprotkb_kw2go	UniProtKB-KW:KW-0879 Wnt signaling pathway > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	unirule2go	UniRule:UR000484796 > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	unirule2go	UniRule:UR000667756 > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	unirule2go	UniRule:UR000954756 > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	unirule2go	UniRule:UR001376795 > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	unirule2go	UniRule:UR001453771 > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR003064 Norrie disease protein > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR005817 Wnt > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR008339 Dishevelled family > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR008341 Dishevelled-2 > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR008342 Dishevelled-3 > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR009139 Wnt-1 protein > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR009140 Wnt-2 protein > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR009141 Wnt-3 protein > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR009142 Wnt-4 protein > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR009143 Wnt-6 protein > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR009223 Adenomatous polyposis coli protein repeat > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR009224 SAMP > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR009232 EB-1 binding > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR009234 Adenomatous polyposis coli protein basic domain > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR009240 Adenomatous polyposis coli protein, 15 residue repeat > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR009551 Protein wntless > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR013300 Wnt-7 protein > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR013301 Wnt-8 protein > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR013302 Wnt-10 protein > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR013303 Wnt-9a protein > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR013304 Wnt-16 protein > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR015506 Dishevelled-related protein > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR017076 Kremen > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR024940 Transcription factor TCF/LEF > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR026551 Frizzled-4, 7TM > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR026694 Protein CUSTOS > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR029094 Draxin > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR033509 E3 ubiquitin-protein ligase RNF146 > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	interpro2go	InterPro:IPR034312 Protein Wnt-8A/8C > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	rfam2go	Rfam:RF00666 mir-32 > GO:Wnt signaling pathway ; GO:0016055
+GO:0016055	rfam2go	Rfam:RF00680 mir-224 > GO:Wnt signaling pathway ; GO:0016055
