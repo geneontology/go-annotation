@@ -1,4 +1,4 @@
-! Generated on 2023-10-26T08:08Z from the ontology 'go' with data version: 'releases/2023-10-26'
+! Generated on 2023-10-30T07:51Z from the ontology 'go' with data version: 'releases/2023-10-28'
 !
 RHEA:10000 > GO:pentanamidase activity ; GO:0050168
 RHEA:10004 > GO:thiocyanate isomerase activity ; GO:0050335
@@ -3119,6 +3119,8 @@ RHEA:25432 > GO:D-ribose pyranase activity ; GO:0062193
 RHEA:25436 > GO:alpha-bisabolene synthase activity ; GO:0052681
 RHEA:25480 > GO:succinyl-CoA:3-oxo-acid CoA-transferase activity ; GO:0008260
 RHEA:25484 > GO:camphene synthase activity ; GO:0102703
+RHEA:25488 > GO:pinene synthase activity ; GO:0050550
+RHEA:25496 > GO:pinene synthase activity ; GO:0050550
 RHEA:25524 > GO:syn-copalyl diphosphate synthase activity ; GO:0051498
 RHEA:25528 > GO:phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity ; GO:0034485
 RHEA:25532 > GO:ent-cassa-12,15-diene synthase activity ; GO:0034277
@@ -3641,7 +3643,7 @@ RHEA:32823 > GO:phosphate ion transmembrane transporter activity ; GO:0015114
 RHEA:32835 > GO:4-(trimethylammonio)butanoate transmembrane transporter activity ; GO:1901236
 RHEA:32879 > GO:5-exo-hydroxycamphor dehydrogenase activity ; GO:0018452
 RHEA:32887 > GO:beta-carotene 15,15'-dioxygenase activity ; GO:0003834
-RHEA:32891 > GO:alpha-pinene monooxygenase activity ; GO:0018595
+RHEA:32891 > GO:alpha-pinene monooxygenase [NADH] activity ; GO:0018634
 RHEA:32895 > GO:1,8-cineole 2-exo-monooxygenase activity ; GO:0102320
 RHEA:32903 > GO:vitamin D3 25-hydroxylase activity ; GO:0030343
 RHEA:32931 > GO:cardiolipin synthase (CMP-forming) ; GO:0043337
@@ -4148,6 +4150,7 @@ RHEA:51004 > GO:alcohol dehydrogenase (cytochrome c(L)) activity ; GO:0052933
 RHEA:51020 > GO:alcohol dehydrogenase (cytochrome c) activity ; GO:0052934
 RHEA:51024 > GO:toluene-sulfonate methyl-monooxygenase activity ; GO:0018652
 RHEA:51072 > GO:arylsulfate sulfotransferase activity ; GO:0047686
+RHEA:51116 > GO:tRNA (guanine(6)-N2)-methyltransferase activity ; GO:0160117
 RHEA:51128 > GO:amine dehydrogenase activity ; GO:0030058
 RHEA:51152 > GO:formylglycine-generating oxidase activity ; GO:0120147
 RHEA:51196 > GO:serotonin:sodium:chloride symporter activity ; GO:0005335

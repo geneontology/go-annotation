@@ -1,4 +1,4 @@
-! Generated on 2023-10-26T08:08Z from the ontology 'go' with data version: 'releases/2023-10-26'
+! Generated on 2023-10-30T07:51Z from the ontology 'go' with data version: 'releases/2023-10-28'
 !
 EC:1.-.-.- > GO:oxidoreductase activity ; GO:0016491
 EC:1.1.-.- > GO:oxidoreductase activity, acting on CH-OH group of donors ; GO:0016614
@@ -582,7 +582,6 @@ EC:1.13.99.- > GO:2,4,5-trichlorophenoxyacetic acid oxygenase activity ; GO:0018
 EC:1.13.99.1 > GO:inositol oxygenase activity ; GO:0050113
 EC:1.13.99.3 > GO:tryptophan 2'-dioxygenase activity ; GO:0050360
 EC:1.14.-.- > GO:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen ; GO:0016705
-EC:1.14.-.- > GO:alpha-pinene dehydrogenase activity ; GO:0018600
 EC:1.14.11.- > GO:2-oxoglutarate-dependent dioxygenase activity ; GO:0016706
 EC:1.14.11.1 > GO:gamma-butyrobetaine dioxygenase activity ; GO:0008336
 EC:1.14.11.10 > GO:deoxyuridine 1'-dioxygenase activity ; GO:0047079
@@ -673,7 +672,6 @@ EC:1.14.13.- > GO:4-chlorobenzaldehyde oxidase activity ; GO:0018471
 EC:1.14.13.- > GO:3,5-xylenol methylhydroxylase activity ; GO:0018630
 EC:1.14.13.- > GO:phenylacetate hydroxylase activity ; GO:0018631
 EC:1.14.13.- > GO:dimethyl sulfide monooxygenase activity ; GO:0018633
-EC:1.14.13.- > GO:alpha-pinene monooxygenase [NADH] activity ; GO:0018634
 EC:1.14.13.- > GO:phenanthrene 9,10-monooxygenase activity ; GO:0018636
 EC:1.14.13.- > GO:toluene 4-monooxygenase activity ; GO:0018638
 EC:1.14.13.- > GO:xylene monooxygenase activity ; GO:0018639
@@ -718,7 +716,7 @@ EC:1.14.13.14 > GO:trans-cinnamate 2-monooxygenase activity ; GO:0050344
 EC:1.14.13.146 > GO:taxoid 14-beta-hydroxylase activity ; GO:0036203
 EC:1.14.13.148 > GO:trimethylamine monooxygenase activity ; GO:0034899
 EC:1.14.13.149 > GO:phenylacetyl-CoA 1,2-epoxidase activity ; GO:0097266
-EC:1.14.13.155 > GO:alpha-pinene monooxygenase activity ; GO:0018595
+EC:1.14.13.155 > GO:alpha-pinene monooxygenase [NADH] activity ; GO:0018634
 EC:1.14.13.16 > GO:cyclopentanone monooxygenase activity ; GO:0047799
 EC:1.14.13.166 > GO:4-nitrocatechol 4-monooxygenase activity ; GO:0018592
 EC:1.14.13.167 > GO:4-nitrophenol 4-monooxygenase activity ; GO:0018632
@@ -982,7 +980,6 @@ EC:1.14.20.13 > GO:6-beta-hydroxyhyoscyamine epoxidase activity ; GO:0047594
 EC:1.14.20.4 > GO:leucocyanidin oxygenase activity ; GO:0050589
 EC:1.14.20.5 > GO:flavone synthase activity ; GO:0033759
 EC:1.14.20.6 > GO:flavonol synthase activity ; GO:0045431
-EC:1.14.21.- > GO:thalian-diol desaturase activity ; GO:0080004
 EC:1.14.99.1 > GO:prostaglandin-endoperoxide synthase activity ; GO:0004666
 EC:1.14.99.11 > GO:estradiol 6-beta-monooxygenase activity ; GO:0047882
 EC:1.14.99.12 > GO:androst-4-ene-3,17-dione monooxygenase activity ; GO:0047096
@@ -1803,6 +1800,7 @@ EC:2.1.1.250 > GO:trimethylamine methyltransferase activity ; GO:0043834
 EC:2.1.1.251 > GO:methylthiol:coenzyme M methyltransferase activity ; GO:0044683
 EC:2.1.1.254 > GO:erythromycin C 3''-o-methyltransferase activity ; GO:0102307
 EC:2.1.1.254 > GO:erythromycin D 3''-o-methyltransferase activity ; GO:0102308
+EC:2.1.1.256 > GO:tRNA (guanine(6)-N2)-methyltransferase activity ; GO:0160117
 EC:2.1.1.258 > GO:methyltetrahydrofolate:corrinoid/iron-sulfur protein methyltransferase activity ; GO:0102036
 EC:2.1.1.26 > GO:iodophenol O-methyltransferase activity ; GO:0030737
 EC:2.1.1.266 > GO:23S rRNA (adenine(2030)-N(6))-methyltransferase activity ; GO:0036307
@@ -4545,13 +4543,14 @@ EC:4.2.3.108 > GO:1,8-cineole synthase activity ; GO:0102313
 EC:4.2.3.11 > GO:sabinene-hydrate synthase activity ; GO:0050469
 EC:4.2.3.114 > GO:gamma-terpinene synthase activity ; GO:0102903
 EC:4.2.3.117 > GO:camphene synthase activity ; GO:0102703
+EC:4.2.3.119 > GO:pinene synthase activity ; GO:0050550
 EC:4.2.3.12 > GO:6-pyruvoyltetrahydropterin synthase activity ; GO:0003874
+EC:4.2.3.120 > GO:pinene synthase activity ; GO:0050550
 EC:4.2.3.123 > GO:beta-sesquiphellandrene synthase activity ; GO:0102887
 EC:4.2.3.13 > GO:(+)-delta-cadinene synthase activity ; GO:0047461
 EC:4.2.3.131 > GO:miltiradiene synthase activity ; GO:0062205
 EC:4.2.3.133 > GO:alpha-copaene synthase activity ; GO:0102877
 EC:4.2.3.139 > GO:valerena-4,7(11)-diene synthase activity ; GO:0102412
-EC:4.2.3.14 > GO:pinene synthase activity ; GO:0050550
 EC:4.2.3.15 > GO:myrcene synthase activity ; GO:0050551
 EC:4.2.3.16 > GO:(4S)-limonene synthase activity ; GO:0050552
 EC:4.2.3.17 > GO:taxadiene synthase activity ; GO:0050553
@@ -4920,7 +4919,6 @@ EC:5.4.99.7 > GO:lanosterol synthase activity ; GO:0000250
 EC:5.4.99.8 > GO:cycloartenol synthase activity ; GO:0016871
 EC:5.4.99.9 > GO:UDP-galactopyranose mutase activity ; GO:0008767
 EC:5.5.1.- > GO:intramolecular lyase activity ; GO:0016872
-EC:5.5.1.- > GO:alpha-pinene lyase activity ; GO:0018847
 EC:5.5.1.- > GO:pinocarveol isomerase activity ; GO:0018848
 EC:5.5.1.- > GO:cyclopropanecarboxyl-CoA decyclase activity ; GO:0034794
 EC:5.5.1.1 > GO:muconate cycloisomerase activity ; GO:0018849
