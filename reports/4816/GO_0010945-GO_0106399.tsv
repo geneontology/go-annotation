@@ -1,0 +1,10 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:1914778	Nudt7	PMID:11415433		GO:0010945	CoA pyrophosphatase activity	IDA			PANTHER:PTHR12992	20230602	GO:0015938|GO:0005777|CHEBI:47942	NCBITaxon:10090
+MGI	MGI:MGI:1914778	Nudt7	PMID:11415433		GO:0010945	CoA pyrophosphatase activity	IDA			PANTHER:PTHR12992	20201021		NCBITaxon:10090
+SGD	SGD:S000004141	PCD1	PMID:10922370		GO:0010945	CoA pyrophosphatase activity	IDA		UniProtKB:Q12524	PANTHER:PTHR12992	20201026		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT1G28960	NUDX15	PMID:18815383|TAIR:Publication:501728657		GO:0010945	CoA pyrophosphatase activity	IDA		TAIR:locus:2018773		20090811		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G45940	NUDT11	PMID:19340986|TAIR:Publication:501730272		GO:0010945	CoA pyrophosphatase activity	IDA		TAIR:locus:2152415		20090515		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G28960	NUDX15	PMID:22232253|TAIR:Publication:501747170		GO:0010945	CoA pyrophosphatase activity	IDA		TAIR:locus:2018773		20120222		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G45940	NUDT11	PMID:22232253|TAIR:Publication:501747170		GO:0010945	CoA pyrophosphatase activity	IDA		TAIR:locus:2152415		20120222		NCBITaxon:3702
+WB	WB:WBGene00003585	ndx-8	PMID:11943069|WB_REF:WBPaper00005401		GO:0010945	CoA pyrophosphatase activity	IDA			PANTHER:PTHR12992	20220407		NCBITaxon:6239
+UniProt	UniProtKB:Q8N6M3	FITM2	PMID:32915949		GO:0106399	acyl-coenzyme A diphosphatase activity	IMP			PANTHER:PTHR23129	20221012		NCBITaxon:9606
