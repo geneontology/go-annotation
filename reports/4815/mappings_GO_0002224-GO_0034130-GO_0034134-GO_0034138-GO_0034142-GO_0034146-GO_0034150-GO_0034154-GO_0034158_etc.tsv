@@ -1,0 +1,4 @@
+term	file	line
+GO:0002224	unirule2go	UniRule:UR000001599 > GO:toll-like receptor signaling pathway ; GO:0002224
+GO:0002224	interpro2go	InterPro:IPR017241 Toll-like receptor > GO:toll-like receptor signaling pathway ; GO:0002224
+GO:0002224	interpro2go	InterPro:IPR043268 Protein unc-93 homolog B1 > GO:toll-like receptor signaling pathway ; GO:0002224
