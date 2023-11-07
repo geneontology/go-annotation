@@ -22,7 +22,7 @@ This is specification has been approved as version 2.0.
 
 ## BNF Notation
 
-GPAD and GPI document structures are defined using a BNF notation similar to [W3C specs](https://www.w3.org/TR/2004/REC-xml11-20040204/#sec-notation), which is summarized below.
+GPAD and GPI document structures are defined using a BNF notation similar to [W3C specs](https://www.w3.org/TR/xml11/#sec-notation), which is summarized below.
 
  * terminal symbols are single quoted
  * non-terminal symbols are unquoted
