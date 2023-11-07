@@ -50,7 +50,7 @@ GPI and GPAD documents consist of sequences of ASCII characters.
 
 ### Header properties
 
-In addition to the three required header properties specified in the grammars for GPAD and GPI, groups may decide to include optional
+In addition to the three required header properties specified in the grammars for [GPAD](#GPAD_Header) and [GPI](#GPI_Header), groups may decide to include optional
 additional information in [header lines](#Header_Line), either [unstructured](#Unstructured_Value_Header) or using custom [header properties](#Tag_Value_Header). Examples include:
 
 Header property | Example value | Comment 
