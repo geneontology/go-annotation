@@ -50,23 +50,17 @@ GPI and GPAD documents consist of sequences of ASCII characters.
 
 ### Header properties
 
-The list of allowed property symbols is open-ended, however two properties are required for both GPAD and GPI:
+In addition to the three required header properties specified in the grammars for GPAD and GPI, groups may decide to include optional
+additional information in [header lines](#Header_Line), either [unstructured](#Unstructured_Value_Header) or using custom [header properties](#Tag_Value_Header). Examples include:
 
-Header_Property | Value Grammar | Example | Comment 
------------------------|---------------|-------- | ------- |
-`'generated-by'` | <code>[Prefix](#Prefix)</code> | `!generated-by: MGI` | Database listed in dbxrefs.yaml
-`'generated-by'` | <code>[Prefix](#Prefix)</code> | `!generated-by: MGI` | Database listed in dbxrefs.yaml
-`'date-generated'` | <code>[Date_Or_Date_Time](#Date_Or_Date_Time)</code> | `!date-generated: 2019-01-30` |
-
-Groups may decide to include optional additional information. Examples include:
-- URL: e.g. http://www.yeastgenome.org/
-- Project-release: e.g. WS275
-- Funding: e.g. NHGRI
-- Columns: file format written out
-- go-version: PURL
-- ro-version: PURL
-- gorel-version: PURL
-- eco-version: PURL
+Header property | Example value | Comment 
+-----------------------|---------------|--------|
+`url` | `http://www.yeastgenome.org/` | 
+`project-release` | `WS275` |
+`funding` | `NHGRI` |
+`columns` | file format written out |
+`go-version` | `http://purl.obolibrary.org/obo/go/releases/2023-10-09/go.owl` |
+`ro-version` | `http://purl.obolibrary.org/obo/ro/releases/2023-08-18/ro.owl` |
 
 ### GPAD columns
 
