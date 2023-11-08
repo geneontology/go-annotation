@@ -1,4 +1,4 @@
-! Generated on 2023-10-30T07:51Z from the ontology 'go' with data version: 'releases/2023-10-28'
+! Generated on 2023-11-06T09:08Z from the ontology 'go' with data version: 'releases/2023-11-06'
 !
 MetaCyc:+-BORNEOL-DEHYDROGENASE-RXN > GO:(+)-borneol dehydrogenase activity ; GO:0047500
 MetaCyc:+-NEOMENTHOL-DEHYDROGENASE-RXN > GO:(+)-neomenthol dehydrogenase activity ; GO:0047501
@@ -3822,6 +3822,7 @@ MetaCyc:RXN-10768 > GO:methyl jasmonate methylesterase activity ; GO:0030795
 MetaCyc:RXN-10771 > GO:DNA (6-4) photolyase activity ; GO:0003914
 MetaCyc:RXN-10773 > GO:cellobiose glucosidase activity ; GO:0080079
 MetaCyc:RXN-10788 > GO:quercetin 4'-O-glucosyltransferase activity ; GO:0080046
+MetaCyc:RXN-10811 > GO:coenzyme A diphosphatase activity ; GO:0010945
 MetaCyc:RXN-10814 > GO:L-phenylalanine:2-oxoglutarate aminotransferase activity ; GO:0080130
 MetaCyc:RXN-10817 > GO:phenethylamine:oxygen oxidoreductase (deaminating) activity ; GO:0052596
 MetaCyc:RXN-10819 > GO:phenylacetate-CoA ligase activity ; GO:0047475
@@ -3854,6 +3855,7 @@ MetaCyc:RXN-10975 > GO:inositol-1,5-bisdiphosphate-2,3,4,6-tetrakisphosphate 5-d
 MetaCyc:RXN-10976 > GO:inositol-3,5-bisdiphosphate-2,3,4,6-tetrakisphosphate 5-diphosphatase activity ; GO:0052848
 MetaCyc:RXN-10977 > GO:inositol-1-diphosphate-2,3,4,5,6-pentakisphosphate diphosphatase activity ; GO:0052843
 MetaCyc:RXN-10978 > GO:inositol-3-diphosphate-1,2,4,5,6-pentakisphosphate diphosphatase activity ; GO:0052844
+MetaCyc:RXN-10984 > GO:inositol-3,4,6-trisphosphate 1-kinase activity ; GO:0052835
 MetaCyc:RXN-10985 > GO:acrylate:acyl-coA CoA transferase activity ; GO:0102093
 MetaCyc:RXN-11003 > GO:alpha-tocopherol omega-hydroxylase activity ; GO:0052871
 MetaCyc:RXN-11026 > GO:acyl-CoA oxidase activity ; GO:0003997

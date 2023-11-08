@@ -1,4 +1,4 @@
-! Generated on 2023-10-30T07:51Z from the ontology 'go' with data version: 'releases/2023-10-28'
+! Generated on 2023-11-06T09:08Z from the ontology 'go' with data version: 'releases/2023-11-06'
 !
 EC:1.-.-.- > GO:oxidoreductase activity ; GO:0016491
 EC:1.1.-.- > GO:oxidoreductase activity, acting on CH-OH group of donors ; GO:0016614
@@ -1570,6 +1570,7 @@ EC:1.7.1.9 > GO:nitroquinoline-N-oxide reductase activity ; GO:0050465
 EC:1.7.2.- > GO:oxidoreductase activity, acting on other nitrogenous compounds as donors, cytochrome as acceptor ; GO:0016662
 EC:1.7.2.1 > GO:nitrite reductase (NO-forming) activity ; GO:0050421
 EC:1.7.2.2 > GO:nitrite reductase (cytochrome, ammonia-forming) activity ; GO:0042279
+EC:1.7.2.3 > GO:trimethylamine-N-oxide reductase activity ; GO:0009033
 EC:1.7.2.3 > GO:trimethylamine-N-oxide reductase (cytochrome c) activity ; GO:0050626
 EC:1.7.2.4 > GO:nitrous-oxide reductase activity ; GO:0050304
 EC:1.7.2.5 > GO:nitric oxide reductase activity ; GO:0016966

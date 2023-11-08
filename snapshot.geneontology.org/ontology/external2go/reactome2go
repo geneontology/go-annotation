@@ -1,4 +1,4 @@
-! Generated on 2023-10-30T07:51Z from the ontology 'go' with data version: 'releases/2023-10-28'
+! Generated on 2023-11-06T09:08Z from the ontology 'go' with data version: 'releases/2023-11-06'
 !
 Reactome:R-HSA-1008248 > GO:nucleoside triphosphate adenylate kinase activity ; GO:0046899
 Reactome:R-HSA-1013012 > GO:G protein-coupled GABA receptor activity ; GO:0004965
@@ -4123,7 +4123,7 @@ Reactome:R-HSA-6809264 > GO:3-hydroxyacyl-CoA dehydrogenase activity ; GO:000385
 Reactome:R-HSA-6809287 > GO:NADH pyrophosphatase activity ; GO:0035529
 Reactome:R-HSA-6809320 > GO:phosphatidylinositol-3,5-bisphosphate 3-phosphatase activity ; GO:0052629
 Reactome:R-HSA-6809325 > GO:phosphatidylinositol-3-phosphate phosphatase activity ; GO:0004438
-Reactome:R-HSA-6809354 > GO:CoA pyrophosphatase activity ; GO:0010945
+Reactome:R-HSA-6809354 > GO:coenzyme A diphosphatase activity ; GO:0010945
 Reactome:R-HSA-6809561 > GO:inositol bisphosphate phosphatase activity ; GO:0016312
 Reactome:R-HSA-6809565 > GO:inositol bisphosphate phosphatase activity ; GO:0016312
 Reactome:R-HSA-6809720 > GO:phosphatidylinositol-3-phosphate phosphatase activity ; GO:0004438
@@ -4138,7 +4138,7 @@ Reactome:R-HSA-6810233 > GO:protein serine/threonine kinase activity ; GO:000467
 Reactome:R-HSA-6810410 > GO:phosphatidylinositol-4,5-bisphosphate 4-phosphatase activity ; GO:0034597
 Reactome:R-HSA-6810464 > GO:UDP-sugar diphosphatase activity ; GO:0008768
 Reactome:R-HSA-6810472 > GO:pyrophosphatase activity ; GO:0016462
-Reactome:R-HSA-6810474 > GO:CoA pyrophosphatase activity ; GO:0010945
+Reactome:R-HSA-6810474 > GO:coenzyme A diphosphatase activity ; GO:0010945
 Reactome:R-HSA-6810594 > GO:estradiol 17-beta-dehydrogenase [NAD(P)] activity ; GO:0004303
 Reactome:R-HSA-6810894 > GO:protein-glutamine gamma-glutamyltransferase activity ; GO:0003810
 Reactome:R-HSA-6811414 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085

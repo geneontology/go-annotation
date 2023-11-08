@@ -1,4 +1,4 @@
-! Generated on 2023-10-30T07:51Z from the ontology 'go' with data version: 'releases/2023-10-28'
+! Generated on 2023-11-06T09:08Z from the ontology 'go' with data version: 'releases/2023-11-06'
 !
 RHEA:10000 > GO:pentanamidase activity ; GO:0050168
 RHEA:10004 > GO:thiocyanate isomerase activity ; GO:0050335
@@ -3596,6 +3596,7 @@ RHEA:32287 > GO:3-isopropylmalate dehydratase activity ; GO:0003861
 RHEA:32307 > GO:arachidonate 5-lipoxygenase activity ; GO:0004051
 RHEA:32323 > GO:ent-kaurene oxidase activity ; GO:0052615
 RHEA:32327 > GO:zerumbone synthase activity ; GO:0102069
+RHEA:32359 > GO:inositol-1,4,5-trisphosphate 6-kinase activity ; GO:0000823
 RHEA:32363 > GO:L-gulonolactone oxidase activity ; GO:0050105
 RHEA:32367 > GO:galactonolactone dehydrogenase activity ; GO:0016633
 RHEA:32371 > GO:violaxanthin de-epoxidase activity ; GO:0046422
@@ -4517,6 +4518,7 @@ RHEA:69819 > GO:hypotaurine dehydrogenase activity ; GO:0047822
 RHEA:70027 > GO:tRNA (L-threonylcarbamoyladenosine(37)-C2) methyltransferase activity ; GO:0089715
 RHEA:70199 > GO:dopaminechrome tautomerase activity ; GO:0106417
 RHEA:70275 > GO:raffinose alpha-galactosidase activity ; GO:0052692
+RHEA:70287 > GO:inositol-3,4,6-trisphosphate 1-kinase activity ; GO:0052835
 RHEA:70363 > GO:cyanuric acid amidohydrolase activity ; GO:0018753
 RHEA:70479 > GO:NAD-dependent protein biotinidase activity ; GO:0106420
 RHEA:70511 > GO:O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase activity ; GO:0033829
@@ -4547,6 +4549,7 @@ RHEA:75279 > GO:medium-chain fatty acid omega-hydroxylase activity ; GO:0140981
 RHEA:75355 > GO:mimosinase activity ; GO:0050101
 RHEA:75443 > GO:heme B transmembrane transporter activity ; GO:0170003
 RHEA:75479 > GO:S-adenosyl-L-methionine:S-adenosyl-L-homocysteine antiporter activity ; GO:0180003
+RHEA:75715 > GO:coenzyme A diphosphatase activity ; GO:0010945
 RHEA:75883 > GO:ADP-riboxanase activity ; GO:0140740
 RHEA:75887 > GO:ADP-riboxanase activity ; GO:0140740
 RHEA:75935 > GO:muramyl dipeptide kinase activity ; GO:0160047

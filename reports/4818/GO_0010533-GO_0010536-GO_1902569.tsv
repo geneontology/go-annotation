@@ -1,0 +1,8 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:1354910	Socs1	PMID:21606371		GO:0010533	regulation of activation of Janus kinase activity	IMP	MGI:MGI:2656917		PANTHER:PTHR10155	20170417		NCBITaxon:10090
+AgBase	UniProtKB:P48096	prl	PMID:23548829		GO:0010536	positive regulation of activation of Janus kinase activity	IDA				20150522	CL:0000235|UBERON:0007132	NCBITaxon:8030
+BHF-UCL	UniProtKB:P29460	IL12B	PMID:12023369		GO:0010536	positive regulation of activation of Janus kinase activity	IDA			PANTHER:PTHR23036	20110110		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9NPF7	IL23A	PMID:12023369		GO:0010536	positive regulation of activation of Janus kinase activity	IDA			PANTHER:PTHR15947	20110110		NCBITaxon:9606
+BHF-UCL	UniProtKB:P01241	GH1	PMID:12552091		GO:0010536	positive regulation of activation of Janus kinase activity	IDA			PANTHER:PTHR11417	20081209		NCBITaxon:9606
+UniProt	UniProtKB:P01019	AGT	PMID:15153556		GO:0010536	positive regulation of activation of Janus kinase activity	IMP			PANTHER:PTHR11461	20110414		NCBITaxon:9606
+UniProt	UniProtKB:Q9UGN4	CD300A	PMID:16254138		GO:1902569	negative regulation of activation of Janus kinase activity	IDA			PANTHER:PTHR11860	20131213		NCBITaxon:9606
