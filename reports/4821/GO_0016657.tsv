@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P17117	nfsA	PMID:8755878		GO:0016657	oxidoreductase activity, acting on NAD(P)H, nitrogenous group as acceptor	IDA			PANTHER:PTHR43425	20120530		NCBITaxon:83333
+MGI	MGI:MGI:1929955	Akr1a1	PMID:31649033		GO:0016657	oxidoreductase activity, acting on NAD(P)H, nitrogenous group as acceptor	IMP			PANTHER:PTHR11732	20220404	CHEBI:16474|CHEBI:43056	NCBITaxon:10090
+SGD	SGD:S000000589	FRM2	PMID:22687599		GO:0016657	oxidoreductase activity, acting on NAD(P)H, nitrogenous group as acceptor	IDA		UniProtKB:P37261	PANTHER:PTHR43035	20120705		NCBITaxon:559292
+UniProt	UniProtKB:E9AGH7	LINJ.12.0730	PMID:27812217		GO:0016657	oxidoreductase activity, acting on NAD(P)H, nitrogenous group as acceptor	IDA				20180619		NCBITaxon:5671
