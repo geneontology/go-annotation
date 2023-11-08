@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P38489	nfsB	PMID:338576		GO:0018545	NAD(P)H nitroreductase activity	IMP			PANTHER:PTHR23026	20120530		NCBITaxon:83333
+EcoCyc	UniProtKB:P38489	nfsB	PMID:6363380		GO:0018545	NAD(P)H nitroreductase activity	IMP			PANTHER:PTHR23026	20120530		NCBITaxon:83333
+EcoCyc	UniProtKB:P38489	nfsB	PMID:7011517		GO:0018545	NAD(P)H nitroreductase activity	IMP			PANTHER:PTHR23026	20120530		NCBITaxon:83333
+EcoCyc	UniProtKB:P38489	nfsB	PMID:8947835		GO:0018545	NAD(P)H nitroreductase activity	IDA			PANTHER:PTHR23026	20150428		NCBITaxon:83333
