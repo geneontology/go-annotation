@@ -1,10 +1,10 @@
-# Proposed specifications for Gene Ontology Consortium GPAD and GPI tabular formats version 2.0
+# Specifications for Gene Ontology Consortium GPAD and GPI tabular formats version 2.0
 
 This document specifies the syntax of Gene Product Annotation Data (GPAD) and Gene Product Information (GPI) formats. GPAD describes the relationships between biological entities (such as gene products) and biological descriptors (such as GO terms). GPI describes the biological entities.
 
 ## Status
 
-This is a working draft, intended for comment by the community. Comments should be added to: [#4684](https://github.com/geneontology/go-annotation/issues/4684)
+This is specification has been approved as version 2.0.
 
 ## Summary of changes relative to 1.1
 
@@ -22,7 +22,7 @@ This is a working draft, intended for comment by the community. Comments should 
 
 ## BNF Notation
 
-GPAD and GPI document structures are defined using a BNF notation similar to [W3C specs](https://www.w3.org/TR/2004/REC-xml11-20040204/#sec-notation), which is summarized below.
+GPAD and GPI document structures are defined using a BNF notation similar to [W3C specs](https://www.w3.org/TR/xml11/#sec-notation), which is summarized below.
 
  * terminal symbols are single quoted
  * non-terminal symbols are unquoted
@@ -43,29 +43,24 @@ GPI and GPAD documents consist of sequences of ASCII characters.
 | <code><a name="Doc">Doc</a></code> | <code>[GPAD_Doc](#GPAD_Doc) \| [GPI_Doc](#GPI_Doc)</code>| |
 | <code><a name="GPAD_Doc">GPAD_Doc</a></code> | <code>[GPAD_Header](#GPAD_Header) [Annotation](#Annotation)*</code>| |
 | <code><a name="GPI_Doc">GPI_Doc<a></code> | <code>[GPI_Header](#GPI_Header) [Entity](#Entity)*</code>| |
-| <code><a name="GPAD_Header">GPAD_Header</a></code> | <code>'!gpad-version: 2.0' \n [Header_Line](#Header_Line)*</code>| Header MUST include the [required header properties](#header-properties) |
-| <code><a name="GPI_Header">GPI_Header</a></code> | <code>'!gpi-version: 2.0' \n [Header_Line](#Header_Line)*</code>| Header MUST include the [required header properties](#header-properties) |
+| <code><a name="GPAD_Header">GPAD_Header</a></code> | <code>'!gpad-version: 2.0' \n '!generated-by: ' [Prefix](#Prefix) \n '!date-generated: ' [Date_Or_Date_Time](#Date_Or_Date_Time) \n [Header_Line](#Header_Line)*</code>| Groups may include optional additional [header properties](#header-properties) |
+| <code><a name="GPI_Header">GPI_Header</a></code> | <code>'!gpi-version: 2.0' \n '!generated-by: ' [Prefix](#Prefix) \n '!date-generated: ' [Date_Or_Date_Time](#Date_Or_Date_Time) \n [Header_Line](#Header_Line)*</code>| Groups may include optional additional [header properties](#header-properties) |
 | <code><a name="Annotation">Annotation</a></code> | <code>[DB_Object_ID](#DB_Object_ID) \t [Negation](#Negation) \t [Relation](#Relation) \t [Ontology_Class_ID](#Ontology_Class_ID) \t [Reference](#Reference) \t [Evidence_Type](#Evidence_Type) \t [With_Or_From](#With_Or_From) \t [Interacting_Taxon_ID](#Interacting_Taxon_ID) \t [Annotation_Date](#Annotation_Date) \t [Assigned_By](#Assigned_By) \t [Annotation_Extensions](#Annotation_Extensions) \t [Annotation_Properties](#Annotation_Properties) \n</code>| |
-| <code><a name="Entity">Entity</a></code> | <code>[DB_Object_ID](#DB_Object_ID) \t [DB_Object_Symbol](#DB_Object_Symbol) \t [DB_Object_Name](#DB_Object_Name) \t [DB_Object_Synonyms](#DB_Object_Synonyms) \t [DB_Object_Type](#DB_Object_Type) \t [DB_Object_Taxon](#DB_Object_Taxon) \t [Encoded_By](#Encoded_By) \t [Parent_Protein](#Parent_Protein) \t [Protein_Containing_Complex_Members](#Protein_Containing_Complex_Members) \t [DB_Xrefs](#DB_Xrefs) [Gene_Product_Properties](#Gene_Product_Properties) \n</code>| |
+| <code><a name="Entity">Entity</a></code> | <code>[DB_Object_ID](#DB_Object_ID) \t [DB_Object_Symbol](#DB_Object_Symbol) \t [DB_Object_Name](#DB_Object_Name) \t [DB_Object_Synonyms](#DB_Object_Synonyms) \t [DB_Object_Type](#DB_Object_Type) \t [DB_Object_Taxon](#DB_Object_Taxon) \t [Encoded_By](#Encoded_By) \t [Parent_Protein](#Parent_Protein) \t [Protein_Containing_Complex_Members](#Protein_Containing_Complex_Members) \t [DB_Xrefs](#DB_Xrefs) \t [Gene_Product_Properties](#Gene_Product_Properties) \n</code>| |
 
 ### Header properties
 
-The list of allowed property symbols is open-ended, however two properties are required for both GPAD and GPI:
+In addition to the three required header properties specified in the grammars for [GPAD](#GPAD_Header) and [GPI](#GPI_Header), groups may decide to include optional
+additional information in [header lines](#Header_Line), either [unstructured](#Unstructured_Value_Header) or using custom [header properties](#Tag_Value_Header). Examples include:
 
-Header_Property | Value Grammar | Example | Comment 
------------------------|---------------|-------- | ------- |
-`'generated-by'` | <code>[Prefix](#Prefix)</code> | `!generated-by: MGI` | Database listed in dbxrefs.yaml
-`'date-generated'` | <code>[Date_Or_Date_Time](#Date_Or_Date_Time)</code> | `!date-generated: 2019-01-30` |
-
-Groups may decide to include optional additional information. Examples include:
-- URL: e.g. http://www.yeastgenome.org/
-- Project-release: e.g. WS275
-- Funding: e.g. NHGRI
-- Columns: file format written out
-- go-version: PURL
-- ro-version: PURL
-- gorel-version: PURL
-- eco-version: PURL
+Header property | Example value | Comment 
+-----------------------|---------------|--------|
+`url` | `http://www.yeastgenome.org/` | 
+`project-release` | `WS275` |
+`funding` | `NHGRI` |
+`columns` | file format written out |
+`go-version` | `http://purl.obolibrary.org/obo/go/releases/2023-10-09/go.owl` |
+`ro-version` | `http://purl.obolibrary.org/obo/ro/releases/2023-08-18/ro.owl` |
 
 ### GPAD columns
 
