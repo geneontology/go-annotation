@@ -1,0 +1,61 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ComplexPortal	MGI:MGI:99919	Vcp	PMID:12847084|MGI:MGI:5634892		GO:0030970	retrograde protein transport, ER to cytosol	EXP			PANTHER:PTHR23077	20180320		NCBITaxon:10090
+ComplexPortal	MGI:MGI:109353	Ufd1	PMID:12847084|MGI:MGI:5634892		GO:0030970	retrograde protein transport, ER to cytosol	EXP			PANTHER:PTHR12555	20180320		NCBITaxon:10090
+ComplexPortal	MGI:MGI:2679787	Nploc4	PMID:12847084|MGI:MGI:5634892		GO:0030970	retrograde protein transport, ER to cytosol	EXP			PANTHER:PTHR12710	20180320		NCBITaxon:10090
+ComplexPortal	RGD:621595	Vcp	PMID:12847084|RGD:10047330		GO:0030970	retrograde protein transport, ER to cytosol	EXP			PANTHER:PTHR23077	20180320		NCBITaxon:10116
+ComplexPortal	RGD:619822	Ufd1	PMID:12847084|RGD:10047330		GO:0030970	retrograde protein transport, ER to cytosol	EXP			PANTHER:PTHR12555	20180320		NCBITaxon:10116
+ComplexPortal	RGD:620794	Nploc4	PMID:12847084|RGD:10047330		GO:0030970	retrograde protein transport, ER to cytosol	EXP			PANTHER:PTHR12710	20180320		NCBITaxon:10116
+GeneDB	TriTrypDB:Tb927.10.5770	VCP	PMID:11279035		GO:0030970	retrograde protein transport, ER to cytosol	IGI	UniProtKB:CDC48_YEAST			20150414		NCBITaxon:185431
+MGI	UniProtKB:Q9BUN8	DERL1	PMID:15215855		GO:0030970	retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR11009	20120305		NCBITaxon:9606
+MGI	MGI:MGI:2151483	Derl2	PMID:21220515		GO:0030970	retrograde protein transport, ER to cytosol	IMP	MGI:MGI:4947129		PANTHER:PTHR11009	20130222	CL:0000057	NCBITaxon:10090
+ParkinsonsUK-UCL	MGI:MGI:99919	Vcp	PMID:12847084|MGI:MGI:5634892		GO:0030970	retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR23077	20150420		NCBITaxon:10090
+ParkinsonsUK-UCL	UniProtKB:A0AVI4	TMEM129	PMID:24807418		GO:0030970	retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR31322	20150415		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q86TM6	SYVN1	PMID:25660456		GO:0030970	retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR22763	20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9BUN8	DERL1	PMID:25660456		GO:0030970	retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR11009	20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q96CS3	FAF2	PMID:25660456		GO:0030970	retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR23322	20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9UBV2	SEL1L	PMID:25660456		GO:0030970	retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR11102	20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9Y679	AUP1	PMID:25660456		GO:0030970	retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR15486	20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q15011	HERPUD1	PMID:25660456		GO:0030970	retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR12943	20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q92890	UFD1	PMID:25660456		GO:0030970	retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR12555	20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q8TAT6	NPLOC4	PMID:25660456		GO:0030970	retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR12710	20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P55072	VCP	PMID:25660456		GO:0030970	retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR23077	20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P14625	HSP90B1	PMID:25660456		GO:0030970	retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR11528	20150421		NCBITaxon:9606
+SGD	SGD:S000004370	SEC61	PMID:10635318		GO:0030970	retrograde protein transport, ER to cytosol	IMP		UniProtKB:P32915	PANTHER:PTHR10906	20071008		NCBITaxon:559292
+SGD	SGD:S000003280	UFD1	PMID:11740563		GO:0030970	retrograde protein transport, ER to cytosol	IMP		UniProtKB:P53044	PANTHER:PTHR12555	20120622		NCBITaxon:559292
+SGD	SGD:S000000374	NPL4	PMID:11740563		GO:0030970	retrograde protein transport, ER to cytosol	IMP		UniProtKB:P33755	PANTHER:PTHR12710	20120622		NCBITaxon:559292
+SGD	SGD:S000002284	CDC48	PMID:11740563		GO:0030970	retrograde protein transport, ER to cytosol	IMP		UniProtKB:P25694	PANTHER:PTHR23077	20120622		NCBITaxon:559292
+SGD	SGD:S000003280	UFD1	PMID:11813000		GO:0030970	retrograde protein transport, ER to cytosol	IMP		UniProtKB:P53044	PANTHER:PTHR12555	20120621		NCBITaxon:559292
+SGD	SGD:S000004197	HRD3	PMID:24292014		GO:0030970	retrograde protein transport, ER to cytosol	IMP		UniProtKB:Q05787	PANTHER:PTHR11102	20140317		NCBITaxon:559292
+SGD	SGD:S000005373	HRD1	PMID:24292014		GO:0030970	retrograde protein transport, ER to cytosol	IMP		UniProtKB:Q08109	PANTHER:PTHR22765	20140317		NCBITaxon:559292
+SGD	SGD:S000002464	YOS9	PMID:24292014		GO:0030970	retrograde protein transport, ER to cytosol	IMP		UniProtKB:Q99220	PANTHER:PTHR15414	20140317		NCBITaxon:559292
+SGD	SGD:S000000405	DER1	PMID:24292014		GO:0030970	retrograde protein transport, ER to cytosol	IMP		UniProtKB:P38307	PANTHER:PTHR11009	20140317		NCBITaxon:559292
+SGD	SGD:S000005373	HRD1	PMID:27321670		GO:0030970	retrograde protein transport, ER to cytosol	IDA		UniProtKB:Q08109	PANTHER:PTHR22765	20160804		NCBITaxon:559292
+SGD	SGD:S000001292	SSM4	PMID:32588820		GO:0030970	retrograde protein transport, ER to cytosol	IMP		UniProtKB:P40318	PANTHER:PTHR13145	20200708	SGD:S000000902	NCBITaxon:559292
+SGD	SGD:S000001292	SSM4	PMID:32588820		GO:0030970	retrograde protein transport, ER to cytosol	IDA		UniProtKB:P40318	PANTHER:PTHR13145	20200708	SGD:S000000902	NCBITaxon:559292
+SGD	SGD:S000002284	CDC48	PMID:32588820		GO:0030970	retrograde protein transport, ER to cytosol	IMP		UniProtKB:P25694	PANTHER:PTHR23077	20200708	SGD:S000000902	NCBITaxon:559292
+SGD	SGD:S000002284	CDC48	PMID:32588820		GO:0030970	retrograde protein transport, ER to cytosol	IDA		UniProtKB:P25694	PANTHER:PTHR23077	20200708	SGD:S000000902	NCBITaxon:559292
+SGD	SGD:S000004370	SEC61	PMID:9303298		GO:0030970	retrograde protein transport, ER to cytosol	IMP		UniProtKB:P32915	PANTHER:PTHR10906	20071008		NCBITaxon:559292
+UniProt	UniProtKB:Q9BQE4	SELENOS	PMID:15215856		GO:0030970	retrograde protein transport, ER to cytosol	IDA			PANTHER:PTHR28621	20040804		NCBITaxon:9606
+UniProt	UniProtKB:Q9BUN8	DERL1	PMID:15215856		GO:0030970	retrograde protein transport, ER to cytosol	IDA			PANTHER:PTHR11009	20040804		NCBITaxon:9606
+UniProt	UniProtKB:P55072	VCP	PMID:15215856		GO:0030970	retrograde protein transport, ER to cytosol	IDA			PANTHER:PTHR23077	20040804		NCBITaxon:9606
+UniProt	UniProtKB:Q9GZP9	DERL2	PMID:16449189		GO:0030970	retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR11009	20060227		NCBITaxon:9606
+UniProt	UniProtKB:P60468	SEC61B	PMID:17215517		GO:0030970	retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR13509	20090921		NCBITaxon:9606
+SGD	SGD:S000002819	DFM1	PMID:29351849		GO:1904152	regulation of retrograde protein transport, ER to cytosol	IMP		UniProtKB:Q12743	PANTHER:PTHR11009	20191213		NCBITaxon:559292
+ParkinsonsUK-UCL	UniProtKB:Q5VVQ6	YOD1	PMID:24068323		GO:1904153	negative regulation of retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR13312	20190530		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q13438	OS9	PMID:25660456		GO:1904153	negative regulation of retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR15414	20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9GZP9	DERL2	PMID:25660456		GO:1904153	negative regulation of retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR11009	20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q96Q80	DERL3	PMID:25660456		GO:1904153	negative regulation of retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR11009	20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q8NHG7	SVIP	PMID:25660456		GO:1904153	negative regulation of retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR35269	20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q8NBM4	UBAC2	PMID:25660456		GO:1904153	negative regulation of retrograde protein transport, ER to cytosol	IMP				20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q96DZ1	ERLEC1	PMID:25660456		GO:1904153	negative regulation of retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR15414	20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9Y385	UBE2J1	PMID:25660456		GO:1904153	negative regulation of retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR24068	20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P60604	UBE2G2	PMID:25660456		GO:1904153	negative regulation of retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR24067	20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P51572	BCAP31	PMID:18555783		GO:1904154	positive regulation of retrograde protein transport, ER to cytosol	IDA			PANTHER:PTHR12701	20150514	UniProtKB:P13569	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9BV94	EDEM2	PMID:24200403		GO:1904154	positive regulation of retrograde protein transport, ER to cytosol	IGI	UniProtKB:Q92611		PANTHER:PTHR45679	20150609		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9BV94	EDEM2	PMID:24200403		GO:1904154	positive regulation of retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR45679	20150609		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q92611	EDEM1	PMID:24200403		GO:1904154	positive regulation of retrograde protein transport, ER to cytosol	IGI	UniProtKB:Q9BV94		PANTHER:PTHR45679	20150609		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q92611	EDEM1	PMID:24200403		GO:1904154	positive regulation of retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR45679	20150609		NCBITaxon:9606
+ParkinsonsUK-UCL	MGI:MGI:1915540	Edem2	PMID:24200403|MGI:MGI:5563002		GO:1904154	positive regulation of retrograde protein transport, ER to cytosol	IDA			PANTHER:PTHR45679	20150623	GO:0097466	NCBITaxon:10090
+ParkinsonsUK-UCL	MGI:MGI:2180139	Edem1	PMID:24200403|MGI:MGI:5563002		GO:1904154	positive regulation of retrograde protein transport, ER to cytosol	IDA			PANTHER:PTHR45679	20150609		NCBITaxon:10090
+ParkinsonsUK-UCL	MGI:MGI:1924117	Rhbdd1	PMID:22795130|MGI:MGI:5437551		GO:1904211	membrane protein proteolysis involved in retrograde protein transport, ER to cytosol	IDA			PANTHER:PTHR43066	20150514		NCBITaxon:10090
+ParkinsonsUK-UCL	UniProtKB:Q8TCT9	HM13	PMID:25239945		GO:1904211	membrane protein proteolysis involved in retrograde protein transport, ER to cytosol	IMP			PANTHER:PTHR12174	20150604	UniProtKB:P17861	NCBITaxon:9606

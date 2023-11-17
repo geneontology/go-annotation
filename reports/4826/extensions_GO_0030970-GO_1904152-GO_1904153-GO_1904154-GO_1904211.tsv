@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ParkinsonsUK-UCL	MGI:MGI:1924117	Rhbdd1	PMID:22795130|MGI:MGI:5437551		GO:0008233	peptidase activity	IDA			PANTHER:PTHR43066	20150514	GO:0030970	NCBITaxon:10090
+ParkinsonsUK-UCL	UniProtKB:Q5VVQ6	YOD1	PMID:24068323		GO:0035871	protein K11-linked deubiquitination	IMP			PANTHER:PTHR13312	20150528	GO:1904153	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q5VVQ6	YOD1	PMID:24068323		GO:0070536	protein K63-linked deubiquitination	IMP			PANTHER:PTHR13312	20150528	GO:1904153	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q5VVQ6	YOD1	PMID:24068323		GO:0071108	protein K48-linked deubiquitination	IMP			PANTHER:PTHR13312	20150528	GO:1904153	NCBITaxon:9606
