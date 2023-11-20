@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ParkinsonsUK-UCL	UniProtKB:P54252	ATXN3	PMID:17000876		GO:1904379	protein localization to cytosolic proteasome complex involved in ERAD pathway	IMP			PANTHER:PTHR14159	20150623		NCBITaxon:9606
