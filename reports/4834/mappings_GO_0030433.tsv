@@ -1,0 +1,10 @@
+term	file	line
+GO:0030433	interpro2go	InterPro:IPR017247 UBX domain-containing protein 8 > GO:ubiquitin-dependent ERAD pathway ; GO:0030433
+GO:0030433	interpro2go	InterPro:IPR040352 Transmembrane and ubiquitin-like domain-containing protein 1/2 > GO:ubiquitin-dependent ERAD pathway ; GO:0030433
+GO:0030433	interpro2go	InterPro:IPR044623 ERAD-associated E3 ubiquitin-protein ligase component HRD3 > GO:ubiquitin-dependent ERAD pathway ; GO:0030433
+GO:0030433	interpro2go	InterPro:IPR045132 Ubiquitin conjugation factor E4 > GO:ubiquitin-dependent ERAD pathway ; GO:0030433
+GO:0030433	interpro2go	InterPro:IPR045149 Protein OS-9-like > GO:ubiquitin-dependent ERAD pathway ; GO:0030433
+GO:0030433	interpro2go	InterPro:IPR048056 AUP1, CUE domain > GO:ubiquitin-dependent ERAD pathway ; GO:0030433
+GO:0030433	unirule2go	UniRule:UR000138768 > GO:ubiquitin-dependent ERAD pathway ; GO:0030433
+GO:0030433	unirule2go	UniRule:UR001426776 > GO:ubiquitin-dependent ERAD pathway ; GO:0030433
+GO:0030433	unirule2go	UniRule:UR001695774 > GO:ubiquitin-dependent ERAD pathway ; GO:0030433

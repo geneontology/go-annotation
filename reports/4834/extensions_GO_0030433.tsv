@@ -1,0 +1,8 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ParkinsonsUK-UCL	UniProtKB:Q86TM6	SYVN1	PMID:12459480		GO:0016567	protein ubiquitination	IDA			PANTHER:PTHR22763	20150409	GO:0030433|GO:0034976	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q86TM6	SYVN1	PMID:14593114		GO:0061630	ubiquitin protein ligase activity	IDA			PANTHER:PTHR22763	20180312	GO:0030433	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9UNE7	STUB1	PMID:23990462		GO:0061630	ubiquitin protein ligase activity	IMP			PANTHER:PTHR46803	20180312	GO:0030433	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q96GF1	RNF185	PMID:24019521		GO:0061630	ubiquitin protein ligase activity	IDA			PANTHER:PTHR12313	20180312	GO:0030433	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:A0AVI4	TMEM129	PMID:24807418		GO:0061630	ubiquitin protein ligase activity	IDA			PANTHER:PTHR31322	20180312	GO:0030433	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q14258	TRIM25	PMID:24810856		GO:0061630	ubiquitin protein ligase activity	IMP			PANTHER:PTHR25465	20180312	UniProtKB:P06744|GO:0030433	NCBITaxon:9606
+SGD	SGD:S000006017	PNG1	PMID:25497214		GO:0006517	protein deglycosylation	IMP		UniProtKB:Q02890		20150130	GO:0030433	NCBITaxon:559292
