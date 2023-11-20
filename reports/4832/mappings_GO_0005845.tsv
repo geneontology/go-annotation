@@ -1,0 +1,5 @@
+term	file	line
+GO:0005845	interpro2go	InterPro:IPR028271 RNA guanine-N7 methyltransferase activating subunit > GO:mRNA cap binding complex ; GO:0005845
+GO:0005845	interpro2go	InterPro:IPR031456 Cap-associated protein Caf20 > GO:mRNA cap binding complex ; GO:0005845
+GO:0005845	unirule2go	UniRule:UR000107560 > GO:mRNA cap binding complex ; GO:0005845
+GO:0005845	hamap2go	HAMAP:MF_03031 > GO:mRNA cap binding complex ; GO:0005845
