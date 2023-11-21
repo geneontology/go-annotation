@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:99555	Pde4d	PMID:19218243		GO:0071320	cellular response to cAMP	IDA			PANTHER:PTHR11347	20210324	GO:0086008	NCBITaxon:10090
