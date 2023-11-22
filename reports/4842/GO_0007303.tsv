@@ -1,0 +1,12 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	FB:FBgn0015754	Lis-1	PMID:10559989|FB:FBrf0112050		GO:0007303	cytoplasmic transport, nurse cell to oocyte	IMP			PANTHER:PTHR44129	20110210		NCBITaxon:7227
+FlyBase	FB:FBgn0020278	loco	PMID:11731228|FB:FBrf0141636		GO:0007303	cytoplasmic transport, nurse cell to oocyte	IMP			PANTHER:PTHR45945	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0261836	Msp300	PMID:16337624|FB:FBrf0190186		GO:0007303	cytoplasmic transport, nurse cell to oocyte	IMP			PANTHER:PTHR47535	20070523		NCBITaxon:7227
+FlyBase	FB:FBgn0035632	Ppat-Dpck	PMID:18759961|FB:FBrf0207260		GO:0007303	cytoplasmic transport, nurse cell to oocyte	IMP			PANTHER:PTHR10695	20090820		NCBITaxon:7227
+FlyBase	FB:FBgn0261285	Ppcs	PMID:18759961|FB:FBrf0207260		GO:0007303	cytoplasmic transport, nurse cell to oocyte	IMP			PANTHER:PTHR12290	20090820		NCBITaxon:7227
+FlyBase	FB:FBgn0011570	cpb	PMID:19576200|FB:FBrf0208541		GO:0007303	cytoplasmic transport, nurse cell to oocyte	IMP			PANTHER:PTHR10619	20090917		NCBITaxon:7227
+FlyBase	FB:FBgn0000578	ena	PMID:19576200|FB:FBrf0208541		GO:0007303	cytoplasmic transport, nurse cell to oocyte	IMP			PANTHER:PTHR11202	20090917		NCBITaxon:7227
+FlyBase	FB:FBgn0000017	Abl	PMID:19576200|FB:FBrf0208541		GO:0007303	cytoplasmic transport, nurse cell to oocyte	IMP			PANTHER:PTHR24418	20090917		NCBITaxon:7227
+UniProt	FB:FBgn0014141	cher	PMID:10477759|FB:FBrf0111412		GO:0007303	cytoplasmic transport, nurse cell to oocyte	IMP			PANTHER:PTHR38537	20121123		NCBITaxon:7227
+UniProt	FB:FBgn0011640	lark	PMID:15452872|FB:FBrf0180713		GO:0007303	cytoplasmic transport, nurse cell to oocyte	IMP			PANTHER:PTHR23147	20050516		NCBITaxon:7227
+UniProt	FB:FBgn0021761	Nup154	PMID:17410542|FB:FBrf0201922		GO:0007303	cytoplasmic transport, nurse cell to oocyte	IMP			PANTHER:PTHR10350	20170718		NCBITaxon:7227
