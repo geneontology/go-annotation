@@ -1,0 +1,5 @@
+term	file	line
+GO:0080111	interpro2go	InterPro:IPR040175 Methylcytosine dioxygenase TET1/2/3 > GO:DNA demethylation ; GO:0080111
+GO:0080111	interpro2go	InterPro:IPR044811 DNA glycosylase, plant > GO:DNA demethylation ; GO:0080111
+GO:0080111	unirule2go	UniRule:UR001350777 > GO:DNA demethylation ; GO:0080111
+GO:1901537	interpro2go	InterPro:IPR039345 Protein STPG4 > GO:positive regulation of DNA demethylation ; GO:1901537
