@@ -1,0 +1,8 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoliWiki	UniProtKB:P77335	hlyE	PMID:10858262		GO:0044532	modulation of apoptotic process in another organism	IDA				20130910		NCBITaxon:83333
+UniProt	UniProtKB:P83573	P83573	PMID:12963119		GO:0044533	positive regulation of apoptotic process in another organism	IDA				20141023		NCBITaxon:82095
+UniProt	UniProtKB:P83572	P83572	PMID:12963119		GO:0044533	positive regulation of apoptotic process in another organism	IDA				20141023		NCBITaxon:82095
+UniProt	UniProtKB:Q9M6E9	AAG	PMID:16772301		GO:0044533	positive regulation of apoptotic process in another organism	IDA				20141023		NCBITaxon:3816
+UniProt	UniProtKB:Q6TGQ8	Q6TGQ8	PMID:17320169		GO:0044532	modulation of apoptotic process in another organism	IDA				20120612		NCBITaxon:98334
+UniProt	UniProtKB:P0CC17	P0CC17	PMID:18804547		GO:0044532	modulation of apoptotic process in another organism	IDA				20120612		NCBITaxon:8725
+UniProt	UniProtKB:P13423	pagA	PMID:23626836		GO:0044533	positive regulation of apoptotic process in another organism	IGI	UniProtKB:P15917			20150810	CL:2000016	NCBITaxon:1392
