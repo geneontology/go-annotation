@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:1916356	Stoml1	PMID:24247984		GO:1901586	negative regulation of acid-sensing ion channel activity	IDA			PANTHER:PTHR10264	20150401	CL:1001451|GO:0044736	NCBITaxon:10090
