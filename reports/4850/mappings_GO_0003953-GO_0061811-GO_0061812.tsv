@@ -1,0 +1,6 @@
+term	file	line
+GO:0003953	interpro2go	InterPro:IPR003193 ADP-ribosyl cyclase (CD38/157) > GO:NAD+ nucleosidase activity ; GO:0003953
+GO:0003953	interpro2go	InterPro:IPR039184 Sterile alpha and TIR motif-containing protein 1 > GO:NAD+ nucleosidase activity ; GO:0003953
+GO:0003953	reactome2go	Reactome:R-HSA-8870346 > GO:NAD+ nucleosidase activity ; GO:0003953
+GO:0003953	reactome2go	Reactome:R-HSA-8938076 > GO:NAD+ nucleosidase activity ; GO:0003953
+GO:0003953	rhea2go	RHEA:16301 > GO:NAD+ nucleosidase activity ; GO:0003953
