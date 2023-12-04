@@ -1,0 +1,9 @@
+term	file	line
+GO:0019932	unirule2go	UniRule:UR000077067 > GO:second-messenger-mediated signaling ; GO:0019932
+GO:0019932	unirule2go	UniRule:UR000333096 > GO:second-messenger-mediated signaling ; GO:0019932
+GO:0019932	unirule2go	UniRule:UR000372152 > GO:second-messenger-mediated signaling ; GO:0019932
+GO:0019932	unirule2go	UniRule:UR000374862 > GO:second-messenger-mediated signaling ; GO:0019932
+GO:0019932	hamap2go	HAMAP:MF_00838 > GO:second-messenger-mediated signaling ; GO:0019932
+GO:0019932	hamap2go	HAMAP:MF_00840 > GO:second-messenger-mediated signaling ; GO:0019932
+GO:0019932	hamap2go	HAMAP:MF_01438 > GO:second-messenger-mediated signaling ; GO:0019932
+GO:0019932	hamap2go	HAMAP:MF_01499 > GO:second-messenger-mediated signaling ; GO:0019932
