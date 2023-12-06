@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+GeneDB	TriTrypDB:LmjF.15.0520	ISP3	PMID:19016791		GO:0042784	evasion of host immune response via modulation of host complement system	IMP				20110418		NCBITaxon:347515
+GeneDB	TriTrypDB:LmjF.15.0510	ISP2	PMID:21098233		GO:0042784	evasion of host immune response via modulation of host complement system	IMP				20110418		NCBITaxon:347515
+UniProt	UniProtKB:P28296	alp1	PMID:20303595		GO:0042784	evasion of host immune response via modulation of host complement system	IDA			PANTHER:PTHR43806	20110224		NCBITaxon:330879
+UniProt	UniProtKB:P28296	alp1	PMID:20498262		GO:0042784	evasion of host immune response via modulation of host complement system	IMP			PANTHER:PTHR43806	20110224		NCBITaxon:330879
+UniProt	UniProtKB:P28296	alp1	PMID:20498262		GO:0042784	evasion of host immune response via modulation of host complement system	IMP			PANTHER:PTHR43806	20220510		NCBITaxon:330879
+UniProt	UniProtKB:P83003	CRT	PMID:24860808		GO:0042784	evasion of host immune response via modulation of host complement system	IDA				20221101		NCBITaxon:294381
