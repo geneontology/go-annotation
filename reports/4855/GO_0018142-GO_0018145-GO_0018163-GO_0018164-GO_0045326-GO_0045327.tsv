@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:105113	Gcna	PMID:31839538		GO:0018142	protein-DNA covalent cross-linking	IMP	MGI:5910931			20220503		NCBITaxon:10090
+UniProt	UniProtKB:Q96FZ2	HMCES	PMID:30554877		GO:0018142	protein-DNA covalent cross-linking	IDA			PANTHER:PTHR13604	20200204		NCBITaxon:9606
+UniProt	UniProtKB:P76318	yedK	PMID:30554877		GO:0018142	protein-DNA covalent cross-linking	IDA			PANTHER:PTHR13604	20200204		NCBITaxon:83333
+UniProt	UniProtKB:Q96FZ2	HMCES	PMID:31235913		GO:0018142	protein-DNA covalent cross-linking	IDA			PANTHER:PTHR13604	20200204		NCBITaxon:9606
+UniProt	UniProtKB:P76318	yedK	PMID:31235915		GO:0018142	protein-DNA covalent cross-linking	IDA			PANTHER:PTHR13604	20200204		NCBITaxon:83333
+UniProt	UniProtKB:P76318	yedK	PMID:31504793		GO:0018142	protein-DNA covalent cross-linking	IDA			PANTHER:PTHR13604	20200204		NCBITaxon:83333

@@ -1,0 +1,8 @@
+term	file	line
+GO:0018142	interpro2go	InterPro:IPR003365 Viral replication-associated protein, N-terminal > GO:protein-DNA covalent cross-linking ; GO:0018142
+GO:0018142	interpro2go	InterPro:IPR003738 SOS response associated peptidase (SRAP) > GO:protein-DNA covalent cross-linking ; GO:0018142
+GO:0018142	interpro2go	InterPro:IPR008770 DNA terminal protein Gp3 > GO:protein-DNA covalent cross-linking ; GO:0018142
+GO:0018145	resid2go	RESID:AA0246 > GO:protein-DNA covalent cross-linking via peptidyl-serine ; GO:0018145
+GO:0018163	resid2go	RESID:AA0254 > GO:protein-DNA covalent cross-linking via the 5'-end to peptidyl-tyrosine ; GO:0018163
+GO:0018164	resid2go	RESID:AA0255 > GO:protein-DNA covalent cross-linking via peptidyl-threonine ; GO:0018164
+GO:0045326	resid2go	RESID:AA0323 > GO:protein-DNA covalent cross-linking via the 3'-end to peptidyl-tyrosine ; GO:0045326
