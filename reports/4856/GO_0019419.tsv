@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ComplexPortal	UniProtKB:P23845	cysN	PMID:2828368		GO:0019419	sulfate reduction	IDA			PANTHER:PTHR23115	20200514		NCBITaxon:83333
+ComplexPortal	UniProtKB:P21156	cysD	PMID:2828368		GO:0019419	sulfate reduction	IDA			PANTHER:PTHR43196	20200514		NCBITaxon:83333
+TAIR	AGI_LocusCode:AT4G04610	APR1	PMID:8917600|TAIR:Publication:3597		GO:0019419	sulfate reduction	IDA		TAIR:locus:2125786		20090109		NCBITaxon:3702
