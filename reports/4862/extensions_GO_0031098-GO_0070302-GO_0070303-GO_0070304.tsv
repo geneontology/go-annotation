@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:1353655	Usp25	PMID:23042150		GO:0097400	interleukin-17-mediated signaling pathway	IMP	MGI:MGI:4332130		PANTHER:PTHR24006	20210217	GO:0001816|GO:0006955|GO:0007252|GO:0016071|GO:0031098|GO:0032602	NCBITaxon:10090
+MGI	MGI:MGI:1353655	Usp25	PMID:23042150		GO:0097400	interleukin-17-mediated signaling pathway	IDA			PANTHER:PTHR24006	20210217	GO:0001816|GO:0006955|GO:0007252|GO:0016071|GO:0031098|GO:0032602	NCBITaxon:10090
+UniProt	UniProtKB:P46734	MAP2K3	PMID:8622669		GO:0004708	MAP kinase kinase activity	IDA			PANTHER:PTHR48013	20220811	GO:0031098|GO:0005737|UniProtKB:Q15759|UniProtKB:Q16539|GO:0004674	NCBITaxon:9606
+PomBase	PomBase:SPAC19D5.01	pyp2	PMID:7657164		GO:0033550	MAP kinase tyrosine phosphatase activity	IDA			PANTHER:PTHR19134	20150513	PomBase:SPAC24B11.06c|GO:0070303	NCBITaxon:4896
