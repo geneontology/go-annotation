@@ -1,0 +1,32 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CAFA	UniProtKB:O95251	KAT7	PMID:21856198		GO:0031098	stress-activated protein kinase signaling cascade	IDA			PANTHER:PTHR10615	20160728	GO:0003688	NCBITaxon:9606
+CGD	CGD:CAL0000183747	MKC1	PMID:15800048|CGD_REF:CAL0104040		GO:0031098	stress-activated protein kinase signaling cascade	IEP			PANTHER:PTHR24055	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000184846	PBS2	PMID:15817773|CGD_REF:CAL0104043		GO:0031098	stress-activated protein kinase signaling cascade	IMP			PANTHER:PTHR48013	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000187689	SSK2	PMID:17804815|CGD_REF:CAL0118617		GO:0031098	stress-activated protein kinase signaling cascade	IMP			PANTHER:PTHR48015	20140625		NCBITaxon:237561
+FlyBase	FB:FBgn0029944	Dok	PMID:16339186|FB:FBrf0190273		GO:0031098	stress-activated protein kinase signaling cascade	IMP			PANTHER:PTHR21258	20060803		NCBITaxon:7227
+MGI	MGI:MGI:3607786	Gfral	PMID:16086688		GO:0031098	stress-activated protein kinase signaling cascade	IDA			PANTHER:PTHR10269	20060728		NCBITaxon:10090
+MGI	MGI:MGI:1353655	Usp25	PMID:23042150		GO:0031098	stress-activated protein kinase signaling cascade	IMP	MGI:MGI:4332130		PANTHER:PTHR24006	20210217		NCBITaxon:10090
+RGD	RGD:2092	Akr1b1	PMID:16669970|RGD:1626090		GO:0031098	stress-activated protein kinase signaling cascade	IMP			PANTHER:PTHR11732	20070709		NCBITaxon:10116
+RGD	RGD:619921	Rhoa	PMID:17369826|RGD:1642964		GO:0031098	stress-activated protein kinase signaling cascade	IMP			PANTHER:PTHR24072	20071116		NCBITaxon:10116
+UniProt	UniProtKB:Q9NYL2	MAP3K20	PMID:15737997		GO:0031098	stress-activated protein kinase signaling cascade	IDA			PANTHER:PTHR43289	20220811		NCBITaxon:9606
+UniProt	UniProtKB:Q9NYL2	MAP3K20	PMID:18331592		GO:0031098	stress-activated protein kinase signaling cascade	IDA			PANTHER:PTHR43289	20220810		NCBITaxon:9606
+UniProt	UniProtKB:Q9NYL2	MAP3K20	PMID:20559024		GO:0031098	stress-activated protein kinase signaling cascade	IDA			PANTHER:PTHR43289	20220811		NCBITaxon:9606
+UniProt	UniProtKB:Q9BUL8	PDCD10	PMID:22291017		GO:0031098	stress-activated protein kinase signaling cascade	IMP			PANTHER:PTHR13250	20230223		NCBITaxon:9606
+UniProt	UniProtKB:Q9P289	STK26	PMID:22291017		GO:0031098	stress-activated protein kinase signaling cascade	IMP			PANTHER:PTHR48012	20230223		NCBITaxon:9606
+UniProt	UniProtKB:Q9P219	CCDC88C	PMID:25062847		GO:0031098	stress-activated protein kinase signaling cascade	IMP			PANTHER:PTHR18947	20141124		NCBITaxon:9606
+UniProt	UniProtKB:A0A0K3AYG7	A0A0K3AYG7	PMID:27268428		GO:0031098	stress-activated protein kinase signaling cascade	IDA				20180119		NCBITaxon:703222
+UniProt	MGI:MGI:2443258	Map3k20	PMID:27598200|MGI:MGI:5901799		GO:0031098	stress-activated protein kinase signaling cascade	IMP			PANTHER:PTHR44329	20220810		NCBITaxon:10090
+UniProt	UniProtKB:Q9C000	NLRP1	PMID:30096351		GO:0031098	stress-activated protein kinase signaling cascade	IMP			PANTHER:PTHR46985	20220810		NCBITaxon:9606
+UniProt	UniProtKB:Q9NYL2	MAP3K20	PMID:32610081		GO:0031098	stress-activated protein kinase signaling cascade	IDA			PANTHER:PTHR43289	20220810		NCBITaxon:9606
+UniProt	UniProtKB:Q16539	MAPK14	PMID:35857590		GO:0031098	stress-activated protein kinase signaling cascade	IDA			PANTHER:PTHR24055	20220811	GO:0071493	NCBITaxon:9606
+UniProt	UniProtKB:Q15759	MAPK11	PMID:35857590		GO:0031098	stress-activated protein kinase signaling cascade	IDA			PANTHER:PTHR24055	20220811	GO:0071493	NCBITaxon:9606
+UniProt	UniProtKB:Q9NYL2	MAP3K20	PMID:35857590		GO:0031098	stress-activated protein kinase signaling cascade	IDA			PANTHER:PTHR43289	20220810		NCBITaxon:9606
+UniProt	UniProtKB:P52564	MAP2K6	PMID:35857590		GO:0031098	stress-activated protein kinase signaling cascade	IDA			PANTHER:PTHR48013	20220811		NCBITaxon:9606
+UniProt	UniProtKB:P46734	MAP2K3	PMID:8622669		GO:0031098	stress-activated protein kinase signaling cascade	IDA			PANTHER:PTHR48013	20220811		NCBITaxon:9606
+dictyBase	dictyBase:DDB_G0279629	lkb1	PMID:22020250		GO:0031098	stress-activated protein kinase signaling cascade	IMP			PANTHER:PTHR24343	20220217		NCBITaxon:44689
+MGI	MGI:MGI:1890508	Zmpste24	PMID:16079796		GO:0070302	regulation of stress-activated protein kinase signaling cascade	IMP	MGI:MGI:2180033		PANTHER:PTHR10120	20180823		NCBITaxon:10090
+FlyBase	FB:FBgn0243512	puc	PMID:12431377|FB:FBrf0151904		GO:0070303	negative regulation of stress-activated protein kinase signaling cascade	IMP			PANTHER:PTHR10159	20200128		NCBITaxon:7227
+FlyBase	FB:FBgn0086361	alph	PMID:19064708|FB:FBrf0206846		GO:0070303	negative regulation of stress-activated protein kinase signaling cascade	IGI	FB:FBgn0010333		PANTHER:PTHR47992	20130919		NCBITaxon:7227
+FlyBase	FB:FBgn0086361	alph	PMID:19064708|FB:FBrf0206846		GO:0070303	negative regulation of stress-activated protein kinase signaling cascade	IMP			PANTHER:PTHR47992	20130919		NCBITaxon:7227
+UniProt	UniProtKB:P07948	LYN	PMID:10891478		GO:0070304	positive regulation of stress-activated protein kinase signaling cascade	IDA			PANTHER:PTHR24418	20090904		NCBITaxon:9606
+UniProt	UniProtKB:O43567	RNF13	PMID:23378536		GO:0070304	positive regulation of stress-activated protein kinase signaling cascade	IMP			PANTHER:PTHR22765	20190725		NCBITaxon:9606

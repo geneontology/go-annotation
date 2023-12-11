@@ -1,0 +1,30 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AgBase	UniProtKB:Q9SLX1	ZmHP2	PMID:10608665		GO:0009927	histidine phosphotransfer kinase activity	IDA			PANTHER:PTHR28242	20090803		NCBITaxon:4577
+AgBase	UniProtKB:Q9SLX1	ZmHP2	PMID:12856940		GO:0009927	histidine phosphotransfer kinase activity	IDA			PANTHER:PTHR28242	20090803		NCBITaxon:4577
+AgBase	UniProtKB:Q9ST01	ZmHP1	PMID:12856940		GO:0009927	histidine phosphotransfer kinase activity	IDA				20090803		NCBITaxon:4577
+AspGD	UniProtKB:Q5BBS5	ypdA	PMID:17928704		GO:0009927	histidine phosphotransfer kinase activity	IDA			PANTHER:PTHR28242	20100128		NCBITaxon:227321
+CACAO	UniProtKB:B9UP04	rscS	PMID:18441062		GO:0009927	histidine phosphotransfer kinase activity	IMP				20130922		NCBITaxon:668
+EcoCyc	UniProtKB:P39838	rcsD	PMID:11309126		GO:0009927	histidine phosphotransfer kinase activity	IDA			PANTHER:PTHR43047	20191103		NCBITaxon:83333
+EcoliWiki	UniProtKB:P0AEC5	barA	PMID:11022030		GO:0009927	histidine phosphotransfer kinase activity	IDA			PANTHER:PTHR43719	20080807		NCBITaxon:83333
+PomBase	PomBase:SPBC725.02	mpr1	PMID:10749922		GO:0009927	histidine phosphotransfer kinase activity	IMP			PANTHER:PTHR28242	20170803	PomBase:SPBC887.10|GO:1900745|GO:0034599	NCBITaxon:4896
+PomBase	PomBase:SPBC725.02	mpr1	PMID:10940030		GO:0009927	histidine phosphotransfer kinase activity	IDA			PANTHER:PTHR28242	20150413	PomBase:SPBC887.10	NCBITaxon:4896
+PomBase	PomBase:SPBC725.02	mpr1	PMID:17559414		GO:0009927	histidine phosphotransfer kinase activity	IDA			PANTHER:PTHR28242	20121105	PomBase:SPBC887.10|GO:0034599	NCBITaxon:4896
+PseudoCAP	PseudoCAP:PA3345	hptB	PMID:16182517		GO:0009927	histidine phosphotransfer kinase activity	IDA				20190311		NCBITaxon:208964
+SGD	SGD:S000001409	SLN1	PMID:12455952		GO:0009927	histidine phosphotransfer kinase activity	IDA		UniProtKB:P39928	PANTHER:PTHR43047	20110112		NCBITaxon:559292
+SGD	SGD:S000001409	SLN1	PMID:12455952		GO:0009927	histidine phosphotransfer kinase activity	IMP		UniProtKB:P39928	PANTHER:PTHR43047	20110112		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT5G39340	AT5G39340	PMID:10050311|TAIR:Publication:1764		GO:0009927	histidine phosphotransfer kinase activity	IDA		TAIR:locus:2175643		20081113		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G29350	AHP2	PMID:10050311|TAIR:Publication:1764		GO:0009927	histidine phosphotransfer kinase activity	IDA		TAIR:locus:2093817		20081113		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G16360	AHP4	PMID:10050311|TAIR:Publication:1764		GO:0009927	histidine phosphotransfer kinase activity	IDA		TAIR:locus:2094972		20081113		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G21510	AHP1	PMID:10050311|TAIR:Publication:1764		GO:0009927	histidine phosphotransfer kinase activity	IDA		TAIR:locus:2089900		20031029		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G21510	AHP1	PMID:10050311|TAIR:Publication:1764		GO:0009927	histidine phosphotransfer kinase activity	IDA		TAIR:locus:2089900		20081113		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G03430	AHP5	PMID:10050311|TAIR:Publication:1764		GO:0009927	histidine phosphotransfer kinase activity	IDA		TAIR:locus:2020868		20081113		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G17820	HK1	PMID:10488240|TAIR:Publication:1172		GO:0009927	histidine phosphotransfer kinase activity	IMP		TAIR:locus:2827836		20061002		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G39340	AT5G39340	PMID:10608665|TAIR:Publication:886		GO:0009927	histidine phosphotransfer kinase activity	IDA		TAIR:locus:2175643		20031029		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G06483	PDK	PMID:10861228|TAIR:Publication:301		GO:0009927	histidine phosphotransfer kinase activity	IDA		TAIR:locus:2081031		20031114		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G80100	AT1G80100	PMID:16400151|TAIR:Publication:501718438	not	GO:0009927	histidine phosphotransfer kinase activity	IDA		TAIR:locus:2016339		20060217		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G39340	AT5G39340	PMID:9804162|TAIR:Publication:2065		GO:0009927	histidine phosphotransfer kinase activity	IDA		TAIR:locus:2175643		20081113		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G29350	AHP2	PMID:9804162|TAIR:Publication:2065		GO:0009927	histidine phosphotransfer kinase activity	IDA		TAIR:locus:2093817		20081113		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G16360	AHP4	PMID:9804162|TAIR:Publication:2065		GO:0009927	histidine phosphotransfer kinase activity	IDA		TAIR:locus:2094972		20081113		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G21510	AHP1	PMID:9804162|TAIR:Publication:2065		GO:0009927	histidine phosphotransfer kinase activity	IDA		TAIR:locus:2089900		20081113		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G03430	AHP5	PMID:9804162|TAIR:Publication:2065		GO:0009927	histidine phosphotransfer kinase activity	IDA		TAIR:locus:2020868		20081113		NCBITaxon:3702
+dictyBase	dictyBase:DDB_G0282923	rdeA	PMID:10488068		GO:0009927	histidine phosphotransfer kinase activity	IDA			PANTHER:PTHR28242	20220623	DDB:DDB_G0284331	NCBITaxon:44689

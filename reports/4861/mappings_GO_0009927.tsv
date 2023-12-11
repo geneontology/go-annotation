@@ -1,0 +1,4 @@
+term	file	line
+GO:0009927	unirule2go	UniRule:UR001627756 > GO:histidine phosphotransfer kinase activity ; GO:0009927
+GO:0009927	interpro2go	InterPro:IPR030861 Phosphotransferase RcsD > GO:histidine phosphotransfer kinase activity ; GO:0009927
+GO:0009927	interpro2go	InterPro:IPR045871 Histidine-containing phosphotransfer protein 1-5/Phosphorelay intermediate protein YPD1 > GO:histidine phosphotransfer kinase activity ; GO:0009927

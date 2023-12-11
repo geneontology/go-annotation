@@ -1,0 +1,168 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	UniProtKB:P07363	cheA	PMID:16176121		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR43395	20190414		NCBITaxon:83333
+CACAO	UniProtKB:P0AE82	cpxA	PMID:16176121		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR45528	20190414		NCBITaxon:83333
+CACAO	UniProtKB:Q9AAR6	cenK	PMID:16176121		GO:0000155	phosphorelay sensor kinase activity	IDA				20190129		NCBITaxon:190650
+CACAO	UniProtKB:Q03228	divJ	PMID:16176121		GO:0000155	phosphorelay sensor kinase activity	IDA				20190129		NCBITaxon:190650
+CACAO	UniProtKB:Q9A913	CC_1181	PMID:16176121		GO:0000155	phosphorelay sensor kinase activity	IDA				20190129		NCBITaxon:190650
+CACAO	UniProtKB:P37894	pleC	PMID:16176121		GO:0000155	phosphorelay sensor kinase activity	IDA				20190129		NCBITaxon:190650
+CACAO	UniProtKB:Q06904	sasA	PMID:16882723		GO:0000155	phosphorelay sensor kinase activity	IMP				20110923		NCBITaxon:1140
+EcoCyc	UniProtKB:P23837	phoQ	PMID:10464230		GO:0000155	phosphorelay sensor kinase activity	IMP			PANTHER:PTHR45436	20101024		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AEC5	barA	PMID:11022030		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR43719	20190407		NCBITaxon:83333
+EcoCyc	UniProtKB:P09835	uhpB	PMID:11739766		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR24421	20101129		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AEC8	dcuS	PMID:12167640		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR43547	20190529		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AEC3	arcB	PMID:1512197		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR43719	20190403		NCBITaxon:83333
+EcoCyc	UniProtKB:Q06067	atoS	PMID:18534200		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR43065	20190404		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AEC5	barA	PMID:20118252		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR43719	20190407		NCBITaxon:83333
+EcoCyc	UniProtKB:P08401	creC	PMID:2228961		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR44936	20190528		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AA93	ypdA	PMID:23222720		GO:0000155	phosphorelay sensor kinase activity	IMP			PANTHER:PTHR34220	20130110		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AEJ4	envZ	PMID:2558046		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR44936	20190605		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AEJ4	envZ	PMID:2668953		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR44936	20190605		NCBITaxon:83333
+EcoCyc	UniProtKB:P08400	phoR	PMID:2693738		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR45453	20100622		NCBITaxon:83333
+EcoCyc	UniProtKB:P52101	glrK	PMID:32065419		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR42878	20200415		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AE82	cpxA	PMID:7883164		GO:0000155	phosphorelay sensor kinase activity	IMP			PANTHER:PTHR45528	20100624		NCBITaxon:83333
+EcoCyc	UniProtKB:P21865	kdpD	PMID:8276778		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR45569	20191113		NCBITaxon:83333
+EcoCyc	UniProtKB:P30847	baeS	PMID:8282725		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR43711	20190404		NCBITaxon:83333
+EcoCyc	UniProtKB:P30844	basS	PMID:8282725		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR45436	20190409		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AFA2	narX	PMID:8473280		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR24421	20101018		NCBITaxon:83333
+EcoCyc	UniProtKB:P27896	narQ	PMID:8501030		GO:0000155	phosphorelay sensor kinase activity	IMP			PANTHER:PTHR24421	20101019		NCBITaxon:83333
+EcoCyc	UniProtKB:P39453	torS	PMID:8809780		GO:0000155	phosphorelay sensor kinase activity	IMP			PANTHER:PTHR43719	20101128		NCBITaxon:83333
+EcoCyc	UniProtKB:P21865	kdpD	PMID:9099740		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR45569	20191113		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AE82	cpxA	PMID:9401031		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR45528	20190522		NCBITaxon:83333
+EcoCyc	UniProtKB:P30855	evgS	PMID:9535079		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR43719	20191107		NCBITaxon:83333
+EcoliWiki	UniProtKB:P77485	cusS	PMID:15522865		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR45436	20110524		NCBITaxon:83333
+GO_Central	UniProtKB:Q2FWM5	SAOUHSC_02264	PMID:19708918		GO:0000155	phosphorelay sensor kinase activity	IMP			PANTHER:PTHR40448	20151130		NCBITaxon:93061
+MTBBASE	UniProtKB:P9WGL5	pdtaS	PMID:16026786		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR43065	20100630		NCBITaxon:83332
+MTBBASE	UniProtKB:O07777	Rv0601c	PMID:19246748		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR45436	20110606		NCBITaxon:83332
+PomBase	PomBase:SPCC74.06	mak3	PMID:11758939		GO:0000155	phosphorelay sensor kinase activity	IGI	PomBase:SPBC725.02		PANTHER:PTHR43065	20201113	PomBase:SPBC725.02|GO:1900745	NCBITaxon:4896
+PomBase	PomBase:SPAC27E2.09	mak2	PMID:17559414		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR43719	20121105	PomBase:SPBC725.02|GO:0034599	NCBITaxon:4896
+PomBase	PomBase:SPCC74.06	mak3	PMID:20919928		GO:0000155	phosphorelay sensor kinase activity	EXP			PANTHER:PTHR43065	20201116	GO:0032874	NCBITaxon:4896
+PomBase	PomBase:SPAC27E2.09	mak2	PMID:20919928		GO:0000155	phosphorelay sensor kinase activity	EXP			PANTHER:PTHR43719	20201116	GO:1900745	NCBITaxon:4896
+PseudoCAP	PseudoCAP:PA4293	pprA	PMID:12499175		GO:0000155	phosphorelay sensor kinase activity	IDA				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA1611	PA1611	PMID:16182517		GO:0000155	phosphorelay sensor kinase activity	IDA				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA1798	parS	PMID:20547815		GO:0000155	phosphorelay sensor kinase activity	IMP				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA3271	PA3271	PMID:22168309		GO:0000155	phosphorelay sensor kinase activity	IDA				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA5484	kinB	PMID:9218420		GO:0000155	phosphorelay sensor kinase activity	IDA				20190311		NCBITaxon:208964
+UniProt	UniProtKB:Q9P4U6	tcsB	PMID:12406718		GO:0000155	phosphorelay sensor kinase activity	IGI	UniProtKB:P39928		PANTHER:PTHR43719	20050311		NCBITaxon:227321
+UniProt	UniProtKB:A7HD43	gchK	PMID:21852234		GO:0000155	phosphorelay sensor kinase activity	IDA				20120116		NCBITaxon:404589
+UniProt	UniProtKB:A1A699	HK6	PMID:22642989		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR43719	20160304		NCBITaxon:39947
+UniProt	UniProtKB:A1A698	HK4	PMID:22642989		GO:0000155	phosphorelay sensor kinase activity	IDA			PANTHER:PTHR43719	20160304		NCBITaxon:39947
+dictyBase	dictyBase:DDB_G0280961	dhkA	PMID:10373524		GO:0000155	phosphorelay sensor kinase activity	IMP			PANTHER:PTHR43719	20151028		NCBITaxon:44689
+AgBase	UniProtKB:Q9ZQW0	ZmRR1	PMID:10608665		GO:0000156	phosphorelay response regulator activity	IDA				20090803		NCBITaxon:4577
+AgBase	UniProtKB:Q9S7U8	ZmRR2	PMID:10608665		GO:0000156	phosphorelay response regulator activity	IDA				20090803		NCBITaxon:4577
+AgBase	UniProtKB:Q9FRZ1	ZmRR4	PMID:12856940		GO:0000156	phosphorelay response regulator activity	IDA				20090803		NCBITaxon:4577
+AgBase	UniProtKB:Q9AV93	ZmRR8	PMID:12856940		GO:0000156	phosphorelay response regulator activity	IDA				20090803		NCBITaxon:4577
+AgBase	UniProtKB:Q94LW1	ZmRR9	PMID:12856940		GO:0000156	phosphorelay response regulator activity	IDA				20090803		NCBITaxon:4577
+AgBase	UniProtKB:Q9ZQW0	ZmRR1	PMID:12856940		GO:0000156	phosphorelay response regulator activity	IDA				20090803		NCBITaxon:4577
+AspGD	UniProtKB:Q9P4U6	tcsB	PMID:12406718		GO:0000156	phosphorelay response regulator activity	IGI	SGD:S000001409		PANTHER:PTHR43719	20090831		NCBITaxon:227321
+CACAO	UniProtKB:D5AQX9	regA2	PMID:10347192		GO:0000156	phosphorelay response regulator activity	IDA				20110925		NCBITaxon:272942
+CACAO	UniProtKB:P42508	regA	PMID:10781552		GO:0000156	phosphorelay response regulator activity	IMP				20111120		NCBITaxon:1061
+CACAO	UniProtKB:P0AE88	cpxR	PMID:16176121		GO:0000156	phosphorelay response regulator activity	IDA			PANTHER:PTHR48111	20190414		NCBITaxon:83333
+CACAO	UniProtKB:P0AE67	cheY	PMID:16176121		GO:0000156	phosphorelay response regulator activity	IDA			PANTHER:PTHR43228	20190414		NCBITaxon:83333
+CACAO	UniProtKB:Q7BU54	frzZ	PMID:17581122		GO:0000156	phosphorelay response regulator activity	IMP				20130327		NCBITaxon:34
+CACAO	UniProtKB:P15795	toxR	PMID:21542860		GO:0000156	phosphorelay response regulator activity	IDA				20120327		NCBITaxon:243277
+CGD	CGD:CAL0000190567	SSK1	PMID:14555484|CGD_REF:CAL0080739		GO:0000156	phosphorelay response regulator activity	IMP			PANTHER:PTHR42878	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000201009	SRR1	PMID:23584995|CGD_REF:CAL0000158942		GO:0000156	phosphorelay response regulator activity	IMP			PANTHER:PTHR44591	20140625		NCBITaxon:237561
+EcoCyc	UniProtKB:P0AED5	uvrY	PMID:11022030		GO:0000156	phosphorelay response regulator activity	IDA			PANTHER:PTHR43214	20120717		NCBITaxon:83333
+EcoCyc	UniProtKB:P0A9Q1	arcA	PMID:1512197		GO:0000156	phosphorelay response regulator activity	IDA			PANTHER:PTHR48111	20090916		NCBITaxon:83333
+EcoCyc	UniProtKB:P30843	basR	PMID:15522865		GO:0000156	phosphorelay response regulator activity	IDA			PANTHER:PTHR48111	20110728		NCBITaxon:83333
+EcoCyc	UniProtKB:P14375	zraR	PMID:15522865		GO:0000156	phosphorelay response regulator activity	IDA			PANTHER:PTHR32071	20120717		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AE67	cheY	PMID:1737035		GO:0000156	phosphorelay response regulator activity	IDA			PANTHER:PTHR43228	20180806		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AEF4	dpiA	PMID:18997424		GO:0000156	phosphorelay response regulator activity	IDA			PANTHER:PTHR45526	20091008		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AEF4	dpiA	PMID:19202292		GO:0000156	phosphorelay response regulator activity	IDA			PANTHER:PTHR45526	20091008		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AFU4	glrR	PMID:19843219		GO:0000156	phosphorelay response regulator activity	IMP			PANTHER:PTHR32071	20091221		NCBITaxon:83333
+EcoCyc	UniProtKB:P07330	cheB	PMID:2188960		GO:0000156	phosphorelay response regulator activity	IDA			PANTHER:PTHR42872	20180710		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AE67	cheY	PMID:2404281		GO:0000156	phosphorelay response regulator activity	IDA			PANTHER:PTHR43228	20180806		NCBITaxon:83333
+EcoCyc	UniProtKB:P38684	torR	PMID:8083154		GO:0000156	phosphorelay response regulator activity	IDA			PANTHER:PTHR48111	20110614		NCBITaxon:83333
+EcoliWiki	UniProtKB:P0AA16	ompR	PMID:2558046		GO:0000156	phosphorelay response regulator activity	IDA			PANTHER:PTHR48111	20100510		NCBITaxon:83333
+MTBBASE	UniProtKB:O07778	Rv0600c	PMID:19246748		GO:0000156	phosphorelay response regulator activity	IDA				20110606		NCBITaxon:83332
+MTBBASE	UniProtKB:O07776	tcrA	PMID:19246748		GO:0000156	phosphorelay response regulator activity	IDA			PANTHER:PTHR48111	20110606		NCBITaxon:83332
+PomBase	PomBase:SPBC887.10	mcs4	PMID:17559414		GO:0000156	phosphorelay response regulator activity	IPI	PomBase:SPBC725.02			20170804	GO:0034599	NCBITaxon:4896
+PseudoCAP	PseudoCAP:PA4296	pprB	PMID:12499175		GO:0000156	phosphorelay response regulator activity	IDA				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA3346	hsbR	PMID:16182517		GO:0000156	phosphorelay response regulator activity	IDA				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA3604	erdR	PMID:20093290		GO:0000156	phosphorelay response regulator activity	IDA				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA1799	parR	PMID:20547815		GO:0000156	phosphorelay response regulator activity	IMP				20190311		NCBITaxon:208964
+SGD	SGD:S000001249	SKN7	PMID:11073911		GO:0000156	phosphorelay response regulator activity	IDA		UniProtKB:P38889	PANTHER:PTHR10015	20020726		NCBITaxon:559292
+SGD	SGD:S000001249	SKN7	PMID:11073911		GO:0000156	phosphorelay response regulator activity	IMP		UniProtKB:P38889	PANTHER:PTHR10015	20020726		NCBITaxon:559292
+SGD	SGD:S000003996	SSK1	PMID:8183345		GO:0000156	phosphorelay response regulator activity	IMP		UniProtKB:Q07084	PANTHER:PTHR42878	20110105		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT3G48100	RR5	PMID:18065689|TAIR:Publication:501723793		GO:0000156	phosphorelay response regulator activity	IMP		TAIR:locus:2097870		20080227		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G59940	AT1G59940	PMID:9482949|TAIR:Publication:2693		GO:0000156	phosphorelay response regulator activity	IDA		TAIR:locus:2025911		20040521		NCBITaxon:3702
+UniProt	UniProtKB:Q9P4U6	tcsB	PMID:12406718		GO:0000156	phosphorelay response regulator activity	IGI	UniProtKB:P39928		PANTHER:PTHR43719	20050311		NCBITaxon:227321
+dictyBase	dictyBase:DDB_G0284331	regA	PMID:10488068		GO:0000156	phosphorelay response regulator activity	IMP			PANTHER:PTHR11347	20151104		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0274101	dokA	PMID:8670893		GO:0000156	phosphorelay response regulator activity	IDA			PANTHER:PTHR43719	20060522		NCBITaxon:44689
+AgBase	UniProtKB:Q9SLX1	ZmHP2	PMID:10608665		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR28242	20090803		NCBITaxon:4577
+AgBase	UniProtKB:Q9ZQW0	ZmRR1	PMID:10608665		GO:0000160	phosphorelay signal transduction system	IDA				20090803		NCBITaxon:4577
+AgBase	UniProtKB:Q9S7U8	ZmRR2	PMID:10608665		GO:0000160	phosphorelay signal transduction system	IDA				20090803		NCBITaxon:4577
+AgBase	UniProtKB:Q9FRZ1	ZmRR4	PMID:12856940		GO:0000160	phosphorelay signal transduction system	IDA				20090803		NCBITaxon:4577
+AgBase	UniProtKB:Q9AV93	ZmRR8	PMID:12856940		GO:0000160	phosphorelay signal transduction system	IDA				20090803		NCBITaxon:4577
+AgBase	UniProtKB:Q94LW1	ZmRR9	PMID:12856940		GO:0000160	phosphorelay signal transduction system	IDA				20090803		NCBITaxon:4577
+AgBase	UniProtKB:Q9SLX1	ZmHP2	PMID:12856940		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR28242	20090803		NCBITaxon:4577
+AgBase	UniProtKB:Q9ST01	ZmHP1	PMID:12856940		GO:0000160	phosphorelay signal transduction system	IDA				20090803		NCBITaxon:4577
+AgBase	UniProtKB:Q9ZQW0	ZmRR1	PMID:12856940		GO:0000160	phosphorelay signal transduction system	IDA				20090803		NCBITaxon:4577
+CACAO	UniProtKB:Q9L906	regB	PMID:10347192		GO:0000160	phosphorelay signal transduction system	IDA				20110925		NCBITaxon:1061
+CACAO	UniProtKB:D5AQX9	regA2	PMID:10347192		GO:0000160	phosphorelay signal transduction system	IDA				20110924		NCBITaxon:272942
+CACAO	UniProtKB:Q9A223	cenR	PMID:16176121		GO:0000160	phosphorelay signal transduction system	IDA				20190129		NCBITaxon:190650
+CACAO	UniProtKB:Q9A5I5	pleD	PMID:16176121		GO:0000160	phosphorelay signal transduction system	IDA				20190201		NCBITaxon:190650
+CACAO	UniProtKB:Q9A912	CC_1182	PMID:16176121		GO:0000160	phosphorelay signal transduction system	IDA				20190129		NCBITaxon:190650
+CACAO	UniProtKB:Q9AAR6	cenK	PMID:16176121		GO:0000160	phosphorelay signal transduction system	IDA				20190129		NCBITaxon:190650
+CACAO	UniProtKB:A0A0H3C9D0	divK	PMID:16176121		GO:0000160	phosphorelay signal transduction system	IDA				20190205		NCBITaxon:565050
+CACAO	UniProtKB:Q03228	divJ	PMID:16176121		GO:0000160	phosphorelay signal transduction system	IDA				20190205		NCBITaxon:190650
+CACAO	UniProtKB:Q9A913	CC_1181	PMID:16176121		GO:0000160	phosphorelay signal transduction system	IDA				20190129		NCBITaxon:190650
+CACAO	UniProtKB:P37894	pleC	PMID:16176121		GO:0000160	phosphorelay signal transduction system	IDA				20190129		NCBITaxon:190650
+CGD	CGD:CAL0000201009	SRR1	PMID:23584995|CGD_REF:CAL0000158942		GO:0000160	phosphorelay signal transduction system	IMP			PANTHER:PTHR44591	20140625		NCBITaxon:237561
+ComplexPortal	UniProtKB:P07363	cheA	PMID:21642453		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR43395	20170410		NCBITaxon:83333
+ComplexPortal	UniProtKB:P0AE67	cheY	PMID:21642453		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR43228	20170410		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AED5	uvrY	PMID:11022030		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR43214	20120717		NCBITaxon:83333
+EcoCyc	UniProtKB:P0DMC5	rcsC	PMID:11309126		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR43711	20101026		NCBITaxon:83333
+EcoCyc	UniProtKB:P39838	rcsD	PMID:11309126		GO:0000160	phosphorelay signal transduction system	IMP			PANTHER:PTHR43047	20101124		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AD01	dcuR	PMID:12167640		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR45526	20160201		NCBITaxon:83333
+EcoCyc	UniProtKB:P0A9Q1	arcA	PMID:1512197		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR48111	20090916		NCBITaxon:83333
+EcoCyc	UniProtKB:P30843	basR	PMID:15522865		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR48111	20080801		NCBITaxon:83333
+EcoCyc	UniProtKB:P14375	zraR	PMID:15522865		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR32071	20120717		NCBITaxon:83333
+EcoCyc	UniProtKB:P09836	uhpC	PMID:1569007		GO:0000160	phosphorelay signal transduction system	IMP			PANTHER:PTHR43826	20121114		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AEF4	dpiA	PMID:18997424		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR45526	20091008		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AEF4	dpiA	PMID:19202292		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR45526	20091008		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AFU4	glrR	PMID:19843219		GO:0000160	phosphorelay signal transduction system	IMP			PANTHER:PTHR32071	20091221		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AFT5	btsR	PMID:22685278		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR48111	20120814		NCBITaxon:83333
+EcoCyc	UniProtKB:P39453	torS	PMID:9135110		GO:0000160	phosphorelay signal transduction system	IMP			PANTHER:PTHR43719	20101128		NCBITaxon:83333
+EcoliWiki	UniProtKB:P0AEC8	dcuS	PMID:12167640		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR43547	20100510		NCBITaxon:83333
+EcoliWiki	UniProtKB:P0AA16	ompR	PMID:2558046		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR48111	20100510		NCBITaxon:83333
+EcoliWiki	UniProtKB:P0AEJ4	envZ	PMID:2558046		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR44936	20100510		NCBITaxon:83333
+GO_Central	UniProtKB:Q2FWM5	SAOUHSC_02264	PMID:19708918		GO:0000160	phosphorelay signal transduction system	IMP			PANTHER:PTHR40448	20151130		NCBITaxon:93061
+MTBBASE	UniProtKB:P9WGM9	mprA	PMID:14638785		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR48111	20100317		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WGL1	mprB	PMID:14638785		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR44936	20100317		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WGM3	pdtaR	PMID:16026786		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR43367	20100630		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WGL5	pdtaS	PMID:16026786		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR43065	20100630		NCBITaxon:83332
+PomBase	PomBase:SPBC725.02	mpr1	PMID:10749922		GO:0000160	phosphorelay signal transduction system	IMP			PANTHER:PTHR28242	20170803	GO:0034599	NCBITaxon:4896
+PomBase	PomBase:SPBC887.10	mcs4	PMID:10749922		GO:0000160	phosphorelay signal transduction system	IMP				20170803	GO:0034599	NCBITaxon:4896
+PomBase	PomBase:SPBC725.02	mpr1	PMID:10940030		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR28242	20170803		NCBITaxon:4896
+PomBase	PomBase:SPBC887.10	mcs4	PMID:10940030		GO:0000160	phosphorelay signal transduction system	IDA				20170803		NCBITaxon:4896
+PomBase	PomBase:SPCC74.06	mak3	PMID:11758939		GO:0000160	phosphorelay signal transduction system	IGI	PomBase:SPBC725.02		PANTHER:PTHR43065	20201218		NCBITaxon:4896
+PomBase	PomBase:SPAC1834.08	mak1	PMID:11758939		GO:0000160	phosphorelay signal transduction system	IMP			PANTHER:PTHR43719	20201218		NCBITaxon:4896
+PomBase	PomBase:SPBC725.02	mpr1	PMID:17559414		GO:0000160	phosphorelay signal transduction system	IGI	SGD:S000002394		PANTHER:PTHR28242	20121105		NCBITaxon:4896
+PomBase	PomBase:SPBC725.02	mpr1	PMID:17559414		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR28242	20121106		NCBITaxon:4896
+PomBase	PomBase:SPAC27E2.09	mak2	PMID:17559414		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR43719	20121106		NCBITaxon:4896
+PomBase	PomBase:SPBC887.10	mcs4	PMID:17559414		GO:0000160	phosphorelay signal transduction system	IDA				20170804		NCBITaxon:4896
+PseudoCAP	UniProtKB:G3XCM7	cbrA	PMID:11401699		GO:0000160	phosphorelay signal transduction system	IDA				20190311		NCBITaxon:287
+PseudoCAP	PseudoCAP:PA4725	cbrA	PMID:11401699		GO:0000160	phosphorelay signal transduction system	IDA				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA4777	pmrB	PMID:14507375		GO:0000160	phosphorelay signal transduction system	IDA				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA4776	pmrA	PMID:14507375		GO:0000160	phosphorelay signal transduction system	IDA				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA1098	fleS	PMID:7591148		GO:0000160	phosphorelay signal transduction system	IDA				20190311		NCBITaxon:208964
+PseudoCAP	UniProtKB:P77568	algZ	PMID:8790418		GO:0000160	phosphorelay signal transduction system	IDA				20190311		NCBITaxon:287
+PseudoCAP	PseudoCAP:PA5262	fimS	PMID:8790418		GO:0000160	phosphorelay signal transduction system	IDA				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA2687	pfeS	PMID:8808923		GO:0000160	phosphorelay signal transduction system	IDA				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA2686	pfeR	PMID:8808923		GO:0000160	phosphorelay signal transduction system	IDA				20190311		NCBITaxon:208964
+TAIR	AGI_LocusCode:AT3G21510	AHP1	PMID:10050311|TAIR:Publication:1764		GO:0000160	phosphorelay signal transduction system	IMP		TAIR:locus:2089900		20061002		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G57040	ARR9	PMID:10930466|TAIR:Publication:157		GO:0000160	phosphorelay signal transduction system	IPI	AGI_LocusCode:AT5G39340	TAIR:locus:2080590		20150109		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G29350	AHP2	PMID:11158442|TAIR:Publication:501680317		GO:0000160	phosphorelay signal transduction system	IDA		TAIR:locus:2093817		20060511		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G80100	AT1G80100	PMID:16400151|TAIR:Publication:501718438		GO:0000160	phosphorelay signal transduction system	IDA		TAIR:locus:2016339		20060217		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G59940	AT1G59940	PMID:9482949|TAIR:Publication:2693		GO:0000160	phosphorelay signal transduction system	IDA		TAIR:locus:2025911		20040521		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT2G01830	WOL	PMID:11230563|TAIR:Publication:501680280		GO:0000160	phosphorelay signal transduction system	IDA		TAIR:locus:2059718		20210331		NCBITaxon:3702
+UniProt	UniProtKB:A7HD43	gchK	PMID:21852234		GO:0000160	phosphorelay signal transduction system	IDA				20120116		NCBITaxon:404589
+UniProt	UniProtKB:Q5SML5	RR22	PMID:22383541		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR43874	20160304		NCBITaxon:39947
+UniProt	UniProtKB:P0DOA0	cckA	PMID:26124143		GO:0000160	phosphorelay signal transduction system	IDA				20160517		NCBITaxon:359391
+UniProt	UniProtKB:Q2YIF7	cpdR	PMID:26124143		GO:0000160	phosphorelay signal transduction system	IDA				20160512		NCBITaxon:359391
+UniProt	UniProtKB:Q2YQA4	ctrA	PMID:26124143		GO:0000160	phosphorelay signal transduction system	IDA				20160512		NCBITaxon:359391
+UniProt	UniProtKB:Q2YQA5	chpT	PMID:26124143		GO:0000160	phosphorelay signal transduction system	IDA				20160512		NCBITaxon:359391
+dictyBase	dictyBase:DDB_G0282923	rdeA	PMID:10488068		GO:0000160	phosphorelay signal transduction system	IDA			PANTHER:PTHR28242	20151104		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0284331	regA	PMID:10488068		GO:0000160	phosphorelay signal transduction system	IMP			PANTHER:PTHR11347	20220623		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0282923	rdeA	PMID:9582274		GO:0000160	phosphorelay signal transduction system	IMP			PANTHER:PTHR28242	20220131		NCBITaxon:44689

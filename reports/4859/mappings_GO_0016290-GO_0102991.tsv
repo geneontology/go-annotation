@@ -1,0 +1,8 @@
+term	file	line
+GO:0016290	ec2go	EC:3.1.2.2 > GO:palmitoyl-CoA hydrolase activity ; GO:0016290
+GO:0016290	metacyc2go	MetaCyc:PALMITOYL-COA-HYDROLASE-RXN > GO:palmitoyl-CoA hydrolase activity ; GO:0016290
+GO:0016290	metacyc2go	MetaCyc:PWY-5148 > GO:palmitoyl-CoA hydrolase activity ; GO:0016290
+GO:0016290	rhea2go	RHEA:16645 > GO:palmitoyl-CoA hydrolase activity ; GO:0016290
+GO:0102991	ec2go	EC:3.1.2.2 > GO:myristoyl-CoA hydrolase activity ; GO:0102991
+GO:0102991	metacyc2go	MetaCyc:RXN-9626 > GO:myristoyl-CoA hydrolase activity ; GO:0102991
+GO:0102991	rhea2go	RHEA:40119 > GO:myristoyl-CoA hydrolase activity ; GO:0102991
