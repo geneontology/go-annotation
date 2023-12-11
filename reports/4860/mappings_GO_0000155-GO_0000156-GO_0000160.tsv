@@ -1,0 +1,94 @@
+term	file	line
+GO:0000155	unirule2go	UniRule:UR000117500 > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	unirule2go	UniRule:UR000139860 > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	unirule2go	UniRule:UR000261560 > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	unirule2go	UniRule:UR000285769 > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	unirule2go	UniRule:UR000617774 > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	unirule2go	UniRule:UR000931753 > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	ec2go	EC:2.7.3.- > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	interpro2go	InterPro:IPR003661 Signal transduction histidine kinase, dimerisation/phosphoacceptor domain > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	interpro2go	InterPro:IPR003755 HPr(Ser) kinase/phosphorylase > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	interpro2go	InterPro:IPR003852 Signal transduction histidine kinase, osmosensitive K+ channel sensor, N-terminal > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	interpro2go	InterPro:IPR004105 Histidine kinase CheA-like, homodimeric domain > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	interpro2go	InterPro:IPR008358 Signal transduction histidine kinase/phosphatase, lantibiotic regulatory protein MprB > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	interpro2go	InterPro:IPR010559 Signal transduction histidine kinase, internal region > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	interpro2go	InterPro:IPR010808 Chemotaxis protein CheA, P2 response regulator-binding > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	interpro2go	InterPro:IPR011104 HPr kinase/phosphorylase, C-terminal > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	interpro2go	InterPro:IPR011126 HPr(Ser) kinase/phosphorylase, N-terminal > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	interpro2go	InterPro:IPR011620 Signal transduction histidine kinase, 5TM receptor LytS, transmembrane region > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	interpro2go	InterPro:IPR011712 Signal transduction histidine kinase, subgroup 3, dimerisation and phosphoacceptor domain > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	interpro2go	InterPro:IPR014302 Signal transduction histidine kinase, TMAO sensor TorS > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	interpro2go	InterPro:IPR014310 Signal transduction histidine kinase, phosphate regulon sensor PhoR > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	interpro2go	InterPro:IPR014409 Signal transduction histidine kinase, hybrid-type, aerobic respiration control ArcB > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	interpro2go	InterPro:IPR016120 Signal transduction histidine kinase, sporulation regulator SpoOB > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	interpro2go	InterPro:IPR016380 Signal transduction histidine kinase, nitrate/nitrite-sensing > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	interpro2go	InterPro:IPR016381 Signal transduction histidine kinase, DegS > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	interpro2go	InterPro:IPR017202 Sensor histidine kinase LiaS/VraS > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	interpro2go	InterPro:IPR017203 Signal transduction histidine kinase, NreB > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	interpro2go	InterPro:IPR021766 Phosphate regulon sensor protein PhoR > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	interpro2go	InterPro:IPR030856 Sensor histidine kinase RcsC > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	interpro2go	InterPro:IPR036097 Signal transduction histidine kinase, dimerisation/phosphoacceptor domain superfamily > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	interpro2go	InterPro:IPR037006 Histidine kinase CheA-like, homodimeric domain superfamily > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	interpro2go	InterPro:IPR047770 Sensor histidine kinase RegB > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000155	hamap2go	HAMAP:MF_00979 > GO:phosphorelay sensor kinase activity ; GO:0000155
+GO:0000156	interpro2go	InterPro:IPR000673 Signal transduction response regulator, chemotaxis, protein-glutamate methylesterase > GO:phosphorelay response regulator activity ; GO:0000156
+GO:0000156	interpro2go	InterPro:IPR008248 Protein-glutamate methylesterase/protein-glutamine glutaminase, CheB type > GO:phosphorelay response regulator activity ; GO:0000156
+GO:0000156	interpro2go	InterPro:IPR010114 DNA-binding transcriptional regulator NtrC > GO:phosphorelay response regulator activity ; GO:0000156
+GO:0000156	interpro2go	InterPro:IPR010524 Signal transduction response regulator, propionate catabolism activator, N-terminal > GO:phosphorelay response regulator activity ; GO:0000156
+GO:0000156	interpro2go	InterPro:IPR011879 Signal transduction response regulator, phosphate regulon transcriptional regulatory protein PhoB > GO:phosphorelay response regulator activity ; GO:0000156
+GO:0000156	interpro2go	InterPro:IPR012704 Signal transduction response regulator, propionate catabolism, transcriptional regulator PrpR > GO:phosphorelay response regulator activity ; GO:0000156
+GO:0000156	interpro2go	InterPro:IPR014402 Transcription factor, Skn7-like > GO:phosphorelay response regulator activity ; GO:0000156
+GO:0000156	interpro2go	InterPro:IPR046947 Transcriptional regulatory protein LytR-like > GO:phosphorelay response regulator activity ; GO:0000156
+GO:0000156	interpro2go	InterPro:IPR047671 MtrAB system response regulator MtrA > GO:phosphorelay response regulator activity ; GO:0000156
+GO:0000160	unirule2go	UniRule:UR000076362 > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	unirule2go	UniRule:UR000101748 > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	unirule2go	UniRule:UR000117500 > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	unirule2go	UniRule:UR000118452 > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	unirule2go	UniRule:UR000119457 > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	unirule2go	UniRule:UR000146902 > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	unirule2go	UniRule:UR001527774 > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	unirule2go	UniRule:UR001627756 > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR000673 Signal transduction response regulator, chemotaxis, protein-glutamate methylesterase > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR001789 Signal transduction response regulator, receiver domain > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR001867 OmpR/PhoB-type DNA-binding domain > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR003755 HPr(Ser) kinase/phosphorylase > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR003852 Signal transduction histidine kinase, osmosensitive K+ channel sensor, N-terminal > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR004105 Histidine kinase CheA-like, homodimeric domain > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR006290 Heavy metal sensor kinase > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR008207 Signal transduction histidine kinase, phosphotransfer (Hpt) domain > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR008248 Protein-glutamate methylesterase/protein-glutamine glutaminase, CheB type > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR008358 Signal transduction histidine kinase/phosphatase, lantibiotic regulatory protein MprB > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR010114 DNA-binding transcriptional regulator NtrC > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR010524 Signal transduction response regulator, propionate catabolism activator, N-terminal > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR010559 Signal transduction histidine kinase, internal region > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR010808 Chemotaxis protein CheA, P2 response regulator-binding > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR011104 HPr kinase/phosphorylase, C-terminal > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR011126 HPr(Ser) kinase/phosphorylase, N-terminal > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR011620 Signal transduction histidine kinase, 5TM receptor LytS, transmembrane region > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR011712 Signal transduction histidine kinase, subgroup 3, dimerisation and phosphoacceptor domain > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR011879 Signal transduction response regulator, phosphate regulon transcriptional regulatory protein PhoB > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR012704 Signal transduction response regulator, propionate catabolism, transcriptional regulator PrpR > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR014302 Signal transduction histidine kinase, TMAO sensor TorS > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR014310 Signal transduction histidine kinase, phosphate regulon sensor PhoR > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR014402 Transcription factor, Skn7-like > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR014409 Signal transduction histidine kinase, hybrid-type, aerobic respiration control ArcB > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR015014 PhoQ Sensor domain > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR016120 Signal transduction histidine kinase, sporulation regulator SpoOB > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR016380 Signal transduction histidine kinase, nitrate/nitrite-sensing > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR016381 Signal transduction histidine kinase, DegS > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR017202 Sensor histidine kinase LiaS/VraS > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR019017 Signal transduction histidine kinase RcsC, alpha-beta loop, C-terminal > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR021766 Phosphate regulon sensor protein PhoR > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR024187 Signal transduction response regulator, citrate/malate metabolism > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR030856 Sensor histidine kinase RcsC > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR030861 Phosphotransferase RcsD > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR030864 Transcriptional regulatory protein RcsB > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR036641 HPT domain superfamily > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR045871 Histidine-containing phosphotransfer protein 1-5/Phosphorelay intermediate protein YPD1 > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	interpro2go	InterPro:IPR047772 ActR/PrrA/RegA redox response regulator transcription factor > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	uniprotkb_kw2go	UniProtKB-KW:KW-0902 Two-component regulatory system > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	hamap2go	HAMAP:MF_00099 > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	hamap2go	HAMAP:MF_00979 > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	hamap2go	HAMAP:MF_00980 > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	hamap2go	HAMAP:MF_00981 > GO:phosphorelay signal transduction system ; GO:0000160
+GO:0000160	hamap2go	HAMAP:MF_01314 > GO:phosphorelay signal transduction system ; GO:0000160
