@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+RGD	RGD:2380	Coq3	PMID:8125303|RGD:69814		GO:0004395	hexaprenyldihydroxybenzoate methyltransferase activity	IMP			PANTHER:PTHR43464	20060322		NCBITaxon:10116
+SGD	SGD:S000005456	COQ3	PMID:1885593		GO:0004395	hexaprenyldihydroxybenzoate methyltransferase activity	IMP		UniProtKB:P27680	PANTHER:PTHR43464	20010118		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT2G30920	COQ3	PMID:9628017|TAIR:Publication:2506		GO:0004395	hexaprenyldihydroxybenzoate methyltransferase activity	IGI	SGD:S000005456	TAIR:locus:2052761		20070419		NCBITaxon:3702
