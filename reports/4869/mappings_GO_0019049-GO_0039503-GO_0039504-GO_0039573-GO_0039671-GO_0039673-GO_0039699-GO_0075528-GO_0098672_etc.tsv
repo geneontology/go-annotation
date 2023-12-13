@@ -1,0 +1,35 @@
+term	file	line
+GO:0019049	unirule2go	UniRule:UR000613575 > GO:mitigation of host antiviral defense response ; GO:0019049
+GO:0019049	unirule2go	UniRule:UR001503762 > GO:mitigation of host antiviral defense response ; GO:0019049
+GO:0019049	interpro2go	InterPro:IPR002532 Hantavirus glycoprotein Gc > GO:mitigation of host antiviral defense response ; GO:0019049
+GO:0019049	interpro2go	InterPro:IPR002534 Hantavirus glycoprotein Gn > GO:mitigation of host antiviral defense response ; GO:0019049
+GO:0019049	interpro2go	InterPro:IPR002608 Paramyxovirus non-structural protein C > GO:mitigation of host antiviral defense response ; GO:0019049
+GO:0019049	interpro2go	InterPro:IPR004985 Adenovirus E3-15 > GO:mitigation of host antiviral defense response ; GO:0019049
+GO:0019049	interpro2go	InterPro:IPR006965 Adenovirus Gp19K > GO:mitigation of host antiviral defense response ; GO:0019049
+GO:0019049	interpro2go	InterPro:IPR008026 Herpesvirus ICP47 > GO:mitigation of host antiviral defense response ; GO:0019049
+GO:0019049	interpro2go	InterPro:IPR009174 Orthopoxvirus, Protein K7 > GO:mitigation of host antiviral defense response ; GO:0019049
+GO:0019049	interpro2go	InterPro:IPR009353 Orthopoxvirus, Protein N1 > GO:mitigation of host antiviral defense response ; GO:0019049
+GO:0019049	interpro2go	InterPro:IPR011172 Poxvirus, TNF-alpha receptor-II > GO:mitigation of host antiviral defense response ; GO:0019049
+GO:0019049	interpro2go	InterPro:IPR012536 Cytomegalovirus US glycoprotein > GO:mitigation of host antiviral defense response ; GO:0019049
+GO:0019049	uniprotkb_kw2go	UniProtKB-KW:KW-1125 Evasion of host immunity by viral interleukin-like protein > GO:mitigation of host antiviral defense response ; GO:0019049
+GO:0019049	uniprotkb_kw2go	UniProtKB-KW:KW-0922 Interferon antiviral system evasion > GO:mitigation of host antiviral defense response ; GO:0019049
+GO:0019049	uniprotkb_kw2go	UniProtKB-KW:KW-0899 Viral immunoevasion > GO:mitigation of host antiviral defense response ; GO:0019049
+GO:0019049	hamap2go	HAMAP:MF_04083 > GO:mitigation of host antiviral defense response ; GO:0019049
+GO:0039503	unirule2go	UniRule:UR000584809 > GO:suppression by virus of host innate immune response ; GO:0039503
+GO:0039503	unirule2go	UniRule:UR001372527 > GO:suppression by virus of host innate immune response ; GO:0039503
+GO:0039503	interpro2go	InterPro:IPR009179 Protein E3 > GO:suppression by virus of host innate immune response ; GO:0039503
+GO:0039503	uniprotkb_kw2go	UniProtKB-KW:KW-1090 Inhibition of host innate immune response by virus > GO:suppression by virus of host innate immune response ; GO:0039503
+GO:0039503	hamap2go	HAMAP:MF_04073 > GO:suppression by virus of host innate immune response ; GO:0039503
+GO:0039503	hamap2go	HAMAP:MF_04143 > GO:suppression by virus of host innate immune response ; GO:0039503
+GO:0039504	unirule2go	UniRule:UR000584962 > GO:suppression by virus of host adaptive immune response ; GO:0039504
+GO:0039504	uniprotkb_kw2go	UniProtKB-KW:KW-1080 Inhibition of host adaptive immune response by virus > GO:suppression by virus of host adaptive immune response ; GO:0039504
+GO:0039504	hamap2go	HAMAP:MF_04078 > GO:suppression by virus of host adaptive immune response ; GO:0039504
+GO:0039573	uniprotkb_kw2go	UniProtKB-KW:KW-1087 Inhibition of host complement factors by virus > GO:suppression by virus of host complement activation ; GO:0039573
+GO:0039671	uniprotkb_kw2go	UniProtKB-KW:KW-1131 Modulation of host NK-cell activity by virus > GO:evasion by virus of host natural killer cell activity ; GO:0039671
+GO:0039673	uniprotkb_kw2go	UniProtKB-KW:KW-1118 Modulation of host dendritic cell activity by virus > GO:evasion by virus of host dendritic cell activity ; GO:0039673
+GO:0039699	uniprotkb_kw2go	UniProtKB-KW:KW-1196 IFIT mRNA restriction evasion by virus > GO:viral mRNA cap methylation ; GO:0039699
+GO:0075528	uniprotkb_kw2go	UniProtKB-KW:KW-1124 Modulation of host immunity by viral IgG Fc receptor-like protein > GO:perturbation by virus of host immune response ; GO:0075528
+GO:0098672	uniprotkb_kw2go	UniProtKB-KW:KW-1257 CRISPR-cas system evasion by virus > GO:inhibition of host CRISPR-cas system by virus ; GO:0098672
+GO:0099016	uniprotkb_kw2go	UniProtKB-KW:KW-1256 DNA end degradation evasion by virus > GO:evasion by virus of DNA end degradation ; GO:0099016
+GO:0099018	interpro2go	InterPro:IPR015281 DNA beta-glucosyltransferase, bacteriophage > GO:evasion by virus of host restriction-modification system ; GO:0099018
+GO:0099018	uniprotkb_kw2go	UniProtKB-KW:KW-1258 Restriction-modification system evasion by virus > GO:evasion by virus of host restriction-modification system ; GO:0099018
