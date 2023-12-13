@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	UniProtKB:Q9NZJ6	COQ3	PMID:10777520		GO:0061542	3-demethylubiquinol-n 3-O-methyltransferase activity	IDA			PANTHER:PTHR43464	20230705		NCBITaxon:9606
+SGD	SGD:S000005456	COQ3	PMID:10419476		GO:0061543	3-demethylubiquinol-6 3-O-methyltransferase activity	IMP		UniProtKB:P27680	PANTHER:PTHR43464	20130719		NCBITaxon:559292
+EcoCyc	UniProtKB:P17993	ubiG	PMID:10419476		GO:0099119	3-demethylubiquinol-8 3-O-methyltransferase activity	IDA			PANTHER:PTHR43464	20171113		NCBITaxon:83333

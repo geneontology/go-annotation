@@ -1,0 +1,17 @@
+term	file	line
+GO:0008689	hamap2go	HAMAP:MF_03190 > GO:3-demethylubiquinone-9 3-O-methyltransferase activity ; GO:0008689
+GO:0008689	rhea2go	RHEA:17049 > GO:3-demethylubiquinone-9 3-O-methyltransferase activity ; GO:0008689
+GO:0008689	unirule2go	UniRule:UR000375836 > GO:3-demethylubiquinone-9 3-O-methyltransferase activity ; GO:0008689
+GO:0044596	reactome2go	Reactome:R-HSA-2162186 > GO:3-demethylubiquinol-10 3-O-methyltransferase activity ; GO:0044596
+GO:0044596	hamap2go	HAMAP:MF_03190 > GO:3-demethylubiquinol-10 3-O-methyltransferase activity ; GO:0044596
+GO:0044596	rhea2go	RHEA:44412 > GO:3-demethylubiquinol-10 3-O-methyltransferase activity ; GO:0044596
+GO:0044596	unirule2go	UniRule:UR000375836 > GO:3-demethylubiquinol-10 3-O-methyltransferase activity ; GO:0044596
+GO:0044596	metacyc2go	MetaCyc:RXN-9237 > GO:3-demethylubiquinol-10 3-O-methyltransferase activity ; GO:0044596
+GO:0061542	hamap2go	HAMAP:MF_00472 > GO:3-demethylubiquinol-n 3-O-methyltransferase activity ; GO:0061542
+GO:0061542	hamap2go	HAMAP:MF_03190 > GO:3-demethylubiquinol-n 3-O-methyltransferase activity ; GO:0061542
+GO:0061542	rhea2go	RHEA:44380 > GO:3-demethylubiquinol-n 3-O-methyltransferase activity ; GO:0061542
+GO:0061542	ec2go	EC:2.1.1.64 > GO:3-demethylubiquinol-n 3-O-methyltransferase activity ; GO:0061542
+GO:0061542	unirule2go	UniRule:UR000031214 > GO:3-demethylubiquinol-n 3-O-methyltransferase activity ; GO:0061542
+GO:0061542	unirule2go	UniRule:UR000375836 > GO:3-demethylubiquinol-n 3-O-methyltransferase activity ; GO:0061542
+GO:0061543	hamap2go	HAMAP:MF_03190 > GO:3-demethylubiquinol-6 3-O-methyltransferase activity ; GO:0061543
+GO:0061543	unirule2go	UniRule:UR000375836 > GO:3-demethylubiquinol-6 3-O-methyltransferase activity ; GO:0061543
