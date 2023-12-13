@@ -1,0 +1,13 @@
+term	file	line
+GO:0043333	ec2go	EC:2.1.1.201 > GO:2-octaprenyl-6-methoxy-1,4-benzoquinone methylase activity ; GO:0043333
+GO:0043333	metacyc2go	MetaCyc:2-OCTAPRENYL-METHOXY-BENZOQ-METH-RXN > GO:2-octaprenyl-6-methoxy-1,4-benzoquinone methylase activity ; GO:0043333
+GO:0043334	unirule2go	UniRule:UR000376037 > GO:2-hexaprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity ; GO:0043334
+GO:0043334	hamap2go	HAMAP:MF_03191 > GO:2-hexaprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity ; GO:0043334
+GO:0043428	rhea2go	RHEA:44756 > GO:2-heptaprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity ; GO:0043428
+GO:0043428	metacyc2go	MetaCyc:RXN-9227 > GO:2-heptaprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity ; GO:0043428
+GO:0043429	unirule2go	UniRule:UR000376037 > GO:2-nonaprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity ; GO:0043429
+GO:0043429	hamap2go	HAMAP:MF_03191 > GO:2-nonaprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity ; GO:0043429
+GO:0043430	unirule2go	UniRule:UR000376037 > GO:2-decaprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity ; GO:0043430
+GO:0043430	rhea2go	RHEA:44764 > GO:2-decaprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity ; GO:0043430
+GO:0043430	hamap2go	HAMAP:MF_03191 > GO:2-decaprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity ; GO:0043430
+GO:0043430	reactome2go	Reactome:R-HSA-2162188 > GO:2-decaprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity ; GO:0043430
