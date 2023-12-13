@@ -1,0 +1,8 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPAC31G5.09c	spk1	PMID:15713656		GO:0004707	MAP kinase activity	IDA			PANTHER:PTHR24055	20141202	PomBase:SPBC32C12.02|GO:0071507	NCBITaxon:4896
+PomBase	PomBase:SPAC3F10.10c	map3	PMID:8380233		GO:0004932	mating-type factor pheromone receptor activity	EXP			PANTHER:PTHR28097	20120213	GO:0071507|CL:0002675	NCBITaxon:4896
+PomBase	PomBase:SPAC1D4.13	byr1	PMID:8413241		GO:0004708	MAP kinase kinase activity	IMP			PANTHER:PTHR48013	20180530	PomBase:SPAC31G5.09c|GO:0071507	NCBITaxon:4896
+PomBase	PomBase:SPBC1D7.05	byr2	PMID:8443406		GO:0004709	MAP kinase kinase kinase activity	IMP			PANTHER:PTHR11584	20141202	PomBase:SPAC1D4.13|GO:0071507	NCBITaxon:4896
+PomBase	PomBase:SPBC1D7.05	byr2	PMID:9315645		GO:0004709	MAP kinase kinase kinase activity	EXP			PANTHER:PTHR11584	20180429	PomBase:SPAC1D4.13|GO:0071507	NCBITaxon:4896
+SGD	SGD:S000002318	STE7	PMID:8384702		GO:0004708	MAP kinase kinase activity	IDA		UniProtKB:P06784	PANTHER:PTHR48013	20141029	GO:0071507	NCBITaxon:559292
+SGD	SGD:S000000877	PTP3	PMID:9224718		GO:0004725	protein tyrosine phosphatase activity	IDA		UniProtKB:P40048	PANTHER:PTHR19134	20210608	SGD:S000000112|GO:0071507	NCBITaxon:559292
