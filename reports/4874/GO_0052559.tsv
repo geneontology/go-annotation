@@ -1,0 +1,33 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AgBase	UniProtKB:Q99IB8	Q99IB8	PMID:25244949		GO:0052064	induction by symbiont of defense-related host reactive oxygen species production	IDA				20150129		NCBITaxon:356411
+CGD	CGD:CAL0000186377	KEX2	PMID:12419804|CGD_REF:CAL0081433		GO:0052559	induction by symbiont of host immune response	IMP			PANTHER:PTHR42884	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000191464	ROT2	PMID:17933909|CGD_REF:CAL0118852		GO:0052559	induction by symbiont of host immune response	IMP			PANTHER:PTHR22762	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000183221	CWH41	PMID:17933909|CGD_REF:CAL0118852		GO:0052559	induction by symbiont of host immune response	IMP			PANTHER:PTHR10412	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000189556	SAP1	PMID:20713630|CGD_REF:CAL0126043		GO:0052559	induction by symbiont of host immune response	IDA			PANTHER:PTHR47965	20140625		NCBITaxon:237561
+GO_Central	UniProtKB:Q9AT28	NPP1	PMID:12410815		GO:0080185	effector-mediated activation of plant hypersensitive response by symbiont	IDA				20191203		NCBITaxon:4792
+GO_Central	UniProtKB:Q572D3	Avr3a	PMID:15894622		GO:0080185	effector-mediated activation of plant hypersensitive response by symbiont	IDA				20201105		NCBITaxon:4787
+GO_Central	UniProtKB:Q548N3	L915_07287	PMID:8274771		GO:0080185	effector-mediated activation of plant hypersensitive response by symbiont	IDA				20201105		NCBITaxon:4792
+GO_Central	UniProtKB:Q01905	INF1	PMID:9002268		GO:0080185	effector-mediated activation of plant hypersensitive response by symbiont	IDA				20201105		NCBITaxon:4787
+GeneDB	PlasmoDB:PF3D7_1134300	EMMA1	PMID:34342640		GO:0052559	induction by symbiont of host immune response	IDA				20210804		NCBITaxon:36329
+MTBBASE	UniProtKB:P9WI73	pknG	PMID:19447903		GO:0052064	induction by symbiont of defense-related host reactive oxygen species production	IMP			PANTHER:PTHR24363	20100527		NCBITaxon:83332
+MTBBASE	UniProtKB:Q7D8M9	MT1234	PMID:19880448		GO:0052559	induction by symbiont of host immune response	IDA				20110615		NCBITaxon:83331
+MTBBASE	UniProtKB:P9WHZ5	PPE42	PMID:21170273		GO:0052559	induction by symbiont of host immune response	IDA			PANTHER:PTHR46766	20120701		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WFJ3	Rv0146	PMID:21170273		GO:0052559	induction by symbiont of host immune response	IDA			PANTHER:PTHR43619	20120701		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WQ57	fadD30	PMID:21170273		GO:0052559	induction by symbiont of host immune response	IDA			PANTHER:PTHR22754	20120701		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WN99	rodA	PMID:21170273		GO:0052559	induction by symbiont of host immune response	IDA			PANTHER:PTHR30474	20120701		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WLT7	Rv1590	PMID:21170273		GO:0052559	induction by symbiont of host immune response	IDA				20120701		NCBITaxon:83332
+MTBBASE	UniProtKB:Q10690	Rv2082	PMID:21170273		GO:0052559	induction by symbiont of host immune response	IDA				20120701		NCBITaxon:83332
+MTBBASE	UniProtKB:P71852	MT3653	PMID:21170273		GO:0052559	induction by symbiont of host immune response	IDA				20120701		NCBITaxon:83331
+MTBBASE	UniProtKB:Q6MWX9	PPE55	PMID:21170273		GO:0052559	induction by symbiont of host immune response	IDA			PANTHER:PTHR46766	20120701		NCBITaxon:83332
+MTBBASE	UniProtKB:O06546	mmpL13b	PMID:21170273		GO:0052559	induction by symbiont of host immune response	IDA				20120701		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WFC7	uvrB	PMID:21170273		GO:0052559	induction by symbiont of host immune response	IDA			PANTHER:PTHR24029	20120701		NCBITaxon:83332
+MTBBASE	UniProtKB:P96277	Rv0431	PMID:21170273		GO:0052559	induction by symbiont of host immune response	IDA				20120701		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WJN1	mca	PMID:21170273		GO:0052559	induction by symbiont of host immune response	IDA			PANTHER:PTHR12993	20200820		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WGQ5	Rv0927c	PMID:21170273		GO:0052559	induction by symbiont of host immune response	IDA			PANTHER:PTHR43618	20120701		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WIR7	apa	PMID:7558311		GO:0052559	induction by symbiont of host immune response	IDA				20100404		NCBITaxon:83332
+PAMGO_VMD	UniProtKB:Q572D3	Avr3a	PMID:16965554		GO:0080185	effector-mediated activation of plant hypersensitive response by symbiont	IDA				20230221		NCBITaxon:4787
+PAMGO_VMD	UniProtKB:Q9SPD4	SD21-1	PMID:17194768		GO:0052062	induction by symbiont of host phytoalexin production	IDA				20070120		NCBITaxon:65070
+PHI-base	UniProtKB:D0NKT5	PITG_12551	PMID:16965554		GO:0080185	effector-mediated activation of plant hypersensitive response by symbiont	IDA				20210823		NCBITaxon:403677
+PHI-base	UniProtKB:D0NPN8	Avr3a	PMID:16965554		GO:0080185	effector-mediated activation of plant hypersensitive response by symbiont	IDA				20210823		NCBITaxon:403677
+PHI-base	UniProtKB:A9JX75	Tox1	PMID:22241993		GO:0080185	effector-mediated activation of plant hypersensitive response by symbiont	EXP				20190430		NCBITaxon:321614
+PHI-base	UniProtKB:A9JX75	Tox1	PMID:27819043		GO:0080185	effector-mediated activation of plant hypersensitive response by symbiont	EXP				20210122		NCBITaxon:321614
