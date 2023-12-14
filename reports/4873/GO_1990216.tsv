@@ -1,0 +1,9 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AgBase	UniProtKB:Q03463	Q03463	PMID:11915042		GO:1990216	positive regulation by symbiont of host transcription	IDA		UniProtKB:Q03463-PRO_0000278730		20141112	UniProtKB:P19793	NCBITaxon:421877
+AgBase	UniProtKB:Q913V3	Q913V3	PMID:15380363		GO:1990216	positive regulation by symbiont of host transcription	IDA		UniProtKB:Q913V3-PRO_0000278754		20150120		NCBITaxon:421879
+AgBase	UniProtKB:Q913V3	Q913V3	PMID:15380363		GO:1990216	positive regulation by symbiont of host transcription	IDA		UniProtKB:Q913V3-PRO_0000278754		20160322	UniProtKB:O88942	NCBITaxon:421879
+AgBase	UniProtKB:Q77Q71	R-LORF7	PMID:16203997		GO:1990216	positive regulation by symbiont of host transcription	IDA				20150625	UniProtKB:P18870	NCBITaxon:10390
+AgBase	UniProtKB:P27958	P27958	PMID:20162731		GO:1990216	positive regulation by symbiont of host transcription	IDA		UniProtKB:P27958-PRO_0000037566		20141216	UniProtKB:P02675	NCBITaxon:63746
+AgBase	UniProtKB:P17452	toxA	PMID:20534589		GO:1990216	positive regulation by symbiont of host transcription	IMP				20151005		NCBITaxon:747
+CACAO	UniProtKB:P05460	psu	PMID:1938879		GO:1990216	positive regulation by symbiont of host transcription	IDA				20160502		NCBITaxon:10680
+UniProt	UniProtKB:P03129	E7	PMID:10523841		GO:1990216	positive regulation by symbiont of host transcription	IMP				20180122	UniProtKB:Q08050-1	NCBITaxon:333760
