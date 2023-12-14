@@ -1,4 +1,4 @@
-! Generated on 2023-11-06T09:08Z from the ontology 'go' with data version: 'releases/2023-11-06'
+! Generated on 2023-12-13T03:04Z from the ontology 'go' with data version: 'releases/2023-12-12'
 !
 RESID:AA0022 > GO:selenocysteine incorporation ; GO:0001514
 RESID:AA0025 > GO:peptide cross-linking via L-cystine ; GO:0018316
@@ -82,21 +82,11 @@ RESID:AA0106 > GO:protein lipidation ; GO:0006497
 RESID:AA0106 > GO:peptidyl-L-cysteine S-palmitoylation ; GO:0018230
 RESID:AA0107 > GO:protein lipidation ; GO:0006497
 RESID:AA0107 > GO:peptidyl-S-diacylglycerol-L-cysteine biosynthetic process from peptidyl-cysteine ; GO:0018231
-RESID:AA0108 > GO:peptide cross-linking via S-(L-isoglutamyl)-L-cysteine ; GO:0018232
-RESID:AA0109 > GO:peptide cross-linking via 2'-(S-L-cysteinyl)-L-histidine ; GO:0018233
-RESID:AA0110 > GO:peptide cross-linking via lanthionine or 3-methyl-lanthionine ; GO:0018081
-RESID:AA0110 > GO:peptide cross-linking via (2R,6R)-lanthionine ; GO:0018154
-RESID:AA0111 > GO:peptide cross-linking via lanthionine or 3-methyl-lanthionine ; GO:0018081
-RESID:AA0111 > GO:peptide cross-linking via sn-(2S,6R)-lanthionine ; GO:0018155
-RESID:AA0112 > GO:peptide cross-linking via lanthionine or 3-methyl-lanthionine ; GO:0018081
-RESID:AA0112 > GO:peptide cross-linking via (2S,3S,6R)-3-methyl-lanthionine ; GO:0018156
-RESID:AA0113 > GO:peptide cross-linking via 3'-(S-L-cysteinyl)-L-tyrosine ; GO:0018234
 RESID:AA0114 > GO:peptidyl-lysine carboxylation ; GO:0018235
 RESID:AA0115 > GO:peptidyl-lysine carboxyethylation ; GO:0018238
 RESID:AA0116 > GO:peptidyl-lysine modification to peptidyl-hypusine ; GO:0008612
 RESID:AA0119 > GO:protein-pyridoxal-5-phosphate linkage via peptidyl-N6-pyridoxal phosphate-L-lysine ; GO:0018272
 RESID:AA0121 > GO:peptidyl-lysine oxidation ; GO:0018057
-RESID:AA0123 > GO:peptide cross-linking via L-lysinoalanine ; GO:0018274
 RESID:AA0124 > GO:protein-glutamine gamma-glutamyltransferase activity ; GO:0003810
 RESID:AA0124 > GO:isopeptide cross-linking via N6-(L-isoglutamyl)-L-lysine ; GO:0018153
 RESID:AA0127 > GO:N-terminal protein amino acid deamination, from amino carbon ; GO:0018058
@@ -127,7 +117,6 @@ RESID:AA0144 > GO:protein-FAD linkage via 3'-(8alpha-FAD)-L-histidine ; GO:00182
 RESID:AA0145 > GO:protein-FAD linkage via O4'-(8alpha-FAD)-L-tyrosine ; GO:0018296
 RESID:AA0146 > GO:peptidyl-L-3',4'-dihydroxyphenylalanine biosynthetic process from peptidyl-tyrosine ; GO:0018067
 RESID:AA0147 > GO:peptidyl-L-2',4',5'-topaquinone biosynthetic process from peptidyl-tyrosine ; GO:0018068
-RESID:AA0149 > GO:peptide cross-linking via 4'-(L-tryptophan)-L-tryptophyl quinone ; GO:0018069
 RESID:AA0150 > GO:peptidyl-serine phosphopantetheinylation ; GO:0018070
 RESID:AA0151 > GO:protein N-linked glycosylation ; GO:0006487
 RESID:AA0151 > GO:protein N-linked N-acetylglucosaminylation via asparagine ; GO:0071903
@@ -166,13 +155,8 @@ RESID:AA0181 > GO:peptidyl-dehydroalanine biosynthetic process from peptidyl-tyr
 RESID:AA0182 > GO:peptidyl-(Z)-dehydrobutyrine biosynthetic process from peptidyl-threonine ; GO:0018082
 RESID:AA0183 > GO:peptidyl-tyrosine dehydrogenation ; GO:0018251
 RESID:AA0183 > GO:peptidyl-tyrosine dehydrogenation to form (Z)-2,3-didehydrotyrosine ; GO:0030921
-RESID:AA0184 > GO:peptide cross-linking via 5-imidazolinone glycine ; GO:0018253
 RESID:AA0185 > GO:peptidyl-L-3-oxoalanine biosynthetic process from peptidyl-cysteine or peptidyl-serine ; GO:0018083
 RESID:AA0186 > GO:peptidyl-lactic acid biosynthetic process from peptidyl-serine ; GO:0018084
-RESID:AA0187 > GO:peptide cross-linking via 5-imidazolinone glycine ; GO:0018253
-RESID:AA0187 > GO:peptide cross-linking via L-alanyl-5-imidazolinone glycine ; GO:0018313
-RESID:AA0188 > GO:peptide cross-linking via 5-imidazolinone glycine ; GO:0018253
-RESID:AA0188 > GO:peptide cross-linking via L-cysteinyl-5-imidazolinone glycine ; GO:0050745
 RESID:AA0191 > GO:peptidyl-D-alanine racemization ; GO:0019122
 RESID:AA0191 > GO:peptidyl-D-alanine racemization, direct ; GO:0019916
 RESID:AA0191 > GO:peptidyl-D-alanine racemization via peptidyl-L-serine ; GO:0019917
@@ -185,7 +169,6 @@ RESID:AA0198 > GO:peptidyl-tryptophan racemization ; GO:0019128
 RESID:AA0201 > GO:protein polyglycylation ; GO:0018094
 RESID:AA0202 > GO:protein polyglutamylation ; GO:0018095
 RESID:AA0203 > GO:peptidyl-tyrosine adenylylation ; GO:0018254
-RESID:AA0204 > GO:peptide cross-linking via S-(2-aminovinyl)-D-cysteine ; GO:0018096
 RESID:AA0205 > GO:peptidyl-cysteine oxidation ; GO:0018171
 RESID:AA0208 > GO:protein-chondroitin sulfate linkage via chondroitin sulfate D-glucuronyl-D-galactosyl-D-galactosyl-D-xylosyl-L-serine ; GO:0018402
 RESID:AA0209 > GO:protein-dermatan sulfate linkage via dermatan 4-sulfate D-glucuronyl-D-galactosyl-D-galactosyl-D-xylosyl-L-serine ; GO:0018403
@@ -199,7 +182,6 @@ RESID:AA0215 > GO:peptidyl-arginine hydroxylation to peptidyl-4-hydroxy-L-argini
 RESID:AA0217 > GO:protein C-linked glycosylation ; GO:0018103
 RESID:AA0217 > GO:protein C-linked glycosylation via 2'-alpha-mannosyl-L-tryptophan ; GO:0018406
 RESID:AA0218 > GO:peptidoglycan-protein cross-linking via N6-mureinyl-L-lysine ; GO:0019121
-RESID:AA0219 > GO:peptide cross-linking via chondroitin 4-sulfate glycosaminoglycan ; GO:0019800
 RESID:AA0221 > GO:protein-FAD linkage via 1'-(8alpha-FAD)-L-histidine ; GO:0018297
 RESID:AA0222 > GO:peptidyl-arginine phosphorylation ; GO:0018109
 RESID:AA0223 > GO:protein lipidation ; GO:0006497
@@ -210,28 +192,14 @@ RESID:AA0228 > GO:peptidyl-lysine guanylylation ; GO:0018261
 RESID:AA0230 > GO:peptidyl-cysteine S-nitrosylation ; GO:0018119
 RESID:AA0232 > GO:peptidyl-L-beta-methylthioaspartic acid biosynthetic process from peptidyl-aspartic acid ; GO:0018339
 RESID:AA0232 > GO:aspartic acid methylthiotransferase activity ; GO:0035599
-RESID:AA0233 > GO:peptide cross-linking via 5'-(N6-L-lysine)-L-topaquinone ; GO:0018124
 RESID:AA0234 > GO:peptidyl-cysteine methylation ; GO:0018125
 RESID:AA0235 > GO:peptidyl-lysine hydroxylation to 4-hydroxy-L-lysine ; GO:0018396
-RESID:AA0238 > GO:peptide cross-linking via L-cysteine oxazolecarboxylic acid ; GO:0018132
-RESID:AA0239 > GO:peptide cross-linking via L-cysteine oxazolinecarboxylic acid ; GO:0018133
-RESID:AA0240 > GO:peptide cross-linking via glycine oxazolecarboxylic acid ; GO:0018134
-RESID:AA0241 > GO:peptide cross-linking via glycine thiazolecarboxylic acid ; GO:0018137
-RESID:AA0242 > GO:peptide cross-linking via L-serine thiazolecarboxylic acid ; GO:0018138
-RESID:AA0243 > GO:peptide cross-linking via L-phenylalanine thiazolecarboxylic acid ; GO:0018139
-RESID:AA0244 > GO:peptide cross-linking via L-cysteine thiazolecarboxylic acid ; GO:0018140
-RESID:AA0245 > GO:peptide cross-linking via L-lysine thiazolecarboxylic acid ; GO:0018141
-RESID:AA0246 > GO:protein-DNA covalent cross-linking via peptidyl-serine ; GO:0018145
 RESID:AA0247 > GO:keratan sulfate biosynthetic process ; GO:0018146
 RESID:AA0247 > GO:protein-keratan sulfate linkage via keratan sulfate D-glucuronyl-D-galactosyl-D-galactosyl-D-xylosyl-L-threonine ; GO:0018405
 RESID:AA0248 > GO:molybdenum incorporation via L-selenocysteinyl molybdenum bis(molybdopterin guanine dinucleotide) ; GO:0018147
 RESID:AA0249 > GO:RNA-protein covalent cross-linking via peptidyl-tyrosine ; GO:0018148
-RESID:AA0250 > GO:peptide cross-linking via 3-(3'-L-histidyl)-L-tyrosine ; GO:0018150
 RESID:AA0251 > GO:peptidyl-methionine oxidation ; GO:0018159
 RESID:AA0252 > GO:peptidyl-pyrromethane cofactor linkage ; GO:0018160
-RESID:AA0253 > GO:peptide cross-linking via S-(2-aminovinyl)-3-methyl-D-cysteine ; GO:0018162
-RESID:AA0254 > GO:protein-DNA covalent cross-linking via the 5'-end to peptidyl-tyrosine ; GO:0018163
-RESID:AA0255 > GO:protein-DNA covalent cross-linking via peptidyl-threonine ; GO:0018164
 RESID:AA0256 > GO:peptidyl-tyrosine uridylylation ; GO:0018165
 RESID:AA0258 > GO:protein-phycobiliviolin linkage ; GO:0017008
 RESID:AA0258 > GO:protein-phycobiliviolin linkage via S-phycobiliviolin-L-cysteine ; GO:0018356
@@ -249,7 +217,6 @@ RESID:AA0266 > GO:protein-heme P460 linkage via heme P460-bis-L-cysteine-L-tyros
 RESID:AA0267 > GO:peptidyl-threonine adenylylation ; GO:0018178
 RESID:AA0268 > GO:iron incorporation into iron-sulfur cluster via tris-L-cysteinyl-L-cysteine persulfido-bis-L-glutamato-L-histidino tetrairon ; GO:0018301
 RESID:AA0269 > GO:peptidyl-cysteine modification to L-cysteine persulfide ; GO:0098822
-RESID:AA0270 > GO:peptide cross-linking via 3'-(1'-L-histidyl)-L-tyrosine ; GO:0018152
 RESID:AA0271 > GO:protein-heme P460 linkage ; GO:0018174
 RESID:AA0271 > GO:protein-heme P460 linkage via heme P460-bis-L-cysteine-L-lysine ; GO:0018360
 RESID:AA0272 > GO:protein-arginine C-methyltransferase activity ; GO:0035244
@@ -294,9 +261,6 @@ RESID:AA0309 > GO:protein lipidation ; GO:0006497
 RESID:AA0309 > GO:peptidyl-glycine cholesteryl ester biosynthesis from peptidyl-glycine ; GO:0019708
 RESID:AA0310 > GO:iron incorporation into iron-sulfur cluster via pentakis-L-cysteinyl L-histidino nickel tetrairon pentasulfide ; GO:0019709
 RESID:AA0310 > GO:nickel incorporation into nickel-iron-sulfur cluster via pentakis-L-cysteinyl L-histidino nickel tetrairon pentasulfide ; GO:0042075
-RESID:AA0313 > GO:peptide cross-linking via 4'-(S-L-cysteinyl)-L-tryptophyl quinone ; GO:0019927
-RESID:AA0314 > GO:peptide cross-linking via 3-(S-L-cysteinyl)-L-aspartic acid ; GO:0019928
-RESID:AA0315 > GO:peptide cross-linking via 4-(S-L-cysteinyl)-L-glutamic acid ; GO:0019929
 RESID:AA0316 > GO:protein lipidation ; GO:0006497
 RESID:AA0316 > GO:cis-14-hydroxy-10,13-dioxo-7-heptadecenoic acid peptidyl-aspartate ester biosynthetic process from peptidyl-aspartic acid ; GO:0019930
 RESID:AA0317 > GO:peptidyl-histidine methylation ; GO:0018021
@@ -304,14 +268,12 @@ RESID:AA0317 > GO:peptidyl-histidine methylation, to form tele-methylhistidine ;
 RESID:AA0319 > GO:molybdenum incorporation via L-serinyl molybdopterin guanine dinucleotide ; GO:0042258
 RESID:AA0321 > GO:pyrrolysine incorporation ; GO:0030631
 RESID:AA0322 > GO:peptidyl-tryptophan hydroxylation ; GO:0045325
-RESID:AA0323 > GO:protein-DNA covalent cross-linking via the 3'-end to peptidyl-tyrosine ; GO:0045326
 RESID:AA0324 > GO:cytochrome P450 4A1-heme linkage ; GO:0045328
 RESID:AA0325 > GO:peptidyl-histidine guanylation ; GO:0098825
 RESID:AA0326 > GO:iron incorporation into iron-sulfur cluster via tetrakis-L-cysteinyl triiron tetrasulfide ; GO:0045459
 RESID:AA0327 > GO:protein N-linked glycosylation ; GO:0006487
 RESID:AA0327 > GO:protein N-linked glycosylation via arginine ; GO:0042543
 RESID:AA0329 > GO:protein-heme linkage via 1'-L-histidine ; GO:0046805
-RESID:AA0330 > GO:peptide cross-linking via (2S,3S,4Xi,6R)-3-methyl-lanthionine sulfoxide ; GO:0046804
 RESID:AA0331 > GO:iron incorporation into iron-sulfur cluster via tris-L-cysteinyl-L-aspartato diiron disulfide ; GO:0046869
 RESID:AA0332 > GO:peptidyl-cysteine S-carbamoylation ; GO:0046891
 RESID:AA0333 > GO:peptidyl-S-carbamoyl-L-cysteine dehydration ; GO:0046892
@@ -326,16 +288,13 @@ RESID:AA0340 > GO:peptidyl-L-glutamyl 5-omega-hydroxyceramide ester biosynthetic
 RESID:AA0341 > GO:peptide cross-linking via 2-(S-L-cysteinyl)-D-phenylalanine ; GO:0046925
 RESID:AA0342 > GO:peptide cross-linking via 2-(S-L-cysteinyl)-D-allo-threonine ; GO:0046926
 RESID:AA0343 > GO:N-terminal peptidyl-alanine N-carbamoylation ; GO:0046945
-RESID:AA0344 > GO:peptide cross-linking via 2-amino-3-isothiazolidinone-L-serine ; GO:0048109
 RESID:AA0345 > GO:peptidoglycan-protein cross-linking via L-threonyl-pentaglycyl-murein ; GO:0042902
 RESID:AA0346 > GO:peptidyl-glycyl-phosphatidylethanolamine biosynthetic process from peptidyl-glycine ; GO:0050495
-RESID:AA0348 > GO:peptide cross-linking via S-[5'-(L-tryptoph-6'-yl)-L-tyrosin-3'-yl]-L-methionin-S-ium ; GO:0050739
 RESID:AA0354 > GO:N-terminal peptidyl-arginine acetylation ; GO:0048275
 RESID:AA0355 > GO:molybdenum incorporation via L-cysteinyl copper sulfido molybdopterin cytosine dinucleotide ; GO:0050834
 RESID:AA0355 > GO:copper incorporation via L-cysteinyl copper sulfido molybdopterin cytosine dinucleotide ; GO:0050842
 RESID:AA0356 > GO:iron incorporation into iron-sulfur cluster via tris-L-cysteinyl S-adenosylmethion-N,O-diyl tetrairon tetrasulfide ; GO:0050835
 RESID:AA0357 > GO:iron incorporation into iron-sulfur cluster via tris-L-cysteinyl L-arginyl diiron disulfide ; GO:0050836
-RESID:AA0358 > GO:peptide cross-linking via L-cysteinyl-L-selenocysteine ; GO:0050837
 RESID:AA0359 > GO:peptidyl-5-hydroxy-L-lysine trimethylation ; GO:0050838
 RESID:AA0359 > GO:peptidyl-N6,N6,N6-trimethyl-lysine hydroxylation to peptidyl-N6,N6,N6-trimethyl-5-hydroxy-L-lysine ; GO:0050841
 RESID:AA0360 > GO:isopeptide cross-linking via N-(L-isoglutamyl)-glycine ; GO:0050986
@@ -345,8 +304,6 @@ RESID:AA0363 > GO:N-terminal peptidyl-methionine carboxylation ; GO:0050988
 RESID:AA0364 > GO:peptidyl-serine O-acetylation ; GO:0030919
 RESID:AA0364 > GO:peptidyl-threonine O-acetylation ; GO:0120258
 RESID:AA0365 > GO:peptidyl-tyrosine dehydrogenation to form (E)-2,3-didehydrotyrosine ; GO:0030922
-RESID:AA0367 > GO:peptide cross-linking via 3'-(3'-L-tyrosinyl)-L-tyrosine ; GO:0030959
-RESID:AA0368 > GO:peptide cross-linking via 3'-(O4'-L-tyrosinyl)-L-tyrosine ; GO:0030960
 RESID:AA0369 > GO:peptidyl-arginine dihydroxylation to peptidyl-3,4-dihydroxy-L-arginine ; GO:0030962
 RESID:AA0370 > GO:peptidyl-allysine oxidation to 2-aminoadipic acid ; GO:0019728
 RESID:AA0370 > GO:peptidyl-lysine dihydroxylation to 4,5-dihydroxy-L-lysine ; GO:0030963

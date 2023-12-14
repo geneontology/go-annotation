@@ -1,4 +1,4 @@
-! Generated on 2023-11-06T09:08Z from the ontology 'go' with data version: 'releases/2023-11-06'
+! Generated on 2023-12-13T03:04Z from the ontology 'go' with data version: 'releases/2023-12-12'
 !
 UM-BBD_pathwayID:2,4,5-t > GO:2,4,5-trichlorophenoxyacetic acid metabolic process ; GO:0018980
 UM-BBD_pathwayID:2,4-d > GO:2,4-dichlorophenoxyacetic acid metabolic process ; GO:0018901
@@ -108,7 +108,6 @@ UM-BBD_pathwayID:pxy > GO:p-xylene metabolic process ; GO:0018951
 UM-BBD_pathwayID:sty > GO:styrene metabolic process ; GO:0018966
 UM-BBD_pathwayID:sty > GO:styrene catabolic process ; GO:0042207
 UM-BBD_pathwayID:sulf > GO:dimethyl sulfoxide metabolic process ; GO:0018907
-UM-BBD_pathwayID:sulf > GO:organosulfide cycle ; GO:0018908
 UM-BBD_pathwayID:tbp > GO:1,2,3-tribromopropane metabolic process ; GO:0018976
 UM-BBD_pathwayID:tbt > GO:tri-n-butyltin metabolic process ; GO:0018944
 UM-BBD_pathwayID:tbz > GO:1,2,4-trichlorobenzene metabolic process ; GO:0018911

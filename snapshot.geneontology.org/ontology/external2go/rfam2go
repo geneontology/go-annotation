@@ -1,5 +1,5 @@
-!version date: 2022-11-02 
-!description: A mapping of GO terms to Rfam release 14.9
+!version date: 2023-11-10 
+!description: A mapping of GO terms to Rfam release 14.10
 !external resource: https://rfam.org/
 !citation: Kalvari et al. (2020) Nucl. Acids Res. 49: D192-D200
 !contact: rfam-help@ebi.ac.uk
@@ -994,8 +994,8 @@ Rfam:RF00638 MIR159 > GO:RISC complex ; GO:0016442
 Rfam:RF00638 MIR159 > GO:gene silencing by miRNA ; GO:0035195
 Rfam:RF00639 mir-515 > GO:RISC complex ; GO:0016442
 Rfam:RF00639 mir-515 > GO:gene silencing by miRNA ; GO:0035195
-Rfam:RF00640 MIR167_1 > GO:RISC complex ; GO:0016442
-Rfam:RF00640 MIR167_1 > GO:gene silencing by miRNA ; GO:0035195
+Rfam:RF00640 MIR167 > GO:RISC complex ; GO:0016442
+Rfam:RF00640 MIR167 > GO:gene silencing by miRNA ; GO:0035195
 Rfam:RF00641 mir-154 > GO:RISC complex ; GO:0016442
 Rfam:RF00641 mir-154 > GO:gene silencing by miRNA ; GO:0035195
 Rfam:RF00642 mir-23 > GO:RISC complex ; GO:0016442
@@ -1032,8 +1032,14 @@ Rfam:RF00661 mir-31 > GO:RISC complex ; GO:0016442
 Rfam:RF00661 mir-31 > GO:gene silencing by miRNA ; GO:0035195
 Rfam:RF00662 mir-132 > GO:RISC complex ; GO:0016442
 Rfam:RF00662 mir-132 > GO:gene silencing by miRNA ; GO:0035195
-Rfam:RF00663 mir-183 > GO:RISC complex ; GO:0016442
-Rfam:RF00663 mir-183 > GO:gene silencing by miRNA ; GO:0035195
+Rfam:RF00663 mir-183 > GO:cell aging ; GO:0007569
+Rfam:RF00663 mir-183 > GO:sensory perception of sound ; GO:0007605
+Rfam:RF00663 mir-183 > GO:regulation of gene expression ; GO:0010468
+Rfam:RF00663 mir-183 > GO:retinal cone cell development ; GO:0046549
+Rfam:RF00663 mir-183 > GO:female sex differentiation ; GO:0046660
+Rfam:RF00663 mir-183 > GO:retina development in camera-type eye ; GO:0060041
+Rfam:RF00663 mir-183 > GO:cellular response to amino acid stimulus ; GO:0071230
+Rfam:RF00663 mir-183 > GO:cellular response to leukemia inhibitory factor ; GO:1990830
 Rfam:RF00664 mir-223 > GO:RISC complex ; GO:0016442
 Rfam:RF00665 mir-290 > GO:RISC complex ; GO:0016442
 Rfam:RF00665 mir-290 > GO:gene silencing by miRNA ; GO:0035195
@@ -1255,8 +1261,6 @@ Rfam:RF00760 mir-342 > GO:cellular response to forskolin ; GO:1904322
 Rfam:RF00760 mir-342 > GO:cellular response to leukemia inhibitory factor ; GO:1990830
 Rfam:RF00761 mir-340 > GO:RISC complex ; GO:0016442
 Rfam:RF00761 mir-340 > GO:gene silencing by miRNA ; GO:0035195
-Rfam:RF00762 mir-412 > GO:RISC complex ; GO:0016442
-Rfam:RF00762 mir-412 > GO:gene silencing by miRNA ; GO:0035195
 Rfam:RF00763 mir-339 > GO:RISC complex ; GO:0016442
 Rfam:RF00763 mir-339 > GO:gene silencing by miRNA ; GO:0035195
 Rfam:RF00764 mir-191 > GO:RISC complex ; GO:0016442
@@ -1269,8 +1273,6 @@ Rfam:RF00766 mir-335 > GO:RISC complex ; GO:0016442
 Rfam:RF00766 mir-335 > GO:gene silencing by miRNA ; GO:0035195
 Rfam:RF00767 mir-150 > GO:RISC complex ; GO:0016442
 Rfam:RF00767 mir-150 > GO:gene silencing by miRNA ; GO:0035195
-Rfam:RF00768 MIR405 > GO:RISC complex ; GO:0016442
-Rfam:RF00768 MIR405 > GO:gene silencing by miRNA ; GO:0035195
 Rfam:RF00769 mir-331 > GO:RISC complex ; GO:0016442
 Rfam:RF00769 mir-331 > GO:gene silencing by miRNA ; GO:0035195
 Rfam:RF00770 mir-330 > GO:RISC complex ; GO:0016442
@@ -1493,8 +1495,6 @@ Rfam:RF00878 mir-456 > GO:RISC complex ; GO:0016442
 Rfam:RF00878 mir-456 > GO:gene silencing by miRNA ; GO:0035195
 Rfam:RF00879 mir-615 > GO:RISC complex ; GO:0016442
 Rfam:RF00879 mir-615 > GO:gene silencing by miRNA ; GO:0035195
-Rfam:RF00882 MIR811 > GO:RISC complex ; GO:0016442
-Rfam:RF00882 MIR811 > GO:gene silencing by miRNA ; GO:0035195
 Rfam:RF00883 MIR820 > GO:RISC complex ; GO:0016442
 Rfam:RF00883 MIR820 > GO:gene silencing by miRNA ; GO:0035195
 Rfam:RF00884 MIR815 > GO:RISC complex ; GO:0016442
@@ -3013,7 +3013,7 @@ Rfam:RF02087 Yar_3 > GO:regulation of circadian sleep/wake cycle ; GO:0042749
 Rfam:RF02092 mir-2970 > GO:gene silencing by miRNA ; GO:0035195
 Rfam:RF02093 mir-2968 > GO:gene silencing by miRNA ; GO:0035195
 Rfam:RF02094 mir-1803 > GO:gene silencing by miRNA ; GO:0035195
-Rfam:RF02095 mir-2985-2 > GO:gene silencing by miRNA ; GO:0035195
+Rfam:RF02095 mir-2985 > GO:gene silencing by miRNA ; GO:0035195
 Rfam:RF02097 mir-1662 > GO:gene silencing by miRNA ; GO:0035195
 Rfam:RF02101 HULC > GO:ribosome ; GO:0005840
 Rfam:RF02101 HULC > GO:regulation of gene expression ; GO:0010468
@@ -3678,7 +3678,7 @@ Rfam:RF03492 mir-878 > GO:cellular response to leukemia inhibitory factor ; GO:1
 Rfam:RF03499 mir-702 > GO:negative regulation of gene expression ; GO:0010629
 Rfam:RF03499 mir-702 > GO:positive regulation of stem cell proliferation ; GO:2000648
 Rfam:RF03532 SQ2397 > GO:regulation of DNA-binding transcription factor activity ; GO:0051090
-Rfam:RF03533 SQ1002_RNA > GO:regulation of mRNA stability, ncRNA-mediated ; GO:0070928
+Rfam:RF03533 SQ1002_RNA > GO:ncRNA-mediated post-transcriptional gene silencing ; GO:0035194
 Rfam:RF03534 sRNA71 > GO:mRNA binding ; GO:0003729
 Rfam:RF03535 TEG147 > GO:mRNA binding ; GO:0003729
 Rfam:RF03538 Flavi_TBFV_CRE > GO:viral RNA genome replication ; GO:0039694
@@ -3717,3 +3717,35 @@ Rfam:RF04217 mir-297 > GO:cellular response to estrogen stimulus ; GO:0071391
 Rfam:RF04217 mir-297 > GO:cellular response to leukemia inhibitory factor ; GO:1990830
 Rfam:RF04218 HCV_5BSL1 > GO:viral RNA genome replication ; GO:0039694
 Rfam:RF04222 PLRV_xrRNA > GO:viral RNA genome replication ; GO:0039694
+Rfam:RF04243 MIR169_3 > GO:RISC complex ; GO:0016442
+Rfam:RF04243 MIR169_3 > GO:gene silencing by miRNA ; GO:0035195
+Rfam:RF04244 MIR169_6 > GO:RISC complex ; GO:0016442
+Rfam:RF04244 MIR169_6 > GO:gene silencing by miRNA ; GO:0035195
+Rfam:RF04245 MIR169_7 > GO:RISC complex ; GO:0016442
+Rfam:RF04245 MIR169_7 > GO:gene silencing by miRNA ; GO:0035195
+Rfam:RF04246 MIR169_8 > GO:RISC complex ; GO:0016442
+Rfam:RF04246 MIR169_8 > GO:gene silencing by miRNA ; GO:0035195
+Rfam:RF04249 mir-310 > GO:compound eye morphogenesis ; GO:0001745
+Rfam:RF04249 mir-310 > GO:dorsal closure ; GO:0007391
+Rfam:RF04249 mir-310 > GO:head involution ; GO:0008258
+Rfam:RF04249 mir-310 > GO:response to nicotine ; GO:0035094
+Rfam:RF04249 mir-310 > GO:segmentation ; GO:0035282
+Rfam:RF04249 mir-310 > GO:cellular response to nitric oxide ; GO:0071732
+Rfam:RF04270 mir-743 > GO:female sex differentiation ; GO:0046660
+Rfam:RF04270 mir-743 > GO:cellular response to leukemia inhibitory factor ; GO:1990830
+Rfam:RF04284 mir-532 > GO:cell ; GO:0005623
+Rfam:RF04284 mir-532 > GO:sensory perception of sound ; GO:0007605
+Rfam:RF04284 mir-532 > GO:RISC complex ; GO:0016442
+Rfam:RF04284 mir-532 > GO:micro-ribonucleoprotein complex ; GO:0035068
+Rfam:RF04284 mir-532 > GO:cellular response to glucose stimulus ; GO:0071333
+Rfam:RF04284 mir-532 > GO:cellular response to leukemia inhibitory factor ; GO:1990830
+Rfam:RF04292 mir-379 > GO:cell ; GO:0005623
+Rfam:RF04292 mir-379 > GO:gene expression ; GO:0010467
+Rfam:RF04292 mir-379 > GO:negative regulation of gene expression ; GO:0010629
+Rfam:RF04292 mir-379 > GO:cellular response to decreased oxygen levels ; GO:0036294
+Rfam:RF04292 mir-379 > GO:long-term synaptic potentiation ; GO:0060291
+Rfam:RF04292 mir-379 > GO:response to oxygen levels ; GO:0070482
+Rfam:RF04292 mir-379 > GO:cellular response to amino acid stimulus ; GO:0071230
+Rfam:RF04292 mir-379 > GO:cellular response to mechanical stimulus ; GO:0071260
+Rfam:RF04292 mir-379 > GO:cellular response to glucose stimulus ; GO:0071333
+Rfam:RF04292 mir-379 > GO:cellular response to leukemia inhibitory factor ; GO:1990830

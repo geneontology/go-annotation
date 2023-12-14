@@ -1,4 +1,4 @@
-! Generated on 2023-11-06T09:08Z from the ontology 'go' with data version: 'releases/2023-11-06'
+! Generated on 2023-12-13T03:04Z from the ontology 'go' with data version: 'releases/2023-12-12'
 !
 Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase [NAD(P)] activity ; GO:0003845
 Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase (NAD+) activity ; GO:0070523
@@ -19,7 +19,7 @@ Wikipedia:AP_endonuclease > GO:class III/IV DNA-(apurinic or apyrimidinic site) 
 Wikipedia:ATP-binding_cassette_transporter > GO:ABC-type transporter activity ; GO:0140359
 Wikipedia:ATPase,_Na%2B/K%2B_transporting,_alpha_1 > GO:P-type sodium:potassium-exchanging transporter activity ; GO:0005391
 Wikipedia:Abscission > GO:abscission ; GO:0009838
-Wikipedia:Acid-sensing_ion_channel > GO:acid-sensing ion channel activity ; GO:0044736
+Wikipedia:Acid-sensing_ion_channel > GO:pH-gated monoatomic ion channel activity ; GO:0160128
 Wikipedia:Acrosome > GO:acrosomal vesicle ; GO:0001669
 Wikipedia:Acrosome_reaction > GO:acrosome reaction ; GO:0007340
 Wikipedia:Actin > GO:actin filament ; GO:0005884
@@ -308,8 +308,6 @@ Wikipedia:Heterotroph > GO:carbon utilization ; GO:0015976
 Wikipedia:Hibernation > GO:hibernation ; GO:0042750
 Wikipedia:Histidine > GO:histidine metabolic process ; GO:0006547
 Wikipedia:Histogenesis > GO:tissue development ; GO:0009888
-Wikipedia:Histone#Histone_modifications_in_chromatin_regulation > GO:histone modification ; GO:0016570
-Wikipedia:Histone_methylation > GO:histone methylation ; GO:0016571
 Wikipedia:Host_(biology) > GO:host cellular component ; GO:0018995
 Wikipedia:Humoral_immunity > GO:humoral immune response ; GO:0006959
 Wikipedia:Hydrogenosome > GO:hydrogenosome ; GO:0042566
@@ -571,7 +569,6 @@ Wikipedia:Pupa > GO:pupation ; GO:0035074
 Wikipedia:Pupa#Emergence > GO:eclosion ; GO:0007562
 Wikipedia:Pyknosis > GO:apoptotic chromosome condensation ; GO:0030263
 Wikipedia:Pyrenoid > GO:pyrenoid ; GO:1990732
-Wikipedia:Pyruvate_decarboxylation > GO:pyruvate oxidation ; GO:0009444
 Wikipedia:Pyruvate_dehydrogenase_complex > GO:pyruvate dehydrogenase complex ; GO:0045254
 Wikipedia:Pyruvic_acid > GO:pyruvate metabolic process ; GO:0006090
 Wikipedia:Quorum_sensing > GO:quorum sensing ; GO:0009372
@@ -663,6 +660,7 @@ Wikipedia:Stress_granule > GO:cytoplasmic stress granule ; GO:0010494
 Wikipedia:Stringent_response > GO:stringent response ; GO:0015968
 Wikipedia:Stromule > GO:stromule ; GO:0010319
 Wikipedia:Sucrase-isomaltase > GO:sucrase-isomaltase complex ; GO:0070014
+Wikipedia:Sulfate-reducing_microorganism > GO:dissimilatory sulfate reduction ; GO:0019420
 Wikipedia:Sulfur_metabolism > GO:sulfur compound metabolic process ; GO:0006790
 Wikipedia:Symplast > GO:symplast ; GO:0055044
 Wikipedia:Synapsis > GO:homologous chromosome pairing at meiosis ; GO:0007129

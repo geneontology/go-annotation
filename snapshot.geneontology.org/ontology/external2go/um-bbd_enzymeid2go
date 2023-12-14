@@ -1,4 +1,4 @@
-! Generated on 2023-11-06T09:08Z from the ontology 'go' with data version: 'releases/2023-11-06'
+! Generated on 2023-12-13T03:04Z from the ontology 'go' with data version: 'releases/2023-12-12'
 !
 UM-BBD_enzymeID:e0002 > GO:naphthalene 1,2-dioxygenase activity ; GO:0018625
 UM-BBD_enzymeID:e0003 > GO:haloalkane dehalogenase activity ; GO:0018786
@@ -62,12 +62,9 @@ UM-BBD_enzymeID:e0214 > GO:dibenzothiophene monooxygenase activity ; GO:0018640
 UM-BBD_enzymeID:e0216 > GO:2'-hydroxybiphenyl-2-sulfinate desulfinase activity ; GO:0018740
 UM-BBD_enzymeID:e0219 > GO:cis-1,2-dihydroxycyclohexa-3,5-diene-1-carboxylate dehydrogenase activity ; GO:0018508
 UM-BBD_enzymeID:e0222 > GO:toluene 2-monooxygenase activity ; GO:0018644
-UM-BBD_enzymeID:e0224 > GO:toluene 3-monooxygenase activity ; GO:0018657
 UM-BBD_enzymeID:e0225 > GO:toluene 4-monooxygenase activity ; GO:0018638
 UM-BBD_enzymeID:e0229 > GO:chloral hydrate dehydrogenase activity ; GO:0018447
 UM-BBD_enzymeID:e0245 > GO:nitrobenzene nitroreductase activity ; GO:0018546
-UM-BBD_enzymeID:e0245 > GO:4-chloronitrobenzene nitroreductase activity ; GO:0052602
-UM-BBD_enzymeID:e0245 > GO:1-chloro-4-nitrosobenzene nitroreductase activity ; GO:0052603
 UM-BBD_enzymeID:e0249 > GO:naphthalene disulfonate 1,2-dioxygenase activity ; GO:0018689
 UM-BBD_enzymeID:e0252 > GO:chlorophenol 4-monooxygenase activity ; GO:0018642
 UM-BBD_enzymeID:e0255 > GO:1,2-dihydroxynaphthalene dioxygenase activity ; GO:0018554
@@ -85,7 +82,7 @@ UM-BBD_enzymeID:e0309 > GO:3-(2,3-dihydroxyphenyl)propionate 1,2-dioxygenase act
 UM-BBD_enzymeID:e0333 > GO:phenanthrene 1,2-monooxygenase activity ; GO:0018647
 UM-BBD_enzymeID:e0337 > GO:nicotine dehydrogenase activity ; GO:0018535
 UM-BBD_enzymeID:e0341 > GO:arylamine N-acetyltransferase activity ; GO:0004060
-UM-BBD_enzymeID:e0346 > GO:NAD(P)H nitroreductase activity ; GO:0018545
+UM-BBD_enzymeID:e0346 > GO:oxidoreductase activity, acting on other nitrogenous compounds as donors, with NAD or NADP as acceptor ; GO:0046857
 UM-BBD_enzymeID:e0357 > GO:bromoxynil nitrilase activity ; GO:0018761
 UM-BBD_enzymeID:e0359 > GO:gamma-hexachlorocyclohexane dehydrochlorinase activity ; GO:0018830
 UM-BBD_enzymeID:e0366 > GO:2,5-dichlorohydroquinone reductive dehalogenase activity ; GO:0018701

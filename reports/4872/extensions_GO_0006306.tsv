@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:3588194	Prdm14	PMID:23670199		GO:0044030	regulation of DNA methylation	IMP	MGI:MGI:4441771		PANTHER:PTHR16515	20140120	CL:0000670|GO:0006306	NCBITaxon:10090
+ZFIN	ZFIN:ZDB-GENE-990714-15	dnmt1	PMID:25886310		GO:0051718	DNA (cytosine-5-)-methyltransferase activity, acting on CpG substrates	IMP	ZFIN:ZDB-MRPHLNO-070615-4		PANTHER:PTHR10629	20190618	GO:0006306|GO:0010629|ZFIN:ZDB-GENE-020111-2|GO:0003674	NCBITaxon:7955

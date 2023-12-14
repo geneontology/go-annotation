@@ -1,4 +1,4 @@
-! Generated on 2023-11-06T09:08Z from the ontology 'go' with data version: 'releases/2023-11-06'
+! Generated on 2023-12-13T03:04Z from the ontology 'go' with data version: 'releases/2023-12-12'
 !
 EC:1.-.-.- > GO:oxidoreductase activity ; GO:0016491
 EC:1.1.-.- > GO:oxidoreductase activity, acting on CH-OH group of donors ; GO:0016614
@@ -369,6 +369,7 @@ EC:1.1.4.- > GO:oxidoreductase activity, acting on the CH-OH group of donors, di
 EC:1.1.5.- > GO:oxidoreductase activity, acting on the CH-OH group of donors, quinone or similar compound as acceptor ; GO:0016901
 EC:1.1.5.12 > GO:D-lactate dehydrogenase (quinone) activity ; GO:0102029
 EC:1.1.5.13 > GO:(S)-2-hydroxyglutarate dehydrogenase activity ; GO:0140696
+EC:1.1.5.14 > GO:fructose 5-dehydrogenase activity ; GO:0047904
 EC:1.1.5.2 > GO:quinoprotein glucose dehydrogenase activity ; GO:0008876
 EC:1.1.5.3 > GO:glycerol-3-phosphate dehydrogenase (quinone) activity ; GO:0004368
 EC:1.1.5.4 > GO:malate dehydrogenase (quinone) activity ; GO:0008924
@@ -379,7 +380,6 @@ EC:1.1.7.1 > GO:4-hydroxybenzoyl-CoA reductase activity ; GO:0018525
 EC:1.1.98.2 > GO:glucose-6-phosphate dehydrogenase (coenzyme F420) activity ; GO:0052749
 EC:1.1.99.- > GO:limonene-1,2-diol dehydrogenase activity ; GO:0018466
 EC:1.1.99.1 > GO:choline dehydrogenase activity ; GO:0008812
-EC:1.1.99.11 > GO:fructose 5-dehydrogenase activity ; GO:0047904
 EC:1.1.99.12 > GO:sorbose dehydrogenase activity ; GO:0050288
 EC:1.1.99.13 > GO:glucoside 3-dehydrogenase activity ; GO:0033757
 EC:1.1.99.14 > GO:glycolate dehydrogenase activity ; GO:0019154
@@ -659,7 +659,7 @@ EC:1.14.12.13 > GO:2-chlorobenzoate 1,2-dioxygenase activity ; GO:0018626
 EC:1.14.12.14 > GO:2-aminobenzenesulfonate 2,3-dioxygenase activity ; GO:0018627
 EC:1.14.12.15 > GO:terephthalate 1,2-dioxygenase activity ; GO:0018628
 EC:1.14.12.16 > GO:2-hydroxyquinoline 5,6-dioxygenase activity ; GO:0018629
-EC:1.14.12.17 > GO:nitric oxide dioxygenase activity ; GO:0008941
+EC:1.14.12.17 > GO:nitric oxide dioxygenase NAD(P)H activity ; GO:0008941
 EC:1.14.12.18 > GO:biphenyl 2,3-dioxygenase activity ; GO:0018687
 EC:1.14.12.19 > GO:3-phenylpropionate dioxygenase activity ; GO:0008695
 EC:1.14.12.25 > GO:p-cumate 2,3-dioxygenase activity ; GO:0018570
@@ -673,9 +673,7 @@ EC:1.14.13.- > GO:3,5-xylenol methylhydroxylase activity ; GO:0018630
 EC:1.14.13.- > GO:phenylacetate hydroxylase activity ; GO:0018631
 EC:1.14.13.- > GO:dimethyl sulfide monooxygenase activity ; GO:0018633
 EC:1.14.13.- > GO:phenanthrene 9,10-monooxygenase activity ; GO:0018636
-EC:1.14.13.- > GO:toluene 4-monooxygenase activity ; GO:0018638
 EC:1.14.13.- > GO:xylene monooxygenase activity ; GO:0018639
-EC:1.14.13.- > GO:6-hydroxy-3-methyl-2-oxo-1,2-dihydroquinoline 6-monooxygenase activity ; GO:0018641
 EC:1.14.13.- > GO:chlorophenol 4-monooxygenase activity ; GO:0018642
 EC:1.14.13.- > GO:carbon disulfide oxygenase activity ; GO:0018643
 EC:1.14.13.- > GO:1-hydroxy-2-oxolimonene 1,2-monooxygenase activity ; GO:0018646
@@ -687,7 +685,6 @@ EC:1.14.13.- > GO:3-methyl-2-oxo-1,2-dihydroquinoline 6-monooxygenase activity ;
 EC:1.14.13.- > GO:2-hydroxy-phenylacetate hydroxylase activity ; GO:0018654
 EC:1.14.13.- > GO:2-oxo-delta3-4,5,5-trimethylcyclopentenylacetyl-CoA 1,2-monooxygenase activity ; GO:0018655
 EC:1.14.13.- > GO:phenanthrene 3,4-monooxygenase activity ; GO:0018656
-EC:1.14.13.- > GO:toluene 3-monooxygenase activity ; GO:0018657
 EC:1.14.13.- > GO:limonene monooxygenase activity ; GO:0019113
 EC:1.14.13.- > GO:2-methylnaphthalene hydroxylase activity ; GO:0034526
 EC:1.14.13.- > GO:1-methylnaphthalene hydroxylase activity ; GO:0034534
@@ -731,6 +728,7 @@ EC:1.14.13.20 > GO:2,4-dichlorophenol 6-monooxygenase activity ; GO:0018666
 EC:1.14.13.218 > GO:pyocyanin hydroxylase activity ; GO:0102169
 EC:1.14.13.22 > GO:cyclohexanone monooxygenase activity ; GO:0018667
 EC:1.14.13.23 > GO:3-hydroxybenzoate 4-monooxygenase activity ; GO:0018668
+EC:1.14.13.236 > GO:toluene 4-monooxygenase activity ; GO:0018638
 EC:1.14.13.24 > GO:3-hydroxybenzoate 6-monooxygenase activity ; GO:0018669
 EC:1.14.13.241 > GO:5-pyridoxate dioxygenase activity ; GO:0047592
 EC:1.14.13.242 > GO:3-hydroxy-2-methylpyridinecarboxylate dioxygenase activity ; GO:0047081
@@ -1324,8 +1322,7 @@ EC:1.3.3.6 > GO:acyl-CoA oxidase activity ; GO:0003997
 EC:1.3.3.7 > GO:dihydrouracil oxidase activity ; GO:0047857
 EC:1.3.3.8 > GO:tetrahydroberberine oxidase activity ; GO:0050328
 EC:1.3.5.- > GO:oxidoreductase activity, acting on the CH-CH group of donors, quinone or related compound as acceptor ; GO:0016635
-EC:1.3.5.1 > GO:succinate dehydrogenase (ubiquinone) activity ; GO:0008177
-EC:1.3.5.1 > GO:fumarate reductase (menaquinone) ; GO:0102040
+EC:1.3.5.1 > GO:succinate dehydrogenase (quinone) activity ; GO:0008177
 EC:1.3.5.2 > GO:dihydroorotate dehydrogenase (quinone) activity ; GO:0106430
 EC:1.3.5.6 > GO:9,9'-di-cis-zeta-carotene desaturase activity ; GO:0016719
 EC:1.3.5.6 > GO:9,9'-dicis-carotene:quinone oxidoreductase activity ; GO:0052886
@@ -1338,8 +1335,7 @@ EC:1.3.7.4 > GO:phytochromobilin:ferredoxin oxidoreductase activity ; GO:0050619
 EC:1.3.7.5 > GO:phycocyanobilin:ferredoxin oxidoreductase activity ; GO:0050620
 EC:1.3.7.8 > GO:benzoyl-CoA reductase activity ; GO:0018522
 EC:1.3.8.- > GO:oxidoreductase activity, acting on the CH-CH group of donors, with a flavin as acceptor ; GO:0052890
-EC:1.3.8.1 > GO:butyryl-CoA dehydrogenase activity ; GO:0004085
-EC:1.3.8.1 > GO:short-chain-acyl-CoA dehydrogenase activity ; GO:0016937
+EC:1.3.8.1 > GO:short-chain fatty acyl-CoA dehydrogenase activity ; GO:0016937
 EC:1.3.8.2 > GO:4,4'-diapophytoene desaturase (4,4'-diaponeurosporene-forming) ; GO:0102223
 EC:1.3.8.2 > GO:4,4'-diapophytoene desaturase (4,4'-diapolycopene-forming) ; GO:0140868
 EC:1.3.8.3 > GO:(R)-benzylsuccinyl-CoA dehydrogenase activity ; GO:0033734
@@ -1347,15 +1343,14 @@ EC:1.3.8.4 > GO:isovaleryl-CoA dehydrogenase activity ; GO:0008470
 EC:1.3.8.5 > GO:2-methylacyl-CoA dehydrogenase activity ; GO:0003853
 EC:1.3.8.5 > GO:isobutyryl-CoA:FAD oxidoreductase activity ; GO:0102035
 EC:1.3.8.6 > GO:glutaryl-CoA dehydrogenase activity ; GO:0004361
-EC:1.3.8.7 > GO:medium-chain-acyl-CoA dehydrogenase activity ; GO:0070991
+EC:1.3.8.7 > GO:medium-chain fatty acyl-CoA dehydrogenase activity ; GO:0070991
 EC:1.3.8.8 > GO:long-chain-acyl-CoA dehydrogenase activity ; GO:0004466
-EC:1.3.8.9 > GO:very-long-chain-acyl-CoA dehydrogenase activity ; GO:0017099
+EC:1.3.8.9 > GO:very-long-chain fatty acyl-CoA dehydrogenase activity ; GO:0017099
 EC:1.3.98.1 > GO:dihydroorotate dehydrogenase (fumarate) activity ; GO:1990663
 EC:1.3.98.3 > GO:coproporphyrinogen dehydrogenase activity ; GO:0051989
 EC:1.3.99.- > GO:4-methyloctanoyl-CoA dehydrogenase activity ; GO:0034580
 EC:1.3.99.- > GO:naphthyl-2-methyl-succinyl-CoA dehydrogenase activity ; GO:0034845
 EC:1.3.99.- > GO:2-methylhexanoyl-CoA dehydrogenase activity ; GO:0034916
-EC:1.3.99.- > GO:propionyl-CoA dehydrogenase activity ; GO:0043820
 EC:1.3.99.- > GO:thiol-driven fumarate reductase activity ; GO:0043830
 EC:1.3.99.- > GO:coenzyme F420-dependent 2,4,6-trinitrophenol reductase activity ; GO:0052758
 EC:1.3.99.- > GO:coenzyme F420-dependent 2,4,6-trinitrophenol hydride reductase activity ; GO:0052759
@@ -1548,7 +1543,6 @@ EC:1.6.5.4 > GO:monodehydroascorbate reductase (NADH) activity ; GO:0016656
 EC:1.6.5.5 > GO:NADPH:quinone reductase activity ; GO:0003960
 EC:1.6.5.6 > GO:p-benzoquinone reductase (NADPH) activity ; GO:0018541
 EC:1.6.5.7 > GO:2-hydroxy-1,4-benzoquinone reductase activity ; GO:0050625
-EC:1.6.6.- > GO:oxidoreductase activity, acting on NAD(P)H, nitrogenous group as acceptor ; GO:0016657
 EC:1.6.99.1 > GO:NADPH dehydrogenase activity ; GO:0003959
 EC:1.6.99.1 > GO:pentaerythritol trinitrate reductase activity ; GO:0018548
 EC:1.7.-.- > GO:oxidoreductase activity, acting on other nitrogenous compounds as donors ; GO:0016661
@@ -1559,6 +1553,7 @@ EC:1.7.1.11 > GO:4-(dimethylamino)phenylazoxybenzene reductase activity ; GO:004
 EC:1.7.1.12 > GO:N-hydroxy-2-acetamidofluorene reductase activity ; GO:0047137
 EC:1.7.1.13 > GO:preQ1 synthase activity ; GO:0033739
 EC:1.7.1.14 > GO:nitric oxide reductase activity (NAD(P)H-dependent) activity ; GO:0102199
+EC:1.7.1.15 > GO:nitrite reductase NADH activity ; GO:0106316
 EC:1.7.1.16 > GO:nitrobenzene nitroreductase activity ; GO:0018546
 EC:1.7.1.2 > GO:nitrate reductase [NAD(P)H] activity ; GO:0050463
 EC:1.7.1.3 > GO:nitrate reductase (NADPH) activity ; GO:0050464
@@ -1762,7 +1757,7 @@ EC:2.1.1.192 > GO:rRNA (adenine(2503)-C2-)-methyltransferase activity ; GO:00700
 EC:2.1.1.197 > GO:malonyl-CoA methyltransferase activity ; GO:0102130
 EC:2.1.1.2 > GO:guanidinoacetate N-methyltransferase activity ; GO:0030731
 EC:2.1.1.20 > GO:glycine N-methyltransferase activity ; GO:0017174
-EC:2.1.1.201 > GO:2-octaprenyl-6-methoxy-1,4-benzoquinone methylase activity ; GO:0043333
+EC:2.1.1.201 > GO:2-polyprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity ; GO:0008425
 EC:2.1.1.202 > GO:tRNA (cytidine-5-)-methyltransferase activity ; GO:0016428
 EC:2.1.1.205 > GO:tRNA (cytidine(32)-2'-O)-methyltransferase activity ; GO:0106339
 EC:2.1.1.205 > GO:tRNA (guanine(34)-2'-O)-methyltransferase activity ; GO:0106340
@@ -1975,7 +1970,6 @@ EC:2.3.1.115 > GO:isoflavone-7-O-beta-glucoside 6''-O-malonyltransferase activit
 EC:2.3.1.116 > GO:flavonol-3-O-beta-glucoside O-malonyltransferase activity ; GO:0047165
 EC:2.3.1.117 > GO:2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase activity ; GO:0008666
 EC:2.3.1.118 > GO:N-hydroxyarylamine O-acetyltransferase activity ; GO:0046990
-EC:2.3.1.119 > GO:icosanoyl-CoA synthase activity ; GO:0033807
 EC:2.3.1.12 > GO:dihydrolipoyllysine-residue acetyltransferase activity ; GO:0004742
 EC:2.3.1.121 > GO:1-alkenylglycerophosphoethanolamine O-acyltransferase activity ; GO:0047166
 EC:2.3.1.122 > GO:trehalose O-mycolyltransferase activity ; GO:0050348
@@ -2216,7 +2210,7 @@ EC:2.4.1.105 > GO:vitexin beta-glucosyltransferase activity ; GO:0050395
 EC:2.4.1.106 > GO:isovitexin beta-glucosyltransferase activity ; GO:0050010
 EC:2.4.1.109 > GO:dolichyl-phosphate-mannose-protein mannosyltransferase activity ; GO:0004169
 EC:2.4.1.11 > GO:glycogen (starch) synthase activity ; GO:0004373
-EC:2.4.1.110 > GO:tRNA-queuosine beta-mannosyltransferase activity ; GO:0016438
+EC:2.4.1.110 > GO:tRNA-queuosine(34) beta-mannosyltransferase activity ; GO:0016438
 EC:2.4.1.111 > GO:coniferyl-alcohol glucosyltransferase activity ; GO:0047209
 EC:2.4.1.113 > GO:alpha-1,4-glucan-protein synthase (ADP-forming) activity ; GO:0047211
 EC:2.4.1.114 > GO:2-coumarate O-beta-glucosyltransferase activity ; GO:0047212
@@ -3306,25 +3300,24 @@ EC:3.1.15.- > GO:exonuclease activity, active with either ribo- or deoxyribonucl
 EC:3.1.16.- > GO:exonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 3'-phosphomonoesters ; GO:0016797
 EC:3.1.2.- > GO:thiolester hydrolase activity ; GO:0016790
 EC:3.1.2.1 > GO:acetyl-CoA hydrolase activity ; GO:0003986
-EC:3.1.2.10 > GO:formyl-CoA hydrolase activity ; GO:0047901
+EC:3.1.2.10 > GO:acyl-CoA hydrolase activity ; GO:0016289
 EC:3.1.2.11 > GO:acetoacetyl-CoA hydrolase activity ; GO:0047603
 EC:3.1.2.12 > GO:S-formylglutathione hydrolase activity ; GO:0018738
 EC:3.1.2.13 > GO:S-succinylglutathione hydrolase activity ; GO:0050273
 EC:3.1.2.14 > GO:acyl-[acyl-carrier-protein] hydrolase activity ; GO:0016297
 EC:3.1.2.16 > GO:[citrate-(pro-3S)-lyase] thiolesterase activity ; GO:0047778
 EC:3.1.2.17 > GO:(S)-methylmalonyl-CoA hydrolase activity ; GO:0047511
-EC:3.1.2.18 > GO:ADP-dependent short-chain-acyl-CoA hydrolase activity ; GO:0047379
-EC:3.1.2.19 > GO:ADP-dependent medium-chain-acyl-CoA hydrolase activity ; GO:0047380
-EC:3.1.2.2 > GO:palmitoyl-CoA hydrolase activity ; GO:0016290
-EC:3.1.2.2 > GO:myristoyl-CoA hydrolase activity ; GO:0102991
-EC:3.1.2.20 > GO:acyl-CoA hydrolase activity ; GO:0047617
+EC:3.1.2.18 > GO:short-chain fatty acyl-CoA hydrolase activity ; GO:0141126
+EC:3.1.2.19 > GO:medium-chain fatty acyl-CoA hydrolase activity ; GO:0052815
+EC:3.1.2.20 > GO:fatty acyl-CoA hydrolase activity ; GO:0047617
 EC:3.1.2.21 > GO:dodecanoyl-[acyl-carrier-protein] hydrolase activity ; GO:0047381
 EC:3.1.2.22 > GO:palmitoyl-(protein) hydrolase activity ; GO:0008474
 EC:3.1.2.23 > GO:4-hydroxybenzoyl-CoA thioesterase activity ; GO:0018739
 EC:3.1.2.25 > GO:phenylacetyl-CoA hydrolase activity ; GO:0033880
 EC:3.1.2.27 > GO:choloyl-CoA hydrolase activity ; GO:0033882
+EC:3.1.2.28 > GO:1,4-dihydroxy-2-naphthoyl-CoA thioesterase activity ; GO:0061522
 EC:3.1.2.3 > GO:succinyl-CoA hydrolase activity ; GO:0004778
-EC:3.1.2.3 > GO:glutaryl-CoA hydrolase activity ; GO:0044466
+EC:3.1.2.3 > GO:fatty acyl-CoA hydrolase activity ; GO:0047617
 EC:3.1.2.4 > GO:3-hydroxyisobutyryl-CoA hydrolase activity ; GO:0003860
 EC:3.1.2.5 > GO:hydroxymethylglutaryl-CoA hydrolase activity ; GO:0047994
 EC:3.1.2.6 > GO:hydroxyacylglutathione hydrolase activity ; GO:0004416
@@ -3667,7 +3660,6 @@ EC:3.2.1.62 > GO:glycosylceramidase activity ; GO:0017042
 EC:3.2.1.63 > GO:1,2-alpha-L-fucosidase activity ; GO:0047513
 EC:3.2.1.64 > GO:2,6-beta-fructan 6-levanbiohydrolase activity ; GO:0033912
 EC:3.2.1.65 > GO:levanase activity ; GO:0031219
-EC:3.2.1.66 > GO:quercitrinase activity ; GO:0050245
 EC:3.2.1.67 > GO:galacturan 1,4-alpha-galacturonidase activity ; GO:0047911
 EC:3.2.1.68 > GO:isoamylase activity ; GO:0019156
 EC:3.2.1.7 > GO:inulinase activity ; GO:0051670
@@ -3732,12 +3724,12 @@ EC:3.2.2.3 > GO:uridine nucleosidase activity ; GO:0045437
 EC:3.2.2.30 > GO:6-amino-6-deoxyfutalosine hydrolase activity ; GO:0102246
 EC:3.2.2.31 > GO:purine-specific mismatch base pair DNA N-glycosylase activity ; GO:0000701
 EC:3.2.2.4 > GO:AMP nucleosidase activity ; GO:0008714
-EC:3.2.2.5 > GO:NAD glycohydrolase activity ; GO:0061810
-EC:3.2.2.6 > GO:NAD(P)+ nucleosidase activity ; GO:0050135
+EC:3.2.2.5 > GO:NAD+ nucleosidase activity ; GO:0003953
 EC:3.2.2.6 > GO:NAD+ nucleotidase, cyclic ADP-ribose generating ; GO:0061809
 EC:3.2.2.7 > GO:adenosine nucleosidase activity ; GO:0047622
 EC:3.2.2.8 > GO:ribosylpyrimidine nucleosidase activity ; GO:0050263
 EC:3.2.2.9 > GO:adenosylhomocysteine nucleosidase activity ; GO:0008782
+EC:3.2.2.n1 > GO:cytokinin riboside 5'-monophosphate phosphoribohydrolase activity ; GO:0102682
 EC:3.3.-.- > GO:hydrolase activity, acting on ether bonds ; GO:0016801
 EC:3.3.1.- > GO:trialkylsulfonium hydrolase activity ; GO:0016802
 EC:3.3.2.- > GO:juvenile hormone epoxide hydrolase activity ; GO:0008096
@@ -3752,7 +3744,6 @@ EC:3.3.2.10 > GO:epoxide hydrolase activity ; GO:0004301
 EC:3.3.2.11 > GO:cholesterol-5,6-oxide hydrolase activity ; GO:0033963
 EC:3.3.2.2 > GO:alkenylglycerophosphocholine hydrolase activity ; GO:0047408
 EC:3.3.2.4 > GO:trans-epoxysuccinate hydrolase activity ; GO:0050345
-EC:3.3.2.5 > GO:alkenylglycerophosphoethanolamine hydrolase activity ; GO:0047409
 EC:3.3.2.6 > GO:leukotriene-A4 hydrolase activity ; GO:0004463
 EC:3.3.2.7 > GO:hepoxilin-epoxide hydrolase activity ; GO:0047977
 EC:3.3.2.8 > GO:limonene-1,2-epoxide hydrolase activity ; GO:0018744
@@ -3846,7 +3837,6 @@ EC:3.4.21.75 > GO:serine-type endopeptidase activity ; GO:0004252
 EC:3.4.21.78 > GO:serine-type endopeptidase activity ; GO:0004252
 EC:3.4.21.79 > GO:serine-type endopeptidase activity ; GO:0004252
 EC:3.4.21.83 > GO:serine-type endopeptidase activity ; GO:0004252
-EC:3.4.21.87 > GO:serine-type endopeptidase activity ; GO:0004252
 EC:3.4.21.88 > GO:serine-type endopeptidase activity ; GO:0004252
 EC:3.4.21.89 > GO:serine-type endopeptidase activity ; GO:0004252
 EC:3.4.21.9 > GO:serine-type endopeptidase activity ; GO:0004252
@@ -3877,6 +3867,7 @@ EC:3.4.23.35 > GO:aspartic-type endopeptidase activity ; GO:0004190
 EC:3.4.23.36 > GO:aspartic-type endopeptidase activity ; GO:0004190
 EC:3.4.23.4 > GO:aspartic-type endopeptidase activity ; GO:0004190
 EC:3.4.23.43 > GO:aspartic-type endopeptidase activity ; GO:0004190
+EC:3.4.23.49 > GO:serine-type endopeptidase activity ; GO:0004252
 EC:3.4.23.5 > GO:aspartic-type endopeptidase activity ; GO:0004190
 EC:3.4.24.- > GO:metalloendopeptidase activity ; GO:0004222
 EC:3.4.24.11 > GO:metalloendopeptidase activity ; GO:0004222
@@ -3916,6 +3907,7 @@ EC:3.5.1.108 > GO:UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase a
 EC:3.5.1.108 > GO:UDP-3-O-acyl-N-acetylglucosamine deacetylase activity ; GO:0103117
 EC:3.5.1.11 > GO:penicillin amidase activity ; GO:0008953
 EC:3.5.1.111 > GO:2-oxoglutaramate amidase activity ; GO:0106008
+EC:3.5.1.116 > GO:ureidoglycolate hydrolase activity ; GO:0004848
 EC:3.5.1.12 > GO:biotinidase activity ; GO:0047708
 EC:3.5.1.121 > GO:protein-N-terminal asparagine amidohydrolase activity ; GO:0008418
 EC:3.5.1.122 > GO:protein-N-terminal glutamine amidohydrolase activity ; GO:0070773
@@ -4040,7 +4032,6 @@ EC:3.5.3.15 > GO:protein-arginine deiminase activity ; GO:0004668
 EC:3.5.3.16 > GO:methylguanidinase activity ; GO:0050098
 EC:3.5.3.17 > GO:guanidinopropionase activity ; GO:0047972
 EC:3.5.3.18 > GO:dimethylargininase activity ; GO:0016403
-EC:3.5.3.19 > GO:ureidoglycolate hydrolase activity ; GO:0004848
 EC:3.5.3.2 > GO:guanidinoacetase activity ; GO:0047970
 EC:3.5.3.20 > GO:diguanidinobutanase activity ; GO:0047854
 EC:3.5.3.21 > GO:methylenediurea deaminase activity ; GO:0047424
@@ -4468,7 +4459,6 @@ EC:4.2.1.53 > GO:oleate hydratase activity ; GO:0050151
 EC:4.2.1.54 > GO:lactoyl-CoA dehydratase activity ; GO:0018819
 EC:4.2.1.56 > GO:itaconyl-CoA hydratase activity ; GO:0050011
 EC:4.2.1.57 > GO:isohexenylglutaconyl-CoA hydratase activity ; GO:0050005
-EC:4.2.1.59 > GO:(3R)-hydroxymyristoyl-[acyl-carrier-protein] dehydratase activity ; GO:0008659
 EC:4.2.1.59 > GO:(3R)-hydroxyacyl-[acyl-carrier-protein] dehydratase activity ; GO:0019171
 EC:4.2.1.6 > GO:galactonate dehydratase activity ; GO:0008869
 EC:4.2.1.62 > GO:5-alpha-hydroxysteroid dehydratase activity ; GO:0047587
@@ -4620,7 +4610,7 @@ EC:4.3.1.15 > GO:diaminopropionate ammonia-lyase activity ; GO:0008838
 EC:4.3.1.16 > GO:threo-3-hydroxyaspartate ammonia-lyase activity ; GO:0030848
 EC:4.3.1.17 > GO:L-serine ammonia-lyase activity ; GO:0003941
 EC:4.3.1.18 > GO:D-serine ammonia-lyase activity ; GO:0008721
-EC:4.3.1.19 > GO:L-threonine ammonia-lyase activity ; GO:0004794
+EC:4.3.1.19 > GO:threonine deaminase activity ; GO:0004794
 EC:4.3.1.2 > GO:methylaspartate ammonia-lyase activity ; GO:0050096
 EC:4.3.1.20 > GO:erythro-3-hydroxyaspartate ammonia-lyase activity ; GO:0047447
 EC:4.3.1.23 > GO:tyrosine ammonia-lyase activity ; GO:0052883
@@ -4707,13 +4697,14 @@ EC:4.6.1.24 > GO:ribonuclease T1 activity ; GO:0046589
 EC:4.6.1.6 > GO:cytidylate cyclase activity ; GO:0047805
 EC:4.7.1.- > GO:carbon phosphorus lyase activity ; GO:0018835
 EC:4.7.1.1 > GO:alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase activity ; GO:0098848
+EC:4.8.1.- > GO:nitrogen-oxygen hydrolyase activity ; GO:0141122
+EC:4.8.1.2 > GO:aliphatic aldoxime dehydratase activity ; GO:0034013
+EC:4.8.1.3 > GO:indoleacetaldoxime dehydratase activity ; GO:0047720
+EC:4.8.1.4 > GO:phenylacetaldoxime dehydratase activity ; GO:0018814
 EC:4.98.1.1 > GO:ferrochelatase activity ; GO:0004325
 EC:4.99.1.2 > GO:alkylmercury lyase activity ; GO:0018836
 EC:4.99.1.3 > GO:sirohydrochlorin cobaltochelatase activity ; GO:0016852
 EC:4.99.1.4 > GO:sirohydrochlorin ferrochelatase activity ; GO:0051266
-EC:4.99.1.5 > GO:aliphatic aldoxime dehydratase activity ; GO:0034013
-EC:4.99.1.6 > GO:indoleacetaldoxime dehydratase activity ; GO:0047720
-EC:4.99.1.7 > GO:phenylacetaldoxime dehydratase activity ; GO:0018814
 EC:5.-.-.- > GO:isomerase activity ; GO:0016853
 EC:5.1.-.- > GO:racemase and epimerase activity ; GO:0016854
 EC:5.1.1.- > GO:racemase and epimerase activity, acting on amino acids and derivatives ; GO:0016855
@@ -4867,7 +4858,6 @@ EC:5.4.2.8 > GO:phosphomannomutase activity ; GO:0004615
 EC:5.4.2.9 > GO:phosphoenolpyruvate mutase activity ; GO:0050188
 EC:5.4.3.- > GO:intramolecular aminotransferase activity ; GO:0016869
 EC:5.4.3.2 > GO:lysine 2,3-aminomutase activity ; GO:0050066
-EC:5.4.3.3 > GO:beta-lysine 5,6-aminomutase activity ; GO:0047702
 EC:5.4.3.4 > GO:D-lysine 5,6-aminomutase activity ; GO:0047826
 EC:5.4.3.5 > GO:D-ornithine 4,5-aminomutase activity ; GO:0047831
 EC:5.4.3.6 > GO:tyrosine 2,3-aminomutase activity ; GO:0050368
@@ -4992,7 +4982,7 @@ EC:6.2.1.15 > GO:arachidonate-CoA ligase activity ; GO:0047676
 EC:6.2.1.16 > GO:acetoacetate-CoA ligase activity ; GO:0030729
 EC:6.2.1.17 > GO:propionate-CoA ligase activity ; GO:0050218
 EC:6.2.1.18 > GO:citrate-CoA ligase activity ; GO:0047779
-EC:6.2.1.19 > GO:long-chain fatty acid luciferin component ligase activity ; GO:0047474
+EC:6.2.1.19 > GO:long-chain fatty acid--protein ligase activity ; GO:0047474
 EC:6.2.1.2 > GO:medium-chain fatty acid-CoA ligase activity ; GO:0031956
 EC:6.2.1.2 > GO:butyrate-CoA ligase activity ; GO:0047760
 EC:6.2.1.20 > GO:long-chain fatty acid [acyl-carrier-protein] ligase activity ; GO:0008922
@@ -5069,8 +5059,7 @@ EC:6.3.2.40 > GO:cyclopeptine synthase activity ; GO:0047671
 EC:6.3.2.45 > GO:UDP-N-acetylmuramate-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptanedioate ligase activity ; GO:0106418
 EC:6.3.2.49 > GO:L-amino-acid alpha-ligase activity ; GO:0034026
 EC:6.3.2.5 > GO:phosphopantothenate--cysteine ligase activity ; GO:0004632
-EC:6.3.2.52 > GO:jasmonoyl-valine synthetase activity ; GO:0102057
-EC:6.3.2.52 > GO:jasmonoyl-leucine synthetase activity ; GO:0102058
+EC:6.3.2.52 > GO:jasmonoyl-L-amino acid ligase activity ; GO:0080123
 EC:6.3.2.6 > GO:phosphoribosylaminoimidazolesuccinocarboxamide synthase activity ; GO:0004639
 EC:6.3.2.61 > GO:tubulin-glutamic acid ligase activity ; GO:0070740
 EC:6.3.2.7 > GO:UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-L-lysine ligase activity ; GO:0047482
