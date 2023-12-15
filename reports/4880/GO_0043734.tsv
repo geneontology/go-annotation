@@ -1,0 +1,10 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P05050	alkB	PMID:12226667		GO:0043734	DNA-N1-methyladenine dioxygenase activity	IDA			PANTHER:PTHR16557	20200130		NCBITaxon:83333
+UniProt	UniProtKB:P05050	alkB	PMID:12594517		GO:0043734	DNA-N1-methyladenine dioxygenase activity	IDA			PANTHER:PTHR16557	20100428		NCBITaxon:83333
+UniProt	UniProtKB:P05050	alkB	PMID:16482161		GO:0043734	DNA-N1-methyladenine dioxygenase activity	IDA			PANTHER:PTHR16557	20100428		NCBITaxon:83333
+UniProt	UniProtKB:Q96Q83	ALKBH3	PMID:16858410		GO:0043734	DNA-N1-methyladenine dioxygenase activity	IDA			PANTHER:PTHR31212	20100504		NCBITaxon:9606
+UniProt	MGI:MGI:1347093	Fto	PMID:17991826|MGI:MGI:4430814		GO:0043734	DNA-N1-methyladenine dioxygenase activity	IDA			PANTHER:PTHR31291	20100428		NCBITaxon:10090
+UniProt	UniProtKB:Q6NS38	ALKBH2	PMID:18432238		GO:0043734	DNA-N1-methyladenine dioxygenase activity	IDA			PANTHER:PTHR31573	20100428		NCBITaxon:9606
+UniProt	UniProtKB:Q9C0B1	FTO	PMID:20376003		GO:0043734	DNA-N1-methyladenine dioxygenase activity	IDA			PANTHER:PTHR31291	20100420		NCBITaxon:9606
+UniProt	UniProtKB:P05050	alkB	PMID:21068844		GO:0043734	DNA-N1-methyladenine dioxygenase activity	IDA			PANTHER:PTHR16557	20120627		NCBITaxon:83333
+UniProt	UniProtKB:Q96Q83	ALKBH3	PMID:22055184		GO:0043734	DNA-N1-methyladenine dioxygenase activity	IMP			PANTHER:PTHR31212	20120228		NCBITaxon:9606
