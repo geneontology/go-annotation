@@ -1,0 +1,11 @@
+term	file	line
+GO:0039667	uniprotkb_kw2go	UniProtKB-KW:KW-1241 Viral penetration into host cytoplasm via pilus retraction > GO:viral entry into host cell via pilus retraction ; GO:0039667
+GO:0039707	interpro2go	InterPro:IPR003873 Envelope small membrane protein, coronavirus > GO:virus-mediated pore formation in host cell membrane ; GO:0039707
+GO:0039707	interpro2go	InterPro:IPR024407 Protein 3a, betacoronavirus > GO:virus-mediated pore formation in host cell membrane ; GO:0039707
+GO:0039707	interpro2go	InterPro:IPR043506 Envelope small membrane protein, betacoronavirus > GO:virus-mediated pore formation in host cell membrane ; GO:0039707
+GO:0039707	interpro2go	InterPro:IPR043507 Envelope small membrane protein, alphacoronavirus > GO:virus-mediated pore formation in host cell membrane ; GO:0039707
+GO:0039707	interpro2go	InterPro:IPR044377 Envelope small membrane protein, SARS-CoV-2-like > GO:virus-mediated pore formation in host cell membrane ; GO:0039707
+GO:0039707	interpro2go	InterPro:IPR044379 Envelope small membrane protein, MERS-CoV-like > GO:virus-mediated pore formation in host cell membrane ; GO:0039707
+GO:0039707	hamap2go	HAMAP:MF_04069 > GO:virus-mediated pore formation in host cell membrane ; GO:0039707
+GO:0039707	unirule2go	UniRule:UR000568405 > GO:virus-mediated pore formation in host cell membrane ; GO:0039707
+GO:0039707	uniprotkb_kw2go	UniProtKB-KW:KW-1182 Viral ion channel > GO:virus-mediated pore formation in host cell membrane ; GO:0039707

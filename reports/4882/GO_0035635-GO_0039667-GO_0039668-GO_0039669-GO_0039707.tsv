@@ -1,0 +1,15 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AgBase	UniProtKB:H9L4A3	lpxO	PMID:23302685		GO:0035635	entry of bacterium into host cell	IMP			PANTHER:PTHR46332	20150714	CL:0000066	NCBITaxon:99287
+AgBase	UniProtKB:P9WGV3	ahcY	PMID:26829648		GO:0035635	entry of bacterium into host cell	IMP			PANTHER:PTHR23420	20160706	CL:0000775	NCBITaxon:83332
+AgBase	UniProtKB:P9WMN3	glmU	PMID:26829648		GO:0035635	entry of bacterium into host cell	IMP			PANTHER:PTHR43584	20160706	CL:0000775	NCBITaxon:83332
+AgBase	UniProtKB:Q6MX51	atsG	PMID:26829648		GO:0035635	entry of bacterium into host cell	IMP			PANTHER:PTHR45953	20160706	CL:0000775	NCBITaxon:83332
+CACAO	UniProtKB:Q8Y783	lmo1413	PMID:24572033		GO:0035635	entry of bacterium into host cell	IDA			PANTHER:PTHR47566	20140401		NCBITaxon:169963
+GO_Central	UniProtKB:P0DQD3	inlB	PMID:9282740		GO:0035635	entry of bacterium into host cell	IDA				20220920		NCBITaxon:1334565
+MGI	MGI:MGI:1298220	Naip5	PMID:12526741		GO:0035635	entry of bacterium into host cell	IDA			PANTHER:PTHR46914	20190221	CL:0000235	NCBITaxon:10090
+MGI	MGI:MGI:1298220	Naip5	PMID:12526741		GO:0035635	entry of bacterium into host cell	IMP	MGI:MGI:3769036		PANTHER:PTHR46914	20190221	CL:0000235	NCBITaxon:10090
+CAFA	UniProtKB:P03661	III	PMID:10329170		GO:0039668	viral entry into host cell via pilus basal pore	IMP				20160920		NCBITaxon:2847073
+CAFA	UniProtKB:P03661	III	PMID:10756036		GO:0039668	viral entry into host cell via pilus basal pore	IMP				20160921		NCBITaxon:2847073
+CAFA	UniProtKB:P03661	III	PMID:10756036		GO:0039668	viral entry into host cell via pilus basal pore	IMP				20160921		NCBITaxon:2847073
+CAFA	UniProtKB:P03661	III	PMID:10756036		GO:0039668	viral entry into host cell via pilus basal pore	IMP				20160921		NCBITaxon:2847073
+UniProt	UniProtKB:P19712	P19712	PMID:24189547		GO:0039707	virus-mediated pore formation in host cell membrane	IDA		UniProtKB:P19712-PRO_0000038055		20180410		NCBITaxon:11097
+UniProt	UniProtKB:P08617	P08617	PMID:26515753		GO:0039707	virus-mediated pore formation in host cell membrane	IDA		UniProtKB:P08617-PRO_0000039951		20180803		NCBITaxon:12098
