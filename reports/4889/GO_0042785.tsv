@@ -1,0 +1,8 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MTBBASE	UniProtKB:Q79FZ9	mce1A	PMID:14663145		GO:0042785	evasion of host immune response via modulation of host cytokine network	IMP			PANTHER:PTHR33371	20100617		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WK55	lprA	PMID:16785538		GO:0042785	evasion of host immune response via modulation of host cytokine network	IDA				20100707		NCBITaxon:83332
+UniProt	UniProtKB:Q98314	MC148	PMID:10620615		GO:0042785	evasion of host immune response via modulation of host cytokine network	IDA				20220708		NCBITaxon:10280
+UniProt	UniProtKB:Q8Y9V5	pgdA	PMID:17215377		GO:0042785	evasion of host immune response via modulation of host cytokine network	IMP			PANTHER:PTHR10587	20201116		NCBITaxon:169963
+UniProt	UniProtKB:A0A0H3GDH9	pgdA	PMID:21768286		GO:0042785	evasion of host immune response via modulation of host cytokine network	IMP				20201116		NCBITaxon:393133
+UniProt	UniProtKB:Q98314	MC148	PMID:9275219		GO:0042785	evasion of host immune response via modulation of host cytokine network	IDA				20220708		NCBITaxon:10280
+UniProt	UniProtKB:Q98314	MC148	PMID:9600978		GO:0042785	evasion of host immune response via modulation of host cytokine network	IDA				20220708		NCBITaxon:10280
