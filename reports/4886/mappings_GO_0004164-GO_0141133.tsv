@@ -1,0 +1,8 @@
+term	file	line
+GO:0004164	reactome2go	Reactome:R-HSA-5358484 > GO:diphthine synthase activity ; GO:0004164
+GO:0004164	interpro2go	InterPro:IPR004551 Diphthine synthase > GO:diphthine synthase activity ; GO:0004164
+GO:0004164	hamap2go	HAMAP:MF_01084 > GO:diphthine synthase activity ; GO:0004164
+GO:0004164	rhea2go	RHEA:36415 > GO:diphthine synthase activity ; GO:0004164
+GO:0004164	ec2go	EC:2.1.1.98 > GO:diphthine synthase activity ; GO:0004164
+GO:0004164	unirule2go	UniRule:UR000100604 > GO:diphthine synthase activity ; GO:0004164
+GO:0004164	metacyc2go	MetaCyc:RXN-11370 > GO:diphthine synthase activity ; GO:0004164

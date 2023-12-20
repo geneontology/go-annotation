@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+Reactome	UniProtKB:Q9H2P9	DPH5	PMID:3346227		GO:0004164	diphthine synthase activity	EXP			PANTHER:PTHR10882	20220504		NCBITaxon:9606
+SGD	SGD:S000004162	DPH5	PMID:1508200		GO:0004164	diphthine synthase activity	IMP		UniProtKB:P32469	PANTHER:PTHR10882	20081125		NCBITaxon:559292
+SGD	SGD:S000004162	DPH5	PMID:3042777		GO:0004164	diphthine synthase activity	IDA		UniProtKB:P32469	PANTHER:PTHR10882	20020926		NCBITaxon:559292
+UniProt	UniProtKB:O58456	dphB	PMID:20873788		GO:0004164	diphthine synthase activity	IDA				20110309		NCBITaxon:70601
