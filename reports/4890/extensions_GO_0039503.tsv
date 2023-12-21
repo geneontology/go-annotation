@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:Q01225	OPG188	PMID:30728498		GO:0004518	nuclease activity	IDA				20220708	GO:0039503|GO:0030430	NCBITaxon:10254
+UniProt	UniProtKB:P17372	OPG035	PMID:31644906		GO:0060090	molecular adaptor activity	IDA				20220627	GO:0039503|GO:0005737|UniProtKB:O14879|UniProtKB:P09913|UniProtKB:P09914|UniProtKB:Q13616|GO:0031625	NCBITaxon:10254
+UniProt	UniProtKB:P0DTD1	rep	PMID:35594856		GO:0004197	cysteine-type endopeptidase activity	IDA		UniProtKB:P0DTD1-PRO_0000449623		20220916	GO:0039503|UniProtKB:P57764	NCBITaxon:2697049
+UniProt	UniProtKB:P0DTD1	rep	PMID:35878012		GO:0039606	suppression by virus of host translation initiation	IDA		UniProtKB:P0DTD1-PRO_0000449620		20230221	GO:0039503	NCBITaxon:2697049
+UniProt	UniProtKB:P0DTD1	rep	PMID:35878012		GO:0060090	molecular adaptor activity	IDA		UniProtKB:P0DTD1-PRO_0000449620		20230221	GO:0039503|GO:0039606|GO:0005125|UniProtKB:O60573|UniProtKB:Q6Y7W6|GO:0000340	NCBITaxon:2697049

@@ -1,0 +1,121 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AgBase	UniProtKB:P27958	P27958	PMID:15825084		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:P27958-PRO_0000037569		20141112		NCBITaxon:63746
+AgBase	UniProtKB:P27958	P27958	PMID:15825084		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:P27958-PRO_0000037573		20141112		NCBITaxon:63746
+AgBase	UniProtKB:P27958	P27958	PMID:15825084		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA				20141112		NCBITaxon:63746
+AgBase	UniProtKB:P27958	P27958	PMID:15825084		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:P27958-PRO_0000037570		20141112		NCBITaxon:63746
+AgBase	UniProtKB:P27958	P27958	PMID:15825084		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:P27958-PRO_0000037574		20141112		NCBITaxon:63746
+AgBase	UniProtKB:P27958	P27958	PMID:15825084		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:P27958-PRO_0000037567		20141112		NCBITaxon:63746
+AgBase	UniProtKB:P27958	P27958	PMID:15825084	not	GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:P27958-PRO_0000037577		20141112		NCBITaxon:63746
+AgBase	UniProtKB:P27958	P27958	PMID:15825084	not	GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:P27958-PRO_0000037576		20141112		NCBITaxon:63746
+AgBase	UniProtKB:P27958	P27958	PMID:15825084		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:P27958-PRO_0000037575		20141112		NCBITaxon:63746
+AgBase	UniProtKB:P27958	P27958	PMID:17275127		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IMP		UniProtKB:P27958-PRO_0000037576		20220708	UniProtKB:P01563	NCBITaxon:63746
+AgBase	UniProtKB:P27958	P27958	PMID:17275127		GO:0039560	disruption by virus of host JAK-STAT cascade via inhibition of host IRF9 activity	IMP		UniProtKB:P27958-PRO_0000037576		20150424	UniProtKB:Q00978	NCBITaxon:63746
+AgBase	UniProtKB:Q03463	Q03463	PMID:17567694		GO:0039580	suppression by virus of host PKR signaling	IDA		UniProtKB:Q03463-PRO_0000278740		20140515		NCBITaxon:421877
+AgBase	UniProtKB:P29128	BICP0	PMID:19176627		GO:0039557	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF7 activity	IMP				20151012	UniProtKB:Q92985	NCBITaxon:31518
+AgBase	UniProtKB:P19712	P19712	PMID:19540847		GO:0039548	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF3 activity	IDA		UniProtKB:P19712-PRO_0000038050		20170816	UniProtKB:Q764M6	NCBITaxon:11097
+AgBase	UniProtKB:Q4VW77	UL47	PMID:26889034		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IMP				20160812		NCBITaxon:10320
+CACAO	UniProtKB:Q05127	VP35	PMID:12829834		GO:0039503	suppression by virus of host innate immune response	IDA				20220715		NCBITaxon:128952
+CACAO	UniProtKB:P11207	P/V	PMID:15563593		GO:0039554	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of host MDA-5 activity	IDA				20130224		NCBITaxon:11208
+CACAO	UniProtKB:F8V2V1	V/P	PMID:15563593		GO:0039554	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of host MDA-5 activity	IDA				20130224		NCBITaxon:2560602
+CACAO	UniProtKB:P13699	N	PMID:21262835		GO:0039548	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF3 activity	IMP				20111023		NCBITaxon:11622
+CACAO	UniProtKB:P69282	P/V/C	PMID:22532687		GO:0039548	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF3 activity	IDA				20130331		NCBITaxon:11198
+CACAO	UniProtKB:P69282	P/V/C	PMID:22532687		GO:0039503	suppression by virus of host innate immune response	IMP				20130223		NCBITaxon:11198
+ComplexPortal	UniProtKB:P59636	9b	PMID:25135833		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA				20200928		NCBITaxon:694009
+ComplexPortal	ComplexPortal:CPX-6101	orf9b_cvhsa-1	PMID:25135833		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA				20200928		NCBITaxon:694009
+ComplexPortal	UniProtKB:P0DTD2	9b	PMID:32728199		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA				20200928		NCBITaxon:2697049
+ComplexPortal	ComplexPortal:CPX-6100	orf9b_sars2-1	PMID:32728199		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA				20200928		NCBITaxon:2697049
+UniProt	UniProtKB:P03129	E7	PMID:10388655		GO:0039560	disruption by virus of host JAK-STAT cascade via inhibition of host IRF9 activity	IDA				20160428		NCBITaxon:333760
+UniProt	UniProtKB:P25213	OPG204	PMID:11070021		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA				20220701		NCBITaxon:10254
+UniProt	UniProtKB:P07239	OPG106	PMID:11238845		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA				20220701		NCBITaxon:10254
+UniProt	UniProtKB:P08393	ICP0	PMID:14747533		GO:0039548	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF3 activity	IDA				20140207		NCBITaxon:10299
+UniProt	UniProtKB:P14335	P14335	PMID:15650219		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:P14335-PRO_0000405139		20170628		NCBITaxon:11078
+UniProt	UniProtKB:P14335	P14335	PMID:15650219		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:P14335-PRO_0000037711		20170628		NCBITaxon:11078
+UniProt	UniProtKB:P14335	P14335	PMID:15650219		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:P14335-PRO_0000037708		20170628		NCBITaxon:11078
+UniProt	UniProtKB:P14335	P14335	PMID:15650219		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:P14335-PRO_0000037710		20170628		NCBITaxon:11078
+UniProt	UniProtKB:P14335	P14335	PMID:15650219		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:P14335-PRO_0000037709		20170628		NCBITaxon:11078
+UniProt	UniProtKB:P03314	P03314	PMID:15956546		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:P03314-PRO_0000037763		20170627		NCBITaxon:11090
+UniProt	UniProtKB:Q9Q6P4	GP1	PMID:15956546		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:Q9Q6P4-PRO_0000441589		20170629		NCBITaxon:1968826
+UniProt	UniProtKB:P29837	P29837	PMID:16188985		GO:0039574	disruption by virus of host JAK-STAT cascade via inhibition of host TYK2 activity	IDA		UniProtKB:P29837-PRO_0000037698		20170628		NCBITaxon:31638
+UniProt	UniProtKB:P19712	P19712	PMID:17215286		GO:0039548	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF3 activity	IDA		UniProtKB:P19712-PRO_0000038050		20180406		NCBITaxon:11097
+UniProt	UniProtKB:P19711	P19711	PMID:17531282		GO:0039548	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF3 activity	IDA		UniProtKB:P19711-PRO_0000038024		20230725		NCBITaxon:11100
+UniProt	UniProtKB:P0C6X7	rep	PMID:17692280		GO:0039579	suppression by virus of host ISG15-protein conjugation	IDA		UniProtKB:P0C6X7-PRO_0000037311		20140903		NCBITaxon:694009
+UniProt	UniProtKB:P0C6U8	1a	PMID:17692280		GO:0039579	suppression by virus of host ISG15-protein conjugation	IDA		UniProtKB:P0C6U8-PRO_0000338257		20200506		NCBITaxon:694009
+UniProt	UniProtKB:P03305	P03305	PMID:17881445		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:P03305-PRO_0000039873		20180416		NCBITaxon:73482
+UniProt	UniProtKB:Q01299	Q01299	PMID:18042258		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA				20170629		NCBITaxon:70733
+UniProt	UniProtKB:P68466	OPG044	PMID:18636090		GO:0039548	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF3 activity	IDA				20220624		NCBITaxon:10254
+UniProt	UniProtKB:P0C6X7	rep	PMID:19369340		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:P0C6X7-PRO_0000037311		20140903		NCBITaxon:694009
+UniProt	UniProtKB:P0C6X7	rep	PMID:19369340		GO:0039548	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF3 activity	IDA		UniProtKB:P0C6X7-PRO_0000037311		20171218		NCBITaxon:694009
+UniProt	UniProtKB:P0C6U8	1a	PMID:19369340		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:P0C6U8-PRO_0000338257		20200506		NCBITaxon:694009
+UniProt	UniProtKB:P0C6U8	1a	PMID:19369340		GO:0039548	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF3 activity	IDA		UniProtKB:P0C6U8-PRO_0000338257		20200506		NCBITaxon:694009
+UniProt	UniProtKB:Q66765	Q66765	PMID:19628239		GO:0039540	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of host RIG-I activity	IDA				20171218		NCBITaxon:2870365
+UniProt	UniProtKB:P23008	P23008	PMID:19628239		GO:0039540	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of host RIG-I activity	IDA				20171218		NCBITaxon:12134
+UniProt	UniProtKB:Q82122	Q82122	PMID:19628239		GO:0039540	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of host RIG-I activity	IDA				20171218		NCBITaxon:31708
+UniProt	UniProtKB:P19712	P19712	PMID:19767841		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:P19712-PRO_0000038051		20180410		NCBITaxon:11097
+UniProt	UniProtKB:P14335	P14335	PMID:20106931		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:P14335-PRO_0000037713		20170628		NCBITaxon:11078
+UniProt	UniProtKB:Q9Q6P4	GP1	PMID:20106931		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:Q9Q6P4-PRO_0000441590		20170629		NCBITaxon:1968826
+UniProt	UniProtKB:P0C0U1	PB1	PMID:21695240		GO:0039545	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of MAVS activity	IDA				20140207		NCBITaxon:211044
+UniProt	UniProtKB:P17362	OPG029	PMID:21931555		GO:0039723	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of TBK1 activity	IDA				20170215		NCBITaxon:10254
+UniProt	UniProtKB:P21605	OPG065	PMID:22419806		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IMP				20210916		NCBITaxon:10254
+UniProt	UniProtKB:P26672	OPG176	PMID:22593572		GO:0039722	suppression by virus of host toll-like receptor signaling pathway	IDA				20220708		NCBITaxon:10254
+UniProt	UniProtKB:P04487	US11	PMID:23115300		GO:0039580	suppression by virus of host PKR signaling	IDA				20150824		NCBITaxon:10299
+UniProt	UniProtKB:P21699	NSS	PMID:23552410		GO:0039540	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of host RIG-I activity	IDA				20140207		NCBITaxon:11590
+UniProt	UniProtKB:P14357	OPG036	PMID:23761407		GO:0039548	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF3 activity	IDA				20170221		NCBITaxon:10254
+UniProt	UniProtKB:P04413	US3	PMID:24049179		GO:0039537	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway	IDA				20220713		NCBITaxon:10299
+UniProt	UniProtKB:P21605	OPG065	PMID:24257616		GO:0039579	suppression by virus of host ISG15-protein conjugation	IDA				20170216		NCBITaxon:10254
+UniProt	UniProtKB:Q9Q6P4	GP1	PMID:24889229		GO:0039503	suppression by virus of host innate immune response	IMP		UniProtKB:Q9Q6P4-PRO_0000441583		20170629		NCBITaxon:1968826
+UniProt	UniProtKB:Q9Q6P4	GP1	PMID:24928049		GO:0039503	suppression by virus of host innate immune response	IDA		UniProtKB:Q9Q6P4-PRO_0000441583		20170629		NCBITaxon:1968826
+UniProt	UniProtKB:Q04561	rep	PMID:25008936		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:Q04561-PRO_0000036689		20180910		NCBITaxon:11049
+UniProt	UniProtKB:P59636	9b	PMID:25135833		GO:0039545	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of MAVS activity	IDA				20200518		NCBITaxon:694009
+UniProt	UniProtKB:K9N7C7	rep	PMID:25142582		GO:0039503	suppression by virus of host innate immune response	IDA		UniProtKB:K9N7C7-PRO_0000422441		20160202		NCBITaxon:1263720
+UniProt	UniProtKB:K9N7C7	rep	PMID:25142582		GO:0039579	suppression by virus of host ISG15-protein conjugation	IDA		UniProtKB:K9N7C7-PRO_0000422441		20160202		NCBITaxon:1263720
+UniProt	UniProtKB:P03314	P03314	PMID:25211074		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:P03314-PRO_0000037764		20170628		NCBITaxon:11090
+UniProt	UniProtKB:P21605	OPG065	PMID:25740987		GO:0039580	suppression by virus of host PKR signaling	IDA				20170216		NCBITaxon:10254
+UniProt	UniProtKB:B3F2X4	B3F2X4	PMID:25878106		GO:0039503	suppression by virus of host innate immune response	IDA				20180411		NCBITaxon:444185
+UniProt	UniProtKB:P0C6Y4	rep	PMID:26773386		GO:0039548	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF3 activity	IDA		UniProtKB:P0C6Y4-PRO_0000037369		20171020		NCBITaxon:229032
+UniProt	UniProtKB:P0C6V6	1a	PMID:26773386		GO:0039548	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF3 activity	IDA		UniProtKB:P0C6V6-PRO_0000338348		20171020		NCBITaxon:229032
+UniProt	UniProtKB:P0C6X7	rep	PMID:27164085		GO:0039722	suppression by virus of host toll-like receptor signaling pathway	IDA		UniProtKB:P0C6X7-PRO_0000037311		20200506		NCBITaxon:694009
+UniProt	UniProtKB:P0C6U8	1a	PMID:27164085		GO:0039722	suppression by virus of host toll-like receptor signaling pathway	IDA		UniProtKB:P0C6U8-PRO_0000338257		20200506		NCBITaxon:694009
+UniProt	UniProtKB:Q04561	rep	PMID:27329948		GO:0039545	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of MAVS activity	IDA		UniProtKB:Q04561-PRO_0000036689		20180910		NCBITaxon:11049
+UniProt	UniProtKB:P10221	UL37	PMID:27866900		GO:0039537	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway	IDA				20220714		NCBITaxon:10299
+UniProt	UniProtKB:P10221	UL37	PMID:27866900		GO:0039540	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of host RIG-I activity	IDA				20180813		NCBITaxon:10299
+UniProt	UniProtKB:P17362	OPG029	PMID:27907166		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA				20170216		NCBITaxon:10254
+UniProt	UniProtKB:P19712	P19712	PMID:28290554		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:P19712-PRO_0000038051		20180410		NCBITaxon:11097
+UniProt	UniProtKB:P03304	P03304	PMID:28487378		GO:0039503	suppression by virus of host innate immune response	IDA		UniProtKB:P03304-PRO_0000039790		20181217		NCBITaxon:12104
+UniProt	UniProtKB:Q155Z9	Q155Z9	PMID:28566380		GO:0039545	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of MAVS activity	IDA		UniProtKB:Q155Z9-PRO_0000446935		20190228		NCBITaxon:686944
+UniProt	UniProtKB:Q155Z9	Q155Z9	PMID:28566380		GO:0039722	suppression by virus of host toll-like receptor signaling pathway	IDA		UniProtKB:Q155Z9-PRO_0000446935		20190228		NCBITaxon:686944
+UniProt	UniProtKB:P07385	OPG199	PMID:28874755		GO:0039723	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of TBK1 activity	IDA				20220624		NCBITaxon:265872
+UniProt	UniProtKB:P21605	OPG065	PMID:29073079		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA				20200423		NCBITaxon:10254
+UniProt	UniProtKB:Q155Z9	Q155Z9	PMID:29427864		GO:0039548	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF3 activity	IDA		UniProtKB:Q155Z9-PRO_0000446935		20190228		NCBITaxon:686944
+UniProt	UniProtKB:Q155Z9	Q155Z9	PMID:29427864		GO:0039557	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF7 activity	IDA		UniProtKB:Q155Z9-PRO_0000446935		20190228		NCBITaxon:686944
+UniProt	UniProtKB:P17372	OPG035	PMID:29444943		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA				20180809		NCBITaxon:10254
+UniProt	UniProtKB:P03305	P03305	PMID:29463763		GO:0039579	suppression by virus of host ISG15-protein conjugation	IDA		UniProtKB:P03305-PRO_0000039873		20180416		NCBITaxon:73482
+UniProt	UniProtKB:P10233	UL49	PMID:29793952		GO:0039503	suppression by virus of host innate immune response	IDA				20210907		NCBITaxon:10299
+UniProt	UniProtKB:P16848	UL31	PMID:29937271		GO:0039503	suppression by virus of host innate immune response	IDA				20181126		NCBITaxon:10360
+UniProt	UniProtKB:P07396	OPG062	PMID:30078703		GO:0039503	suppression by virus of host innate immune response	IDA				20180821		NCBITaxon:10254
+UniProt	UniProtKB:P10221	UL37	PMID:30092200		GO:0039537	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway	IDA				20220714		NCBITaxon:10299
+UniProt	UniProtKB:P0C6X7	rep	PMID:30248143		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:P0C6X7-PRO_0000037311		20200506		NCBITaxon:694009
+UniProt	UniProtKB:P0C6U8	1a	PMID:30248143		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA		UniProtKB:P0C6U8-PRO_0000338257		20200506		NCBITaxon:694009
+UniProt	UniProtKB:P03304	P03304	PMID:30312637		GO:0039554	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of host MDA-5 activity	IDA		UniProtKB:P03304-PRO_0000039787		20181217		NCBITaxon:12104
+UniProt	UniProtKB:Q155Z9	Q155Z9	PMID:30408499		GO:0039540	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of host RIG-I activity	IDA				20190228		NCBITaxon:686944
+UniProt	UniProtKB:Q155Z9	Q155Z9	PMID:30408499		GO:0039723	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of TBK1 activity	IDA				20190228		NCBITaxon:686944
+UniProt	UniProtKB:Q01225	OPG188	PMID:30728498		GO:0039503	suppression by virus of host innate immune response	IDA				20220708		NCBITaxon:10254
+UniProt	UniProtKB:Q01225	OPG188	PMID:30728498		GO:0039503	suppression by virus of host innate immune response	IMP				20190228		NCBITaxon:10254
+UniProt	UniProtKB:P28276	UL54	PMID:30863402		GO:0039548	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF3 activity	IDA				20200728		NCBITaxon:10315
+UniProt	UniProtKB:P08668	GP	PMID:31091447		GO:0039545	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of MAVS activity	IDA				20211216		NCBITaxon:11602
+UniProt	UniProtKB:P17362	OPG029	PMID:31127039		GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	IDA				20220705		NCBITaxon:10254
+UniProt	UniProtKB:P17372	OPG035	PMID:31644906		GO:0039503	suppression by virus of host innate immune response	IDA				20220627		NCBITaxon:10254
+UniProt	UniProtKB:P10220	UL36	PMID:32383759		GO:0039537	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway	IDA				20220714		NCBITaxon:10299
+UniProt	UniProtKB:P0DTD2	9b	PMID:32728199		GO:0039545	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of MAVS activity	IDA				20210427		NCBITaxon:2697049
+UniProt	UniProtKB:P0DTC6	6	PMID:32979938		GO:0039548	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF3 activity	IDA				20230208		NCBITaxon:2697049
+UniProt	UniProtKB:P0DTC5	M	PMID:33110251		GO:0039545	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of MAVS activity	IDA				20230208		NCBITaxon:2697049
+UniProt	UniProtKB:P18378	VACWR034	PMID:33444388		GO:0039580	suppression by virus of host PKR signaling	IDA				20220701		NCBITaxon:10254
+UniProt	UniProtKB:P0DTD1	rep	PMID:33637958		GO:0039548	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF3 activity	IDA		UniProtKB:P0DTD1-PRO_0000449629		20230208		NCBITaxon:2697049
+UniProt	UniProtKB:P03316	P03316	PMID:33673546		GO:0039722	suppression by virus of host toll-like receptor signaling pathway	IDA				20210315		NCBITaxon:11034
+UniProt	UniProtKB:Q4JQW6	ORF9	PMID:34015248		GO:0039503	suppression by virus of host innate immune response	IDA				20210907		NCBITaxon:341980
+UniProt	UniProtKB:Q2HR80	ORF52	PMID:34015248		GO:0039503	suppression by virus of host innate immune response	IDA				20210907		NCBITaxon:868565
+UniProt	UniProtKB:P10233	UL49	PMID:34015248		GO:0039503	suppression by virus of host innate immune response	IDA				20210907		NCBITaxon:10299
+UniProt	UniProtKB:P19711	P19711	PMID:34097933		GO:0039540	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of host RIG-I activity	IDA		UniProtKB:P19711-PRO_0000038034		20230725		NCBITaxon:11100
+UniProt	UniProtKB:P04413	US3	PMID:34935440		GO:0039540	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of host RIG-I activity	IDA				20220712		NCBITaxon:10299
+UniProt	UniProtKB:P0DTD1	rep	PMID:35594856		GO:0039503	suppression by virus of host innate immune response	IDA		UniProtKB:P0DTD1-PRO_0000449623		20220915		NCBITaxon:2697049
+UniProt	UniProtKB:P0DTD1	rep	PMID:35878012		GO:0039503	suppression by virus of host innate immune response	IDA		UniProtKB:P0DTD1-PRO_0000449620		20230221		NCBITaxon:2697049
+UniProt	UniProtKB:Q68T42	Q68T42	PMID:37125923		GO:0039537	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway	IDA				20230627		NCBITaxon:42789

@@ -1,0 +1,7 @@
+term	file	line
+GO:0039503	interpro2go	InterPro:IPR009179 Protein E3 > GO:suppression by virus of host innate immune response ; GO:0039503
+GO:0039503	hamap2go	HAMAP:MF_04073 > GO:suppression by virus of host innate immune response ; GO:0039503
+GO:0039503	hamap2go	HAMAP:MF_04143 > GO:suppression by virus of host innate immune response ; GO:0039503
+GO:0039503	unirule2go	UniRule:UR000584809 > GO:suppression by virus of host innate immune response ; GO:0039503
+GO:0039503	unirule2go	UniRule:UR001372527 > GO:suppression by virus of host innate immune response ; GO:0039503
+GO:0039503	uniprotkb_kw2go	UniProtKB-KW:KW-1090 Inhibition of host innate immune response by virus > GO:suppression by virus of host innate immune response ; GO:0039503
