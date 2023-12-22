@@ -1,0 +1,34 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AgBase	UniProtKB:P27958	P27958	PMID:11821416		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA		UniProtKB:P27958-PRO_0000037576		20150115	UniProtKB:P39429	NCBITaxon:63746
+AgBase	UniProtKB:P27958	P27958	PMID:11821416		GO:0039644	suppression by virus of host NF-kappaB cascade	IMP		UniProtKB:P27958-PRO_0000037576		20150115		NCBITaxon:63746
+UniProt	UniProtKB:Q01220	VACWR178	PMID:17878161		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA				20220711		NCBITaxon:10254
+UniProt	UniProtKB:P03305	P03305	PMID:17881445		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA		UniProtKB:P03305-PRO_0000039873		20180416		NCBITaxon:73482
+UniProt	UniProtKB:Q98326	MC160	PMID:19158250		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA				20180528		NCBITaxon:10280
+UniProt	UniProtKB:P0C6X7	rep	PMID:19369340		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA		UniProtKB:P0C6X7-PRO_0000037311		20140903		NCBITaxon:694009
+UniProt	UniProtKB:P0C6U8	1a	PMID:19369340		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA		UniProtKB:P0C6U8-PRO_0000338257		20200506		NCBITaxon:694009
+UniProt	UniProtKB:Q76QY7	OPG003	PMID:19451633		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA				20220711		NCBITaxon:587200
+UniProt	UniProtKB:P0C745	HBZ	PMID:21552325		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA				20180703		NCBITaxon:11927
+UniProt	UniProtKB:Q9QR71	LANA1	PMID:21697472		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA				20180528		NCBITaxon:868565
+UniProt	UniProtKB:P17370	OPG031	PMID:22791606		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA				20170221		NCBITaxon:10254
+UniProt	UniProtKB:P21068	A49R	PMID:23468625		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA				20170221		NCBITaxon:10249
+UniProt	UniProtKB:K9N4V0	ORF4a	PMID:24318862		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA				20160203		NCBITaxon:1263720
+UniProt	UniProtKB:P04413	US3	PMID:24807716		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA				20220713		NCBITaxon:10299
+UniProt	UniProtKB:Q04561	rep	PMID:25008936		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA		UniProtKB:Q04561-PRO_0000036689		20180910		NCBITaxon:11049
+UniProt	UniProtKB:P0C797	N	PMID:25733193		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA				20170110		NCBITaxon:928296
+UniProt	UniProtKB:Q98298	MC132	PMID:26041281		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA				20180528		NCBITaxon:10280
+UniProt	UniProtKB:P04297	OPG039	PMID:27503790		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA				20170216		NCBITaxon:10254
+UniProt	UniProtKB:Q04561	rep	PMID:27881655		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA		UniProtKB:Q04561-PRO_0000036685		20180910		NCBITaxon:11049
+UniProt	UniProtKB:P22112	SH	PMID:28659487		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA				20171016		NCBITaxon:11171
+UniProt	UniProtKB:P0C6Y4	rep	PMID:28715653		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA		UniProtKB:P0C6Y4-PRO_0000037369		20171020		NCBITaxon:229032
+UniProt	UniProtKB:P0C6V6	1a	PMID:28715653		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA		UniProtKB:P0C6V6-PRO_0000338348		20171020		NCBITaxon:229032
+UniProt	UniProtKB:P19712	P19712	PMID:28751780		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA		UniProtKB:P19712-PRO_0000038057		20180412		NCBITaxon:11097
+UniProt	UniProtKB:Q04561	rep	PMID:29444948		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA		UniProtKB:Q04561-PRO_0000036694		20180910		NCBITaxon:11049
+UniProt	UniProtKB:P24772	OPG200	PMID:29748387		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA				20220706		NCBITaxon:10254
+UniProt	UniProtKB:P24768	KBTB1	PMID:30814284		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA				20220711		NCBITaxon:10254
+UniProt	UniProtKB:P31037	VACWR175	PMID:30819886		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA				20220711		NCBITaxon:10254
+UniProt	UniProtKB:Q98325	MC159L	PMID:30842330		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA				20190325		NCBITaxon:10280
+UniProt	UniProtKB:P68707	OPG058	PMID:34949827		GO:0039644	suppression by virus of host NF-kappaB cascade	IDA				20220711		NCBITaxon:10254
+AgBase	UniProtKB:Q66677	E10	PMID:11238466		GO:0039652	induction by virus of host NF-kappaB cascade	IDA				20230215		NCBITaxon:82831
+AgBase	UniProtKB:P27958	P27958	PMID:11374864		GO:0039652	induction by virus of host NF-kappaB cascade	IDA		UniProtKB:P27958-PRO_0000037566		20230215		NCBITaxon:63746
+UniProt	UniProtKB:P13292	US2	PMID:28827540		GO:0039652	induction by virus of host NF-kappaB cascade	IDA				20171016		NCBITaxon:10315
+BHF-UCL	UniProtKB:P03313	P03313	PMID:26764146		GO:0061765	perturbation by virus of host non-canonical NF-kappaB signal transduction	IDA				20160519		NCBITaxon:103903

@@ -1,0 +1,9 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:Q01220	VACWR178	PMID:17878161		GO:0140311	protein sequestering activity	IDA				20220711	GO:0039644|GO:0030430|GO:0061630|UniProtKB:O43187|GO:0060090	NCBITaxon:10254
+UniProt	UniProtKB:Q76QY7	OPG003	PMID:19451633		GO:0140311	protein sequestering activity	IDA				20220711	GO:0039644|GO:0042025|UniProtKB:P19838|GO:0003700	NCBITaxon:587200
+UniProt	UniProtKB:P04413	US3	PMID:24807716		GO:1900181	negative regulation of protein localization to nucleus	IDA				20220713	GO:0039644|UniProtKB:Q04206	NCBITaxon:10299
+UniProt	UniProtKB:P04413	US3	PMID:24807716		GO:0004674	protein serine/threonine kinase activity	IDA				20220713	GO:0039644|GO:1900181|GO:0030430|UniProtKB:Q04206|GO:0061608	NCBITaxon:10299
+UniProt	UniProtKB:P24772	OPG200	PMID:29748387		GO:0140313	molecular sequestering activity	IDA				20220706	GO:0039644|GO:0005737|UniProtKB:O14920|GO:0008384	NCBITaxon:10254
+UniProt	UniProtKB:P24768	KBTB1	PMID:30814284		GO:1990756	ubiquitin ligase-substrate adaptor activity	IDA				20220711	GO:0039644|GO:0030430|UniProtKB:P52292|GO:0061608	NCBITaxon:10254
+UniProt	UniProtKB:P31037	VACWR175	PMID:30819886		GO:0140311	protein sequestering activity	IDA				20220711	GO:0039644|GO:0030430|UniProtKB:Q9Y297|GO:1990756	NCBITaxon:10254
+UniProt	UniProtKB:P68707	OPG058	PMID:34949827		GO:0140311	protein sequestering activity	IDA				20220711	GO:0039644|GO:0042025|UniProtKB:Q92793|GO:0004402	NCBITaxon:10254

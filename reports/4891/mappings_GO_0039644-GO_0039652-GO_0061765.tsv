@@ -1,0 +1,8 @@
+term	file	line
+GO:0039644	hamap2go	HAMAP:MF_04088 > GO:suppression by virus of host NF-kappaB cascade ; GO:0039644
+GO:0039644	unirule2go	UniRule:UR000138786 > GO:suppression by virus of host NF-kappaB cascade ; GO:0039644
+GO:0039644	unirule2go	UniRule:UR000809071 > GO:suppression by virus of host NF-kappaB cascade ; GO:0039644
+GO:0039644	uniprotkb_kw2go	UniProtKB-KW:KW-1100 Inhibition of host NF-kappa-B by virus > GO:suppression by virus of host NF-kappaB cascade ; GO:0039644
+GO:0039652	hamap2go	HAMAP:MF_04074 > GO:induction by virus of host NF-kappaB cascade ; GO:0039652
+GO:0039652	unirule2go	UniRule:UR000584832 > GO:induction by virus of host NF-kappaB cascade ; GO:0039652
+GO:0039652	uniprotkb_kw2go	UniProtKB-KW:KW-1074 Activation of host NF-kappa-B by virus > GO:induction by virus of host NF-kappaB cascade ; GO:0039652
