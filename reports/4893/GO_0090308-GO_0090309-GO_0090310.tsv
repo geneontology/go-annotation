@@ -1,0 +1,37 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:O60341	KDM1A	PMID:33980486		GO:0090308	regulation of DNA methylation-dependent heterochromatin formation	IDA			PANTHER:PTHR10742	20210621		NCBITaxon:9606
+UniProt	UniProtKB:Q6SPF0	SAMD1	PMID:33980486		GO:0090308	regulation of DNA methylation-dependent heterochromatin formation	IDA			PANTHER:PTHR36292	20210621		NCBITaxon:9606
+UniProt	UniProtKB:Q96JM7	L3MBTL3	PMID:33980486		GO:0090308	regulation of DNA methylation-dependent heterochromatin formation	IDA			PANTHER:PTHR12247	20210621		NCBITaxon:9606
+FlyBase	FB:FBgn0034617	Panx	PMID:26472911|FB:FBrf0229930		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IDA				20151112		NCBITaxon:7227
+FlyBase	FB:FBgn0034617	Panx	PMID:26472911|FB:FBrf0229930		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IMP				20151112		NCBITaxon:7227
+FlyBase	FB:FBgn0003607	Su(var)205	PMID:26472911|FB:FBrf0229930		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IMP			PANTHER:PTHR22812	20151112		NCBITaxon:7227
+FlyBase	FB:FBgn0027499	wde	PMID:26472911|FB:FBrf0229930		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IMP			PANTHER:PTHR23210	20151112		NCBITaxon:7227
+FlyBase	FB:FBgn0004872	piwi	PMID:26472911|FB:FBrf0229930		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IMP			PANTHER:PTHR22891	20151112		NCBITaxon:7227
+FlyBase	FB:FBgn0260397	Su(var)3-3	PMID:26472911|FB:FBrf0229930		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IMP			PANTHER:PTHR10742	20151112		NCBITaxon:7227
+FlyBase	FB:FBgn0261573	CoRest	PMID:26472911|FB:FBrf0229930		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IMP			PANTHER:PTHR16089	20151112		NCBITaxon:7227
+FlyBase	FB:FBgn0086908	egg	PMID:26472911|FB:FBrf0229930		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IMP			PANTHER:PTHR46024	20151112		NCBITaxon:7227
+UniProt	MGI:MGI:109274	Trim28	PMID:20164836|MGI:MGI:5440670		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IMP			PANTHER:PTHR25462	20181129		NCBITaxon:10090
+UniProt	MGI:MGI:1934229	Setdb1	PMID:20164836|MGI:MGI:5440670		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IMP			PANTHER:PTHR46024	20181129		NCBITaxon:10090
+UniProt	UniProtKB:Q9HCX3	ZNF304	PMID:24623306		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IMP			PANTHER:PTHR24377	20160225		NCBITaxon:9606
+UniProt	UniProtKB:Q15047	SETDB1	PMID:24623306		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IMP			PANTHER:PTHR46024	20160225		NCBITaxon:9606
+UniProt	UniProtKB:Q13263	TRIM28	PMID:24623306		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IMP			PANTHER:PTHR25462	20230113		NCBITaxon:9606
+UniProt	UniProtKB:Q6VMQ6	ATF7IP	PMID:27732843		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IMP			PANTHER:PTHR23210	20181130		NCBITaxon:9606
+UniProt	UniProtKB:Q15047	SETDB1	PMID:27732843		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IMP			PANTHER:PTHR46024	20181130		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y6X9	MORC2	PMID:28581500		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IDA			PANTHER:PTHR23337	20181130		NCBITaxon:9606
+UniProt	UniProtKB:Q8NEY8	PPHLN1	PMID:28581500		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IDA			PANTHER:PTHR15836	20181130		NCBITaxon:9606
+UniProt	UniProtKB:Q9UK61	TASOR	PMID:28581500		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IDA			PANTHER:PTHR16207	20181130		NCBITaxon:9606
+UniProt	UniProtKB:Q99549	MPHOSPH8	PMID:28581500		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IDA			PANTHER:PTHR24166	20181130		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y6X9	MORC2	PMID:29211708		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IDA			PANTHER:PTHR23337	20181204		NCBITaxon:9606
+UniProt	UniProtKB:Q9UK61	TASOR	PMID:29211708		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IDA			PANTHER:PTHR16207	20181204		NCBITaxon:9606
+UniProt	UniProtKB:Q99549	MPHOSPH8	PMID:29211708		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IDA			PANTHER:PTHR24166	20181204		NCBITaxon:9606
+UniProt	MGI:MGI:1921772	Morc2a	PMID:29728365|MGI:MGI:6271895		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IMP			PANTHER:PTHR23337	20181127		NCBITaxon:10090
+UniProt	MGI:MGI:1914496	Resf1	PMID:29728365|MGI:MGI:6271895		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IMP			PANTHER:PTHR21604	20181129		NCBITaxon:10090
+UniProt	MGI:MGI:1934229	Setdb1	PMID:29728365|MGI:MGI:6271895		GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	IMP			PANTHER:PTHR46024	20181127		NCBITaxon:10090
+FlyBase	FB:FBgn0037703	Kdm3	PMID:25170156|FB:FBrf0226097		GO:0090310	negative regulation of DNA methylation-dependent heterochromatin formation	IMP			PANTHER:PTHR12549	20210912		NCBITaxon:7227
+FlyBase	FB:FBgn0037802	Sirt6	PMID:25170156|FB:FBrf0226097		GO:0090310	negative regulation of DNA methylation-dependent heterochromatin formation	IMP			PANTHER:PTHR47651	20210912		NCBITaxon:7227
+GO_Central	UniProtKB:Q13627	DYRK1A	PMID:24820035		GO:0090310	negative regulation of DNA methylation-dependent heterochromatin formation	IDA			PANTHER:PTHR24058	20220621		NCBITaxon:9606
+UniProt	UniProtKB:Q8NFU7	TET1	PMID:21496894		GO:0090310	negative regulation of DNA methylation-dependent heterochromatin formation	IMP			PANTHER:PTHR23358	20110503		NCBITaxon:9606
+UniProt	UniProtKB:Q9GZX7	AICDA	PMID:21496894		GO:0090310	negative regulation of DNA methylation-dependent heterochromatin formation	IDA			PANTHER:PTHR13857	20110623		NCBITaxon:9606
+UniProt	MGI:MGI:103298	Apobec1	PMID:21496894|MGI:MGI:5285126		GO:0090310	negative regulation of DNA methylation-dependent heterochromatin formation	IMP			PANTHER:PTHR13857	20110623		NCBITaxon:10090
+UniProt	AGI_LocusCode:AT2G16390	AT2G16390	PMID:21771120|TAIR:Publication:501748351		GO:0090310	negative regulation of DNA methylation-dependent heterochromatin formation	IMP		TAIR:locus:2042619		20230923		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT1G09060	JMJ24	PMID:26798133|TAIR:Publication:501767864		GO:0090310	negative regulation of DNA methylation-dependent heterochromatin formation	IMP		TAIR:locus:2036014		20230923		NCBITaxon:3702
