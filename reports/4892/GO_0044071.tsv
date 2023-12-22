@@ -1,0 +1,19 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	UniProtKB:Q7DK12	cdtB	PMID:10946289		GO:0044072	suppression of host cell cycle progression	IMP				20121016		NCBITaxon:714
+DisProt	UniProtKB:Q72500	vpr	PMID:10903315		GO:0060153	perturbation by virus of host cell cycle progression	IDA				20220228		NCBITaxon:11676
+UniProt	UniProtKB:P0C797	N	PMID:14512566		GO:0039592	perturbation by virus of G2/M transition of host mitotic cell cycle	IDA				20230628		NCBITaxon:928296
+UniProt	UniProtKB:P0DUW5	cif	PMID:14651638		GO:0044071	perturbation of host cell cycle progression	IDA				20210629		NCBITaxon:562
+UniProt	UniProtKB:Q98178	MC007	PMID:18701596		GO:0060153	perturbation by virus of host cell cycle progression	IDA				20180528		NCBITaxon:10280
+UniProt	UniProtKB:Q7N439	cif	PMID:19225106		GO:0044071	perturbation of host cell cycle progression	IDA				20210629		NCBITaxon:243265
+UniProt	UniProtKB:P0DUW5	cif	PMID:19225106		GO:0044071	perturbation of host cell cycle progression	IDA				20210629		NCBITaxon:562
+UniProt	UniProtKB:Q63KH5	cif	PMID:19225106		GO:0044071	perturbation of host cell cycle progression	IDA				20210629		NCBITaxon:272560
+UniProt	UniProtKB:Q7N439	cif	PMID:19308257		GO:0044071	perturbation of host cell cycle progression	IDA				20210629		NCBITaxon:243265
+UniProt	UniProtKB:P0DUW5	cif	PMID:19308257		GO:0044071	perturbation of host cell cycle progression	IDA				20210629		NCBITaxon:562
+UniProt	UniProtKB:A0A0H3B1Q8	cif	PMID:19308257		GO:0044071	perturbation of host cell cycle progression	IDA				20210629		NCBITaxon:502800
+UniProt	UniProtKB:Q63KH5	cif	PMID:19308257		GO:0044071	perturbation of host cell cycle progression	IDA				20210629		NCBITaxon:272560
+UniProt	UniProtKB:Q9PZT1	NS1	PMID:20890043		GO:0039592	perturbation by virus of G2/M transition of host mitotic cell cycle	IDA				20150708		NCBITaxon:648237
+UniProt	UniProtKB:P0DUW5	cif	PMID:20941356		GO:0044071	perturbation of host cell cycle progression	IDA				20210629		NCBITaxon:562
+UniProt	UniProtKB:A4D8X6	NS1	PMID:22176891		GO:0039592	perturbation by virus of G2/M transition of host mitotic cell cycle	IDA				20140106		NCBITaxon:416571
+UniProt	UniProtKB:Q9PZT1	NS1	PMID:24049177		GO:0039592	perturbation by virus of G2/M transition of host mitotic cell cycle	IDA				20180920		NCBITaxon:648237
+UniProt	UniProtKB:P12978	EBNA2	PMID:26845565		GO:0060153	perturbation by virus of host cell cycle progression	IDA				20170613		NCBITaxon:10377
+UniProt	UniProtKB:P69726	vpr	PMID:7666531		GO:0039592	perturbation by virus of G2/M transition of host mitotic cell cycle	IDA				20160330		NCBITaxon:11706

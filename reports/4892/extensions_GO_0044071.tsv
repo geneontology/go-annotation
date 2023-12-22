@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:P0DUW5	cif	PMID:20688984		GO:0050568	protein-glutamine glutaminase activity	IDA				20210629	UniProtKB:Q15843|GO:0018277|GO:0044071|GO:0000209|GO:0043161	NCBITaxon:562
+UniProt	UniProtKB:Q63KH5	cif	PMID:20688984		GO:0050568	protein-glutamine glutaminase activity	IDA				20210629	UniProtKB:Q15843|GO:0018277|GO:0044071|GO:0000209|GO:0043161	NCBITaxon:272560
