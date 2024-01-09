@@ -1,4 +1,4 @@
-! Generated on 2023-12-13T03:04Z from the ontology 'go' with data version: 'releases/2023-12-12'
+! Generated on 2023-12-30T08:25Z from the ontology 'go' with data version: 'releases/2023-12-24'
 !
 UM-BBD_reactionID:r0005 > GO:gallate decarboxylase activity ; GO:0018798
 UM-BBD_reactionID:r0006 > GO:pyrogallol hydroxytransferase activity ; GO:0018706

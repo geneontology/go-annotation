@@ -1,4 +1,4 @@
-! Generated on 2023-12-13T03:04Z from the ontology 'go' with data version: 'releases/2023-12-12'
+! Generated on 2023-12-30T08:25Z from the ontology 'go' with data version: 'releases/2023-12-24'
 !
 EC:1.-.-.- > GO:oxidoreductase activity ; GO:0016491
 EC:1.1.-.- > GO:oxidoreductase activity, acting on CH-OH group of donors ; GO:0016614
@@ -609,10 +609,11 @@ EC:1.14.11.31 > GO:thebaine 6-O-demethylase activity ; GO:0102802
 EC:1.14.11.31 > GO:oripavine 6-O-demethylase activity ; GO:0102804
 EC:1.14.11.32 > GO:thebane O-demethylase activity ; GO:0102803
 EC:1.14.11.32 > GO:codeine O-demethylase activity ; GO:0102805
-EC:1.14.11.33 > GO:oxidative DNA demethylase activity ; GO:0035516
+EC:1.14.11.33 > GO:broad specificity oxidative DNA demethylase activity ; GO:0035516
 EC:1.14.11.4 > GO:procollagen-lysine 5-dioxygenase activity ; GO:0008475
 EC:1.14.11.41 > GO:2-oxoglutarate, L-arginine oxygenase (succinate-forming) activity ; GO:0102525
 EC:1.14.11.42 > GO:tRNA(Phe) (7-(3-amino-3-carboxypropyl)wyosine37-C2)-hydroxylase activity ; GO:0102524
+EC:1.14.11.51 > GO:DNA N6-methyladenine demethylase activity ; GO:0141131
 EC:1.14.11.53 > GO:mRNA N6-methyladenosine dioxygenase activity ; GO:1990931
 EC:1.14.11.54 > GO:mRNA N1-methyladenosine dioxygenase activity ; GO:1990930
 EC:1.14.11.59 > GO:DIBOA-glucoside oxygenase activity ; GO:0102717
@@ -629,7 +630,7 @@ EC:1.14.11.69 > GO:histone H3K36me2/H3K36me3 demethylase activity ; GO:0140681
 EC:1.14.11.7 > GO:procollagen-proline 3-dioxygenase activity ; GO:0019797
 EC:1.14.11.73 > GO:peptidyl-arginine 3-dioxygenase activity ; GO:0106157
 EC:1.14.11.8 > GO:trimethyllysine dioxygenase activity ; GO:0050353
-EC:1.14.11.80 > GO:methylcytosine dioxygenase activity ; GO:0070579
+EC:1.14.11.80 > GO:5-methylcytosine dioxygenase activity ; GO:0070579
 EC:1.14.11.9 > GO:naringenin 3-dioxygenase activity ; GO:0045486
 EC:1.14.12.- > GO:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of two atoms of oxygen into one donor ; GO:0016708
 EC:1.14.12.- > GO:nitrobenzene 1,2-dioxygenase activity ; GO:0018603
@@ -1091,7 +1092,7 @@ EC:1.2.1.21 > GO:glycolaldehyde dehydrogenase activity ; GO:0050569
 EC:1.2.1.22 > GO:lactaldehyde dehydrogenase activity ; GO:0008911
 EC:1.2.1.23 > GO:2-oxoaldehyde dehydrogenase (NAD+) activity ; GO:0047551
 EC:1.2.1.24 > GO:succinate-semialdehyde dehydrogenase (NAD+) activity ; GO:0004777
-EC:1.2.1.25 > GO:2-oxoisovalerate dehydrogenase (acylating) activity ; GO:0047101
+EC:1.2.1.25 > GO:branched-chain alpha-keto acid dehydrogenase activity ; GO:0047101
 EC:1.2.1.26 > GO:2,5-dioxovalerate dehydrogenase (NADP+) activity ; GO:0047533
 EC:1.2.1.27 > GO:methylmalonate-semialdehyde dehydrogenase (acylating, NAD) activity ; GO:0004491
 EC:1.2.1.28 > GO:benzaldehyde dehydrogenase (NAD+) activity ; GO:0018479
@@ -1684,7 +1685,6 @@ EC:2.1.1.110 > GO:sterigmatocystin 7-O-methyltransferase activity ; GO:0047146
 EC:2.1.1.111 > GO:anthranilate N-methyltransferase activity ; GO:0030774
 EC:2.1.1.112 > GO:glucuronoxylan 4-O-methyltransferase activity ; GO:0030775
 EC:2.1.1.113 > GO:site-specific DNA-methyltransferase (cytosine-N4-specific) activity ; GO:0015667
-EC:2.1.1.114 > GO:hexaprenyldihydroxybenzoate methyltransferase activity ; GO:0004395
 EC:2.1.1.114 > GO:3,4-dihydroxy-5-polyprenylbenzoic acid O-methyltransferase activity ; GO:0010420
 EC:2.1.1.115 > GO:(RS)-1-benzyl-1,2,3,4-tetrahydroisoquinoline N-methyltransferase activity ; GO:0030776
 EC:2.1.1.116 > GO:3'-hydroxy-N-methyl-(S)-coclaurine 4'-O-methyltransferase activity ; GO:0030784
@@ -1816,6 +1816,7 @@ EC:2.1.1.291 > GO:(R)-reticuline 7-O-methyltransferase activity ; GO:0102918
 EC:2.1.1.295 > GO:2-methyl-6-geranylgeranyl-1,4-benzoquinol methyltransferase activity ; GO:0102550
 EC:2.1.1.297 > GO:protein-(glutamine-N5) methyltransferase activity ; GO:0102559
 EC:2.1.1.3 > GO:thetin-homocysteine S-methyltransferase activity ; GO:0047149
+EC:2.1.1.314 > GO:diphthine methyl ester synthase activity ; GO:0141133
 EC:2.1.1.319 > GO:protein-arginine omega-N asymmetric methyltransferase activity ; GO:0035242
 EC:2.1.1.320 > GO:protein-arginine omega-N symmetric methyltransferase activity ; GO:0035243
 EC:2.1.1.321 > GO:protein-arginine omega-N monomethyltransferase activity ; GO:0035241
@@ -3285,6 +3286,8 @@ EC:3.1.11.- > GO:ribonuclease R activity ; GO:0008997
 EC:3.1.11.- > GO:DNA exonuclease activity, producing 5'-phosphomonoesters ; GO:0016895
 EC:3.1.11.1 > GO:single-stranded DNA 3'-5' DNA exonuclease activity ; GO:0008310
 EC:3.1.11.2 > GO:double-stranded DNA 3'-5' DNA exonuclease activity ; GO:0008311
+EC:3.1.11.3 > GO:double-stranded DNA 5'-3' DNA exonuclease activity ; GO:0051908
+EC:3.1.11.4 > GO:single-stranded DNA 5'-3' DNA exonuclease activity ; GO:0045145
 EC:3.1.11.5 > GO:exodeoxyribonuclease V activity ; GO:0008854
 EC:3.1.11.6 > GO:exodeoxyribonuclease VII activity ; GO:0008855
 EC:3.1.13.- > GO:3'-5'-RNA exonuclease activity ; GO:0000175
@@ -3353,6 +3356,7 @@ EC:3.1.3.- > GO:phosphatase activity ; GO:0016791
 EC:3.1.3.1 > GO:alkaline phosphatase activity ; GO:0004035
 EC:3.1.3.10 > GO:glucose-1-phosphatase activity ; GO:0008877
 EC:3.1.3.100 > GO:thiamine phosphate phosphatase activity ; GO:0042131
+EC:3.1.3.106 > GO:lysophosphatidic acid phosphatase activity ; GO:0052642
 EC:3.1.3.108 > GO:NADP phosphatase activity ; GO:0019178
 EC:3.1.3.108 > GO:NADPH phosphatase activity ; GO:0102757
 EC:3.1.3.11 > GO:fructose 1,6-bisphosphate 1-phosphatase activity ; GO:0042132
@@ -3669,7 +3673,6 @@ EC:3.2.1.72 > GO:xylan 1,3-beta-xylosidase activity ; GO:0033914
 EC:3.2.1.73 > GO:licheninase activity ; GO:0042972
 EC:3.2.1.74 > GO:glucan 1,4-beta-glucosidase activity ; GO:0031217
 EC:3.2.1.75 > GO:glucan endo-1,6-beta-glucosidase activity ; GO:0046557
-EC:3.2.1.75 > GO:glucan endo-1,4-beta-glucosidase activity ; GO:0052859
 EC:3.2.1.76 > GO:L-iduronidase activity ; GO:0003940
 EC:3.2.1.77 > GO:mannan 1,2-(1,3)-alpha-mannosidase activity ; GO:0033915
 EC:3.2.1.78 > GO:mannan endo-1,4-beta-mannosidase activity ; GO:0016985

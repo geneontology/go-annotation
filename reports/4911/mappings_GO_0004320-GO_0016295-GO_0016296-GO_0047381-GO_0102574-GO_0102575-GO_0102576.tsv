@@ -1,0 +1,15 @@
+term	file	line
+GO:0004320	rhea2go	RHEA:15057 > GO:oleoyl-[acyl-carrier-protein] hydrolase activity ; GO:0004320
+GO:0004320	metacyc2go	MetaCyc:3.1.2.14-RXN > GO:oleoyl-[acyl-carrier-protein] hydrolase activity ; GO:0004320
+GO:0016295	rhea2go	RHEA:30123 > GO:myristoyl-[acyl-carrier-protein] hydrolase activity ; GO:0016295
+GO:0016295	kegg_reaction2go	KEGG_REACTION:R08159 > GO:myristoyl-[acyl-carrier-protein] hydrolase activity ; GO:0016295
+GO:0016295	metacyc2go	MetaCyc:RXN-10727 > GO:myristoyl-[acyl-carrier-protein] hydrolase activity ; GO:0016295
+GO:0016296	rhea2go	RHEA:41932 > GO:palmitoyl-[acyl-carrier-protein] hydrolase activity ; GO:0016296
+GO:0016296	kegg_reaction2go	KEGG_REACTION:R08162 > GO:palmitoyl-[acyl-carrier-protein] hydrolase activity ; GO:0016296
+GO:0016296	metacyc2go	MetaCyc:RXN-9549 > GO:palmitoyl-[acyl-carrier-protein] hydrolase activity ; GO:0016296
+GO:0047381	rhea2go	RHEA:30119 > GO:dodecanoyl-[acyl-carrier-protein] hydrolase activity ; GO:0047381
+GO:0047381	ec2go	EC:3.1.2.21 > GO:dodecanoyl-[acyl-carrier-protein] hydrolase activity ; GO:0047381
+GO:0047381	metacyc2go	MetaCyc:3.1.2.21-RXN > GO:dodecanoyl-[acyl-carrier-protein] hydrolase activity ; GO:0047381
+GO:0102574	metacyc2go	MetaCyc:RXN-15280 > GO:3-oxo-myristoyl-ACP hydrolase activity ; GO:0102574
+GO:0102575	metacyc2go	MetaCyc:RXN-15281 > GO:3-oxo-dodecanoyl-ACP hydrolase activity ; GO:0102575
+GO:0102576	metacyc2go	MetaCyc:RXN-15282 > GO:3-oxo-palmitoyl-ACP hydrolase activity ; GO:0102576

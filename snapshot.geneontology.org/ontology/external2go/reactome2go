@@ -1,4 +1,4 @@
-! Generated on 2023-12-13T03:04Z from the ontology 'go' with data version: 'releases/2023-12-12'
+! Generated on 2023-12-30T08:25Z from the ontology 'go' with data version: 'releases/2023-12-24'
 !
 Reactome:R-HSA-1008248 > GO:nucleoside triphosphate adenylate kinase activity ; GO:0046899
 Reactome:R-HSA-1013012 > GO:G protein-coupled GABA receptor activity ; GO:0004965
@@ -94,10 +94,10 @@ Reactome:R-HSA-111962 > GO:3',5'-cyclic-AMP phosphodiesterase activity ; GO:0004
 Reactome:R-HSA-111970 > GO:protein serine/threonine kinase activity ; GO:0004674
 Reactome:R-HSA-112033 > GO:purine-nucleoside phosphorylase activity ; GO:0004731
 Reactome:R-HSA-112034 > GO:purine-nucleoside phosphorylase activity ; GO:0004731
-Reactome:R-HSA-112118 > GO:DNA-N1-methyladenine dioxygenase activity ; GO:0043734
+Reactome:R-HSA-112118 > GO:broad specificity oxidative DNA demethylase activity ; GO:0035516
 Reactome:R-HSA-112120 > GO:dioxygenase activity ; GO:0051213
 Reactome:R-HSA-112121 > GO:dioxygenase activity ; GO:0051213
-Reactome:R-HSA-112123 > GO:DNA-N1-methyladenine dioxygenase activity ; GO:0043734
+Reactome:R-HSA-112123 > GO:broad specificity oxidative DNA demethylase activity ; GO:0035516
 Reactome:R-HSA-112124 > GO:dioxygenase activity ; GO:0051213
 Reactome:R-HSA-112125 > GO:dioxygenase activity ; GO:0051213
 Reactome:R-HSA-112265 > GO:pentosyltransferase activity ; GO:0016763
@@ -893,7 +893,7 @@ Reactome:R-HSA-177784 > GO:ribose-5-phosphate isomerase activity ; GO:0004751
 Reactome:R-HSA-177923 > GO:non-membrane spanning protein tyrosine phosphatase activity ; GO:0004726
 Reactome:R-HSA-177924 > GO:non-membrane spanning protein tyrosine phosphatase activity ; GO:0004726
 Reactome:R-HSA-177926 > GO:non-membrane spanning protein tyrosine phosphatase activity ; GO:0004726
-Reactome:R-HSA-177930 > GO:protein tyrosine kinase activity ; GO:0004713
+Reactome:R-HSA-177930 > GO:transmembrane receptor protein tyrosine kinase activity ; GO:0004714
 Reactome:R-HSA-177933 > GO:transmembrane receptor protein tyrosine kinase activity ; GO:0004714
 Reactome:R-HSA-177934 > GO:protein tyrosine kinase activity ; GO:0004713
 Reactome:R-HSA-177935 > GO:non-membrane spanning protein tyrosine phosphatase activity ; GO:0004726
@@ -927,7 +927,7 @@ Reactome:R-HSA-182859 > GO:RNA-DNA hybrid ribonuclease activity ; GO:0004523
 Reactome:R-HSA-182969 > GO:protein tyrosine kinase activity ; GO:0004713
 Reactome:R-HSA-182986 > GO:ubiquitin-protein transferase activity ; GO:0004842
 Reactome:R-HSA-182993 > GO:ubiquitin-protein transferase activity ; GO:0004842
-Reactome:R-HSA-183036 > GO:ubiquitin-protein transferase activity ; GO:0004842
+Reactome:R-HSA-183036 > GO:ubiquitin protein ligase activity ; GO:0061630
 Reactome:R-HSA-183051 > GO:ubiquitin-protein transferase activity ; GO:0004842
 Reactome:R-HSA-183058 > GO:protein tyrosine kinase activity ; GO:0004713
 Reactome:R-HSA-183084 > GO:ubiquitin-protein transferase activity ; GO:0004842
@@ -1671,12 +1671,12 @@ Reactome:R-HSA-2162078 > GO:alcohol dehydrogenase (NAD+) activity ; GO:0004022
 Reactome:R-HSA-2162092 > GO:nucleoside monophosphate kinase activity ; GO:0050145
 Reactome:R-HSA-2162096 > GO:nucleoside diphosphate kinase activity ; GO:0004550
 Reactome:R-HSA-2162099 > GO:glucuronosyltransferase activity ; GO:0015020
-Reactome:R-HSA-2162186 > GO:3-demethylubiquinol-10 3-O-methyltransferase activity ; GO:0044596
+Reactome:R-HSA-2162186 > GO:3-demethylubiquinol-n 3-O-methyltransferase activity ; GO:0061542
 Reactome:R-HSA-2162187 > GO:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen ; GO:0016709
-Reactome:R-HSA-2162188 > GO:2-decaprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity ; GO:0043430
+Reactome:R-HSA-2162188 > GO:2-polyprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity ; GO:0008425
 Reactome:R-HSA-2162191 > GO:monooxygenase activity ; GO:0004497
 Reactome:R-HSA-2162192 > GO:4-hydroxybenzoate decaprenyltransferase activity ; GO:0002083
-Reactome:R-HSA-2162193 > GO:decaprenyldihydroxybenzoate methyltransferase activity ; GO:0044595
+Reactome:R-HSA-2162193 > GO:3,4-dihydroxy-5-polyprenylbenzoic acid O-methyltransferase activity ; GO:0010420
 Reactome:R-HSA-2162194 > GO:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen ; GO:0016709
 Reactome:R-HSA-2162195 > GO:3-methoxy-4-hydroxy-5-decaprenylbenzoic acid decarboxylase activity ; GO:0036169
 Reactome:R-HSA-2162225 > GO:beta-N-acetylhexosaminidase activity ; GO:0004563
@@ -2625,12 +2625,11 @@ Reactome:R-HSA-428123 > GO:3-dehydrosphinganine reductase activity ; GO:0047560
 Reactome:R-HSA-428127 > GO:serine C-palmitoyltransferase activity ; GO:0004758
 Reactome:R-HSA-428185 > GO:sphingosine N-acyltransferase activity ; GO:0050291
 Reactome:R-HSA-428205 > GO:N-acylsphingosine amidohydrolase activity ; GO:0017040
-Reactome:R-HSA-428214 > GO:sphinganine kinase activity ; GO:0008481
 Reactome:R-HSA-428231 > GO:N-acylsphingosine amidohydrolase activity ; GO:0017040
 Reactome:R-HSA-428259 > GO:sphingolipid delta-4 desaturase activity ; GO:0042284
 Reactome:R-HSA-428260 > GO:sphingosine hydroxylase activity ; GO:0000170
 Reactome:R-HSA-428262 > GO:phytoceramidase activity ; GO:0070774
-Reactome:R-HSA-428273 > GO:D-erythro-sphingosine kinase activity ; GO:0017050
+Reactome:R-HSA-428273 > GO:lipid kinase activity ; GO:0001727
 Reactome:R-HSA-428522 > GO:GTPase activator activity ; GO:0005096
 Reactome:R-HSA-428533 > GO:GTPase activator activity ; GO:0005096
 Reactome:R-HSA-428535 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
@@ -2638,11 +2637,9 @@ Reactome:R-HSA-428585 > GO:sialic acid:proton symporter activity ; GO:0015538
 Reactome:R-HSA-428609 > GO:sodium:phosphate symporter activity ; GO:0005436
 Reactome:R-HSA-428625 > GO:gamma-aminobutyric acid:proton symporter activity ; GO:0015495
 Reactome:R-HSA-428664 > GO:dihydrosphingosine-1-phosphate phosphatase activity ; GO:0070780
-Reactome:R-HSA-428676 > GO:sphinganine-1-phosphate aldolase activity ; GO:0008117
 Reactome:R-HSA-428681 > GO:sphinganine-1-phosphate aldolase activity ; GO:0008117
 Reactome:R-HSA-428690 > GO:sphingosine-1-phosphate phosphatase activity ; GO:0042392
 Reactome:R-HSA-428696 > GO:sphingosine-1-phosphate phosphatase activity ; GO:0042392
-Reactome:R-HSA-428701 > GO:sphingosine-1-phosphate phosphatase activity ; GO:0042392
 Reactome:R-HSA-428750 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
 Reactome:R-HSA-428779 > GO:sugar transmembrane transporter activity ; GO:0051119
 Reactome:R-HSA-428888 > GO:protein tyrosine kinase activity ; GO:0004713
@@ -3048,10 +3045,10 @@ Reactome:R-HSA-5218854 > GO:protein serine/threonine kinase activity ; GO:000467
 Reactome:R-HSA-5218906 > GO:protein serine/threonine kinase activity ; GO:0004674
 Reactome:R-HSA-5218916 > GO:protein serine/threonine kinase activity ; GO:0004674
 Reactome:R-HSA-5218952 > GO:protein-arginine N-methyltransferase activity ; GO:0016274
-Reactome:R-HSA-5220952 > GO:methylcytosine dioxygenase activity ; GO:0070579
+Reactome:R-HSA-5220952 > GO:5-methylcytosine dioxygenase activity ; GO:0070579
 Reactome:R-HSA-5220959 > GO:DNA N-glycosylase activity ; GO:0019104
-Reactome:R-HSA-5220990 > GO:methylcytosine dioxygenase activity ; GO:0070579
-Reactome:R-HSA-5221014 > GO:methylcytosine dioxygenase activity ; GO:0070579
+Reactome:R-HSA-5220990 > GO:5-methylcytosine dioxygenase activity ; GO:0070579
+Reactome:R-HSA-5221014 > GO:5-methylcytosine dioxygenase activity ; GO:0070579
 Reactome:R-HSA-5221061 > GO:DNA N-glycosylase activity ; GO:0019104
 Reactome:R-HSA-5221130 > GO:phosphatidate phosphatase activity ; GO:0008195
 Reactome:R-HSA-5223313 > GO:ABC-type vitamin B12 transporter activity ; GO:0015420
@@ -3871,12 +3868,14 @@ Reactome:R-HSA-6782311 > GO:tRNA-specific adenosine deaminase activity ; GO:0008
 Reactome:R-HSA-6782336 > GO:tRNA-specific adenosine deaminase activity ; GO:0008251
 Reactome:R-HSA-6782381 > GO:pseudouridine synthase activity ; GO:0009982
 Reactome:R-HSA-6782388 > GO:tRNA (cytidine-5-)-methyltransferase activity ; GO:0016428
+Reactome:R-HSA-6782416 > GO:tRNA (guanine(26)-N2)-dimethyltransferase activity ; GO:0160104
 Reactome:R-HSA-6782419 > GO:tRNA (cytidine-5-)-methyltransferase activity ; GO:0016428
 Reactome:R-HSA-6782434 > GO:nucleotidyltransferase activity ; GO:0016779
 Reactome:R-HSA-6782443 > GO:tRNA-guanosine(34) queuine transglycosylase activity ; GO:0008479
 Reactome:R-HSA-6782628 > GO:cysteine-type deubiquitinase activity ; GO:0004843
 Reactome:R-HSA-6782685 > GO:mannosyl-oligosaccharide 1,2-alpha-mannosidase activity ; GO:0004571
 Reactome:R-HSA-6782820 > GO:cysteine-type deubiquitinase activity ; GO:0004843
+Reactome:R-HSA-6782859 > GO:tRNA (guanine(37)-N1)-methyltransferase activity ; GO:0052906
 Reactome:R-HSA-6782879 > GO:tRNA methyltransferase activity ; GO:0008175
 Reactome:R-HSA-6782881 > GO:tRNA methyltransferase activity ; GO:0008175
 Reactome:R-HSA-6782890 > GO:tRNA methyltransferase activity ; GO:0008175
@@ -3888,6 +3887,7 @@ Reactome:R-HSA-6783221 > GO:hydroxyacylglutathione hydrolase activity ; GO:00044
 Reactome:R-HSA-6783455 > GO:2-oxoglutarate-dependent dioxygenase activity ; GO:0016706
 Reactome:R-HSA-6783473 > GO:tRNA methyltransferase activity ; GO:0008175
 Reactome:R-HSA-6783483 > GO:structural constituent of nuclear pore ; GO:0017056
+Reactome:R-HSA-6783492 > GO:tRNA (adenine(58)-N1)-methyltransferase activity ; GO:0160107
 Reactome:R-HSA-6783880 > GO:L-pipecolate oxidase activity ; GO:0050031
 Reactome:R-HSA-6783939 > GO:pyrroline-5-carboxylate reductase activity ; GO:0004735
 Reactome:R-HSA-6783955 > GO:pyrroline-5-carboxylate reductase activity ; GO:0004735
@@ -3933,9 +3933,11 @@ Reactome:R-HSA-6786245 > GO:carnosine synthase activity ; GO:0047730
 Reactome:R-HSA-6786257 > GO:dCTP diphosphatase activity ; GO:0047840
 Reactome:R-HSA-6786421 > GO:chitinase activity ; GO:0004568
 Reactome:R-HSA-6786500 > GO:tRNA methyltransferase activity ; GO:0008175
+Reactome:R-HSA-6786501 > GO:tRNA (guanine(10)-N2)-methyltransferase activity ; GO:0160102
 Reactome:R-HSA-6786567 > GO:tRNA methyltransferase activity ; GO:0008175
 Reactome:R-HSA-6786571 > GO:N6-threonylcarbomyladenosine methylthiotransferase activity ; GO:0035598
 Reactome:R-HSA-6786583 > GO:pseudouridine synthase activity ; GO:0009982
+Reactome:R-HSA-6786621 > GO:tRNA (guanosine(9)-N1)-methyltransferase activity ; GO:0052905
 Reactome:R-HSA-6786650 > GO:phospholipase activity ; GO:0004620
 Reactome:R-HSA-6786652 > GO:hydrolase activity, hydrolyzing O-glycosyl compounds ; GO:0004553
 Reactome:R-HSA-6786720 > GO:trans-2-enoyl-CoA reductase (NADPH) activity ; GO:0019166
@@ -3944,10 +3946,13 @@ Reactome:R-HSA-6786881 > GO:5'-3' RNA polymerase activity ; GO:0034062
 Reactome:R-HSA-6787321 > GO:deoxyribose-phosphate aldolase activity ; GO:0004139
 Reactome:R-HSA-6787329 > GO:phosphopentomutase activity ; GO:0008973
 Reactome:R-HSA-6787447 > GO:tRNA-5-taurinomethyluridine 2-sulfurtransferase ; GO:0061708
+Reactome:R-HSA-6787525 > GO:tRNA (adenine(58)-N1)-methyltransferase activity ; GO:0160107
 Reactome:R-HSA-6787533 > GO:fucose-1-phosphate guanylyltransferase activity ; GO:0047341
 Reactome:R-HSA-6787540 > GO:fucokinase activity ; GO:0050201
 Reactome:R-HSA-6787566 > GO:pseudouridine synthase activity ; GO:0009982
 Reactome:R-HSA-6787567 > GO:tRNA dimethylallyltransferase activity ; GO:0052381
+Reactome:R-HSA-6787591 > GO:tRNA (guanosine(9)-N1)-methyltransferase activity ; GO:0052905
+Reactome:R-HSA-6787594 > GO:tRNA (adenine(9)-N1)-methyltransferase activity ; GO:0160106
 Reactome:R-HSA-6787623 > GO:isomerase activity ; GO:0016853
 Reactome:R-HSA-6787632 > GO:GDP-mannose 4,6-dehydratase activity ; GO:0008446
 Reactome:R-HSA-6787642 > GO:GDP-L-fucose synthase activity ; GO:0050577
@@ -3960,6 +3965,8 @@ Reactome:R-HSA-6788582 > GO:non-membrane spanning protein tyrosine kinase activi
 Reactome:R-HSA-6788597 > GO:hydroxymethylglutaryl-CoA lyase activity ; GO:0004419
 Reactome:R-HSA-6788611 > GO:hydroxylysine kinase activity ; GO:0047992
 Reactome:R-HSA-6788650 > GO:protein C-terminal S-isoprenylcysteine carboxyl O-methyltransferase activity ; GO:0004671
+Reactome:R-HSA-6788668 > GO:tRNA 2'-O-methyltransferase activity ; GO:0106050
+Reactome:R-HSA-6788684 > GO:tRNA 2'-O-methyltransferase activity ; GO:0106050
 Reactome:R-HSA-6788707 > GO:tRNA (uracil-2'-O-)-methyltransferase activity ; GO:0052665
 Reactome:R-HSA-6788798 > GO:nucleoside monophosphate kinase activity ; GO:0050145
 Reactome:R-HSA-6788810 > GO:nucleoside monophosphate kinase activity ; GO:0050145
@@ -5179,6 +5186,7 @@ Reactome:R-HSA-9023912 > GO:RNA endonuclease activity ; GO:0004521
 Reactome:R-HSA-9023941 > GO:DNA endonuclease activity ; GO:0004520
 Reactome:R-HSA-9023943 > GO:3'-5'-DNA exonuclease activity ; GO:0008296
 Reactome:R-HSA-9023968 > GO:15-hydroxyprostaglandin dehydrogenase (NAD+) activity ; GO:0016404
+Reactome:R-HSA-9024159 > GO:tRNA 2'-O-methyltransferase activity ; GO:0106050
 Reactome:R-HSA-9024624 > GO:oxidoreductase activity ; GO:0016491
 Reactome:R-HSA-9024630 > GO:oxidoreductase activity ; GO:0016491
 Reactome:R-HSA-9024726 > GO:protein tyrosine kinase activity ; GO:0004713
@@ -5753,7 +5761,7 @@ Reactome:R-HSA-9694793 > GO:dolichyl-diphosphooligosaccharide-protein glycotrans
 Reactome:R-HSA-9695834 > GO:protein tyrosine kinase activity ; GO:0004713
 Reactome:R-HSA-9695853 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
 Reactome:R-HSA-9695890 > GO:sphingolipid transporter activity ; GO:0046624
-Reactome:R-HSA-9695949 > GO:D-erythro-sphingosine kinase activity ; GO:0017050
+Reactome:R-HSA-9695949 > GO:lipid kinase activity ; GO:0001727
 Reactome:R-HSA-9696807 > GO:mannosyl-oligosaccharide 1,2-alpha-mannosidase activity ; GO:0004571
 Reactome:R-HSA-9696980 > GO:glycoprotein 6-alpha-L-fucosyltransferase activity ; GO:0008424
 Reactome:R-HSA-9696980 > GO:alpha-1,3-mannosylglycoprotein 4-beta-N-acetylglucosaminyltransferase activity ; GO:0008454
@@ -6053,7 +6061,7 @@ Reactome:R-HSA-9815529 > GO:mRNA guanylyltransferase activity ; GO:0004484
 Reactome:R-HSA-9817362 > GO:ubiquitin-protein transferase activity ; GO:0004842
 Reactome:R-HSA-9817397 > GO:protein serine/threonine kinase activity ; GO:0004674
 Reactome:R-HSA-9817400 > GO:K63-linked deubiquitinase activity ; GO:0061578
-Reactome:R-HSA-9817458 > GO:methylcytosine dioxygenase activity ; GO:0070579
+Reactome:R-HSA-9817458 > GO:5-methylcytosine dioxygenase activity ; GO:0070579
 Reactome:R-HSA-9817512 > GO:uracil DNA N-glycosylase activity ; GO:0004844
 Reactome:R-HSA-9817513 > GO:cytidine deaminase activity ; GO:0004126
 Reactome:R-HSA-9817575 > GO:protein-disulfide reductase activity ; GO:0015035
@@ -6076,21 +6084,41 @@ Reactome:R-HSA-9822335 > GO:poly(A)-specific ribonuclease activity ; GO:0004535
 Reactome:R-HSA-9822437 > GO:3'-5'-RNA exonuclease activity ; GO:0000175
 Reactome:R-HSA-9822461 > GO:histone H3K4 demethylase activity ; GO:0032453
 Reactome:R-HSA-9822467 > GO:histone H3K4 demethylase activity ; GO:0032453
+Reactome:R-HSA-9822532 > GO:metalloendopeptidase activity ; GO:0004222
 Reactome:R-HSA-9822583 > GO:histone methyltransferase activity ; GO:0042054
 Reactome:R-HSA-9822914 > GO:histone H3K27me2/H3K27me3 demethylase activity ; GO:0071558
 Reactome:R-HSA-9822985 > GO:histone H3K27me2/H3K27me3 demethylase activity ; GO:0071558
+Reactome:R-HSA-9824402 > GO:metalloendopeptidase activity ; GO:0004222
 Reactome:R-HSA-982807 > GO:protein tyrosine kinase activity ; GO:0004713
+Reactome:R-HSA-9828639 > GO:RNA-dependent RNA polymerase activity ; GO:0003968
+Reactome:R-HSA-9829030 > GO:serine-type endopeptidase activity ; GO:0004252
+Reactome:R-HSA-9829047 > GO:protein-cysteine S-palmitoyltransferase activity ; GO:0019706
+Reactome:R-HSA-9829200 > GO:serine-type endopeptidase activity ; GO:0004252
+Reactome:R-HSA-9830805 > GO:serine-type endopeptidase activity ; GO:0004252
+Reactome:R-HSA-9830848 > GO:mRNA 5'-cap (guanine-N7-)-methyltransferase activity ; GO:0004482
+Reactome:R-HSA-9830875 > GO:protein-cysteine S-palmitoyltransferase activity ; GO:0019706
+Reactome:R-HSA-9830882 > GO:serine-type endopeptidase activity ; GO:0004252
+Reactome:R-HSA-9831136 > GO:protein tyrosine kinase activity ; GO:0004713
 Reactome:R-HSA-983140 > GO:ubiquitin-protein transferase activity ; GO:0004842
 Reactome:R-HSA-983144 > GO:ABC-type peptide antigen transporter activity ; GO:0015433
 Reactome:R-HSA-983150 > GO:endopeptidase activity ; GO:0004175
+Reactome:R-HSA-9831514 > GO:protein serine/threonine kinase activity ; GO:0004674
 Reactome:R-HSA-983152 > GO:ubiquitin binding ; GO:0043130
 Reactome:R-HSA-983153 > GO:ubiquitin-protein transferase activity ; GO:0004842
 Reactome:R-HSA-983156 > GO:ubiquitin-protein transferase activity ; GO:0004842
 Reactome:R-HSA-983158 > GO:endopeptidase activity ; GO:0004175
 Reactome:R-HSA-983162 > GO:aminopeptidase activity ; GO:0004177
+Reactome:R-HSA-9831712 > GO:protein serine/threonine kinase activity ; GO:0004674
+Reactome:R-HSA-9831948 > GO:protein serine/threonine phosphatase activity ; GO:0004722
+Reactome:R-HSA-9832782 > GO:protein serine/threonine kinase activity ; GO:0004674
+Reactome:R-HSA-9833031 > GO:poly(A) RNA polymerase activity ; GO:1990817
+Reactome:R-HSA-9833155 > GO:ubiquitin-protein transferase activity ; GO:0004842
 Reactome:R-HSA-9833820 > GO:protein kinase activity ; GO:0004672
 Reactome:R-HSA-9833973 > GO:ubiquitin-protein transferase activity ; GO:0004842
+Reactome:R-HSA-9834003 > GO:mRNA (nucleoside-2'-O-)-methyltransferase activity ; GO:0004483
 Reactome:R-HSA-983422 > GO:GTPase activity ; GO:0003924
+Reactome:R-HSA-9834719 > GO:RNA-dependent RNA polymerase activity ; GO:0003968
+Reactome:R-HSA-9834736 > GO:RNA-dependent RNA polymerase activity ; GO:0003968
 Reactome:R-HSA-9834809 > GO:SUMO ligase activity ; GO:0061665
 Reactome:R-HSA-9835885 > GO:protein kinase activity ; GO:0004672
 Reactome:R-HSA-9836159 > GO:protein kinase activity ; GO:0004672
@@ -6115,12 +6143,42 @@ Reactome:R-HSA-9837333 > GO:coenzyme A transmembrane transporter activity ; GO:0
 Reactome:R-HSA-9837337 > GO:dephospho-CoA kinase activity ; GO:0004140
 Reactome:R-HSA-9837354 > GO:coenzyme A diphosphatase activity ; GO:0010945
 Reactome:R-HSA-9837419 > GO:phosphatase activity ; GO:0016791
+Reactome:R-HSA-9837511 > GO:RNA-dependent RNA polymerase activity ; GO:0003968
+Reactome:R-HSA-9837835 > GO:monoatomic cation channel activity ; GO:0005261
+Reactome:R-HSA-9838004 > GO:ATP-dependent peptidase activity ; GO:0004176
+Reactome:R-HSA-9838081 > GO:ATP-dependent peptidase activity ; GO:0004176
+Reactome:R-HSA-9838289 > GO:ATP-dependent peptidase activity ; GO:0004176
+Reactome:R-HSA-9838321 > GO:cAMP-dependent protein kinase activity ; GO:0004691
+Reactome:R-HSA-9839059 > GO:ATP-dependent peptidase activity ; GO:0004176
+Reactome:R-HSA-9839072 > GO:serine-type peptidase activity ; GO:0008236
+Reactome:R-HSA-9839105 > GO:ATP-dependent peptidase activity ; GO:0004176
+Reactome:R-HSA-9839110 > GO:serine-type peptidase activity ; GO:0008236
+Reactome:R-HSA-9839113 > GO:ATP-dependent peptidase activity ; GO:0004176
+Reactome:R-HSA-9839146 > GO:ATP-dependent peptidase activity ; GO:0004176
+Reactome:R-HSA-9839751 > GO:ATP-dependent peptidase activity ; GO:0004176
+Reactome:R-HSA-9840408 > GO:metalloendopeptidase activity ; GO:0004222
 Reactome:R-HSA-9840470 > GO:sphingolipid activator protein activity ; GO:0030290
+Reactome:R-HSA-9840532 > GO:metalloendopeptidase activity ; GO:0004222
+Reactome:R-HSA-9840564 > GO:metalloendopeptidase activity ; GO:0004222
 Reactome:R-HSA-9840795 > GO:beta-galactosidase activity ; GO:0004565
 Reactome:R-HSA-9840833 > GO:beta-N-acetylhexosaminidase activity ; GO:0004563
 Reactome:R-HSA-9840884 > GO:beta-N-acetylhexosaminidase activity ; GO:0004563
 Reactome:R-HSA-9840949 > GO:cerebroside-sulfatase activity ; GO:0004098
 Reactome:R-HSA-9841189 > GO:alpha-galactosidase activity ; GO:0004557
+Reactome:R-HSA-9843721 > GO:sphingolipid transporter activity ; GO:0046624
+Reactome:R-HSA-9844241 > GO:metalloendopeptidase activity ; GO:0004222
+Reactome:R-HSA-9844587 > GO:galactosylceramide sulfotransferase activity ; GO:0001733
+Reactome:R-HSA-9844860 > GO:beta-galactoside (CMP) alpha-2,3-sialyltransferase activity ; GO:0003836
+Reactome:R-HSA-9844955 > GO:glycolipid transfer activity ; GO:0017089
+Reactome:R-HSA-9845055 > GO:glycolipid transfer activity ; GO:0017089
+Reactome:R-HSA-9845516 > GO:UDP-galactose:beta-N-acetylglucosamine beta-1,3-galactosyltransferase activity ; GO:0008499
+Reactome:R-HSA-9845538 > GO:beta-galactoside (CMP) alpha-2,3-sialyltransferase activity ; GO:0003836
+Reactome:R-HSA-9845587 > GO:alpha-N-acetylneuraminate alpha-2,8-sialyltransferase activity ; GO:0003828
+Reactome:R-HSA-9846305 > GO:alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase activity ; GO:0001665
+Reactome:R-HSA-9846332 > GO:fucosyltransferase activity ; GO:0008417
+Reactome:R-HSA-9846477 > GO:lactosylceramide 4-alpha-galactosyltransferase activity ; GO:0050512
+Reactome:R-HSA-9846501 > GO:lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyltransferase activity ; GO:0047256
+Reactome:R-HSA-9851347 > GO:UDP-galactose:glucosylceramide beta-1,4-galactosyltransferase activity ; GO:0008489
 Reactome:R-HSA-990526 > GO:ubiquitin protein ligase activity ; GO:0061630
 Reactome:R-HSA-994137 > GO:inositol tetrakisphosphate 1-kinase activity ; GO:0047325
 Reactome:R-HSA-994140 > GO:inositol-1,3,4-trisphosphate 5-kinase activity ; GO:0052726

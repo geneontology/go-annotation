@@ -1,0 +1,10 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	AGI_LocusCode:AT1G35290	ALT1	PMID:24214063|TAIR:Publication:501757320		GO:0016295	myristoyl-[acyl-carrier-protein] hydrolase activity	IDA		TAIR:locus:2206752		20210401		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT1G68260	ALT3	PMID:24214063|TAIR:Publication:501757320		GO:0016295	myristoyl-[acyl-carrier-protein] hydrolase activity	IDA		TAIR:locus:2199277		20210401		NCBITaxon:3702
+UniProt	UniProtKB:Q9NV23	OLAH	PMID:26663084		GO:0016295	myristoyl-[acyl-carrier-protein] hydrolase activity	IDA			PANTHER:PTHR11487	20180328		NCBITaxon:9606
+UniProt	AGI_LocusCode:AT1G35290	ALT1	PMID:24214063|TAIR:Publication:501757320		GO:0016296	palmitoyl-[acyl-carrier-protein] hydrolase activity	IDA		TAIR:locus:2206752		20210401		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT1G68260	ALT3	PMID:24214063|TAIR:Publication:501757320		GO:0016296	palmitoyl-[acyl-carrier-protein] hydrolase activity	IDA		TAIR:locus:2199277		20210401		NCBITaxon:3702
+UniProt	UniProtKB:Q9NV23	OLAH	PMID:26663084		GO:0016296	palmitoyl-[acyl-carrier-protein] hydrolase activity	IDA			PANTHER:PTHR11487	20180328		NCBITaxon:9606
+UniProt	AGI_LocusCode:AT1G35290	ALT1	PMID:24214063|TAIR:Publication:501757320		GO:0047381	dodecanoyl-[acyl-carrier-protein] hydrolase activity	IDA		TAIR:locus:2206752		20210401		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT1G68260	ALT3	PMID:24214063|TAIR:Publication:501757320		GO:0047381	dodecanoyl-[acyl-carrier-protein] hydrolase activity	IDA		TAIR:locus:2199277		20210401		NCBITaxon:3702
+UniProt	UniProtKB:Q9NV23	OLAH	PMID:26663084		GO:0047381	dodecanoyl-[acyl-carrier-protein] hydrolase activity	IDA			PANTHER:PTHR11487	20180328		NCBITaxon:9606

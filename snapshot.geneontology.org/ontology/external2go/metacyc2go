@@ -1,4 +1,4 @@
-! Generated on 2023-12-13T03:04Z from the ontology 'go' with data version: 'releases/2023-12-12'
+! Generated on 2023-12-30T08:25Z from the ontology 'go' with data version: 'releases/2023-12-24'
 !
 MetaCyc:+-BORNEOL-DEHYDROGENASE-RXN > GO:(+)-borneol dehydrogenase activity ; GO:0047500
 MetaCyc:+-NEOMENTHOL-DEHYDROGENASE-RXN > GO:(+)-neomenthol dehydrogenase activity ; GO:0047501
@@ -227,7 +227,7 @@ MetaCyc:1.17.99.3-RXN > GO:3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-C
 MetaCyc:1.18.1.2-RXN > GO:ferredoxin-NADP+ reductase activity ; GO:0004324
 MetaCyc:1.2.1.13-RXN > GO:glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating) activity ; GO:0047100
 MetaCyc:1.2.1.2-RXN > GO:formate dehydrogenase (NAD+) activity ; GO:0008863
-MetaCyc:1.2.1.25-RXN > GO:2-oxoisovalerate dehydrogenase (acylating) activity ; GO:0047101
+MetaCyc:1.2.1.25-RXN > GO:branched-chain alpha-keto acid dehydrogenase activity ; GO:0047101
 MetaCyc:1.2.1.27-RXN > GO:methylmalonate-semialdehyde dehydrogenase (acylating, NAD) activity ; GO:0004491
 MetaCyc:1.2.1.30-RXN > GO:aryl-aldehyde dehydrogenase (NADP+) activity ; GO:0047683
 MetaCyc:1.2.1.31-RXN > GO:L-aminoadipate-semialdehyde dehydrogenase activity ; GO:0004043
@@ -407,7 +407,6 @@ MetaCyc:2-NITROPHENOL-2-MONOOXYGENASE-RXN > GO:2-nitrophenol 2-monooxygenase act
 MetaCyc:2-NITROPROPANE-DIOXYGENASE-RXN > GO:nitronate monooxygenase activity ; GO:0018580
 MetaCyc:2-OCTAPRENYL-6-METHOXYPHENOL-HYDROX-RXN > GO:2-octaprenyl-6-methoxyphenol hydroxylase activity ; GO:0008681
 MetaCyc:2-OCTAPRENYL-6-OHPHENOL-METHY-RXN > GO:2-octaprenyl-6-hydroxyphenol methylase activity ; GO:0102004
-MetaCyc:2-OCTAPRENYL-METHOXY-BENZOQ-METH-RXN > GO:2-octaprenyl-6-methoxy-1,4-benzoquinone methylase activity ; GO:0043333
 MetaCyc:2-OCTAPRENYLPHENOL-HYDROX-RXN > GO:2-octaprenylphenol hydroxylase activity ; GO:0019168
 MetaCyc:2-OH-6-OXOHEPTA-2-4-DIENOATE-HYDR-RXN > GO:2-hydroxy-6-oxohepta-2,4-dienoate hydrolase activity ; GO:0018765
 MetaCyc:2-OXOADIPATE-REDUCTASE-RXN > GO:2-oxoadipate reductase activity ; GO:0047550
@@ -2517,7 +2516,7 @@ MetaCyc:GLYCOLALD-DEHYDROG-RXN > GO:glycolaldehyde dehydrogenase activity ; GO:0
 MetaCyc:GLYCOLATE-REDUCTASE-RXN > GO:glyoxylate reductase (NAD+) activity ; GO:0047964
 MetaCyc:GLYCOLATEDEHYDRO-RXN > GO:glycolate dehydrogenase activity ; GO:0019154
 MetaCyc:GLYCOLATEMET-PWY > GO:glycolate metabolic process ; GO:0009441
-MetaCyc:GLYCOLYSIS > GO:glycolytic process through glucose-6-phosphate ; GO:0061620
+MetaCyc:GLYCOLYSIS > GO:transport-coupled glycolytic process through glucose-6-phosphate ; GO:0061633
 MetaCyc:GLYCOLYSIS-VARIANTS > GO:glycolytic process ; GO:0006096
 MetaCyc:GLYCOPHOSPHORYL-RXN > GO:glycogen phosphorylase activity ; GO:0008184
 MetaCyc:GLYCOPROTEIN-O-FATTY-ACYLTRANSFERASE-RXN > GO:glycoprotein O-fatty-acyltransferase activity ; GO:0047965
@@ -3891,7 +3890,6 @@ MetaCyc:RXN-11357 > GO:7,9,9'-tricis-neurosporene:quinone oxidoreductase activit
 MetaCyc:RXN-11358 > GO:gibberellin A9 carboxyl methyltransferase activity ; GO:0102117
 MetaCyc:RXN-11359 > GO:gibberellin A4 carboxyl methyltransferase activity ; GO:0102118
 MetaCyc:RXN-11360 > GO:gibberellin A20 carboxyl methyltransferase activity ; GO:0102119
-MetaCyc:RXN-11370 > GO:diphthine synthase activity ; GO:0004164
 MetaCyc:RXN-11371 > GO:2-(3-amino-3-carboxypropyl)histidine synthase activity ; GO:0090560
 MetaCyc:RXN-11372 > GO:NAD+-diphthamide ADP-ribosyltransferase activity ; GO:0047286
 MetaCyc:RXN-11375 > GO:ceramidase activity ; GO:0102121
@@ -4054,7 +4052,7 @@ MetaCyc:RXN-12325 > GO:ATP:geranylgeraniol phosphotransferase activity ; GO:0102
 MetaCyc:RXN-12332 > GO:3-aminopropanal dehydrogenase activity ; GO:0102244
 MetaCyc:RXN-12338 > GO:lupan-3beta,20-diol synthase activity ; GO:0102245
 MetaCyc:RXN-12346 > GO:6-amino-6-deoxyfutalosine hydrolase activity ; GO:0102246
-MetaCyc:RXN-12353 > GO:oxidative DNA demethylase activity ; GO:0035516
+MetaCyc:RXN-12353 > GO:broad specificity oxidative DNA demethylase activity ; GO:0035516
 MetaCyc:RXN-12359 > GO:malonyl-CoA synthetase activity ; GO:0090409
 MetaCyc:RXN-12361 > GO:malonyl-malonyl acyl carrier protein-condensing enzyme activity ; GO:0102247
 MetaCyc:RXN-12368 > GO:tRNA(Ser) (uridine(44)-2'-O-)-methyltransferase activity ; GO:0141101
@@ -4307,6 +4305,7 @@ MetaCyc:RXN-14250 > GO:sphingolipid C4-monooxygenase activity ; GO:0102772
 MetaCyc:RXN-14306 > GO:aldos-2-ulose dehydratase activity ; GO:0033991
 MetaCyc:RXN-14317 > GO:GA20 2,3-desaturase activity ; GO:0102494
 MetaCyc:RXN-14318 > GO:GA5 3beta-hydroxylase activity ; GO:0102495
+MetaCyc:RXN-14326 > GO:diphthine synthase activity ; GO:0004164
 MetaCyc:RXN-14327 > GO:GA5 2,3 epoxidase activity ; GO:0102496
 MetaCyc:RXN-14338 > GO:diadenylate cyclase activity ; GO:0106408
 MetaCyc:RXN-14347 > GO:scyllo-inositol dehydrogenase (NADP+) activity ; GO:0102497
@@ -4467,6 +4466,7 @@ MetaCyc:RXN-15755 > GO:scalarane-17alpha-19-diol synthase activity ; GO:0102643
 MetaCyc:RXN-15756 > GO:monocyclic sesterterpenediol synthase activity ; GO:0102644
 MetaCyc:RXN-15758 > GO:17(E)-cheilanthenediol synthase activity ; GO:0102645
 MetaCyc:RXN-15759 > GO:14betaH-scalarane-17alpha-19-diol synthase activity ; GO:0102646
+MetaCyc:RXN-15775 > GO:diphthine methyl ester synthase activity ; GO:0141133
 MetaCyc:RXN-15789 > GO:D-ribose 5-phosphate:D-sedoheptulose 7-phosphate transaldolase activity ; GO:0102647
 MetaCyc:RXN-15790 > GO:D-ribose 5-phosphate:D-fructose 6-phosphate transaldolase activity ; GO:0102648
 MetaCyc:RXN-15803 > GO:hercynylselenocysteine synthase ; GO:0044876
@@ -4541,7 +4541,6 @@ MetaCyc:RXN-19997 > GO:Rab geranylgeranyltransferase activity ; GO:0004663
 MetaCyc:RXN-2 > GO:vanillate monooxygenase activity ; GO:0018489
 MetaCyc:RXN-2006 > GO:benzoyl acetate-CoA thiolase activity ; GO:0018711
 MetaCyc:RXN-20062 > GO:cyanuric acid amidohydrolase activity ; GO:0018753
-MetaCyc:RXN-20172 > GO:hexaprenyldihydroxybenzoate methyltransferase activity ; GO:0004395
 MetaCyc:RXN-20410 > GO:deoxyribonuclease IV (phage-T4-induced) activity ; GO:0008833
 MetaCyc:RXN-2043 > GO:cellulase activity ; GO:0008810
 MetaCyc:RXN-20643 > GO:histone H3K36me2/H3K36me3 demethylase activity ; GO:0140681
@@ -5145,11 +5144,8 @@ MetaCyc:RXN-9160 > GO:CDP-abequose epimerase activity ; GO:0047732
 MetaCyc:RXN-9162 > GO:dalcochinase activity ; GO:0102954
 MetaCyc:RXN-9191 > GO:S-adenosylmethionine:2-demethylmenaquinol-7 methyltransferase activity ; GO:0102955
 MetaCyc:RXN-92 > GO:UDP-glucose:sinapaldehyde 4-beta-D-glucosyltransferase activity ; GO:0102956
-MetaCyc:RXN-9227 > GO:2-heptaprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity ; GO:0043428
 MetaCyc:RXN-9230 > GO:4-hydroxybenzoate decaprenyltransferase activity ; GO:0002083
-MetaCyc:RXN-9237 > GO:3-demethylubiquinol-10 3-O-methyltransferase activity ; GO:0044596
 MetaCyc:RXN-9281 > GO:3,4-dihydroxy-5-polyprenylbenzoic acid O-methyltransferase activity ; GO:0010420
-MetaCyc:RXN-9282 > GO:decaprenyldihydroxybenzoate methyltransferase activity ; GO:0044595
 MetaCyc:RXN-9290 > GO:momilactone-A synthase activity ; GO:0102960
 MetaCyc:RXN-9291 > GO:syn-stemod-13(17)-ene synthase activity ; GO:0034283
 MetaCyc:RXN-9299 > GO:ent-pimara-9(11),15-diene synthase activity ; GO:0052674
@@ -5469,6 +5465,7 @@ MetaCyc:RXNQT-4333 > GO:8-methylthiooctyl-desulfoglucosinolate sulfotransferase 
 MetaCyc:RXNQT-4343 > GO:3-butenylglucosinolate 2-hydroxylase activity ; GO:0062131
 MetaCyc:RXNQT-4345 > GO:2-oxo-6-methylthiohexanoate aminotransferase activity ; GO:0103105
 MetaCyc:RXNQT-4366 > GO:methyl salicylate esterase activity ; GO:0080031
+MetaCyc:RXNQT-4375 > GO:lysophosphatidic acid phosphatase activity ; GO:0052642
 MetaCyc:RXNQT-4397 > GO:brassinolide 23-O-glucosyltransferase activity ; GO:0103106
 MetaCyc:RXNQT-4398 > GO:castasterone 23-O-glucosyltransferase activity ; GO:0103107
 MetaCyc:S-2-HYDROXY-ACID-OXIDASE-RXN > GO:(S)-2-hydroxy-acid oxidase activity ; GO:0003973
