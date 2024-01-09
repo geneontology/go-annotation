@@ -1,0 +1,11 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPBC83.18c	fic1	PMID:23093943		GO:1990274	mitotic actomyosin contractile ring disassembly	EXP			PANTHER:PTHR32246	20210326		NCBITaxon:4896
+PomBase	PomBase:SPCC645.05c	myo2	PMID:34613787		GO:1990274	mitotic actomyosin contractile ring disassembly	IMP			PANTHER:PTHR45615	20211201		NCBITaxon:4896
+PomBase	PomBase:SPAC4A8.05c	myp2	PMID:34613787		GO:1990274	mitotic actomyosin contractile ring disassembly	IMP			PANTHER:PTHR45615	20211201		NCBITaxon:4896
+PomBase	PomBase:SPBC11C11.02	imp2	PMID:9786952		GO:1990274	mitotic actomyosin contractile ring disassembly	IMP			PANTHER:PTHR23065	20200130		NCBITaxon:4896
+SGD	SGD:S000006392	MLC2	PMID:15210731		GO:1990274	mitotic actomyosin contractile ring disassembly	IMP		UniProtKB:Q06580	PANTHER:PTHR23049	20191101		NCBITaxon:559292
+SGD	SGD:S000004117	APC2	PMID:19109423		GO:0120151	positive regulation of mitotic actomyosin contractile ring disassembly	IMP		UniProtKB:Q12440	PANTHER:PTHR45957	20191101		NCBITaxon:559292
+SGD	SGD:S000002971	CDH1	PMID:19109423		GO:0120151	positive regulation of mitotic actomyosin contractile ring disassembly	IMP		UniProtKB:P53197	PANTHER:PTHR19918	20191101		NCBITaxon:559292
+SGD	SGD:S000002971	CDH1	PMID:19109423		GO:0120151	positive regulation of mitotic actomyosin contractile ring disassembly	IGI	SGD:S000006163	UniProtKB:P53197	PANTHER:PTHR19918	20191101		NCBITaxon:559292
+SGD	SGD:S000002971	CDH1	PMID:19109423		GO:0120151	positive regulation of mitotic actomyosin contractile ring disassembly	IGI	SGD:S000006392	UniProtKB:P53197	PANTHER:PTHR19918	20191101		NCBITaxon:559292
+SGD	SGD:S000006392	MLC2	PMID:19109423		GO:1990274	mitotic actomyosin contractile ring disassembly	IGI	SGD:S000002971	UniProtKB:Q06580	PANTHER:PTHR23049	20191101		NCBITaxon:559292
