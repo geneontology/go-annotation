@@ -1,0 +1,6 @@
+term	file	line
+GO:0003933	interpro2go	InterPro:IPR003801 GTP cyclohydrolase FolE2/MptA > GO:GTP cyclohydrolase activity ; GO:0003933
+GO:0003933	interpro2go	InterPro:IPR007839 GTP cyclohydrolase III > GO:GTP cyclohydrolase activity ; GO:0003933
+GO:0003933	interpro2go	InterPro:IPR022840 GTP cyclohydrolase MptA > GO:GTP cyclohydrolase activity ; GO:0003933
+GO:0003933	hamap2go	HAMAP:MF_01527 > GO:GTP cyclohydrolase activity ; GO:0003933
+GO:0003933	unirule2go	UniRule:UR000078507 > GO:GTP cyclohydrolase activity ; GO:0003933
