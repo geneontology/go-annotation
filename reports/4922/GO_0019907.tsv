@@ -1,0 +1,12 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CAFA	UniProtKB:P51946	CCNH	PMID:23393140		GO:0019907	cyclin-dependent protein kinase activating kinase holoenzyme complex	IMP			PANTHER:PTHR10026	20161214		NCBITaxon:9606
+CAFA	UniProtKB:P50613	CDK7	PMID:23393140		GO:0019907	cyclin-dependent protein kinase activating kinase holoenzyme complex	IMP			PANTHER:PTHR24056	20161214		NCBITaxon:9606
+ComplexPortal	UniProtKB:P51948	MNAT1	PMID:23622515		GO:0019907	cyclin-dependent protein kinase activating kinase holoenzyme complex	IDA			PANTHER:PTHR12683	20141222		NCBITaxon:9606
+ComplexPortal	UniProtKB:P51946	CCNH	PMID:23622515		GO:0019907	cyclin-dependent protein kinase activating kinase holoenzyme complex	IDA			PANTHER:PTHR10026	20141222		NCBITaxon:9606
+ComplexPortal	UniProtKB:P50613	CDK7	PMID:23622515		GO:0019907	cyclin-dependent protein kinase activating kinase holoenzyme complex	IDA			PANTHER:PTHR24056	20141222		NCBITaxon:9606
+PomBase	PomBase:SPBC19F8.07	mcs6	PMID:8557037		GO:0019907	cyclin-dependent protein kinase activating kinase holoenzyme complex	IPI	PomBase:SPBP16F5.02		PANTHER:PTHR24056	20160111		NCBITaxon:4896
+UniProt	UniProtKB:P51948	MNAT1	PMID:11445587		GO:0019907	cyclin-dependent protein kinase activating kinase holoenzyme complex	IDA			PANTHER:PTHR12683	20180803		NCBITaxon:9606
+UniProt	UniProtKB:P51948	MNAT1	PMID:8692841		GO:0019907	cyclin-dependent protein kinase activating kinase holoenzyme complex	IDA			PANTHER:PTHR12683	20200429		NCBITaxon:9606
+UniProt	UniProtKB:P51946	CCNH	PMID:8692841		GO:0019907	cyclin-dependent protein kinase activating kinase holoenzyme complex	IDA			PANTHER:PTHR10026	20200429		NCBITaxon:9606
+UniProt	UniProtKB:P50613	CDK7	PMID:8692841		GO:0019907	cyclin-dependent protein kinase activating kinase holoenzyme complex	IDA			PANTHER:PTHR24056	20200429		NCBITaxon:9606
+UniProt	UniProtKB:P51946	CCNH	PMID:8692842		GO:0019907	cyclin-dependent protein kinase activating kinase holoenzyme complex	IDA			PANTHER:PTHR10026	20071114		NCBITaxon:9606
