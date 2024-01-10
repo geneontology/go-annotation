@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ParkinsonsUK-UCL	UniProtKB:F5HF68	vIRF-1	PMID:17297443		GO:0140311	protein sequestering activity	IDA				20220711	UniProtKB:O43464|GO:0019050|UniProtKB:Q9P0J0|GO:0019050	NCBITaxon:868565
+UniProt	UniProtKB:P24356	OPG045	PMID:16439990		GO:0140311	protein sequestering activity	IDA				20220706	GO:0019050|GO:0005739|UniProtKB:Q16611|GO:0015288	NCBITaxon:10254
+DIBU	UniProtKB:P59635	7a	PMID:17428862		GO:0005515	protein binding	IPI	UniProtKB:Q07817			20200401	GO:0019051	NCBITaxon:694009

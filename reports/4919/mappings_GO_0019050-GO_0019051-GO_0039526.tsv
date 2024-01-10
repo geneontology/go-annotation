@@ -1,0 +1,15 @@
+term	file	line
+GO:0019050	interpro2go	InterPro:IPR002924 Adenovirus small t-antigen, E1B 19kDa protein > GO:suppression by virus of host apoptotic process ; GO:0019050
+GO:0019050	interpro2go	InterPro:IPR011207 Orthopoxvirus protein F1 > GO:suppression by virus of host apoptotic process ; GO:0019050
+GO:0019050	interpro2go	InterPro:IPR021119 Poxvirus F1/C10 > GO:suppression by virus of host apoptotic process ; GO:0019050
+GO:0019050	unirule2go	UniRule:UR000615764 > GO:suppression by virus of host apoptotic process ; GO:0019050
+GO:0019050	uniprotkb_kw2go	UniProtKB-KW:KW-1081 Inhibition of host apoptosis by viral BCL2-like protein > GO:suppression by virus of host apoptotic process ; GO:0019050
+GO:0019050	uniprotkb_kw2go	UniProtKB-KW:KW-1082 Inhibition of host apoptosis by viral FLIP-like protein > GO:suppression by virus of host apoptotic process ; GO:0019050
+GO:0019050	uniprotkb_kw2go	UniProtKB-KW:KW-1085 Inhibition of host caspases by virus > GO:suppression by virus of host apoptotic process ; GO:0019050
+GO:0019051	interpro2go	InterPro:IPR006858 Chicken anaemia virus VP-3 protein > GO:induction by virus of host apoptotic process ; GO:0019051
+GO:0019051	hamap2go	HAMAP:MF_04080 > GO:induction by virus of host apoptotic process ; GO:0019051
+GO:0019051	unirule2go	UniRule:UR000613581 > GO:induction by virus of host apoptotic process ; GO:0019051
+GO:0019051	uniprotkb_kw2go	UniProtKB-KW:KW-1073 Activation of host caspases by virus > GO:induction by virus of host apoptotic process ; GO:0019051
+GO:0039526	interpro2go	InterPro:IPR009353 Orthopoxvirus, Protein N1 > GO:perturbation by virus of host apoptosis ; GO:0039526
+GO:0039526	interpro2go	InterPro:IPR009757 Circovirus 2, anti-apoptotic ORF4 > GO:perturbation by virus of host apoptosis ; GO:0039526
+GO:0039526	uniprotkb_kw2go	UniProtKB-KW:KW-1119 Modulation of host cell apoptosis by virus > GO:perturbation by virus of host apoptosis ; GO:0039526

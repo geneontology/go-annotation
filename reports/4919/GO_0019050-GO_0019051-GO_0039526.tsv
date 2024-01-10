@@ -1,0 +1,35 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AgBase	UniProtKB:P27958	P27958	PMID:12595532		GO:0019050	suppression by virus of host apoptotic process	IDA		UniProtKB:P27958-PRO_0000037572		20230714	UniProtKB:Q9UHD4	NCBITaxon:63746
+AgBase	UniProtKB:P27958	P27958	PMID:16530520		GO:0019050	suppression by virus of host apoptotic process	IDA		UniProtKB:P27958-PRO_0000037576		20141112		NCBITaxon:63746
+CACAO	UniProtKB:P69180	BA71V-032	PMID:11222676		GO:0019050	suppression by virus of host apoptotic process	IDA				20130208		NCBITaxon:10498
+CACAO	UniProtKB:Q3HM11	Q3HM11	PMID:23071821		GO:0019050	suppression by virus of host apoptotic process	IMP				20121030		NCBITaxon:10641
+CACAO	UniProtKB:P06935	P06935	PMID:23115297		GO:0019050	suppression by virus of host apoptotic process	IDA				20130210		NCBITaxon:11082
+CACAO	UniProtKB:Q83730	m005R	PMID:8676463		GO:0019050	suppression by virus of host apoptotic process	IMP				20131104		NCBITaxon:31530
+MGI	MGI:MGI:1096330	Bad	PMID:15231831		GO:0019050	suppression by virus of host apoptotic process	IDA			PANTHER:PTHR28540	20130610	CL:0000540	NCBITaxon:10090
+MGI	MGI:MGI:1096330	Bad	PMID:15231831		GO:0019050	suppression by virus of host apoptotic process	IMP	MGI:MGI:2675966		PANTHER:PTHR28540	20130610	CL:0000540	NCBITaxon:10090
+ParkinsonsUK-UCL	UniProtKB:F5HF68	vIRF-1	PMID:17297443		GO:0019050	suppression by virus of host apoptotic process	IDA				20140710	UniProtKB:P55211	NCBITaxon:868565
+UniProt	UniProtKB:P03247	E1B	PMID:10381623		GO:0019050	suppression by virus of host apoptotic process	IDA				20171117		NCBITaxon:10515
+UniProt	UniProtKB:Q98326	MC160	PMID:11259186		GO:0019050	suppression by virus of host apoptotic process	IDA				20180528		NCBITaxon:10280
+UniProt	UniProtKB:P08160	P35	PMID:16081248		GO:0019050	suppression by virus of host apoptotic process	IDA				20160617		NCBITaxon:46015
+UniProt	UniProtKB:P24356	OPG045	PMID:16439990		GO:0019050	suppression by virus of host apoptotic process	IDA				20170217		NCBITaxon:10254
+UniProt	UniProtKB:P0DOE5	SH	PMID:17494063		GO:0019050	suppression by virus of host apoptotic process	IMP				20181221		NCBITaxon:11259
+UniProt	UniProtKB:P21401	GP	PMID:17913816		GO:0019050	suppression by virus of host apoptotic process	IDA		UniProtKB:P21401-3		20160104		NCBITaxon:11589
+UniProt	UniProtKB:F5HGJ3	vBCL2	PMID:20042497		GO:0019050	suppression by virus of host apoptotic process	IMP				20170516		NCBITaxon:868565
+UniProt	UniProtKB:P05133	N	PMID:20227103		GO:0019050	suppression by virus of host apoptotic process	IDA				20211216		NCBITaxon:11602
+UniProt	UniProtKB:P21401	GP	PMID:23097454		GO:0019050	suppression by virus of host apoptotic process	IDA		UniProtKB:P21401-3		20160104		NCBITaxon:11589
+UniProt	UniProtKB:P24356	OPG045	PMID:23603272		GO:0019050	suppression by virus of host apoptotic process	IDA				20170217		NCBITaxon:10254
+UniProt	UniProtKB:P0DOF0	P/X	PMID:23702035		GO:0019050	suppression by virus of host apoptotic process	IDA				20170918		NCBITaxon:928296
+UniProt	UniProtKB:P03129	E7	PMID:23729654		GO:0019050	suppression by virus of host apoptotic process	IMP				20150211	UniProtKB:P42574|UniProtKB:P06396	NCBITaxon:333760
+UniProt	UniProtKB:P21605	OPG065	PMID:25740987		GO:0019050	suppression by virus of host apoptotic process	IDA				20170216		NCBITaxon:10254
+UniProt	UniProtKB:P0C765	V	PMID:30234028		GO:0019050	suppression by virus of host apoptotic process	IDA				20181008		NCBITaxon:652953
+UniProt	UniProtKB:P0C765	V	PMID:30290847		GO:0019050	suppression by virus of host apoptotic process	IDA				20181008		NCBITaxon:652953
+UniProt	UniProtKB:Q98325	MC159L	PMID:30842330		GO:0019050	suppression by virus of host apoptotic process	IDA				20190325		NCBITaxon:10280
+UniProt	UniProtKB:P21605	OPG065	PMID:34192517		GO:0019050	suppression by virus of host apoptotic process	IDA				20210916		NCBITaxon:10254
+AgBase	UniProtKB:P26662	P26662	PMID:12925958		GO:0019051	induction by virus of host apoptotic process	IDA		UniProtKB:P26662-PRO_0000037637		20160323		NCBITaxon:11116
+DIBU	UniProtKB:P59635	7a	PMID:17428862		GO:0019051	induction by virus of host apoptotic process	IDA				20200331		NCBITaxon:694009
+MGI	MGI:MGI:1197519	Bcl2l11	PMID:15231831		GO:0019051	induction by virus of host apoptotic process	IDA			PANTHER:PTHR12044	20130610		NCBITaxon:10090
+MGI	MGI:MGI:1096330	Bad	PMID:15231831		GO:0019051	induction by virus of host apoptotic process	IDA			PANTHER:PTHR28540	20130610		NCBITaxon:10090
+UniProt	UniProtKB:P69726	vpr	PMID:11000244		GO:0019051	induction by virus of host apoptotic process	IDA				20160330		NCBITaxon:11706
+UniProt	UniProtKB:Q6TV08	11 kDa	PMID:19861680		GO:0019051	induction by virus of host apoptotic process	IDA				20140307		NCBITaxon:10798
+UniProt	UniProtKB:Q9PZT1	NS1	PMID:9525624		GO:0019051	induction by virus of host apoptotic process	IDA				20150708		NCBITaxon:648237
+ZFIN	ZFIN:ZDB-GENE-000713-1	casp8	PMID:22615868		GO:0019051	induction by virus of host apoptotic process	IMP	ZFIN:ZDB-MRPHLNO-080808-7		PANTHER:PTHR10454	20130513		NCBITaxon:7955
