@@ -1,0 +1,35 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	FB:FBgn0000567	Eip74EF	PMID:10882130|FB:FBrf0128149		GO:0035071	salivary gland cell autophagic cell death	IMP			PANTHER:PTHR11849	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0011706	rpr	PMID:15150408|FB:FBrf0179526		GO:0035071	salivary gland cell autophagic cell death	IGI	FB:FBgn0003997			20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0003997	hid	PMID:15150408|FB:FBrf0179526		GO:0035071	salivary gland cell autophagic cell death	IGI	FB:FBgn0011706			20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0003997	hid	PMID:15150408|FB:FBrf0179526		GO:0035071	salivary gland cell autophagic cell death	IMP				20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0263864	Dark	PMID:16533943|FB:FBrf0190939		GO:0035071	salivary gland cell autophagic cell death	IMP			PANTHER:PTHR22845	20080124		NCBITaxon:7227
+FlyBase	FB:FBgn0261793	Trf2	PMID:17948312|FB:FBrf0201083		GO:0035071	salivary gland cell autophagic cell death	IMP			PANTHER:PTHR10126	20100325		NCBITaxon:7227
+FlyBase	FB:FBgn0011760	ctp	PMID:20080745|FB:FBrf0209730		GO:0035071	salivary gland cell autophagic cell death	IMP			PANTHER:PTHR11886	20100812		NCBITaxon:7227
+FlyBase	FB:FBgn0027594	drpr	PMID:20577216|FB:FBrf0211145		GO:0035071	salivary gland cell autophagic cell death	IMP			PANTHER:PTHR24035	20110331		NCBITaxon:7227
+FlyBase	FB:FBgn0035871	BI-1	PMID:21926971|FB:FBrf0217158		GO:0035071	salivary gland cell autophagic cell death	IMP			PANTHER:PTHR23291	20120510		NCBITaxon:7227
+FlyBase	FB:FBgn0262559	Mdh2	PMID:24374353|FB:FBrf0224453		GO:0035071	salivary gland cell autophagic cell death	IMP			PANTHER:PTHR11540	20140731		NCBITaxon:7227
+FlyBase	FB:FBgn0000546	EcR	PMID:24374353|FB:FBrf0224453		GO:0035071	salivary gland cell autophagic cell death	IMP			PANTHER:PTHR24082	20140731		NCBITaxon:7227
+FlyBase	FB:FBgn0010113	heca	PMID:24374353|FB:FBrf0224453		GO:0035071	salivary gland cell autophagic cell death	IMP			PANTHER:PTHR13425	20140731		NCBITaxon:7227
+FlyBase	FB:FBgn0037363	Atg17	PMID:24419107|FB:FBrf0224629		GO:0035071	salivary gland cell autophagic cell death	IMP			PANTHER:PTHR13222	20140619		NCBITaxon:7227
+FlyBase	FB:FBgn0262447	mir-14	PMID:25306920|FB:FBrf0226942		GO:0035071	salivary gland cell autophagic cell death	IMP				20211007		NCBITaxon:7227
+FlyBase	FB:FBgn0283680	IP3K2	PMID:25306920|FB:FBrf0226942		GO:0035071	salivary gland cell autophagic cell death	IGI	FB:FBgn0262447		PANTHER:PTHR12400	20211007		NCBITaxon:7227
+FlyBase	FB:FBgn0283680	IP3K2	PMID:25306920|FB:FBrf0226942		GO:0035071	salivary gland cell autophagic cell death	IMP			PANTHER:PTHR12400	20211007		NCBITaxon:7227
+FlyBase	FB:FBgn0000253	Cam	PMID:25306920|FB:FBrf0226942		GO:0035071	salivary gland cell autophagic cell death	IMP			PANTHER:PTHR23050	20211007		NCBITaxon:7227
+FlyBase	FB:FBgn0010051	Itpr	PMID:25306920|FB:FBrf0226942		GO:0035071	salivary gland cell autophagic cell death	IMP			PANTHER:PTHR13715	20211007		NCBITaxon:7227
+FlyBase	FB:FBgn0037980	DCAF12	PMID:26972874|FB:FBrf0232014		GO:0035071	salivary gland cell autophagic cell death	IMP			PANTHER:PTHR19860	20160602		NCBITaxon:7227
+FlyBase	FB:FBgn0038922	Idh3b	PMID:28104670|FB:FBrf0235000		GO:0035071	salivary gland cell autophagic cell death	IMP			PANTHER:PTHR11835	20170406		NCBITaxon:7227
+FlyBase	FB:FBgn0002121	l(2)gl	PMID:10713724|FB:FBrf0127068		GO:0035072	ecdysone-mediated induction of salivary gland cell autophagic cell death	IMP			PANTHER:PTHR10241	20090917		NCBITaxon:7227
+FlyBase	FB:FBgn0011706	rpr	PMID:10882130|FB:FBrf0128149		GO:0035072	ecdysone-mediated induction of salivary gland cell autophagic cell death	IEP				20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0003997	hid	PMID:10882130|FB:FBrf0128149		GO:0035072	ecdysone-mediated induction of salivary gland cell autophagic cell death	IEP				20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0000659	fkh	PMID:17339378|FB:FBrf0193919		GO:0035072	ecdysone-mediated induction of salivary gland cell autophagic cell death	IDA			PANTHER:PTHR11829	20100422		NCBITaxon:7227
+FlyBase	FB:FBgn0038922	Idh3b	PMID:17679695|FB:FBrf0202315		GO:0035072	ecdysone-mediated induction of salivary gland cell autophagic cell death	IMP			PANTHER:PTHR11835	20170406		NCBITaxon:7227
+FlyBase	FB:FBgn0260749	Utx	PMID:24336022|FB:FBrf0223700		GO:0035072	ecdysone-mediated induction of salivary gland cell autophagic cell death	IMP			PANTHER:PTHR14017	20140403		NCBITaxon:7227
+FlyBase	FB:FBgn0267698	Pak	PMID:24374353|FB:FBrf0224453		GO:0035072	ecdysone-mediated induction of salivary gland cell autophagic cell death	IMP			PANTHER:PTHR48015	20140731		NCBITaxon:7227
+FlyBase	FB:FBgn0035851	MED24	PMID:24374353|FB:FBrf0224453		GO:0035072	ecdysone-mediated induction of salivary gland cell autophagic cell death	IGI	FB:FBgn0000567		PANTHER:PTHR12898	20140731		NCBITaxon:7227
+FlyBase	FB:FBgn0035851	MED24	PMID:24374353|FB:FBrf0224453		GO:0035072	ecdysone-mediated induction of salivary gland cell autophagic cell death	IMP			PANTHER:PTHR12898	20140731		NCBITaxon:7227
+FlyBase	FB:FBgn0263231	bel	PMID:24374353|FB:FBrf0224453		GO:0035072	ecdysone-mediated induction of salivary gland cell autophagic cell death	IMP			PANTHER:PTHR47958	20140731		NCBITaxon:7227
+FlyBase	FB:FBgn0035617	l(3)psg2	PMID:24374353|FB:FBrf0224453		GO:0035072	ecdysone-mediated induction of salivary gland cell autophagic cell death	IMP			PANTHER:PTHR23202	20140731		NCBITaxon:7227
+FlyBase	FB:FBgn0011785	BRWD3	PMID:24374353|FB:FBrf0224453		GO:0035072	ecdysone-mediated induction of salivary gland cell autophagic cell death	IMP			PANTHER:PTHR16266	20140731		NCBITaxon:7227
+FlyBase	FB:FBgn0001324	kto	PMID:24374353|FB:FBrf0224453		GO:0035072	ecdysone-mediated induction of salivary gland cell autophagic cell death	IMP			PANTHER:PTHR46007	20140731		NCBITaxon:7227
+FlyBase	FB:FBgn0040075	rept	PMID:24374353|FB:FBrf0224453		GO:0035072	ecdysone-mediated induction of salivary gland cell autophagic cell death	IMP			PANTHER:PTHR11093	20140731		NCBITaxon:7227
