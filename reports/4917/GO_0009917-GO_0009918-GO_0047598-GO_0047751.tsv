@@ -1,0 +1,14 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+TAIR	AGI_LocusCode:AT2G38050	DET2	PMID:10398719|TAIR:Publication:1362		GO:0009917	sterol 5-alpha reductase activity	IDA		TAIR:locus:2005506		20060502		NCBITaxon:3702
+UniProt	UniProtKB:P31213	SRD5A2	PMID:1944596		GO:0009917	sterol 5-alpha reductase activity	IDA			PANTHER:PTHR10556	20060419		NCBITaxon:9606
+TAIR	AGI_LocusCode:AT1G50430	DWF5	PMID:10758495|TAIR:Publication:563		GO:0009918	sterol delta7 reductase activity	IMP		TAIR:locus:2008071		20061002		NCBITaxon:3702
+TIGR	AGI_LocusCode:AT1G50430	DWF5	PMID:10758495|TAIR:Publication:563		GO:0009918	sterol delta7 reductase activity	IMP		TAIR:locus:2008071		20030417		NCBITaxon:3702
+MGI	MGI:MGI:1298378	Dhcr7	PMID:11792727		GO:0047598	7-dehydrocholesterol reductase activity	IDA			PANTHER:PTHR21257	20040108		NCBITaxon:10090
+RGD	RGD:621769	Dhcr7	PMID:10666310|RGD:2316916		GO:0047598	7-dehydrocholesterol reductase activity	IMP			PANTHER:PTHR21257	20100302		NCBITaxon:10116
+RGD	RGD:621769	Dhcr7	PMID:9831636|RGD:2316918		GO:0047598	7-dehydrocholesterol reductase activity	IMP			PANTHER:PTHR21257	20100302		NCBITaxon:10116
+Reactome	UniProtKB:Q9UBM7	DHCR7	PMID:9465114		GO:0047598	7-dehydrocholesterol reductase activity	EXP			PANTHER:PTHR21257	20220504		NCBITaxon:9606
+UniProt	UniProtKB:Q9UBM7	DHCR7	PMID:9465114		GO:0047598	7-dehydrocholesterol reductase activity	IDA			PANTHER:PTHR21257	20040722		NCBITaxon:9606
+UniProt	AGI_LocusCode:AT2G38050	DET2	PMID:15993049|TAIR:Publication:501716363		GO:0047751	3-oxo-5alpha-steroid 4-dehydrogenase (NADP+)	IMP		TAIR:locus:2005506		20230523		NCBITaxon:3702
+UniProt	UniProtKB:Q2QDF6	DET2	PMID:17565582		GO:0047751	3-oxo-5alpha-steroid 4-dehydrogenase (NADP+)	IDA			PANTHER:PTHR10556	20120608		NCBITaxon:3635
+UniProt	UniProtKB:Q9H8P0	SRD5A3	PMID:17986282		GO:0047751	3-oxo-5alpha-steroid 4-dehydrogenase (NADP+)	IDA			PANTHER:PTHR14624	20230503		NCBITaxon:9606
+UniProt	AGI_LocusCode:AT2G38050	DET2	PMID:9108014|TAIR:Publication:3302		GO:0047751	3-oxo-5alpha-steroid 4-dehydrogenase (NADP+)	IDA		TAIR:locus:2005506		20230523		NCBITaxon:3702
