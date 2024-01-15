@@ -1,4 +1,4 @@
-! Generated on 2023-12-30T08:25Z from the ontology 'go' with data version: 'releases/2023-12-24'
+! Generated on 2024-01-13T04:00Z from the ontology 'go' with data version: 'releases/2024-01-12'
 !
 KEGG_REACTION:R00004 > GO:inorganic diphosphate phosphatase activity ; GO:0004427
 KEGG_REACTION:R00005 > GO:allophanate hydrolase activity ; GO:0004039
@@ -631,7 +631,7 @@ KEGG_REACTION:R02156 > GO:quercetin 2,3-dioxygenase activity ; GO:0008127
 KEGG_REACTION:R02159 > GO:flavonol 3-sulfotransferase activity ; GO:0047894
 KEGG_REACTION:R02164 > GO:succinate dehydrogenase (quinone) activity ; GO:0008177
 KEGG_REACTION:R02167 > GO:mannitol-1-phosphatase activity ; GO:0050084
-KEGG_REACTION:R02173 > GO:tryptamine:oxygen oxidoreductase (deaminating) activity ; GO:0052593
+KEGG_REACTION:R02173 > GO:primary amine oxidase activity ; GO:0008131
 KEGG_REACTION:R02177 > GO:(-)-menthol dehydrogenase activity ; GO:0047504
 KEGG_REACTION:R02178 > GO:(-)-menthol monooxygenase activity ; GO:0047505
 KEGG_REACTION:R02179 > GO:monoterpenol beta-glucosyltransferase activity ; GO:0047219
@@ -747,7 +747,7 @@ KEGG_REACTION:R02512 > GO:trimethylamine-oxide aldolase activity ; GO:0050352
 KEGG_REACTION:R02519 > GO:homogentisate 1,2-dioxygenase activity ; GO:0004411
 KEGG_REACTION:R02522 > GO:L-arabinonate dehydratase activity ; GO:0050020
 KEGG_REACTION:R02526 > GO:L-arabinonolactonase activity ; GO:0050021
-KEGG_REACTION:R02529 > GO:aminoacetone:oxygen oxidoreductase(deaminating) activity ; GO:0052594
+KEGG_REACTION:R02529 > GO:primary amine oxidase activity ; GO:0008131
 KEGG_REACTION:R02530 > GO:lactoylglutathione lyase activity ; GO:0004462
 KEGG_REACTION:R02535 > GO:dopamine beta-monooxygenase activity ; GO:0004500
 KEGG_REACTION:R02539 > GO:phenylacetate-CoA ligase activity ; GO:0047475
@@ -773,8 +773,8 @@ KEGG_REACTION:R02587 > GO:2-deoxyglucose-6-phosphatase activity ; GO:0003850
 KEGG_REACTION:R02589 > GO:3-hydroxybenzoate 6-monooxygenase activity ; GO:0018669
 KEGG_REACTION:R02591 > GO:glycerophosphocholine cholinephosphodiesterase activity ; GO:0047390
 KEGG_REACTION:R02605 > GO:L-2-amino-4-chloropent-4-enoate dehydrochlorinase activity ; GO:0047460
-KEGG_REACTION:R02610 > GO:3-oxo-5alpha-steroid 4-dehydrogenase (NADP+) ; GO:0047751
-KEGG_REACTION:R02613 > GO:phenethylamine:oxygen oxidoreductase (deaminating) activity ; GO:0052596
+KEGG_REACTION:R02610 > GO:3-oxo-5alpha-steroid 4-dehydrogenase (NADP+) activity ; GO:0047751
+KEGG_REACTION:R02613 > GO:primary amine oxidase activity ; GO:0008131
 KEGG_REACTION:R02615 > GO:styrene-oxide isomerase activity ; GO:0018846
 KEGG_REACTION:R02632 > GO:quercetin-3-sulfate 3'-sulfotransferase activity ; GO:0047365
 KEGG_REACTION:R02633 > GO:quercetin-3-sulfate 4'-sulfotransferase activity ; GO:0047366
@@ -927,7 +927,7 @@ KEGG_REACTION:R03156 > GO:(R)-pantolactone dehydrogenase (flavin) activity ; GO:
 KEGG_REACTION:R03161 > GO:fucokinase activity ; GO:0050201
 KEGG_REACTION:R03165 > GO:uroporphyrinogen-III synthase activity ; GO:0004852
 KEGG_REACTION:R03168 > GO:N6-hydroxylysine O-acetyltransferase activity ; GO:0050133
-KEGG_REACTION:R03169 > GO:2-methylacyl-CoA dehydrogenase activity ; GO:0003853
+KEGG_REACTION:R03169 > GO:2-methylbutanoyl-CoA dehydrogenase activity ; GO:0003853
 KEGG_REACTION:R03177 > GO:gamma-guanidinobutyraldehyde dehydrogenase activity ; GO:0047107
 KEGG_REACTION:R03178 > GO:5-guanidino-2-oxopentanoate decarboxylase activity ; GO:0047435
 KEGG_REACTION:R03182 > GO:dethiobiotin synthase activity ; GO:0004141
@@ -1703,8 +1703,8 @@ KEGG_REACTION:R08052 > GO:ATP dimethylallyltransferase activity ; GO:0052622
 KEGG_REACTION:R08057 > GO:diguanylate cyclase activity ; GO:0052621
 KEGG_REACTION:R08088 > GO:citronellyl-CoA ligase activity ; GO:0034823
 KEGG_REACTION:R08090 > GO:3-hydroxy-3-isohexenylglutaryl-CoA lyase activity ; GO:0047445
-KEGG_REACTION:R08159 > GO:myristoyl-[acyl-carrier-protein] hydrolase activity ; GO:0016295
-KEGG_REACTION:R08162 > GO:palmitoyl-[acyl-carrier-protein] hydrolase activity ; GO:0016296
+KEGG_REACTION:R08159 > GO:fatty acyl-[ACP] hydrolase activity ; GO:0016297
+KEGG_REACTION:R08162 > GO:fatty acyl-[ACP] hydrolase activity ; GO:0016297
 KEGG_REACTION:R08165 > GO:2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase activity ; GO:0070204
 KEGG_REACTION:R08166 > GO:2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase activity ; GO:0070205
 KEGG_REACTION:R08193 > GO:phosphoacetylglucosamine mutase activity ; GO:0004610

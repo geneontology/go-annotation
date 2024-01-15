@@ -1,4 +1,4 @@
-! Generated on 2023-12-30T08:25Z from the ontology 'go' with data version: 'releases/2023-12-24'
+! Generated on 2024-01-13T04:00Z from the ontology 'go' with data version: 'releases/2024-01-12'
 !
 Reactome:R-HSA-1008248 > GO:nucleoside triphosphate adenylate kinase activity ; GO:0046899
 Reactome:R-HSA-1013012 > GO:G protein-coupled GABA receptor activity ; GO:0004965
@@ -3475,7 +3475,7 @@ Reactome:R-HSA-5655702 > GO:amino acid transmembrane transporter activity ; GO:0
 Reactome:R-HSA-5655733 > GO:iron ion transmembrane transporter activity ; GO:0005381
 Reactome:R-HSA-5655760 > GO:ferrous iron transmembrane transporter activity ; GO:0015093
 Reactome:R-HSA-5655892 > GO:DNA-directed DNA polymerase activity ; GO:0003887
-Reactome:R-HSA-5655955 > GO:acyl-[acyl-carrier-protein] hydrolase activity ; GO:0016297
+Reactome:R-HSA-5655955 > GO:fatty acyl-[ACP] hydrolase activity ; GO:0016297
 Reactome:R-HSA-5655965 > GO:DNA-directed DNA polymerase activity ; GO:0003887
 Reactome:R-HSA-5656148 > GO:DNA-directed DNA polymerase activity ; GO:0003887
 Reactome:R-HSA-5656158 > GO:DNA-directed DNA polymerase activity ; GO:0003887

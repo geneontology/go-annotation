@@ -1,4 +1,4 @@
-! Generated on 2023-12-30T08:25Z from the ontology 'go' with data version: 'releases/2023-12-24'
+! Generated on 2024-01-13T04:00Z from the ontology 'go' with data version: 'releases/2024-01-12'
 !
 EC:1.-.-.- > GO:oxidoreductase activity ; GO:0016491
 EC:1.1.-.- > GO:oxidoreductase activity, acting on CH-OH group of donors ; GO:0016614
@@ -1077,6 +1077,7 @@ EC:1.2.1.- > GO:2-naphthaldehyde dehydrogenase activity ; GO:0034520
 EC:1.2.1.- > GO:4-hydroxymethylsalicyaldehyde dehydrogenase activity ; GO:0034530
 EC:1.2.1.- > GO:medium-chain-aldehyde dehydrogenase activity ; GO:0052814
 EC:1.2.1.10 > GO:acetaldehyde dehydrogenase (acetylating) activity ; GO:0008774
+EC:1.2.1.104 > GO:pyruvate dehydrogenase (NAD+) activity ; GO:0034604
 EC:1.2.1.105 > GO:oxoglutarate dehydrogenase (NAD+) activity ; GO:0034602
 EC:1.2.1.11 > GO:aspartate-semialdehyde dehydrogenase activity ; GO:0004073
 EC:1.2.1.12 > GO:glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity ; GO:0004365
@@ -1236,7 +1237,7 @@ EC:1.3.1.19 > GO:cis-1,2-dihydrobenzene-1,2-diol dehydrogenase activity ; GO:001
 EC:1.3.1.2 > GO:dihydropyrimidine dehydrogenase (NADP+) activity ; GO:0017113
 EC:1.3.1.20 > GO:trans-1,2-dihydrobenzene-1,2-diol dehydrogenase activity ; GO:0047115
 EC:1.3.1.21 > GO:7-dehydrocholesterol reductase activity ; GO:0047598
-EC:1.3.1.22 > GO:3-oxo-5alpha-steroid 4-dehydrogenase (NADP+) ; GO:0047751
+EC:1.3.1.22 > GO:3-oxo-5alpha-steroid 4-dehydrogenase (NADP+) activity ; GO:0047751
 EC:1.3.1.24 > GO:biliverdin reductase (NAD(P)+) activity ; GO:0004074
 EC:1.3.1.24 > GO:biliberdin reductase NAD+ activity ; GO:0106276
 EC:1.3.1.24 > GO:biliverdin reductase (NADP+) activity ; GO:0106277
@@ -1245,7 +1246,7 @@ EC:1.3.1.27 > GO:2-hexadecenal reductase activity ; GO:0047543
 EC:1.3.1.28 > GO:2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase activity ; GO:0008667
 EC:1.3.1.29 > GO:cis-1,2-dihydro-1,2-dihydroxynaphthalene dehydrogenase activity ; GO:0018505
 EC:1.3.1.3 > GO:delta4-3-oxosteroid 5beta-reductase activity ; GO:0047787
-EC:1.3.1.30 > GO:3-oxo-5alpha-steroid 4-dehydrogenase (NADP+) ; GO:0047751
+EC:1.3.1.30 > GO:3-oxo-5alpha-steroid 4-dehydrogenase (NADP+) activity ; GO:0047751
 EC:1.3.1.31 > GO:2-enoate reductase activity ; GO:0047540
 EC:1.3.1.32 > GO:maleylacetate reductase activity ; GO:0018506
 EC:1.3.1.33 > GO:protochlorophyllide reductase activity ; GO:0016630
@@ -1341,11 +1342,11 @@ EC:1.3.8.2 > GO:4,4'-diapophytoene desaturase (4,4'-diaponeurosporene-forming) ;
 EC:1.3.8.2 > GO:4,4'-diapophytoene desaturase (4,4'-diapolycopene-forming) ; GO:0140868
 EC:1.3.8.3 > GO:(R)-benzylsuccinyl-CoA dehydrogenase activity ; GO:0033734
 EC:1.3.8.4 > GO:isovaleryl-CoA dehydrogenase activity ; GO:0008470
-EC:1.3.8.5 > GO:2-methylacyl-CoA dehydrogenase activity ; GO:0003853
-EC:1.3.8.5 > GO:isobutyryl-CoA:FAD oxidoreductase activity ; GO:0102035
+EC:1.3.8.5 > GO:2-methylbutanoyl-CoA dehydrogenase activity ; GO:0003853
+EC:1.3.8.5 > GO:2-methylpropanoyl-CoA dehydrogenase activity ; GO:0102035
 EC:1.3.8.6 > GO:glutaryl-CoA dehydrogenase activity ; GO:0004361
 EC:1.3.8.7 > GO:medium-chain fatty acyl-CoA dehydrogenase activity ; GO:0070991
-EC:1.3.8.8 > GO:long-chain-acyl-CoA dehydrogenase activity ; GO:0004466
+EC:1.3.8.8 > GO:long-chain fatty acyl-CoA dehydrogenase activity ; GO:0004466
 EC:1.3.8.9 > GO:very-long-chain fatty acyl-CoA dehydrogenase activity ; GO:0017099
 EC:1.3.98.1 > GO:dihydroorotate dehydrogenase (fumarate) activity ; GO:1990663
 EC:1.3.98.3 > GO:coproporphyrinogen dehydrogenase activity ; GO:0051989
@@ -1408,10 +1409,7 @@ EC:1.4.3.19 > GO:glycine oxidase activity ; GO:0043799
 EC:1.4.3.2 > GO:L-amino-acid oxidase activity ; GO:0001716
 EC:1.4.3.20 > GO:L-lysine 6-oxidase activity ; GO:0033736
 EC:1.4.3.21 > GO:primary amine oxidase activity ; GO:0008131
-EC:1.4.3.21 > GO:tryptamine:oxygen oxidoreductase (deaminating) activity ; GO:0052593
-EC:1.4.3.21 > GO:aminoacetone:oxygen oxidoreductase(deaminating) activity ; GO:0052594
 EC:1.4.3.21 > GO:aliphatic amine oxidase activity ; GO:0052595
-EC:1.4.3.21 > GO:phenethylamine:oxygen oxidoreductase (deaminating) activity ; GO:0052596
 EC:1.4.3.22 > GO:diamine oxidase activity ; GO:0052597
 EC:1.4.3.22 > GO:histamine oxidase activity ; GO:0052598
 EC:1.4.3.22 > GO:methylputrescine oxidase activity ; GO:0052599
@@ -3307,13 +3305,13 @@ EC:3.1.2.10 > GO:acyl-CoA hydrolase activity ; GO:0016289
 EC:3.1.2.11 > GO:acetoacetyl-CoA hydrolase activity ; GO:0047603
 EC:3.1.2.12 > GO:S-formylglutathione hydrolase activity ; GO:0018738
 EC:3.1.2.13 > GO:S-succinylglutathione hydrolase activity ; GO:0050273
-EC:3.1.2.14 > GO:acyl-[acyl-carrier-protein] hydrolase activity ; GO:0016297
+EC:3.1.2.14 > GO:fatty acyl-[ACP] hydrolase activity ; GO:0016297
 EC:3.1.2.16 > GO:[citrate-(pro-3S)-lyase] thiolesterase activity ; GO:0047778
 EC:3.1.2.17 > GO:(S)-methylmalonyl-CoA hydrolase activity ; GO:0047511
 EC:3.1.2.18 > GO:short-chain fatty acyl-CoA hydrolase activity ; GO:0141126
 EC:3.1.2.19 > GO:medium-chain fatty acyl-CoA hydrolase activity ; GO:0052815
 EC:3.1.2.20 > GO:fatty acyl-CoA hydrolase activity ; GO:0047617
-EC:3.1.2.21 > GO:dodecanoyl-[acyl-carrier-protein] hydrolase activity ; GO:0047381
+EC:3.1.2.21 > GO:fatty acyl-[ACP] hydrolase activity ; GO:0016297
 EC:3.1.2.22 > GO:palmitoyl-(protein) hydrolase activity ; GO:0008474
 EC:3.1.2.23 > GO:4-hydroxybenzoyl-CoA thioesterase activity ; GO:0018739
 EC:3.1.2.25 > GO:phenylacetyl-CoA hydrolase activity ; GO:0033880
@@ -4080,6 +4078,7 @@ EC:3.5.4.32 > GO:8-oxoguanine deaminase activity ; GO:0102127
 EC:3.5.4.33 > GO:tRNA-specific adenosine-34 deaminase activity ; GO:0052717
 EC:3.5.4.34 > GO:tRNA-specific adenosine-37 deaminase activity ; GO:0043829
 EC:3.5.4.37 > GO:double-stranded RNA adenosine deaminase activity ; GO:0003726
+EC:3.5.4.39 > GO:GTP cyclohydrolase IV activity ; GO:0044682
 EC:3.5.4.4 > GO:adenosine deaminase activity ; GO:0004000
 EC:3.5.4.4 > GO:2'-deoxyadenosine deaminase activity ; GO:0046936
 EC:3.5.4.41 > GO:5'-deoxyadenosine deaminase activity ; GO:0090613
@@ -4883,25 +4882,25 @@ EC:5.4.99.15 > GO:(1,4)-alpha-D-glucan 1-alpha-D-glucosylmutase activity ; GO:00
 EC:5.4.99.16 > GO:maltose alpha-D-glucosyltransferase activity ; GO:0047471
 EC:5.4.99.17 > GO:squalene-hopene cyclase activity ; GO:0051007
 EC:5.4.99.18 > GO:5-(carboxyamino)imidazole ribonucleotide mutase activity ; GO:0034023
-EC:5.4.99.19 > GO:rRNA pseudouridine synthase activity ; GO:0120159
+EC:5.4.99.19 > GO:16S rRNA pseudouridine(516) synthase activity ; GO:0160136
 EC:5.4.99.2 > GO:methylmalonyl-CoA mutase activity ; GO:0004494
-EC:5.4.99.20 > GO:rRNA pseudouridine synthase activity ; GO:0120159
-EC:5.4.99.21 > GO:rRNA pseudouridine synthase activity ; GO:0120159
-EC:5.4.99.22 > GO:rRNA pseudouridine synthase activity ; GO:0120159
-EC:5.4.99.23 > GO:rRNA pseudouridine synthase activity ; GO:0120159
-EC:5.4.99.24 > GO:rRNA pseudouridine synthase activity ; GO:0120159
+EC:5.4.99.20 > GO:23S rRNA pseudouridine(2457) synthase activity ; GO:0160137
+EC:5.4.99.21 > GO:23S rRNA pseudouridine(2604) synthase activity ; GO:0160138
+EC:5.4.99.22 > GO:23S rRNA pseudouridine(2605) synthase activity ; GO:0160139
+EC:5.4.99.23 > GO:23S rRNA pseudouridine(1911/1915/1917) synthase activity ; GO:0160140
+EC:5.4.99.24 > GO:23S rRNA pseudouridine(955/2504/2580) synthase activity ; GO:0160141
 EC:5.4.99.25 > GO:tRNA pseudouridine synthase activity ; GO:0106029
 EC:5.4.99.26 > GO:tRNA pseudouridine synthase activity ; GO:0106029
 EC:5.4.99.27 > GO:tRNA pseudouridine synthase activity ; GO:0106029
 EC:5.4.99.28 > GO:tRNA pseudouridine synthase activity ; GO:0106029
-EC:5.4.99.29 > GO:rRNA pseudouridine synthase activity ; GO:0120159
+EC:5.4.99.29 > GO:23S rRNA pseudouridine(746) synthase activity ; GO:0160142
 EC:5.4.99.3 > GO:2-acetolactate mutase activity ; GO:0047534
 EC:5.4.99.30 > GO:UDP-arabinopyranose mutase activity ; GO:0052691
 EC:5.4.99.31 > GO:thalianol synthase activity ; GO:0051746
 EC:5.4.99.4 > GO:2-methyleneglutarate mutase activity ; GO:0047548
 EC:5.4.99.41 > GO:lupeol synthase activity ; GO:0042299
 EC:5.4.99.42 > GO:tRNA pseudouridine synthase activity ; GO:0106029
-EC:5.4.99.43 > GO:rRNA pseudouridine synthase activity ; GO:0120159
+EC:5.4.99.43 > GO:21S rRNA pseudouridine(2819) synthase activity ; GO:0160143
 EC:5.4.99.44 > GO:tRNA pseudouridine synthase activity ; GO:0106029
 EC:5.4.99.45 > GO:tRNA pseudouridine synthase activity ; GO:0106029
 EC:5.4.99.5 > GO:chorismate mutase activity ; GO:0004106
