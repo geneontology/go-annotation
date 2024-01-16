@@ -1,0 +1,17 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AgBase	UniProtKB:P27958	P27958	PMID:12730672		GO:0019056	modulation by virus of host transcription	IMP		UniProtKB:P27958-PRO_0000037566		20150504	UniProtKB:P04637	NCBITaxon:63746
+AgBase	UniProtKB:P27958	P27958	PMID:12730672		GO:0019056	modulation by virus of host transcription	IMP		UniProtKB:P27958-PRO_0000037566		20150504	UniProtKB:O15350-1	NCBITaxon:63746
+AgBase	UniProtKB:P27958	P27958	PMID:12730672		GO:0019056	modulation by virus of host transcription	IMP		UniProtKB:P27958-PRO_0000037566		20160318	UniProtKB:O15350-2	NCBITaxon:63746
+AgBase	UniProtKB:Q80IW5	L-meq	PMID:17622612		GO:0019056	modulation by virus of host transcription	IDA				20080915		NCBITaxon:10390
+AgBase	UniProtKB:Q9DGW5	MDV005	PMID:17622612		GO:0019056	modulation by virus of host transcription	IDA				20080915		NCBITaxon:10389
+AgBase	UniProtKB:Q6USD0	Meq	PMID:17622612		GO:0019056	modulation by virus of host transcription	IDA				20170303		NCBITaxon:10390
+BHF-UCL	UniProtKB:P03495	NS	PMID:17079289		GO:0019056	modulation by virus of host transcription	IDA				20110418		NCBITaxon:381517
+CACAO	UniProtKB:Q3HM11	Q3HM11	PMID:23071821		GO:0019056	modulation by virus of host transcription	IMP				20121111		NCBITaxon:10641
+UniProt	UniProtKB:P03129	E7	PMID:10523841		GO:0019056	modulation by virus of host transcription	IMP				20180122	UniProtKB:Q08050-1	NCBITaxon:333760
+UniProt	UniProtKB:Q9PZT1	NS1	PMID:11853402		GO:0019056	modulation by virus of host transcription	IDA				20180920		NCBITaxon:648237
+UniProt	UniProtKB:Q9PZT1	NS1	PMID:15518826		GO:0019056	modulation by virus of host transcription	IDA				20150708		NCBITaxon:648237
+UniProt	UniProtKB:P12978	EBNA2	PMID:26845565		GO:0019056	modulation by virus of host transcription	IDA				20170613		NCBITaxon:10377
+UniProt	UniProtKB:P03134	NS1	PMID:7636987		GO:0019056	modulation by virus of host transcription	IDA				20180920		NCBITaxon:648235
+UniProt	UniProtKB:P03134	NS1	PMID:7799962		GO:0019056	modulation by virus of host transcription	IDA				20180920		NCBITaxon:648235
+UniProt	UniProtKB:P14727	avrBs3	PMID:17962565		GO:0052026	modulation by symbiont of host transcription	IDA				20140808		NCBITaxon:456327
+UniProt	UniProtKB:G4ZSG0	Avh52	PMID:30346270		GO:0052026	modulation by symbiont of host transcription	IDA				20230123		NCBITaxon:1094619

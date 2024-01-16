@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:B7UI21	nleB1	PMID:30125331		GO:0106362	protein-arginine N-acetylglucosaminyltransferase activity	IDA				20210303	GO:0052026|UniProtKB:Q16665|GO:0001678	NCBITaxon:574521
