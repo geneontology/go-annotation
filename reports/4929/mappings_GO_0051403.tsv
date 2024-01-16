@@ -1,0 +1,4 @@
+term	file	line
+GO:0051403	interpro2go	InterPro:IPR017240 Mitogen-activated protein (MAP) kinase kinase kinase Ssk2/Ssk22 > GO:stress-activated MAPK cascade ; GO:0051403
+GO:0051403	interpro2go	InterPro:IPR038783 Fungal mitogen-activated protein (MAP) kinase Sty1/Hog1 > GO:stress-activated MAPK cascade ; GO:0051403
+GO:0051403	unirule2go	UniRule:UR000667755 > GO:stress-activated MAPK cascade ; GO:0051403
