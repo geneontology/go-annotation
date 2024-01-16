@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:I1C083	RLT1	PMID:33462434		GO:0030598	rRNA N-glycosylase activity	IDA				20210517	GO:0044073	NCBITaxon:246409
