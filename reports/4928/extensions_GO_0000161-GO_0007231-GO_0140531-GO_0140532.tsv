@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+SGD	SGD:S000003664	PBS2	PMID:15707964		GO:0006606	protein import into nucleus	IMP		UniProtKB:P08018	PANTHER:PTHR48013	20180207	GO:0000161|UniProtKB:P32485	NCBITaxon:559292
+SGD	SGD:S000003664	PBS2	PMID:7624781		GO:0004708	MAP kinase kinase activity	IMP		UniProtKB:P08018	PANTHER:PTHR48013	20070123	GO:0000161|GO:0071474	NCBITaxon:559292
+SGD	SGD:S000003996	SSK1	PMID:9482735		GO:0030295	protein kinase activator activity	IDA		UniProtKB:Q07084	PANTHER:PTHR42878	20110105	GO:0071474|GO:0140531	NCBITaxon:559292
+PomBase	PomBase:SPCC757.09c	rnc1	PMID:31911490		GO:0003730	mRNA 3'-UTR binding	IPI	PomBase:SPAC19D5.01	PR:000050455	PANTHER:PTHR10288	20201013	GO:0140532|GO:0033554	NCBITaxon:4896
