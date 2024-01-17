@@ -1,0 +1,9 @@
+term	file	line
+GO:0015740	interpro2go	InterPro:IPR004668 Anaerobic c4-dicarboxylate membrane transporter > GO:C4-dicarboxylate transport ; GO:0015740
+GO:0015740	interpro2go	InterPro:IPR004669 C4-dicarboxylate anaerobic carrier > GO:C4-dicarboxylate transport ; GO:0015740
+GO:0033223	interpro2go	InterPro:IPR017636 2-aminoethylphosphonate ABC transporter system, permease protein PhnU > GO:2-aminoethylphosphonate transport ; GO:0033223
+GO:0048473	interpro2go	InterPro:IPR012692 ABC transporter, methionine import, ATP-binding protein MetN, proteobacteria > GO:D-methionine transport ; GO:0048473
+GO:0051027	interpro2go	InterPro:IPR001530 Geminivirus BR1 coat protein > GO:DNA transport ; GO:0051027
+GO:1900749	interpro2go	InterPro:IPR023449 L-carnitine/gamma-butyrobetaine antiporter CaiT > GO:(R)-carnitine transport ; GO:1900749
+GO:1900751	interpro2go	InterPro:IPR023449 L-carnitine/gamma-butyrobetaine antiporter CaiT > GO:4-(trimethylammonio)butanoate transport ; GO:1900751
+GO:1900754	interpro2go	InterPro:IPR012707 4-hydroxyphenylacetate permease > GO:4-hydroxyphenylacetate transport ; GO:1900754
