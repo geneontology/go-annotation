@@ -1,0 +1,751 @@
+term	file	line
+GO:0000041	interpro2go	InterPro:IPR002751 Metal transport protein CbiM/NikMN > GO:transition metal ion transport ; GO:0000041
+GO:0006811	interpro2go	InterPro:IPR000076 K/Cl co-transporter > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR000369 Potassium channel, voltage-dependent, beta subunit, KCNE > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR000622 K/Cl co-transporter 1 > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR001390 Gamma-aminobutyric-acid A receptor, alpha subunit > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR001508 Ionotropic glutamate receptor, metazoa > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR002289 Gamma-aminobutyric-acid A receptor, beta subunit > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR002394 Nicotinic acetylcholine receptor > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR002443 Solute carrier family 12 member 1/2 > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR002444 Solute carrier family 12 member 2 > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR002445 Solute carrier family 12 member 1 > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR002948 Thiazide-sensitive Na-K-Cl co-transporter > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR003044 P2X1 purinoceptor > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR003045 P2X2 purinoceptor > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR003046 P2X3 purinoceptor > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR003047 P2X4 purinoceptor > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR003048 P2X5 purinoceptor > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR003049 P2X6 purinoceptor > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR003050 P2X7 purinoceptor > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR004686 Tricarboxylate/iron carrier > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR004726 Degenerin > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR004842 SLC12A transporter family > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR005821 Ion transport domain > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR006029 Neurotransmitter-gated ion-channel transmembrane domain > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR006202 Neurotransmitter-gated ion-channel ligand-binding domain > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR008057 Gamma-aminobutyric-acid A receptor, Rho > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR008058 Gamma-aminobutyric-acid A receptor, Rho1 > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR008059 Gamma-aminobutyric-acid A receptor, Rho2 > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR008098 Gamma-aminobutyric-acid A receptor delta subunit > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR008099 Gamma-aminobutyric-acid A receptor epsilon subunit > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR008100 Gamma-aminobutyric-acid A receptor pi subunit > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR008101 Gamma-aminobutyric-acid A receptor theta subunit > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR008132 5-hydroxytryptamine 3 receptor > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR008133 5-hydroxytryptamine 3 receptor, A subunit > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR008134 5-hydroxytryptamine 3 receptor, B subunit > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR008347 Transient receptor potential cation channel subfamily V member 1-4 > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR008348 Transient receptor potential cation channel subfamily V member 4 > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR009147 Cystic fibrosis transmembrane conductance regulator > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR017402 Proteorhodopsin > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR018229 Rhodopsin, retinal binding site > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR018491 SLC12A transporter, C-terminal > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR024862 Transient receptor potential cation channel subfamily V > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR036719 Neurotransmitter-gated ion-channel transmembrane domain superfamily > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR036734 Neurotransmitter-gated ion-channel ligand-binding domain superfamily > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR044130 Iron transport multicopper oxidase Fet3-like, the second Cupredoxin domain > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR044849 Ion channel CASTOR/POLLUX/SYM8-like > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR047281 Phospholemman > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	interpro2go	InterPro:IPR047282 Sodium/potassium-transporting ATPase subunit gamma > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	hamap2go	HAMAP:MF_04080 > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	unirule2go	UniRule:UR000613581 > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	unirule2go	UniRule:UR001628753 > GO:monoatomic ion transport ; GO:0006811
+GO:0006811	uniprotkb_kw2go	UniProtKB-KW:KW-0406 Ion transport > GO:monoatomic ion transport ; GO:0006811
+GO:0006812	interpro2go	InterPro:IPR000579 Cation-transporting P-type ATPase A/B > GO:monoatomic cation transport ; GO:0006812
+GO:0006812	interpro2go	InterPro:IPR002524 Cation efflux protein > GO:monoatomic cation transport ; GO:0006812
+GO:0006812	interpro2go	InterPro:IPR002758 Na+/H+ antiporter subunit E > GO:monoatomic cation transport ; GO:0006812
+GO:0006812	interpro2go	InterPro:IPR003445 Cation transporter > GO:monoatomic cation transport ; GO:0006812
+GO:0006812	interpro2go	InterPro:IPR004705 Cation/H+ exchanger, CPA1 family, bacteria > GO:monoatomic cation transport ; GO:0006812
+GO:0006812	interpro2go	InterPro:IPR004713 Calcium/proton exchanger > GO:monoatomic cation transport ; GO:0006812
+GO:0006812	interpro2go	InterPro:IPR004763 Cation efflux system CusA-like > GO:monoatomic cation transport ; GO:0006812
+GO:0006812	interpro2go	InterPro:IPR004771 K+/H+ exchanger > GO:monoatomic cation transport ; GO:0006812
+GO:0006812	interpro2go	InterPro:IPR004775 Na(+)/H(+) antiporter subunit D1 > GO:monoatomic cation transport ; GO:0006812
+GO:0006812	interpro2go	InterPro:IPR005281 Monovalent cation:proton antiporter, subunit B > GO:monoatomic cation transport ; GO:0006812
+GO:0006812	interpro2go	InterPro:IPR006153 Cation/H+ exchanger > GO:monoatomic cation transport ; GO:0006812
+GO:0006812	interpro2go	InterPro:IPR006414 P-type ATPase, subfamily IID > GO:monoatomic cation transport ; GO:0006812
+GO:0006812	interpro2go	InterPro:IPR006667 SLC41A/MgtE, integral membrane domain > GO:monoatomic cation transport ; GO:0006812
+GO:0006812	interpro2go	InterPro:IPR006673 Mnh complex subunit C1 > GO:monoatomic cation transport ; GO:0006812
+GO:0006812	interpro2go	InterPro:IPR009104 Sea anemone actinoporin-like > GO:monoatomic cation transport ; GO:0006812
+GO:0006812	interpro2go	InterPro:IPR018422 Cation/H+ exchanger, CPA1 family > GO:monoatomic cation transport ; GO:0006812
+GO:0006812	interpro2go	InterPro:IPR023729 K(+)/H(+) antiporter NhaP2 > GO:monoatomic cation transport ; GO:0006812
+GO:0006812	interpro2go	InterPro:IPR027256 P-type ATPase, subfamily IB > GO:monoatomic cation transport ; GO:0006812
+GO:0006812	interpro2go	InterPro:IPR036739 SLC41A/MgtE divalent cation transporters, integral membrane domain superfamily > GO:monoatomic cation transport ; GO:0006812
+GO:0006812	interpro2go	InterPro:IPR038951 Outer envelope pore protein 37-like > GO:monoatomic cation transport ; GO:0006812
+GO:0006812	interpro2go	InterPro:IPR039099 Pannexin > GO:monoatomic cation transport ; GO:0006812
+GO:0006813	interpro2go	InterPro:IPR000388 ATP-binding cassette sub-family C member 8/9 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR000402 Sodium/potassium-transporting ATPase subunit beta > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR000844 ATP-binding cassette subfamily C member 8 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR001475 ATP-binding cassette subfamily C member 9 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003148 Regulator of K+ conductance, N-terminal > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003269 Potassium channel, inwardly rectifying, Kir1.2 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003270 Potassium channel, inwardly rectifying, Kir1.3 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003271 Potassium channel, inwardly rectifying, Kir2.1 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003272 Potassium channel, inwardly rectifying, Kir2.2 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003273 Potassium channel, inwardly rectifying, Kir2.3 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003274 Potassium channel, inwardly rectifying, Kir3.1 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003275 Potassium channel, inwardly rectifying, Kir3.2 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003276 Potassium channel, inwardly rectifying, Kir3.3 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003277 Potassium channel, inwardly rectifying, Kir3.4 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003278 Potassium channel, inwardly rectifying, Kir6.1 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003279 Potassium channel, inwardly rectifying, Kir6.2 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003820 Potassium-transporting ATPase C chain > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003929 Calcium-activated potassium channel BK, alpha subunit > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003930 Potassium channel, calcium-activated, BK, beta subunit > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003937 Potassium channel, voltage dependent, KCNQ > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003938 Potassium channel, voltage-dependent, EAG/ELK/ERG > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003947 Potassium channel, voltage dependent, KCNQ2 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003948 Potassium channel, voltage dependent, KCNQ3 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003949 Potassium channel, voltage-dependent, EAG > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003950 Potassium channel, voltage-dependent, ELK > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003967 Potassium channel, voltage-dependent, ERG > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003968 Potassium channel, voltage dependent, Kv > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003969 Potassium channel, voltage dependent, Kv6 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003970 Potassium channel, voltage dependent, Kv8.1 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003971 Potassium channel, voltage dependent, Kv9 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003972 Potassium channel, voltage dependent, Kv1 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003973 Potassium channel, voltage dependent, Kv2 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003974 Potassium channel, voltage dependent, Kv3 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR003975 Potassium channel, voltage dependent, Kv4 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR004048 Potassium channel, voltage dependent, Kv1.1 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR004049 Potassium channel, voltage dependent, Kv1.2 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR004050 Potassium channel, voltage dependent, Kv1.3 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR004052 Potassium channel, voltage dependent, Kv1.5 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR004053 Potassium voltage-gated channel subfamily A member 6 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR004054 Potassium channel, voltage dependent, Kv4.1 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR004055 Potassium channel, voltage dependent, Kv4.2 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR004056 Potassium channel, voltage dependent, Kv4.3 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR004178 Calmodulin-binding domain > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR004350 Potassium channel, voltage dependent, Kv2.1 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR004623 Potassium-transporting ATPase A chain > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR005400 Potassium channel, voltage-dependent, beta subunit, KCNAB1 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR005401 Potassium channel, voltage-dependent, beta subunit, KCNAB2 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR005402 Potassium channel, voltage-dependent, beta subunit, KCNAB3 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR005403 Potassium channel, voltage dependent, Kv3.1 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR005404 Potassium channel, voltage dependent, Kv3.3 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR005405 Potassium channel, voltage dependent, Kv3.4 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR005409 Two pore domain potassium channel, TWIK-2 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR005424 Potassium voltage-gated channel subfamily E member 1 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR005425 Potassium channel, voltage-dependent, beta subunit, KCNE2 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR005426 Potassium channel, voltage-dependent, beta subunit, KCNE3 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR005775 P-type ATPase subfamily IIC, subunit alpha > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR005826 Potassium channel, voltage dependent, Kv2.2 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR005827 Potassium channel, voltage dependent, KCNQ1 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR005983 Potassium channel, voltage-dependent, beta subunit, KCNAB > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR006036 Potassium uptake protein TrkA > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR006037 Regulator of K+ conductance, C-terminal > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR006391 P-type ATPase, B chain, subfamily IA > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR008061 Potassium channel, inwardly rectifying, Kir5 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR008062 Inward rectifier potassium channel 13 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR012897 Potassium channel, voltage dependent, Kv1.4, tandem inactivation domain > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR015449 Potassium channel, calcium-activated, SK > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR016449 Potassium channel, inwardly rectifying, Kir > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR020884 Glutathione-regulated potassium-efflux system protein KefB > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR023729 K(+)/H(+) antiporter NhaP2 > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR023941 Glutathione-regulated potassium-efflux system protein KefC > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR023947 Glutathione-regulated potassium-efflux system ancillary protein KefG > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR023948 Glutathione-regulated potassium-efflux system ancillary protein KefF > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR036122 SK, calmodulin-binding domain superfamily > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR036721 Regulator of K+ conductance, C-terminal domain superfamily > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR037065 Potassium channel, voltage dependent, Kv1.4, tandem inactivation domain superfamily > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR045319 Potassium channel KAT/AKT > GO:potassium ion transport ; GO:0006813
+GO:0006813	interpro2go	InterPro:IPR048123 Na(+),Li(+),K(+)/H(+) antiporter subunit UmpB > GO:potassium ion transport ; GO:0006813
+GO:0006813	hamap2go	HAMAP:MF_00275 > GO:potassium ion transport ; GO:0006813
+GO:0006813	hamap2go	HAMAP:MF_00276 > GO:potassium ion transport ; GO:0006813
+GO:0006813	hamap2go	HAMAP:MF_00285 > GO:potassium ion transport ; GO:0006813
+GO:0006813	hamap2go	HAMAP:MF_01412 > GO:potassium ion transport ; GO:0006813
+GO:0006813	hamap2go	HAMAP:MF_01413 > GO:potassium ion transport ; GO:0006813
+GO:0006813	hamap2go	HAMAP:MF_01522 > GO:potassium ion transport ; GO:0006813
+GO:0006813	unirule2go	UniRule:UR000052466 > GO:potassium ion transport ; GO:0006813
+GO:0006813	unirule2go	UniRule:UR000055575 > GO:potassium ion transport ; GO:0006813
+GO:0006813	unirule2go	UniRule:UR000058579 > GO:potassium ion transport ; GO:0006813
+GO:0006813	unirule2go	UniRule:UR000058586 > GO:potassium ion transport ; GO:0006813
+GO:0006813	unirule2go	UniRule:UR000078368 > GO:potassium ion transport ; GO:0006813
+GO:0006813	unirule2go	UniRule:UR000083123 > GO:potassium ion transport ; GO:0006813
+GO:0006813	uniprotkb_kw2go	UniProtKB-KW:KW-0633 Potassium transport > GO:potassium ion transport ; GO:0006813
+GO:0006813	uniprotkb_kw2go	UniProtKB-KW:KW-0740 Sodium/potassium transport > GO:potassium ion transport ; GO:0006813
+GO:0006814	interpro2go	InterPro:IPR000402 Sodium/potassium-transporting ATPase subunit beta > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR001463 Sodium:alanine symporter > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR001696 Voltage gated sodium channel, alpha subunit > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR001873 Epithelial sodium channel > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR001927 Sodium:galactoside symporter > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR001953 Sodium/hydrogen exchanger 2/4 > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR001970 Sodium/hydrogen exchanger 1-like > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR002090 Sodium/hydrogen exchanger 6/7/9 > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR004670 Na+/H+ antiporter NhaA > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR004671 Na+/H+ antiporter NhaB > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR004672 Na(+)/H(+) antiporter NhaD > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR004709 Na+/H+ exchanger > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR004724 Epithelial sodium channel, chordates > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR005661 Na+-transporting methylmalonyl-CoA/oxaloacetate decarboxylase, beta subunit > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR005776 Oxaloacetate decarboxylase, alpha subunit > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR005778 Tetrahydromethanopterin S-methyltransferase subunit A, MtrA > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR005779 Tetrahydromethanopterin S-methyltransferase, subunit D > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR005780 Tetrahydromethanopterin S-methyltransferase, subunit E > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR008051 Voltage gated sodium channel, alpha-1 subunit > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR008052 Voltage gated sodium channel, alpha-4 subunit, mammalian > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR008053 Voltage gated sodium channel, alpha-5 subunit > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR008054 Voltage gated sodium channel, alpha-8 subunit > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR008703 Na(+)-translocating NADH-quinone reductase subunit A > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR010204 Na(+)-translocating NADH-quinone reductase subunit C > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR010205 Na(+)-translocating NADH-quinone reductase subunit F > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR010526 Sodium ion transport-associated domain > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR011851 Sodium/proline symporter > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR013928 Alkali metal cation/H+ antiporter Nha1, C-terminal > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR018043 Sodium:galactoside symporter, conserved site > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR018410 Na+/H+ exchanger, isoforms 3/5 > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR020903 Epithelial sodium channel, conserved site > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR027098 Sodium channel subunit beta-1/beta-3 > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR037355 COMM domain-containing protein 3 > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR045016 Na(+)/H(+) antiporter NhaD-like > GO:sodium ion transport ; GO:0006814
+GO:0006814	interpro2go	InterPro:IPR048123 Na(+),Li(+),K(+)/H(+) antiporter subunit UmpB > GO:sodium ion transport ; GO:0006814
+GO:0006814	hamap2go	HAMAP:MF_00400 > GO:sodium ion transport ; GO:0006814
+GO:0006814	hamap2go	HAMAP:MF_00404 > GO:sodium ion transport ; GO:0006814
+GO:0006814	hamap2go	HAMAP:MF_00425 > GO:sodium ion transport ; GO:0006814
+GO:0006814	hamap2go	HAMAP:MF_00426 > GO:sodium ion transport ; GO:0006814
+GO:0006814	hamap2go	HAMAP:MF_00427 > GO:sodium ion transport ; GO:0006814
+GO:0006814	hamap2go	HAMAP:MF_00428 > GO:sodium ion transport ; GO:0006814
+GO:0006814	hamap2go	HAMAP:MF_00429 > GO:sodium ion transport ; GO:0006814
+GO:0006814	hamap2go	HAMAP:MF_00430 > GO:sodium ion transport ; GO:0006814
+GO:0006814	hamap2go	HAMAP:MF_01129 > GO:sodium ion transport ; GO:0006814
+GO:0006814	hamap2go	HAMAP:MF_01599 > GO:sodium ion transport ; GO:0006814
+GO:0006814	hamap2go	HAMAP:MF_01844 > GO:sodium ion transport ; GO:0006814
+GO:0006814	unirule2go	UniRule:UR000007652 > GO:sodium ion transport ; GO:0006814
+GO:0006814	unirule2go	UniRule:UR000030791 > GO:sodium ion transport ; GO:0006814
+GO:0006814	unirule2go	UniRule:UR000057580 > GO:sodium ion transport ; GO:0006814
+GO:0006814	unirule2go	UniRule:UR000059570 > GO:sodium ion transport ; GO:0006814
+GO:0006814	unirule2go	UniRule:UR000059575 > GO:sodium ion transport ; GO:0006814
+GO:0006814	unirule2go	UniRule:UR000060601 > GO:sodium ion transport ; GO:0006814
+GO:0006814	unirule2go	UniRule:UR000060607 > GO:sodium ion transport ; GO:0006814
+GO:0006814	unirule2go	UniRule:UR000087052 > GO:sodium ion transport ; GO:0006814
+GO:0006814	unirule2go	UniRule:UR000087063 > GO:sodium ion transport ; GO:0006814
+GO:0006814	unirule2go	UniRule:UR000087072 > GO:sodium ion transport ; GO:0006814
+GO:0006814	unirule2go	UniRule:UR000334406 > GO:sodium ion transport ; GO:0006814
+GO:0006814	unirule2go	UniRule:UR000481784 > GO:sodium ion transport ; GO:0006814
+GO:0006814	unirule2go	UniRule:UR000858751 > GO:sodium ion transport ; GO:0006814
+GO:0006814	unirule2go	UniRule:UR001001764 > GO:sodium ion transport ; GO:0006814
+GO:0006814	unirule2go	UniRule:UR001553782 > GO:sodium ion transport ; GO:0006814
+GO:0006814	uniprotkb_kw2go	UniProtKB-KW:KW-0739 Sodium transport > GO:sodium ion transport ; GO:0006814
+GO:0006814	uniprotkb_kw2go	UniProtKB-KW:KW-0740 Sodium/potassium transport > GO:sodium ion transport ; GO:0006814
+GO:0006816	interpro2go	InterPro:IPR000493 Inositol 1,4,5-trisphosphate receptor > GO:calcium ion transport ; GO:0006816
+GO:0006816	interpro2go	InterPro:IPR002987 Sodium/calcium exchanger, isoform 1 > GO:calcium ion transport ; GO:0006816
+GO:0006816	interpro2go	InterPro:IPR004798 Calcium/proton exchanger CAX-like > GO:calcium ion transport ; GO:0006816
+GO:0006816	interpro2go	InterPro:IPR004817 Sodium/potassium/calcium exchanger 1 > GO:calcium ion transport ; GO:0006816
+GO:0006816	interpro2go	InterPro:IPR004836 Sodium/calcium exchanger protein > GO:calcium ion transport ; GO:0006816
+GO:0006816	interpro2go	InterPro:IPR005782 P-type ATPase, subfamily IIA, SERCA-type > GO:calcium ion transport ; GO:0006816
+GO:0006816	interpro2go	InterPro:IPR006413 P-type ATPase, subfamily IIA, PMR1-type > GO:calcium ion transport ; GO:0006816
+GO:0006816	interpro2go	InterPro:IPR008344 Transient receptor potential cation channel subfamily V member 5/6 > GO:calcium ion transport ; GO:0006816
+GO:0006816	interpro2go	InterPro:IPR008345 Transient receptor potential cation channel subfamily V member 6 > GO:calcium ion transport ; GO:0006816
+GO:0006816	interpro2go	InterPro:IPR008346 Transient receptor potential cation channel subfamily V member 5 > GO:calcium ion transport ; GO:0006816
+GO:0006816	interpro2go	InterPro:IPR008368 Voltage-dependent calcium channel, gamma subunit > GO:calcium ion transport ; GO:0006816
+GO:0006816	interpro2go	InterPro:IPR008369 Voltage-dependent calcium channel, gamma-5 subunit > GO:calcium ion transport ; GO:0006816
+GO:0006816	interpro2go	InterPro:IPR008370 Voltage-dependent calcium channel, gamma-6 subunit > GO:calcium ion transport ; GO:0006816
+GO:0006816	interpro2go	InterPro:IPR008371 Voltage-dependent calcium channel, gamma-7 subunit > GO:calcium ion transport ; GO:0006816
+GO:0006816	interpro2go	InterPro:IPR008372 Voltage-dependent calcium channel, gamma-8 subunit > GO:calcium ion transport ; GO:0006816
+GO:0006816	interpro2go	InterPro:IPR013333 Ryanodine receptor > GO:calcium ion transport ; GO:0006816
+GO:0006816	interpro2go	InterPro:IPR015925 Ryanodine/Inositol 1,4,5-trisphosphate receptor > GO:calcium ion transport ; GO:0006816
+GO:0006816	unirule2go	UniRule:UR001527769 > GO:calcium ion transport ; GO:0006816
+GO:0006816	uniprotkb_kw2go	UniProtKB-KW:KW-0109 Calcium transport > GO:calcium ion transport ; GO:0006816
+GO:0006817	interpro2go	InterPro:IPR001204 Phosphate transporter > GO:phosphate ion transport ; GO:0006817
+GO:0006817	interpro2go	InterPro:IPR004738 Phosphate permease > GO:phosphate ion transport ; GO:0006817
+GO:0006817	interpro2go	InterPro:IPR011864 Phosphate ABC transporter, permease protein PstC > GO:phosphate ion transport ; GO:0006817
+GO:0006817	interpro2go	InterPro:IPR011879 Signal transduction response regulator, phosphate regulon transcriptional regulatory protein PhoB > GO:phosphate ion transport ; GO:0006817
+GO:0006817	interpro2go	InterPro:IPR022182 ABC transporter phosphate permease PstC, N-terminal domain > GO:phosphate ion transport ; GO:0006817
+GO:0006817	interpro2go	InterPro:IPR047818 Inorganic phosphate transporter PitA/PitB > GO:phosphate ion transport ; GO:0006817
+GO:0006817	unirule2go	UniRule:UR001348786 > GO:phosphate ion transport ; GO:0006817
+GO:0006817	uniprotkb_kw2go	UniProtKB-KW:KW-0592 Phosphate transport > GO:phosphate ion transport ; GO:0006817
+GO:0006820	interpro2go	InterPro:IPR001717 Anion exchange protein > GO:monoatomic anion transport ; GO:0006820
+GO:0006820	interpro2go	InterPro:IPR002977 Anion exchange protein 1 > GO:monoatomic anion transport ; GO:0006820
+GO:0006820	interpro2go	InterPro:IPR002978 Anion exchange protein 2 > GO:monoatomic anion transport ; GO:0006820
+GO:0006820	interpro2go	InterPro:IPR002979 Anion exchange protein 3 > GO:monoatomic anion transport ; GO:0006820
+GO:0006820	interpro2go	InterPro:IPR003020 Bicarbonate transporter, eukaryotic > GO:monoatomic anion transport ; GO:0006820
+GO:0006820	interpro2go	InterPro:IPR003024 Sodium bicarbonate cotransporter > GO:monoatomic anion transport ; GO:0006820
+GO:0006820	interpro2go	InterPro:IPR011531 Bicarbonate transporter-like, transmembrane domain > GO:monoatomic anion transport ; GO:0006820
+GO:0006820	interpro2go	InterPro:IPR013769 Band 3 cytoplasmic domain > GO:monoatomic anion transport ; GO:0006820
+GO:0006820	interpro2go	InterPro:IPR018241 Anion exchange, conserved site > GO:monoatomic anion transport ; GO:0006820
+GO:0006821	interpro2go	InterPro:IPR001807 Chloride channel, voltage gated > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR002242 Chloride channel ClC-0 > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR002243 Chloride channel ClC-1 > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR002244 Chloride channel ClC-2 > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR002245 Chloride channel ClC-3 > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR002246 Chloride channel ClC-4 > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR002247 Chloride channel ClC-5 > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR002248 Chloride channel ClC-6 > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR002249 Chloride channel ClC-7 > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR002250 Chloride channel ClC-K > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR002251 Chloride channel ClC-plant > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR003521 ICln > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR004727 Calcium-activated chloride channel protein, chordata > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR005431 Gamma-aminobutyric-acid A receptor, alpha 1 subunit > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR005432 Gamma-aminobutyric-acid A receptor, alpha 2 subunit > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR005433 Gamma-aminobutyric-acid A receptor, alpha 3 subunit > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR005434 Gamma-aminobutyric-acid A receptor, alpha 4 subunit > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR005435 Gamma-aminobutyric-acid A receptor, alpha 5 subunit > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR005436 Gamma-aminobutyric-acid A receptor, alpha 6 subunit > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR005437 Gamma-aminobutyric acid receptor subunit gamma-1/4 > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR005438 Gamma-aminobutyric-acid A receptor, gamma 1 subunit > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR005439 Gamma-aminobutyric-acid A receptor, gamma 2 subunit > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR005440 Gamma-aminobutyric-acid A receptor, gamma 3 subunit > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR008060 Glycine receptor beta > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR008128 Glycine receptor alpha1 > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR008129 Glycine receptor alpha2 > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR008130 Glycine receptor alpha3 > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR023790 Chloride channel, voltage-gated, ClcB > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR023861 Chloride channel, ClcA > GO:chloride transport ; GO:0006821
+GO:0006821	interpro2go	InterPro:IPR029181 Barttin > GO:chloride transport ; GO:0006821
+GO:0006821	hamap2go	HAMAP:MF_01115 > GO:chloride transport ; GO:0006821
+GO:0006821	hamap2go	HAMAP:MF_01128 > GO:chloride transport ; GO:0006821
+GO:0006821	hamap2go	HAMAP:MF_01203 > GO:chloride transport ; GO:0006821
+GO:0006821	unirule2go	UniRule:UR000067692 > GO:chloride transport ; GO:0006821
+GO:0006821	unirule2go	UniRule:UR000068681 > GO:chloride transport ; GO:0006821
+GO:0006821	unirule2go	UniRule:UR000100698 > GO:chloride transport ; GO:0006821
+GO:0006821	uniprotkb_kw2go	UniProtKB-KW:KW-0869 Chloride channel > GO:chloride transport ; GO:0006821
+GO:0006824	interpro2go	InterPro:IPR003705 Cobalt transport protein CbiN > GO:cobalt ion transport ; GO:0006824
+GO:0006824	interpro2go	InterPro:IPR004488 Magnesium/cobalt transport protein CorA > GO:cobalt ion transport ; GO:0006824
+GO:0006824	interpro2go	InterPro:IPR005876 Cobalt transport protein ATP-binding subunit > GO:cobalt ion transport ; GO:0006824
+GO:0006824	interpro2go	InterPro:IPR012809 Cobalt ECF transporter T component CbiQ > GO:cobalt ion transport ; GO:0006824
+GO:0006824	interpro2go	InterPro:IPR018024 Cobalamin (vitamin B12) transport protein CbiM > GO:cobalt ion transport ; GO:0006824
+GO:0006824	hamap2go	HAMAP:MF_00330 > GO:cobalt ion transport ; GO:0006824
+GO:0006824	hamap2go	HAMAP:MF_01462 > GO:cobalt ion transport ; GO:0006824
+GO:0006824	unirule2go	UniRule:UR000054569 > GO:cobalt ion transport ; GO:0006824
+GO:0006824	unirule2go	UniRule:UR000059555 > GO:cobalt ion transport ; GO:0006824
+GO:0006824	uniprotkb_kw2go	UniProtKB-KW:KW-0171 Cobalt transport > GO:cobalt ion transport ; GO:0006824
+GO:0006825	interpro2go	InterPro:IPR000428 Copper ion binding protein > GO:copper ion transport ; GO:0006825
+GO:0006825	interpro2go	InterPro:IPR032694 Copper transport protein C/D > GO:copper ion transport ; GO:0006825
+GO:0006825	uniprotkb_kw2go	UniProtKB-KW:KW-0187 Copper transport > GO:copper ion transport ; GO:0006825
+GO:0006826	interpro2go	InterPro:IPR001519 Ferritin > GO:iron ion transport ; GO:0006826
+GO:0006826	interpro2go	InterPro:IPR002024 Bacterioferritin > GO:iron ion transport ; GO:0006826
+GO:0006826	interpro2go	InterPro:IPR003373 Ferrous iron transport protein B > GO:iron ion transport ; GO:0006826
+GO:0006826	interpro2go	InterPro:IPR007845 Haemin-degrading HemS/ChuX domain > GO:iron ion transport ; GO:0006826
+GO:0006826	interpro2go	InterPro:IPR010948 TonB-dependent lactoferrin/transferrin receptor > GO:iron ion transport ; GO:0006826
+GO:0006826	interpro2go	InterPro:IPR011640 Ferrous iron transport protein B, C-terminal > GO:iron ion transport ; GO:0006826
+GO:0006826	interpro2go	InterPro:IPR015853 ABC transporter, ferric cation import, FbpC > GO:iron ion transport ; GO:0006826
+GO:0006826	interpro2go	InterPro:IPR021764 Enterochelin esterase, N-terminal > GO:iron ion transport ; GO:0006826
+GO:0006826	interpro2go	InterPro:IPR023783 Cation efflux pump FieF > GO:iron ion transport ; GO:0006826
+GO:0006826	interpro2go	InterPro:IPR030685 Serotransferrin, mammalian > GO:iron ion transport ; GO:0006826
+GO:0006826	interpro2go	InterPro:IPR033870 FatB domain > GO:iron ion transport ; GO:0006826
+GO:0006826	uniprotkb_kw2go	UniProtKB-KW:KW-0410 Iron transport > GO:iron ion transport ; GO:0006826
+GO:0006829	interpro2go	InterPro:IPR023500 Zinc transporter ZitB > GO:zinc ion transport ; GO:0006829
+GO:0006829	interpro2go	InterPro:IPR023783 Cation efflux pump FieF > GO:zinc ion transport ; GO:0006829
+GO:0006829	interpro2go	InterPro:IPR035520 High-affinity zinc uptake system protein ZnuA > GO:zinc ion transport ; GO:0006829
+GO:0006829	interpro2go	InterPro:IPR040177 Proton-coupled zinc antiporter SLC30A9 > GO:zinc ion transport ; GO:0006829
+GO:0006829	interpro2go	InterPro:IPR045316 Zinc transporter Msc2-like > GO:zinc ion transport ; GO:0006829
+GO:0006829	interpro2go	InterPro:IPR045891 Zinc transporter ZIP9 > GO:zinc ion transport ; GO:0006829
+GO:0006829	hamap2go	HAMAP:MF_00552 > GO:zinc ion transport ; GO:0006829
+GO:0006829	unirule2go	UniRule:UR000064682 > GO:zinc ion transport ; GO:0006829
+GO:0006829	unirule2go	UniRule:UR001597792 > GO:zinc ion transport ; GO:0006829
+GO:0006829	unirule2go	UniRule:UR001627778 > GO:zinc ion transport ; GO:0006829
+GO:0006829	uniprotkb_kw2go	UniProtKB-KW:KW-0864 Zinc transport > GO:zinc ion transport ; GO:0006829
+GO:0006835	interpro2go	InterPro:IPR023954 C4-dicarboxylate transport protein > GO:dicarboxylic acid transport ; GO:0006835
+GO:0006835	interpro2go	InterPro:IPR034703 Proton/glutamate-aspartate symporter GltP > GO:dicarboxylic acid transport ; GO:0006835
+GO:0006835	hamap2go	HAMAP:MF_01300 > GO:dicarboxylic acid transport ; GO:0006835
+GO:0006835	unirule2go	UniRule:UR000068695 > GO:dicarboxylic acid transport ; GO:0006835
+GO:0006836	interpro2go	InterPro:IPR002434 Sodium:neurotransmitter symporter, taurine > GO:neurotransmitter transport ; GO:0006836
+GO:0006836	interpro2go	InterPro:IPR002435 Sodium:neurotransmitter symporter, noradrenaline > GO:neurotransmitter transport ; GO:0006836
+GO:0006836	interpro2go	InterPro:IPR002436 Sodium:neurotransmitter symporter, dopamine > GO:neurotransmitter transport ; GO:0006836
+GO:0006836	interpro2go	InterPro:IPR002944 Sodium:neurotransmitter symporter, inebriated > GO:neurotransmitter transport ; GO:0006836
+GO:0006836	interpro2go	InterPro:IPR002980 Sodium:neurotransmitter symporter, GABA, GAT-1 > GO:neurotransmitter transport ; GO:0006836
+GO:0006836	interpro2go	InterPro:IPR002981 Sodium:neurotransmitter symporter, GABA, GAT-2 > GO:neurotransmitter transport ; GO:0006836
+GO:0006836	interpro2go	InterPro:IPR002982 Sodium:neurotransmitter symporter, GABA, GAT-3 > GO:neurotransmitter transport ; GO:0006836
+GO:0006836	interpro2go	InterPro:IPR002983 Sodium:neurotransmitter symporter, betaine > GO:neurotransmitter transport ; GO:0006836
+GO:0006836	interpro2go	InterPro:IPR002984 Sodium:neurotransmitter symporter, creatine > GO:neurotransmitter transport ; GO:0006836
+GO:0006836	interpro2go	InterPro:IPR003028 Sodium:neurotransmitter symporter, glycine, type 1 > GO:neurotransmitter transport ; GO:0006836
+GO:0006836	interpro2go	InterPro:IPR008849 Synaphin > GO:neurotransmitter transport ; GO:0006836
+GO:0006836	interpro2go	InterPro:IPR013086 Sodium:neurotransmitter symporter, serotonin, N-terminal > GO:neurotransmitter transport ; GO:0006836
+GO:0006836	uniprotkb_kw2go	UniProtKB-KW:KW-0532 Neurotransmitter transport > GO:neurotransmitter transport ; GO:0006836
+GO:0006857	interpro2go	InterPro:IPR004768 Oligopeptide transporter > GO:oligopeptide transport ; GO:0006857
+GO:0006857	interpro2go	InterPro:IPR018456 PTR2 family proton/oligopeptide symporter, conserved site > GO:oligopeptide transport ; GO:0006857
+GO:0006857	interpro2go	InterPro:IPR023517 Amino acid/peptide transporter family, dipeptide and tripeptide permease A > GO:oligopeptide transport ; GO:0006857
+GO:0006862	interpro2go	InterPro:IPR004667 ADP/ATP carrier protein, bacterial type > GO:nucleotide transport ; GO:0006862
+GO:0006862	interpro2go	InterPro:IPR044712 NAD/FAD transporter SLC25A32-like > GO:nucleotide transport ; GO:0006862
+GO:0006863	unirule2go	UniRule:UR001480764 > GO:purine nucleobase transport ; GO:0006863
+GO:0006864	interpro2go	InterPro:IPR019918 Pyrimidine permease RutG, predicted > GO:pyrimidine nucleotide transport ; GO:0006864
+GO:0006865	interpro2go	InterPro:IPR000709 Leu/Ile/Val-binding protein > GO:amino acid transport ; GO:0006865
+GO:0006865	interpro2go	InterPro:IPR001123 Amino acid exporter protein, LeuE-type > GO:amino acid transport ; GO:0006865
+GO:0006865	interpro2go	InterPro:IPR001463 Sodium:alanine symporter > GO:amino acid transport ; GO:0006865
+GO:0006865	interpro2go	InterPro:IPR004694 Hydroxy amino acid transporter > GO:amino acid transport ; GO:0006865
+GO:0006865	interpro2go	InterPro:IPR004754 Amino acid antiporter > GO:amino acid transport ; GO:0006865
+GO:0006865	interpro2go	InterPro:IPR004755 Cationic amino acid transport permease > GO:amino acid transport ; GO:0006865
+GO:0006865	interpro2go	InterPro:IPR004756 Amino acid permease subfamily > GO:amino acid transport ; GO:0006865
+GO:0006865	interpro2go	InterPro:IPR004759 Glutamate:g-aminobutyrate antiporter > GO:amino acid transport ; GO:0006865
+GO:0006865	interpro2go	InterPro:IPR004760 L-type amino acid transporter > GO:amino acid transport ; GO:0006865
+GO:0006865	interpro2go	InterPro:IPR004762 Amino acid permease, fungi > GO:amino acid transport ; GO:0006865
+GO:0006865	interpro2go	InterPro:IPR004840 Amino acid permease, conserved site > GO:amino acid transport ; GO:0006865
+GO:0006865	interpro2go	InterPro:IPR042280 Amino acid transporter heavy chain SLC3A2 > GO:amino acid transport ; GO:0006865
+GO:0006865	hamap2go	HAMAP:MF_01582 > GO:amino acid transport ; GO:0006865
+GO:0006865	hamap2go	HAMAP:MF_01583 > GO:amino acid transport ; GO:0006865
+GO:0006865	unirule2go	UniRule:UR000057566 > GO:amino acid transport ; GO:0006865
+GO:0006865	unirule2go	UniRule:UR000079151 > GO:amino acid transport ; GO:0006865
+GO:0006865	uniprotkb_kw2go	UniProtKB-KW:KW-0029 Amino-acid transport > GO:amino acid transport ; GO:0006865
+GO:0006869	interpro2go	InterPro:IPR000074 Apolipoprotein A/E > GO:lipid transport ; GO:0006869
+GO:0006869	interpro2go	InterPro:IPR000528 Plant non-specific lipid-transfer protein/Par allergen > GO:lipid transport ; GO:0006869
+GO:0006869	interpro2go	InterPro:IPR001747 Vitellogenin, N-terminal > GO:lipid transport ; GO:0006869
+GO:0006869	interpro2go	InterPro:IPR002969 Apolipoprotein D > GO:lipid transport ; GO:0006869
+GO:0006869	interpro2go	InterPro:IPR005951 Retinal-specific ATP-binding cassette transporter > GO:lipid transport ; GO:0006869
+GO:0006869	interpro2go	InterPro:IPR006801 Apolipoprotein A-II (ApoA-II) > GO:lipid transport ; GO:0006869
+GO:0006869	interpro2go	InterPro:IPR008019 Apolipoprotein C-II > GO:lipid transport ; GO:0006869
+GO:0006869	interpro2go	InterPro:IPR008403 Apolipoprotein CIII > GO:lipid transport ; GO:0006869
+GO:0006869	interpro2go	InterPro:IPR008405 Apolipoprotein L > GO:lipid transport ; GO:0006869
+GO:0006869	interpro2go	InterPro:IPR009454 Lipid transport, open beta-sheet > GO:lipid transport ; GO:0006869
+GO:0006869	interpro2go	InterPro:IPR010009 Apolipophorin-III > GO:lipid transport ; GO:0006869
+GO:0006869	interpro2go	InterPro:IPR015255 Vitellinogen, open beta-sheet > GO:lipid transport ; GO:0006869
+GO:0006869	interpro2go	InterPro:IPR015258 Vitellinogen, beta-sheet shell > GO:lipid transport ; GO:0006869
+GO:0006869	interpro2go	InterPro:IPR015816 Vitellinogen, beta-sheet N-terminal > GO:lipid transport ; GO:0006869
+GO:0006869	interpro2go	InterPro:IPR015819 Lipid transport protein, beta-sheet shell > GO:lipid transport ; GO:0006869
+GO:0006869	interpro2go	InterPro:IPR026158 Apolipoprotein B receptor > GO:lipid transport ; GO:0006869
+GO:0006869	interpro2go	InterPro:IPR026222 Apolipoprotein D, vertebrates > GO:lipid transport ; GO:0006869
+GO:0006869	interpro2go	InterPro:IPR033872 Non-specific lipid-transfer protein type 2 > GO:lipid transport ; GO:0006869
+GO:0006869	interpro2go	InterPro:IPR036172 Apolipoprotein A-II (ApoA-II) superfamily > GO:lipid transport ; GO:0006869
+GO:0006869	interpro2go	InterPro:IPR037088 Vitellinogen, beta-sheet shell domain superfamily > GO:lipid transport ; GO:0006869
+GO:0006869	interpro2go	InterPro:IPR037733 Extended synaptotagmin, C2A domain > GO:lipid transport ; GO:0006869
+GO:0006869	interpro2go	InterPro:IPR037749 Extended synaptotagmin, C2B domain > GO:lipid transport ; GO:0006869
+GO:0006869	interpro2go	InterPro:IPR037752 Extended synaptotagmin, C-terminal C2 domain > GO:lipid transport ; GO:0006869
+GO:0006869	hamap2go	HAMAP:MF_01585 > GO:lipid transport ; GO:0006869
+GO:0006869	unirule2go	UniRule:UR000079158 > GO:lipid transport ; GO:0006869
+GO:0006869	unirule2go	UniRule:UR001455793 > GO:lipid transport ; GO:0006869
+GO:0006869	unirule2go	UniRule:UR001528779 > GO:lipid transport ; GO:0006869
+GO:0006869	unirule2go	UniRule:UR001553755 > GO:lipid transport ; GO:0006869
+GO:0006869	uniprotkb_kw2go	UniProtKB-KW:KW-0445 Lipid transport > GO:lipid transport ; GO:0006869
+GO:0008272	interpro2go	InterPro:IPR005666 Sulphate transport system permease protein 1 > GO:sulfate transport ; GO:0008272
+GO:0008272	interpro2go	InterPro:IPR005667 Sulphate ABC transporter permease protein 2 > GO:sulfate transport ; GO:0008272
+GO:0008272	interpro2go	InterPro:IPR011865 Sulphate ABC transporter, permease protein CysT > GO:sulfate transport ; GO:0008272
+GO:0008272	interpro2go	InterPro:IPR018045 Sulphate anion transporter, conserved site > GO:sulfate transport ; GO:0008272
+GO:0008272	uniprotkb_kw2go	UniProtKB-KW:KW-0764 Sulfate transport > GO:sulfate transport ; GO:0008272
+GO:0008643	interpro2go	InterPro:IPR000576 LacY/RafB permease family > GO:carbohydrate transport ; GO:0008643
+GO:0008643	interpro2go	InterPro:IPR004684 2-keto-3-deoxygluconate permease > GO:carbohydrate transport ; GO:0008643
+GO:0008643	interpro2go	InterPro:IPR004750 Sugar efflux > GO:carbohydrate transport ; GO:0008643
+GO:0008643	interpro2go	InterPro:IPR006060 Maltose/Cyclodextrin ABC transporter, substrate-binding protein > GO:carbohydrate transport ; GO:0008643
+GO:0008643	interpro2go	InterPro:IPR007049 Carbohydrate-selective porin OprB > GO:carbohydrate transport ; GO:0008643
+GO:0008643	interpro2go	InterPro:IPR010794 Maltose operon periplasmic > GO:carbohydrate transport ; GO:0008643
+GO:0008643	interpro2go	InterPro:IPR013789 Phosphotransferase system, mannose family IIA component > GO:carbohydrate transport ; GO:0008643
+GO:0008643	interpro2go	InterPro:IPR015855 ABC transporter, maltose/maltodextrin import, MalK-like > GO:carbohydrate transport ; GO:0008643
+GO:0008643	interpro2go	InterPro:IPR018395 2-keto-3-deoxygluconate permease, subgroup > GO:carbohydrate transport ; GO:0008643
+GO:0008643	interpro2go	InterPro:IPR039672 Lactose permease-like > GO:carbohydrate transport ; GO:0008643
+GO:0008643	interpro2go	InterPro:IPR044775 Sugar transporter ERD6/Tret1-like > GO:carbohydrate transport ; GO:0008643
+GO:0008643	hamap2go	HAMAP:MF_00070 > GO:carbohydrate transport ; GO:0008643
+GO:0008643	hamap2go	HAMAP:MF_00517 > GO:carbohydrate transport ; GO:0008643
+GO:0008643	unirule2go	UniRule:UR000050432 > GO:carbohydrate transport ; GO:0008643
+GO:0008643	unirule2go	UniRule:UR000064671 > GO:carbohydrate transport ; GO:0008643
+GO:0008643	unirule2go	UniRule:UR001349763 > GO:carbohydrate transport ; GO:0008643
+GO:0008643	unirule2go	UniRule:UR001426793 > GO:carbohydrate transport ; GO:0008643
+GO:0008643	uniprotkb_kw2go	UniProtKB-KW:KW-0762 Sugar transport > GO:carbohydrate transport ; GO:0008643
+GO:0015031	interpro2go	InterPro:IPR000806 Rab GDI protein > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR002208 SecY/SEC61-alpha family > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR003369 Sec-independent protein translocase protein TatA/B/E > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR003708 Bacterial protein export chaperone SecB > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR004565 Outer membrane lipoprotein LolB > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR004728 Translocation protein Sec62 > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR005061 Vacuolar protein sorting-associated protein Ist1 > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR005215 Trigger factor > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR005378 Vacuolar protein sorting-associated protein 35 > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR005773 Type III secretion system, Yop virulence translocation protein R-like > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR006136 Flagellar biosynthetic protein FlhB > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR006302 Type III secretion protein HrcV > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR007195 TolB, N-terminal > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR007273 SCAMP > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR007378 Tic22-like > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR007794 Ribosome receptor lysine/proline rich > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR008158 Protein translocase SEC61 complex, gamma subunit > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR008880 Trigger factor, C-terminal > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR008881 Trigger factor, ribosome-binding, bacterial > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR008883 Ubiquitin E2 variant, N-terminal > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR009316 COG complex component, COG2 > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR010129 Type I secretion membrane fusion protein, HlyD family > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR010474 AP-3 complex subunit delta domain, metazoa > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR011553 Translocation protein Sec62, ascomycota > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR014168 Tol-Pal system protein TolR > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR014461 Vacuolar protein sorting-associated protein 17, Vps17 > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR014536 Sorting nexin 9 family > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR016342 AP-1/2/4 complex subunit beta > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR016635 Adaptor protein complex, sigma subunit > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR017104 Adaptor protein complex AP-2, alpha subunit > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR017105 Adaptor protein complex AP-3, delta subunit > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR017109 Adaptor protein complex AP-4, epsilon subunit > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR018469 Dual oxidase maturation factor > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR021123 Type III secretion, needle-protein-like > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR022259 Accessory Sec system protein Asp3 > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR022267 Accessory Sec system protein Asp2 > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR022372 Accessory secretory system protein Asp1 > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR022490 Protein translocase subunit SecA2 > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR027282 Two partner secretion pathway transporter > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR034783 Sorting nexin-4 > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR036611 Trigger factor ribosome-binding domain superfamily > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR037041 Trigger factor, C-terminal domain superfamily > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR037203 Type III secretion, needle-protein-like superfamily > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR037430 Sorting nexin-4, BAR domain > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR039937 Sorting nexin SNX20/SNX21 > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR044154 ADP-ribosylation factor-like protein 8A/8B > GO:protein transport ; GO:0015031
+GO:0015031	interpro2go	InterPro:IPR044588 PX domain-containing protein EREX-like > GO:protein transport ; GO:0015031
+GO:0015031	hamap2go	HAMAP:MF_00303 > GO:protein transport ; GO:0015031
+GO:0015031	hamap2go	HAMAP:MF_00751 > GO:protein transport ; GO:0015031
+GO:0015031	hamap2go	HAMAP:MF_00814 > GO:protein transport ; GO:0015031
+GO:0015031	hamap2go	HAMAP:MF_00821 > GO:protein transport ; GO:0015031
+GO:0015031	unirule2go	UniRule:UR000058592 > GO:protein transport ; GO:0015031
+GO:0015031	unirule2go	UniRule:UR000100059 > GO:protein transport ; GO:0015031
+GO:0015031	unirule2go	UniRule:UR000100262 > GO:protein transport ; GO:0015031
+GO:0015031	unirule2go	UniRule:UR000100282 > GO:protein transport ; GO:0015031
+GO:0015031	unirule2go	UniRule:UR000129103 > GO:protein transport ; GO:0015031
+GO:0015031	unirule2go	UniRule:UR000189776 > GO:protein transport ; GO:0015031
+GO:0015031	unirule2go	UniRule:UR000356804 > GO:protein transport ; GO:0015031
+GO:0015031	unirule2go	UniRule:UR000360759 > GO:protein transport ; GO:0015031
+GO:0015031	unirule2go	UniRule:UR000400280 > GO:protein transport ; GO:0015031
+GO:0015031	unirule2go	UniRule:UR000400295 > GO:protein transport ; GO:0015031
+GO:0015031	unirule2go	UniRule:UR000414295 > GO:protein transport ; GO:0015031
+GO:0015031	unirule2go	UniRule:UR000416797 > GO:protein transport ; GO:0015031
+GO:0015031	unirule2go	UniRule:UR000483758 > GO:protein transport ; GO:0015031
+GO:0015031	unirule2go	UniRule:UR000484790 > GO:protein transport ; GO:0015031
+GO:0015031	unirule2go	UniRule:UR000734776 > GO:protein transport ; GO:0015031
+GO:0015031	unirule2go	UniRule:UR000955765 > GO:protein transport ; GO:0015031
+GO:0015031	unirule2go	UniRule:UR001455793 > GO:protein transport ; GO:0015031
+GO:0015031	unirule2go	UniRule:UR001478765 > GO:protein transport ; GO:0015031
+GO:0015031	unirule2go	UniRule:UR001662773 > GO:protein transport ; GO:0015031
+GO:0015031	unirule2go	UniRule:UR001693786 > GO:protein transport ; GO:0015031
+GO:0015031	uniprotkb_kw2go	UniProtKB-KW:KW-0653 Protein transport > GO:protein transport ; GO:0015031
+GO:0015031	uniprotkb_kw2go	UniProtKB-KW:KW-0811 Translocation > GO:protein transport ; GO:0015031
+GO:0015671	interpro2go	InterPro:IPR002335 Myoglobin > GO:oxygen transport ; GO:0015671
+GO:0015671	interpro2go	InterPro:IPR002336 Erythrocruorin > GO:oxygen transport ; GO:0015671
+GO:0015671	interpro2go	InterPro:IPR002337 Hemoglobin, beta-type > GO:oxygen transport ; GO:0015671
+GO:0015671	interpro2go	InterPro:IPR002338 Hemoglobin, alpha-type > GO:oxygen transport ; GO:0015671
+GO:0015671	interpro2go	InterPro:IPR002339 Hemoglobin, pi > GO:oxygen transport ; GO:0015671
+GO:0015671	interpro2go	InterPro:IPR002340 Hemoglobin, zeta > GO:oxygen transport ; GO:0015671
+GO:0015671	interpro2go	InterPro:IPR011406 Globin, trematode > GO:oxygen transport ; GO:0015671
+GO:0015671	interpro2go	InterPro:IPR012085 Globin, nematode > GO:oxygen transport ; GO:0015671
+GO:0015671	interpro2go	InterPro:IPR013314 Globin, lamprey/hagfish type > GO:oxygen transport ; GO:0015671
+GO:0015671	interpro2go	InterPro:IPR014610 Globin, extracellular > GO:oxygen transport ; GO:0015671
+GO:0015671	interpro2go	InterPro:IPR019795 Globin, bacterial-like, conserved site > GO:oxygen transport ; GO:0015671
+GO:0015671	interpro2go	InterPro:IPR044203 Group 2 truncated hemoglobin GlbO/Two-on-two hemoglobin-3-like > GO:oxygen transport ; GO:0015671
+GO:0015671	hamap2go	HAMAP:MF_00556 > GO:oxygen transport ; GO:0015671
+GO:0015671	hamap2go	HAMAP:MF_01252 > GO:oxygen transport ; GO:0015671
+GO:0015671	unirule2go	UniRule:UR000101470 > GO:oxygen transport ; GO:0015671
+GO:0015671	unirule2go	UniRule:UR000101644 > GO:oxygen transport ; GO:0015671
+GO:0015671	unirule2go	UniRule:UR000400271 > GO:oxygen transport ; GO:0015671
+GO:0015671	uniprotkb_kw2go	UniProtKB-KW:KW-0561 Oxygen transport > GO:oxygen transport ; GO:0015671
+GO:0015675	interpro2go	InterPro:IPR011980 Nickel ABC transporter, substrate-binding protein NikA > GO:nickel cation transport ; GO:0015675
+GO:0015675	interpro2go	InterPro:IPR014137 Nickel import ATP-binding protein NikE > GO:nickel cation transport ; GO:0015675
+GO:0015675	interpro2go	InterPro:IPR014138 Nickel import ATP-binding protein NikD > GO:nickel cation transport ; GO:0015675
+GO:0015675	uniprotkb_kw2go	UniProtKB-KW:KW-0921 Nickel transport > GO:nickel cation transport ; GO:0015675
+GO:0015689	interpro2go	InterPro:IPR004606 Molybdenum-pterin binding domain > GO:molybdate ion transport ; GO:0015689
+GO:0015689	interpro2go	InterPro:IPR005950 Molybdate ABC transporter, substrate-binding protein > GO:molybdate ion transport ; GO:0015689
+GO:0015689	interpro2go	InterPro:IPR008509 Molybdate-anion transporter > GO:molybdate ion transport ; GO:0015689
+GO:0015689	interpro2go	InterPro:IPR011867 Molybdenum transport system permease protein ModB > GO:molybdate ion transport ; GO:0015689
+GO:0015689	interpro2go	InterPro:IPR011868 Molybdate ABC transporter, ATP-binding protein > GO:molybdate ion transport ; GO:0015689
+GO:0015689	interpro2go	InterPro:IPR016462 Molybdate-dependent transcriptional regulator ModE > GO:molybdate ion transport ; GO:0015689
+GO:0015689	interpro2go	InterPro:IPR031563 Molybdate transporter 1/2 > GO:molybdate ion transport ; GO:0015689
+GO:0015689	interpro2go	InterPro:IPR044084 AvModA-like, substrate binding domain > GO:molybdate ion transport ; GO:0015689
+GO:0015689	unirule2go	UniRule:UR001597754 > GO:molybdate ion transport ; GO:0015689
+GO:0015693	interpro2go	InterPro:IPR004488 Magnesium/cobalt transport protein CorA > GO:magnesium ion transport ; GO:0015693
+GO:0015693	interpro2go	InterPro:IPR006415 P-type ATPase, subfamily IIIB > GO:magnesium ion transport ; GO:0015693
+GO:0015693	interpro2go	InterPro:IPR006669 Magnesium transporter MgtE > GO:magnesium ion transport ; GO:0015693
+GO:0015693	interpro2go	InterPro:IPR008521 Magnesium transporter NIPA > GO:magnesium ion transport ; GO:0015693
+GO:0015693	unirule2go	UniRule:UR000298813 > GO:magnesium ion transport ; GO:0015693
+GO:0015694	interpro2go	InterPro:IPR003457 Mercuric transport protein MerT > GO:mercury ion transport ; GO:0015694
+GO:0015694	interpro2go	InterPro:IPR004891 Mercury transport protein MerC > GO:mercury ion transport ; GO:0015694
+GO:0015694	interpro2go	InterPro:IPR007746 Broad mercury transporter MerE > GO:mercury ion transport ; GO:0015694
+GO:0015694	interpro2go	InterPro:IPR011795 Mercuric transport protein periplasmic component > GO:mercury ion transport ; GO:0015694
+GO:0015698	unirule2go	UniRule:UR000143764 > GO:inorganic anion transport ; GO:0015698
+GO:0015700	interpro2go	InterPro:IPR000802 Arsenical pump membrane protein, ArsB > GO:arsenite transport ; GO:0015700
+GO:0015703	interpro2go	InterPro:IPR003370 Chromate transporter > GO:chromate transport ; GO:0015703
+GO:0015705	interpro2go	InterPro:IPR035689 Sodium/iodide cotransporter > GO:iodide transport ; GO:0015705
+GO:0015707	interpro2go	InterPro:IPR004737 Nitrate transporter NarK/NarU-like > GO:nitrite transport ; GO:0015707
+GO:0015711	interpro2go	InterPro:IPR004679 2-hydroxycarboxylate transporter > GO:organic anion transport ; GO:0015711
+GO:0015711	interpro2go	InterPro:IPR046329 Solute carrier organic anion transporter family member 4A1-like > GO:organic anion transport ; GO:0015711
+GO:0015716	interpro2go	InterPro:IPR005769 ABC transporter, permease PhnE/PtxC > GO:organic phosphonate transport ; GO:0015716
+GO:0015716	interpro2go	InterPro:IPR009609 Phosphonate metabolism PhnG > GO:organic phosphonate transport ; GO:0015716
+GO:0015716	interpro2go	InterPro:IPR012693 ABC transporter, phosphonate import, PhnC > GO:organic phosphonate transport ; GO:0015716
+GO:0015716	interpro2go	InterPro:IPR017797 Phosphonate ABC transporter, substrate-binding protein > GO:organic phosphonate transport ; GO:0015716
+GO:0015716	uniprotkb_kw2go	UniProtKB-KW:KW-0019 Alkylphosphonate uptake > GO:organic phosphonate transport ; GO:0015716
+GO:0015716	uniprotkb_kw2go	UniProtKB-KW:KW-0918 Phosphonate transport > GO:organic phosphonate transport ; GO:0015716
+GO:0015718	interpro2go	InterPro:IPR004743 Monocarboxylate transporter > GO:monocarboxylic acid transport ; GO:0015718
+GO:0015721	interpro2go	InterPro:IPR029387 Organic solute transporter subunit beta > GO:bile acid and bile salt transport ; GO:0015721
+GO:0015724	interpro2go	InterPro:IPR023999 Formate transporter FocA > GO:formate transport ; GO:0015724
+GO:0015727	interpro2go	InterPro:IPR003804 L-lactate permease > GO:lactate transport ; GO:0015727
+GO:0015727	interpro2go	InterPro:IPR041721 Lactate-binding periplasmic protein TTHA0766 > GO:lactate transport ; GO:0015727
+GO:0015739	interpro2go	InterPro:IPR004742 Sialic acid transporter > GO:sialic acid transport ; GO:0015739
+GO:0015739	hamap2go	HAMAP:MF_01238 > GO:sialic acid transport ; GO:0015739
+GO:0015739	unirule2go	UniRule:UR000166602 > GO:sialic acid transport ; GO:0015739
+GO:0015743	interpro2go	InterPro:IPR020966 Aluminum-activated malate transporter > GO:malate transport ; GO:0015743
+GO:0015744	hamap2go	HAMAP:MF_01191 > GO:succinate transport ; GO:0015744
+GO:0015744	unirule2go	UniRule:UR000068667 > GO:succinate transport ; GO:0015744
+GO:0015746	interpro2go	InterPro:IPR014738 Citrate transporter > GO:citrate transport ; GO:0015746
+GO:0015768	interpro2go	InterPro:IPR023738 Maltoporin > GO:maltose transport ; GO:0015768
+GO:0015768	hamap2go	HAMAP:MF_01301 > GO:maltose transport ; GO:0015768
+GO:0015768	unirule2go	UniRule:UR000101733 > GO:maltose transport ; GO:0015768
+GO:0015770	interpro2go	InterPro:IPR005989 Sucrose/H+ symporter, plant > GO:sucrose transport ; GO:0015770
+GO:0015771	interpro2go	InterPro:IPR011296 Phosphotransferase system, trehalose-specific IIBC component > GO:trehalose transport ; GO:0015771
+GO:0015772	interpro2go	InterPro:IPR005981 ABC-2 type transporter, NodJ > GO:oligosaccharide transport ; GO:0015772
+GO:0015774	interpro2go	InterPro:IPR005701 Polysaccharide export protein MPA1-like > GO:polysaccharide transport ; GO:0015774
+GO:0015774	interpro2go	InterPro:IPR005705 Polysaccharide export inner-membrane protein, BexC/CtrB/KpsE/VexD > GO:polysaccharide transport ; GO:0015774
+GO:0015774	interpro2go	InterPro:IPR007833 Capsule polysaccharide biosynthesis > GO:polysaccharide transport ; GO:0015774
+GO:0015774	interpro2go	InterPro:IPR049712 Polysaccharide export protein > GO:polysaccharide transport ; GO:0015774
+GO:0015774	uniprotkb_kw2go	UniProtKB-KW:KW-0625 Polysaccharide transport > GO:polysaccharide transport ; GO:0015774
+GO:0015775	interpro2go	InterPro:IPR005896 Glucan exporter ATP-binding protein, NdvA > GO:beta-glucan transport ; GO:0015775
+GO:0015798	interpro2go	InterPro:IPR042731 Sodium/myo-inositol cotransporter SMIT > GO:myo-inositol transport ; GO:0015798
+GO:0015801	interpro2go	InterPro:IPR013059 Tryptophan/tyrosine transporter > GO:aromatic amino acid transport ; GO:0015801
+GO:0015803	interpro2go	InterPro:IPR004685 Branched-chain amino acid transport system II carrier protein > GO:branched-chain amino acid transport ; GO:0015803
+GO:0015803	interpro2go	InterPro:IPR030660 High-affinity branched-chain amino acid transport ATP-binding protein > GO:branched-chain amino acid transport ; GO:0015803
+GO:0015812	interpro2go	InterPro:IPR011265 GABA permease > GO:gamma-aminobutyric acid transport ; GO:0015812
+GO:0015822	interpro2go	InterPro:IPR027566 Putrescine transporter PotE > GO:ornithine transport ; GO:0015822
+GO:0015824	interpro2go	InterPro:IPR011851 Sodium/proline symporter > GO:proline transport ; GO:0015824
+GO:0015824	unirule2go	UniRule:UR001080794 > GO:proline transport ; GO:0015824
+GO:0015826	interpro2go	InterPro:IPR023025 Serine/threonine transporter SstT > GO:threonine transport ; GO:0015826
+GO:0015826	interpro2go	InterPro:IPR023726 Threonine/serine transporter TdcC > GO:threonine transport ; GO:0015826
+GO:0015833	interpro2go	InterPro:IPR005279 Dipeptide/tripeptide permease > GO:peptide transport ; GO:0015833
+GO:0015833	interpro2go	InterPro:IPR005898 Cyclic peptide transporter SyrD/Yoji-like > GO:peptide transport ; GO:0015833
+GO:0015833	interpro2go	InterPro:IPR009248 SbmA/BacA-like > GO:peptide transport ; GO:0015833
+GO:0015833	interpro2go	InterPro:IPR013305 ABC transporter Tap-like > GO:peptide transport ; GO:0015833
+GO:0015833	interpro2go	InterPro:IPR013563 Oligopeptide/dipeptide ABC transporter, C-terminal > GO:peptide transport ; GO:0015833
+GO:0015833	interpro2go	InterPro:IPR030254 ATP-binding cassette subfamily B member 9, six-transmembrane helical domain > GO:peptide transport ; GO:0015833
+GO:0015833	uniprotkb_kw2go	UniProtKB-KW:KW-0571 Peptide transport > GO:peptide transport ; GO:0015833
+GO:0015836	hamap2go	HAMAP:MF_02077 > GO:lipid-linked peptidoglycan transport ; GO:0015836
+GO:0015836	hamap2go	HAMAP:MF_02078 > GO:lipid-linked peptidoglycan transport ; GO:0015836
+GO:0015836	unirule2go	UniRule:UR000432258 > GO:lipid-linked peptidoglycan transport ; GO:0015836
+GO:0015836	unirule2go	UniRule:UR000432304 > GO:lipid-linked peptidoglycan transport ; GO:0015836
+GO:0015846	interpro2go	InterPro:IPR001188 Spermidine/putrescine-binding periplasmic protein > GO:polyamine transport ; GO:0015846
+GO:0015846	interpro2go	InterPro:IPR005893 Spermidine/putrescine import ATP-binding protein PotA-like > GO:polyamine transport ; GO:0015846
+GO:0015846	interpro2go	InterPro:IPR017879 PotA, ATP-binding domain > GO:polyamine transport ; GO:0015846
+GO:0015847	interpro2go	InterPro:IPR027566 Putrescine transporter PotE > GO:putrescine transport ; GO:0015847
+GO:0015847	hamap2go	HAMAP:MF_02073 > GO:putrescine transport ; GO:0015847
+GO:0015847	unirule2go	UniRule:UR000375500 > GO:putrescine transport ; GO:0015847
+GO:0015848	interpro2go	InterPro:IPR023737 Spermidine export protein MdtI > GO:spermidine transport ; GO:0015848
+GO:0015848	interpro2go	InterPro:IPR023740 Spermidine export protein MdtJ > GO:spermidine transport ; GO:0015848
+GO:0015848	hamap2go	HAMAP:MF_01597 > GO:spermidine transport ; GO:0015848
+GO:0015848	hamap2go	HAMAP:MF_01598 > GO:spermidine transport ; GO:0015848
+GO:0015848	unirule2go	UniRule:UR000057573 > GO:spermidine transport ; GO:0015848
+GO:0015848	unirule2go	UniRule:UR000057576 > GO:spermidine transport ; GO:0015848
+GO:0015849	interpro2go	InterPro:IPR041722 Alpha-keto acid binding periplasmic protein > GO:organic acid transport ; GO:0015849
+GO:0015851	interpro2go	InterPro:IPR017588 Uric acid permease UacT-like > GO:nucleobase transport ; GO:0015851
+GO:0015855	rfam2go	Rfam:RF00515 PyrR > GO:pyrimidine nucleobase transport ; GO:0015855
+GO:0015858	interpro2go	InterPro:IPR004740 Nucleoside:H+ symporter > GO:nucleoside transport ; GO:0015858
+GO:0015871	interpro2go	InterPro:IPR017783 Choline ABC transporter, substrate-binding protein > GO:choline transport ; GO:0015871
+GO:0015871	interpro2go	InterPro:IPR022473 ABC transporter, Choline, ATP-binding subunit > GO:choline transport ; GO:0015871
+GO:0015878	interpro2go	InterPro:IPR003784 BioY protein > GO:biotin transport ; GO:0015878
+GO:0015879	interpro2go	InterPro:IPR045915 Solute carrier family 22 members 4/5 > GO:carnitine transport ; GO:0015879
+GO:0015884	interpro2go	InterPro:IPR028339 Reduced folate transporter SLC19A1 > GO:folic acid transport ; GO:0015884
+GO:0015886	interpro2go	InterPro:IPR003544 Cytochrome c-type biogenesis protein CcmB > GO:heme transport ; GO:0015886
+GO:0015886	interpro2go	InterPro:IPR003557 Cytochrome c-type biogenesis protein CcmC > GO:heme transport ; GO:0015886
+GO:0015886	interpro2go	InterPro:IPR003567 Cytochrome c-type biogenesis protein > GO:heme transport ; GO:0015886
+GO:0015886	interpro2go	InterPro:IPR003568 Cytochrome c-type biogenesis protein CcmF > GO:heme transport ; GO:0015886
+GO:0015886	interpro2go	InterPro:IPR003569 Probable cytochrome c biosynthesis protein, plants > GO:heme transport ; GO:0015886
+GO:0015886	interpro2go	InterPro:IPR003570 Cytochrome c-type biogenesis protein NrfE > GO:heme transport ; GO:0015886
+GO:0015886	interpro2go	InterPro:IPR007078 Haem exporter protein D (CcmD) > GO:heme transport ; GO:0015886
+GO:0015886	interpro2go	InterPro:IPR011276 TonB-dependent haem/haemoglobin receptor > GO:heme transport ; GO:0015886
+GO:0015886	interpro2go	InterPro:IPR016358 Hemopexin > GO:heme transport ; GO:0015886
+GO:0015886	interpro2go	InterPro:IPR019909 Haem uptake protein IsdC > GO:heme transport ; GO:0015886
+GO:0015886	interpro2go	InterPro:IPR019929 Iron-regulated surface determinant protein IsdB > GO:heme transport ; GO:0015886
+GO:0015886	interpro2go	InterPro:IPR019957 ABC transporter, high-affinity heme uptake system protein IsdE > GO:heme transport ; GO:0015886
+GO:0015886	interpro2go	InterPro:IPR026218 Heme transporter HRG > GO:heme transport ; GO:0015886
+GO:0015886	interpro2go	InterPro:IPR030937 Hemophore Rv0203 > GO:heme transport ; GO:0015886
+GO:0015888	interpro2go	InterPro:IPR005947 Thiamine ABC transporter, permease protein > GO:thiamine transport ; GO:0015888
+GO:0015888	interpro2go	InterPro:IPR005948 Thiamine/thiamin pyrophosphate-binding periplasmic protein, ABC transporter > GO:thiamine transport ; GO:0015888
+GO:0015888	interpro2go	InterPro:IPR005967 Thiamin/thiamin pyrophosphate ABC transporter, substrate-binding protein, Proteobacteria > GO:thiamine transport ; GO:0015888
+GO:0015888	interpro2go	InterPro:IPR012651 Thiamine transporter ThiT > GO:thiamine transport ; GO:0015888
+GO:0015888	interpro2go	InterPro:IPR028337 Thiamine transporter 2 > GO:thiamine transport ; GO:0015888
+GO:0015888	unirule2go	UniRule:UR001503766 > GO:thiamine transport ; GO:0015888
+GO:0015889	interpro2go	InterPro:IPR002157 Cobalamin (vitamin B12)-binding protein > GO:cobalamin transport ; GO:0015889
+GO:0015889	interpro2go	InterPro:IPR010101 TonB-dependent vitamin B12 transporter BtuB > GO:cobalamin transport ; GO:0015889
+GO:0015889	interpro2go	InterPro:IPR023544 ABC transporter, vitamin B12-binding protein > GO:cobalamin transport ; GO:0015889
+GO:0015889	interpro2go	InterPro:IPR023691 ABC transporter, vitamin B12 import, permease protein BtuC > GO:cobalamin transport ; GO:0015889
+GO:0015889	interpro2go	InterPro:IPR023693 ABC transporter, vitamin B12, BtuD > GO:cobalamin transport ; GO:0015889
+GO:0015889	hamap2go	HAMAP:MF_01000 > GO:cobalamin transport ; GO:0015889
+GO:0015889	hamap2go	HAMAP:MF_01004 > GO:cobalamin transport ; GO:0015889
+GO:0015889	hamap2go	HAMAP:MF_01005 > GO:cobalamin transport ; GO:0015889
+GO:0015889	hamap2go	HAMAP:MF_01531 > GO:cobalamin transport ; GO:0015889
+GO:0015889	unirule2go	UniRule:UR000054556 > GO:cobalamin transport ; GO:0015889
+GO:0015889	unirule2go	UniRule:UR000079051 > GO:cobalamin transport ; GO:0015889
+GO:0015889	unirule2go	UniRule:UR000100372 > GO:cobalamin transport ; GO:0015889
+GO:0015889	unirule2go	UniRule:UR000100379 > GO:cobalamin transport ; GO:0015889
+GO:0015891	interpro2go	InterPro:IPR003538 Gram-negative bacterial TonB protein > GO:siderophore transport ; GO:0015891
+GO:0015891	interpro2go	InterPro:IPR010105 TonB-dependent siderophore receptor > GO:siderophore transport ; GO:0015891
+GO:0015891	interpro2go	InterPro:IPR035323 Facilitor Of iron transport 1/2 > GO:siderophore transport ; GO:0015891
+GO:0015891	hamap2go	HAMAP:MF_01436 > GO:siderophore transport ; GO:0015891
+GO:0015891	unirule2go	UniRule:UR000077063 > GO:siderophore transport ; GO:0015891
+GO:0015908	unirule2go	UniRule:UR001628780 > GO:fatty acid transport ; GO:0015908
+GO:0015914	interpro2go	InterPro:IPR001666 Phosphatidylinositol transfer protein > GO:phospholipid transport ; GO:0015914
+GO:0015914	interpro2go	InterPro:IPR006539 P-type ATPase, subfamily IV > GO:phospholipid transport ; GO:0015914
+GO:0015914	interpro2go	InterPro:IPR030970 Probable phospholipid ABC transporter-binding protein MlaD > GO:phospholipid transport ; GO:0015914
+GO:0015918	interpro2go	InterPro:IPR039670 Sterol transport protein NPC2-like > GO:sterol transport ; GO:0015918
+GO:0015920	interpro2go	InterPro:IPR014340 Lipopolysaccharide export system protein LptA > GO:lipopolysaccharide transport ; GO:0015920
+GO:0015920	interpro2go	InterPro:IPR020889 LPS-assembly protein LptD > GO:lipopolysaccharide transport ; GO:0015920
+GO:0015920	interpro2go	InterPro:IPR026265 Lipopolysaccharide export system protein LptC > GO:lipopolysaccharide transport ; GO:0015920
+GO:0015920	hamap2go	HAMAP:MF_01914 > GO:lipopolysaccharide transport ; GO:0015920
+GO:0015920	hamap2go	HAMAP:MF_01915 > GO:lipopolysaccharide transport ; GO:0015920
+GO:0015920	unirule2go	UniRule:UR000121669 > GO:lipopolysaccharide transport ; GO:0015920
+GO:0015920	unirule2go	UniRule:UR000161558 > GO:lipopolysaccharide transport ; GO:0015920
+GO:0019532	interpro2go	InterPro:IPR026355 Oxalate/formate antiporter > GO:oxalate transport ; GO:0019532
+GO:0030001	interpro2go	InterPro:IPR001046 NRAMP family > GO:metal ion transport ; GO:0030001
+GO:0030001	interpro2go	InterPro:IPR002523 Mg2+ transporter protein, CorA-like/Zinc transport protein ZntB > GO:metal ion transport ; GO:0030001
+GO:0030001	interpro2go	InterPro:IPR003689 Zinc/iron permease > GO:metal ion transport ; GO:0030001
+GO:0030001	interpro2go	InterPro:IPR005695 Cobalt/zinc/cadmium resistance protein CzcB-like > GO:metal ion transport ; GO:0030001
+GO:0030001	interpro2go	InterPro:IPR006127 Periplasmic solute binding protein, ZnuA-like > GO:metal ion transport ; GO:0030001
+GO:0030001	interpro2go	InterPro:IPR019325 NEDD4/Bsd2 > GO:metal ion transport ; GO:0030001
+GO:0030001	hamap2go	HAMAP:MF_00221 > GO:metal ion transport ; GO:0030001
+GO:0030001	unirule2go	UniRule:UR000081080 > GO:metal ion transport ; GO:0030001
+GO:0030001	unirule2go	UniRule:UR001627763 > GO:metal ion transport ; GO:0030001
+GO:0030301	unirule2go	UniRule:UR000736773 > GO:cholesterol transport ; GO:0030301
+GO:0031460	interpro2go	InterPro:IPR005892 Glycine betaine/proline betaine transport system ATP-binding protein ProV-like > GO:glycine betaine transport ; GO:0031460
+GO:0032218	interpro2go	InterPro:IPR009357 Solute carrier family 52, riboflavin transporter > GO:riboflavin transport ; GO:0032218
+GO:0032218	interpro2go	InterPro:IPR025720 ECF transporter, Riboflavin transporter RibU > GO:riboflavin transport ; GO:0032218
+GO:0032218	unirule2go	UniRule:UR000147815 > GO:riboflavin transport ; GO:0032218
+GO:0032218	unirule2go	UniRule:UR001527783 > GO:riboflavin transport ; GO:0032218
+GO:0032329	interpro2go	InterPro:IPR023025 Serine/threonine transporter SstT > GO:serine transport ; GO:0032329
+GO:0032329	interpro2go	InterPro:IPR023726 Threonine/serine transporter TdcC > GO:serine transport ; GO:0032329
+GO:0033572	interpro2go	InterPro:IPR037324 Transferrin receptor protein 1/2, PA domain > GO:transferrin transport ; GO:0033572
+GO:0033572	unirule2go	UniRule:UR001453782 > GO:transferrin transport ; GO:0033572
+GO:0034196	interpro2go	InterPro:IPR044160 Protein TRIGALACTOSYLDIACYLGLYCEROL 4-like > GO:acylglycerol transport ; GO:0034196
+GO:0034197	unirule2go	UniRule:UR000736773 > GO:triglyceride transport ; GO:0034197
+GO:0034229	interpro2go	InterPro:IPR007441 Ethanolamine utilisation protein EutH > GO:ethanolamine transport ; GO:0034229
+GO:0034258	interpro2go	InterPro:IPR006419 Nicotinamide mononucleotide transporter PnuC > GO:nicotinamide riboside transport ; GO:0034258
+GO:0042883	interpro2go	InterPro:IPR014216 ABC transporter, CydDC cysteine exporter (CydDC-E) family, permease/ATP-binding protein CydD > GO:cysteine transport ; GO:0042883
+GO:0042908	interpro2go	InterPro:IPR004734 Multidrug resistance protein > GO:xenobiotic transport ; GO:0042908
+GO:0042908	interpro2go	InterPro:IPR004764 Multidrug resistance protein MdtF-like > GO:xenobiotic transport ; GO:0042908
+GO:0042908	interpro2go	InterPro:IPR017258 Chloroquine resistance transporter > GO:xenobiotic transport ; GO:0042908
+GO:0042919	interpro2go	InterPro:IPR004711 Benzoate transporter > GO:benzoate transport ; GO:0042919
+GO:0042930	interpro2go	InterPro:IPR023722 Enterobactin exporter, EntS > GO:enterobactin transport ; GO:0042930
+GO:0042938	interpro2go	InterPro:IPR023777 Amino acid/peptide transporter family, dipeptide permease D > GO:dipeptide transport ; GO:0042938
+GO:0042938	interpro2go	InterPro:IPR044739 NRT1/PTR family > GO:dipeptide transport ; GO:0042938
+GO:0042938	hamap2go	HAMAP:MF_01878 > GO:dipeptide transport ; GO:0042938
+GO:0042938	hamap2go	HAMAP:MF_01879 > GO:dipeptide transport ; GO:0042938
+GO:0042938	hamap2go	HAMAP:MF_01880 > GO:dipeptide transport ; GO:0042938
+GO:0042938	unirule2go	UniRule:UR000058570 > GO:dipeptide transport ; GO:0042938
+GO:0042938	unirule2go	UniRule:UR000058572 > GO:dipeptide transport ; GO:0042938
+GO:0042938	unirule2go	UniRule:UR000058575 > GO:dipeptide transport ; GO:0042938
+GO:0042939	hamap2go	HAMAP:MF_01878 > GO:tripeptide transport ; GO:0042939
+GO:0042939	hamap2go	HAMAP:MF_01879 > GO:tripeptide transport ; GO:0042939
+GO:0042939	unirule2go	UniRule:UR000058570 > GO:tripeptide transport ; GO:0042939
+GO:0042939	unirule2go	UniRule:UR000058572 > GO:tripeptide transport ; GO:0042939
+GO:0042953	interpro2go	InterPro:IPR011925 Lipoprotein-releasing system transmembrane protein LolC/E > GO:lipoprotein transport ; GO:0042953
+GO:0042953	interpro2go	InterPro:IPR011926 Lipoprotein-releasing system transmembrane protein LolE, gammaproteobacteria type > GO:lipoprotein transport ; GO:0042953
+GO:0042953	interpro2go	InterPro:IPR018323 Outer membrane lipoprotein carrier protein LolA, Proteobacteria > GO:lipoprotein transport ; GO:0042953
+GO:0042956	interpro2go	InterPro:IPR023738 Maltoporin > GO:maltodextrin transmembrane transport ; GO:0042956
+GO:0043213	interpro2go	InterPro:IPR005897 Peptidase C39, ABC-type bacteriocin transporter > GO:bacteriocin transport ; GO:0043213
+GO:0043213	interpro2go	InterPro:IPR014161 Tol-Pal system, TolA > GO:bacteriocin transport ; GO:0043213
+GO:0043213	interpro2go	InterPro:IPR014163 Tol-Pal system, TolQ > GO:bacteriocin transport ; GO:0043213
+GO:0043213	uniprotkb_kw2go	UniProtKB-KW:KW-0080 Bacteriocin transport > GO:bacteriocin transport ; GO:0043213
+GO:0043215	interpro2go	InterPro:IPR004377 ABC transporter, permease protein DrrB/DrrC > GO:daunorubicin transport ; GO:0043215
+GO:0043215	interpro2go	InterPro:IPR005894 Daunorubicin resistance ABC transporter ATP-binding subunit DrrA > GO:daunorubicin transport ; GO:0043215
+GO:0046942	interpro2go	InterPro:IPR023706 Para-hydroxybenzoic acid efflux pump, subunit AaeB > GO:carboxylic acid transport ; GO:0046942
+GO:0050658	interpro2go	InterPro:IPR016400 Rev protein, Ovine/caprine lentivirus > GO:RNA transport ; GO:0050658
+GO:0050658	interpro2go	InterPro:IPR033759 Systemic RNA interference defective protein 5 > GO:RNA transport ; GO:0050658
+GO:0051028	interpro2go	InterPro:IPR005637 TAP C-terminal (TAP-C) domain > GO:mRNA transport ; GO:0051028
+GO:0051028	interpro2go	InterPro:IPR031398 SWI5-dependent HO expression protein 3 > GO:mRNA transport ; GO:0051028
+GO:0051028	hamap2go	HAMAP:MF_04077 > GO:mRNA transport ; GO:0051028
+GO:0051028	rfam2go	Rfam:RF00207 K10_TLS > GO:mRNA transport ; GO:0051028
+GO:0051028	rfam2go	Rfam:RF00626 Gurken > GO:mRNA transport ; GO:0051028
+GO:0051028	unirule2go	UniRule:UR000212818 > GO:mRNA transport ; GO:0051028
+GO:0051028	unirule2go	UniRule:UR000400605 > GO:mRNA transport ; GO:0051028
+GO:0051028	unirule2go	UniRule:UR000584918 > GO:mRNA transport ; GO:0051028
+GO:0051028	unirule2go	UniRule:UR001627752 > GO:mRNA transport ; GO:0051028
+GO:0051028	uniprotkb_kw2go	UniProtKB-KW:KW-0509 mRNA transport > GO:mRNA transport ; GO:0051028
+GO:0051180	interpro2go	InterPro:IPR000213 Vitamin D-binding protein > GO:vitamin transport ; GO:0051180
+GO:0051180	interpro2go	InterPro:IPR002666 Reduced folate carrier > GO:vitamin transport ; GO:0051180
+GO:0051470	interpro2go	InterPro:IPR014337 Ectoine/Hydroxyectoine ABC transporter, substrate-binding protein EhuB > GO:ectoine transport ; GO:0051470
+GO:0051470	rhea2go	RHEA:32791 > GO:ectoine transport ; GO:0051470
+GO:0051958	interpro2go	InterPro:IPR028339 Reduced folate transporter SLC19A1 > GO:methotrexate transport ; GO:0051958
+GO:0051977	interpro2go	InterPro:IPR023727 Lysophospholipid transporter LplT > GO:lysophospholipid transport ; GO:0051977
+GO:0071705	interpro2go	InterPro:IPR000060 BCCT transporter family > GO:nitrogen compound transport ; GO:0071705
+GO:0071705	interpro2go	InterPro:IPR005768 Specific amino acids and opine-binding periplasmic protein, ABC transporter > GO:nitrogen compound transport ; GO:0071705
+GO:0071705	interpro2go	InterPro:IPR009834 Ureide permease > GO:nitrogen compound transport ; GO:0071705
+GO:0071705	interpro2go	InterPro:IPR010065 Amino acid ABC transporter, permease protein, 3-TM domain > GO:nitrogen compound transport ; GO:0071705
+GO:0071705	interpro2go	InterPro:IPR030189 Ureide permease, plant > GO:nitrogen compound transport ; GO:0071705
+GO:1900753	interpro2go	InterPro:IPR004377 ABC transporter, permease protein DrrB/DrrC > GO:doxorubicin transport ; GO:1900753
+GO:1900753	interpro2go	InterPro:IPR005894 Daunorubicin resistance ABC transporter ATP-binding subunit DrrA > GO:doxorubicin transport ; GO:1900753
+GO:1901998	interpro2go	InterPro:IPR041408 Hemolysin coregulated protein (Hcp) TssD > GO:toxin transport ; GO:1901998
