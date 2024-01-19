@@ -1,0 +1,13 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	RNAcentral:URS000037C5A8_9606	URS000037C5A8_9606	PMID:27329039		GO:0010822	positive regulation of mitochondrion organization	IDA				20200729	CL:0000540	NCBITaxon:9606
+ARUK-UCL	MGI:MGI:1913150	Trem2	PMID:28802038|MGI:MGI:5906931		GO:0010822	positive regulation of mitochondrion organization	IMP			PANTHER:PTHR11860	20211119	CL:0000235|CL:0000129	NCBITaxon:10090
+ParkinsonsUK-UCL	UniProtKB:O43464	HTRA2	PMID:25118933		GO:0010822	positive regulation of mitochondrion organization	IMP			PANTHER:PTHR22939	20161031		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9UBK2	PPARGC1A	PMID:25118933		GO:0010822	positive regulation of mitochondrion organization	IMP			PANTHER:PTHR15528	20161031		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P49841	GSK3B	PMID:25118933		GO:0010822	positive regulation of mitochondrion organization	IMP			PANTHER:PTHR24057	20161031		NCBITaxon:9606
+UniProt	MGI:MGI:1914999	Mgarp	PMID:19325000|MGI:MGI:4438169		GO:0010822	positive regulation of mitochondrion organization	IMP			PANTHER:PTHR22910	20120504		NCBITaxon:10090
+UniProt	MGI:MGI:1914999	Mgarp	PMID:21447634|MGI:MGI:5320271		GO:0010822	positive regulation of mitochondrion organization	IMP			PANTHER:PTHR22910	20120504		NCBITaxon:10090
+UniProt	AGI_LocusCode:AT1G69380	RRG	PMID:21984726|TAIR:Publication:501745489		GO:0010822	positive regulation of mitochondrion organization	IMP		TAIR:locus:2007161		20210331		NCBITaxon:3702
+UniProt	MGI:MGI:1342774	Ppargc1a	PMID:23150719|MGI:MGI:5463828		GO:0010822	positive regulation of mitochondrion organization	IMP			PANTHER:PTHR15528	20130205		NCBITaxon:10090
+BHF-UCL	RNAcentral:URS0000338542_9606	URS0000338542_9606	PMID:25869329		GO:0010823	negative regulation of mitochondrion organization	IDA				20160609	CL:0000057	NCBITaxon:9606
+ParkinsonsUK-UCL	MGI:MGI:88222	Tspo	PMID:25470454|MGI:MGI:5689082		GO:0010823	negative regulation of mitochondrion organization	IMP			PANTHER:PTHR10057	20150901		NCBITaxon:10090
+UniProt	MGI:MGI:2442184	Flcn	PMID:23150719|MGI:MGI:5463828		GO:0010823	negative regulation of mitochondrion organization	IMP			PANTHER:PTHR31441	20130205		NCBITaxon:10090

@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	RNAcentral:URS000037C5A8_9606	URS000037C5A8_9606	PMID:27329039		GO:0042985	negative regulation of amyloid precursor protein biosynthetic process	IDA				20200729	GO:0010822|CL:0000540	NCBITaxon:9606
