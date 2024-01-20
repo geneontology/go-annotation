@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P25539	ribD	PMID:18500821		GO:0008835	diaminohydroxyphosphoribosylaminopyrimidine deaminase activity	IDA			PANTHER:PTHR11079	20080606		NCBITaxon:83333
+EcoCyc	UniProtKB:P25539	ribD	PMID:9068650		GO:0008835	diaminohydroxyphosphoribosylaminopyrimidine deaminase activity	IDA			PANTHER:PTHR11079	20070409		NCBITaxon:83333
+TAIR	AGI_LocusCode:AT4G20960	PyrD	PMID:15208317|TAIR:Publication:501712627		GO:0008835	diaminohydroxyphosphoribosylaminopyrimidine deaminase activity	IGI		TAIR:locus:2133074		20070719		NCBITaxon:3702
+SGD	SGD:S000005427	RIB2	PMID:4555411		GO:0043723	2,5-diamino-6-ribitylamino-4(3H)-pyrimidinone 5'-phosphate deaminase activity	IMP		UniProtKB:Q12362	PANTHER:PTHR21600	20030212		NCBITaxon:559292

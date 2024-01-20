@@ -1,0 +1,7 @@
+term	file	line
+GO:0008835	interpro2go	InterPro:IPR004794 Riboflavin biosynthesis protein RibD > GO:diaminohydroxyphosphoribosylaminopyrimidine deaminase activity ; GO:0008835
+GO:0008835	rhea2go	RHEA:21868 > GO:diaminohydroxyphosphoribosylaminopyrimidine deaminase activity ; GO:0008835
+GO:0008835	ec2go	EC:3.5.4.26 > GO:diaminohydroxyphosphoribosylaminopyrimidine deaminase activity ; GO:0008835
+GO:0008835	kegg_reaction2go	KEGG_REACTION:R03459 > GO:diaminohydroxyphosphoribosylaminopyrimidine deaminase activity ; GO:0008835
+GO:0008835	metacyc2go	MetaCyc:RIBOFLAVINSYNDEAM-RXN > GO:diaminohydroxyphosphoribosylaminopyrimidine deaminase activity ; GO:0008835
+GO:0043723	metacyc2go	MetaCyc:RXN-10058 > GO:2,5-diamino-6-ribitylamino-4(3H)-pyrimidinone 5'-phosphate deaminase activity ; GO:0043723
