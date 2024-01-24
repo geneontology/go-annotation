@@ -1,0 +1,12 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	UniProtKB:P18009	ipaH4.5	PMID:23083102		GO:0052083	symbiont-mediated suppression of host cell-mediated immune response	IMP				20171116		NCBITaxon:623
+MTBBASE	UniProtKB:A0A0H3LH57	ERDMAN_4251	PMID:14557536		GO:0052083	symbiont-mediated suppression of host cell-mediated immune response	IMP				20170216		NCBITaxon:652616
+MTBBASE	UniProtKB:A0A0H3LFZ6	ERDMAN_4243	PMID:14557536		GO:0052083	symbiont-mediated suppression of host cell-mediated immune response	IMP				20170216		NCBITaxon:652616
+MTBBASE	UniProtKB:A0A0H3LG06	esxA	PMID:14557536		GO:0052083	symbiont-mediated suppression of host cell-mediated immune response	IMP				20170216		NCBITaxon:652616
+MTBBASE	UniProtKB:A0A0H3LKM7	ERDMAN_4245	PMID:14557536		GO:0052083	symbiont-mediated suppression of host cell-mediated immune response	IMP				20170216		NCBITaxon:652616
+MTBBASE	UniProtKB:P9WIA1	ptpA	PMID:18474358		GO:0052083	symbiont-mediated suppression of host cell-mediated immune response	EXP			PANTHER:PTHR11717	20100519		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WIA1	ptpA	PMID:18474358		GO:0052083	symbiont-mediated suppression of host cell-mediated immune response	IMP			PANTHER:PTHR11717	20220207		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WNK7	esxA	PMID:20006311		GO:0052083	symbiont-mediated suppression of host cell-mediated immune response	IDA				20120701		NCBITaxon:83332
+CGD	CGD:CAL0000174610	PRA1	PMID:17277107|CGD_REF:CAL0117291		GO:0052155	perturbation of host cell-mediated immune response	IDA			PANTHER:PTHR39399	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000174610	PRA1	PMID:17277107|CGD_REF:CAL0117291		GO:0052155	perturbation of host cell-mediated immune response	IMP			PANTHER:PTHR39399	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000194661	SAP9	PMID:19805528|CGD_REF:CAL0124359		GO:0052155	perturbation of host cell-mediated immune response	IMP			PANTHER:PTHR47965	20140625		NCBITaxon:237561
