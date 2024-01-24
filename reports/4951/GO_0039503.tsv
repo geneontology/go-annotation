@@ -1,0 +1,20 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	UniProtKB:Q05127	VP35	PMID:12829834		GO:0039503	suppression by virus of host innate immune response	IDA				20220715		NCBITaxon:128952
+CACAO	UniProtKB:P69282	P/V/C	PMID:22532687		GO:0039503	suppression by virus of host innate immune response	IMP				20130223		NCBITaxon:11198
+UniProt	UniProtKB:Q9Q6P4	GP1	PMID:24889229		GO:0039503	suppression by virus of host innate immune response	IMP		UniProtKB:Q9Q6P4-PRO_0000441583		20170629		NCBITaxon:1968826
+UniProt	UniProtKB:Q9Q6P4	GP1	PMID:24928049		GO:0039503	suppression by virus of host innate immune response	IDA		UniProtKB:Q9Q6P4-PRO_0000441583		20170629		NCBITaxon:1968826
+UniProt	UniProtKB:K9N7C7	rep	PMID:25142582		GO:0039503	suppression by virus of host innate immune response	IDA		UniProtKB:K9N7C7-PRO_0000422441		20160202		NCBITaxon:1263720
+UniProt	UniProtKB:B3F2X4	B3F2X4	PMID:25878106		GO:0039503	suppression by virus of host innate immune response	IDA				20180411		NCBITaxon:444185
+UniProt	UniProtKB:P03304	P03304	PMID:28487378		GO:0039503	suppression by virus of host innate immune response	IDA		UniProtKB:P03304-PRO_0000039790		20181217		NCBITaxon:12104
+UniProt	UniProtKB:P10233	UL49	PMID:29793952		GO:0039503	suppression by virus of host innate immune response	IDA				20210907		NCBITaxon:10299
+UniProt	UniProtKB:P16848	UL31	PMID:29937271		GO:0039503	suppression by virus of host innate immune response	IDA				20181126		NCBITaxon:10360
+UniProt	UniProtKB:P07396	OPG062	PMID:30078703		GO:0039503	suppression by virus of host innate immune response	IDA				20180821		NCBITaxon:10254
+UniProt	UniProtKB:Q01225	OPG188	PMID:30728498		GO:0039503	suppression by virus of host innate immune response	IDA				20220708		NCBITaxon:10254
+UniProt	UniProtKB:Q01225	OPG188	PMID:30728498		GO:0039503	suppression by virus of host innate immune response	IMP				20190228		NCBITaxon:10254
+UniProt	UniProtKB:P17372	OPG035	PMID:31644906		GO:0039503	suppression by virus of host innate immune response	IDA				20220627		NCBITaxon:10254
+UniProt	UniProtKB:Q4JQW6	ORF9	PMID:34015248		GO:0039503	suppression by virus of host innate immune response	IDA				20210907		NCBITaxon:341980
+UniProt	UniProtKB:P10233	UL49	PMID:34015248		GO:0039503	suppression by virus of host innate immune response	IDA				20210907		NCBITaxon:10299
+UniProt	UniProtKB:Q2HR80	ORF52	PMID:34015248		GO:0039503	suppression by virus of host innate immune response	IDA				20210907		NCBITaxon:868565
+UniProt	UniProtKB:P0DTD1	rep	PMID:35594856		GO:0039503	suppression by virus of host innate immune response	IDA		UniProtKB:P0DTD1-PRO_0000449623		20220915		NCBITaxon:2697049
+UniProt	UniProtKB:P0DTD1	rep	PMID:35878012		GO:0039503	suppression by virus of host innate immune response	IDA		UniProtKB:P0DTD1-PRO_0000449620		20230221		NCBITaxon:2697049
+UniProt	UniProtKB:F5HF68	vIRF-1	PMID:37023208		GO:0039503	suppression by virus of host innate immune response	IDA				20230925		NCBITaxon:868565
