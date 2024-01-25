@@ -1,0 +1,5 @@
+term	file	line
+GO:0009331	interpro2go	InterPro:IPR000447 FAD-dependent glycerol-3-phosphate dehydrogenase > GO:glycerol-3-phosphate dehydrogenase complex ; GO:0009331
+GO:0009331	interpro2go	InterPro:IPR006168 Glycerol-3-phosphate dehydrogenase, NAD-dependent > GO:glycerol-3-phosphate dehydrogenase complex ; GO:0009331
+GO:0009331	unirule2go	UniRule:UR000067708 > GO:glycerol-3-phosphate dehydrogenase complex ; GO:0009331
+GO:0009331	unirule2go	UniRule:UR000080073 > GO:glycerol-3-phosphate dehydrogenase complex ; GO:0009331

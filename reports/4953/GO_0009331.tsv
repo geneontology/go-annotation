@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P13035	glpD	PMID:18296637		GO:0009331	glycerol-3-phosphate dehydrogenase complex	IDA			PANTHER:PTHR11985	20120321		NCBITaxon:83333
