@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	FB:FBgn0020258	ppk	PMID:25456135|FB:FBrf0226882		GO:0035179	larval turning behavior	IMP			PANTHER:PTHR11690	20160317		NCBITaxon:7227
+FlyBase	FB:FBgn0035785	ppk26	PMID:25456135|FB:FBrf0226882		GO:0035179	larval turning behavior	IMP			PANTHER:PTHR11690	20160317		NCBITaxon:7227
+FlyBase	FB:FBgn0060296	pain	PMID:25456135|FB:FBrf0226882		GO:0035179	larval turning behavior	IMP			PANTHER:PTHR47143	20160317		NCBITaxon:7227
