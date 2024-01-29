@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:99403	Adora2b	PMID:18340377		GO:0010753	positive regulation of cGMP-mediated signaling	IMP	MGI:MGI:3773754		PANTHER:PTHR24246	20180529	GO:0019934	NCBITaxon:10090
