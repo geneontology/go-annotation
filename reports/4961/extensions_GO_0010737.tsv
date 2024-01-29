@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:1891831	Sfn	PMID:18606808		GO:0005515	protein binding	IDA			PANTHER:PTHR18860	20221123	GO:0000122|GO:0006611|GO:0010737|MGI:MGI:1927999	NCBITaxon:10090
+MGI	MGI:MGI:95821	Grin2b	PMID:24336715		GO:0010738	regulation of protein kinase A signaling	IMP			PANTHER:PTHR18966	20140917	GO:0010737	NCBITaxon:10090
+UniProt	UniProtKB:P15311	EZR	PMID:17911601		GO:0032703	negative regulation of interleukin-2 production	IMP			PANTHER:PTHR23281	20150619	CL:0000084|GO:0010737|GO:0071320	NCBITaxon:9606
