@@ -1,4 +1,4 @@
-! Generated on 2024-01-13T04:00Z from the ontology 'go' with data version: 'releases/2024-01-12'
+! Generated on 2024-01-28T09:09Z from the ontology 'go' with data version: 'releases/2024-01-28'
 !
 EC:1.-.-.- > GO:oxidoreductase activity ; GO:0016491
 EC:1.1.-.- > GO:oxidoreductase activity, acting on CH-OH group of donors ; GO:0016614
@@ -2546,7 +2546,6 @@ EC:2.4.99.15 > GO:Kdo transferase activity ; GO:0043842
 EC:2.4.99.17 > GO:S-adenosylmethionine:tRNA ribosyltransferase-isomerase activity ; GO:0051075
 EC:2.4.99.18 > GO:dolichyl-diphosphooligosaccharide-protein glycotransferase activity ; GO:0004579
 EC:2.5.1.- > GO:transferase activity, transferring alkyl or aryl (other than methyl) groups ; GO:0016765
-EC:2.5.1.- > GO:(S)-2,3-di-O-geranylgeranylglyceryl phosphate synthase activity ; GO:0043888
 EC:2.5.1.- > GO:ATP dimethylallyltransferase activity ; GO:0052622
 EC:2.5.1.- > GO:ADP dimethylallyltransferase activity ; GO:0052623
 EC:2.5.1.1 > GO:dimethylallyltranstransferase activity ; GO:0004161
@@ -2557,8 +2556,9 @@ EC:2.5.1.105 > GO:7,8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminoben
 EC:2.5.1.105 > GO:[1-(2-amino-7-methyl-4-oxo-7,8-dihydro-3H-pteridin-6-yl)]ethyl-4-(beta-D-ribofuranosyl)aminobenzene 5'-phosphate synthase activity ; GO:0102638
 EC:2.5.1.108 > GO:2-(3-amino-3-carboxypropyl)histidine synthase activity ; GO:0090560
 EC:2.5.1.114 > GO:tRNA 4-demethylwyosine alpha-amino-alpha-carboxypropyltransferase activity ; GO:0102522
-EC:2.5.1.116 > GO:homogentisate geranylgeranyl transferase activity ; GO:0102551
-EC:2.5.1.117 > GO:homogentisate solanyltransferase activity ; GO:0102661
+EC:2.5.1.115 > GO:homogentisate phytyltransferase activity ; GO:0010176
+EC:2.5.1.116 > GO:homogentisate geranylgeranyltransferase activity ; GO:0010356
+EC:2.5.1.117 > GO:homogentisate solanesyltransferase activity ; GO:0010357
 EC:2.5.1.120 > GO:aminodeoxyfutalosine synthase activity ; GO:0102573
 EC:2.5.1.129 > GO:flavin prenyltransferase activity ; GO:0106141
 EC:2.5.1.141 > GO:protoheme IX farnesyltransferase activity ; GO:0008495
@@ -2583,7 +2583,7 @@ EC:2.5.1.28 > GO:dimethylallylcistransferase activity ; GO:0047863
 EC:2.5.1.29 > GO:farnesyltranstransferase activity ; GO:0004311
 EC:2.5.1.3 > GO:thiamine-phosphate diphosphorylase activity ; GO:0004789
 EC:2.5.1.30 > GO:trans-hexaprenyltranstransferase activity ; GO:0000010
-EC:2.5.1.31 > GO:di-trans,poly-cis-decaprenylcistransferase activity ; GO:0008834
+EC:2.5.1.31 > GO:di-trans,poly-cis-undecaprenyl-diphosphate synthase activity ; GO:0008834
 EC:2.5.1.32 > GO:geranylgeranyl-diphosphate geranylgeranyltransferase activity ; GO:0016767
 EC:2.5.1.34 > GO:tryptophan dimethylallyltransferase activity ; GO:0050364
 EC:2.5.1.35 > GO:aspulvinone dimethylallyltransferase activity ; GO:0047691
@@ -2789,7 +2789,7 @@ EC:2.7.1.160 > GO:tRNA 2'-phosphotransferase activity ; GO:0000215
 EC:2.7.1.164 > GO:L-seryl-tRNA(Sec) kinase activity ; GO:0043915
 EC:2.7.1.165 > GO:glycerate 2-kinase activity ; GO:0043798
 EC:2.7.1.167 > GO:heptose 7-phosphate kinase activity ; GO:0033785
-EC:2.7.1.17 > GO:xylulokinase activity ; GO:0004856
+EC:2.7.1.17 > GO:D-xylulokinase activity ; GO:0004856
 EC:2.7.1.171 > GO:protein-fructosamine 3-kinase activity ; GO:0102194
 EC:2.7.1.172 > GO:protein-ribulosamine 3-kinase activity ; GO:0102193
 EC:2.7.1.174 > GO:CTP-dependent diacylglycerol kinase activity ; GO:0141035
@@ -4875,7 +4875,7 @@ EC:5.4.99.- > GO:o-hydroxylaminobenzoate mutase activity ; GO:0034951
 EC:5.4.99.- > GO:beta-amyrin synthase activity ; GO:0042300
 EC:5.4.99.1 > GO:methylaspartate mutase activity ; GO:0050097
 EC:5.4.99.11 > GO:isomaltulose synthase activity ; GO:0050006
-EC:5.4.99.12 > GO:tRNA pseudouridine synthase activity ; GO:0106029
+EC:5.4.99.12 > GO:tRNA pseudouridine(38-40) synthase activity ; GO:0160147
 EC:5.4.99.13 > GO:isobutyryl-CoA mutase activity ; GO:0047727
 EC:5.4.99.14 > GO:4-carboxymethyl-4-methylbutenolide mutase activity ; GO:0047469
 EC:5.4.99.15 > GO:(1,4)-alpha-D-glucan 1-alpha-D-glucosylmutase activity ; GO:0047470
@@ -4889,20 +4889,20 @@ EC:5.4.99.21 > GO:23S rRNA pseudouridine(2604) synthase activity ; GO:0160138
 EC:5.4.99.22 > GO:23S rRNA pseudouridine(2605) synthase activity ; GO:0160139
 EC:5.4.99.23 > GO:23S rRNA pseudouridine(1911/1915/1917) synthase activity ; GO:0160140
 EC:5.4.99.24 > GO:23S rRNA pseudouridine(955/2504/2580) synthase activity ; GO:0160141
-EC:5.4.99.25 > GO:tRNA pseudouridine synthase activity ; GO:0106029
-EC:5.4.99.26 > GO:tRNA pseudouridine synthase activity ; GO:0106029
-EC:5.4.99.27 > GO:tRNA pseudouridine synthase activity ; GO:0106029
-EC:5.4.99.28 > GO:tRNA pseudouridine synthase activity ; GO:0106029
+EC:5.4.99.25 > GO:tRNA pseudouridine(55) synthase activity ; GO:0160148
+EC:5.4.99.26 > GO:tRNA pseudouridine(65) synthase activity ; GO:0160149
+EC:5.4.99.27 > GO:tRNA pseudouridine(13) synthase activity ; GO:0160150
+EC:5.4.99.28 > GO:tRNA pseudouridine(32) synthase activity ; GO:0160151
 EC:5.4.99.29 > GO:23S rRNA pseudouridine(746) synthase activity ; GO:0160142
 EC:5.4.99.3 > GO:2-acetolactate mutase activity ; GO:0047534
 EC:5.4.99.30 > GO:UDP-arabinopyranose mutase activity ; GO:0052691
 EC:5.4.99.31 > GO:thalianol synthase activity ; GO:0051746
 EC:5.4.99.4 > GO:2-methyleneglutarate mutase activity ; GO:0047548
 EC:5.4.99.41 > GO:lupeol synthase activity ; GO:0042299
-EC:5.4.99.42 > GO:tRNA pseudouridine synthase activity ; GO:0106029
+EC:5.4.99.42 > GO:tRNA pseudouridine(31) synthase activity ; GO:0160152
 EC:5.4.99.43 > GO:21S rRNA pseudouridine(2819) synthase activity ; GO:0160143
-EC:5.4.99.44 > GO:tRNA pseudouridine synthase activity ; GO:0106029
-EC:5.4.99.45 > GO:tRNA pseudouridine synthase activity ; GO:0106029
+EC:5.4.99.44 > GO:mitochondrial tRNA pseudouridine(27/28) synthase activity ; GO:0160153
+EC:5.4.99.45 > GO:tRNA pseudouridine(38/39) synthase activity ; GO:0160154
 EC:5.4.99.5 > GO:chorismate mutase activity ; GO:0004106
 EC:5.4.99.57 > GO:baruol synthase activity ; GO:0080011
 EC:5.4.99.60 > GO:cobalt-precorrin-8 methylmutase activity ; GO:0043778

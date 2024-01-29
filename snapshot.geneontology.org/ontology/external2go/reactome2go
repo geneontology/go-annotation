@@ -1,4 +1,4 @@
-! Generated on 2024-01-13T04:00Z from the ontology 'go' with data version: 'releases/2024-01-12'
+! Generated on 2024-01-28T09:09Z from the ontology 'go' with data version: 'releases/2024-01-28'
 !
 Reactome:R-HSA-1008248 > GO:nucleoside triphosphate adenylate kinase activity ; GO:0046899
 Reactome:R-HSA-1013012 > GO:G protein-coupled GABA receptor activity ; GO:0004965
@@ -1863,7 +1863,7 @@ Reactome:R-HSA-2514790 > GO:metalloendopeptidase activity ; GO:0004222
 Reactome:R-HSA-2514823 > GO:serine-type endopeptidase activity ; GO:0004252
 Reactome:R-HSA-2514831 > GO:metalloendopeptidase activity ; GO:0004222
 Reactome:R-HSA-2514854 > GO:cyclin-dependent protein serine/threonine kinase activity ; GO:0004693
-Reactome:R-HSA-2514867 > GO:intracellular cyclic nucleotide-activated monoatomic cation channel activity ; GO:0005221
+Reactome:R-HSA-2514867 > GO:intracellularly cyclic nucleotide-activated monoatomic cation channel activity ; GO:0005221
 Reactome:R-HSA-2514891 > GO:calcium, potassium:sodium antiporter activity ; GO:0008273
 Reactome:R-HSA-2529015 > GO:phosphoprotein phosphatase activity ; GO:0004721
 Reactome:R-HSA-2529020 > GO:protein serine/threonine kinase activity ; GO:0004674
@@ -3533,7 +3533,7 @@ Reactome:R-HSA-5661240 > GO:L-xylulose reductase (NADP+) activity ; GO:0050038
 Reactome:R-HSA-5661256 > GO:L-glucuronate reductase activity ; GO:0047939
 Reactome:R-HSA-5661290 > GO:L-gulonate 3-dehydrogenase activity ; GO:0050104
 Reactome:R-HSA-5661474 > GO:structural constituent of nuclear pore ; GO:0017056
-Reactome:R-HSA-5662466 > GO:xylulokinase activity ; GO:0004856
+Reactome:R-HSA-5662466 > GO:D-xylulokinase activity ; GO:0004856
 Reactome:R-HSA-5662471 > GO:D-xylulose reductase activity ; GO:0046526
 Reactome:R-HSA-5662473 > GO:dehydro-L-gulonate decarboxylase activity ; GO:0047842
 Reactome:R-HSA-5662660 > GO:oxidoreductase activity ; GO:0016491
@@ -5840,7 +5840,7 @@ Reactome:R-HSA-9712183 > GO:adenylate cyclase activity ; GO:0004016
 Reactome:R-HSA-9712190 > GO:monoatomic cation channel activity ; GO:0005261
 Reactome:R-HSA-9712204 > GO:chloride channel activity ; GO:0005254
 Reactome:R-HSA-9717205 > GO:phosphatidylinositol phospholipase C activity ; GO:0004435
-Reactome:R-HSA-9717215 > GO:calcium-release channel activity ; GO:0015278
+Reactome:R-HSA-9717215 > GO:intracellularly gated calcium channel activity ; GO:0015278
 Reactome:R-HSA-9717374 > GO:sodium channel activity ; GO:0005272
 Reactome:R-HSA-9717382 > GO:sodium channel activity ; GO:0005272
 Reactome:R-HSA-9717383 > GO:calcium-activated cation channel activity ; GO:0005227

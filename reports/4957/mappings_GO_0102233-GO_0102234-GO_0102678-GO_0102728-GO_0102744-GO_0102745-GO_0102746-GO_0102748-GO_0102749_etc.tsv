@@ -1,0 +1,19 @@
+term	file	line
+GO:0102233	metacyc2go	MetaCyc:RXN-12292 > GO:crotonaldehyde redutase activity ; GO:0102233
+GO:0102234	metacyc2go	MetaCyc:RXN-12293 > GO:but-1-en-3-one reductase activity ; GO:0102234
+GO:0102678	metacyc2go	MetaCyc:RXN-4229 > GO:22-alpha-hydroxy-campest-4-en-3-one,NADPH:steroid 5alpha-reductase activity ; GO:0102678
+GO:0102728	rhea2go	RHEA:54416 > GO:campest-4-en-3-one,NADPH:steroid 5alpha-reductase activity ; GO:0102728
+GO:0102728	metacyc2go	MetaCyc:RXN-711 > GO:campest-4-en-3-one,NADPH:steroid 5alpha-reductase activity ; GO:0102728
+GO:0102744	metacyc2go	MetaCyc:RXN-7658 > GO:all-trans-geranyl-geranyl diphosphate reductase activity ; GO:0102744
+GO:0102745	metacyc2go	MetaCyc:RXN-7659 > GO:dihydrogeranylgeranyl-PP reductase activity ; GO:0102745
+GO:0102746	metacyc2go	MetaCyc:RXN-7660 > GO:tetrahydrogeranylgeranyl-PP reductase activity ; GO:0102746
+GO:0102748	metacyc2go	MetaCyc:RXN-7664 > GO:geranylgeranyl-chlorophyll a reductase activity ; GO:0102748
+GO:0102749	metacyc2go	MetaCyc:RXN-7665 > GO:dihydrogeranylgeranyl-chlorophyll a reductase activity ; GO:0102749
+GO:0102750	metacyc2go	MetaCyc:RXN-7666 > GO:tetrahydrogeranylgeranyl-chlorophyll a reductase activity ; GO:0102750
+GO:0102868	metacyc2go	MetaCyc:RXN-8352 > GO:24-epi-campsterol desaturase activity ; GO:0102868
+GO:0102932	metacyc2go	MetaCyc:RXN-8936 > GO:pterocarpan reductase activity ; GO:0102932
+GO:0102979	rhea2go	RHEA:53944 > GO:homofuraneol oxidoreductase activity ; GO:0102979
+GO:0102979	metacyc2go	MetaCyc:RXN-9564 > GO:homofuraneol oxidoreductase activity ; GO:0102979
+GO:0102980	metacyc2go	MetaCyc:RXN-9565 > GO:2-butyl-4-hydroxy-5-methyl-3(2H)-furanoneoxidoreductase activity ; GO:0102980
+GO:0102981	metacyc2go	MetaCyc:RXN-9567 > GO:4-hydroxy-5-methyl-2-propyl-3(2H)-furanone oxidoreductase activity ; GO:0102981
+GO:0102997	metacyc2go	MetaCyc:RXN-9726 > GO:progesterone 5beta- reductase activity ; GO:0102997

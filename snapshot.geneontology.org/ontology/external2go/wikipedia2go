@@ -1,4 +1,4 @@
-! Generated on 2024-01-13T04:00Z from the ontology 'go' with data version: 'releases/2024-01-12'
+! Generated on 2024-01-28T09:09Z from the ontology 'go' with data version: 'releases/2024-01-28'
 !
 Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase [NAD(P)] activity ; GO:0003845
 Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase (NAD+) activity ; GO:0070523
@@ -181,7 +181,6 @@ Wikipedia:Cytoskeleton > GO:cytoskeleton ; GO:0005856
 Wikipedia:Cytosol > GO:cytosol ; GO:0005829
 Wikipedia:Cytostome > GO:cytostome ; GO:0031910
 Wikipedia:DNA_damage_checkpoint > GO:DNA damage checkpoint signaling ; GO:0000077
-Wikipedia:DNA_methylation > GO:DNA methylation ; GO:0006306
 Wikipedia:DNA_mismatch_repair > GO:mismatch repair ; GO:0006298
 Wikipedia:DNA_repair > GO:DNA repair ; GO:0006281
 Wikipedia:DNA_repair > GO:site of DNA damage ; GO:0090734
@@ -535,7 +534,6 @@ Wikipedia:Platelet_alpha-granule > GO:platelet alpha granule ; GO:0031091
 Wikipedia:Podocyte > GO:podocyte foot ; GO:0098846
 Wikipedia:Podosome > GO:podosome ; GO:0002102
 Wikipedia:Pollination > GO:pollination ; GO:0009856
-Wikipedia:Polysome > GO:polysome ; GO:0005844
 Wikipedia:Polytene_chromosome > GO:polytene chromosome ; GO:0005700
 Wikipedia:Porin_(protein) > GO:porin activity ; GO:0015288
 Wikipedia:Porosome > GO:porosome ; GO:0033012

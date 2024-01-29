@@ -1,4 +1,4 @@
-! Generated on 2024-01-13T04:00Z from the ontology 'go' with data version: 'releases/2024-01-12'
+! Generated on 2024-01-28T09:09Z from the ontology 'go' with data version: 'releases/2024-01-28'
 !
 KEGG_REACTION:R00004 > GO:inorganic diphosphate phosphatase activity ; GO:0004427
 KEGG_REACTION:R00005 > GO:allophanate hydrolase activity ; GO:0004039
@@ -493,7 +493,7 @@ KEGG_REACTION:R01628 > GO:3-hydroxybenzoate 4-monooxygenase activity ; GO:001866
 KEGG_REACTION:R01633 > GO:(3S,4R)-3,4-dihydroxycyclohexa-1,5-diene-1,4-dicarboxylate dehydrogenase activity ; GO:0047120
 KEGG_REACTION:R01634 > GO:3,4-dihydroxyphthalate decarboxylase activity ; GO:0047556
 KEGG_REACTION:R01636 > GO:4-sulfobenzoate 3,4-dioxygenase activity ; GO:0018621
-KEGG_REACTION:R01639 > GO:xylulokinase activity ; GO:0004856
+KEGG_REACTION:R01639 > GO:D-xylulokinase activity ; GO:0004856
 KEGG_REACTION:R01644 > GO:4-hydroxybutyrate dehydrogenase activity ; GO:0047577
 KEGG_REACTION:R01659 > GO:dimethylallylcistransferase activity ; GO:0047863
 KEGG_REACTION:R01660 > GO:glucose-1,6-bisphosphate synthase activity ; GO:0047933
