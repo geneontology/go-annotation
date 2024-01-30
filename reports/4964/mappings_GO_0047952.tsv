@@ -1,0 +1,16 @@
+term	file	line
+GO:0047952	unirule2go	UniRule:UR000080073 > GO:glycerol-3-phosphate dehydrogenase [NAD(P)+] activity ; GO:0047952
+GO:0047952	unirule2go	UniRule:UR000085065 > GO:glycerol-3-phosphate dehydrogenase [NAD(P)+] activity ; GO:0047952
+GO:0047952	reactome2go	Reactome:R-HSA-75889 > GO:glycerol-3-phosphate dehydrogenase [NAD(P)+] activity ; GO:0047952
+GO:0047952	rhea2go	RHEA:11092 > GO:glycerol-3-phosphate dehydrogenase [NAD(P)+] activity ; GO:0047952
+GO:0047952	rhea2go	RHEA:11096 > GO:glycerol-3-phosphate dehydrogenase [NAD(P)+] activity ; GO:0047952
+GO:0047952	kegg_reaction2go	KEGG_REACTION:R00842 > GO:glycerol-3-phosphate dehydrogenase [NAD(P)+] activity ; GO:0047952
+GO:0047952	kegg_reaction2go	KEGG_REACTION:R00844 > GO:glycerol-3-phosphate dehydrogenase [NAD(P)+] activity ; GO:0047952
+GO:0047952	interpro2go	InterPro:IPR006109 Glycerol-3-phosphate dehydrogenase, NAD-dependent, C-terminal > GO:glycerol-3-phosphate dehydrogenase [NAD(P)+] activity ; GO:0047952
+GO:0047952	interpro2go	InterPro:IPR006168 Glycerol-3-phosphate dehydrogenase, NAD-dependent > GO:glycerol-3-phosphate dehydrogenase [NAD(P)+] activity ; GO:0047952
+GO:0047952	interpro2go	InterPro:IPR017751 Glycerol-3-phosphate dehydrogenase, NAD-dependent, eukaryotic > GO:glycerol-3-phosphate dehydrogenase [NAD(P)+] activity ; GO:0047952
+GO:0047952	hamap2go	HAMAP:MF_00394 > GO:glycerol-3-phosphate dehydrogenase [NAD(P)+] activity ; GO:0047952
+GO:0047952	ec2go	EC:1.1.1.8 > GO:glycerol-3-phosphate dehydrogenase [NAD(P)+] activity ; GO:0047952
+GO:0047952	ec2go	EC:1.1.1.94 > GO:glycerol-3-phosphate dehydrogenase [NAD(P)+] activity ; GO:0047952
+GO:0047952	metacyc2go	MetaCyc:1.1.1.8-RXN > GO:glycerol-3-phosphate dehydrogenase [NAD(P)+] activity ; GO:0047952
+GO:0047952	metacyc2go	MetaCyc:GLYC3PDEHYDROGBIOSYN-RXN > GO:glycerol-3-phosphate dehydrogenase [NAD(P)+] activity ; GO:0047952

@@ -1,0 +1,20 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AspGD	UniProtKB:C8VTT9	ANIA_00351	PMID:11123696		GO:0047952	glycerol-3-phosphate dehydrogenase [NAD(P)+] activity	IGI	SGD:S000002180		PANTHER:PTHR11728	20091218		NCBITaxon:227321
+AspGD	UniProtKB:C8VTT9	ANIA_00351	PMID:11123696		GO:0047952	glycerol-3-phosphate dehydrogenase [NAD(P)+] activity	IMP			PANTHER:PTHR11728	20091218		NCBITaxon:227321
+EcoCyc	UniProtKB:P0A6S7	gpsA	PMID:28326		GO:0047952	glycerol-3-phosphate dehydrogenase [NAD(P)+] activity	IDA			PANTHER:PTHR11728	20170113		NCBITaxon:83333
+EcoCyc	UniProtKB:P0A6S7	gpsA	PMID:355254		GO:0047952	glycerol-3-phosphate dehydrogenase [NAD(P)+] activity	IDA			PANTHER:PTHR11728	20110906		NCBITaxon:83333
+EcoliWiki	UniProtKB:P0A6S7	gpsA	PMID:4597451		GO:0047952	glycerol-3-phosphate dehydrogenase [NAD(P)+] activity	IMP			PANTHER:PTHR11728	20110910		NCBITaxon:83333
+FlyBase	FB:FBgn0001128	Gpdh1	PMID:109448|FB:FBrf0033426		GO:0047952	glycerol-3-phosphate dehydrogenase [NAD(P)+] activity	IDA			PANTHER:PTHR11728	20180205		NCBITaxon:7227
+MGI	MGI:MGI:95680	Gdc2	MGI:MGI:52941		GO:0047952	glycerol-3-phosphate dehydrogenase [NAD(P)+] activity	IDA				20021220		NCBITaxon:10090
+MGI	MGI:MGI:95679	Gpd1	PMID:11147825		GO:0047952	glycerol-3-phosphate dehydrogenase [NAD(P)+] activity	IDA			PANTHER:PTHR11728	20131217	EMAPA:32716	NCBITaxon:10090
+MGI	MGI:MGI:95679	Gpd1	PMID:11147825		GO:0047952	glycerol-3-phosphate dehydrogenase [NAD(P)+] activity	IDA			PANTHER:PTHR11728	20131217	EMAPA:17373	NCBITaxon:10090
+MGI	MGI:MGI:95679	Gpd1	PMID:11147825		GO:0047952	glycerol-3-phosphate dehydrogenase [NAD(P)+] activity	IDA			PANTHER:PTHR11728	20131217	EMAPA:16846	NCBITaxon:10090
+MGI	MGI:MGI:95679	Gpd1	PMID:6105153		GO:0047952	glycerol-3-phosphate dehydrogenase [NAD(P)+] activity	IDA			PANTHER:PTHR11728	20230721		NCBITaxon:10090
+MGI	MGI:MGI:95679	Gpd1	PMID:6105153		GO:0047952	glycerol-3-phosphate dehydrogenase [NAD(P)+] activity	IDA			PANTHER:PTHR11728	20131217		NCBITaxon:10090
+PomBase	PomBase:SPBC215.05	gpd1	PMID:8825100		GO:0047952	glycerol-3-phosphate dehydrogenase [NAD(P)+] activity	IMP			PANTHER:PTHR11728	20050715		NCBITaxon:4896
+RGD	RGD:2726	Gpd2	PMID:12351438|RGD:2303499		GO:0047952	glycerol-3-phosphate dehydrogenase [NAD(P)+] activity	IDA			PANTHER:PTHR11985	20090216		NCBITaxon:10116
+RGD	RGD:621381	Gpd1	PMID:12351438|RGD:2303499		GO:0047952	glycerol-3-phosphate dehydrogenase [NAD(P)+] activity	IDA			PANTHER:PTHR11728	20090216		NCBITaxon:10116
+RGD	RGD:621381	Gpd1	PMID:9550546|RGD:1641824		GO:0047952	glycerol-3-phosphate dehydrogenase [NAD(P)+] activity	IDA			PANTHER:PTHR11728	20070823		NCBITaxon:10116
+SGD	SGD:S000002180	GPD1	PMID:8196651		GO:0047952	glycerol-3-phosphate dehydrogenase [NAD(P)+] activity	IMP		UniProtKB:Q00055	PANTHER:PTHR11728	20010118		NCBITaxon:559292
+SGD	SGD:S000005420	GPD2	PMID:9171333		GO:0047952	glycerol-3-phosphate dehydrogenase [NAD(P)+] activity	IMP		UniProtKB:P41911	PANTHER:PTHR11728	20020723		NCBITaxon:559292
+UniProt	UniProtKB:P46919	gpsA	PMID:7592341		GO:0047952	glycerol-3-phosphate dehydrogenase [NAD(P)+] activity	IDA			PANTHER:PTHR11728	20130702		NCBITaxon:224308
