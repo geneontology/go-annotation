@@ -1,0 +1,4 @@
+term	file	line
+GO:0044876	rhea2go	RHEA:42680 > GO:hercynylselenocysteine synthase ; GO:0044876
+GO:0044876	metacyc2go	MetaCyc:RXN-15803 > GO:hercynylselenocysteine synthase ; GO:0044876
+GO:1990412	rhea2go	RHEA:42696 > GO:hercynylselenocysteine lyase activity (selenoneine-forming) ; GO:1990412
