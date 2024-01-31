@@ -1,0 +1,16 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+GeneDB	UniProtKB:Q8MYK1	RLI	PMID:14668021		GO:0000291	nuclear-transcribed mRNA catabolic process, exonucleolytic	IDA				20090731		NCBITaxon:5691
+GeneDB	TriTrypDB:Tb927.10.1630	ABCE1	PMID:14668021		GO:0000291	nuclear-transcribed mRNA catabolic process, exonucleolytic	IDA				20090731		NCBITaxon:185431
+SGD	SGD:S000002812	RPB7	PMID:17875743		GO:0000291	nuclear-transcribed mRNA catabolic process, exonucleolytic	IGI	SGD:S000003141	UniProtKB:P34087	PANTHER:PTHR12709	20080331		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT1G54490	XRN4	PMID:15528448|TAIR:Publication:501722643		GO:0000291	nuclear-transcribed mRNA catabolic process, exonucleolytic	IMP		TAIR:locus:2020073		20080225		NCBITaxon:3702
+UniProt	PomBase:SPAC2C4.07c	dis32	PMID:23503588		GO:0000291	nuclear-transcribed mRNA catabolic process, exonucleolytic	IMP			PANTHER:PTHR23355	20130618		NCBITaxon:4896
+UniProt	UniProtKB:Q8IYB7	DIS3L2	PMID:23756462		GO:0000291	nuclear-transcribed mRNA catabolic process, exonucleolytic	IMP			PANTHER:PTHR23355	20130618		NCBITaxon:9606
+FlyBase	FB:FBgn0020261	pcm	PMID:17545151|FB:FBrf0201629		GO:0034428	nuclear-transcribed mRNA catabolic process, exonucleolytic, 5'-3'	IMP			PANTHER:PTHR12341	20080904		NCBITaxon:7227
+PomBase	PomBase:SPBC3B9.21	dcp1	PMID:15671491		GO:0034428	nuclear-transcribed mRNA catabolic process, exonucleolytic, 5'-3'	IMP				20141030		NCBITaxon:4896
+UniProt	UniProtKB:Q06265	EXOSC9	PMID:11782436		GO:0043928	exonucleolytic catabolism of deadenylated mRNA	IMP			PANTHER:PTHR11097	20110317		NCBITaxon:9606
+UniProt	UniProtKB:Q9NQT4	EXOSC5	PMID:11782436		GO:0043928	exonucleolytic catabolism of deadenylated mRNA	IMP			PANTHER:PTHR11953	20110317		NCBITaxon:9606
+UniProt	UniProtKB:Q9NQT5	EXOSC3	PMID:11782436		GO:0043928	exonucleolytic catabolism of deadenylated mRNA	IMP			PANTHER:PTHR21321	20110317		NCBITaxon:9606
+UniProt	UniProtKB:Q9ULM6	CNOT6	PMID:20065043		GO:0043928	exonucleolytic catabolism of deadenylated mRNA	IDA			PANTHER:PTHR12121	20130315		NCBITaxon:9606
+UniProt	UniProtKB:Q9UIV1	CNOT7	PMID:20065043		GO:0043928	exonucleolytic catabolism of deadenylated mRNA	IDA			PANTHER:PTHR10797	20130315		NCBITaxon:9606
+UniProt	UniProtKB:Q9UFF9	CNOT8	PMID:20065043		GO:0043928	exonucleolytic catabolism of deadenylated mRNA	IDA			PANTHER:PTHR10797	20130315		NCBITaxon:9606
+UniProt	UniProtKB:Q9UIV1	CNOT7	PMID:21336257		GO:0043928	exonucleolytic catabolism of deadenylated mRNA	IDA			PANTHER:PTHR10797	20131104		NCBITaxon:9606

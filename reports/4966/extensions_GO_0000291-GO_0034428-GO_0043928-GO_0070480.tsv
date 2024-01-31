@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPCC31H12.08c	ccr4	PMID:30601114	contributes_to	GO:0000175	3'-5'-RNA exonuclease activity	IDA			PANTHER:PTHR12121	20190111	GO:0043928	NCBITaxon:4896
+PomBase	PomBase:SPCC18.06c	caf1	PMID:30601114	contributes_to	GO:0000175	3'-5'-RNA exonuclease activity	IDA			PANTHER:PTHR10797	20190111	GO:0043928	NCBITaxon:4896
