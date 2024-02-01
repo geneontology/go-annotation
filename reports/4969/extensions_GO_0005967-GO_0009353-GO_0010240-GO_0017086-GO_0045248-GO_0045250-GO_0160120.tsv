@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+SGD	SGD:S000001304	PKP1	PMID:16643908		GO:0065003	protein-containing complex assembly	IMP		UniProtKB:P40530	PANTHER:PTHR11947	20170601	GO:0005967	NCBITaxon:559292

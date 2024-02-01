@@ -1,0 +1,28 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ComplexPortal	UniProtKB:P09622	DLD	PMID:19240034		GO:0005967	mitochondrial pyruvate dehydrogenase complex	IPI			PANTHER:PTHR22912	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:O00330	PDHX	PMID:19240034		GO:0005967	mitochondrial pyruvate dehydrogenase complex	IPI			PANTHER:PTHR23151	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:P11177	PDHB	PMID:19240034		GO:0005967	mitochondrial pyruvate dehydrogenase complex	IPI			PANTHER:PTHR11624	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:P10515	DLAT	PMID:19240034		GO:0005967	mitochondrial pyruvate dehydrogenase complex	IPI			PANTHER:PTHR23151	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:P08559	PDHA1	PMID:19240034		GO:0005967	mitochondrial pyruvate dehydrogenase complex	IPI			PANTHER:PTHR11516	20210712		NCBITaxon:9606
+MGI	MGI:MGI:107450	Dld	PMID:9405644		GO:0005967	mitochondrial pyruvate dehydrogenase complex	IMP	MGI:MGI:2182403		PANTHER:PTHR22912	20221013	GO:0004148|GO:0034604	NCBITaxon:10090
+SGD	SGD:S000001876	LPD1	PMID:12756305		GO:0005967	mitochondrial pyruvate dehydrogenase complex	IDA		UniProtKB:P09624	PANTHER:PTHR22912	20140819		NCBITaxon:559292
+SGD	SGD:S000005015	LAT1	PMID:2007123		GO:0005967	mitochondrial pyruvate dehydrogenase complex	IDA		UniProtKB:P12695	PANTHER:PTHR23151	20100518		NCBITaxon:559292
+SGD	SGD:S000000980	PDA1	PMID:2007123		GO:0005967	mitochondrial pyruvate dehydrogenase complex	IDA		UniProtKB:P16387	PANTHER:PTHR11516	20100518		NCBITaxon:559292
+SGD	SGD:S000003425	PDX1	PMID:2007123		GO:0005967	mitochondrial pyruvate dehydrogenase complex	IDA		UniProtKB:P16451	PANTHER:PTHR23151	20100518		NCBITaxon:559292
+SGD	SGD:S000000425	PDB1	PMID:2007123		GO:0005967	mitochondrial pyruvate dehydrogenase complex	IDA		UniProtKB:P32473	PANTHER:PTHR11624	20100518		NCBITaxon:559292
+SGD	SGD:S000003425	PDX1	PMID:7947791		GO:0005967	mitochondrial pyruvate dehydrogenase complex	IDA		UniProtKB:P16451	PANTHER:PTHR23151	20100518		NCBITaxon:559292
+SGD	SGD:S000003425	PDX1	PMID:7947791		GO:0005967	mitochondrial pyruvate dehydrogenase complex	IPI	SGD:S000005015	UniProtKB:P16451	PANTHER:PTHR23151	20100518		NCBITaxon:559292
+SGD	SGD:S000005015	LAT1	PMID:9038189		GO:0005967	mitochondrial pyruvate dehydrogenase complex	IDA		UniProtKB:P12695	PANTHER:PTHR23151	20100312		NCBITaxon:559292
+UniProt	MGI:MGI:1343087	Pdk2	PMID:21190881|MGI:MGI:4888421		GO:0005967	mitochondrial pyruvate dehydrogenase complex	IDA			PANTHER:PTHR11947	20130114		NCBITaxon:10090
+UniProt	MGI:MGI:1926119	Pdk1	PMID:22195962|MGI:MGI:5487511		GO:0005967	mitochondrial pyruvate dehydrogenase complex	IDA			PANTHER:PTHR11947	20121219		NCBITaxon:10090
+SGD	SGD:S000002555	KGD2	PMID:2072900		GO:0009353	mitochondrial oxoglutarate dehydrogenase complex	IDA		UniProtKB:P19262	PANTHER:PTHR43416	20041207		NCBITaxon:559292
+SGD	SGD:S000001876	LPD1	PMID:2072900		GO:0009353	mitochondrial oxoglutarate dehydrogenase complex	IDA		UniProtKB:P09624	PANTHER:PTHR22912	20041207		NCBITaxon:559292
+SGD	SGD:S000001387	KGD1	PMID:2072900		GO:0009353	mitochondrial oxoglutarate dehydrogenase complex	IDA		UniProtKB:P20967	PANTHER:PTHR23152	20041207		NCBITaxon:559292
+SGD	SGD:S000001945	KGD4	PMID:25165143		GO:0009353	mitochondrial oxoglutarate dehydrogenase complex	IDA		UniProtKB:P19955	PANTHER:PTHR31601	20150109		NCBITaxon:559292
+UniProt	MGI:MGI:1913378	Mrps36	PMID:25165143|MGI:MGI:6810699		GO:0009353	mitochondrial oxoglutarate dehydrogenase complex	IMP			PANTHER:PTHR31601	20210817		NCBITaxon:10090
+UniProt	UniProtKB:P82908	KGD4	PMID:36854377		GO:0009353	mitochondrial oxoglutarate dehydrogenase complex	IDA			PANTHER:PTHR31601	20231019		NCBITaxon:9913
+UniProt	MGI:MGI:1913378	Mrps36	PMID:36854377|MGI:MGI:7564183		GO:0009353	mitochondrial oxoglutarate dehydrogenase complex	IDA			PANTHER:PTHR31601	20231019		NCBITaxon:10090
+GeneDB	PlasmoDB:PF3D7_1232200	LPD1	PMID:15612914		GO:0017086	3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex	IDA				20090629		NCBITaxon:36329
+EcoCyc	UniProtKB:P0A9P0	lpdA	PMID:4964085		GO:0045248	cytosolic oxoglutarate dehydrogenase complex	IDA			PANTHER:PTHR22912	20210924		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AFG8	aceE	PMID:329143		GO:0045250	cytosolic pyruvate dehydrogenase complex	IDA			PANTHER:PTHR43825	20180112		NCBITaxon:83333
+EcoCyc	UniProtKB:P0A9P0	lpdA	PMID:329143		GO:0045250	cytosolic pyruvate dehydrogenase complex	IDA			PANTHER:PTHR22912	20180112		NCBITaxon:83333
