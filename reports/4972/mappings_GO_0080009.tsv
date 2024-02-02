@@ -1,0 +1,6 @@
+term	file	line
+GO:0080009	interpro2go	InterPro:IPR002588 Alphavirus-like methyltransferase domain > GO:mRNA methylation ; GO:0080009
+GO:0080009	interpro2go	InterPro:IPR033757 Pre-mRNA-splicing regulator WTAP > GO:mRNA methylation ; GO:0080009
+GO:0080009	interpro2go	InterPro:IPR040427 Fl(2)d-associated complex component > GO:mRNA methylation ; GO:0080009
+GO:0080009	unirule2go	UniRule:UR001478754 > GO:mRNA methylation ; GO:0080009
+GO:0080009	unirule2go	UniRule:UR001695789 > GO:mRNA methylation ; GO:0080009
