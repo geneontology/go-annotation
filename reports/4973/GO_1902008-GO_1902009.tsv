@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	AGI_LocusCode:AT3G59280	TXR1	PMID:12897252|TAIR:Publication:501710199		GO:1902009	positive regulation of toxin transport	IMP		TAIR:locus:2081152		20210331		NCBITaxon:3702
