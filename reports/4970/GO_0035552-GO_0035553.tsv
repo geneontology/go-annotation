@@ -1,0 +1,24 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:Q9C0B1	FTO	PMID:18775698		GO:0035552	oxidative single-stranded DNA demethylation	IDA			PANTHER:PTHR31291	20100517		NCBITaxon:9606
+BHF-UCL	MGI:MGI:1347093	Fto	PMID:18775698|MGI:MGI:3817348		GO:0035552	oxidative single-stranded DNA demethylation	IDA			PANTHER:PTHR31291	20100517		NCBITaxon:10090
+UniProt	UniProtKB:P05050	alkB	PMID:12594517		GO:0035552	oxidative single-stranded DNA demethylation	IDA			PANTHER:PTHR16557	20100525		NCBITaxon:83333
+UniProt	UniProtKB:Q96Q83	ALKBH3	PMID:16858410		GO:0035552	oxidative single-stranded DNA demethylation	IDA			PANTHER:PTHR31212	20100528		NCBITaxon:9606
+UniProt	UniProtKB:Q9C0B1	FTO	PMID:20376003		GO:0035552	oxidative single-stranded DNA demethylation	IDA			PANTHER:PTHR31291	20100604		NCBITaxon:9606
+UniProt	UniProtKB:Q96Q83	ALKBH3	PMID:22055184		GO:0035552	oxidative single-stranded DNA demethylation	IMP			PANTHER:PTHR31212	20120228		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9C0B1	FTO	PMID:18775698		GO:0035553	oxidative single-stranded RNA demethylation	IDA			PANTHER:PTHR31291	20100517		NCBITaxon:9606
+BHF-UCL	MGI:MGI:1347093	Fto	PMID:18775698|MGI:MGI:3817348		GO:0035553	oxidative single-stranded RNA demethylation	IDA			PANTHER:PTHR31291	20100517		NCBITaxon:10090
+UniProt	UniProtKB:P05050	alkB	PMID:12594517		GO:0035553	oxidative single-stranded RNA demethylation	IDA			PANTHER:PTHR16557	20100525		NCBITaxon:83333
+UniProt	UniProtKB:Q9C0B1	FTO	PMID:22002720		GO:0035553	oxidative single-stranded RNA demethylation	IDA			PANTHER:PTHR31291	20140113		NCBITaxon:9606
+UniProt	UniProtKB:Q6P6C2	ALKBH5	PMID:23177736		GO:0035553	oxidative single-stranded RNA demethylation	IDA			PANTHER:PTHR32074	20130118		NCBITaxon:9606
+UniProt	UniProtKB:Q6P6C2	ALKBH5	PMID:24616105		GO:0035553	oxidative single-stranded RNA demethylation	IDA			PANTHER:PTHR32074	20181030		NCBITaxon:9606
+UniProt	UniProtKB:Q9C0B1	FTO	PMID:25452335		GO:0035553	oxidative single-stranded RNA demethylation	IDA			PANTHER:PTHR31291	20181030		NCBITaxon:9606
+UniProt	UniProtKB:Q9C0B1	FTO	PMID:26457839		GO:0035553	oxidative single-stranded RNA demethylation	IDA			PANTHER:PTHR31291	20181030		NCBITaxon:9606
+UniProt	UniProtKB:Q9C0B1	FTO	PMID:26458103		GO:0035553	oxidative single-stranded RNA demethylation	IMP			PANTHER:PTHR31291	20160106		NCBITaxon:9606
+UniProt	UniProtKB:Q96Q83	ALKBH3	PMID:26863196		GO:0035553	oxidative single-stranded RNA demethylation	IDA			PANTHER:PTHR31212	20160331		NCBITaxon:9606
+UniProt	UniProtKB:Q96Q83	ALKBH3	PMID:26863410		GO:0035553	oxidative single-stranded RNA demethylation	IDA			PANTHER:PTHR31212	20160331		NCBITaxon:9606
+UniProt	UniProtKB:Q9C0B1	FTO	PMID:28002401		GO:0035553	oxidative single-stranded RNA demethylation	IDA			PANTHER:PTHR31291	20181030		NCBITaxon:9606
+UniProt	MGI:MGI:2144489	Alkbh5	PMID:29279410|MGI:MGI:6111276		GO:0035553	oxidative single-stranded RNA demethylation	IMP			PANTHER:PTHR32074	20181030		NCBITaxon:10090
+UniProt	UniProtKB:Q9C0B1	FTO	PMID:30197295		GO:0035553	oxidative single-stranded RNA demethylation	IDA			PANTHER:PTHR31291	20181030		NCBITaxon:9606
+UniProt	UniProtKB:Q6P6C2	ALKBH5	PMID:34048572		GO:0035553	oxidative single-stranded RNA demethylation	IDA			PANTHER:PTHR32074	20230908		NCBITaxon:9606
+UniProt	UniProtKB:Q96EV2	RBM33	PMID:37257451		GO:0035553	oxidative single-stranded RNA demethylation	IDA			PANTHER:PTHR22014	20230908		NCBITaxon:9606
+UniProt	UniProtKB:Q6P6C2	ALKBH5	PMID:37257451		GO:0035553	oxidative single-stranded RNA demethylation	IDA			PANTHER:PTHR32074	20230908		NCBITaxon:9606

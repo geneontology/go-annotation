@@ -1,0 +1,5 @@
+term	file	line
+GO:0035552	interpro2go	InterPro:IPR032854 Alkylated DNA repair protein alkB homologue 3 > GO:oxidative single-stranded DNA demethylation ; GO:0035552
+GO:0035552	interpro2go	InterPro:IPR032868 Alpha-ketoglutarate-dependent dioxygenase FTO > GO:oxidative single-stranded DNA demethylation ; GO:0035552
+GO:0035553	interpro2go	InterPro:IPR032860 RNA demethylase ALKBH5 > GO:oxidative single-stranded RNA demethylation ; GO:0035553
+GO:0035553	interpro2go	InterPro:IPR032868 Alpha-ketoglutarate-dependent dioxygenase FTO > GO:oxidative single-stranded RNA demethylation ; GO:0035553
