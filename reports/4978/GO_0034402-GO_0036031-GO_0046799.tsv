@@ -1,0 +1,9 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+SGD	SGD:S000002266	KIN28	PMID:10594013		GO:0034402	recruitment of 3'-end processing factors to RNA polymerase II holoenzyme complex	IMP		UniProtKB:P06242	PANTHER:PTHR24056	20230120		NCBITaxon:559292
+SGD	SGD:S000002266	KIN28	PMID:10594013		GO:0034402	recruitment of 3'-end processing factors to RNA polymerase II holoenzyme complex	IPI	SGD:S000000041	UniProtKB:P06242	PANTHER:PTHR24056	20230120		NCBITaxon:559292
+SGD	SGD:S000003676	RPB4	PMID:18195044		GO:0034402	recruitment of 3'-end processing factors to RNA polymerase II holoenzyme complex	IMP		UniProtKB:P20433	PANTHER:PTHR21297	20080414		NCBITaxon:559292
+SGD	SGD:S000003213	RTF1	PMID:18469135		GO:0034402	recruitment of 3'-end processing factors to RNA polymerase II holoenzyme complex	IMP		UniProtKB:P53064	PANTHER:PTHR13115	20111110		NCBITaxon:559292
+SGD	SGD:S000004410	CDC73	PMID:18469135		GO:0034402	recruitment of 3'-end processing factors to RNA polymerase II holoenzyme complex	IMP		UniProtKB:Q06697	PANTHER:PTHR12466	20111110		NCBITaxon:559292
+SGD	SGD:S000002266	KIN28	PMID:10594013		GO:0036031	recruitment of mRNA capping enzyme to RNA polymerase II holoenzyme complex	IMP		UniProtKB:P06242	PANTHER:PTHR24056	20230120		NCBITaxon:559292
+SGD	SGD:S000002266	KIN28	PMID:19666497		GO:0036031	recruitment of mRNA capping enzyme to RNA polymerase II holoenzyme complex	IMP		UniProtKB:P06242	PANTHER:PTHR24056	20230120		NCBITaxon:559292
+UniProt	UniProtKB:Q9BTL3	RAMAC	PMID:22099306		GO:0036031	recruitment of mRNA capping enzyme to RNA polymerase II holoenzyme complex	IDA			PANTHER:PTHR48168	20111125		NCBITaxon:9606
