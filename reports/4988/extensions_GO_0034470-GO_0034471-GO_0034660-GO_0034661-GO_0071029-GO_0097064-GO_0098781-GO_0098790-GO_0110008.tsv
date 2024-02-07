@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	UniProtKB:P10276	RARA	PMID:21131358		GO:0045944	positive regulation of transcription by RNA polymerase II	IDA			PANTHER:PTHR24082	20210108	GO:0098781|RNAcentral:URS00000AF93C_9606	NCBITaxon:9606
