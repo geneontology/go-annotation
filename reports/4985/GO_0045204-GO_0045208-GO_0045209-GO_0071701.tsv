@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:Q9BY84	DUSP16	PMID:11489891		GO:0045204	MAPK export from nucleus	IDA			PANTHER:PTHR10159	20210726	UniProtKB:P45983	NCBITaxon:9606
+UniProt	UniProtKB:Q8WUJ0	STYX	PMID:23847209		GO:0045204	MAPK export from nucleus	IMP			PANTHER:PTHR46588	20140606		NCBITaxon:9606
+SGD	SGD:S000004998	MSG5	PMID:12556475		GO:0071701	regulation of MAPK export from nucleus	IMP		UniProtKB:P38590	PANTHER:PTHR10159	20100304		NCBITaxon:559292
+SGD	SGD:S000001047	GPA1	PMID:12556475		GO:0071701	regulation of MAPK export from nucleus	IMP		UniProtKB:P08539	PANTHER:PTHR10218	20100304		NCBITaxon:559292
+SGD	SGD:S000004998	MSG5	PMID:17963515		GO:0071701	regulation of MAPK export from nucleus	IMP		UniProtKB:P38590	PANTHER:PTHR10159	20100304		NCBITaxon:559292
+UniProt	MGI:MGI:2443036	Dnajc27	PMID:24746703|MGI:MGI:5571536		GO:0071701	regulation of MAPK export from nucleus	IDA			PANTHER:PTHR24073	20140813		NCBITaxon:10090
