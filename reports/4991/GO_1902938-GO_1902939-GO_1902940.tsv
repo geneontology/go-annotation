@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	ComplexPortal:CPX-1134	abeta-42-oligomer_human	PMID:24012003		GO:1902938	regulation of intracellular calcium activated chloride channel activity	IGI	UniProtKB:P04156|UniProtKB:P41594			20170628		NCBITaxon:9606
+ARUK-UCL	UniProtKB:P41594	GRM5	PMID:24012003		GO:1902938	regulation of intracellular calcium activated chloride channel activity	IGI	ComplexPortal:CPX-1134|UniProtKB:P04156		PANTHER:PTHR24060	20170628		NCBITaxon:9606
+ARUK-UCL	UniProtKB:P04156	PRNP	PMID:24012003		GO:1902938	regulation of intracellular calcium activated chloride channel activity	IGI	ComplexPortal:CPX-1134|UniProtKB:P41594		PANTHER:PTHR15506	20170628		NCBITaxon:9606
+UniProt	UniProtKB:A1A5B4	ANO9	PMID:22946059		GO:1902939	negative regulation of intracellular calcium activated chloride channel activity	IDA			PANTHER:PTHR12308	20140428		NCBITaxon:9606
