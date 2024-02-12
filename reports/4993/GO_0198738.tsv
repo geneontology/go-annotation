@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ComplexPortal	ComplexPortal:CPX-4001	pkd1-pkd2_human	PMID:27214281		GO:0198738	cell-cell signaling by wnt	IDA				20190722		NCBITaxon:9606
+ComplexPortal	UniProtKB:P98161	PKD1	PMID:27214281		GO:0198738	cell-cell signaling by wnt	IDA			PANTHER:PTHR46730	20190722		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q13563	PKD2	PMID:27214281		GO:0198738	cell-cell signaling by wnt	IDA			PANTHER:PTHR10877	20190722		NCBITaxon:9606
+UniProt	UniProtKB:P98161	PKD1	PMID:27214281		GO:0198738	cell-cell signaling by wnt	IDA			PANTHER:PTHR46730	20181011		NCBITaxon:9606
+UniProt	UniProtKB:Q13563	PKD2	PMID:27214281		GO:0198738	cell-cell signaling by wnt	IDA			PANTHER:PTHR10877	20181011		NCBITaxon:9606
