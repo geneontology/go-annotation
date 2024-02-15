@@ -1,0 +1,8 @@
+term	file	line
+GO:0102148	ec2go	EC:3.2.1.52 > GO:N-acetyl-beta-D-galactosaminidase activity ; GO:0102148
+GO:0102166	rhea2go	RHEA:48892 > GO:[protein]-3-O-(N-acetyl-D-glucosaminyl)-L-threonine O-N-acetyl-alpha-D-glucosaminase activity ; GO:0102166
+GO:0102166	metacyc2go	MetaCyc:RXN-11891 > GO:[protein]-3-O-(N-acetyl-D-glucosaminyl)-L-threonine O-N-acetyl-alpha-D-glucosaminase activity ; GO:0102166
+GO:0102166	ec2go	EC:3.2.1.169 > GO:[protein]-3-O-(N-acetyl-D-glucosaminyl)-L-threonine O-N-acetyl-alpha-D-glucosaminase activity ; GO:0102166
+GO:0102167	rhea2go	RHEA:48876 > GO:[protein]-3-O-(N-acetyl-D-glucosaminyl)-L-serine O-N-acetyl-alpha-D-glucosaminase activity ; GO:0102167
+GO:0102167	metacyc2go	MetaCyc:RXN-11892 > GO:[protein]-3-O-(N-acetyl-D-glucosaminyl)-L-serine O-N-acetyl-alpha-D-glucosaminase activity ; GO:0102167
+GO:0102167	ec2go	EC:3.2.1.169 > GO:[protein]-3-O-(N-acetyl-D-glucosaminyl)-L-serine O-N-acetyl-alpha-D-glucosaminase activity ; GO:0102167

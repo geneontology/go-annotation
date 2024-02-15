@@ -1,0 +1,20 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AgBase	UniProtKB:P0C7A1	ENGASE	PMID:16721662		GO:0016231	beta-N-acetylglucosaminidase activity	IDA			PANTHER:PTHR13246	20110617		NCBITaxon:9031
+AgBase	UniProtKB:P00698	LYZ	PMID:16721662		GO:0016231	beta-N-acetylglucosaminidase activity	IDA			PANTHER:PTHR11407	20110617		NCBITaxon:9031
+AspGD	UniProtKB:G5EB27	ANIA_01502	PMID:12450128		GO:0016231	beta-N-acetylglucosaminidase activity	IMP			PANTHER:PTHR22600	20090831		NCBITaxon:227321
+AspGD	UniProtKB:Q2URY6	AO090005000639	PMID:12723619		GO:0016231	beta-N-acetylglucosaminidase activity	IDA				20111130		NCBITaxon:510516
+CACAO	UniProtKB:D9ISE0	D9ISE0	PMID:20920218		GO:0016231	beta-N-acetylglucosaminidase activity	IDA				20141103		NCBITaxon:669
+EcoCyc	UniProtKB:P75949	nagZ	PMID:10978324		GO:0016231	beta-N-acetylglucosaminidase activity	IDA			PANTHER:PTHR30480	20220118		NCBITaxon:83333
+FlyBase	FB:FBgn0045063	fdl	PMID:16339150|FB:FBrf0190894		GO:0016231	beta-N-acetylglucosaminidase activity	IDA			PANTHER:PTHR22600	20070523		NCBITaxon:7227
+FlyBase	FB:FBgn0041629	Hexo2	PMID:16339150|FB:FBrf0190894		GO:0016231	beta-N-acetylglucosaminidase activity	IDA			PANTHER:PTHR22600	20070523		NCBITaxon:7227
+FlyBase	FB:FBgn0041630	Hexo1	PMID:16339150|FB:FBrf0190894		GO:0016231	beta-N-acetylglucosaminidase activity	IDA			PANTHER:PTHR22600	20070523		NCBITaxon:7227
+FlyBase	FB:FBgn0004609	NaDg	PMID:1834255|FB:FBrf0053181		GO:0016231	beta-N-acetylglucosaminidase activity	IDA				20060803		NCBITaxon:7227
+GR	UniProtKB:P25765	Cht12	PMID:2034221		GO:0016231	beta-N-acetylglucosaminidase activity	IDA			PANTHER:PTHR22595	20060831		NCBITaxon:39947
+RGD	RGD:1307607	Hexb	PMID:1397486|RGD:1599434		GO:0016231	beta-N-acetylglucosaminidase activity	IDA			PANTHER:PTHR22600	20070202		NCBITaxon:10116
+RGD	RGD:621077	Oga	PMID:19004814|RGD:8693604		GO:0016231	beta-N-acetylglucosaminidase activity	IDA			PANTHER:PTHR13170	20090316		NCBITaxon:10116
+UniProt	UniProtKB:O60502	OGA	PMID:11148210		GO:0016231	beta-N-acetylglucosaminidase activity	IDA			PANTHER:PTHR13170	20140924		NCBITaxon:9606
+UniProt	UniProtKB:Q0TR53	nagJ	PMID:16541109		GO:0016231	beta-N-acetylglucosaminidase activity	IDA				20140924		NCBITaxon:195103
+UniProt	UniProtKB:Q89ZI2	BT_4395	PMID:16565725		GO:0016231	beta-N-acetylglucosaminidase activity	IDA			PANTHER:PTHR13170	20140924		NCBITaxon:226186
+UniProt	UniProtKB:Q2CEE3	OG2516_04129	PMID:20863279		GO:0016231	beta-N-acetylglucosaminidase activity	IDA				20140924		NCBITaxon:314256
+UniProt	UniProtKB:B2UP57	Amuc_2018	PMID:29304441		GO:0016231	beta-N-acetylglucosaminidase activity	IDA				20210313		NCBITaxon:349741
+UniProt	UniProtKB:B2UP57	Amuc_2018	PMID:30846208		GO:0016231	beta-N-acetylglucosaminidase activity	IDA				20210313		NCBITaxon:349741
