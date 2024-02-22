@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	UniProtKB:P04958	tetX	PMID:1328520		GO:0044079	modulation by symbiont of host neurotransmitter secretion	IDA				20230609		NCBITaxon:212717
+UniProt	UniProtKB:P18640	P18640	PMID:7901002		GO:0044762	negative regulation by symbiont of host neurotransmitter secretion	IDA				20230613		NCBITaxon:12336
