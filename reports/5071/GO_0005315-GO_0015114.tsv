@@ -1,0 +1,53 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AgBase	UniProtKB:O80412	548006	PMID:10437831		GO:0005315	inorganic phosphate transmembrane transporter activity	IDA			PANTHER:PTHR45671	20090716		NCBITaxon:3847
+CGD	CGD:CAL0000178178	PHO84	PMID:37843297|CGD_REF:CAL0000246204		GO:0005315	inorganic phosphate transmembrane transporter activity	IMP			PANTHER:PTHR24064	20231108		NCBITaxon:237561
+EcoCyc	UniProtKB:P43676	pitB	PMID:11489853		GO:0005315	inorganic phosphate transmembrane transporter activity	IMP			PANTHER:PTHR11101	20130426		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AF43	yjbB	PMID:21488939		GO:0005315	inorganic phosphate transmembrane transporter activity	IMP			PANTHER:PTHR10010	20110510		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AAH0	pstB	PMID:3881386		GO:0005315	inorganic phosphate transmembrane transporter activity	IDA			PANTHER:PTHR43423	20161208		NCBITaxon:83333
+EcoCyc	UniProtKB:P07654	pstA	PMID:3881386		GO:0005315	inorganic phosphate transmembrane transporter activity	IDA			PANTHER:PTHR42922	20161208		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AFJ7	pitA	PMID:6998957		GO:0005315	inorganic phosphate transmembrane transporter activity	IMP			PANTHER:PTHR11101	20110628		NCBITaxon:83333
+FlyBase	FB:FBgn0027610	Dic1	PMID:21130726|FB:FBrf0212949		GO:0005315	inorganic phosphate transmembrane transporter activity	IDA			PANTHER:PTHR45618	20110602		NCBITaxon:7227
+FlyBase	FB:FBgn0033248	Dic3	PMID:21130726|FB:FBrf0212949		GO:0005315	inorganic phosphate transmembrane transporter activity	IDA			PANTHER:PTHR45618	20110602		NCBITaxon:7227
+GeneDB	PlasmoDB:PF3D7_1202200	PIC	PMID:32574727		GO:0005315	inorganic phosphate transmembrane transporter activity	IDA				20200624		NCBITaxon:36329
+RGD	RGD:620101	Slc17a7	PMID:8202535|RGD:633922		GO:0005315	inorganic phosphate transmembrane transporter activity	IDA			PANTHER:PTHR11662	20050911		NCBITaxon:10116
+SGD	SGD:S000005296	PHO91	PMID:11779791		GO:0005315	inorganic phosphate transmembrane transporter activity	IGI	SGD:S000000633	UniProtKB:P27514	PANTHER:PTHR10283	20130726		NCBITaxon:559292
+SGD	SGD:S000005296	PHO91	PMID:11779791		GO:0005315	inorganic phosphate transmembrane transporter activity	IGI	SGD:S000003734	UniProtKB:P27514	PANTHER:PTHR10283	20130726		NCBITaxon:559292
+SGD	SGD:S000005296	PHO91	PMID:11779791		GO:0005315	inorganic phosphate transmembrane transporter activity	IGI	SGD:S000004592	UniProtKB:P27514	PANTHER:PTHR10283	20130726		NCBITaxon:559292
+SGD	SGD:S000003734	PHO90	PMID:11779791		GO:0005315	inorganic phosphate transmembrane transporter activity	IGI	SGD:S000000633	UniProtKB:P39535	PANTHER:PTHR10283	20130726		NCBITaxon:559292
+SGD	SGD:S000003734	PHO90	PMID:11779791		GO:0005315	inorganic phosphate transmembrane transporter activity	IGI	SGD:S000004592	UniProtKB:P39535	PANTHER:PTHR10283	20130726		NCBITaxon:559292
+SGD	SGD:S000003734	PHO90	PMID:11779791		GO:0005315	inorganic phosphate transmembrane transporter activity	IGI	SGD:S000005296	UniProtKB:P39535	PANTHER:PTHR10283	20130726		NCBITaxon:559292
+SGD	SGD:S000000633	PHO87	PMID:11779791		GO:0005315	inorganic phosphate transmembrane transporter activity	IGI	SGD:S000003734	UniProtKB:P25360	PANTHER:PTHR10283	20130726		NCBITaxon:559292
+SGD	SGD:S000000633	PHO87	PMID:11779791		GO:0005315	inorganic phosphate transmembrane transporter activity	IGI	SGD:S000004592	UniProtKB:P25360	PANTHER:PTHR10283	20130726		NCBITaxon:559292
+SGD	SGD:S000000633	PHO87	PMID:11779791		GO:0005315	inorganic phosphate transmembrane transporter activity	IGI	SGD:S000005296	UniProtKB:P25360	PANTHER:PTHR10283	20130726		NCBITaxon:559292
+SGD	SGD:S000005296	PHO91	PMID:12581367		GO:0005315	inorganic phosphate transmembrane transporter activity	IMP		UniProtKB:P27514	PANTHER:PTHR10283	20130726		NCBITaxon:559292
+SGD	SGD:S000003734	PHO90	PMID:12581367		GO:0005315	inorganic phosphate transmembrane transporter activity	IMP		UniProtKB:P39535	PANTHER:PTHR10283	20130726		NCBITaxon:559292
+SGD	SGD:S000000855	PIC2	PMID:14756774		GO:0005315	inorganic phosphate transmembrane transporter activity	IDA		UniProtKB:P40035	PANTHER:PTHR45671	20040427		NCBITaxon:559292
+SGD	SGD:S000004592	PHO84	PMID:2038328		GO:0005315	inorganic phosphate transmembrane transporter activity	IMP		UniProtKB:P25297	PANTHER:PTHR24064	20010118		NCBITaxon:559292
+SGD	SGD:S000004592	PHO84	PMID:7851439		GO:0005315	inorganic phosphate transmembrane transporter activity	IDA		UniProtKB:P25297	PANTHER:PTHR24064	20030324		NCBITaxon:559292
+SGD	SGD:S000003838	MIR1	PMID:9099701		GO:0005315	inorganic phosphate transmembrane transporter activity	IDA		UniProtKB:P23641	PANTHER:PTHR45671	20010118		NCBITaxon:559292
+SGN	SGN:1023	pt5	PMID:15807785		GO:0005315	inorganic phosphate transmembrane transporter activity	IDA				20070109		NCBITaxon:4081
+TAIR	AGI_LocusCode:AT5G20380	AT5G20380	PMID:18086223|TAIR:Publication:501723755		GO:0005315	inorganic phosphate transmembrane transporter activity	IDA		TAIR:locus:2149199		20080506		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G44370	PHT4;6	PMID:18086223|TAIR:Publication:501723755		GO:0005315	inorganic phosphate transmembrane transporter activity	IDA		TAIR:locus:2158710		20080506		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G38060	AT2G38060	PMID:18086223|TAIR:Publication:501723755		GO:0005315	inorganic phosphate transmembrane transporter activity	IDA		TAIR:locus:2065615		20080506		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G46980	AT3G46980	PMID:18086223|TAIR:Publication:501723755		GO:0005315	inorganic phosphate transmembrane transporter activity	IDA		TAIR:locus:2075586		20080506		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G00370	ANTR2	PMID:18086223|TAIR:Publication:501723755		GO:0005315	inorganic phosphate transmembrane transporter activity	IDA		TAIR:locus:2126066		20080506		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G29650	PHT4;1	PMID:18086223|TAIR:Publication:501723755		GO:0005315	inorganic phosphate transmembrane transporter activity	IDA		TAIR:locus:2060694		20080506		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G43350	PHT1;1	PMID:9192698|TAIR:Publication:3194		GO:0005315	inorganic phosphate transmembrane transporter activity	IDA		TAIR:locus:2176461		20050121		NCBITaxon:3702
+UniProt	UniProtKB:Q9HCJ1	ANKH	PMID:11326272		GO:0005315	inorganic phosphate transmembrane transporter activity	IDA			PANTHER:PTHR28384	20020906		NCBITaxon:9606
+UniProt	AGI_LocusCode:AT1G61800	AT1G61800	PMID:15722468|TAIR:Publication:501714745		GO:0005315	inorganic phosphate transmembrane transporter activity	IDA		TAIR:locus:2036778		20210401		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT5G54800	GPT1	PMID:15722468|TAIR:Publication:501714745		GO:0005315	inorganic phosphate transmembrane transporter activity	IDA		TAIR:locus:2160175		20210401		NCBITaxon:3702
+RGD	RGD:621430	Slc25a10	PMID:9733776|RGD:634162		GO:0015114	phosphate ion transmembrane transporter activity	IDA			PANTHER:PTHR45618	20061107		NCBITaxon:10116
+TAIR	AGI_LocusCode:AT5G43350	PHT1;1	PMID:17400898|TAIR:Publication:501721489		GO:0015114	phosphate ion transmembrane transporter activity	IMP		TAIR:locus:2176461		20071108		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G23430	PHO1	PMID:22449068|TAIR:Publication:501748260		GO:0015114	phosphate ion transmembrane transporter activity	IDA		TAIR:locus:2090930		20120423		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G76430	PHT1;9	PMID:22578268|TAIR:Publication:501748688		GO:0015114	phosphate ion transmembrane transporter activity	IGI	SGD:S000004592	TAIR:locus:2011681		20130304		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G61810	APC1	PMID:26140942|TAIR:Publication:501765615		GO:0015114	phosphate ion transmembrane transporter activity	IDA		TAIR:locus:2159168		20160212		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G51050	APC2	PMID:26140942|TAIR:Publication:501765615		GO:0015114	phosphate ion transmembrane transporter activity	IDA		TAIR:locus:2157423		20160212		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G07320	APC3	PMID:26140942|TAIR:Publication:501765615		GO:0015114	phosphate ion transmembrane transporter activity	IDA		TAIR:locus:2183314		20160212		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G63010	VPT1	PMID:26554016|TAIR:Publication:501767190		GO:0015114	phosphate ion transmembrane transporter activity	IDA		TAIR:locus:2015158		20160303		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G63010	VPT1	PMID:27029856|TAIR:Publication:501768818		GO:0015114	phosphate ion transmembrane transporter activity	IGI	SGD:S000003549	TAIR:locus:2015158		20160418		NCBITaxon:3702
+UniProt	UniProtKB:Q9UBH6	XPR1	PMID:23791524		GO:0015114	phosphate ion transmembrane transporter activity	IMP			PANTHER:PTHR10783	20160525		NCBITaxon:9606
+UniProt	ZFIN:ZDB-GENE-060503-266	xpr1b	PMID:23791524|ZFIN:ZDB-PUB-200522-22		GO:0015114	phosphate ion transmembrane transporter activity	IMP				20160525		NCBITaxon:7955
+UniProt	AGI_LocusCode:AT5G61810	APC1	PMID:26444389|TAIR:Publication:501766822		GO:0015114	phosphate ion transmembrane transporter activity	IDA		TAIR:locus:2159168		20210401		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT5G07320	APC3	PMID:26444389|TAIR:Publication:501766822		GO:0015114	phosphate ion transmembrane transporter activity	IDA		TAIR:locus:2183314		20210401		NCBITaxon:3702
+UniProt	FB:FBgn0035649	PXo	PMID:37138087|FB:FBrf0256600		GO:0015114	phosphate ion transmembrane transporter activity	IMP			PANTHER:PTHR10783	20230518		NCBITaxon:7227
+ZFIN	ZFIN:ZDB-GENE-060503-266	xpr1b	PMID:23791524		GO:0015114	phosphate ion transmembrane transporter activity	IDA				20201223		NCBITaxon:7955

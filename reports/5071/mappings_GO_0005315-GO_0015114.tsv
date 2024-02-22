@@ -1,0 +1,11 @@
+term	file	line
+GO:0005315	interpro2go	InterPro:IPR001204 Phosphate transporter > GO:inorganic phosphate transmembrane transporter activity ; GO:0005315
+GO:0005315	interpro2go	InterPro:IPR004738 Phosphate permease > GO:inorganic phosphate transmembrane transporter activity ; GO:0005315
+GO:0005315	interpro2go	InterPro:IPR005670 Phosphate import ATP-binding protein PstB-like > GO:inorganic phosphate transmembrane transporter activity ; GO:0005315
+GO:0005315	interpro2go	InterPro:IPR005672 Phosphate transport system permease protein PstA > GO:inorganic phosphate transmembrane transporter activity ; GO:0005315
+GO:0005315	interpro2go	InterPro:IPR011864 Phosphate ABC transporter, permease protein PstC > GO:inorganic phosphate transmembrane transporter activity ; GO:0005315
+GO:0005315	interpro2go	InterPro:IPR044677 Mitochondrial phosphate carrier protein SLC25A3/Pic2/Mir1-like > GO:inorganic phosphate transmembrane transporter activity ; GO:0005315
+GO:0005315	interpro2go	InterPro:IPR047818 Inorganic phosphate transporter PitA/PitB > GO:inorganic phosphate transmembrane transporter activity ; GO:0005315
+GO:0015114	rhea2go	RHEA:32823 > GO:phosphate ion transmembrane transporter activity ; GO:0015114
+GO:0015114	interpro2go	InterPro:IPR004745 Na-dependent inorganic phosphate cotransporter > GO:phosphate ion transmembrane transporter activity ; GO:0015114
+GO:0015114	interpro2go	InterPro:IPR009887 Progressive ankylosis > GO:phosphate ion transmembrane transporter activity ; GO:0015114
