@@ -1,0 +1,25 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	MGI:MGI:97810	Ptprc	PMID:15661907|MGI:MGI:3530407		GO:0031668	cellular response to extracellular stimulus	IGI	UniProtKB:P05480		PANTHER:PTHR19134	20180723	CL:0000084	NCBITaxon:10090
+BHF-UCL	UniProtKB:P42772	CDKN2B	PMID:17553787		GO:0031668	cellular response to extracellular stimulus	IMP			PANTHER:PTHR24201	20071120		NCBITaxon:9606
+BHF-UCL	UniProtKB:P38936	CDKN1A	PMID:17553787		GO:0031668	cellular response to extracellular stimulus	IMP			PANTHER:PTHR46778	20071120		NCBITaxon:9606
+MGI	MGI:MGI:95806	Tle5	PMID:10322635		GO:0031668	cellular response to extracellular stimulus	IDA				20081111		NCBITaxon:10090
+MGI	MGI:MGI:96759	Ldha	PMID:10322635		GO:0031668	cellular response to extracellular stimulus	IDA			PANTHER:PTHR43128	20081111		NCBITaxon:10090
+MGI	MGI:MGI:96605	Itga6	PMID:10322635		GO:0031668	cellular response to extracellular stimulus	IDA			PANTHER:PTHR23220	20081111		NCBITaxon:10090
+MGI	MGI:MGI:108078	Sfrp2	PMID:10322635		GO:0031668	cellular response to extracellular stimulus	IDA			PANTHER:PTHR11309	20081111		NCBITaxon:10090
+MGI	MGI:MGI:1916396	Gsdmd	PMID:10322635		GO:0031668	cellular response to extracellular stimulus	IDA			PANTHER:PTHR16399	20081111		NCBITaxon:10090
+MGI	MGI:MGI:1347244	Axl	PMID:10322635		GO:0031668	cellular response to extracellular stimulus	IDA			PANTHER:PTHR24416	20081111		NCBITaxon:10090
+MGI	MGI:MGI:101931	Slc1a2	PMID:16197522		GO:0031668	cellular response to extracellular stimulus	IMP	MGI:MGI:2449707		PANTHER:PTHR11958	20081111		NCBITaxon:10090
+MGI	MGI:MGI:1339957	P2rx7	PMID:18082965		GO:0031668	cellular response to extracellular stimulus	IMP	MGI:MGI:2386080		PANTHER:PTHR10125	20080723	EMAPA:16974	NCBITaxon:10090
+MGI	MGI:MGI:88081	Asgr1	PMID:3215517		GO:0031668	cellular response to extracellular stimulus	IDA			PANTHER:PTHR22802	20080820		NCBITaxon:10090
+MGI	UniProtKB:P43354	NR4A2	PMID:7877627		GO:0031668	cellular response to extracellular stimulus	IDA			PANTHER:PTHR24085	20090324		NCBITaxon:9606
+MGI	MGI:MGI:99403	Adora2b	PMID:8157966		GO:0031668	cellular response to extracellular stimulus	IDA			PANTHER:PTHR24246	20080825		NCBITaxon:10090
+MGI	MGI:MGI:1352456	Nr4a2	PMID:8961274		GO:0031668	cellular response to extracellular stimulus	IDA			PANTHER:PTHR24085	20080729		NCBITaxon:10090
+MGI	MGI:MGI:95574	Fos	PMID:9294610		GO:0031668	cellular response to extracellular stimulus	IMP			PANTHER:PTHR23351	20080917	CL:0000057|MGI:MGI:107179	NCBITaxon:10090
+MGI	MGI:MGI:107179	Fosl1	PMID:9294610		GO:0031668	cellular response to extracellular stimulus	IDA			PANTHER:PTHR23351	20080917	CL:0000057	NCBITaxon:10090
+MGI	MGI:MGI:1277961	Plec	PMID:9808630		GO:0031668	cellular response to extracellular stimulus	IMP			PANTHER:PTHR23169	20210415		NCBITaxon:10090
+RGD	RGD:71030	Adnp	PMID:15518891|RGD:2312774		GO:0031668	cellular response to extracellular stimulus	IEP			PANTHER:PTHR15740	20090902		NCBITaxon:10116
+RGD	RGD:2090	Aldob	PMID:15770659|RGD:2313417		GO:0031668	cellular response to extracellular stimulus	IEP			PANTHER:PTHR11627	20090923		NCBITaxon:10116
+RGD	RGD:621017	Lyn	PMID:17845203|RGD:2303708		GO:0031668	cellular response to extracellular stimulus	IEP			PANTHER:PTHR24418	20090223		NCBITaxon:10116
+RGD	RGD:61924	Aif1	PMID:18717813|RGD:2313015		GO:0031668	cellular response to extracellular stimulus	IEP			PANTHER:PTHR10356	20090908		NCBITaxon:10116
+UniProt	MGI:MGI:1929494	Arhgap35	PMID:11283609|MGI:MGI:1933687		GO:0031668	cellular response to extracellular stimulus	IMP			PANTHER:PTHR46005	20160811		NCBITaxon:10090
+UniProt	WB:WBGene00016204	gsto-1	PMID:17901115|WB_REF:WBPaper00031042		GO:0031668	cellular response to extracellular stimulus	IDA			PANTHER:PTHR43968	20110124		NCBITaxon:6239

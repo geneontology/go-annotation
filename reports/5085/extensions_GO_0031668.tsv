@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	MGI:MGI:97810	Ptprc	PMID:15661907|MGI:MGI:3530407		GO:0044855	plasma membrane raft distribution	IGI	UniProtKB:P05480		PANTHER:PTHR19134	20180724	CL:0000084|GO:0042101|GO:0031668|GO:0098857	NCBITaxon:10090
+MGI	MGI:MGI:1277961	Plec	PMID:9808630		GO:0030036	actin cytoskeleton organization	IMP			PANTHER:PTHR23169	20210415	GO:0031668	NCBITaxon:10090
+MGI	MGI:MGI:1277961	Plec	PMID:9808630		GO:0000902	cell morphogenesis	IMP			PANTHER:PTHR23169	20210415	GO:0031668	NCBITaxon:10090
+MGI	MGI:MGI:1277961	Plec	PMID:9808630		GO:0048870	cell motility	IMP			PANTHER:PTHR23169	20210415	GO:0031668	NCBITaxon:10090
