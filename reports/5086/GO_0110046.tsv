@@ -1,0 +1,14 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPAC27D7.03c	mei2	PMID:24741065		GO:0110046	signal transduction involved in cell cycle switching, mitotic to meiotic cell cycle	IMP			PANTHER:PTHR23189	20170213		NCBITaxon:4896
+PomBase	PomBase:SPBC32H8.11	mei4	PMID:25492408		GO:0110046	signal transduction involved in cell cycle switching, mitotic to meiotic cell cycle	IMP			PANTHER:PTHR11829	20200123		NCBITaxon:4896
+PomBase	PomBase:SPBC32H8.11	mei4	PMID:26804917		GO:0110046	signal transduction involved in cell cycle switching, mitotic to meiotic cell cycle	IMP			PANTHER:PTHR11829	20171215		NCBITaxon:4896
+PomBase	PomBase:SPBC119.04	mei3	PMID:30089908		GO:0110046	signal transduction involved in cell cycle switching, mitotic to meiotic cell cycle	IMP				20180819		NCBITaxon:4896
+PomBase	PomBase:SPMTR.02	mat2-Pi	PMID:30089908		GO:0110046	signal transduction involved in cell cycle switching, mitotic to meiotic cell cycle	IMP				20181012		NCBITaxon:4896
+PomBase	PomBase:SPBC23G7.17c	mat1-Mi	PMID:30089908		GO:0110046	signal transduction involved in cell cycle switching, mitotic to meiotic cell cycle	IMP				20180819		NCBITaxon:4896
+PomBase	PomBase:SPBC119.04	mei3	PMID:3034608		GO:0110046	signal transduction involved in cell cycle switching, mitotic to meiotic cell cycle	IMP				20130225		NCBITaxon:4896
+PomBase	PomBase:SPBC119.04	mei3	PMID:3357510		GO:0110046	signal transduction involved in cell cycle switching, mitotic to meiotic cell cycle	IMP				20130226		NCBITaxon:4896
+PomBase	PomBase:SPAC27D7.03c	mei2	PMID:7520368		GO:0110046	signal transduction involved in cell cycle switching, mitotic to meiotic cell cycle	IMP			PANTHER:PTHR23189	20191107		NCBITaxon:4896
+PomBase	PomBase:SPNCRNA.103	sme2	PMID:7520368		GO:0110046	signal transduction involved in cell cycle switching, mitotic to meiotic cell cycle	IMP				20140507		NCBITaxon:4896
+PomBase	PomBase:SPBC119.04	mei3	PMID:8945514		GO:0110046	signal transduction involved in cell cycle switching, mitotic to meiotic cell cycle	IMP				20180609		NCBITaxon:4896
+PomBase	PomBase:SPAC27D7.03c	mei2	PMID:9062192		GO:0110046	signal transduction involved in cell cycle switching, mitotic to meiotic cell cycle	IMP			PANTHER:PTHR23189	20170726		NCBITaxon:4896
+PomBase	PomBase:SPMTR.02	mat2-Pi	PMID:9819418		GO:0110046	signal transduction involved in cell cycle switching, mitotic to meiotic cell cycle	IMP				20170906		NCBITaxon:4896

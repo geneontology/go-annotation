@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPBC32H8.11	mei4	PMID:26804917		GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding	IDA			PANTHER:PTHR11829	20171215	GO:0110046|SO:0001846	NCBITaxon:4896
+PomBase	PomBase:SPMTR.02	mat2-Pi	PMID:30089908		GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific	EXP				20180819	PomBase:SPBC119.04|GO:0110046	NCBITaxon:4896
+PomBase	PomBase:SPMTR.02	mat2-Pi	PMID:30089908		GO:0005515	protein binding	IPI	PomBase:SPBC23G7.17c			20181012	GO:0110046	NCBITaxon:4896
+PomBase	PomBase:SPBC23G7.17c	mat1-Mi	PMID:30089908	contributes_to	GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific	EXP				20181012	PomBase:SPBC119.04|GO:0110046	NCBITaxon:4896
+PomBase	PomBase:SPBC23G7.17c	mat1-Mi	PMID:30089908		GO:0005515	protein binding	IPI	PomBase:SPMTR.02			20181012	GO:0110046	NCBITaxon:4896
+PomBase	PomBase:SPMTR.02	mat2-Pi	PMID:9819418		GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific	IMP				20170906	PomBase:SPBC119.04|GO:0110046	NCBITaxon:4896
