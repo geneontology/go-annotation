@@ -1,4 +1,4 @@
-! Generated on 2024-01-28T09:09Z from the ontology 'go' with data version: 'releases/2024-01-28'
+! Generated on 2024-02-22T11:33Z from the ontology 'go' with data version: 'releases/2024-02-22'
 !
 Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase [NAD(P)] activity ; GO:0003845
 Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase (NAD+) activity ; GO:0070523
@@ -86,6 +86,7 @@ Wikipedia:Bleb_(cell_biology) > GO:bleb ; GO:0032059
 Wikipedia:Blood_pressure#Regulation > GO:regulation of blood pressure ; GO:0008217
 Wikipedia:Bone_remodeling > GO:bone remodeling ; GO:0046849
 Wikipedia:Bone_resorption > GO:bone resorption ; GO:0045453
+Wikipedia:Branched-chain_alpha-keto_acid_dehydrogenase_complex > GO:branched-chain alpha-ketoacid dehydrogenase complex ; GO:0160157
 Wikipedia:Brush_border > GO:brush border ; GO:0005903
 Wikipedia:Butanediol_fermentation > GO:glycolytic fermentation to butanediol ; GO:0019650
 Wikipedia:C4_carbon_fixation > GO:C4 photosynthesis ; GO:0009760
@@ -223,7 +224,7 @@ Wikipedia:Endoplasmic_reticulum#Sarcoplasmic_reticulum > GO:sarcoplasmic reticul
 Wikipedia:Endoplasmic_reticulum#Smooth_endoplasmic_reticulum > GO:smooth endoplasmic reticulum ; GO:0005790
 Wikipedia:Endosome > GO:endosome ; GO:0005768
 Wikipedia:Enhanceosome > GO:enhanceosome ; GO:0034206
-Wikipedia:Enoyl-acyl_carrier_protein_reductase > GO:enoyl-[acyl-carrier-protein] reductase activity ; GO:0016631
+Wikipedia:Enoyl-acyl_carrier_protein_reductase > GO:enoyl-[acyl-carrier-protein] reductase activity (NAD(P)H) ; GO:0016631
 Wikipedia:Enzyme > GO:catalytic activity ; GO:0003824
 Wikipedia:Equilibrioception > GO:equilibrioception ; GO:0050957
 Wikipedia:Erection#Penile_erection > GO:penile erection ; GO:0043084
@@ -336,7 +337,7 @@ Wikipedia:Intracellular > GO:intracellular anatomical structure ; GO:0005622
 Wikipedia:Intraflagellar_transport > GO:intraciliary transport ; GO:0042073
 Wikipedia:Intramembranous_ossification > GO:intramembranous ossification ; GO:0001957
 Wikipedia:Ion_channels > GO:narrow pore, gated channel activity ; GO:0022831
-Wikipedia:JAK-STAT_signaling_pathway > GO:receptor signaling pathway via JAK-STAT ; GO:0007259
+Wikipedia:JAK-STAT_signaling_pathway > GO:cell surface receptor signaling pathway via JAK-STAT ; GO:0007259
 Wikipedia:Karyogamy > GO:karyogamy ; GO:0000741
 Wikipedia:Kidney_development > GO:kidney development ; GO:0001822
 Wikipedia:Kinesis > GO:kinesis ; GO:0042465
@@ -492,6 +493,7 @@ Wikipedia:Outer_mitochondrial_membrane > GO:mitochondrial outer membrane ; GO:00
 Wikipedia:Oviposition > GO:egg-laying behavior ; GO:0018991
 Wikipedia:Ovulation > GO:ovulation ; GO:0030728
 Wikipedia:Oxidative_phosphorylation > GO:oxidative phosphorylation ; GO:0006119
+Wikipedia:Oxoglutarate_dehydrogenase_complex > GO:oxoglutarate dehydrogenase complex ; GO:0045252
 Wikipedia:Oxygen_evolving_complex > GO:photosystem II oxygen evolving complex ; GO:0009654
 Wikipedia:P-type_ATPase > GO:P-type transmembrane transporter activity ; GO:0140358
 Wikipedia:P450-containing_systems > GO:P450-containing electron transport chain ; GO:0140647

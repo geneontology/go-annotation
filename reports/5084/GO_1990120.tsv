@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+SGD	SGD:S000005056	DBP2	PMID:23721653		GO:1990120	messenger ribonucleoprotein complex assembly	IMP		UniProtKB:P24783	PANTHER:PTHR47958	20130619		NCBITaxon:559292
+UniProt	FB:FBgn0004419	me31B	PMID:21267420|FB:FBrf0212910		GO:1990120	messenger ribonucleoprotein complex assembly	IMP			PANTHER:PTHR47960	20181018		NCBITaxon:7227
+UniProt	UniProtKB:Q16630	CPSF6	PMID:29276085		GO:1990120	messenger ribonucleoprotein complex assembly	IDA			PANTHER:PTHR23204	20180226		NCBITaxon:9606
+UniProt	UniProtKB:O43809	NUDT21	PMID:29276085		GO:1990120	messenger ribonucleoprotein complex assembly	IDA			PANTHER:PTHR13047	20180226		NCBITaxon:9606
+UniProt	UniProtKB:Q8N684	CPSF7	PMID:29276085		GO:1990120	messenger ribonucleoprotein complex assembly	IDA			PANTHER:PTHR23204	20180226		NCBITaxon:9606

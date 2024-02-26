@@ -1,4 +1,4 @@
-! Generated on 2024-01-28T09:09Z from the ontology 'go' with data version: 'releases/2024-01-28'
+! Generated on 2024-02-22T11:33Z from the ontology 'go' with data version: 'releases/2024-02-22'
 !
 EC:1.-.-.- > GO:oxidoreductase activity ; GO:0016491
 EC:1.1.-.- > GO:oxidoreductase activity, acting on CH-OH group of donors ; GO:0016614
@@ -305,7 +305,7 @@ EC:1.1.1.76 > GO:(S,S)-butanediol dehydrogenase activity ; GO:0047512
 EC:1.1.1.77 > GO:lactaldehyde reductase activity ; GO:0008912
 EC:1.1.1.78 > GO:methylglyoxal reductase (NADH-dependent) activity ; GO:0019170
 EC:1.1.1.79 > GO:glyoxylate reductase (NADP+) activity ; GO:0030267
-EC:1.1.1.8 > GO:glycerol-3-phosphate dehydrogenase [NAD(P)+] activity ; GO:0047952
+EC:1.1.1.8 > GO:glycerol-3-phosphate dehydrogenase (NAD+) activity ; GO:0141152
 EC:1.1.1.80 > GO:isopropanol dehydrogenase (NADP+) activity ; GO:0050009
 EC:1.1.1.81 > GO:hydroxypyruvate reductase activity ; GO:0016618
 EC:1.1.1.82 > GO:malate dehydrogenase (NADP+) activity ; GO:0046554
@@ -1222,8 +1222,9 @@ EC:1.23.5.1 > GO:violaxanthin de-epoxidase activity ; GO:0046422
 EC:1.3.-.- > GO:oxidoreductase activity, acting on the CH-CH group of donors ; GO:0016627
 EC:1.3.1.- > GO:oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor ; GO:0016628
 EC:1.3.1.1 > GO:dihydropyrimidine dehydrogenase (NAD+) activity ; GO:0004159
-EC:1.3.1.10 > GO:enoyl-[acyl-carrier-protein] reductase (NADPH, B-specific) activity ; GO:0004319
+EC:1.3.1.10 > GO:enoyl-[acyl-carrier-protein] reductase (NADPH) activity ; GO:0141148
 EC:1.3.1.103 > GO:2-chloroacrylate reductase activity ; GO:0102523
+EC:1.3.1.104 > GO:enoyl-[acyl-carrier-protein] reductase (NADPH) activity ; GO:0141148
 EC:1.3.1.105 > GO:furaneol oxidoreductase activity ; GO:0102978
 EC:1.3.1.11 > GO:2-coumarate reductase activity ; GO:0047788
 EC:1.3.1.12 > GO:prephenate dehydrogenase (NAD+) activity ; GO:0008977
@@ -1254,7 +1255,7 @@ EC:1.3.1.34 > GO:2,4-dienoyl-CoA reductase (NADPH) activity ; GO:0008670
 EC:1.3.1.36 > GO:geissoschizine dehydrogenase activity ; GO:0047920
 EC:1.3.1.37 > GO:cis-2-enoyl-CoA reductase (NADPH) activity ; GO:0047774
 EC:1.3.1.38 > GO:trans-2-enoyl-CoA reductase (NADPH) activity ; GO:0019166
-EC:1.3.1.39 > GO:enoyl-[acyl-carrier-protein] reductase (NADPH, A-specific) activity ; GO:0047117
+EC:1.3.1.39 > GO:enoyl-[acyl-carrier-protein] reductase (NADPH) activity ; GO:0141148
 EC:1.3.1.40 > GO:2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate reductase activity ; GO:0047118
 EC:1.3.1.41 > GO:xanthommatin reductase activity ; GO:0050399
 EC:1.3.1.42 > GO:12-oxophytodienoate reductase activity ; GO:0016629
@@ -1865,8 +1866,6 @@ EC:2.1.1.56 > GO:mRNA 5'-cap (guanine-N7-)-methyltransferase activity ; GO:00044
 EC:2.1.1.57 > GO:mRNA (nucleoside-2'-O-)-methyltransferase activity ; GO:0004483
 EC:2.1.1.59 > GO:[cytochrome c]-lysine N-methyltransferase activity ; GO:0000277
 EC:2.1.1.6 > GO:catechol O-methyltransferase activity ; GO:0016206
-EC:2.1.1.6 > GO:L-dopa O-methyltransferase activity ; GO:0102084
-EC:2.1.1.6 > GO:orcinol O-methyltransferase activity ; GO:0102938
 EC:2.1.1.60 > GO:calmodulin-lysine N-methyltransferase activity ; GO:0018025
 EC:2.1.1.61 > GO:tRNA (5-methylaminomethyl-2-thiouridylate)(34)-methyltransferase activity ; GO:0004808
 EC:2.1.1.62 > GO:mRNA (2'-O-methyladenosine-N6-)-methyltransferase activity ; GO:0016422
@@ -3733,13 +3732,7 @@ EC:3.2.2.9 > GO:adenosylhomocysteine nucleosidase activity ; GO:0008782
 EC:3.2.2.n1 > GO:cytokinin riboside 5'-monophosphate phosphoribohydrolase activity ; GO:0102682
 EC:3.3.-.- > GO:hydrolase activity, acting on ether bonds ; GO:0016801
 EC:3.3.1.- > GO:trialkylsulfonium hydrolase activity ; GO:0016802
-EC:3.3.2.- > GO:juvenile hormone epoxide hydrolase activity ; GO:0008096
 EC:3.3.2.- > GO:ether hydrolase activity ; GO:0016803
-EC:3.3.2.- > GO:epoxide hydrolase B activity ; GO:0018742
-EC:3.3.2.- > GO:phenanthrene-9,10-epoxide hydrolase (9R,10R-forming) activity ; GO:0018743
-EC:3.3.2.- > GO:epoxide hydrolase A activity ; GO:0018745
-EC:3.3.2.- > GO:phenanthrene-9,10-epoxide hydrolase (9S,10S-forming) activity ; GO:0018863
-EC:3.3.2.- > GO:phenanthrene-epoxide hydrolase activity ; GO:0019118
 EC:3.3.2.1 > GO:isochorismatase activity ; GO:0008908
 EC:3.3.2.10 > GO:epoxide hydrolase activity ; GO:0004301
 EC:3.3.2.11 > GO:cholesterol-5,6-oxide hydrolase activity ; GO:0033963
@@ -4162,7 +4155,7 @@ EC:3.6.1.7 > GO:acylphosphatase activity ; GO:0003998
 EC:3.6.1.71 > GO:DNA 5'-adenosine monophosphate hydrolase activity ; GO:0033699
 EC:3.6.1.72 > GO:DNA-3'-diphospho-5'-guanosine diphosphatase ; GO:0120108
 EC:3.6.1.73 > GO:ITPase activity ; GO:0103023
-EC:3.6.1.74 > GO:mRNA 5'-phosphatase activity ; GO:0140818
+EC:3.6.1.74 > GO:mRNA 5'-triphosphate monophosphatase activity ; GO:0140818
 EC:3.6.1.75 > GO:diacylglycerol diphosphate phosphatase activity ; GO:0000810
 EC:3.6.1.8 > GO:ATP diphosphatase activity ; GO:0047693
 EC:3.6.1.9 > GO:nucleoside triphosphate diphosphatase activity ; GO:0047429
@@ -5174,6 +5167,7 @@ EC:7.3.2.7 > GO:ATPase-coupled arsenite transmembrane transporter activity ; GO:
 EC:7.4.2.1 > GO:ATPase-coupled polar amino acid-transporter activity ; GO:0015426
 EC:7.4.2.1 > GO:ATPase-coupled L-glutamine transmembrane transporter activity ; GO:0015599
 EC:7.4.2.11 > GO:ABC-type D-methionine transporter activity ; GO:0033232
+EC:7.4.2.14 > GO:ABC-type peptide antigen transporter activity ; GO:0015433
 EC:7.4.2.2 > GO:ATPase-coupled nonpolar-amino acid transporter activity ; GO:0015425
 EC:7.4.2.3 > GO:mitochondrial protein-transporting ATPase activity ; GO:0008566
 EC:7.4.2.4 > GO:chloroplast protein-transporting ATPase activity ; GO:0016464

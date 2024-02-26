@@ -1,4 +1,4 @@
-! Generated on 2024-01-28T09:09Z from the ontology 'go' with data version: 'releases/2024-01-28'
+! Generated on 2024-02-22T11:33Z from the ontology 'go' with data version: 'releases/2024-02-22'
 !
 Reactome:R-HSA-1008248 > GO:nucleoside triphosphate adenylate kinase activity ; GO:0046899
 Reactome:R-HSA-1013012 > GO:G protein-coupled GABA receptor activity ; GO:0004965
@@ -1930,7 +1930,7 @@ Reactome:R-HSA-2671850 > GO:protein tyrosine kinase activity ; GO:0004713
 Reactome:R-HSA-2671885 > GO:pH-gated monoatomic ion channel activity ; GO:0160128
 Reactome:R-HSA-2672334 > GO:ligand-gated sodium channel activity ; GO:0015280
 Reactome:R-HSA-2682349 > GO:ubiquitin-protein transferase activity ; GO:0004842
-Reactome:R-HSA-2684901 > GO:intracellular calcium activated chloride channel activity ; GO:0005229
+Reactome:R-HSA-2684901 > GO:intracellularly calcium-gated chloride channel activity ; GO:0005229
 Reactome:R-HSA-2685505 > GO:NAADP-sensitive calcium-release channel activity ; GO:0072345
 Reactome:R-HSA-2730664 > GO:sodium channel activity ; GO:0005272
 Reactome:R-HSA-2730692 > GO:antiporter activity ; GO:0015297
@@ -1961,9 +1961,9 @@ Reactome:R-HSA-2730959 > GO:antiporter activity ; GO:0015297
 Reactome:R-HSA-2731002 > GO:antiporter activity ; GO:0015297
 Reactome:R-HSA-2737728 > GO:ubiquitin-protein transferase activity ; GO:0004842
 Reactome:R-HSA-2744228 > GO:voltage-gated chloride channel activity ; GO:0005247
-Reactome:R-HSA-2744242 > GO:intracellular calcium activated chloride channel activity ; GO:0005229
+Reactome:R-HSA-2744242 > GO:intracellularly calcium-gated chloride channel activity ; GO:0005229
 Reactome:R-HSA-2744349 > GO:chloride channel activity ; GO:0005254
-Reactome:R-HSA-2744361 > GO:intracellular calcium activated chloride channel activity ; GO:0005229
+Reactome:R-HSA-2744361 > GO:intracellularly calcium-gated chloride channel activity ; GO:0005229
 Reactome:R-HSA-2752067 > GO:bicarbonate transmembrane transporter activity ; GO:0015106
 Reactome:R-HSA-2769007 > GO:ubiquitin-protein transferase activity ; GO:0004842
 Reactome:R-HSA-2855020 > GO:ryanodine-sensitive calcium-release channel activity ; GO:0005219
@@ -5586,7 +5586,7 @@ Reactome:R-HSA-9658445 > GO:protein serine/threonine phosphatase activity ; GO:0
 Reactome:R-HSA-9659380 > GO:mechanosensitive monoatomic cation channel activity ; GO:0140135
 Reactome:R-HSA-9659515 > GO:voltage-gated calcium channel activity involved in positive regulation of presynaptic cytosolic calcium levels ; GO:0099635
 Reactome:R-HSA-9659554 > GO:voltage-gated potassium channel activity ; GO:0005249
-Reactome:R-HSA-9659568 > GO:intracellular calcium activated chloride channel activity ; GO:0005229
+Reactome:R-HSA-9659568 > GO:intracellularly calcium-gated chloride channel activity ; GO:0005229
 Reactome:R-HSA-9659680 > GO:ATPase-coupled transmembrane transporter activity ; GO:0042626
 Reactome:R-HSA-9660536 > GO:protein serine/threonine phosphatase activity ; GO:0004722
 Reactome:R-HSA-9660538 > GO:protein serine/threonine phosphatase activity ; GO:0004722

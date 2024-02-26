@@ -1,4 +1,4 @@
-! Generated on 2024-01-28T09:09Z from the ontology 'go' with data version: 'releases/2024-01-28'
+! Generated on 2024-02-22T11:33Z from the ontology 'go' with data version: 'releases/2024-02-22'
 !
 KEGG_REACTION:R00004 > GO:inorganic diphosphate phosphatase activity ; GO:0004427
 KEGG_REACTION:R00005 > GO:allophanate hydrolase activity ; GO:0004039
@@ -246,8 +246,8 @@ KEGG_REACTION:R00828 > GO:2-nitrophenol 2-monooxygenase activity ; GO:0047549
 KEGG_REACTION:R00830 > GO:5-aminolevulinate synthase activity ; GO:0003870
 KEGG_REACTION:R00833 > GO:methylmalonyl-CoA mutase activity ; GO:0004494
 KEGG_REACTION:R00834 > GO:aldose-6-phosphate reductase (NADPH) activity ; GO:0047641
-KEGG_REACTION:R00842 > GO:glycerol-3-phosphate dehydrogenase [NAD(P)+] activity ; GO:0047952
-KEGG_REACTION:R00844 > GO:glycerol-3-phosphate dehydrogenase [NAD(P)+] activity ; GO:0047952
+KEGG_REACTION:R00842 > GO:glycerol-3-phosphate dehydrogenase (NAD+) activity ; GO:0141152
+KEGG_REACTION:R00844 > GO:glycerol-3-phosphate dehydrogenase (NADP+) activity ; GO:0141153
 KEGG_REACTION:R00845 > GO:glycerol-3-phosphate 1-dehydrogenase [NADP+] activity ; GO:0047014
 KEGG_REACTION:R00846 > GO:glycerol-3-phosphate oxidase activity ; GO:0004369
 KEGG_REACTION:R00847 > GO:glycerol kinase activity ; GO:0004370
