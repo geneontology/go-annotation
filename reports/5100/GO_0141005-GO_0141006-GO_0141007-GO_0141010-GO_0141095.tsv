@@ -1,0 +1,58 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	FB:FBgn0025639	Hmt4-20	PMID:19412177|FB:FBrf0208049		GO:0141005	retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR12977	20230320		NCBITaxon:7227
+FlyBase	FB:FBgn0028707	Mt2	PMID:19412177|FB:FBrf0208049		GO:0141005	retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR46098	20230320		NCBITaxon:7227
+FlyBase	FB:FBgn0004872	piwi	PMID:22065765|FB:FBrf0216776		GO:0141005	retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR22891	20230316		NCBITaxon:7227
+FlyBase	FB:FBgn0004872	piwi	PMID:22160707|FB:FBrf0217081		GO:0141005	retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR22891	20230316		NCBITaxon:7227
+FlyBase	FB:FBgn0034217	Lhr	PMID:24239514|FB:FBrf0223436		GO:0141005	retrotransposon silencing by heterochromatin formation	IMP				20230316		NCBITaxon:7227
+FlyBase	FB:FBgn0001206	Hmr	PMID:24239514|FB:FBrf0223436		GO:0141005	retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR12243	20230316		NCBITaxon:7227
+FlyBase	FB:FBgn0034217	Lhr	PMID:24651406|FB:FBrf0224481		GO:0141005	retrotransposon silencing by heterochromatin formation	IMP				20230316		NCBITaxon:7227
+FlyBase	FB:FBgn0001206	Hmr	PMID:24651406|FB:FBrf0224481		GO:0141005	retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR12243	20230316		NCBITaxon:7227
+FlyBase	FB:FBgn0039559	NSD	PMID:37169594|FB:FBrf0256484		GO:0141005	retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR22884	20231025		NCBITaxon:7227
+FlyBase	FB:FBgn0030486	Set2	PMID:37169594|FB:FBrf0256484		GO:0141005	retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR22884	20231025		NCBITaxon:7227
+FlyBase	FB:FBgn0005386	ash1	PMID:37169594|FB:FBrf0256484		GO:0141005	retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR46147	20231025		NCBITaxon:7227
+MGI	MGI:MGI:1316740	Morc1	PMID:25503965		GO:0141005	retrotransposon silencing by heterochromatin formation	IMP	MGI:MGI:1857787		PANTHER:PTHR23337	20160921	GO:0032197	NCBITaxon:10090
+MGI	MGI:MGI:3041167	Piwil4	PMID:25503965		GO:0141005	retrotransposon silencing by heterochromatin formation	IMP	MGI:MGI:3712153		PANTHER:PTHR22891	20160921		NCBITaxon:10090
+MGI	MGI:MGI:1859287	Dnmt3l	PMID:25503965		GO:0141005	retrotransposon silencing by heterochromatin formation	IMP	MGI:MGI:2155766		PANTHER:PTHR23068	20160921		NCBITaxon:10090
+TAIR	AGI_LocusCode:AT2G42940	AHL16	PMID:23394836|TAIR:Publication:501753741		GO:0141005	retrotransposon silencing by heterochromatin formation	IMP		TAIR:locus:2045585		20230327		NCBITaxon:3702
+UniProt	MGI:MGI:1859287	Dnmt3l	PMID:15318244|MGI:MGI:3054275		GO:0141005	retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR23068	20230911		NCBITaxon:10090
+UniProt	MGI:MGI:3041167	Piwil4	PMID:22020280|MGI:MGI:5319753		GO:0141005	retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR22891	20230324		NCBITaxon:10090
+UniProt	MGI:MGI:1930036	Piwil2	PMID:22020280|MGI:MGI:5319753		GO:0141005	retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR22891	20230324		NCBITaxon:10090
+UniProt	MGI:MGI:3649996	Dnmt3c	PMID:28854222|MGI:MGI:5913574		GO:0141005	retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR23068	20230320		NCBITaxon:10090
+UniProt	UniProtKB:Q6GMV2	SMYD5	PMID:28951459		GO:0141005	retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR46402	20230313		NCBITaxon:9606
+UniProt	MGI:MGI:108048	Smyd5	PMID:28951459|MGI:MGI:6103640		GO:0141005	retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR46402	20230313		NCBITaxon:10090
+UniProt	AGI_LocusCode:AT5G55390	EDM2	PMID:32925902|TAIR:Publication:501791352		GO:0141005	retrotransposon silencing by heterochromatin formation	IMP		TAIR:locus:2173857		20230523		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT5G11470	IBM2	PMID:33438356|TAIR:Publication:501792677		GO:0141005	retrotransposon silencing by heterochromatin formation	IDA		TAIR:locus:2144256		20230523		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT5G55390	EDM2	PMID:33438356|TAIR:Publication:501792677		GO:0141005	retrotransposon silencing by heterochromatin formation	IDA		TAIR:locus:2173857		20230523		NCBITaxon:3702
+FlyBase	FB:FBgn0016034	mael	PMID:23159368|FB:FBrf0220033		GO:0141006	piRNA-mediated retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR21358	20230320		NCBITaxon:7227
+FlyBase	FB:FBgn0004872	piwi	PMID:23159368|FB:FBrf0220033		GO:0141006	piRNA-mediated retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR22891	20230320		NCBITaxon:7227
+FlyBase	FB:FBgn0034617	Panx	PMID:26472911|FB:FBrf0229930		GO:0141006	piRNA-mediated retrotransposon silencing by heterochromatin formation	IMP				20230316		NCBITaxon:7227
+FlyBase	FB:FBgn0267704	lncRNA:flam	PMID:31267711|FB:FBrf0242781		GO:0141006	piRNA-mediated retrotransposon silencing by heterochromatin formation	IMP				20230918		NCBITaxon:7227
+FlyBase	FB:FBgn0010602	lwr	PMID:35173350|FB:FBrf0252737		GO:0141006	piRNA-mediated retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR24067	20230915		NCBITaxon:7227
+FlyBase	FB:FBgn0034617	Panx	PMID:35173350|FB:FBrf0252737		GO:0141006	piRNA-mediated retrotransposon silencing by heterochromatin formation	IMP				20230915		NCBITaxon:7227
+FlyBase	FB:FBgn0004872	piwi	PMID:35173350|FB:FBrf0252737		GO:0141006	piRNA-mediated retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR22891	20230915		NCBITaxon:7227
+FlyBase	FB:FBgn0287725	sov	PMID:35173350|FB:FBrf0252737		GO:0141006	piRNA-mediated retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR24403	20230915		NCBITaxon:7227
+UniProt	MGI:MGI:1928897	Piwil1	PMID:22121019|MGI:MGI:5316869		GO:0141006	piRNA-mediated retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR22891	20230320		NCBITaxon:10090
+UniProt	MGI:MGI:1930036	Piwil2	PMID:23706823|MGI:MGI:5501381		GO:0141006	piRNA-mediated retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR22891	20230324		NCBITaxon:10090
+UniProt	MGI:MGI:3649996	Dnmt3c	PMID:27856912|MGI:MGI:5811689		GO:0141006	piRNA-mediated retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR23068	20230320		NCBITaxon:10090
+UniProt	MGI:MGI:102670	Ddx4	PMID:28633017|MGI:MGI:5908740		GO:0141006	piRNA-mediated retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR47958	20230320		NCBITaxon:10090
+UniProt	MGI:MGI:1921941	Tdrd9	PMID:28633017|MGI:MGI:5908740		GO:0141006	piRNA-mediated retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR18934	20230320		NCBITaxon:10090
+UniProt	FB:FBgn0036640	nxf2	PMID:31219034|FB:FBrf0243113		GO:0141006	piRNA-mediated retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR10662	20230320		NCBITaxon:7227
+UniProt	FB:FBgn0034617	Panx	PMID:31219034|FB:FBrf0243113		GO:0141006	piRNA-mediated retrotransposon silencing by heterochromatin formation	IDA				20230320		NCBITaxon:7227
+UniProt	FB:FBgn0034617	Panx	PMID:31570835|FB:FBrf0244040		GO:0141006	piRNA-mediated retrotransposon silencing by heterochromatin formation	IMP				20230320		NCBITaxon:7227
+FlyBase	FB:FBgn0087035	AGO2	PMID:19948966|FB:FBrf0209635		GO:0141007	siRNA-mediated retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR22891	20230911		NCBITaxon:7227
+FlyBase	FB:FBgn0263755	Su(var)3-9	PMID:19948966|FB:FBrf0209635		GO:0141007	siRNA-mediated retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR46223	20230911		NCBITaxon:7227
+UniProt	MGI:MGI:3041167	Piwil4	PMID:18381894|MGI:MGI:3778312		GO:0141007	siRNA-mediated retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR22891	20230630		NCBITaxon:10090
+UniProt	MGI:MGI:1930036	Piwil2	PMID:18381894|MGI:MGI:3778312		GO:0141007	siRNA-mediated retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR22891	20230630		NCBITaxon:10090
+UniProt	MGI:MGI:1933218	Tdrd1	PMID:19465913|MGI:MGI:4356231		GO:0141007	siRNA-mediated retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR22948	20230630		NCBITaxon:10090
+UniProt	MGI:MGI:2138453	Mael	PMID:20011505|MGI:MGI:4417983		GO:0141007	siRNA-mediated retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR21358	20230630		NCBITaxon:10090
+UniProt	MGI:MGI:1921941	Tdrd9	PMID:20059948|MGI:MGI:4418580		GO:0141007	siRNA-mediated retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR18934	20230630		NCBITaxon:10090
+UniProt	MGI:MGI:102670	Ddx4	PMID:20439430|MGI:MGI:4443217		GO:0141007	siRNA-mediated retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR47958	20230630		NCBITaxon:10090
+UniProt	MGI:MGI:1891384	Mov10l1	PMID:20534472|MGI:MGI:4457283		GO:0141007	siRNA-mediated retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR10887	20230630		NCBITaxon:10090
+UniProt	MGI:MGI:2684949	Tdrd5	PMID:21383078|MGI:MGI:4946318		GO:0141007	siRNA-mediated retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR22948	20230630		NCBITaxon:10090
+UniProt	MGI:MGI:2137612	Fkbp6	PMID:22902560|MGI:MGI:5439219		GO:0141007	siRNA-mediated retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR46674	20230630		NCBITaxon:10090
+UniProt	MGI:MGI:99925	Mybl1	PMID:23523368|MGI:MGI:5495879		GO:0141007	siRNA-mediated retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR45614	20230324		NCBITaxon:10090
+UniProt	MGI:MGI:1919231	Tdrd12	PMID:24067652|MGI:MGI:5516419		GO:0141007	siRNA-mediated retrotransposon silencing by heterochromatin formation	IMP			PANTHER:PTHR22655	20230630		NCBITaxon:10090
+FlyBase	UniProtKB:Q19VG2	mop1	PMID:19936292		GO:0141010	retrotransposon silencing by RNA-directed DNA methylation	IMP				20230911		NCBITaxon:4577
+MGI	MGI:MGI:1261819	Dnmt3b	PMID:27856912		GO:0141095	retrotransposon silencing by DNA methylation-dependent heterochromatin formation	IDA			PANTHER:PTHR23068	20171129		NCBITaxon:10090
+MGI	MGI:MGI:3649996	Dnmt3c	PMID:27856912		GO:0141095	retrotransposon silencing by DNA methylation-dependent heterochromatin formation	IDA			PANTHER:PTHR23068	20171129		NCBITaxon:10090
+UniProt	UniProtKB:C0SQ89	CMT3	PMID:26243209		GO:0141095	retrotransposon silencing by DNA methylation-dependent heterochromatin formation	IMP			PANTHER:PTHR10629	20231124		NCBITaxon:39947
