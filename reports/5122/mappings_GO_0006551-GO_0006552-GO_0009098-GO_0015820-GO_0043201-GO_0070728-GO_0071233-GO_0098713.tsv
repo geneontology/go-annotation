@@ -1,0 +1,33 @@
+term	file	line
+GO:0006552	metacyc2go	MetaCyc:LEU-DEG2-PWY > GO:leucine catabolic process ; GO:0006552
+GO:0009098	interpro2go	InterPro:IPR004429 Isopropylmalate dehydrogenase > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	interpro2go	InterPro:IPR004430 3-isopropylmalate dehydratase, large subunit > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	interpro2go	InterPro:IPR004431 3-isopropylmalate dehydratase, small subunit > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	interpro2go	InterPro:IPR005668 2-isopropylmalate synthase > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	interpro2go	InterPro:IPR005671 2-isopropylmalate synthase, bacterial-type > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	interpro2go	InterPro:IPR011823 3-isopropylmalate dehydratase, large subunit, bacteria > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	interpro2go	InterPro:IPR011826 Homoaconitase/3-isopropylmalate dehydratase, large subunit, prokaryotic > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	interpro2go	InterPro:IPR011828 Isopropylmalate/isohomocitrate dehydrogenase > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	interpro2go	InterPro:IPR012235 3-isopropylmalate dehydratase, fused small/large subunit > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	interpro2go	InterPro:IPR012570 Leucine operon leader peptide > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	interpro2go	InterPro:IPR013709 2-isopropylmalate synthase LeuA, allosteric (dimerisation) domain > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	interpro2go	InterPro:IPR023698 3-isopropylmalate dehydrogenase, actinobacteria > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	uniprotkb_kw2go	UniProtKB-KW:KW-0432 Leucine biosynthesis > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	metacyc2go	MetaCyc:LEUSYN-PWY > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	hamap2go	HAMAP:MF_00572 > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	hamap2go	HAMAP:MF_01025 > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	hamap2go	HAMAP:MF_01026 > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	hamap2go	HAMAP:MF_01027 > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	hamap2go	HAMAP:MF_01031 > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	hamap2go	HAMAP:MF_01032 > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	hamap2go	HAMAP:MF_01033 > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	hamap2go	HAMAP:MF_01035 > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	rfam2go	Rfam:RF00512 Leu_leader > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	unirule2go	UniRule:UR000001340 > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	unirule2go	UniRule:UR000030612 > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	unirule2go	UniRule:UR000037412 > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	unirule2go	UniRule:UR000100515 > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	unirule2go	UniRule:UR000100517 > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	unirule2go	UniRule:UR000100523 > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	unirule2go	UniRule:UR000100525 > GO:leucine biosynthetic process ; GO:0009098
+GO:0009098	unirule2go	UniRule:UR000329213 > GO:leucine biosynthetic process ; GO:0009098
