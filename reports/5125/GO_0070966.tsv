@@ -1,0 +1,23 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ComplexPortal	SGD:S000217632	CPX-465	PMID:20947765		GO:0070966	nuclear-transcribed mRNA catabolic process, no-go decay	IDA				20160913		NCBITaxon:559292
+MGI	MGI:MGI:1860138	Gtpbp2	PMID:25061210		GO:0070966	nuclear-transcribed mRNA catabolic process, no-go decay	IMP			PANTHER:PTHR43721	20140828		NCBITaxon:10090
+SGD	SGD:S000004946	DOM34	PMID:16554824		GO:0070966	nuclear-transcribed mRNA catabolic process, no-go decay	IGI	SGD:S000003141	UniProtKB:P33309	PANTHER:PTHR10853	20100316		NCBITaxon:559292
+SGD	SGD:S000004946	DOM34	PMID:16554824		GO:0070966	nuclear-transcribed mRNA catabolic process, no-go decay	IGI	SGD:S000005602	UniProtKB:P33309	PANTHER:PTHR10853	20100316		NCBITaxon:559292
+SGD	SGD:S000001792	HBS1	PMID:16554824		GO:0070966	nuclear-transcribed mRNA catabolic process, no-go decay	IGI	SGD:S000004390	UniProtKB:P32769	PANTHER:PTHR23115	20100316		NCBITaxon:559292
+SGD	SGD:S000001792	HBS1	PMID:16554824		GO:0070966	nuclear-transcribed mRNA catabolic process, no-go decay	IGI	SGD:S000005602	UniProtKB:P32769	PANTHER:PTHR23115	20100316		NCBITaxon:559292
+SGD	SGD:S000004946	DOM34	PMID:19420139		GO:0070966	nuclear-transcribed mRNA catabolic process, no-go decay	IMP		UniProtKB:P33309	PANTHER:PTHR10853	20101129		NCBITaxon:559292
+SGD	SGD:S000001573	CUE2	PMID:31219035		GO:0070966	nuclear-transcribed mRNA catabolic process, no-go decay	IDA		UniProtKB:P36075	PANTHER:PTHR46535	20190628		NCBITaxon:559292
+SGD	SGD:S000002778	DXO1	PMID:31913314		GO:0070966	nuclear-transcribed mRNA catabolic process, no-go decay	IGI	SGD:S000003141	UniProtKB:Q06349	PANTHER:PTHR12395	20220218		NCBITaxon:559292
+SGD	SGD:S000003141	XRN1	PMID:31913314		GO:0070966	nuclear-transcribed mRNA catabolic process, no-go decay	IMP		UniProtKB:P22147	PANTHER:PTHR12341	20220218		NCBITaxon:559292
+SGD	SGD:S000003623	TRL1	PMID:31913314		GO:0070966	nuclear-transcribed mRNA catabolic process, no-go decay	IMP		UniProtKB:P09880	PANTHER:PTHR32004	20220218		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT4G27650	PEL1	PMID:30107878|TAIR:Publication:501780933		GO:0070966	nuclear-transcribed mRNA catabolic process, no-go decay	IEP		TAIR:locus:2137732		20180829		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G58390	PEL2	PMID:30107878|TAIR:Publication:501780933		GO:0070966	nuclear-transcribed mRNA catabolic process, no-go decay	IEP		TAIR:locus:2085465		20180829		NCBITaxon:3702
+UniProt	UniProtKB:Q9ULM6	CNOT6	PMID:15314026		GO:0070966	nuclear-transcribed mRNA catabolic process, no-go decay	IMP			PANTHER:PTHR12121	20130318		NCBITaxon:9606
+UniProt	UniProtKB:O75534	CSDE1	PMID:15314026		GO:0070966	nuclear-transcribed mRNA catabolic process, no-go decay	IMP			PANTHER:PTHR12913	20130318		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y450	HBS1L	PMID:23667253		GO:0070966	nuclear-transcribed mRNA catabolic process, no-go decay	IDA			PANTHER:PTHR23115	20230222		NCBITaxon:9606
+UniProt	UniProtKB:Q9BRX2	PELO	PMID:23667253		GO:0070966	nuclear-transcribed mRNA catabolic process, no-go decay	IDA			PANTHER:PTHR10853	20230222		NCBITaxon:9606
+UniProt	UniProtKB:Q9BRX2	PELO	PMID:27543824		GO:0070966	nuclear-transcribed mRNA catabolic process, no-go decay	IDA			PANTHER:PTHR10853	20230222		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y450	HBS1L	PMID:27863242		GO:0070966	nuclear-transcribed mRNA catabolic process, no-go decay	IDA			PANTHER:PTHR23115	20230222		NCBITaxon:9606
+UniProt	UniProtKB:Q9BRX2	PELO	PMID:27863242		GO:0070966	nuclear-transcribed mRNA catabolic process, no-go decay	IDA			PANTHER:PTHR10853	20230222		NCBITaxon:9606
+UniProt	SGD:S000002674	HEL2	PMID:30609991		GO:0070966	nuclear-transcribed mRNA catabolic process, no-go decay	IDA		UniProtKB:Q05580	PANTHER:PTHR22938	20230214		NCBITaxon:559292
+UniProt	SGD:S000000870	MOT2	PMID:30609991		GO:0070966	nuclear-transcribed mRNA catabolic process, no-go decay	IDA		UniProtKB:P34909	PANTHER:PTHR12603	20230214		NCBITaxon:559292
