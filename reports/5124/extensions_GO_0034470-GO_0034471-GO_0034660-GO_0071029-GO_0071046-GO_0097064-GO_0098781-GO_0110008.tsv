@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPAC12G12.13c	cid14	PMID:28541282		GO:1990817	poly(A) RNA polymerase activity	IDA			PANTHER:PTHR23092	20170608	SO:0000646|GO:0071046	NCBITaxon:4896
+PomBase	PomBase:SPAC17H9.01	cid16	PMID:28541282		GO:0050265	RNA uridylyltransferase activity	IDA			PANTHER:PTHR12271	20170608	SO:0000646|GO:0071046	NCBITaxon:4896
+PomBase	PomBase:SPAC1F3.01	rrp6	PMID:28541282		GO:0004532	RNA exonuclease activity	IDA			PANTHER:PTHR12124	20170530	SO:0000646|GO:0071046	NCBITaxon:4896
+ARUK-UCL	UniProtKB:P10276	RARA	PMID:21131358		GO:0045944	positive regulation of transcription by RNA polymerase II	IDA			PANTHER:PTHR24082	20210108	GO:0098781|RNAcentral:URS00000AF93C_9606	NCBITaxon:9606
