@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	UniProtKB:P19784	CSNK2A2	PMID:28031292		GO:0004674	protein serine/threonine kinase activity	IGI	UniProtKB:P67870|UniProtKB:P68400		PANTHER:PTHR24054	20180517	GO:0140036|UniProtKB:P25686	NCBITaxon:9606
+ARUK-UCL	UniProtKB:P68400	CSNK2A1	PMID:28031292		GO:0004674	protein serine/threonine kinase activity	IGI	UniProtKB:P19784|UniProtKB:P67870		PANTHER:PTHR24054	20180517	GO:0140036|UniProtKB:P25686	NCBITaxon:9606
