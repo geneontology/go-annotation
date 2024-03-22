@@ -1,0 +1,4 @@
+term	file	line
+GO:000991	interpro2go	InterPro:IPR002680 Alternative oxidase > GO:alternative oxidase activity ; GO:0009916
+GO:000991	interpro2go	InterPro:IPR034583 Protein EMBRYONIC FLOWER 1 > GO:negative regulation of flower development ; GO:0009910
+GO:000991	unirule2go	UniRule:UR000000668 > GO:alternative oxidase activity ; GO:0009916
