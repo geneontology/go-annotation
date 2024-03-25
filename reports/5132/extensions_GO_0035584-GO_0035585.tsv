@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	UniProtKB:P41594	GRM5	PMID:24012003		GO:1904646	cellular response to amyloid-beta	IGI	UniProtKB:P04156		PANTHER:PTHR24060	20170509	CL:0000540|GO:0035584	NCBITaxon:9606
+ARUK-UCL	UniProtKB:P04156	PRNP	PMID:24012003		GO:1904646	cellular response to amyloid-beta	IGI	UniProtKB:P41594		PANTHER:PTHR15506	20170509	CL:0000540|GO:0035584	NCBITaxon:9606
+ARUK-UCL	MGI:MGI:1351342	Grm5	PMID:24012003|MGI:MGI:5515653		GO:1904646	cellular response to amyloid-beta	IGI	UniProtKB:P04925		PANTHER:PTHR24060	20170509	CL:0000540|GO:0035584	NCBITaxon:10090
+ARUK-UCL	MGI:MGI:97769	Prnp	PMID:24012003|MGI:MGI:5515653		GO:1904646	cellular response to amyloid-beta	IGI	ComplexPortal:CPX-1134		PANTHER:PTHR15506	20170628	CL:0000540|GO:0035584	NCBITaxon:10090
+PomBase	PomBase:SPAC18B11.04	ncs1	PMID:14722091		GO:0005509	calcium ion binding	IDA			PANTHER:PTHR23055	20110922	GO:0035584	NCBITaxon:4896
+ARUK-UCL	RGD:621681	P2ry12	PMID:17299767|RGD:13673751		GO:0051897	positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	IMP			PANTHER:PTHR24233	20230726	CL:0000129|GO:0071318|GO:0021801|GO:0035585	NCBITaxon:10116

@@ -1,0 +1,30 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	MGI:MGI:97810	Ptprc	PMID:18249142|MGI:MGI:3774343		GO:0035584	calcium-mediated signaling using intracellular calcium source	IGI	UniProtKB:Q64455		PANTHER:PTHR19134	20180725	CL:0000236|EMAPA:35523	NCBITaxon:10090
+ARUK-UCL	MGI:MGI:104574	Ptprj	PMID:18249142|MGI:MGI:3774343		GO:0035584	calcium-mediated signaling using intracellular calcium source	IGI	UniProtKB:P06800		PANTHER:PTHR19134	20180725	CL:0000236|EMAPA:35523	NCBITaxon:10090
+ARUK-UCL	ComplexPortal:CPX-1134	abeta-42-oligomer_human	PMID:24012003		GO:0035584	calcium-mediated signaling using intracellular calcium source	IDA				20170627		NCBITaxon:9606
+ARUK-UCL	UniProtKB:P41594	GRM5	PMID:24012003		GO:0035584	calcium-mediated signaling using intracellular calcium source	IGI	UniProtKB:P04156		PANTHER:PTHR24060	20170509	GO:1904646|CL:0000540	NCBITaxon:9606
+ARUK-UCL	UniProtKB:P04156	PRNP	PMID:24012003		GO:0035584	calcium-mediated signaling using intracellular calcium source	IGI	UniProtKB:P41594		PANTHER:PTHR15506	20170509	GO:1904646|CL:0000540	NCBITaxon:9606
+ARUK-UCL	MGI:MGI:1351342	Grm5	PMID:24012003|MGI:MGI:5515653		GO:0035584	calcium-mediated signaling using intracellular calcium source	IGI	UniProtKB:P04925		PANTHER:PTHR24060	20170509	GO:1904646|CL:0000540	NCBITaxon:10090
+ARUK-UCL	MGI:MGI:97769	Prnp	PMID:24012003|MGI:MGI:5515653		GO:0035584	calcium-mediated signaling using intracellular calcium source	IGI	ComplexPortal:CPX-1134		PANTHER:PTHR15506	20170628	GO:1904646|CL:0000540	NCBITaxon:10090
+BHF-UCL	UniProtKB:Q92736	RYR2	PMID:17921453		GO:0035584	calcium-mediated signaling using intracellular calcium source	IDA			PANTHER:PTHR46399	20130213		NCBITaxon:9606
+MGI	MGI:MGI:1347354	Homer2	PMID:12860966		GO:0035584	calcium-mediated signaling using intracellular calcium source	IMP	MGI:MGI:3526530		PANTHER:PTHR10918	20120911	CL:0002064|EMAPA:35651	NCBITaxon:10090
+PomBase	PomBase:SPAC18B11.04	ncs1	PMID:14722091		GO:0035584	calcium-mediated signaling using intracellular calcium source	IDA			PANTHER:PTHR23055	20120131		NCBITaxon:4896
+UniProt	MGI:MGI:97384	Ntrk2	PMID:14603320|MGI:MGI:5306316		GO:0035584	calcium-mediated signaling using intracellular calcium source	IMP			PANTHER:PTHR24416	20111121		NCBITaxon:10090
+UniProt	UniProtKB:P35968	KDR	PMID:15215251		GO:0035584	calcium-mediated signaling using intracellular calcium source	IMP			PANTHER:PTHR24416	20110921		NCBITaxon:9606
+UniProt	UniProtKB:P19320	VCAM1	PMID:15879141		GO:0035584	calcium-mediated signaling using intracellular calcium source	IGI	UniProtKB:P20160		PANTHER:PTHR13771	20150717	GO:0042117	NCBITaxon:9606
+UniProt	UniProtKB:P16109	SELP	PMID:15879141		GO:0035584	calcium-mediated signaling using intracellular calcium source	IGI	UniProtKB:P20160		PANTHER:PTHR19325	20150717	GO:0042117	NCBITaxon:9606
+UniProt	UniProtKB:P20160	AZU1	PMID:15879141		GO:0035584	calcium-mediated signaling using intracellular calcium source	IGI	UniProtKB:P16109		PANTHER:PTHR24271	20150717	GO:0042117	NCBITaxon:9606
+UniProt	UniProtKB:P20160	AZU1	PMID:15879141		GO:0035584	calcium-mediated signaling using intracellular calcium source	IGI	UniProtKB:P19320		PANTHER:PTHR24271	20150717	GO:0042117	NCBITaxon:9606
+UniProt	UniProtKB:P43088	PTGFR	PMID:18587449		GO:0035584	calcium-mediated signaling using intracellular calcium source	IDA			PANTHER:PTHR11866	20131125		NCBITaxon:9606
+UniProt	UniProtKB:P51810	GPR143	PMID:18828673		GO:0035584	calcium-mediated signaling using intracellular calcium source	IDA			PANTHER:PTHR15177	20110117		NCBITaxon:9606
+UniProt	UniProtKB:P51572	BCAP31	PMID:21183955		GO:0035584	calcium-mediated signaling using intracellular calcium source	IMP			PANTHER:PTHR12701	20110929		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y3D6	FIS1	PMID:21183955		GO:0035584	calcium-mediated signaling using intracellular calcium source	IMP			PANTHER:PTHR13247	20110929		NCBITaxon:9606
+UniProt	RGD:620768	Adgrl1	PMID:21724987|RGD:8553824		GO:0035584	calcium-mediated signaling using intracellular calcium source	IDA		UniProtKB:O88917-2	PANTHER:PTHR12011	20121115		NCBITaxon:10116
+UniProt	MGI:MGI:1351901	Trpm2	PMID:21753080|MGI:MGI:5298324		GO:0035584	calcium-mediated signaling using intracellular calcium source	IMP			PANTHER:PTHR13800	20160915		NCBITaxon:10090
+UniProt	MGI:MGI:99670	Dmtn	PMID:23060452|MGI:MGI:5465511		GO:0035584	calcium-mediated signaling using intracellular calcium source	IMP			PANTHER:PTHR24213	20130523		NCBITaxon:10090
+UniProt	UniProtKB:P78556	CCL20	PMID:25122636		GO:0035584	calcium-mediated signaling using intracellular calcium source	IDA			PANTHER:PTHR12015	20160608		NCBITaxon:9606
+UniProt	UniProtKB:P60022	DEFB1	PMID:25122636		GO:0035584	calcium-mediated signaling using intracellular calcium source	IDA			PANTHER:PTHR21388	20160608		NCBITaxon:9606
+UniProt	UniProtKB:Q86TL2	STIMATE	PMID:26644574		GO:0035584	calcium-mediated signaling using intracellular calcium source	IDA			PANTHER:PTHR31735	20160324		NCBITaxon:9606
+ARUK-UCL	RGD:621681	P2ry12	PMID:17299767|RGD:13673751		GO:0035585	calcium-mediated signaling using extracellular calcium source	IMP			PANTHER:PTHR24233	20230726	CL:0000129|GO:0021801	NCBITaxon:10116
+PomBase	PomBase:SPAC1F7.03	pkd2	PMID:15537393		GO:0035585	calcium-mediated signaling using extracellular calcium source	IMP			PANTHER:PTHR31145	20230706		NCBITaxon:4896
+ZFIN	ZFIN:ZDB-GENE-091204-289	mlnl	PMID:28242309		GO:0035585	calcium-mediated signaling using extracellular calcium source	IGI	ZFIN:ZDB-GENE-091204-289|ZFIN:ZDB-GENE-130530-1015			20170811		NCBITaxon:7955
