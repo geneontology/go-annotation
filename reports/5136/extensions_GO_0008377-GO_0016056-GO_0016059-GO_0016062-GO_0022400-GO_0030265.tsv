@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:2148800	Aipl1	PMID:15365173		GO:0022400	regulation of rhodopsin mediated signaling pathway	IMP	MGI:MGI:3054784		PANTHER:PTHR11242	20180529	GO:0016056	NCBITaxon:10090
+MGI	MGI:MGI:2148800	Aipl1	PMID:15365178		GO:0022400	regulation of rhodopsin mediated signaling pathway	IMP	MGI:MGI:3054793		PANTHER:PTHR11242	20180529	GO:0016056	NCBITaxon:10090
