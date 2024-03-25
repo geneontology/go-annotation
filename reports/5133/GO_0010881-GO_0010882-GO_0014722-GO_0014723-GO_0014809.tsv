@@ -1,0 +1,39 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	MGI:MGI:1336205	Fkbp1b	PMID:12837242|MGI:MGI:3621834		GO:0010881	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	IMP			PANTHER:PTHR10516	20090226		NCBITaxon:10090
+BHF-UCL	MGI:MGI:99685	Ryr2	PMID:12837242|MGI:MGI:3621834		GO:0010881	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	IGI	UniProtKB:Q9Z2I2		PANTHER:PTHR46399	20120514		NCBITaxon:10090
+BHF-UCL	UniProtKB:O14958	CASQ2	PMID:16601229		GO:0010881	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	IMP			PANTHER:PTHR10033	20120620		NCBITaxon:9606
+BHF-UCL	UniProtKB:O14958	CASQ2	PMID:16908766		GO:0010881	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	IMP			PANTHER:PTHR10033	20120620		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q01484	ANK2	PMID:17178715		GO:0010881	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	IGI	UniProtKB:Q8C8R3		PANTHER:PTHR24133	20120618	CL:0000746	NCBITaxon:9606
+BHF-UCL	MGI:MGI:88025	Ank2	PMID:17178715|MGI:MGI:5430893		GO:0010881	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	IMP			PANTHER:PTHR24178	20120618	CL:0000746	NCBITaxon:10090
+BHF-UCL	RGD:2276	Casq2	PMID:17569730|RGD:2314601		GO:0010881	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	IMP			PANTHER:PTHR10033	20120620	CL:0002131	NCBITaxon:10116
+BHF-UCL	MGI:MGI:94909	Dmd	PMID:20080623|MGI:MGI:4420848		GO:0010881	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	IMP			PANTHER:PTHR12268	20130104		NCBITaxon:10090
+BHF-UCL	RGD:3717	Slc8a1	PMID:21779914|RGD:8554732		GO:0010881	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	IDA			PANTHER:PTHR11878	20120622	CL:0002131	NCBITaxon:10116
+BHF-UCL	MGI:MGI:88025	Ank2	PMID:21859974|MGI:MGI:5427070		GO:0010881	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	IMP			PANTHER:PTHR24178	20120608		NCBITaxon:10090
+MGI	MGI:MGI:1921416	Tmem38a	PMID:17611541		GO:0010881	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	IGI	MGI:MGI:1098718		PANTHER:PTHR12454	20181206		NCBITaxon:10090
+MGI	MGI:MGI:1098718	Tmem38b	PMID:17611541		GO:0010881	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	IGI	MGI:MGI:1921416		PANTHER:PTHR12454	20181206		NCBITaxon:10090
+MGI	MGI:MGI:97622	Pln	PMID:8831698		GO:0010881	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	IMP	MGI:MGI:2158357		PANTHER:PTHR21194	20210323	EMAPA:16105	NCBITaxon:10090
+MGI	MGI:MGI:1309469	Casq2	PMID:9525981		GO:0010881	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	IDA			PANTHER:PTHR10033	20210319	EMAPA:17331	NCBITaxon:10090
+UniProt	MGI:MGI:1309469	Casq2	PMID:16932808|MGI:MGI:3689635		GO:0010881	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	IMP			PANTHER:PTHR10033	20140731		NCBITaxon:10090
+UniProt	UniProtKB:P15381	CACNA1C	PMID:23145875		GO:0010881	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	IMP				20180525		NCBITaxon:9986
+BHF-UCL	UniProtKB:Q01484	ANK2	PMID:12571597		GO:0010882	regulation of cardiac muscle contraction by calcium ion signaling	IMP			PANTHER:PTHR24133	20120608		NCBITaxon:9606
+BHF-UCL	MGI:MGI:88025	Ank2	PMID:12571597|MGI:MGI:2449848		GO:0010882	regulation of cardiac muscle contraction by calcium ion signaling	IMP			PANTHER:PTHR24178	20120608		NCBITaxon:10090
+BHF-UCL	UniProtKB:P19634	SLC9A1	PMID:15105296		GO:0010882	regulation of cardiac muscle contraction by calcium ion signaling	IMP			PANTHER:PTHR10110	20141107		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q92736	RYR2	PMID:17875969		GO:0010882	regulation of cardiac muscle contraction by calcium ion signaling	IMP			PANTHER:PTHR46399	20150206		NCBITaxon:9606
+BHF-UCL	MGI:MGI:88108	Atp1b1	PMID:19683723|MGI:MGI:4359299		GO:0010882	regulation of cardiac muscle contraction by calcium ion signaling	IMP			PANTHER:PTHR11523	20140811		NCBITaxon:10090
+BHF-UCL	RGD:2174	Atp2a2	PMID:9851937|RGD:10047146		GO:0010882	regulation of cardiac muscle contraction by calcium ion signaling	IDA			PANTHER:PTHR42861	20141002		NCBITaxon:10116
+CAFA	UniProtKB:P19429	TNNI3	PMID:25771144		GO:0010882	regulation of cardiac muscle contraction by calcium ion signaling	IMP			PANTHER:PTHR13738	20161205		NCBITaxon:9606
+FlyBase	FB:FBgn0004169	up	PMID:32024695|FB:FBrf0245183		GO:0010882	regulation of cardiac muscle contraction by calcium ion signaling	IMP			PANTHER:PTHR11521	20200625		NCBITaxon:7227
+MGI	MGI:MGI:3036234	Hdac4	PMID:18250163		GO:0010882	regulation of cardiac muscle contraction by calcium ion signaling	IMP			PANTHER:PTHR45364	20090908	GO:0060048	NCBITaxon:10090
+ZFIN	ZFIN:ZDB-GENE-040827-4	pkd2	PMID:23376035		GO:0010882	regulation of cardiac muscle contraction by calcium ion signaling	IMP	ZFIN:ZDB-GENO-100715-11		PANTHER:PTHR10877	20130611		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-040426-1902	erp44	PMID:25332179		GO:0010882	regulation of cardiac muscle contraction by calcium ion signaling	IMP	ZFIN:ZDB-MRPHLNO-150205-4		PANTHER:PTHR46295	20150209		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-980526-221	desma	PMID:26051936		GO:0010882	regulation of cardiac muscle contraction by calcium ion signaling	IMP	ZFIN:ZDB-GENO-170501-2		PANTHER:PTHR45652	20170502		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-980526-221	desma	PMID:26051936		GO:0010882	regulation of cardiac muscle contraction by calcium ion signaling	IMP	ZFIN:ZDB-GENO-170501-7		PANTHER:PTHR45652	20170502		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-040426-2693	tmem161b	PMID:33597309		GO:0010882	regulation of cardiac muscle contraction by calcium ion signaling	IMP	ZFIN:ZDB-GENO-230302-3		PANTHER:PTHR13624	20230308		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-050419-261	wtip	PMID:35671065		GO:0010882	regulation of cardiac muscle contraction by calcium ion signaling	IMP	ZFIN:ZDB-MRPHLNO-130118-1			20230322		NCBITaxon:7955
+MGI	MGI:MGI:1097696	Rem1	PMID:26078055		GO:0014722	regulation of skeletal muscle contraction by calcium ion signaling	IDA			PANTHER:PTHR45775	20230411	EMAPA:36247|GO:0005575	NCBITaxon:10090
+UniProt	WB:WBGene00006820	unc-89	PMID:22768340|WB_REF:WBPaper00041270		GO:0014722	regulation of skeletal muscle contraction by calcium ion signaling	IGI	UniProtKB:O01761		PANTHER:PTHR45842	20170217		NCBITaxon:6239
+UniProt	MGI:MGI:94906	Dmpk	PMID:9294109|MGI:MGI:1097019		GO:0014722	regulation of skeletal muscle contraction by calcium ion signaling	IMP			PANTHER:PTHR24356	20111019		NCBITaxon:10090
+RGD	RGD:620964	Prkd1	PMID:21041300|RGD:243065274		GO:0014723	regulation of skeletal muscle contraction by modulation of calcium ion sensitivity of myofibril	IMP			PANTHER:PTHR22968	20230417		NCBITaxon:10116
+BHF-UCL	MGI:MGI:94909	Dmd	PMID:19198614|MGI:MGI:3837615		GO:0014809	regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion	IMP			PANTHER:PTHR12268	20130104		NCBITaxon:10090
+MGI	MGI:MGI:1309468	Casq1	PMID:17627988		GO:0014809	regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion	IMP	MGI:MGI:3530841		PANTHER:PTHR10033	20101129		NCBITaxon:10090
+UniProt	MGI:MGI:1309468	Casq1	PMID:22049211|MGI:MGI:5306707		GO:0014809	regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion	IMP			PANTHER:PTHR10033	20140730		NCBITaxon:10090
