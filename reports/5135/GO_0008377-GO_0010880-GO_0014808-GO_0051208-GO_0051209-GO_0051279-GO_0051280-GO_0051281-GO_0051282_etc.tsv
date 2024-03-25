@@ -1,0 +1,224 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	FB:FBgn0003861	trp	PMID:10326683|FB:FBrf0108156		GO:0008377	light-induced release of internally sequestered calcium ion	IDA			PANTHER:PTHR10117	20060803		NCBITaxon:7227
+ZFIN	ZFIN:ZDB-GENE-030314-2	opn4.1	PMID:21966429		GO:0008377	light-induced release of internally sequestered calcium ion	IDA			PANTHER:PTHR24240	20111102		NCBITaxon:7955
+AgBase	UniProtKB:A0A060WZU7	GSONMT00006391001	PMID:9857007		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP				20150707	UBERON:0001134	NCBITaxon:8022
+AgBase	UniProtKB:C1BFZ3	FKB1A	PMID:9857007		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP				20150707	UBERON:0001134	NCBITaxon:8022
+AgBase	UniProtKB:Q8HYX6	FKBP1B	PMID:9857007		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP				20150707	UBERON:0001134	NCBITaxon:9986
+AgBase	UniProtKB:A0A060X010	GSONMT00017767001	PMID:9857007		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP				20150707	UBERON:0001134	NCBITaxon:8022
+AgBase	UniProtKB:P62943	FKBP1A	PMID:9857007		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP				20150707	UBERON:0001134	NCBITaxon:9986
+AgBase	UniProtKB:C1BH42	FKB1A	PMID:9857007		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP				20150707	UBERON:0001134	NCBITaxon:8022
+AgBase	UniProtKB:G1T0U7	FKBP1B	PMID:9857007		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP				20150707	UBERON:0001134	NCBITaxon:9986
+BHF-UCL	UniProtKB:P78417	GSTO1	PMID:11035031		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IDA			PANTHER:PTHR43968	20121220		NCBITaxon:9606
+BHF-UCL	RGD:2263	Camk2d	PMID:12676813|RGD:10047271		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IDA			PANTHER:PTHR24347	20140726	CL:0002131	NCBITaxon:10116
+BHF-UCL	UniProtKB:P12637	CASQ2	PMID:15041652		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IDA			PANTHER:PTHR10033	20120620		NCBITaxon:9615
+BHF-UCL	UniProtKB:P82179	TRDN	PMID:15041652		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IDA			PANTHER:PTHR14106	20120620		NCBITaxon:9615
+BHF-UCL	UniProtKB:O15247	CLIC2	PMID:15147738		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IDA			PANTHER:PTHR43920	20121220		NCBITaxon:9606
+BHF-UCL	UniProtKB:O15247	CLIC2	PMID:15916532		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IDA			PANTHER:PTHR43920	20121220		NCBITaxon:9606
+BHF-UCL	MGI:MGI:99555	Pde4d	PMID:16213210|MGI:MGI:3690823		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP			PANTHER:PTHR11347	20130701	EMAPA:16105	NCBITaxon:10090
+BHF-UCL	UniProtKB:P28161	GSTM2	PMID:17023043		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IDA			PANTHER:PTHR11571	20121220		NCBITaxon:9606
+BHF-UCL	RNAcentral:URS00001DC04F_9606	URS00001DC04F_9606	PMID:19131648		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IDA				20230731	GO:0055117	NCBITaxon:9606
+BHF-UCL	RNAcentral:URS00001DC04F_9606	URS00001DC04F_9606	PMID:19131648		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IDA				20160304	CL:0000746	NCBITaxon:9606
+BHF-UCL	UniProtKB:P62157	CALM	PMID:19220289		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IDA			PANTHER:PTHR23050	20090319		NCBITaxon:9913
+BHF-UCL	MGI:MGI:94909	Dmd	PMID:20080623|MGI:MGI:4420848		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP			PANTHER:PTHR12268	20130104	CL:0000746	NCBITaxon:10090
+BHF-UCL	UniProtKB:P0DP24	CALM2	PMID:20226167		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IDA			PANTHER:PTHR23050	20170809		NCBITaxon:9606
+BHF-UCL	UniProtKB:P0DP23	CALM1	PMID:20226167		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IDA			PANTHER:PTHR23050	20170809	CL:0000746	NCBITaxon:9606
+BHF-UCL	UniProtKB:P0DP25	CALM3	PMID:20226167		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IDA			PANTHER:PTHR23050	20170809		NCBITaxon:9606
+BHF-UCL	UniProtKB:P68106	FKBP1B	PMID:20431056		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IDA			PANTHER:PTHR10516	20130704	CL:0002131	NCBITaxon:9606
+BHF-UCL	MGI:MGI:94909	Dmd	PMID:23263329|MGI:MGI:5487906		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP			PANTHER:PTHR12268	20130104	CL:0000746	NCBITaxon:10090
+BHF-UCL	UniProtKB:P23327	HRC	PMID:24125847		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IGI	UniProtKB:B9EIW1		PANTHER:PTHR15054	20140710	CL:0002131	NCBITaxon:9606
+MGI	MGI:MGI:1309468	Casq1	PMID:12419813		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IDA			PANTHER:PTHR10033	20101129		NCBITaxon:10090
+MGI	MGI:MGI:1336205	Fkbp1b	PMID:14592808		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP	MGI:MGI:2182644		PANTHER:PTHR10516	20190409		NCBITaxon:10090
+MGI	MGI:MGI:1336205	Fkbp1b	PMID:16672364		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP	MGI:MGI:3623214		PANTHER:PTHR10516	20190409		NCBITaxon:10090
+MGI	MGI:MGI:1309468	Casq1	PMID:17627988		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP	MGI:MGI:3530841		PANTHER:PTHR10033	20101129	GO:0014808|GO:0051649	NCBITaxon:10090
+MGI	MGI:MGI:1336205	Fkbp1b	PMID:19578067		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP	MGI:MGI:2182644		PANTHER:PTHR10516	20120712	GO:0014808|GO:0051649	NCBITaxon:10090
+MGI	MGI:MGI:1915710	Dhrs7c	PMID:21995425		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IDA			PANTHER:PTHR44668	20120420		NCBITaxon:10090
+MGI	MGI:MGI:3611450	Mettl21c	PMID:24677265		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP			PANTHER:PTHR14614	20170614		NCBITaxon:10090
+MGI	MGI:MGI:2444748	Chd7	PMID:26102480		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP	MGI:MGI:2176467|MGI:MGI:4433295		PANTHER:PTHR45623	20210319	GO:0014808|GO:0051649	NCBITaxon:10090
+MGI	MGI:MGI:97622	Pln	PMID:9118481		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP	MGI:MGI:2158357		PANTHER:PTHR21194	20120801	GO:0014808	NCBITaxon:10090
+RGD	RGD:619856	Trdn	PMID:17569730|RGD:2314601		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP			PANTHER:PTHR14106	20091119		NCBITaxon:10116
+UniProt	MGI:MGI:1309469	Casq2	PMID:16932808|MGI:MGI:3689635		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP			PANTHER:PTHR10033	20140731		NCBITaxon:10090
+UniProt	RGD:708558	Nol3	PMID:23382383|RGD:10047354		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP			PANTHER:PTHR22797	20150109		NCBITaxon:10116
+ZFIN	ZFIN:ZDB-GENE-040801-248	stac3	PMID:28003463		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP	ZFIN:ZDB-GENO-170705-1		PANTHER:PTHR15135	20170705		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-040801-248	stac3	PMID:28003463		GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP	ZFIN:ZDB-GENO-170705-2		PANTHER:PTHR15135	20170705		NCBITaxon:7955
+AgBase	UniProtKB:P11716	RYR1	PMID:9857007		GO:0014808	release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP				20150706	UBERON:0001134|GO:0014802	NCBITaxon:9986
+AgBase	UniProtKB:A0A060WZC7	GSONMT00004066001	PMID:9857007		GO:0014808	release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP				20150706	UBERON:0001134|GO:0014802	NCBITaxon:8022
+AgBase	UniProtKB:G1U7D3	RYR1	PMID:9857007		GO:0014808	release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP				20150706	UBERON:0001134|GO:0014802	NCBITaxon:9986
+BHF-UCL	UniProtKB:Q92736	RYR2	PMID:12919952		GO:0014808	release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP			PANTHER:PTHR46399	20130215		NCBITaxon:9606
+BHF-UCL	MGI:MGI:99685	Ryr2	PMID:20226167|MGI:MGI:4442115		GO:0014808	release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IDA			PANTHER:PTHR46399	20150812	CL:0000746	NCBITaxon:10090
+MGI	MGI:MGI:99685	Ryr2	PMID:12089338		GO:0014808	release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP			PANTHER:PTHR46399	20120814	CL:0000746	NCBITaxon:10090
+MGI	MGI:MGI:1921416	Tmem38a	PMID:17611541		GO:0014808	release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IGI	MGI:MGI:1098718		PANTHER:PTHR12454	20181206		NCBITaxon:10090
+MGI	MGI:MGI:1098718	Tmem38b	PMID:17611541		GO:0014808	release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IGI	MGI:MGI:1921416		PANTHER:PTHR12454	20181206		NCBITaxon:10090
+MGI	MGI:MGI:1924007	Trdn	PMID:19383796		GO:0014808	release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP	MGI:MGI:3769415		PANTHER:PTHR14106	20120807	CL:0000746	NCBITaxon:10090
+UniProt	RGD:1586637	Ryr1	PMID:11316255|RGD:12903237		GO:0014808	release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IDA			PANTHER:PTHR46399	20170419		NCBITaxon:10116
+UniProt	UniProtKB:O60936	NOL3	PMID:15509781		GO:0014808	release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IDA			PANTHER:PTHR22797	20150112		NCBITaxon:9606
+UniProt	MGI:MGI:99659	Ryr1	PMID:18003898|MGI:MGI:3764002		GO:0014808	release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP			PANTHER:PTHR46399	20111219		NCBITaxon:10090
+UniProt	UniProtKB:P10147	CCL3	PMID:19523456		GO:0014808	release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IDA			PANTHER:PTHR12015	20111214		NCBITaxon:9606
+UniProt	UniProtKB:P51681	CCR5	PMID:19523456		GO:0014808	release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IDA			PANTHER:PTHR10489	20111214		NCBITaxon:9606
+UniProt	UniProtKB:P11716	RYR1	PMID:26115329		GO:0014808	release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IMP				20170419		NCBITaxon:9986
+UniProt	UniProtKB:Q92736	RYR2	PMID:27733687		GO:0014808	release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IDA			PANTHER:PTHR46399	20230707		NCBITaxon:9606
+UniProt	UniProtKB:Q92736	RYR2	PMID:33536282		GO:0014808	release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	IDA			PANTHER:PTHR46399	20230707		NCBITaxon:9606
+BHF-UCL	UniProtKB:O14958	CASQ2	PMID:16601229		GO:0051208	sequestering of calcium ion	IDA			PANTHER:PTHR10033	20120620		NCBITaxon:9606
+FlyBase	FB:FBgn0052451	SPoCk	PMID:16609144|FB:FBrf0194731		GO:0051208	sequestering of calcium ion	IMP			PANTHER:PTHR42861	20070523		NCBITaxon:7227
+FlyBase	FB:FBgn0261714	Cpn	PMID:23077055|FB:FBrf0219751		GO:0051208	sequestering of calcium ion	IDA				20130314		NCBITaxon:7227
+FlyBase	FB:FBgn0261714	Cpn	PMID:23077055|FB:FBrf0219751		GO:0051208	sequestering of calcium ion	IMP				20130314		NCBITaxon:7227
+MGI	MGI:MGI:1202717	Psen1	PMID:15009636		GO:0051208	sequestering of calcium ion	IMP	MGI:MGI:1857974		PANTHER:PTHR10202	20200903	GO:0098712	NCBITaxon:10090
+UniProt	UniProtKB:P35670	ATP7B	PMID:16472602		GO:0051208	sequestering of calcium ion	IDA			PANTHER:PTHR43520	20061206		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q13563	PKD2	PMID:11854751		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR10877	20120112		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q92736	RYR2	PMID:12443530		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR46399	20130213		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q99731	CCL19	PMID:14592837		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR12015	20110323		NCBITaxon:9606
+BHF-UCL	UniProtKB:O00585	CCL21	PMID:14592837		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR12015	20110323		NCBITaxon:9606
+BHF-UCL	RGD:2933	Itpr1	PMID:16223735|RGD:8554324		GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR13715	20120118		NCBITaxon:10116
+BHF-UCL	UniProtKB:Q92736	RYR2	PMID:17921453		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR46399	20130213		NCBITaxon:9606
+BHF-UCL	RGD:1586637	Ryr1	PMID:19116207|RGD:7242196		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR46399	20090204		NCBITaxon:10116
+BHF-UCL	UniProtKB:Q13563	PKD2	PMID:19265036		GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR10877	20120118		NCBITaxon:9606
+BHF-UCL	MGI:MGI:1099818	Pkd2	PMID:19265036|MGI:MGI:5315687		GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR10877	20120118		NCBITaxon:10090
+BHF-UCL	RGD:69649	Itpr2	PMID:23166348|RGD:12790654		GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR13715	20170203	CL:0002131	NCBITaxon:10116
+BHF-UCL	MGI:MGI:104593	Xcl1	PMID:7973732|MGI:MGI:77040		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR12015	20110311		NCBITaxon:10090
+BHF-UCL	RGD:2520	Drd2	PMID:8371717|RGD:8554702		GO:0051209	release of sequestered calcium ion into cytosol	IMP		UniProtKB:P61169-2	PANTHER:PTHR24248	20080902		NCBITaxon:10116
+CAFA	UniProtKB:P11716	RYR1	PMID:12620094		GO:0051209	release of sequestered calcium ion into cytosol	IDA				20161003		NCBITaxon:9986
+ComplexPortal	ComplexPortal:CPX-114	gp1b_human	PMID:1939645		GO:0051209	release of sequestered calcium ion into cytosol	IDA				20150629		NCBITaxon:9606
+ComplexPortal	UniProtKB:P14770	GP9	PMID:1939645		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR22650	20150629		NCBITaxon:9606
+ComplexPortal	UniProtKB:P07359	GP1BA	PMID:1939645		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR24373	20150629		NCBITaxon:9606
+ComplexPortal	UniProtKB:P40197	GP5	PMID:1939645		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR45617	20150629		NCBITaxon:9606
+ComplexPortal	UniProtKB:P13224	GP1BB	PMID:1939645		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR22650	20150629		NCBITaxon:9606
+DFLAT	UniProtKB:P09038	FGF2	PMID:20011604		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR11486	20100415		NCBITaxon:9606
+FlyBase	FB:FBgn0010051	Itpr	PMID:16899722|FB:FBrf0194925		GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR13715	20081211		NCBITaxon:7227
+MGI	MGI:MGI:1346338	Xcr1	PMID:10518929		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR10489	20080918		NCBITaxon:10090
+MGI	MGI:MGI:104593	Xcl1	PMID:10518929		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR12015	20080918	CL:0000817	NCBITaxon:10090
+MGI	UniProtKB:Q9P2D0	IBTK	PMID:11577348		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR22872	20090324		NCBITaxon:9606
+MGI	MGI:MGI:95541	Fkbp1a	PMID:12704193		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR10516	20081029		NCBITaxon:10090
+MGI	MGI:MGI:99659	Ryr1	PMID:12704193		GO:0051209	release of sequestered calcium ion into cytosol	IMP	MGI:MGI:2152826		PANTHER:PTHR46399	20081029		NCBITaxon:10090
+MGI	MGI:MGI:1336205	Fkbp1b	PMID:15024040		GO:0051209	release of sequestered calcium ion into cytosol	IMP	MGI:MGI:2182644		PANTHER:PTHR10516	20081031		NCBITaxon:10090
+MGI	MGI:MGI:95541	Fkbp1a	PMID:15289441		GO:0051209	release of sequestered calcium ion into cytosol	IMP	MGI:MGI:2182095|MGI:MGI:3514012		PANTHER:PTHR10516	20081029		NCBITaxon:10090
+MGI	MGI:MGI:99702	Bax	PMID:15947791		GO:0051209	release of sequestered calcium ion into cytosol	IMP	MGI:MGI:1857429		PANTHER:PTHR11256	20090202	EMAPA:32804	NCBITaxon:10090
+MGI	MGI:MGI:99702	Bax	PMID:15947791		GO:0051209	release of sequestered calcium ion into cytosol	IMP	MGI:MGI:1857429		PANTHER:PTHR11256	20090202	CL:0000723	NCBITaxon:10090
+MGI	MGI:MGI:1099818	Pkd2	PMID:17404231		GO:0051209	release of sequestered calcium ion into cytosol	IMP	MGI:MGI:1860866		PANTHER:PTHR10877	20090120	CL:0000746|EMAPA:16105	NCBITaxon:10090
+MGI	MGI:MGI:1339957	P2rx7	PMID:18082965		GO:0051209	release of sequestered calcium ion into cytosol	IMP	MGI:MGI:2386080		PANTHER:PTHR10125	20080723	EMAPA:16974	NCBITaxon:10090
+MGI	MGI:MGI:1098718	Tmem38b	PMID:19515693		GO:0051209	release of sequestered calcium ion into cytosol	IMP	MGI:MGI:3716065		PANTHER:PTHR12454	20181206	CL:0002063	NCBITaxon:10090
+MGI	MGI:MGI:1918361	Gpr39	PMID:23133519		GO:0051209	release of sequestered calcium ion into cytosol	IMP	MGI:MGI:3701833		PANTHER:PTHR46752	20130222	CL:0000057	NCBITaxon:10090
+MGI	MGI:MGI:1918361	Gpr39	PMID:23133519		GO:0051209	release of sequestered calcium ion into cytosol	IMP	MGI:MGI:3701833		PANTHER:PTHR46752	20130222	EMAPA:32834	NCBITaxon:10090
+MGI	MGI:MGI:3053558	Fcrl5	PMID:23509253		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR11481	20131028	CL:0000236	NCBITaxon:10090
+MGI	MGI:MGI:3053558	Fcrl5	PMID:23509253		GO:0051209	release of sequestered calcium ion into cytosol	IGI	MGI:MGI:96892		PANTHER:PTHR11481	20131028	CL:0000236	NCBITaxon:10090
+MGI	MGI:MGI:3053558	Fcrl5	PMID:23509253		GO:0051209	release of sequestered calcium ion into cytosol	IGI	MGI:MGI:96055		PANTHER:PTHR11481	20131028	CL:0000236	NCBITaxon:10090
+RGD	RGD:2586	F2r	PMID:15145074|RGD:1582290		GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR24232	20061103		NCBITaxon:10116
+RGD	RGD:2703	Glp1r	PMID:15789279|RGD:1598438		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR45620	20061128		NCBITaxon:10116
+RGD	RGD:2786	Hcrt	PMID:15858425|RGD:1600997	not	GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR15173	20070402		NCBITaxon:10116
+RGD	RGD:1308953	Mcoln1	PMID:17613490|RGD:7205504		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR12127	20070221		NCBITaxon:10116
+UniProt	MGI:MGI:97810	Ptprc	PMID:10508267|MGI:MGI:1345540		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR19134	20060105		NCBITaxon:10090
+UniProt	MGI:MGI:97616	Plcg2	PMID:10925250|MGI:MGI:1861532		GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR10336	20111220		NCBITaxon:10090
+UniProt	UniProtKB:P16885	PLCG2	PMID:11606584		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR10336	20111220		NCBITaxon:9606
+UniProt	UniProtKB:P21817	RYR1	PMID:11741831		GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR46399	20170418		NCBITaxon:9606
+UniProt	UniProtKB:Q8IWX8	CHERP	PMID:12656674		GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR12323	20111215		NCBITaxon:9606
+UniProt	MGI:MGI:96756	Lck	PMID:1505025|MGI:MGI:3687439		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR24418	20051108		NCBITaxon:10090
+UniProt	UniProtKB:P41595	HTR2B	PMID:15862800		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR24247	20100621		NCBITaxon:9606
+UniProt	UniProtKB:P28223	HTR2A	PMID:15862800		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR24247	20100621		NCBITaxon:9606
+UniProt	UniProtKB:O46635	HTR2A	PMID:15862800		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR24247	20100621		NCBITaxon:9615
+UniProt	UniProtKB:P21817	RYR1	PMID:16163667		GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR46399	20170418		NCBITaxon:9606
+UniProt	UniProtKB:P41595	HTR2B	PMID:18566482		GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR24247	20100609		NCBITaxon:9606
+UniProt	UniProtKB:P41595	HTR2B	PMID:18703043		GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR24247	20100609		NCBITaxon:9606
+UniProt	UniProtKB:P28335	HTR2C	PMID:18703043		GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR24247	20100609		NCBITaxon:9606
+UniProt	UniProtKB:P28223	HTR2A	PMID:18703043		GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR24247	20100609		NCBITaxon:9606
+UniProt	MGI:MGI:109247	Ddit3	PMID:19752026|MGI:MGI:4366390		GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR16833	20121008		NCBITaxon:10090
+UniProt	MGI:MGI:96623	Itpr1	PMID:19752026|MGI:MGI:4366390		GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR13715	20121008		NCBITaxon:10090
+UniProt	MGI:MGI:1354385	Ero1a	PMID:19752026|MGI:MGI:4366390		GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR12613	20121008		NCBITaxon:10090
+UniProt	MGI:MGI:2385297	Tpcn2	PMID:20495006|MGI:MGI:5285159		GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR46768	20110629		NCBITaxon:10090
+UniProt	MGI:MGI:1351901	Trpm2	PMID:21753080|MGI:MGI:5298324		GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR13800	20160915		NCBITaxon:10090
+UniProt	MGI:MGI:2385297	Tpcn2	PMID:25144390|MGI:MGI:5691857		GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR46768	20210517		NCBITaxon:10090
+UniProt	UniProtKB:O94759	TRPM2	PMID:27068538		GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR13800	20160914		NCBITaxon:9606
+UniProt	UniProtKB:Q13698	CACNA1S	PMID:28012042		GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR45628	20230509		NCBITaxon:9606
+UniProt	UniProtKB:P41595	HTR2B	PMID:8882600		GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR24247	20100525		NCBITaxon:9606
+UniProt	UniProtKB:Q9TS33	RYR3	PMID:9305876		GO:0051209	release of sequestered calcium ion into cytosol	IDA				20230707		NCBITaxon:9986
+ZFIN	ZFIN:ZDB-GENE-980526-87	wnt5b	PMID:20660632		GO:0051209	release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR12027	20100819		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-070209-277	ryk	PMID:20660632		GO:0051209	release of sequestered calcium ion into cytosol	IMP	ZFIN:ZDB-MRPHLNO-100805-1		PANTHER:PTHR24416	20100819		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-070117-2518	nebel	PMID:29632136		GO:0051209	release of sequestered calcium ion into cytosol	IMP	ZFIN:ZDB-GENO-190502-18			20190502	GO:2000197	NCBITaxon:7955
+dictyBase	dictyBase:DDB_G0292564	iplA	PMID:18359017		GO:0051209	release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR13715	20080620		NCBITaxon:44689
+BHF-UCL	UniProtKB:O60610	DIAPH1	PMID:15123714		GO:0051279	regulation of release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR45691	20120116		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q01484	ANK2	PMID:17242276		GO:0051279	regulation of release of sequestered calcium ion into cytosol	IGI	UniProtKB:Q8C8R3		PANTHER:PTHR24133	20120615	CL:0000746	NCBITaxon:9606
+MGI	MGI:MGI:97599	Prkce	PMID:15905535		GO:0051279	regulation of release of sequestered calcium ion into cytosol	IMP	MGI:MGI:2152043		PANTHER:PTHR24356	20190404	CL:0000235|EMAPA:16138	NCBITaxon:10090
+MGI	MGI:MGI:1919949	Lime1	PMID:16249387		GO:0051279	regulation of release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR47740	20110223		NCBITaxon:10090
+MGI	MGI:MGI:1920078	Ubash3b	PMID:20585042		GO:0051279	regulation of release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR16469	20121114	GO:0051209|GO:0051649	NCBITaxon:10090
+MGI	MGI:MGI:97599	Prkce	PMID:23479225		GO:0051279	regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR24356	20141217		NCBITaxon:10090
+MGI	MGI:MGI:99879	Prkd1	PMID:23479225		GO:0051279	regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR22968	20141217		NCBITaxon:10090
+MGI	MGI:MGI:96892	Lyn	PMID:23509253		GO:0051279	regulation of release of sequestered calcium ion into cytosol	IGI	MGI:MGI:3053558		PANTHER:PTHR24418	20131028	GO:0051209|GO:0051649	NCBITaxon:10090
+MGI	MGI:MGI:96055	Ptpn6	PMID:23509253		GO:0051279	regulation of release of sequestered calcium ion into cytosol	IGI	MGI:MGI:3053558		PANTHER:PTHR46257	20131028	GO:0051209|GO:0051649	NCBITaxon:10090
+MGI	MGI:MGI:1277186	Atg5	PMID:24185898		GO:0051279	regulation of release of sequestered calcium ion into cytosol	IMP	MGI:MGI:3663625		PANTHER:PTHR13040	20140707	GO:0051209|GO:0051649	NCBITaxon:10090
+MGI	MGI:MGI:1316658	Cyba	PMID:24185898		GO:0051279	regulation of release of sequestered calcium ion into cytosol	IMP	MGI:MGI:3526726		PANTHER:PTHR15168	20140707	GO:0051209|GO:0051649	NCBITaxon:10090
+MGI	MGI:MGI:97321	Ngf	PMID:24265601		GO:0051279	regulation of release of sequestered calcium ion into cytosol	IGI	MGI:MGI:1345961		PANTHER:PTHR11589	20140820		NCBITaxon:10090
+MGI	MGI:MGI:1345961	Coro1a	PMID:24270184		GO:0051279	regulation of release of sequestered calcium ion into cytosol	IGI	MGI:MGI:97321		PANTHER:PTHR10856	20140820		NCBITaxon:10090
+RGD	RGD:621017	Lyn	PMID:16177098|RGD:1578516		GO:0051279	regulation of release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR24418	20070221		NCBITaxon:10116
+RGD	RGD:2598	Ms4a2	PMID:16177098|RGD:1578516		GO:0051279	regulation of release of sequestered calcium ion into cytosol	IGI	RGD:621017		PANTHER:PTHR23320	20070221		NCBITaxon:10116
+RGD	RGD:628868	Itgb3	PMID:7689577|RGD:8693381		GO:0051279	regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR10082	20140711		NCBITaxon:10116
+UniProt	MGI:MGI:104908	Ptk2b	PMID:12960403|MGI:MGI:3583523		GO:0051279	regulation of release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR24418	20111123		NCBITaxon:10090
+ZFIN	ZFIN:ZDB-GENE-030825-2	bcl2l10	PMID:21571223		GO:0051279	regulation of release of sequestered calcium ion into cytosol	IMP	ZFIN:ZDB-MRPHLNO-061206-1		PANTHER:PTHR11256	20130321		NCBITaxon:7955
+dictyBase	dictyBase:DDB_G0284331	regA	PMID:15752425		GO:0051279	regulation of release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR11347	20050316		NCBITaxon:44689
+BHF-UCL	UniProtKB:P62942	FKBP1A	PMID:12443530	not	GO:0051280	negative regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR10516	20130213		NCBITaxon:9606
+BHF-UCL	UniProtKB:P68106	FKBP1B	PMID:12443530		GO:0051280	negative regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR10516	20130213		NCBITaxon:9606
+MGI	MGI:MGI:3053558	Fcrl5	PMID:23509253		GO:0051280	negative regulation of release of sequestered calcium ion into cytosol	IGI	MGI:MGI:96055		PANTHER:PTHR11481	20131028	GO:0051209|GO:0051649	NCBITaxon:10090
+MGI	MGI:MGI:3053558	Fcrl5	PMID:23509253		GO:0051280	negative regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR11481	20131028	GO:0051209|GO:0051649	NCBITaxon:10090
+MGI	MGI:MGI:3053558	Fcrl5	PMID:23509253		GO:0051280	negative regulation of release of sequestered calcium ion into cytosol	IGI	MGI:MGI:96892		PANTHER:PTHR11481	20131028	GO:0051209|GO:0051649	NCBITaxon:10090
+RGD	RGD:1306076	Ntsr1	PMID:12084713|RGD:727385		GO:0051280	negative regulation of release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR24243	20150219		NCBITaxon:10116
+RGD	RGD:69051	Tgfb1	PMID:12876066|RGD:731229		GO:0051280	negative regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR11848	20060516		NCBITaxon:10116
+RGD	RGD:70491	Tgfb2	PMID:12876066|RGD:731229		GO:0051280	negative regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR11848	20060516		NCBITaxon:10116
+RGD	RGD:619856	Trdn	PMID:16176928|RGD:7327230		GO:0051280	negative regulation of release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR14106	20130917		NCBITaxon:10116
+UniProt	RGD:61925	Prkce	PMID:20383739|RGD:7206836		GO:0051280	negative regulation of release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR24356	20140815	GO:0043066	NCBITaxon:10116
+ARUK-UCL	UniProtKB:P78423	CX3CL1	PMID:10415068		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IGI	UniProtKB:P35411		PANTHER:PTHR12015	20180605	CL:0000127|CL:0000129	NCBITaxon:9606
+ARUK-UCL	UniProtKB:P78423	CX3CL1	PMID:10869418		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IGI	UniProtKB:P35411		PANTHER:PTHR12015	20180605		NCBITaxon:9606
+BHF-UCL	RGD:69412	Akap6	PMID:12709444|RGD:8554839		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR14514	20130624		NCBITaxon:10116
+BHF-UCL	UniProtKB:P21728	DRD1	PMID:1282671		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR24248	20080902		NCBITaxon:9606
+BHF-UCL	UniProtKB:P00734	F2	PMID:1672265		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR24254	20100624		NCBITaxon:9606
+BHF-UCL	UniProtKB:P25116	F2R	PMID:1672265		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR24232	20100624		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q96RI0	F2RL3	PMID:18480058		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR24232	20100624		NCBITaxon:9606
+BHF-UCL	UniProtKB:P00734	F2	PMID:19052258		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR24254	20090521		NCBITaxon:9606
+BHF-UCL	UniProtKB:P48995	TRPC1	PMID:19052258		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR10117	20090521		NCBITaxon:9606
+BHF-UCL	MGI:MGI:98419	Sri	PMID:22338092|MGI:MGI:5487506		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR46735	20130128		NCBITaxon:10090
+BHF-UCL	UniProtKB:P19174	PLCG1	PMID:22454520		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR10336	20140512		NCBITaxon:9606
+BHF-UCL	UniProtKB:O15530	PDPK1	PMID:22454520		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR24356	20140512	CL:0000034	NCBITaxon:9606
+BHF-UCL	UniProtKB:P47992	XCL1	PMID:7602097		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR12015	20110315		NCBITaxon:9606
+BHF-UCL	UniProtKB:P21728	DRD1	PMID:7838121		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR24248	20080902		NCBITaxon:9606
+MGI	MGI:MGI:1917060	Clec4b1	PMID:12777403		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR22802	20120913		NCBITaxon:10090
+MGI	MGI:MGI:99702	Bax	PMID:15947791		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IMP	MGI:MGI:1857429		PANTHER:PTHR11256	20090202	GO:0051209|GO:0051649	NCBITaxon:10090
+MGI	MGI:MGI:88319	Cd19	PMID:19228876		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IGI	MGI:MGI:87859		PANTHER:PTHR16674	20140710	CL:0000236	NCBITaxon:10090
+MGI	MGI:MGI:87859	Abl1	PMID:19228876		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IGI	MGI:MGI:88319		PANTHER:PTHR24418	20140710	CL:0000236	NCBITaxon:10090
+MGI	MGI:MGI:1918361	Gpr39	PMID:23133519		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IMP	MGI:MGI:3701833		PANTHER:PTHR46752	20130222	GO:0051209|GO:0051649	NCBITaxon:10090
+MGI	MGI:MGI:1918361	Gpr39	PMID:26375174		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR46752	20170531	CL:0002608	NCBITaxon:10090
+RGD	RGD:1306076	Ntsr1	PMID:10799761|RGD:9743926		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR24243	20150220		NCBITaxon:10116
+RGD	RGD:2535	Ednra	PMID:12628492|RGD:728499		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR46099	20061026		NCBITaxon:10116
+RGD	RGD:620401	Bdkrb1	PMID:15319421|RGD:1625754	not	GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR24228	20070628		NCBITaxon:10116
+RGD	RGD:620401	Bdkrb1	PMID:15576455|RGD:1625040		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR24228	20070628		NCBITaxon:10116
+RGD	RGD:68949	Il13	PMID:20045483|RGD:4145470		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA				20101105		NCBITaxon:10116
+RGD	RGD:619856	Trdn	PMID:21811790|RGD:7327228		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR14106	20130917		NCBITaxon:10116
+RGD	RGD:3007	Lhcgr	PMID:8187959|RGD:2292619		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR24372	20080425		NCBITaxon:10116
+RGD	RGD:2490	Dbi	PMID:9804683|RGD:2316286		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR23310	20100203		NCBITaxon:10116
+UniProt	UniProtKB:P02778	CXCL10	PMID:12782716		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR10179	20131126		NCBITaxon:9606
+UniProt	UniProtKB:O14625	CXCL11	PMID:12782716		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR10179	20131126		NCBITaxon:9606
+UniProt	UniProtKB:Q07325	CXCL9	PMID:12782716		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR10179	20131126		NCBITaxon:9606
+UniProt	UniProtKB:P82535	P82535	PMID:15476666		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA				20140909	CL:0000096	NCBITaxon:9986
+UniProt	UniProtKB:P37840	SNCA	PMID:15641770		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR13820	20091006		NCBITaxon:9606
+UniProt	UniProtKB:Q99527	GPER1	PMID:15705806		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR24226	20130821		NCBITaxon:9606
+UniProt	UniProtKB:P15391	CD19	PMID:16672701		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR16674	20181106		NCBITaxon:9606
+UniProt	UniProtKB:Q6W5P4	NPSR1	PMID:16790440		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR24244	20141028		NCBITaxon:9606
+UniProt	UniProtKB:Q9GZZ8	LACRT	PMID:16923831		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR40711	20081013		NCBITaxon:9606
+UniProt	MGI:MGI:107437	Capn3	PMID:18676612|MGI:MGI:3811664		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR10183	20120105	EMAPA:32716	NCBITaxon:10090
+UniProt	UniProtKB:Q8WUJ3	CEMIP	PMID:23990668		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR15535	20140212		NCBITaxon:9606
+UniProt	UniProtKB:P35414	APLNR	PMID:25639753		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR24228	20170512		NCBITaxon:9606
+UniProt	RGD:3860	Thy1	PMID:2873512|RGD:8554039		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IDA			PANTHER:PTHR19226	20051222		NCBITaxon:10116
+UniProt	UniProtKB:P31415	CASQ1	PMID:28895244		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR10033	20171016		NCBITaxon:9606
+UniProt	UniProtKB:P15391	CD19	PMID:9382888		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR16674	20181107		NCBITaxon:9606
+UniProt	MGI:MGI:88319	Cd19	PMID:9382888|MGI:MGI:1100180		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR16674	20181107		NCBITaxon:10090
+dictyBase	dictyBase:DDB_G0284331	regA	PMID:15752425		GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	IMP			PANTHER:PTHR11347	20050404		NCBITaxon:44689
+FlyBase	FB:FBgn0263006	SERCA	PMID:15520268|FB:FBrf0188489		GO:0051282	regulation of sequestering of calcium ion	IMP			PANTHER:PTHR42861	20060803		NCBITaxon:7227
+MGI	MGI:MGI:1914222	Slc25a23	PMID:23344948		GO:0051282	regulation of sequestering of calcium ion	IMP	MGI:MGI:5500043		PANTHER:PTHR24089	20130904		NCBITaxon:10090
+RGD	RGD:1586677	Casq1	PMID:19029185|RGD:2313265		GO:0051282	regulation of sequestering of calcium ion	IDA			PANTHER:PTHR10033	20090915		NCBITaxon:10116
+AgBase	UniProtKB:P79134	ANXA6	PMID:8700157		GO:0051283	negative regulation of sequestering of calcium ion	IDA			PANTHER:PTHR10502	20141106		NCBITaxon:9913
+AgBase	UniProtKB:P81287	ANXA5	PMID:8700157		GO:0051283	negative regulation of sequestering of calcium ion	IDA			PANTHER:PTHR10502	20141106		NCBITaxon:9913
+BHF-UCL	UniProtKB:P68106	FKBP1B	PMID:12443530		GO:0051284	positive regulation of sequestering of calcium ion	IDA			PANTHER:PTHR10516	20130213	UniProtKB:Q92736	NCBITaxon:9606
+BHF-UCL	UniProtKB:Q92736	RYR2	PMID:12443530		GO:0051284	positive regulation of sequestering of calcium ion	IDA			PANTHER:PTHR46399	20130213		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q92736	RYR2	PMID:12919952		GO:0051284	positive regulation of sequestering of calcium ion	IDA			PANTHER:PTHR46399	20130215		NCBITaxon:9606
+CACAO	ZFIN:ZDB-GENE-040827-4	pkd2	PMID:23376035|ZFIN:ZDB-PUB-130218-3		GO:0051284	positive regulation of sequestering of calcium ion	IMP			PANTHER:PTHR10877	20130209		NCBITaxon:7955
+UniProt	UniProtKB:Q8NCU8	MTLN	PMID:29949756		GO:0051284	positive regulation of sequestering of calcium ion	IDA			PANTHER:PTHR37154	20180716		NCBITaxon:9606
+UniProt	MGI:MGI:1915135	Mtln	PMID:29949756|MGI:MGI:6189513		GO:0051284	positive regulation of sequestering of calcium ion	IDA			PANTHER:PTHR37154	20180716		NCBITaxon:10090
+dictyBase	dictyBase:DDB_G0279407	calA	PMID:8689668		GO:0051284	positive regulation of sequestering of calcium ion	IMP			PANTHER:PTHR23050	20180202		NCBITaxon:44689
+PomBase	PomBase:SPBC31E1.02c	pmr1	PMID:21811607		GO:0061454	release of sequestered calcium ion into cytosol by Golgi	EXP			PANTHER:PTHR42861	20150218		NCBITaxon:4896
+MGI	UniProtKB:P48023	FASLG	PMID:26582200		GO:1903514	release of sequestered calcium ion into cytosol by endoplasmic reticulum	IDA			PANTHER:PTHR11471	20170111		NCBITaxon:9606
+MGI	MGI:MGI:1098718	Tmem38b	PMID:27188440		GO:1903514	release of sequestered calcium ion into cytosol by endoplasmic reticulum	IMP	MGI:MGI:1921416		PANTHER:PTHR12454	20181206	CL:0000062	NCBITaxon:10090
+SGD	SGD:S000000240	CSG2	PMID:37349354		GO:1903514	release of sequestered calcium ion into cytosol by endoplasmic reticulum	IMP		UniProtKB:P35206		20230628	GO:0032469	NCBITaxon:559292
