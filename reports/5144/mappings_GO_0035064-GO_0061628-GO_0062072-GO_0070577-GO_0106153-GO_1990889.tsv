@@ -1,0 +1,4 @@
+term	file	line
+GO:0035064	interpro2go	InterPro:IPR029096 Developmental pluripotency-associated protein 3 > GO:methylated histone binding ; GO:0035064
+GO:0035064	interpro2go	InterPro:IPR037948 Chromo domain-containing protein cec-4/Chromobox protein homolog hpl-2 > GO:methylated histone binding ; GO:0035064
+GO:0070577	interpro2go	InterPro:IPR035309 Proteasome activator complex subunit 4 > GO:lysine-acetylated histone binding ; GO:0070577
