@@ -1,4 +1,4 @@
-! Generated on 2024-02-22T11:33Z from the ontology 'go' with data version: 'releases/2024-02-22'
+! Generated on 2024-03-21T23:59Z from the ontology 'go' with data version: 'releases/2024-03-21'
 !
 UM-BBD_pathwayID:2,4,5-t > GO:2,4,5-trichlorophenoxyacetic acid metabolic process ; GO:0018980
 UM-BBD_pathwayID:2,4-d > GO:2,4-dichlorophenoxyacetic acid metabolic process ; GO:0018901
@@ -79,7 +79,6 @@ UM-BBD_pathwayID:nphs > GO:naphthalenesulfonate metabolic process ; GO:0018984
 UM-BBD_pathwayID:npp > GO:2-nitropropane metabolic process ; GO:0018938
 UM-BBD_pathwayID:nta > GO:nitrilotriacetate metabolic process ; GO:0018934
 UM-BBD_pathwayID:oct > GO:n-octane metabolic process ; GO:0018939
-UM-BBD_pathwayID:ogm > GO:organomercury metabolic process ; GO:0018941
 UM-BBD_pathwayID:orc > GO:orcinol metabolic process ; GO:0018940
 UM-BBD_pathwayID:orc > GO:orcinol catabolic process ; GO:0042209
 UM-BBD_pathwayID:osi > GO:organosilicon metabolic process ; GO:0018945

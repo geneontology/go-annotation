@@ -1,4 +1,4 @@
-! Generated on 2024-02-22T11:33Z from the ontology 'go' with data version: 'releases/2024-02-22'
+! Generated on 2024-03-21T23:59Z from the ontology 'go' with data version: 'releases/2024-03-21'
 !
 UM-BBD_reactionID:r0005 > GO:gallate decarboxylase activity ; GO:0018798
 UM-BBD_reactionID:r0006 > GO:pyrogallol hydroxytransferase activity ; GO:0018706
@@ -181,7 +181,7 @@ UM-BBD_reactionID:r0371 > GO:succinate-semialdehyde dehydrogenase [NAD(P)+] acti
 UM-BBD_reactionID:r0382 > GO:DL-2 haloacid dehalogenase activity ; GO:0018778
 UM-BBD_reactionID:r0383 > GO:dichloroacetate halidohydrolase activity ; GO:0018780
 UM-BBD_reactionID:r0392 > GO:p-cymene methyl hydroxylase activity ; GO:0018694
-UM-BBD_reactionID:r0394 > GO:aryl-aldehyde dehydrogenase (NAD) activity ; GO:0019108
+UM-BBD_reactionID:r0394 > GO:aryl-aldehyde dehydrogenase (NAD+) activity ; GO:0019108
 UM-BBD_reactionID:r0395 > GO:p-cumate 2,3-dioxygenase activity ; GO:0018570
 UM-BBD_reactionID:r0396 > GO:2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase activity ; GO:0018511
 UM-BBD_reactionID:r0397 > GO:2,3-dihydroxy-p-cumate dioxygenase activity ; GO:0018571
@@ -319,7 +319,7 @@ UM-BBD_reactionID:r0721 > GO:N-isopropylaniline 1,2-dixoxygenase activity ; GO:0
 UM-BBD_reactionID:r0723 > GO:acetanilide 1,2-dioxygenase activity ; GO:0034907
 UM-BBD_reactionID:r0724 > GO:2-chloro-N-isopropylacetanilide 1,2-dioxygenase activity ; GO:0034908
 UM-BBD_reactionID:r0728 > GO:(S)-limonene 7-monooxygenase activity ; GO:0018676
-UM-BBD_reactionID:r0729 > GO:perillyl-alcohol dehydrogenase activity ; GO:0018457
+UM-BBD_reactionID:r0729 > GO:perillyl-alcohol dehydrogenase (NAD+) activity ; GO:0018457
 UM-BBD_reactionID:r0732 > GO:carvone reductase activity ; GO:0018494
 UM-BBD_reactionID:r0733 > GO:(R)-limonene 1,2-monooxygenase activity ; GO:0018635
 UM-BBD_reactionID:r0734 > GO:limonene-1,2-epoxide hydrolase activity ; GO:0018744
@@ -503,7 +503,7 @@ UM-BBD_reactionID:r1138 > GO:7,8-dihydroxy benzo(a)pyrene dioxygenase activity ;
 UM-BBD_reactionID:r1141 > GO:anthracene 9,10-dioxygenase activity ; GO:0034816
 UM-BBD_reactionID:r1144 > GO:cis-9,10-dihydroanthracene-9,10-diol dehydrogenase activity ; GO:0034817
 UM-BBD_reactionID:r1145 > GO:S-(hydroxymethyl)glutathione synthase activity ; GO:0051907
-UM-BBD_reactionID:r1146 > GO:S-(hydroxymethyl)glutathione dehydrogenase activity ; GO:0051903
+UM-BBD_reactionID:r1146 > GO:S-(hydroxymethyl)glutathione dehydrogenase (NAD(P)+) activity ; GO:0051903
 UM-BBD_reactionID:r1149 > GO:ADD 9alpha-hydroxylase activity ; GO:0034818
 UM-BBD_reactionID:r1150 > GO:3-HSA hydroxylase activity ; GO:0034819
 UM-BBD_reactionID:r1151 > GO:3,4-dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione 4,5-dioxygenase activity ; GO:0047071

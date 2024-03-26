@@ -1,4 +1,4 @@
-! Generated on 2024-02-22T11:33Z from the ontology 'go' with data version: 'releases/2024-02-22'
+! Generated on 2024-03-21T23:59Z from the ontology 'go' with data version: 'releases/2024-03-21'
 !
 Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase [NAD(P)] activity ; GO:0003845
 Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase (NAD+) activity ; GO:0070523
@@ -290,7 +290,7 @@ Wikipedia:Glycolysis > GO:canonical glycolysis ; GO:0061621
 Wikipedia:Glycosome > GO:glycosome ; GO:0020015
 Wikipedia:Glycosylation > GO:glycosylation ; GO:0070085
 Wikipedia:Glyoxylate_cycle > GO:glyoxylate cycle ; GO:0006097
-Wikipedia:Glyoxylate_reductase_(NADP+) > GO:glyoxylate reductase (NADP+) activity ; GO:0030267
+Wikipedia:Glyoxylate_reductase_(NADP+) > GO:glyoxylate reductase (NADPH) activity ; GO:0030267
 Wikipedia:Glyoxysome > GO:glyoxysome ; GO:0009514
 Wikipedia:Golgi_apparatus > GO:Golgi apparatus ; GO:0005794
 Wikipedia:Gravitropism > GO:gravitropism ; GO:0009630
@@ -588,7 +588,7 @@ Wikipedia:Regulation_of_gene_expression > GO:regulation of gene expression ; GO:
 Wikipedia:Replication_fork > GO:replication fork ; GO:0005657
 Wikipedia:Replication_protein_A > GO:DNA replication factor A complex ; GO:0005662
 Wikipedia:Replisome > GO:replisome ; GO:0030894
-Wikipedia:Reproduction > GO:reproduction ; GO:0000003
+Wikipedia:Reproduction > GO:reproductive process ; GO:0022414
 Wikipedia:Respiratory_burst > GO:respiratory burst ; GO:0045730
 Wikipedia:Retinol > GO:retinol metabolic process ; GO:0042572
 Wikipedia:Retrotransposon_silencing > GO:retrotransposon silencing ; GO:0010526

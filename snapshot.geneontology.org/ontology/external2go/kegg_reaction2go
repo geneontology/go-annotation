@@ -1,4 +1,4 @@
-! Generated on 2024-02-22T11:33Z from the ontology 'go' with data version: 'releases/2024-02-22'
+! Generated on 2024-03-21T23:59Z from the ontology 'go' with data version: 'releases/2024-03-21'
 !
 KEGG_REACTION:R00004 > GO:inorganic diphosphate phosphatase activity ; GO:0004427
 KEGG_REACTION:R00005 > GO:allophanate hydrolase activity ; GO:0004039
@@ -183,7 +183,7 @@ KEGG_REACTION:R00586 > GO:serine O-acetyltransferase activity ; GO:0009001
 KEGG_REACTION:R00601 > GO:tRNA (5-methylaminomethyl-2-thiouridylate)(34)-methyltransferase activity ; GO:0004808
 KEGG_REACTION:R00603 > GO:dichloromethane dehalogenase activity ; GO:0018834
 KEGG_REACTION:R00604 > GO:formaldehyde dehydrogenase activity ; GO:0018467
-KEGG_REACTION:R00605 > GO:methanol dehydrogenase activity ; GO:0050093
+KEGG_REACTION:R00605 > GO:methanol dehydrogenase (NAD+) activity ; GO:0050093
 KEGG_REACTION:R00606 > GO:methylamine dehydrogenase (amicyanin) activity ; GO:0052876
 KEGG_REACTION:R00609 > GO:methylglutamate dehydrogenase activity ; GO:0050099
 KEGG_REACTION:R00610 > GO:sarcosine oxidase activity ; GO:0008115
@@ -270,7 +270,7 @@ KEGG_REACTION:R00894 > GO:glutamate-cysteine ligase activity ; GO:0004357
 KEGG_REACTION:R00906 > GO:beta-alanopine dehydrogenase activity ; GO:0047697
 KEGG_REACTION:R00909 > GO:N-acetyl-beta-alanine deacetylase activity ; GO:0050117
 KEGG_REACTION:R00913 > GO:guanidinopropionase activity ; GO:0047972
-KEGG_REACTION:R00919 > GO:acryloyl-CoA reductase (NADP+) activity ; GO:0043957
+KEGG_REACTION:R00919 > GO:acryloyl-CoA reductase (NADPH) activity ; GO:0043957
 KEGG_REACTION:R00931 > GO:2-methylcitrate synthase activity ; GO:0050440
 KEGG_REACTION:R00932 > GO:2-hydroxyglutarate synthase activity ; GO:0019142
 KEGG_REACTION:R00941 > GO:formyltetrahydrofolate dehydrogenase activity ; GO:0016155
@@ -360,7 +360,7 @@ KEGG_REACTION:R01174 > GO:phosphate butyryltransferase activity ; GO:0050182
 KEGG_REACTION:R01178 > GO:butyryl-CoA dehydrogenase activity ; GO:0004085
 KEGG_REACTION:R01180 > GO:3-ethylmalate synthase activity ; GO:0050441
 KEGG_REACTION:R01181 > GO:isobutyryl-CoA mutase activity ; GO:0047727
-KEGG_REACTION:R01183 > GO:inositol 2-dehydrogenase activity ; GO:0050112
+KEGG_REACTION:R01183 > GO:inositol 2-dehydrogenase (NAD+) activity ; GO:0050112
 KEGG_REACTION:R01184 > GO:inositol oxygenase activity ; GO:0050113
 KEGG_REACTION:R01188 > GO:inositol 1-methyltransferase activity ; GO:0030741
 KEGG_REACTION:R01189 > GO:inositol 3-methyltransferase activity ; GO:0030740
@@ -525,7 +525,7 @@ KEGG_REACTION:R01737 > GO:gluconokinase activity ; GO:0046316
 KEGG_REACTION:R01748 > GO:phosphoglycerate phosphatase activity ; GO:0050192
 KEGG_REACTION:R01751 > GO:tartrate decarboxylase activity ; GO:0050319
 KEGG_REACTION:R01754 > GO:L-arabinokinase activity ; GO:0009702
-KEGG_REACTION:R01759 > GO:L-arabinose:NADP reductase activity ; GO:0032867
+KEGG_REACTION:R01759 > GO:L-arabinose reductase (NADPH) activity ; GO:0032867
 KEGG_REACTION:R01761 > GO:L-arabinose isomerase activity ; GO:0008733
 KEGG_REACTION:R01766 > GO:phenylserine aldolase activity ; GO:0050179
 KEGG_REACTION:R01771 > GO:homoserine kinase activity ; GO:0004413
@@ -551,9 +551,9 @@ KEGG_REACTION:R01853 > GO:primary amine oxidase activity ; GO:0008131
 KEGG_REACTION:R01855 > GO:dGTP diphosphatase activity ; GO:0036217
 KEGG_REACTION:R01856 > GO:dGTPase activity ; GO:0008832
 KEGG_REACTION:R01862 > GO:aryl-acylamidase activity ; GO:0047680
-KEGG_REACTION:R01866 > GO:dihydroorotate dehydrogenase (NADPH) activity ; GO:0050158
+KEGG_REACTION:R01866 > GO:dihydroorotate dehydrogenase (NADP+) activity ; GO:0050158
 KEGG_REACTION:R01868 > GO:dihydroorotate dehydrogenase activity ; GO:0004152
-KEGG_REACTION:R01869 > GO:dihydroorotate dehydrogenase (NADH) activity ; GO:0004589
+KEGG_REACTION:R01869 > GO:dihydroorotate dehydrogenase (NAD+) activity ; GO:0004589
 KEGG_REACTION:R01872 > GO:quinate 3-dehydrogenase (NAD+) activity ; GO:0030266
 KEGG_REACTION:R01873 > GO:quinate dehydrogenase (quinone) activity ; GO:0047519
 KEGG_REACTION:R01879 > GO:deoxyuridine 2'-dioxygenase activity ; GO:0047080
@@ -568,7 +568,7 @@ KEGG_REACTION:R01895 > GO:ribitol 2-dehydrogenase activity ; GO:0050255
 KEGG_REACTION:R01896 > GO:D-xylulose reductase activity ; GO:0046526
 KEGG_REACTION:R01898 > GO:D-lyxose ketol-isomerase activity ; GO:0047828
 KEGG_REACTION:R01903 > GO:L-arabinitol 4-dehydrogenase activity ; GO:0050019
-KEGG_REACTION:R01904 > GO:L-xylulose reductase (NADP+) activity ; GO:0050038
+KEGG_REACTION:R01904 > GO:L-xylulose reductase (NADPH) activity ; GO:0050038
 KEGG_REACTION:R01905 > GO:dehydro-L-gulonate decarboxylase activity ; GO:0047842
 KEGG_REACTION:R01908 > GO:oxalyl-CoA decarboxylase activity ; GO:0008949
 KEGG_REACTION:R01912 > GO:pyridoxine 5'-O-beta-D-glucosyltransferase activity ; GO:0047231
@@ -587,7 +587,7 @@ KEGG_REACTION:R01951 > GO:fucose-1-phosphate guanylyltransferase activity ; GO:0
 KEGG_REACTION:R01957 > GO:kynurenine-glyoxylate transaminase activity ; GO:0047315
 KEGG_REACTION:R01960 > GO:kynurenine 3-monooxygenase activity ; GO:0004502
 KEGG_REACTION:R01967 > GO:deoxyguanosine kinase activity ; GO:0004138
-KEGG_REACTION:R01971 > GO:indolelactate dehydrogenase (NADH) activity ; GO:0047722
+KEGG_REACTION:R01971 > GO:indolelactate dehydrogenase (NAD+) activity ; GO:0047722
 KEGG_REACTION:R01978 > GO:hydroxymethylglutaryl-CoA synthase activity ; GO:0004421
 KEGG_REACTION:R01980 > GO:galacturonokinase activity ; GO:0047912
 KEGG_REACTION:R01981 > GO:uronate dehydrogenase activity ; GO:0050388
@@ -598,7 +598,7 @@ KEGG_REACTION:R02004 > GO:(-)-endo-fenchol synthase activity ; GO:0050437
 KEGG_REACTION:R02006 > GO:sabinene-hydrate synthase activity ; GO:0050469
 KEGG_REACTION:R02007 > GO:geranyl-diphosphate cyclase activity ; GO:0047926
 KEGG_REACTION:R02009 > GO:myrcene synthase activity ; GO:0050551
-KEGG_REACTION:R02016 > GO:thioredoxin-disulfide reductase (NADP) activity ; GO:0004791
+KEGG_REACTION:R02016 > GO:thioredoxin-disulfide reductase (NADPH) activity ; GO:0004791
 KEGG_REACTION:R02021 > GO:phosphoadenylyl-sulfate reductase (thioredoxin) activity ; GO:0004604
 KEGG_REACTION:R02035 > GO:6-phosphogluconolactonase activity ; GO:0017057
 KEGG_REACTION:R02036 > GO:phosphogluconate dehydratase activity ; GO:0004456
@@ -652,7 +652,7 @@ KEGG_REACTION:R02238 > GO:formate-dihydrofolate ligase activity ; GO:0047897
 KEGG_REACTION:R02243 > GO:aconitate decarboxylase activity ; GO:0047613
 KEGG_REACTION:R02244 > GO:aconitate delta-isomerase activity ; GO:0047614
 KEGG_REACTION:R02245 > GO:mevalonate kinase activity ; GO:0004496
-KEGG_REACTION:R02246 > GO:mevaldate reductase (NAD+) activity ; GO:0019727
+KEGG_REACTION:R02246 > GO:mevaldate reductase (NADH) activity ; GO:0019727
 KEGG_REACTION:R02254 > GO:trans-cinnamate 2-monooxygenase activity ; GO:0050344
 KEGG_REACTION:R02256 > GO:cinnamate beta-D-glucosyltransferase activity ; GO:0050412
 KEGG_REACTION:R02258 > GO:S-lactaldehyde reductase activity ; GO:0052661
@@ -827,7 +827,7 @@ KEGG_REACTION:R02804 > GO:nitrous-oxide reductase activity ; GO:0050304
 KEGG_REACTION:R02807 > GO:mercury (II) reductase activity ; GO:0016152
 KEGG_REACTION:R02813 > GO:oleate hydratase activity ; GO:0050151
 KEGG_REACTION:R02817 > GO:serine-ethanolaminephosphate phosphodiesterase activity ; GO:0047387
-KEGG_REACTION:R02820 > GO:alditol:NADP+ 1-oxidoreductase activity ; GO:0004032
+KEGG_REACTION:R02820 > GO:aldose reductase (NADPH) activity ; GO:0004032
 KEGG_REACTION:R02821 > GO:betaine-homocysteine S-methyltransferase activity ; GO:0047150
 KEGG_REACTION:R02830 > GO:orcinol 2-monooxygenase activity ; GO:0018661
 KEGG_REACTION:R02831 > GO:orsellinate decarboxylase activity ; GO:0050159
@@ -844,7 +844,7 @@ KEGG_REACTION:R02864 > GO:sirohydrochlorin ferrochelatase activity ; GO:0051266
 KEGG_REACTION:R02866 > GO:sorbitol-6-phosphatase activity ; GO:0050286
 KEGG_REACTION:R02874 > GO:squalene monooxygenase activity ; GO:0004506
 KEGG_REACTION:R02877 > GO:vanillyl-alcohol oxidase activity ; GO:0018465
-KEGG_REACTION:R02878 > GO:octanol dehydrogenase activity ; GO:0004552
+KEGG_REACTION:R02878 > GO:octanol dehydrogenase (NAD+) activity ; GO:0004552
 KEGG_REACTION:R02899 > GO:glucarate O-hydroxycinnamoyltransferase activity ; GO:0047170
 KEGG_REACTION:R02901 > GO:phloretin hydrolase activity ; GO:0050180
 KEGG_REACTION:R02907 > GO:scytalone dehydratase activity ; GO:0030411
@@ -1160,7 +1160,7 @@ KEGG_REACTION:R03934 > GO:6-hydroxymellein O-methyltransferase activity ; GO:003
 KEGG_REACTION:R03939 > GO:hypotaurocyamine kinase activity ; GO:0047715
 KEGG_REACTION:R03942 > GO:L-rhamnose 1-dehydrogenase activity ; GO:0050034
 KEGG_REACTION:R03944 > GO:alkylglycerone kinase activity ; GO:0047650
-KEGG_REACTION:R03945 > GO:perillyl-alcohol dehydrogenase activity ; GO:0018457
+KEGG_REACTION:R03945 > GO:perillyl-alcohol dehydrogenase (NAD+) activity ; GO:0018457
 KEGG_REACTION:R03947 > GO:precorrin-2 dehydrogenase activity ; GO:0043115
 KEGG_REACTION:R03948 > GO:precorrin-2 C20-methyltransferase activity ; GO:0030788
 KEGG_REACTION:R03952 > GO:thyroid-hormone transaminase activity ; GO:0033852
@@ -1425,8 +1425,8 @@ KEGG_REACTION:R05651 > GO:sulfoacetaldehyde acetyltransferase activity ; GO:0050
 KEGG_REACTION:R05652 > GO:taurine-pyruvate aminotransferase activity ; GO:0031299
 KEGG_REACTION:R05678 > GO:sulcatone reductase activity ; GO:0050491
 KEGG_REACTION:R05682 > GO:1,5-anhydro-D-fructose reductase activity ; GO:0050571
-KEGG_REACTION:R05685 > GO:3-methylbutanol:NAD oxidoreductase activity ; GO:0052676
-KEGG_REACTION:R05686 > GO:3-methylbutanol:NADP oxidoreductase activity ; GO:0052675
+KEGG_REACTION:R05685 > GO:3-methylbutanal reductase (NADH) activity ; GO:0052676
+KEGG_REACTION:R05686 > GO:3-methylbutanal reductase (NADPH) activity ; GO:0052675
 KEGG_REACTION:R05687 > GO:dTDP-4-dehydro-6-deoxyglucose reductase activity ; GO:0050573
 KEGG_REACTION:R05688 > GO:1-deoxy-D-xylulose-5-phosphate reductoisomerase activity ; GO:0030604
 KEGG_REACTION:R05689 > GO:2-(R)-hydroxypropyl-CoM dehydrogenase activity ; GO:0050574
@@ -1562,14 +1562,14 @@ KEGG_REACTION:R06945 > GO:cyclohexane monooxygenase activity ; GO:0034795
 KEGG_REACTION:R06946 > GO:zeaxanthin epoxidase activity ; GO:0052662
 KEGG_REACTION:R06947 > GO:zeaxanthin epoxidase activity ; GO:0052662
 KEGG_REACTION:R06948 > GO:neoxanthin synthase activity ; GO:0034020
-KEGG_REACTION:R06954 > GO:xanthoxin dehydrogenase activity ; GO:0010301
+KEGG_REACTION:R06954 > GO:xanthoxin dehydrogenase (NAD+) activity ; GO:0010301
 KEGG_REACTION:R06957 > GO:abscisic aldehyde oxidase activity ; GO:0010293
 KEGG_REACTION:R06972 > GO:N-cyclopropylammelide alkylamino hydrolase activity ; GO:0034549
 KEGG_REACTION:R06977 > GO:diaminobutyrate-2-oxoglutarate transaminase activity ; GO:0045303
 KEGG_REACTION:R06978 > GO:diaminobutyrate acetyltransferase activity ; GO:0033816
 KEGG_REACTION:R06979 > GO:ectoine synthase activity ; GO:0033990
 KEGG_REACTION:R06982 > GO:S-(hydroxymethyl)glutathione synthase activity ; GO:0051907
-KEGG_REACTION:R06983 > GO:S-(hydroxymethyl)glutathione dehydrogenase activity ; GO:0051903
+KEGG_REACTION:R06983 > GO:S-(hydroxymethyl)glutathione dehydrogenase (NAD(P)+) activity ; GO:0051903
 KEGG_REACTION:R06988 > GO:3-(hydroxyamino)phenol mutase activity ; GO:0034022
 KEGG_REACTION:R07041 > GO:arachidonic acid omega-hydroxylase activity ; GO:0052869
 KEGG_REACTION:R07053 > GO:arachidonate 8(S)-lipoxygenase activity ; GO:0036403
@@ -1579,7 +1579,7 @@ KEGG_REACTION:R07125 > GO:3-dehydro-L-gulonate-6-phosphate decarboxylase activit
 KEGG_REACTION:R07134 > GO:D-arabinitol 2-dehydrogenase activity ; GO:0047038
 KEGG_REACTION:R07135 > GO:mannitol dehydrogenase activity ; GO:0046029
 KEGG_REACTION:R07138 > GO:3beta-hydroxy-5alpha-steroid dehydrogenase activity ; GO:0033704
-KEGG_REACTION:R07140 > GO:S-(hydroxymethyl)glutathione dehydrogenase activity ; GO:0051903
+KEGG_REACTION:R07140 > GO:S-(hydroxymethyl)glutathione dehydrogenase (NAD(P)+) activity ; GO:0051903
 KEGG_REACTION:R07143 > GO:D-arabinitol dehydrogenase, D-xylulose forming (NADP+) activity ; GO:0052677
 KEGG_REACTION:R07144 > GO:D-arabinitol dehydrogenase, D-ribulose forming (NADP+) activity ; GO:0033709
 KEGG_REACTION:R07151 > GO:hydroxyphytanate oxidase activity ; GO:0047996
@@ -1716,7 +1716,7 @@ KEGG_REACTION:R08203 > GO:chlorophyllide a oxygenase activity ; GO:0052606
 KEGG_REACTION:R08204 > GO:7-hydroxy-chlorophyllide a oxygenase activity ; GO:0052607
 KEGG_REACTION:R08369 > GO:cytokinin 9-beta-glucosyltransferase activity ; GO:0080062
 KEGG_REACTION:R08370 > GO:alpha-bisabolene synthase activity ; GO:0052681
-KEGG_REACTION:R08379 > GO:NADP-retinol dehydrogenase activity ; GO:0052650
+KEGG_REACTION:R08379 > GO:all-trans-retinol dehydrogenase (NADP+) activity ; GO:0052650
 KEGG_REACTION:R08388 > GO:all-trans-retinyl-ester hydrolase, 11-cis retinol forming activity ; GO:0052885
 KEGG_REACTION:R08528 > GO:Z-farnesyl diphosphate synthase activity ; GO:0033850
 KEGG_REACTION:R08547 > GO:tryptophan 2-C-methyltransferase activity ; GO:0030772
