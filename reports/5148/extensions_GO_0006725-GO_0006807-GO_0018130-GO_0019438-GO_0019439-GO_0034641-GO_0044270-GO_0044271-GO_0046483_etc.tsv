@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:88039	Apc	PMID:16740478		GO:0051171	regulation of nitrogen compound metabolic process	IMP	MGI:MGI:3521822		PANTHER:PTHR12607	20081105	GO:0006807	NCBITaxon:10090
+SGD	SGD:S000002374	GDH2	PMID:6343120		GO:0004352	glutamate dehydrogenase (NAD+) activity	IDA		UniProtKB:P33327	PANTHER:PTHR11606	20220106	GO:0005829|GO:0006807	NCBITaxon:559292

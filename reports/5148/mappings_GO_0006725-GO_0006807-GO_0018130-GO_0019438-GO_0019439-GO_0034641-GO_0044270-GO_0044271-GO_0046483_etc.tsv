@@ -1,0 +1,80 @@
+term	file	line
+GO:0006725	interpro2go	InterPro:IPR000391 Ring-hydroxylating dioxygenase beta subunit > GO:cellular aromatic compound metabolic process ; GO:0006725
+GO:0006725	interpro2go	InterPro:IPR000486 Extradiol ring-cleavage dioxygenase, class I /II > GO:cellular aromatic compound metabolic process ; GO:0006725
+GO:0006725	interpro2go	InterPro:IPR000627 Intradiol ring-cleavage dioxygenase, C-terminal > GO:cellular aromatic compound metabolic process ; GO:0006725
+GO:0006725	interpro2go	InterPro:IPR003430 Propane/methane/phenol/toluene hydroxylase > GO:cellular aromatic compound metabolic process ; GO:0006725
+GO:0006725	interpro2go	InterPro:IPR003454 Monooxygenase component MmoB/DmpM > GO:cellular aromatic compound metabolic process ; GO:0006725
+GO:0006725	interpro2go	InterPro:IPR003464 Muconolactone delta-isomerase > GO:cellular aromatic compound metabolic process ; GO:0006725
+GO:0006725	interpro2go	InterPro:IPR004183 Extradiol ring-cleavage dioxygenase, class III enzyme, subunit B > GO:cellular aromatic compound metabolic process ; GO:0006725
+GO:0006725	interpro2go	InterPro:IPR004370 4-oxalocrotonate tautomerase-like domain > GO:cellular aromatic compound metabolic process ; GO:0006725
+GO:0006725	interpro2go	InterPro:IPR012817 Chlorocatechol 1,2-dioxygenase > GO:cellular aromatic compound metabolic process ; GO:0006725
+GO:0006725	interpro2go	InterPro:IPR018191 4-oxalocrotonate tautomerase > GO:cellular aromatic compound metabolic process ; GO:0006725
+GO:0006725	interpro2go	InterPro:IPR036889 Monooxygenase component MmoB/DmpM superfamily > GO:cellular aromatic compound metabolic process ; GO:0006725
+GO:0006807	interpro2go	InterPro:IPR001287 Nitrite reductase, copper-type > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	interpro2go	InterPro:IPR002639 Urease accessory protein UreF > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	interpro2go	InterPro:IPR002669 Urease accessory protein UreD > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	interpro2go	InterPro:IPR003010 Carbon-nitrogen hydrolase > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	interpro2go	InterPro:IPR003168 Nitrile hydratase, beta subunit > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	interpro2go	InterPro:IPR003321 Cytochrome c552 > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	interpro2go	InterPro:IPR004232 Nitrile hydratase alpha /Thiocyanate hydrolase gamma > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	interpro2go	InterPro:IPR004400 Urease accessory protein UreG > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	interpro2go	InterPro:IPR005483 Carbamoyl-phosphate synthase large subunit, CPSase domain > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	interpro2go	InterPro:IPR005848 Urease, alpha subunit > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	interpro2go	InterPro:IPR006275 Carbamoyl-phosphate synthase, large subunit > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	interpro2go	InterPro:IPR006982 Glutamate synthase, central-N > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	interpro2go	InterPro:IPR008146 Glutamine synthetase, catalytic domain > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	interpro2go	InterPro:IPR008147 Glutamine synthetase, N-terminal domain > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	interpro2go	InterPro:IPR008221 Urease > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	interpro2go	InterPro:IPR010043 Bifunctional uridylyltransferase/uridylyl-removing enzyme > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	interpro2go	InterPro:IPR015942 Asp/Glu/hydantoin racemase > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	interpro2go	InterPro:IPR017564 Cytochrome c-type protein NrfB > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	interpro2go	InterPro:IPR017570 Formate-dependent cytochrome c nitrite reductase, c552 subunit > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	interpro2go	InterPro:IPR017951 Urease alpha subunit, C-terminal > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	interpro2go	InterPro:IPR018141 Nitrile hydratase, alpha subunit > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	interpro2go	InterPro:IPR022843 Formamidase > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	interpro2go	InterPro:IPR036648 Nitrile hydratase alpha /Thiocyanate hydrolase gamma superfamily > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	interpro2go	InterPro:IPR036651 Glutamine synthetase, N-terminal domain superfamily > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	interpro2go	InterPro:IPR047177 Peptidase M20A > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	hamap2go	HAMAP:MF_01182 > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0006807	unirule2go	UniRule:UR000100881 > GO:nitrogen compound metabolic process ; GO:0006807
+GO:0019439	interpro2go	InterPro:IPR003361 Acetaldehyde dehydrogenase > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	interpro2go	InterPro:IPR004220 5-carboxymethyl-2-hydroxymuconate isomerase > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	interpro2go	InterPro:IPR012425 DmpG-like communication > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	interpro2go	InterPro:IPR012690 2-oxo-hepta-4-ene-1,7-dioic acid hydratase > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	interpro2go	InterPro:IPR012786 Protocatechuate 3,4-dioxygenase, alpha subunit > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	interpro2go	InterPro:IPR015426 Acetaldehyde dehydrogenase, C-terminal > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	interpro2go	InterPro:IPR017602 Cyclohexa-1,5-dienecarbonyl-CoA hydratase > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	interpro2go	InterPro:IPR017624 Catechol 2,3 dioxygenase > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	interpro2go	InterPro:IPR017629 4-hydroxy-2-oxovalerate aldolase > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	interpro2go	InterPro:IPR017640 Anthranilate 1,2-dioxygenase, small subunit > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	interpro2go	InterPro:IPR017727 2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase, BphD > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	interpro2go	InterPro:IPR020875 3-phenylpropionate/cinnamic acid dioxygenase, alpha subunit > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	interpro2go	InterPro:IPR023789 2,3-dihydroxyphenylpropionate/2,3-dihydroxicinnamic acid 1,2-dioxygenase > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	interpro2go	InterPro:IPR023791 2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	interpro2go	InterPro:IPR023793 2-keto-4-pentenoate hydratase > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	uniprotkb_kw2go	UniProtKB-KW:KW-0058 Aromatic hydrocarbons catabolism > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	hamap2go	HAMAP:MF_01292 > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	hamap2go	HAMAP:MF_01647 > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	hamap2go	HAMAP:MF_01648 > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	hamap2go	HAMAP:MF_01649 > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	hamap2go	HAMAP:MF_01650 > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	hamap2go	HAMAP:MF_01651 > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	hamap2go	HAMAP:MF_01653 > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	hamap2go	HAMAP:MF_01654 > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	hamap2go	HAMAP:MF_01655 > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	hamap2go	HAMAP:MF_01656 > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	hamap2go	HAMAP:MF_01657 > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	hamap2go	HAMAP:MF_01688 > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	unirule2go	UniRule:UR000083126 > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	unirule2go	UniRule:UR000083129 > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	unirule2go	UniRule:UR000083130 > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	unirule2go	UniRule:UR000083151 > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	unirule2go	UniRule:UR000083152 > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	unirule2go	UniRule:UR000083157 > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	unirule2go	UniRule:UR000083159 > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	unirule2go	UniRule:UR000083161 > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	unirule2go	UniRule:UR000083162 > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	unirule2go	UniRule:UR000083169 > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	unirule2go	UniRule:UR000084124 > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	unirule2go	UniRule:UR000101698 > GO:aromatic compound catabolic process ; GO:0019439
+GO:0019439	unirule2go	UniRule:UR000396796 > GO:aromatic compound catabolic process ; GO:0019439
