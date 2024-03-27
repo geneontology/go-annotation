@@ -1,0 +1,93 @@
+term	file	line
+GO:0001510	interpro2go	InterPro:IPR015507 Ribosomal RNA large subunit methyltransferase E > GO:RNA methylation ; GO:0001510
+GO:0001510	interpro2go	InterPro:IPR016914 tRNA (cytidine/uridine-2'-O-)-methyltransferase TrmL > GO:RNA methylation ; GO:0001510
+GO:0001510	interpro2go	InterPro:IPR019012 RNA cap guanine-N2 methyltransferase > GO:RNA methylation ; GO:0001510
+GO:0001510	interpro2go	InterPro:IPR023267 RNA (C5-cytosine) methyltransferase > GO:RNA methylation ; GO:0001510
+GO:0001510	interpro2go	InterPro:IPR025848 N6-adenosine-methyltransferase MT-A70-like > GO:RNA methylation ; GO:0001510
+GO:0001510	interpro2go	InterPro:IPR026610 3'-RNA ribose 2'-O-methyltransferase, Hen1 > GO:RNA methylation ; GO:0001510
+GO:0001510	unirule2go	UniRule:UR001695789 > GO:RNA methylation ; GO:0001510
+GO:0002128	interpro2go	InterPro:IPR002845 tRNA ribose 2'-O-methyltransferase, aTrm56 > GO:tRNA nucleoside ribose methylation ; GO:0002128
+GO:0002128	hamap2go	HAMAP:MF_00077 > GO:tRNA nucleoside ribose methylation ; GO:0002128
+GO:0002128	hamap2go	HAMAP:MF_03162 > GO:tRNA nucleoside ribose methylation ; GO:0002128
+GO:0002128	unirule2go	UniRule:UR000001418 > GO:tRNA nucleoside ribose methylation ; GO:0002128
+GO:0002128	unirule2go	UniRule:UR000166012 > GO:tRNA nucleoside ribose methylation ; GO:0002128
+GO:0030488	interpro2go	InterPro:IPR005885 tRNA guanine(10)-N2-dimethyltransferase > GO:tRNA methylation ; GO:0030488
+GO:0030488	interpro2go	InterPro:IPR014816 tRNA (1-methyladenosine) methyltransferase catalytic subunit Gcd14 > GO:tRNA methylation ; GO:0030488
+GO:0030488	interpro2go	InterPro:IPR016742 tRNA methyltransferase, archaea > GO:tRNA methylation ; GO:0030488
+GO:0030488	interpro2go	InterPro:IPR017423 tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6 > GO:tRNA methylation ; GO:0030488
+GO:0030488	interpro2go	InterPro:IPR022908 tRNA(Phe) 7-((3-amino-3-carboxypropyl)-4-demethylwyosine(37)-N(4))-methyltransferase > GO:tRNA methylation ; GO:0030488
+GO:0030488	interpro2go	InterPro:IPR025759 tRNA guanosine-2'-O-methyltransferase, Trm3 > GO:tRNA methylation ; GO:0030488
+GO:0030488	interpro2go	InterPro:IPR025792 tRNA (guanine(37)-N(1))-methyltransferase, eukaryotic > GO:tRNA methylation ; GO:0030488
+GO:0030488	interpro2go	InterPro:IPR027492 Dual-specificity RNA methyltransferase RlmN > GO:tRNA methylation ; GO:0030488
+GO:0030488	interpro2go	InterPro:IPR033671 tRNA (guanosine(18)-2'-O)-methyltransferase > GO:tRNA methylation ; GO:0030488
+GO:0030488	interpro2go	InterPro:IPR039044 tRNA:m(4)X modification enzyme Trm13 > GO:tRNA methylation ; GO:0030488
+GO:0030488	interpro2go	InterPro:IPR044748 Trm3/ TARBP1, C-terminal > GO:tRNA methylation ; GO:0030488
+GO:0030488	hamap2go	HAMAP:MF_00290 > GO:tRNA methylation ; GO:0030488
+GO:0030488	hamap2go	HAMAP:MF_00587 > GO:tRNA methylation ; GO:0030488
+GO:0030488	hamap2go	HAMAP:MF_01011 > GO:tRNA methylation ; GO:0030488
+GO:0030488	hamap2go	HAMAP:MF_01849 > GO:tRNA methylation ; GO:0030488
+GO:0030488	hamap2go	HAMAP:MF_01885 > GO:tRNA methylation ; GO:0030488
+GO:0030488	hamap2go	HAMAP:MF_02217 > GO:tRNA methylation ; GO:0030488
+GO:0030488	hamap2go	HAMAP:MF_03055 > GO:tRNA methylation ; GO:0030488
+GO:0030488	hamap2go	HAMAP:MF_03056 > GO:tRNA methylation ; GO:0030488
+GO:0030488	hamap2go	HAMAP:MF_03152 > GO:tRNA methylation ; GO:0030488
+GO:0030488	rfam2go	Rfam:RF02163 sR-tMet > GO:tRNA methylation ; GO:0030488
+GO:0030488	unirule2go	UniRule:UR000035398 > GO:tRNA methylation ; GO:0030488
+GO:0030488	unirule2go	UniRule:UR000085133 > GO:tRNA methylation ; GO:0030488
+GO:0030488	unirule2go	UniRule:UR000087054 > GO:tRNA methylation ; GO:0030488
+GO:0030488	unirule2go	UniRule:UR000100390 > GO:tRNA methylation ; GO:0030488
+GO:0030488	unirule2go	UniRule:UR000101723 > GO:tRNA methylation ; GO:0030488
+GO:0030488	unirule2go	UniRule:UR000160976 > GO:tRNA methylation ; GO:0030488
+GO:0030488	unirule2go	UniRule:UR000161184 > GO:tRNA methylation ; GO:0030488
+GO:0030488	unirule2go	UniRule:UR000166087 > GO:tRNA methylation ; GO:0030488
+GO:0030488	unirule2go	UniRule:UR001223896 > GO:tRNA methylation ; GO:0030488
+GO:0030488	unirule2go	UniRule:UR001478797 > GO:tRNA methylation ; GO:0030488
+GO:0031167	interpro2go	InterPro:IPR004398 RNA methyltransferase, RsmD > GO:rRNA methylation ; GO:0031167
+GO:0031167	interpro2go	InterPro:IPR007536 Ribosomal RNA small subunit methyltransferase J > GO:rRNA methylation ; GO:0031167
+GO:0031167	interpro2go	InterPro:IPR017237 rRNA (guanine-N2-)-methyltransferase, RlmG > GO:rRNA methylation ; GO:0031167
+GO:0031167	interpro2go	InterPro:IPR017244 Ribosomal RNA large subunit methyltransferase K/L > GO:rRNA methylation ; GO:0031167
+GO:0031167	interpro2go	InterPro:IPR028589 AdoMet-dependent rRNA methyltransferase SPB1-like > GO:rRNA methylation ; GO:0031167
+GO:0031167	interpro2go	InterPro:IPR039846 Zinc finger CCHC domain-containing protein 4 > GO:rRNA methylation ; GO:0031167
+GO:0031167	interpro2go	InterPro:IPR047182 rRNA methyltransferase 1, mitochondrial > GO:rRNA methylation ; GO:0031167
+GO:0031167	hamap2go	HAMAP:MF_00658 > GO:rRNA methylation ; GO:0031167
+GO:0031167	hamap2go	HAMAP:MF_01010 > GO:rRNA methylation ; GO:0031167
+GO:0031167	hamap2go	HAMAP:MF_01012 > GO:rRNA methylation ; GO:0031167
+GO:0031167	hamap2go	HAMAP:MF_01523 > GO:rRNA methylation ; GO:0031167
+GO:0031167	hamap2go	HAMAP:MF_01579 > GO:rRNA methylation ; GO:0031167
+GO:0031167	hamap2go	HAMAP:MF_01856 > GO:rRNA methylation ; GO:0031167
+GO:0031167	hamap2go	HAMAP:MF_01857 > GO:rRNA methylation ; GO:0031167
+GO:0031167	hamap2go	HAMAP:MF_01858 > GO:rRNA methylation ; GO:0031167
+GO:0031167	hamap2go	HAMAP:MF_01859 > GO:rRNA methylation ; GO:0031167
+GO:0031167	hamap2go	HAMAP:MF_01862 > GO:rRNA methylation ; GO:0031167
+GO:0031167	hamap2go	HAMAP:MF_01877 > GO:rRNA methylation ; GO:0031167
+GO:0031167	hamap2go	HAMAP:MF_03163 > GO:rRNA methylation ; GO:0031167
+GO:0031167	unirule2go	UniRule:UR000030799 > GO:rRNA methylation ; GO:0031167
+GO:0031167	unirule2go	UniRule:UR000034357 > GO:rRNA methylation ; GO:0031167
+GO:0031167	unirule2go	UniRule:UR000058552 > GO:rRNA methylation ; GO:0031167
+GO:0031167	unirule2go	UniRule:UR000076342 > GO:rRNA methylation ; GO:0031167
+GO:0031167	unirule2go	UniRule:UR000078506 > GO:rRNA methylation ; GO:0031167
+GO:0031167	unirule2go	UniRule:UR000086052 > GO:rRNA methylation ; GO:0031167
+GO:0031167	unirule2go	UniRule:UR000086053 > GO:rRNA methylation ; GO:0031167
+GO:0031167	unirule2go	UniRule:UR000086060 > GO:rRNA methylation ; GO:0031167
+GO:0031167	unirule2go	UniRule:UR000100387 > GO:rRNA methylation ; GO:0031167
+GO:0031167	unirule2go	UniRule:UR000100395 > GO:rRNA methylation ; GO:0031167
+GO:0031167	unirule2go	UniRule:UR000166071 > GO:rRNA methylation ; GO:0031167
+GO:0031167	unirule2go	UniRule:UR000337588 > GO:rRNA methylation ; GO:0031167
+GO:0031167	unirule2go	UniRule:UR000413377 > GO:rRNA methylation ; GO:0031167
+GO:0036265	interpro2go	InterPro:IPR028884 tRNA (guanine-N(7)-)-methyltransferase non-catalytic subunit > GO:RNA (guanine-N7)-methylation ; GO:0036265
+GO:0070475	interpro2go	InterPro:IPR005304 Ribosomal biogenesis, methyltransferase, EMG1/NEP1 > GO:rRNA base methylation ; GO:0070475
+GO:0070475	interpro2go	InterPro:IPR007473 Ribosomal RNA large subunit methyltransferase J > GO:rRNA base methylation ; GO:0070475
+GO:0070475	interpro2go	InterPro:IPR019446 25S rRNA (uridine-N(3))-methyltransferase BMT5-like > GO:rRNA base methylation ; GO:0070475
+GO:0070475	interpro2go	InterPro:IPR022881 Ribosomal RNA large subunit methyltransferase, Cfr > GO:rRNA base methylation ; GO:0070475
+GO:0070475	interpro2go	InterPro:IPR027492 Dual-specificity RNA methyltransferase RlmN > GO:rRNA base methylation ; GO:0070475
+GO:0070475	hamap2go	HAMAP:MF_00934 > GO:rRNA base methylation ; GO:0070475
+GO:0070475	hamap2go	HAMAP:MF_01007 > GO:rRNA base methylation ; GO:0070475
+GO:0070475	hamap2go	HAMAP:MF_01849 > GO:rRNA base methylation ; GO:0070475
+GO:0070475	hamap2go	HAMAP:MF_01873 > GO:rRNA base methylation ; GO:0070475
+GO:0070475	unirule2go	UniRule:UR000085133 > GO:rRNA base methylation ; GO:0070475
+GO:0070475	unirule2go	UniRule:UR000086059 > GO:rRNA base methylation ; GO:0070475
+GO:0070475	unirule2go	UniRule:UR000100383 > GO:rRNA base methylation ; GO:0070475
+GO:0070475	unirule2go	UniRule:UR000114503 > GO:rRNA base methylation ; GO:0070475
+GO:0070476	interpro2go	InterPro:IPR022238 18S rRNA (guanine(1575)-N(7))-methyltransferase Bud23, C-terminal > GO:rRNA (guanine-N7)-methylation ; GO:0070476
+GO:0070476	interpro2go	InterPro:IPR039769 18S rRNA (guanine(1575)-N(7))-methyltransferase Bud23-like > GO:rRNA (guanine-N7)-methylation ; GO:0070476
+GO:0106005	interpro2go	InterPro:IPR028271 RNA guanine-N7 methyltransferase activating subunit > GO:RNA 5'-cap (guanine-N7)-methylation ; GO:0106005

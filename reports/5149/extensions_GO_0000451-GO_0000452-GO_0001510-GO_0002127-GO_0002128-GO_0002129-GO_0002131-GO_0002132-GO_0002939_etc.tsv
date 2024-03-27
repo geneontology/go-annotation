@@ -1,0 +1,8 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:1914261	Mettl6	PMID:28655767		GO:0052735	tRNA (cytidine-3-)-methyltransferase activity	IMP	MGI:MGI:5903741		PANTHER:PTHR22809	20190718	GO:0030488	NCBITaxon:10090
+MGI	MGI:MGI:1289171	Mettl2	PMID:28655767		GO:0052735	tRNA (cytidine-3-)-methyltransferase activity	IMP	MGI:MGI:5903740		PANTHER:PTHR22809	20190718	GO:0030488	NCBITaxon:10090
+UniProt	UniProtKB:Q9UBP6	METTL1	PMID:37379838		GO:0160090	internal mRNA (guanine-N7-)-methyltransferase activity	IDA			PANTHER:PTHR23417	20230824	GO:0033554|GO:0036265	NCBITaxon:9606
+UniProt	UniProtKB:P57081	WDR4	PMID:36599982		GO:0141106	tRNA methyltransferase activator activity	IDA			PANTHER:PTHR16288	20230126	GO:0106004|UniProtKB:Q9UBP6|GO:0008176	NCBITaxon:9606
+UniProt	UniProtKB:P57081	WDR4	PMID:36599985		GO:0141106	tRNA methyltransferase activator activity	IDA			PANTHER:PTHR16288	20230126	GO:0106004|UniProtKB:Q9UBP6|GO:0008176	NCBITaxon:9606
+UniProt	UniProtKB:P31749	AKT1	PMID:15861136		GO:0004674	protein serine/threonine kinase activity	IDA			PANTHER:PTHR24356	20230126	GO:0110002|UniProtKB:Q9UBP6|GO:0008176	NCBITaxon:9606
+PomBase	PomBase:SPSNORNA.25	snoZ30	PMID:11842100		GO:0030563	snRNA 2'-O-ribose methylation guide activity	IMP				20140807	PomBase:SPSNRNA.06|GO:1990438	NCBITaxon:4896
