@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+WB	WB:WBGene00008877	rtcb-1	PMID:25366321|WB_REF:WBPaper00045971		GO:0000971	tRNA exon ligation utilizing 2',3' cyclic phosphate of 5'-exon as source of linkage phosphate	IMP			PANTHER:PTHR11118	20190627		NCBITaxon:6239
