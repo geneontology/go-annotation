@@ -1,0 +1,9 @@
+term	file	line
+GO:0010033	interpro2go	InterPro:IPR007543 LptD, C-terminal > GO:response to organic substance ; GO:0010033
+GO:0010033	interpro2go	InterPro:IPR020889 LPS-assembly protein LptD > GO:response to organic substance ; GO:0010033
+GO:0071241	rfam2go	Rfam:RF00760 mir-342 > GO:cellular response to inorganic substance ; GO:0071241
+GO:0071241	rfam2go	Rfam:RF04052 mir-466 > GO:cellular response to inorganic substance ; GO:0071241
+GO:0071702	uniprotkb_kw2go	UniProtKB-KW:KW-0762 Sugar transport > GO:organic substance transport ; GO:0071702
+GO:0071704	interpro2go	InterPro:IPR001547 Glycoside hydrolase, family 5 > GO:organic substance metabolic process ; GO:0071704
+GO:0071704	interpro2go	InterPro:IPR005843 Alpha-D-phosphohexomutase, C-terminal > GO:organic substance metabolic process ; GO:0071704
+GO:0071704	interpro2go	InterPro:IPR036900 Alpha-D-phosphohexomutase, C-terminal domain superfamily > GO:organic substance metabolic process ; GO:0071704
