@@ -1,0 +1,5 @@
+term	file	line
+GO:0047263	ec2go	EC:2.4.1.47 > GO:N-acylsphingosine galactosyltransferase activity ; GO:0047263
+GO:0047263	metacyc2go	MetaCyc:2.4.1.47-RXN > GO:N-acylsphingosine galactosyltransferase activity ; GO:0047263
+GO:0047263	rhea2go	RHEA:13093 > GO:N-acylsphingosine galactosyltransferase activity ; GO:0047263
+GO:0047263	reactome2go	Reactome:R-HSA-6785933 > GO:N-acylsphingosine galactosyltransferase activity ; GO:0047263
