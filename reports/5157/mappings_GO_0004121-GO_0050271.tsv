@@ -1,0 +1,9 @@
+term	file	line
+GO:0004121	interpro2go	InterPro:IPR006233 Cystathionine beta-lyase, bacterial > GO:cystathionine beta-lyase activity ; GO:0004121
+GO:0004121	interpro2go	InterPro:IPR006238 Cystathionine beta-lyase, eukaryotic > GO:cystathionine beta-lyase activity ; GO:0004121
+GO:0004121	ec2go	EC:4.4.1.8 > GO:cystathionine beta-lyase activity ; GO:0004121
+GO:0004121	metacyc2go	MetaCyc:CYSTATHIONINE-BETA-LYASE-RXN > GO:cystathionine beta-lyase activity ; GO:0004121
+GO:0004121	rhea2go	RHEA:13965 > GO:cystathionine beta-lyase activity ; GO:0004121
+GO:0050271	ec2go	EC:4.4.1.6 > GO:S-alkylcysteine lyase activity ; GO:0050271
+GO:0050271	metacyc2go	MetaCyc:S-ALKYLCYSTEINE-LYASE-RXN > GO:S-alkylcysteine lyase activity ; GO:0050271
+GO:0050271	rhea2go	RHEA:22424 > GO:S-alkylcysteine lyase activity ; GO:0050271

@@ -1,0 +1,12 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AspGD	UniProtKB:Q5AXC9	metG	PMID:10467009		GO:0004121	cystathionine beta-lyase activity	IDA			PANTHER:PTHR11808	20091113		NCBITaxon:227321
+AspGD	UniProtKB:Q5AXC9	metG	PMID:10467009		GO:0004121	cystathionine beta-lyase activity	IMP			PANTHER:PTHR11808	20091113		NCBITaxon:227321
+AspGD	UniProtKB:Q5AXC9	metG	PMID:1102536		GO:0004121	cystathionine beta-lyase activity	IMP			PANTHER:PTHR11808	20090513		NCBITaxon:227321
+EcoCyc	UniProtKB:P06721	metC	PMID:3513164		GO:0004121	cystathionine beta-lyase activity	IDA			PANTHER:PTHR43500	20100331		NCBITaxon:83333
+EcoCyc	UniProtKB:P23256	malY	PMID:7665481		GO:0004121	cystathionine beta-lyase activity	IDA			PANTHER:PTHR43525	20131031		NCBITaxon:83333
+RGD	RGD:2443	Cth	PMID:9359866|RGD:1359024		GO:0004121	cystathionine beta-lyase activity	IDA			PANTHER:PTHR11808	20050712		NCBITaxon:10116
+SGD	SGD:S000003152	STR3	PMID:10821189		GO:0004121	cystathionine beta-lyase activity	IMP		UniProtKB:P53101	PANTHER:PTHR11808	20021104		NCBITaxon:559292
+SGD	SGD:S000003152	STR3	PMID:21478306		GO:0004121	cystathionine beta-lyase activity	IDA		UniProtKB:P53101	PANTHER:PTHR11808	20130502		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT4G23600	CORI3	PMID:12525491|TAIR:Publication:501683010		GO:0004121	cystathionine beta-lyase activity	IDA		TAIR:locus:2128459		20030911		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G57050	CBL	PMID:31002461|TAIR:Publication:501784757		GO:0004121	cystathionine beta-lyase activity	IMP		TAIR:locus:2080605		20190905		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G57050	CBL	PMID:8541513|TAIR:Publication:4189		GO:0004121	cystathionine beta-lyase activity	IMP		TAIR:locus:2080605		20061002		NCBITaxon:3702
