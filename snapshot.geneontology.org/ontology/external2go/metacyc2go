@@ -1,4 +1,4 @@
-! Generated on 2024-03-21T23:59Z from the ontology 'go' with data version: 'releases/2024-03-21'
+! Generated on 2024-03-29T02:14Z from the ontology 'go' with data version: 'releases/2024-03-28'
 !
 MetaCyc:+-BORNEOL-DEHYDROGENASE-RXN > GO:(+)-borneol dehydrogenase activity ; GO:0047500
 MetaCyc:+-NEOMENTHOL-DEHYDROGENASE-RXN > GO:(+)-neomenthol dehydrogenase activity ; GO:0047501
@@ -2777,17 +2777,17 @@ MetaCyc:LARABITOLUTIL-PWY > GO:L-xylitol catabolic process to xylulose 5-phospha
 MetaCyc:LCYSDEG-PWY > GO:L-cysteine catabolic process to pyruvate ; GO:0019450
 MetaCyc:LCYSDESULF-RXN > GO:L-cysteine desulfhydrase activity ; GO:0080146
 MetaCyc:LEGHEMOGLOBIN-REDUCTASE-RXN > GO:leghemoglobin reductase activity ; GO:0015043
-MetaCyc:LEU-DEG2-PWY > GO:leucine catabolic process ; GO:0006552
+MetaCyc:LEU-DEG2-PWY > GO:L-leucine catabolic process ; GO:0006552
 MetaCyc:LEUCINE--TRNA-LIGASE-RXN > GO:leucine-tRNA ligase activity ; GO:0004823
 MetaCyc:LEUCINE-23-AMINOMUTASE-RXN > GO:leucine 2,3-aminomutase activity ; GO:0050047
-MetaCyc:LEUCINE-DEHYDROGENASE-RXN > GO:leucine dehydrogenase activity ; GO:0050049
+MetaCyc:LEUCINE-DEHYDROGENASE-RXN > GO:L-leucine dehydrogenase activity ; GO:0050049
 MetaCyc:LEUCINE-N-ACETYLTRANSFERASE-RXN > GO:leucine N-acetyltransferase activity ; GO:0050050
 MetaCyc:LEUCYLTRANSFERASE-RXN > GO:leucyl-tRNA--protein transferase activity ; GO:0008914
 MetaCyc:LEUKOTRIENE-A4-HYDROLASE-RXN > GO:leukotriene-A4 hydrolase activity ; GO:0004463
 MetaCyc:LEUKOTRIENE-B4-20-MONOOXYGENASE-RXN > GO:leukotriene-B4 20-monooxygenase activity ; GO:0050051
 MetaCyc:LEUKOTRIENE-C4-SYNTHASE-RXN > GO:leukotriene-C4 synthase activity ; GO:0004464
 MetaCyc:LEUKOTRIENE-E4-20-MONOOXYGENASE-RXN > GO:leukotriene-E4 20-monooxygenase activity ; GO:0050052
-MetaCyc:LEUSYN-PWY > GO:leucine biosynthetic process ; GO:0009098
+MetaCyc:LEUSYN-PWY > GO:L-leucine biosynthetic process ; GO:0009098
 MetaCyc:LEVANSUCRASE-RXN > GO:levansucrase activity ; GO:0050053
 MetaCyc:LICODIONE-2-O-METHYLTRANSFERASE-RXN > GO:licodione 2'-O-methyltransferase activity ; GO:0030751
 MetaCyc:LIGNOSTILBENE-ALPHA-BETA-DIOXYGENASE-RXN > GO:lignostilbene alpha beta-dioxygenase activity ; GO:0050054
@@ -3400,7 +3400,7 @@ MetaCyc:PWY-3282 > GO:ammonia assimilation cycle ; GO:0019676
 MetaCyc:PWY-3301 > GO:sinapate ester biosynthetic process ; GO:0033525
 MetaCyc:PWY-3341 > GO:proline biosynthetic process ; GO:0006561
 MetaCyc:PWY-3385 > GO:choline biosynthetic process via phosphoryl-ethanolamine ; GO:0033325
-MetaCyc:PWY-3461 > GO:tyrosine biosynthetic process from chorismate via L-arogenate ; GO:0033584
+MetaCyc:PWY-3461 > GO:L-tyrosine biosynthetic process from chorismate via L-arogenate ; GO:0033584
 MetaCyc:PWY-3462 > GO:L-phenylalanine biosynthetic process from chorismate via L-arogenate ; GO:0033586
 MetaCyc:PWY-3542 > GO:choline biosynthetic process via N-monomethylethanolamine ; GO:0033324
 MetaCyc:PWY-3561 > GO:choline biosynthetic process via CDP-choline ; GO:0033323
@@ -3635,6 +3635,9 @@ MetaCyc:PWY490-4 > GO:asparaginyl-tRNAAsn biosynthesis via transamidation ; GO:0
 MetaCyc:PWY4FS-2 > GO:phosphatidylcholine biosynthesis from phosphoryl-ethanolamine via N-dimethylethanolamine phosphate and CDP-choline ; GO:0070832
 MetaCyc:PWY4FS-3 > GO:phosphatidylcholine biosynthesis from phosphoryl-ethanolamine via CDP-N-methylethanolamine ; GO:0070833
 MetaCyc:PWY4FS-4 > GO:phosphatidylcholine biosynthesis from phosphoryl-ethanolamine via N-dimethylethanolamine phosphate and CDP-N-dimethylethanolamine ; GO:0070834
+MetaCyc:PWY66-161 > GO:acetyl-CoA biosynthetic process from ethanol ; GO:0019431
+MetaCyc:PWY66-162 > GO:acetyl-CoA biosynthetic process from ethanol ; GO:0019431
+MetaCyc:PWY66-21 > GO:acetyl-CoA biosynthetic process from ethanol ; GO:0019431
 MetaCyc:PWY66-3 > GO:cholesterol biosynthetic process via 24,25-dihydrolanosterol ; GO:0033488
 MetaCyc:PWY66-341 > GO:cholesterol biosynthetic process via lathosterol ; GO:0033490
 MetaCyc:PWY66-368 > GO:ketone body catabolic process ; GO:0046952
@@ -4519,6 +4522,7 @@ MetaCyc:RXN-1623 > GO:1-acylglycerol-3-phosphate O-acyltransferase activity ; GO
 MetaCyc:RXN-16296 > GO:L-amino-acid alpha-ligase activity ; GO:0034026
 MetaCyc:RXN-16324 > GO:N-acetylgalactosaminyl-proteoglycan 3-beta-glucuronosyltransferase activity ; GO:0050510
 MetaCyc:RXN-16325 > GO:glucuronosyl-N-acetylgalactosaminyl-proteoglycan 4-beta-N-acetylgalactosaminyltransferase activity ; GO:0047238
+MetaCyc:RXN-16379 > GO:cholesterol 7-desaturase (NAD(P)H) activity ; GO:0170056
 MetaCyc:RXN-16394 > GO:long-chain fatty acid omega-hydroxylase activity ; GO:0102033
 MetaCyc:RXN-16470 > GO:[choline trimethylamine-lyase]-activating enzyme activity ; GO:0140111
 MetaCyc:RXN-16484 > GO:glucuronosyl-disulfoglucosamine glucuronidase activity ; GO:0047404
@@ -4549,6 +4553,7 @@ MetaCyc:RXN-17803 > GO:dissimilatory sulfite reductase activity ; GO:0018551
 MetaCyc:RXN-17809 > GO:cyclic pyranopterin monophosphate synthase activity ; GO:0061799
 MetaCyc:RXN-1781 > GO:sucrose 1F-fructosyltransferase activity ; GO:0050306
 MetaCyc:RXN-17884 > GO:S-nitrosoglutathione reductase (NADH) activity ; GO:0080007
+MetaCyc:RXN-17905 > GO:RNA ligase (GTP) activity ; GO:0170057
 MetaCyc:RXN-18017 > GO:poly(ribitol-phosphate) beta-glucosyltransferase activity ; GO:0047266
 MetaCyc:RXN-1823 > GO:alpha-amylase activity ; GO:0004556
 MetaCyc:RXN-1824 > GO:limit dextrinase activity ; GO:0010303
@@ -4559,6 +4564,7 @@ MetaCyc:RXN-18268 > GO:beta-galactoside alpha-2,6-sialyltransferase activity ; G
 MetaCyc:RXN-1827 > GO:beta-amylase activity ; GO:0016161
 MetaCyc:RXN-1828 > GO:4-alpha-glucanotransferase activity ; GO:0004134
 MetaCyc:RXN-18380 > GO:CDP-ribitol ribitolphosphotransferase activity ; GO:0047356
+MetaCyc:RXN-18779 > GO:U6 snRNA (adenine-(43)-N(6))-methyltransferase activity ; GO:0120048
 MetaCyc:RXN-18799 > GO:ecdysone 20-monooxygenase activity ; GO:0004501
 MetaCyc:RXN-1884 > GO:L-galactose dehydrogenase activity ; GO:0010349
 MetaCyc:RXN-18910 > GO:mannosyl-oligosaccharide 1,2-alpha-mannosidase activity ; GO:0004571
@@ -4567,6 +4573,7 @@ MetaCyc:RXN-18932 > GO:prenylcysteine oxidase activity ; GO:0001735
 MetaCyc:RXN-19145 > GO:glutaminyl-peptide cyclotransferase activity ; GO:0016603
 MetaCyc:RXN-19229 > GO:5-amino-6-(D-ribitylamino)uracil--L-tyrosine 4-hydroxyphenyl transferase activity ; GO:0141093
 MetaCyc:RXN-19230 > GO:7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase activity ; GO:0044689
+MetaCyc:RXN-19346 > GO:mRNA m(6)A methyltransferase activity ; GO:0001734
 MetaCyc:RXN-19645 > GO:flavanone 2-hydroxylase activity ; GO:0033771
 MetaCyc:RXN-19719 > GO:medium-chain fatty acid omega-hydroxylase activity ; GO:0140981
 MetaCyc:RXN-19749 > GO:germacrene A hydroxylase activity ; GO:0106223
@@ -5385,6 +5392,7 @@ MetaCyc:RXN0-6444 > GO:uracil oxygenase activity ; GO:0052614
 MetaCyc:RXN0-6515 > GO:16S rRNA (guanine(966)-N(2))-methyltransferase activity ; GO:0052913
 MetaCyc:RXN0-6555 > GO:ferric-chelate reductase (NADPH) activity ; GO:0052851
 MetaCyc:RXN0-6563 > GO:4-hydroxy-L-threonine aldolase activity ; GO:0103042
+MetaCyc:RXN0-6566 > GO:RNA ligase (GTP) activity ; GO:0170057
 MetaCyc:RXN0-6676 > GO:NADPH-dependent curcumin reductase activity ; GO:0052849
 MetaCyc:RXN0-6677 > GO:NADPH-dependent dihydrocurcumin reductase activity ; GO:0052850
 MetaCyc:RXN0-6710 > GO:5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase activity ; GO:0103043
@@ -5814,7 +5822,7 @@ MetaCyc:TYROSINE-DECARBOXYLASE-RXN > GO:tyrosine decarboxylase activity ; GO:000
 MetaCyc:TYROSINE-ESTER-SULFOTRANSFERASE-RXN > GO:tyrosine-ester sulfotransferase activity ; GO:0017067
 MetaCyc:TYROSINE-N-MONOOXYGENASE-RXN > GO:tyrosine N-monooxygenase activity ; GO:0050370
 MetaCyc:TYROSINE-PHENOL-LYASE-RXN > GO:tyrosine phenol-lyase activity ; GO:0050371
-MetaCyc:TYRSYN > GO:tyrosine biosynthetic process from chorismate via 4-hydroxyphenylpyruvate ; GO:0019292
+MetaCyc:TYRSYN > GO:L-tyrosine biosynthetic process from chorismate via 4-hydroxyphenylpyruvate ; GO:0019292
 MetaCyc:UBISYN-PWY > GO:ubiquinone biosynthetic process ; GO:0006744
 MetaCyc:UDP-ARABINOSE-4-EPIMERASE-RXN > GO:UDP-arabinose 4-epimerase activity ; GO:0050373
 MetaCyc:UDP-GALACTURONATE-DECARBOXYLASE-RXN > GO:UDP-galacturonate decarboxylase activity ; GO:0050374

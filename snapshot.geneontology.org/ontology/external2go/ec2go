@@ -1,4 +1,4 @@
-! Generated on 2024-03-21T23:59Z from the ontology 'go' with data version: 'releases/2024-03-21'
+! Generated on 2024-03-29T02:14Z from the ontology 'go' with data version: 'releases/2024-03-28'
 !
 EC:1.-.-.- > GO:oxidoreductase activity ; GO:0016491
 EC:1.1.-.- > GO:oxidoreductase activity, acting on CH-OH group of donors ; GO:0016614
@@ -56,7 +56,6 @@ EC:1.1.1.142 > GO:D-pinitol dehydrogenase activity ; GO:0047832
 EC:1.1.1.143 > GO:sequoyitol dehydrogenase activity ; GO:0050280
 EC:1.1.1.144 > GO:perillyl-alcohol dehydrogenase (NAD+) activity ; GO:0018457
 EC:1.1.1.145 > GO:3-beta-hydroxy-delta5-steroid dehydrogenase activity ; GO:0003854
-EC:1.1.1.145 > GO:cholesterol dehydrogenase activity ; GO:0102294
 EC:1.1.1.146 > GO:11-beta-hydroxysteroid dehydrogenase (NADP+) activity ; GO:0070524
 EC:1.1.1.146 > GO:cortisol dehydrogenase activity ; GO:0102196
 EC:1.1.1.147 > GO:16-alpha-hydroxysteroid dehydrogenase activity ; GO:0047005
@@ -927,6 +926,7 @@ EC:1.14.19.17 > GO:sphingolipid delta-4 desaturase activity ; GO:0042284
 EC:1.14.19.2 > GO:acyl-[acyl-carrier-protein] desaturase activity ; GO:0045300
 EC:1.14.19.2 > GO:stearoyl-[acp] desaturase activity ; GO:0102786
 EC:1.14.19.20 > GO:delta7-sterol 5(6)-desaturase activity ; GO:0050046
+EC:1.14.19.21 > GO:cholesterol 7-desaturase (NAD(P)H) activity ; GO:0170056
 EC:1.14.19.22 > GO:phosphatidylcholine desaturase activity ; GO:0050184
 EC:1.14.19.23 > GO:1-18:1-2-trans-16:1-phosphatidylglycerol desaturase activity ; GO:0102655
 EC:1.14.19.23 > GO:1-18:1-2-16:0-monogalactosyldiacylglycerol acyl-lipid omega-6 desaturase activity ; GO:0102834
@@ -1390,7 +1390,7 @@ EC:1.4.1.4 > GO:glutamate dehydrogenase (NADP+) activity ; GO:0004354
 EC:1.4.1.5 > GO:L-amino-acid dehydrogenase activity ; GO:0050018
 EC:1.4.1.7 > GO:serine 2-dehydrogenase activity ; GO:0050282
 EC:1.4.1.8 > GO:valine dehydrogenase (NADP+) activity ; GO:0050391
-EC:1.4.1.9 > GO:leucine dehydrogenase activity ; GO:0050049
+EC:1.4.1.9 > GO:L-leucine dehydrogenase activity ; GO:0050049
 EC:1.4.2.- > GO:oxidoreductase activity, acting on the CH-NH2 group of donors, cytochrome as acceptor ; GO:0016640
 EC:1.4.2.1 > GO:glycine dehydrogenase (cytochrome) activity ; GO:0047959
 EC:1.4.3.- > GO:oxidoreductase activity, acting on the CH-NH2 group of donors, oxygen as acceptor ; GO:0016641
@@ -1821,6 +1821,8 @@ EC:2.1.1.322 > GO:protein arginine N5-methyltransferase activity ; GO:0019702
 EC:2.1.1.33 > GO:tRNA (guanine(46)-N7)-methyltransferase activity ; GO:0008176
 EC:2.1.1.34 > GO:tRNA (guanine(18)-2'-O)-methyltransferase activity ; GO:0141100
 EC:2.1.1.345 > GO:4-hydroxytryptamine 4-phosphate methyltransferase activity ; GO:0140381
+EC:2.1.1.346 > GO:U6 snRNA (adenine-(43)-N(6))-methyltransferase activity ; GO:0120048
+EC:2.1.1.348 > GO:mRNA m(6)A methyltransferase activity ; GO:0001734
 EC:2.1.1.35 > GO:tRNA (uracil(54)-C5)-methyltransferase activity, S-adenosyl methionine-dependent ; GO:0030697
 EC:2.1.1.354 > GO:histone H3K4 trimethyltransferase activity ; GO:0140999
 EC:2.1.1.355 > GO:histone H3K9 trimethyltransferase activity ; GO:0140949
@@ -2985,6 +2987,7 @@ EC:2.7.7.- > GO:nucleotidyltransferase activity ; GO:0016779
 EC:2.7.7.1 > GO:nicotinamide-nucleotide adenylyltransferase activity ; GO:0000309
 EC:2.7.7.10 > GO:UTP:galactose-1-phosphate uridylyltransferase activity ; GO:0017103
 EC:2.7.7.101 > GO:DNA primase activity ; GO:0003896
+EC:2.7.7.102 > GO:DNA primase activity ; GO:0003896
 EC:2.7.7.108 > GO:AMPylase activity ; GO:0070733
 EC:2.7.7.11 > GO:UTP:xylose-1-phosphate uridylyltransferase activity ; GO:0047338
 EC:2.7.7.12 > GO:UDP-glucose:hexose-1-phosphate uridylyltransferase activity ; GO:0008108
@@ -5113,6 +5116,7 @@ EC:6.5.1.1 > GO:DNA ligase (ATP) activity ; GO:0003910
 EC:6.5.1.2 > GO:DNA ligase (NAD+) activity ; GO:0003911
 EC:6.5.1.3 > GO:RNA ligase (ATP) activity ; GO:0003972
 EC:6.5.1.4 > GO:RNA-3'-phosphate cyclase activity ; GO:0003963
+EC:6.5.1.8 > GO:RNA ligase (GTP) activity ; GO:0170057
 EC:6.6.-.- > GO:ligase activity, forming nitrogen-metal bonds ; GO:0051002
 EC:6.6.1.- > GO:ligase activity, forming nitrogen-metal bonds, forming coordination complexes ; GO:0051003
 EC:6.6.1.1 > GO:magnesium chelatase activity ; GO:0016851

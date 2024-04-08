@@ -1,4 +1,4 @@
-! Generated on 2024-03-21T23:59Z from the ontology 'go' with data version: 'releases/2024-03-21'
+! Generated on 2024-03-29T02:14Z from the ontology 'go' with data version: 'releases/2024-03-28'
 !
 Reactome:R-HSA-1008248 > GO:nucleoside triphosphate adenylate kinase activity ; GO:0046899
 Reactome:R-HSA-1013012 > GO:G protein-coupled GABA receptor activity ; GO:0004965
@@ -4341,7 +4341,7 @@ Reactome:R-HSA-71825 > GO:glucose-6-phosphatase activity ; GO:0004346
 Reactome:R-HSA-71849 > GO:L-lactate dehydrogenase activity ; GO:0004459
 Reactome:R-HSA-71849.1 > GO:lactate biosynthetic process from pyruvate ; GO:0019244
 Reactome:R-HSA-71850 > GO:phosphoglycerate kinase activity ; GO:0004618
-Reactome:R-HSA-72095 > GO:mRNA (N6-adenosine)-methyltransferase activity ; GO:0001734
+Reactome:R-HSA-72095 > GO:mRNA m(6)A methyltransferase activity ; GO:0001734
 Reactome:R-HSA-72180 > GO:endonuclease activity ; GO:0004519
 Reactome:R-HSA-72185 > GO:poly(A) RNA polymerase activity ; GO:1990817
 Reactome:R-HSA-72621 > GO:translation initiation factor activity ; GO:0003743
