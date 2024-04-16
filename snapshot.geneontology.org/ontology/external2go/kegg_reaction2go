@@ -1,4 +1,4 @@
-! Generated on 2024-03-29T02:14Z from the ontology 'go' with data version: 'releases/2024-03-28'
+! Generated on 2024-04-09T21:38Z from the ontology 'go' with data version: 'releases/2024-04-09'
 !
 KEGG_REACTION:R00004 > GO:inorganic diphosphate phosphatase activity ; GO:0004427
 KEGG_REACTION:R00005 > GO:allophanate hydrolase activity ; GO:0004039
@@ -652,7 +652,6 @@ KEGG_REACTION:R02238 > GO:formate-dihydrofolate ligase activity ; GO:0047897
 KEGG_REACTION:R02243 > GO:aconitate decarboxylase activity ; GO:0047613
 KEGG_REACTION:R02244 > GO:aconitate delta-isomerase activity ; GO:0047614
 KEGG_REACTION:R02245 > GO:mevalonate kinase activity ; GO:0004496
-KEGG_REACTION:R02246 > GO:mevaldate reductase (NADH) activity ; GO:0019727
 KEGG_REACTION:R02254 > GO:trans-cinnamate 2-monooxygenase activity ; GO:0050344
 KEGG_REACTION:R02256 > GO:cinnamate beta-D-glucosyltransferase activity ; GO:0050412
 KEGG_REACTION:R02258 > GO:S-lactaldehyde reductase activity ; GO:0052661
@@ -1446,7 +1445,7 @@ KEGG_REACTION:R05727 > GO:quinine 3-monooxygenase activity ; GO:0050591
 KEGG_REACTION:R05728 > GO:4-hydroxyphenylacetaldehyde oxime monooxygenase activity ; GO:0050592
 KEGG_REACTION:R05732 > GO:N-methylcoclaurine 3'-monooxygenase activity ; GO:0050593
 KEGG_REACTION:R05735 > GO:acetone carboxylase activity ; GO:0018710
-KEGG_REACTION:R05740 > GO:delta12-fatty acid dehydrogenase activity ; GO:0016720
+KEGG_REACTION:R05740 > GO:acyl-lipid Delta(12)-acetylenase ; GO:0016720
 KEGG_REACTION:R05742 > GO:thiophene-2-carbonyl-CoA monooxygenase activity ; GO:0050603
 KEGG_REACTION:R05745 > GO:ethylbenzene hydroxylase activity ; GO:0018693
 KEGG_REACTION:R05746 > GO:phosphonate dehydrogenase activity ; GO:0050609

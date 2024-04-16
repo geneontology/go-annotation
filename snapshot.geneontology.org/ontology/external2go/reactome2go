@@ -1,4 +1,4 @@
-! Generated on 2024-03-29T02:14Z from the ontology 'go' with data version: 'releases/2024-03-28'
+! Generated on 2024-04-09T21:38Z from the ontology 'go' with data version: 'releases/2024-04-09'
 !
 Reactome:R-HSA-1008248 > GO:nucleoside triphosphate adenylate kinase activity ; GO:0046899
 Reactome:R-HSA-1013012 > GO:G protein-coupled GABA receptor activity ; GO:0004965
@@ -2119,7 +2119,7 @@ Reactome:R-HSA-3364026 > GO:histone H3K4 methyltransferase activity ; GO:0042800
 Reactome:R-HSA-3371385 > GO:metalloendopeptidase activity ; GO:0004222
 Reactome:R-HSA-3371422 > GO:ATP hydrolysis activity ; GO:0016887
 Reactome:R-HSA-3371435 > GO:protein serine/threonine kinase activity ; GO:0004674
-Reactome:R-HSA-3371467 > GO:NAD-dependent protein deacetylase activity ; GO:0034979
+Reactome:R-HSA-3371467 > GO:NAD-dependent protein lysine deacetylase activity ; GO:0034979
 Reactome:R-HSA-3371531 > GO:protein serine/threonine kinase activity ; GO:0004674
 Reactome:R-HSA-3371554 > GO:peptide N-acetyltransferase activity ; GO:0034212
 Reactome:R-HSA-3371567 > GO:protein serine/threonine kinase activity ; GO:0004674
@@ -3009,7 +3009,7 @@ Reactome:R-HSA-5210935 > GO:serine-type endopeptidase activity ; GO:0004252
 Reactome:R-HSA-5210943 > GO:protein transmembrane transporter activity ; GO:0008320
 Reactome:R-HSA-5210947 > GO:protein transmembrane transporter activity ; GO:0008320
 Reactome:R-HSA-5211224 > GO:adenylate cyclase activity ; GO:0004016
-Reactome:R-HSA-5211239 > GO:NAD-dependent protein deacetylase activity ; GO:0034979
+Reactome:R-HSA-5211239 > GO:NAD-dependent protein lysine deacetylase activity ; GO:0034979
 Reactome:R-HSA-5211340 > GO:metallopeptidase activity ; GO:0008237
 Reactome:R-HSA-5211356 > GO:metallopeptidase activity ; GO:0008237
 Reactome:R-HSA-5211387 > GO:metallopeptidase activity ; GO:0008237
@@ -3648,7 +3648,7 @@ Reactome:R-HSA-5685156 > GO:protein serine/threonine kinase activity ; GO:000467
 Reactome:R-HSA-5685230 > GO:protein serine/threonine kinase activity ; GO:0004674
 Reactome:R-HSA-5685242 > GO:protein serine/threonine kinase activity ; GO:0004674
 Reactome:R-HSA-5685902 > GO:peptidase activity ; GO:0008233
-Reactome:R-HSA-5685953 > GO:NAD-dependent protein deacetylase activity ; GO:0034979
+Reactome:R-HSA-5685953 > GO:NAD-dependent protein lysine deacetylase activity ; GO:0034979
 Reactome:R-HSA-5685994 > GO:DNA nuclease activity ; GO:0004536
 Reactome:R-HSA-5686071 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
 Reactome:R-HSA-5686304 > GO:palmitoyltransferase activity ; GO:0016409
@@ -3678,8 +3678,8 @@ Reactome:R-HSA-5687664 > GO:5'-flap endonuclease activity ; GO:0017108
 Reactome:R-HSA-5687675 > GO:DNA ligase activity ; GO:0003909
 Reactome:R-HSA-5687758 > GO:protein serine/threonine phosphatase activity ; GO:0004722
 Reactome:R-HSA-5688276 > GO:NAD+ ADP-ribosyltransferase activity ; GO:0003950
-Reactome:R-HSA-5688289 > GO:NAD-dependent protein deacetylase activity ; GO:0034979
-Reactome:R-HSA-5688294 > GO:NAD-dependent protein deacetylase activity ; GO:0034979
+Reactome:R-HSA-5688289 > GO:NAD-dependent protein lysine deacetylase activity ; GO:0034979
+Reactome:R-HSA-5688294 > GO:NAD-dependent protein lysine deacetylase activity ; GO:0034979
 Reactome:R-HSA-5688397 > GO:lipid transporter activity ; GO:0005319
 Reactome:R-HSA-5688797 > GO:cysteine-type deubiquitinase activity ; GO:0004843
 Reactome:R-HSA-5688837 > GO:cysteine-type deubiquitinase activity ; GO:0004843
@@ -3913,7 +3913,7 @@ Reactome:R-HSA-6785565 > GO:glycosyltransferase activity ; GO:0016757
 Reactome:R-HSA-6785668 > GO:UDP-xylosyltransferase activity ; GO:0035252
 Reactome:R-HSA-6785722 > GO:tRNA-specific ribonuclease activity ; GO:0004549
 Reactome:R-HSA-6785928 > GO:gamma-glutamylcyclotransferase activity ; GO:0003839
-Reactome:R-HSA-6785933 > GO:N-acylsphingosine galactosyltransferase activity ; GO:0047263
+Reactome:R-HSA-6785933 > GO:N-acylsphingosine galactosyltransferase ; GO:0003851
 Reactome:R-HSA-6785986 > GO:DNA nuclease activity ; GO:0004536
 Reactome:R-HSA-6786012 > GO:N-acetylglucosamine 6-O-sulfotransferase activity ; GO:0001517
 Reactome:R-HSA-6786034 > GO:N-acetylgalactosamine 4-O-sulfotransferase activity ; GO:0001537
@@ -5466,7 +5466,7 @@ Reactome:R-HSA-9619843 > GO:protein serine/threonine kinase activity ; GO:000467
 Reactome:R-HSA-9620004 > GO:protein serine/threonine kinase activity ; GO:0004674
 Reactome:R-HSA-9620103 > GO:nitroglycerin reductase activity ; GO:0018547
 Reactome:R-HSA-9620515 > GO:peptide-lysine-N-acetyltransferase activity ; GO:0061733
-Reactome:R-HSA-9620532 > GO:NAD-dependent protein deacetylase activity ; GO:0034979
+Reactome:R-HSA-9620532 > GO:NAD-dependent protein lysine deacetylase activity ; GO:0034979
 Reactome:R-HSA-9624014 > GO:protein tyrosine kinase activity ; GO:0004713
 Reactome:R-HSA-9624272 > GO:metalloendopeptidase activity ; GO:0004222
 Reactome:R-HSA-9624526 > GO:protein serine/threonine kinase activity ; GO:0004674
@@ -5632,7 +5632,7 @@ Reactome:R-HSA-9666428 > GO:guanyl-nucleotide exchange factor activity ; GO:0005
 Reactome:R-HSA-9666430 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
 Reactome:R-HSA-9667761 > GO:voltage-gated potassium channel activity ; GO:0005249
 Reactome:R-HSA-9667809 > GO:calcium-activated potassium channel activity ; GO:0015269
-Reactome:R-HSA-9667952 > GO:NAD-dependent protein deacetylase activity ; GO:0034979
+Reactome:R-HSA-9667952 > GO:NAD-dependent protein lysine deacetylase activity ; GO:0034979
 Reactome:R-HSA-9668023 > GO:protein-tyrosine sulfotransferase activity ; GO:0008476
 Reactome:R-HSA-9668148 > GO:protein-tyrosine sulfotransferase activity ; GO:0008476
 Reactome:R-HSA-9668253 > GO:serine-type endopeptidase activity ; GO:0004252
