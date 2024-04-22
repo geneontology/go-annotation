@@ -1,4 +1,4 @@
-!version date: 2024/01/29 17:01:57
+!version date: 2024/04/08 15:39:30
 !description: Mapping of UniProt Subcellular Location vocabulary to GO terms.
 !external resource: http://www.uniprot.org
 !citation: Barrell, D. et al. (2009) Nucleic Acids Res. 37: D396-D403.
@@ -63,7 +63,7 @@ UniProtKB-SubCell:SL-0033 Capsule > GO:capsule ; GO:0042603
 UniProtKB-SubCell:SL-0034 Carboxysome > GO:carboxysome ; GO:0031470
 UniProtKB-SubCell:SL-0035 Caveola > GO:caveola ; GO:0005901
 UniProtKB-SubCell:SL-0138 Cell cortex > GO:cell cortex ; GO:0005938
-UniProtKB-SubCell:SL-0036 Cell envelope > GO:envelope ; GO:0031975
+UniProtKB-SubCell:SL-0036 Cell envelope > GO:cell envelope ; GO:0030313
 UniProtKB-SubCell:SL-0037 Cell inner membrane > GO:plasma membrane ; GO:0005886
 UniProtKB-SubCell:SL-0038 Cell junction > GO:anchoring junction ; GO:0070161
 UniProtKB-SubCell:SL-0039 Cell membrane > GO:plasma membrane ; GO:0005886
