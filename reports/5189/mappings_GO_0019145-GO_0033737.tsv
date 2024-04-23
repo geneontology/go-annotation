@@ -1,0 +1,9 @@
+term	file	line
+GO:0019145	metacyc2go	MetaCyc:AMINOBUTDEHYDROG-RXN > GO:aminobutyraldehyde dehydrogenase activity ; GO:0019145
+GO:0019145	unirule2go	UniRule:UR000101620 > GO:aminobutyraldehyde dehydrogenase activity ; GO:0019145
+GO:0019145	hamap2go	HAMAP:MF_01275 > GO:aminobutyraldehyde dehydrogenase activity ; GO:0019145
+GO:0019145	interpro2go	InterPro:IPR017749 Gamma-aminobutyraldehyde dehydrogenase > GO:aminobutyraldehyde dehydrogenase activity ; GO:0019145
+GO:0019145	rhea2go	RHEA:19105 > GO:aminobutyraldehyde dehydrogenase activity ; GO:0019145
+GO:0019145	ec2go	EC:1.2.1.19 > GO:aminobutyraldehyde dehydrogenase activity ; GO:0019145
+GO:0033737	metacyc2go	MetaCyc:1.5.1.35-RXN > GO:1-pyrroline dehydrogenase activity ; GO:0033737
+GO:0033737	ec2go	EC:1.2.1.19 > GO:1-pyrroline dehydrogenase activity ; GO:0033737

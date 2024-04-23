@@ -1,0 +1,20 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P77674	patD	PMID:16023116		GO:0019145	aminobutyraldehyde dehydrogenase activity	IDA			PANTHER:PTHR11699	20121009		NCBITaxon:83333
+RGD	RGD:68409	Aldh9a1	PMID:10702312|RGD:68317		GO:0019145	aminobutyraldehyde dehydrogenase activity	IDA			PANTHER:PTHR11699	20090923		NCBITaxon:10116
+UniProt	UniProtKB:P49189	ALDH9A1	PMID:1799975		GO:0019145	aminobutyraldehyde dehydrogenase activity	IDA			PANTHER:PTHR11699	20230920		NCBITaxon:9606
+UniProt	RGD:68409	Aldh9a1	PMID:1799975|RGD:401901232		GO:0019145	aminobutyraldehyde dehydrogenase activity	IDA			PANTHER:PTHR11699	20230920		NCBITaxon:10116
+UniProt	UniProtKB:Q93YB2	AMADH2	PMID:20026072		GO:0019145	aminobutyraldehyde dehydrogenase activity	IDA				20220311		NCBITaxon:3888
+UniProt	UniProtKB:Q8VWZ1	AMADH1	PMID:20026072		GO:0019145	aminobutyraldehyde dehydrogenase activity	IDA				20220311		NCBITaxon:3888
+UniProt	UniProtKB:P49189	ALDH9A1	PMID:2071588		GO:0019145	aminobutyraldehyde dehydrogenase activity	IDA			PANTHER:PTHR11699	20230920		NCBITaxon:9606
+UniProt	UniProtKB:P17202	BADH	PMID:22345508		GO:0019145	aminobutyraldehyde dehydrogenase activity	IDA				20220330		NCBITaxon:3562
+UniProt	UniProtKB:C6KEM4	AMADH2	PMID:23408433		GO:0019145	aminobutyraldehyde dehydrogenase activity	IDA				20220330		NCBITaxon:4577
+UniProt	UniProtKB:G5DDC2	AMADH1B	PMID:23408433		GO:0019145	aminobutyraldehyde dehydrogenase activity	IDA				20220330		NCBITaxon:4577
+UniProt	UniProtKB:C0P9J6	AMADH1A	PMID:23408433		GO:0019145	aminobutyraldehyde dehydrogenase activity	IDA			PANTHER:PTHR43860	20220330		NCBITaxon:4577
+UniProt	UniProtKB:A0A0E3T552	AMADH1	PMID:26296314		GO:0019145	aminobutyraldehyde dehydrogenase activity	IDA				20220310		NCBITaxon:3750
+UniProt	UniProtKB:A0A0E3T3B5	AMADH2	PMID:26296314		GO:0019145	aminobutyraldehyde dehydrogenase activity	IDA				20220311		NCBITaxon:3750
+UniProt	MGI:MGI:1353450	Aldh1a1	PMID:26430123|MGI:MGI:5697738		GO:0019145	aminobutyraldehyde dehydrogenase activity	IMP			PANTHER:PTHR11699	20210408		NCBITaxon:10090
+UniProt	AGI_LocusCode:AT3G48170	ALDH10A9	PMID:27725774|TAIR:Publication:501771914		GO:0019145	aminobutyraldehyde dehydrogenase activity	IDA		TAIR:locus:2100449		20220504		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT1G74920	ALDH10A8	PMID:27725774|TAIR:Publication:501771914		GO:0019145	aminobutyraldehyde dehydrogenase activity	IDA		TAIR:locus:2027186		20220504		NCBITaxon:3702
+UniProt	UniProtKB:P49189	ALDH9A1	PMID:2925663		GO:0019145	aminobutyraldehyde dehydrogenase activity	IDA			PANTHER:PTHR11699	20060424		NCBITaxon:9606
+UniProt	UniProtKB:P49189	ALDH9A1	PMID:8645224		GO:0019145	aminobutyraldehyde dehydrogenase activity	IDA			PANTHER:PTHR11699	20060424		NCBITaxon:9606
+EcoCyc	UniProtKB:P77674	patD	PMID:3897201		GO:0033737	1-pyrroline dehydrogenase activity	IMP			PANTHER:PTHR11699	20121009		NCBITaxon:83333
