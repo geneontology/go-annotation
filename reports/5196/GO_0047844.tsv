@@ -1,0 +1,11 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P0ABF6	cdd	PMID:6386817		GO:0047844	deoxycytidine deaminase activity	IDA			PANTHER:PTHR11644	20120521		NCBITaxon:83333
+GeneDB	TriTrypDB:Tb927.9.3000	CDA	PMID:31391279		GO:0047844	deoxycytidine deaminase activity	IDA				20200116		NCBITaxon:185431
+MTBBASE	UniProtKB:P9WPH3	cdd	PMID:20035876		GO:0047844	deoxycytidine deaminase activity	IDA			PANTHER:PTHR11644	20110704		NCBITaxon:83332
+TAIR	AGI_LocusCode:AT2G19570	CDA1	PMID:27208239|TAIR:Publication:501769302		GO:0047844	deoxycytidine deaminase activity	IDA		TAIR:locus:2050429		20160523		NCBITaxon:3702
+UniProt	UniProtKB:Q9HC16	APOBEC3G	PMID:12808465		GO:0047844	deoxycytidine deaminase activity	IDA			PANTHER:PTHR13857	20120620		NCBITaxon:9606
+UniProt	UniProtKB:Q9UH17	APOBEC3B	PMID:22457529		GO:0047844	deoxycytidine deaminase activity	IMP			PANTHER:PTHR13857	20130203		NCBITaxon:9606
+UniProt	UniProtKB:P31941	APOBEC3A	PMID:22457529		GO:0047844	deoxycytidine deaminase activity	IMP			PANTHER:PTHR13857	20130203		NCBITaxon:9606
+UniProt	UniProtKB:O93526	O93526	PMID:9792440		GO:0047844	deoxycytidine deaminase activity	IDA			PANTHER:PTHR19143	20150507		NCBITaxon:9031
+WB	WB:WBGene00000392	cdd-2	PMID:12071843|WB_REF:WBPaper00005385		GO:0047844	deoxycytidine deaminase activity	IDA			PANTHER:PTHR11644	20090225		NCBITaxon:6239
+WB	WB:WBGene00000391	cdd-1	PMID:12071843|WB_REF:WBPaper00005385		GO:0047844	deoxycytidine deaminase activity	IDA			PANTHER:PTHR11644	20090225		NCBITaxon:6239

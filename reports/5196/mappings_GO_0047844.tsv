@@ -1,0 +1,5 @@
+term	file	line
+GO:0047844	metacyc2go	MetaCyc:CYTIDEAM-RXN > GO:deoxycytidine deaminase activity ; GO:0047844
+GO:0047844	unirule2go	UniRule:UR001376779 > GO:deoxycytidine deaminase activity ; GO:0047844
+GO:0047844	rhea2go	RHEA:13433 > GO:deoxycytidine deaminase activity ; GO:0047844
+GO:0047844	ec2go	EC:3.5.4.14 > GO:deoxycytidine deaminase activity ; GO:0047844
