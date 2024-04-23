@@ -1,0 +1,8 @@
+term	file	line
+GO:0008457	metacyc2go	MetaCyc:2.4.1.163-RXN > GO:beta-galactosyl-N-acetylglucosaminylgalactosylglucosyl-ceramide beta-1,3-acetylglucosaminyltransferase activity ; GO:0008457
+GO:0008457	rhea2go	RHEA:23004 > GO:beta-galactosyl-N-acetylglucosaminylgalactosylglucosyl-ceramide beta-1,3-acetylglucosaminyltransferase activity ; GO:0008457
+GO:0008457	ec2go	EC:2.4.1.149 > GO:beta-galactosyl-N-acetylglucosaminylgalactosylglucosyl-ceramide beta-1,3-acetylglucosaminyltransferase activity ; GO:0008457
+GO:0008532	metacyc2go	MetaCyc:2.4.1.149-RXN > GO:N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase activity ; GO:0008532
+GO:0008532	reactome2go	Reactome:R-HSA-2025724 > GO:N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase activity ; GO:0008532
+GO:0008532	rhea2go	RHEA:14389 > GO:N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase activity ; GO:0008532
+GO:0008532	ec2go	EC:2.4.1.149 > GO:N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase activity ; GO:0008532

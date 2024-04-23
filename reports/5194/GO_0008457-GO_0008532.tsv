@@ -1,0 +1,9 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:Q9BYG0	B3GNT5	PMID:11384981		GO:0008457	beta-galactosyl-N-acetylglucosaminylgalactosylglucosyl-ceramide beta-1,3-acetylglucosaminyltransferase activity	IDA			PANTHER:PTHR11214	20031216		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y2A9	B3GNT3	PMID:11042166		GO:0008532	N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase activity	IDA			PANTHER:PTHR11214	20141117		NCBITaxon:9606
+UniProt	UniProtKB:Q9NY97	B3GNT2	PMID:11042166		GO:0008532	N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase activity	IDA			PANTHER:PTHR11214	20141117		NCBITaxon:9606
+UniProt	UniProtKB:Q9C0J1	B3GNT4	PMID:11042166		GO:0008532	N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase activity	IDA			PANTHER:PTHR11214	20141117		NCBITaxon:9606
+UniProt	UniProtKB:Q9NY97	B3GNT2	PMID:25279697		GO:0008532	N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase activity	IDA			PANTHER:PTHR11214	20141117		NCBITaxon:9606
+UniProt	UniProtKB:O43505	B4GAT1	PMID:25279697	not	GO:0008532	N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase activity	IDA			PANTHER:PTHR46420	20141117		NCBITaxon:9606
+UniProt	UniProtKB:O43505	B4GAT1	PMID:25279699	not	GO:0008532	N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase activity	IDA			PANTHER:PTHR46420	20141117		NCBITaxon:9606
+UniProt	UniProtKB:Q9NY97	B3GNT2	PMID:9892646		GO:0008532	N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase activity	IDA			PANTHER:PTHR11214	20141117		NCBITaxon:9606
