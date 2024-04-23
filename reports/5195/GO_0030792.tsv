@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	RGD:621325	As3mt	PMID:11790780|RGD:625365		GO:0030792	methylarsonite methyltransferase activity	IDA			PANTHER:PTHR43675	20040421		NCBITaxon:10116
+UniProt	UniProtKB:Q9HBK9	AS3MT	PMID:25997655		GO:0030792	methylarsonite methyltransferase activity	IDA			PANTHER:PTHR43675	20180904		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y5N5	N6AMT1	PMID:25997655		GO:0030792	methylarsonite methyltransferase activity	IDA			PANTHER:PTHR45875	20180904		NCBITaxon:9606
