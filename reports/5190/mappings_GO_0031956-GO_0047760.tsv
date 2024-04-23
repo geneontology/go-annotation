@@ -1,0 +1,7 @@
+term	file	line
+GO:0031956	rhea2go	RHEA:48340 > GO:medium-chain fatty acid-CoA ligase activity ; GO:0031956
+GO:0031956	ec2go	EC:6.2.1.2 > GO:medium-chain fatty acid-CoA ligase activity ; GO:0031956
+GO:0047760	metacyc2go	MetaCyc:BUTYRATE--COA-LIGASE-RXN > GO:butyrate-CoA ligase activity ; GO:0047760
+GO:0047760	reactome2go	Reactome:R-HSA-8875013 > GO:butyrate-CoA ligase activity ; GO:0047760
+GO:0047760	rhea2go	RHEA:24336 > GO:butyrate-CoA ligase activity ; GO:0047760
+GO:0047760	ec2go	EC:6.2.1.2 > GO:butyrate-CoA ligase activity ; GO:0047760
