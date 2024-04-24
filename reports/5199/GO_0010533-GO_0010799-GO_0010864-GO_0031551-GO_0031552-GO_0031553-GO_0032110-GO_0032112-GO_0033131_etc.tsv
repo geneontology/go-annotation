@@ -1,0 +1,68 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:1354910	Socs1	PMID:21606371		GO:0010533	regulation of activation of Janus kinase activity	IMP	MGI:MGI:2656917		PANTHER:PTHR10155	20170417		NCBITaxon:10090
+CAFA	UniProtKB:P02942	tsr	PMID:18931127		GO:0032110	regulation of protein histidine kinase activity	IMP			PANTHER:PTHR43531	20161017		NCBITaxon:83333
+BHF-UCL	MGI:MGI:1096345	Gckr	PMID:10713097|MGI:MGI:1354534		GO:0033133	positive regulation of glucokinase activity	IMP			PANTHER:PTHR10088	20100929		NCBITaxon:10090
+MGI	MGI:MGI:894323	Ranbp2	PMID:17069463		GO:0033133	positive regulation of glucokinase activity	IDA			PANTHER:PTHR23138	20170215		NCBITaxon:10090
+UniProt	MGI:MGI:1096330	Bad	PMID:18223655|MGI:MGI:3778846		GO:0033133	positive regulation of glucokinase activity	IMP			PANTHER:PTHR28540	20110323		NCBITaxon:10090
+MGI	PR:O08842-1	mGFRA2/iso:1	PMID:23872421	not	GO:0033139	regulation of peptidyl-serine phosphorylation of STAT protein	IDA				20170417		NCBITaxon:10090
+MGI	PR:P35546-1	mRET/iso:1	PMID:23872421	not	GO:0033139	regulation of peptidyl-serine phosphorylation of STAT protein	IDA				20170417		NCBITaxon:10090
+MGI	PR:O08842-3	mGFRA2/iso:3	PMID:23872421	not	GO:0033139	regulation of peptidyl-serine phosphorylation of STAT protein	IDA				20170417		NCBITaxon:10090
+CACAO	UniProtKB:P24522	GADD45A	PMID:23329839		GO:0033140	negative regulation of peptidyl-serine phosphorylation of STAT protein	IMP			PANTHER:PTHR10411	20161016		NCBITaxon:9606
+CACAO	MGI:MGI:107799	Gadd45a	PMID:23329839|MGI:MGI:6377865		GO:0033140	negative regulation of peptidyl-serine phosphorylation of STAT protein	IMP			PANTHER:PTHR10411	20161016		NCBITaxon:10090
+MGI	MGI:MGI:1914735	Pwp1	PMID:25335925		GO:0033140	negative regulation of peptidyl-serine phosphorylation of STAT protein	IMP			PANTHER:PTHR14091	20170417		NCBITaxon:10090
+MGI	MGI:MGI:2387356	Ggnbp2	PMID:26764350		GO:0033140	negative regulation of peptidyl-serine phosphorylation of STAT protein	IMP	MGI:MGI:4072637		PANTHER:PTHR13601	20170417	PR:000049779|PR:000045779	NCBITaxon:10090
+ZFIN	ZFIN:ZDB-GENE-041024-9	prrc1	PMID:20018846		GO:0034199	activation of protein kinase A activity	IDA			PANTHER:PTHR23276	20110110		NCBITaxon:7955
+ARUK-UCL	UniProtKB:Q96AC1	FERMT2	PMID:29496737		GO:0035505	positive regulation of myosin light chain kinase activity	IMP			PANTHER:PTHR16160	20200916	CL:0000134	NCBITaxon:9606
+BHF-UCL	UniProtKB:P01584	IL1B	PMID:18390750		GO:0035505	positive regulation of myosin light chain kinase activity	IDA			PANTHER:PTHR10078	20101202		NCBITaxon:9606
+CACAO	MGI:MGI:2137586	Dtnbp1	PMID:19094965|MGI:MGI:3831072		GO:0043506	regulation of JUN kinase activity	IMP			PANTHER:PTHR16294	20111101		NCBITaxon:10090
+MGI	MGI:MGI:88285	Cbs	PMID:15030387		GO:0043506	regulation of JUN kinase activity	IMP	MGI:MGI:1857139		PANTHER:PTHR10314	20071130		NCBITaxon:10090
+MGI	MGI:MGI:1932137	Tnxb	PMID:15212943		GO:0043506	regulation of JUN kinase activity	IMP	MGI:MGI:3053791		PANTHER:PTHR46708	20070330		NCBITaxon:10090
+BHF-UCL	UniProtKB:Q12792	TWF1	PMID:10406962		GO:0043538	regulation of actin phosphorylation	IDA			PANTHER:PTHR13759	20110707		NCBITaxon:9606
+UniProt	UniProtKB:Q08999	RBL2	PMID:16286473		GO:0043550	regulation of lipid kinase activity	IDA			PANTHER:PTHR13742	20060717		NCBITaxon:9606
+UniProt	UniProtKB:P06400	RB1	PMID:16286473		GO:0043550	regulation of lipid kinase activity	IDA			PANTHER:PTHR13742	20060717		NCBITaxon:9606
+UniProt	UniProtKB:P28749	RBL1	PMID:16286473		GO:0043550	regulation of lipid kinase activity	IDA			PANTHER:PTHR13742	20060717		NCBITaxon:9606
+UniProt	MGI:MGI:1354950	Nrbf2	PMID:24849286|MGI:MGI:5634877		GO:0043550	regulation of lipid kinase activity	IMP			PANTHER:PTHR14964	20150422		NCBITaxon:10090
+ParkinsonsUK-UCL	MGI:MGI:1927072	Ppp1r15a	PMID:11381086|MGI:MGI:5605960		GO:0060734	regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation	IDA			PANTHER:PTHR16489	20141027		NCBITaxon:10090
+UniProt	MGI:MGI:1341830	Eif2ak3	PMID:11106749|MGI:MGI:3582244		GO:0060734	regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation	IMP			PANTHER:PTHR11042	20151013		NCBITaxon:10090
+UniProt	UniProtKB:P06748	NPM1	PMID:12882984		GO:0060735	regulation of eIF2 alpha phosphorylation by dsRNA	IDA			PANTHER:PTHR22747	20130417		NCBITaxon:9606
+AgBase	UniProtKB:Q96EB6	SIRT1	PMID:20203304		GO:0071900	regulation of protein serine/threonine kinase activity	IMP			PANTHER:PTHR47651	20151030		NCBITaxon:9606
+MGI	MGI:MGI:97631	Pmp22	PMID:27583434		GO:0071900	regulation of protein serine/threonine kinase activity	IMP	MGI:MGI:2447704		PANTHER:PTHR10671	20180725		NCBITaxon:10090
+UniProt	UniProtKB:Q9P2Y5	UVRAG	PMID:22542840		GO:0071900	regulation of protein serine/threonine kinase activity	IDA			PANTHER:PTHR15157	20150402		NCBITaxon:9606
+BHF-UCL	UniProtKB:P00734	F2	PMID:11309392		GO:0090218	positive regulation of lipid kinase activity	IDA			PANTHER:PTHR24254	20160717	UniProtKB:P52824|GO:0005634	NCBITaxon:9606
+MGI	MGI:MGI:96573	Ins2	PMID:11375348		GO:0090218	positive regulation of lipid kinase activity	IDA			PANTHER:PTHR11454	20110121	GO:0016303	NCBITaxon:10090
+UniProt	UniProtKB:Q05639	EEF1A2	PMID:17088255		GO:0090218	positive regulation of lipid kinase activity	IDA			PANTHER:PTHR23115	20150116	UniProtKB:Q9UBF8	NCBITaxon:9606
+BHF-UCL	UniProtKB:Q15172	PPP2R5A	PMID:21075214		GO:0090219	negative regulation of lipid kinase activity	IMP			PANTHER:PTHR10257	20110301		NCBITaxon:9606
+UniProt	UniProtKB:P68104	EEF1A1	PMID:18263879		GO:1900022	regulation of D-erythro-sphingosine kinase activity	IDA			PANTHER:PTHR23115	20190326		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q03135	CAV1	PMID:25006397		GO:1900085	negative regulation of peptidyl-tyrosine autophosphorylation	IMP			PANTHER:PTHR10844	20141107	UniProtKB:P12931	NCBITaxon:9606
+UniProt	UniProtKB:Q9UGN4	CD300A	PMID:16254138		GO:1902569	negative regulation of activation of Janus kinase activity	IDA			PANTHER:PTHR11860	20131213		NCBITaxon:9606
+ARUK-UCL	MGI:MGI:88232	C5ar1	PMID:19561098|MGI:MGI:4354701		GO:1902947	regulation of tau-protein kinase activity	IGI	UniProtKB:P05067		PANTHER:PTHR24225	20190104	EMAPA:35405	NCBITaxon:10090
+MGI	MGI:MGI:96079	Hgf	PMID:21072211		GO:1902947	regulation of tau-protein kinase activity	IDA			PANTHER:PTHR24261	20151105		NCBITaxon:10090
+ARUK-UCL	UniProtKB:P01579	IFNG	PMID:19808651		GO:1902948	negative regulation of tau-protein kinase activity	IGI	UniProtKB:P05067|UniProtKB:P10636|UniProtKB:P49768		PANTHER:PTHR11419	20190430	UBERON:0002421	NCBITaxon:9606
+ARUK-UCL	RNAcentral:URS0000565C8D_9606	URS0000565C8D_9606	PMID:30556160		GO:1902948	negative regulation of tau-protein kinase activity	IDA				20210720	UniProtKB:Q5TCY1|UBERON:0000955|GO:0033137|UniProtKB:P49841|UBERON:0000955|GO:0033137	NCBITaxon:9606
+ARUK-UCL	UniProtKB:P07900	HSP90AA1	PMID:19363271		GO:1902949	positive regulation of tau-protein kinase activity	IDA			PANTHER:PTHR11528	20180226	UniProtKB:P49841	NCBITaxon:9606
+ARUK-UCL	ComplexPortal:CPX-1134	abeta-42-oligomer_human	PMID:23164821		GO:1902949	positive regulation of tau-protein kinase activity	IGI	UniProtKB:A0A0H2UHR3			20170627	CL:0002609	NCBITaxon:9606
+ARUK-UCL	ComplexPortal:CPX-1134	abeta-42-oligomer_human	PMID:23164821		GO:1902949	positive regulation of tau-protein kinase activity	IGI	UniProtKB:D4A4F4			20170627	CL:0002609	NCBITaxon:9606
+ARUK-UCL	RNAcentral:URS00002DABEA_9606	URS00002DABEA_9606	PMID:28947385		GO:1902949	positive regulation of tau-protein kinase activity	IDA				20181217	CL:0000540|UniProtKB:Q00535	NCBITaxon:9606
+CACAO	UniProtKB:P27958	P27958	PMID:24390321		GO:1903301	positive regulation of hexokinase activity	IDA				20181002		NCBITaxon:63746
+UniProt	UniProtKB:Q9NQ88	TIGAR	PMID:23185017		GO:1903301	positive regulation of hexokinase activity	IDA			PANTHER:PTHR46517	20150617		NCBITaxon:9606
+ARUK-UCL	MGI:MGI:108563	Sirpa	PMID:17954568|MGI:MGI:3760575		GO:1903720	negative regulation of I-kappaB phosphorylation	IMP			PANTHER:PTHR19971	20180731	CL:0000235|GO:0071222	NCBITaxon:10090
+ARUK-UCL	RNAcentral:URS0000330617_9606	URS0000330617_9606	PMID:31124343		GO:1903720	negative regulation of I-kappaB phosphorylation	IGI	UniProtKB:P01375			20200210	CL:0000214|GO:1901223	NCBITaxon:9606
+ARUK-UCL	UniProtKB:Q9NRW4	DUSP22	PMID:20018849		GO:1903996	negative regulation of non-membrane spanning protein tyrosine kinase activity	IMP			PANTHER:PTHR45948	20180719	UniProtKB:Q05397	NCBITaxon:9606
+BHF-UCL	RNAcentral:URS000040780F_9606	URS000040780F_9606	PMID:21444814		GO:1903996	negative regulation of non-membrane spanning protein tyrosine kinase activity	IMP				20220525	UniProtKB:Q05397|GO:0070373|GO:0045668|CL:0002540	NCBITaxon:9606
+MGI	MGI:MGI:104773	Adra1a	PMID:27994061		GO:1903997	positive regulation of non-membrane spanning protein tyrosine kinase activity	IDA			PANTHER:PTHR24248	20171117	MGI:MGI:95481	NCBITaxon:10090
+CAFA	UniProtKB:P49918	CDKN1C	PMID:11746698		GO:1904030	negative regulation of cyclin-dependent protein kinase activity	IMP			PANTHER:PTHR10265	20160816		NCBITaxon:9606
+CAFA	UniProtKB:P46527	CDKN1B	PMID:8684460		GO:1904030	negative regulation of cyclin-dependent protein kinase activity	IMP			PANTHER:PTHR10265	20160817		NCBITaxon:9606
+CAFA	UniProtKB:P38936	CDKN1A	PMID:8876165		GO:1904030	negative regulation of cyclin-dependent protein kinase activity	IMP			PANTHER:PTHR46778	20160818		NCBITaxon:9606
+ARUK-UCL	MGI:MGI:96247	Hsp90ab1	PMID:17517623|MGI:MGI:6148636		GO:1904031	positive regulation of cyclin-dependent protein kinase activity	IMP			PANTHER:PTHR11528	20180226	EMAPA:16894	NCBITaxon:10090
+ARUK-UCL	UniProtKB:Q5TCY1	TTBK1	PMID:19118186		GO:1904031	positive regulation of cyclin-dependent protein kinase activity	IMP			PANTHER:PTHR11909	20171103	UniProtKB:Q00535	NCBITaxon:9606
+UniProt	UniProtKB:Q6ZVD7	STOX1	PMID:22253775		GO:1904031	positive regulation of cyclin-dependent protein kinase activity	IMP			PANTHER:PTHR22437	20150327	UniProtKB:P06493	NCBITaxon:9606
+UniProt	UniProtKB:Q6ZVD7	STOX1	PMID:22995177		GO:1904031	positive regulation of cyclin-dependent protein kinase activity	IMP			PANTHER:PTHR22437	20150325	UniProtKB:P06493	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P29172	MAPT	PMID:23091060		GO:1905689	positive regulation of diacylglycerol kinase activity	IDA				20161114	UniProtKB:P52824	NCBITaxon:9913
+UniProt	MGI:MGI:98747	Thy1	PMID:18346467|MGI:MGI:3796911		GO:2000298	regulation of Rho-dependent protein serine/threonine kinase activity	IDA			PANTHER:PTHR19226	20170302		NCBITaxon:10090
+UniProt	MGI:MGI:1914167	Chordc1	PMID:20230755|MGI:MGI:4441223		GO:2000299	negative regulation of Rho-dependent protein serine/threonine kinase activity	IDA			PANTHER:PTHR12621	20110110		NCBITaxon:10090
+UniProt	UniProtKB:Q9ULI3	HEG1	PMID:26780829		GO:2000299	negative regulation of Rho-dependent protein serine/threonine kinase activity	IDA			PANTHER:PTHR24037	20180913	CL:0002618|GO:0043149	NCBITaxon:9606
+UniProt	UniProtKB:Q5U651	RASIP1	PMID:26780829		GO:2000299	negative regulation of Rho-dependent protein serine/threonine kinase activity	IMP			PANTHER:PTHR16027	20180913	CL:0002618	NCBITaxon:9606
+ARUK-UCL	UniProtKB:P42858	HTT	PMID:21768291		GO:2000479	regulation of cAMP-dependent protein kinase activity	IMP			PANTHER:PTHR10170	20180515	UniProtKB:Q13131|UBERON:0002435	NCBITaxon:9606
+ARUK-UCL	MGI:MGI:96067	Htt	PMID:21768291|MGI:MGI:5293262		GO:2000479	regulation of cAMP-dependent protein kinase activity	IMP			PANTHER:PTHR10170	20180515	UniProtKB:Q5EG47|EMAPA:17549	NCBITaxon:10090
+MGI	MGI:MGI:2651874	Sesn2	PMID:22958918		GO:2000479	regulation of cAMP-dependent protein kinase activity	IMP	MGI:MGI:3587950		PANTHER:PTHR12474	20131030		NCBITaxon:10090
+UniProt	UniProtKB:P26927	MST1	PMID:19720831		GO:2000479	regulation of cAMP-dependent protein kinase activity	IDA			PANTHER:PTHR24261	20160407		NCBITaxon:9606
