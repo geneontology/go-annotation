@@ -1,0 +1,16 @@
+term	file	line
+GO:0004022	um-bbd_enzymeid2go	UM-BBD_enzymeID:e0023 > GO:alcohol dehydrogenase (NAD+) activity ; GO:0004022
+GO:0004022	metacyc2go	MetaCyc:ALCOHOL-DEHYDROG-GENERIC-RXN > GO:alcohol dehydrogenase (NAD+) activity ; GO:0004022
+GO:0004022	unirule2go	UniRule:UR000132767 > GO:alcohol dehydrogenase (NAD+) activity ; GO:0004022
+GO:0004022	unirule2go	UniRule:UR000134789 > GO:alcohol dehydrogenase (NAD+) activity ; GO:0004022
+GO:0004022	interpro2go	InterPro:IPR002425 Alcohol dehydrogenase, Drosophila-type > GO:alcohol dehydrogenase (NAD+) activity ; GO:0004022
+GO:0004022	interpro2go	InterPro:IPR002426 Alcohol dehydrogenase, Ceratitis-type > GO:alcohol dehydrogenase (NAD+) activity ; GO:0004022
+GO:0004022	interpro2go	InterPro:IPR003420 Methanol dehydrogenase, beta subunit > GO:alcohol dehydrogenase (NAD+) activity ; GO:0004022
+GO:0004022	interpro2go	InterPro:IPR012079 Bifunctional aldehyde-alcohol dehydrogenase > GO:alcohol dehydrogenase (NAD+) activity ; GO:0004022
+GO:0004022	interpro2go	InterPro:IPR034789 Bifunctional aldehyde-alcohol dehydrogenase, C-terminal domain > GO:alcohol dehydrogenase (NAD+) activity ; GO:0004022
+GO:0004022	interpro2go	InterPro:IPR036557 Methanol dehydrogenase, beta subunit superfamily > GO:alcohol dehydrogenase (NAD+) activity ; GO:0004022
+GO:0004022	interpro2go	InterPro:IPR042157 Hydroxyacid-oxoacid transhydrogenase > GO:alcohol dehydrogenase (NAD+) activity ; GO:0004022
+GO:0004022	reactome2go	Reactome:R-HSA-2162078 > GO:alcohol dehydrogenase (NAD+) activity ; GO:0004022
+GO:0004022	rhea2go	RHEA:10740 > GO:alcohol dehydrogenase (NAD+) activity ; GO:0004022
+GO:0004022	ec2go	EC:1.1.1.1 > GO:alcohol dehydrogenase (NAD+) activity ; GO:0004022
+GO:0004024	reactome2go	Reactome:R-HSA-71707 > GO:alcohol dehydrogenase (NAD+) activity, zinc-dependent ; GO:0004024
