@@ -1,4 +1,4 @@
-! Generated on 2024-04-21T08:10Z from the ontology 'go' with data version: 'releases/2024-04-21'
+! Generated on 2024-04-24T17:18Z from the ontology 'go' with data version: 'releases/2024-04-24'
 !
 Reactome:R-HSA-1008248 > GO:nucleoside triphosphate adenylate kinase activity ; GO:0046899
 Reactome:R-HSA-1013012 > GO:G protein-coupled GABA receptor activity ; GO:0004965
@@ -4760,7 +4760,7 @@ Reactome:R-HSA-8874212 > GO:serine-type endopeptidase activity ; GO:0004252
 Reactome:R-HSA-8874435 > GO:ether hydrolase activity ; GO:0016803
 Reactome:R-HSA-8874470 > GO:phosphatidylinositol transfer activity ; GO:0008526
 Reactome:R-HSA-8874745 > GO:acetyl-CoA C-acyltransferase activity ; GO:0003988
-Reactome:R-HSA-8875013 > GO:butyrate-CoA ligase activity ; GO:0047760
+Reactome:R-HSA-8875013 > GO:medium-chain fatty acid-CoA ligase activity ; GO:0031956
 Reactome:R-HSA-8875071 > GO:acetate-CoA ligase activity ; GO:0003987
 Reactome:R-HSA-8875077 > GO:very long-chain fatty acid-CoA ligase activity ; GO:0031957
 Reactome:R-HSA-8875183 > GO:ubiquitin protein ligase activity ; GO:0061630
