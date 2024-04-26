@@ -1,0 +1,31 @@
+term	file	line
+GO:0035064	interpro2go	InterPro:IPR029096 Developmental pluripotency-associated protein 3 > GO:methylated histone binding ; GO:0035064
+GO:0035064	interpro2go	InterPro:IPR037948 Chromo domain-containing protein cec-4/Chromobox protein homolog hpl-2 > GO:methylated histone binding ; GO:0035064
+GO:0042393	unirule2go	UniRule:UR000138767 > GO:histone binding ; GO:0042393
+GO:0042393	unirule2go	UniRule:UR000160894 > GO:histone binding ; GO:0042393
+GO:0042393	unirule2go	UniRule:UR000369261 > GO:histone binding ; GO:0042393
+GO:0042393	unirule2go	UniRule:UR000369684 > GO:histone binding ; GO:0042393
+GO:0042393	unirule2go	UniRule:UR000370030 > GO:histone binding ; GO:0042393
+GO:0042393	unirule2go	UniRule:UR000736776 > GO:histone binding ; GO:0042393
+GO:0042393	unirule2go	UniRule:UR001695780 > GO:histone binding ; GO:0042393
+GO:0042393	unirule2go	UniRule:UR001725755 > GO:histone binding ; GO:0042393
+GO:0042393	hamap2go	HAMAP:MF_03062 > GO:histone binding ; GO:0042393
+GO:0042393	hamap2go	HAMAP:MF_03066 > GO:histone binding ; GO:0042393
+GO:0042393	hamap2go	HAMAP:MF_03067 > GO:histone binding ; GO:0042393
+GO:0042393	hamap2go	HAMAP:MF_03071 > GO:histone binding ; GO:0042393
+GO:0042393	interpro2go	InterPro:IPR013523 Histone acetyltransferase HAT1, C-terminal > GO:histone binding ; GO:0042393
+GO:0042393	interpro2go	InterPro:IPR017282 Histone deposition protein Asf1 > GO:histone binding ; GO:0042393
+GO:0042393	interpro2go	InterPro:IPR018465 Centromere protein Scm3/HJURP > GO:histone binding ; GO:0042393
+GO:0042393	interpro2go	InterPro:IPR019361 Histone PARylation factor 1 > GO:histone binding ; GO:0042393
+GO:0042393	interpro2go	InterPro:IPR020693 Tyrosine-protein kinase, non-receptor Jak2 > GO:histone binding ; GO:0042393
+GO:0042393	interpro2go	InterPro:IPR021162 Histone H3-K79 methyltransferase, fungi > GO:histone binding ; GO:0042393
+GO:0042393	interpro2go	InterPro:IPR021998 Alfin, N-terminal > GO:histone binding ; GO:0042393
+GO:0042393	interpro2go	InterPro:IPR029289 Coordinator of PRMT5 and differentiation stimulator > GO:histone binding ; GO:0042393
+GO:0042393	interpro2go	InterPro:IPR029295 Snf2, ATP coupling domain > GO:histone binding ; GO:0042393
+GO:0042393	interpro2go	InterPro:IPR037604 Scm-like with four MBT domains protein 1/2, SAM domain > GO:histone binding ; GO:0042393
+GO:0042393	interpro2go	InterPro:IPR045104 Alfin > GO:histone binding ; GO:0042393
+GO:0042393	interpro2go	InterPro:IPR046426 Daxx, histone-binding domain superfamily > GO:histone binding ; GO:0042393
+GO:0042393	interpro2go	InterPro:IPR049937 Chp1, chromodomain > GO:histone binding ; GO:0042393
+GO:0070577	interpro2go	InterPro:IPR035309 Proteasome activator complex subunit 4 > GO:lysine-acetylated histone binding ; GO:0070577
+GO:0140566	interpro2go	InterPro:IPR049914 PHD finger-containing protein 1-6 > GO:histone reader activity ; GO:0140566
+GO:0140566	interpro2go	InterPro:IPR049937 Chp1, chromodomain > GO:histone reader activity ; GO:0140566

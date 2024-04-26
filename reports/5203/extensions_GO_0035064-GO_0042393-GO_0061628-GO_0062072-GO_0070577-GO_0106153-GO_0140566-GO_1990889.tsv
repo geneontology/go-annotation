@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:Q05BQ5	MBTD1	PMID:32209463		GO:0062060	NuA4 histone acetyltransferase complex binding	IDA			PANTHER:PTHR12247	20211104	GO:0000724|GO:0035861|GO:0035267|GO:0035064	NCBITaxon:9606
