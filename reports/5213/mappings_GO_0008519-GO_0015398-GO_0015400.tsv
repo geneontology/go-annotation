@@ -1,0 +1,12 @@
+term	file	line
+GO:0008519	metacyc2go	MetaCyc:RXN-9615 > GO:ammonium transmembrane transporter activity ; GO:0008519
+GO:0008519	interpro2go	InterPro:IPR001905 Ammonium transporter > GO:ammonium transmembrane transporter activity ; GO:0008519
+GO:0008519	interpro2go	InterPro:IPR018047 Ammonium transporter, conserved site > GO:ammonium transmembrane transporter activity ; GO:0008519
+GO:0008519	interpro2go	InterPro:IPR024041 Ammonium transporter AmtB-like domain > GO:ammonium transmembrane transporter activity ; GO:0008519
+GO:0008519	reactome2go	Reactome:R-HSA-444393 > GO:ammonium transmembrane transporter activity ; GO:0008519
+GO:0008519	reactome2go	Reactome:R-HSA-444416 > GO:ammonium transmembrane transporter activity ; GO:0008519
+GO:0008519	reactome2go	Reactome:R-HSA-444419 > GO:ammonium transmembrane transporter activity ; GO:0008519
+GO:0008519	reactome2go	Reactome:R-HSA-446277 > GO:ammonium transmembrane transporter activity ; GO:0008519
+GO:0008519	reactome2go	Reactome:R-HSA-446278 > GO:ammonium transmembrane transporter activity ; GO:0008519
+GO:0008519	reactome2go	Reactome:R-HSA-5623051 > GO:ammonium transmembrane transporter activity ; GO:0008519
+GO:0008519	rhea2go	RHEA:28747 > GO:ammonium transmembrane transporter activity ; GO:0008519
