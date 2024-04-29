@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P0AA67	rhtA	PMID:12648727		GO:0015291	secondary active transmembrane transporter activity	IDA			PANTHER:PTHR22911	20171031		NCBITaxon:83333
+EcoCyc	UniProtKB:P46133	abgT	PMID:17307853		GO:0015291	secondary active transmembrane transporter activity	IDA			PANTHER:PTHR30282	20171030		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AFY6	sbmA	PMID:24078610		GO:0015291	secondary active transmembrane transporter activity	IDA				20131111		NCBITaxon:83333
+EcoCyc	UniProtKB:P25527	gabP	PMID:8297211		GO:0015291	secondary active transmembrane transporter activity	IDA			PANTHER:PTHR43495	20190114		NCBITaxon:83333
+MGI	MGI:MGI:1353497	Slc25a10	PMID:10567211		GO:0015291	secondary active transmembrane transporter activity	IDA			PANTHER:PTHR45618	20070705		NCBITaxon:10090
