@@ -1,0 +1,5 @@
+term	file	line
+GO:0008271	interpro2go	InterPro:IPR018045 Sulphate anion transporter, conserved site > GO:secondary active sulfate transmembrane transporter activity ; GO:0008271
+GO:0008513	reactome2go	Reactome:R-HSA-549241 > GO:secondary active organic cation transmembrane transporter activity ; GO:0008513
+GO:0015558	interpro2go	InterPro:IPR004697 p-Aminobenzoyl-glutamate transport protein AbgT > GO:secondary active p-aminobenzoyl-glutamate transmembrane transporter activity ; GO:0015558
+GO:0015558	interpro2go	InterPro:IPR011540 AbgT, Proteobacteria > GO:secondary active p-aminobenzoyl-glutamate transmembrane transporter activity ; GO:0015558

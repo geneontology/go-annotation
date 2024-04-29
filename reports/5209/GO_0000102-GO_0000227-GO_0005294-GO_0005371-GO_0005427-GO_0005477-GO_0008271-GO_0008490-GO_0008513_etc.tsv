@@ -1,0 +1,42 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P39277	yjeH	PMID:26319875		GO:0000102	L-methionine secondary active transmembrane transporter activity	IDA			PANTHER:PTHR42770	20150915		NCBITaxon:83333
+SGD	SGD:S000003287	MUP1	PMID:8893857		GO:0000102	L-methionine secondary active transmembrane transporter activity	IDA		UniProtKB:P50276	PANTHER:PTHR11785	20010118		NCBITaxon:559292
+EcoCyc	UniProtKB:P39277	yjeH	PMID:26319875		GO:0005294	neutral L-amino acid secondary active transmembrane transporter activity	IDA			PANTHER:PTHR42770	20150915		NCBITaxon:83333
+UniProt	UniProtKB:P08195	SLC3A2	PMID:33298890		GO:0005294	neutral L-amino acid secondary active transmembrane transporter activity	IDA			PANTHER:PTHR46673	20230526		NCBITaxon:9606
+SGD	SGD:S000004854	YHM2	PMID:20371607		GO:0005371	tricarboxylate secondary active transmembrane transporter activity	IDA		UniProtKB:Q04013	PANTHER:PTHR46982	20100414		NCBITaxon:559292
+SGD	SGD:S000000495	CTP1	PMID:7876161		GO:0005371	tricarboxylate secondary active transmembrane transporter activity	IDA		UniProtKB:P38152	PANTHER:PTHR45788	20010118		NCBITaxon:559292
+SGD	SGD:S000004854	YHM2	PMID:9559855		GO:0005371	tricarboxylate secondary active transmembrane transporter activity	IDA		UniProtKB:Q04013	PANTHER:PTHR46982	20021017		NCBITaxon:559292
+FlyBase	FB:FBgn0265575	yin	PMID:9730971|FB:FBrf0104507		GO:0005427	proton-dependent oligopeptide secondary active transmembrane transporter activity	IDA			PANTHER:PTHR11654	20060803		NCBITaxon:7227
+MGI	MGI:MGI:1861376	Slc15a1	PMID:11004485		GO:0005427	proton-dependent oligopeptide secondary active transmembrane transporter activity	IDA			PANTHER:PTHR11654	20020718		NCBITaxon:10090
+MGI	MGI:MGI:1095414	Cdh17	PMID:8153632		GO:0005427	proton-dependent oligopeptide secondary active transmembrane transporter activity	IDA			PANTHER:PTHR24027	20010314		NCBITaxon:10090
+SGD	SGD:S000003748	OPT1	PMID:16149917		GO:0005427	proton-dependent oligopeptide secondary active transmembrane transporter activity	IDA		UniProtKB:P40897	PANTHER:PTHR22601	20070131		NCBITaxon:559292
+EcoCyc	UniProtKB:P39396	btsT	PMID:29061664		GO:0005477	pyruvate secondary active transmembrane transporter activity	IDA			PANTHER:PTHR30252	20171108		NCBITaxon:83333
+EcoCyc	UniProtKB:P15078	cstA	PMID:33260635		GO:0005477	pyruvate secondary active transmembrane transporter activity	IDA			PANTHER:PTHR30252	20210112		NCBITaxon:83333
+SGD	SGD:S000001268	YIA6	PMID:12887330		GO:0005477	pyruvate secondary active transmembrane transporter activity	IMP		UniProtKB:P40556	PANTHER:PTHR45683	20031222		NCBITaxon:559292
+MGI	MGI:MGI:1859937	Slc13a1	PMID:10766815		GO:0008271	secondary active sulfate transmembrane transporter activity	IDA			PANTHER:PTHR10283	20000705		NCBITaxon:10090
+UniProt	UniProtKB:P55851	UCP2	PMID:24395786		GO:0008271	secondary active sulfate transmembrane transporter activity	IDA			PANTHER:PTHR45618	20221021		NCBITaxon:9606
+ZFIN	ZFIN:ZDB-GENE-030131-1566	slc26a5	PMID:17442754		GO:0008271	secondary active sulfate transmembrane transporter activity	IDA			PANTHER:PTHR11814	20070512		NCBITaxon:7955
+EcoCyc	UniProtKB:P0AB93	arsB	PMID:14970228		GO:0008490	arsenite secondary active transmembrane transporter activity	IDA			PANTHER:PTHR43302	20071221		NCBITaxon:83333
+RGD	RGD:3224	Slc22a1	PMID:7990927|RGD:634159		GO:0008513	secondary active organic cation transmembrane transporter activity	IDA			PANTHER:PTHR24064	20100405		NCBITaxon:10116
+EcoCyc	UniProtKB:P0AA67	rhtA	PMID:12648727		GO:0015291	secondary active transmembrane transporter activity	IDA			PANTHER:PTHR22911	20171031		NCBITaxon:83333
+EcoCyc	UniProtKB:P46133	abgT	PMID:17307853		GO:0015291	secondary active transmembrane transporter activity	IDA			PANTHER:PTHR30282	20171030		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AFY6	sbmA	PMID:24078610		GO:0015291	secondary active transmembrane transporter activity	IDA				20131111		NCBITaxon:83333
+EcoCyc	UniProtKB:P25527	gabP	PMID:8297211		GO:0015291	secondary active transmembrane transporter activity	IDA			PANTHER:PTHR43495	20190114		NCBITaxon:83333
+MGI	MGI:MGI:1353497	Slc25a10	PMID:10567211		GO:0015291	secondary active transmembrane transporter activity	IDA			PANTHER:PTHR45618	20070705		NCBITaxon:10090
+SGD	SGD:S000001700	JEN1	PMID:17710650		GO:0015355	secondary active monocarboxylate transmembrane transporter activity	IMP		UniProtKB:P36035	PANTHER:PTHR23508	20110527		NCBITaxon:559292
+ZFIN	ZFIN:ZDB-GENE-040426-1343	slc5a12	PMID:17255103		GO:0015355	secondary active monocarboxylate transmembrane transporter activity	IDA			PANTHER:PTHR42985	20070620		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-061110-98	slc5a8l	PMID:17255103		GO:0015355	secondary active monocarboxylate transmembrane transporter activity	IDA			PANTHER:PTHR42985	20070620		NCBITaxon:7955
+PomBase	PomBase:SPCPB1C11.01	amt1	PMID:16999738		GO:0015398	high-affinity secondary active ammonium transmembrane transporter activity	IMP			PANTHER:PTHR43029	20061024		NCBITaxon:4896
+TAIR	AGI_LocusCode:AT2G38290	AMT2	PMID:12481062|TAIR:Publication:501682885		GO:0015398	high-affinity secondary active ammonium transmembrane transporter activity	IDA		TAIR:locus:2042917		20040210		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G28700	AMT1;4	PMID:19073648|TAIR:Publication:501729367		GO:0015398	high-affinity secondary active ammonium transmembrane transporter activity	IMP		TAIR:locus:2117758		20090127		NCBITaxon:3702
+AspGD	UniProtKB:P22152	crnA	PMID:18024100		GO:0015513	high-affinity secondary active nitrite transmembrane transporter activity	IMP			PANTHER:PTHR23515	20091125		NCBITaxon:227321
+AspGD	UniProtKB:G5EB18	ANIA_00399	PMID:18024100		GO:0015513	high-affinity secondary active nitrite transmembrane transporter activity	IMP			PANTHER:PTHR23515	20091125		NCBITaxon:227321
+AspGD	UniProtKB:Q5AST3	ANIA_08647	PMID:18024100		GO:0015513	high-affinity secondary active nitrite transmembrane transporter activity	IGI	AspGD:ASPL0000056693|AspGD:ASPL0000060467		PANTHER:PTHR30520	20091125		NCBITaxon:227321
+AspGD	UniProtKB:Q5AST3	ANIA_08647	PMID:18024100		GO:0015513	high-affinity secondary active nitrite transmembrane transporter activity	IMP			PANTHER:PTHR30520	20091125		NCBITaxon:227321
+EcoCyc	UniProtKB:P46133	abgT	PMID:17307853		GO:0015558	secondary active p-aminobenzoyl-glutamate transmembrane transporter activity	IMP			PANTHER:PTHR30282	20100411		NCBITaxon:83333
+EcoCyc	UniProtKB:P46133	abgT	PMID:9829935		GO:0015558	secondary active p-aminobenzoyl-glutamate transmembrane transporter activity	IMP			PANTHER:PTHR30282	20100411		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AB93	arsB	PMID:14970228		GO:0042960	antimonite secondary active transmembrane transporter activity	IDA			PANTHER:PTHR43302	20071221		NCBITaxon:83333
+UniProt	UniProtKB:P79110	SLC25A1	PMID:2549027		GO:0071913	citrate secondary active transmembrane transporter activity	IDA			PANTHER:PTHR45788	20220617		NCBITaxon:9913
+UniProt	UniProtKB:P79110	SLC25A1	PMID:2729553		GO:0071913	citrate secondary active transmembrane transporter activity	IDA			PANTHER:PTHR45788	20220617		NCBITaxon:9913
+UniProt	RGD:3703	Slc25a1	PMID:2804096|RGD:152995536		GO:0071913	citrate secondary active transmembrane transporter activity	IDA			PANTHER:PTHR45788	20220617		NCBITaxon:10116
+UniProt	UniProtKB:P53007	SLC25A1	PMID:29031613		GO:0071913	citrate secondary active transmembrane transporter activity	IDA			PANTHER:PTHR45788	20190320		NCBITaxon:9606
