@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ComplexPortal	UniProtKB:O96007	MOCS2	PMID:16021469		GO:0019008	molybdopterin synthase complex	IPI			PANTHER:PTHR23404	20210315		NCBITaxon:9606
+FlyBase	FB:FBgn0039280	Mocs2B	PMID:22345504|FB:FBrf0218284		GO:0019008	molybdopterin synthase complex	IDA			PANTHER:PTHR23404	20140911		NCBITaxon:7227
+FlyBase	FB:FBgn0032054	Uba4	PMID:22345504|FB:FBrf0218284		GO:0019008	molybdopterin synthase complex	IDA			PANTHER:PTHR10953	20140911		NCBITaxon:7227
+FlyBase	FB:FBgn0030305	Uba5	PMID:22345504|FB:FBrf0218284		GO:0019008	molybdopterin synthase complex	IDA			PANTHER:PTHR10953	20140911		NCBITaxon:7227
+UniProt	UniProtKB:O96007	MOCS2	PMID:12732628		GO:0019008	molybdopterin synthase complex	IPI	UniProtKB:O96033		PANTHER:PTHR23404	20090330		NCBITaxon:9606

@@ -1,0 +1,7 @@
+term	file	line
+GO:0019008	unirule2go	UniRule:UR000160817 > GO:molybdopterin synthase complex ; GO:0019008
+GO:0019008	unirule2go	UniRule:UR000161417 > GO:molybdopterin synthase complex ; GO:0019008
+GO:0019008	hamap2go	HAMAP:MF_03051 > GO:molybdopterin synthase complex ; GO:0019008
+GO:0019008	hamap2go	HAMAP:MF_03052 > GO:molybdopterin synthase complex ; GO:0019008
+GO:0019008	interpro2go	InterPro:IPR010505 Molybdenum cofactor biosynthesis protein A-like, twitch domain > GO:molybdopterin synthase complex ; GO:0019008
+GO:0019008	interpro2go	InterPro:IPR028888 Molybdopterin synthase catalytic subunit, eukaryotes > GO:molybdopterin synthase complex ; GO:0019008
