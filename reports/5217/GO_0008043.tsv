@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	FB:FBgn0015222	Fer1HCH	PMID:10077577|FB:FBrf0108183		GO:0008043	intracellular ferritin complex	IDA			PANTHER:PTHR11431	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0015221	Fer2LCH	PMID:10077577|FB:FBrf0108183		GO:0008043	intracellular ferritin complex	IDA			PANTHER:PTHR11431	20060803		NCBITaxon:7227
+UniProt	UniProtKB:P02792	FTL	PMID:19923220		GO:0008043	intracellular ferritin complex	IDA			PANTHER:PTHR11431	20110328		NCBITaxon:9606
+UniProt	UniProtKB:P02792	FTL	PMID:20159981		GO:0008043	intracellular ferritin complex	IDA			PANTHER:PTHR11431	20110328		NCBITaxon:9606
