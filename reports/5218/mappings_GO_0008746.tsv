@@ -1,0 +1,6 @@
+term	file	line
+GO:0008746	kegg_reaction2go	KEGG_REACTION:R00112 > GO:NAD(P)+ transhydrogenase activity ; GO:0008746
+GO:0008746	interpro2go	InterPro:IPR026255 NAD(P) transhydrogenase, alpha subunit > GO:NAD(P)+ transhydrogenase activity ; GO:0008746
+GO:0008746	reactome2go	Reactome:R-HSA-450971 > GO:NAD(P)+ transhydrogenase activity ; GO:0008746
+GO:0008746	rhea2go	RHEA:11692 > GO:NAD(P)+ transhydrogenase activity ; GO:0008746
+GO:0008746	ec2go	EC:1.6.1.1 > GO:NAD(P)+ transhydrogenase activity ; GO:0008746
