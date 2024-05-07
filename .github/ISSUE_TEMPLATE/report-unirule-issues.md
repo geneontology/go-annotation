@@ -3,7 +3,7 @@ name: Report UniRule issues
 about: UniRule issues
 title: 'Incorrect Unirule mapping: '
 labels: UniRule
-assignees: esperetta, PedroRaposo
+assignees: PedroRaposo
 
 ---
 
