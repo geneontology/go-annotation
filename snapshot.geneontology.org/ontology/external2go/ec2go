@@ -1,4 +1,4 @@
-! Generated on 2024-04-24T17:18Z from the ontology 'go' with data version: 'releases/2024-04-24'
+! Generated on 2024-05-05T08:22Z from the ontology 'go' with data version: 'releases/2024-05-05'
 !
 EC:1.-.-.- > GO:oxidoreductase activity ; GO:0016491
 EC:1.1.-.- > GO:oxidoreductase activity, acting on CH-OH group of donors ; GO:0016614
@@ -182,7 +182,7 @@ EC:1.1.1.260 > GO:sulcatone reductase activity ; GO:0050491
 EC:1.1.1.261 > GO:glycerol-1-phosphate dehydrogenase [NAD(P)+] activity ; GO:0050492
 EC:1.1.1.262 > GO:4-hydroxythreonine-4-phosphate dehydrogenase activity ; GO:0050570
 EC:1.1.1.263 > GO:1,5-anhydro-D-fructose reductase activity ; GO:0050571
-EC:1.1.1.264 > GO:L-idonate 5-dehydrogenase activity ; GO:0050572
+EC:1.1.1.264 > GO:L-idonate 5-dehydrogenase [NAD(P)+] activity ; GO:0050572
 EC:1.1.1.265 > GO:3-methylbutanal reductase [NAD(P)H] activity ; GO:0046568
 EC:1.1.1.266 > GO:dTDP-4-dehydro-6-deoxyglucose reductase activity ; GO:0050573
 EC:1.1.1.267 > GO:1-deoxy-D-xylulose-5-phosphate reductoisomerase activity ; GO:0030604
@@ -270,7 +270,7 @@ EC:1.1.1.43 > GO:phosphogluconate 2-dehydrogenase activity ; GO:0008114
 EC:1.1.1.44 > GO:phosphogluconate dehydrogenase (decarboxylating) activity ; GO:0004616
 EC:1.1.1.45 > GO:L-gulonate 3-dehydrogenase activity ; GO:0050104
 EC:1.1.1.46 > GO:L-arabinose 1-dehydrogenase (NAD+) activity ; GO:0050022
-EC:1.1.1.47 > GO:glucose 1-dehydrogenase [NAD(P)] activity ; GO:0047936
+EC:1.1.1.47 > GO:glucose 1-dehydrogenase [NAD(P)+] activity ; GO:0047936
 EC:1.1.1.48 > GO:galactose 1-dehydrogenase activity ; GO:0019151
 EC:1.1.1.49 > GO:glucose-6-phosphate dehydrogenase activity ; GO:0004345
 EC:1.1.1.50 > GO:androsterone dehydrogenase (B-specific) activity ; GO:0047042
@@ -726,6 +726,7 @@ EC:1.14.13.2 > GO:4-hydroxybenzoate 3-monooxygenase activity ; GO:0018659
 EC:1.14.13.20 > GO:2,4-dichlorophenol 6-monooxygenase activity ; GO:0018666
 EC:1.14.13.218 > GO:pyocyanin hydroxylase activity ; GO:0102169
 EC:1.14.13.22 > GO:cyclohexanone monooxygenase activity ; GO:0018667
+EC:1.14.13.225 > GO:F-actin monooxygenase activity ; GO:0120501
 EC:1.14.13.23 > GO:3-hydroxybenzoate 4-monooxygenase activity ; GO:0018668
 EC:1.14.13.236 > GO:toluene 4-monooxygenase activity ; GO:0018638
 EC:1.14.13.24 > GO:3-hydroxybenzoate 6-monooxygenase activity ; GO:0018669
@@ -898,6 +899,7 @@ EC:1.14.15.25 > GO:p-cymene methyl hydroxylase activity ; GO:0018694
 EC:1.14.15.29 > GO:cholest-4-en-3-one 26-monooxygenase activity ; GO:0036199
 EC:1.14.15.3 > GO:alkane 1-monooxygenase activity ; GO:0018685
 EC:1.14.15.3 > GO:arachidonic acid omega-hydroxylase activity ; GO:0052869
+EC:1.14.15.3 > GO:fatty acid omega-hydroxylase activity ; GO:0120250
 EC:1.14.15.30 > GO:3-ketosteroid 9-alpha-monooxygenase activity ; GO:0036200
 EC:1.14.15.4 > GO:steroid 11-beta-monooxygenase activity ; GO:0004507
 EC:1.14.15.5 > GO:corticosterone 18-monooxygenase activity ; GO:0047783
@@ -1583,6 +1585,7 @@ EC:1.7.3.3 > GO:urate oxidase activity ; GO:0004846
 EC:1.7.3.5 > GO:3-aci-nitropropanoate oxidase activity ; GO:0047557
 EC:1.7.3.6 > GO:hydroxylamine oxidase activity ; GO:0047991
 EC:1.7.5.- > GO:oxidoreductase activity, acting on other nitrogenous compounds as donors, with a quinone or similar compound as acceptor ; GO:0052586
+EC:1.7.5.1 > GO:nitrate reductase (quinone) activity ; GO:0160182
 EC:1.7.7.- > GO:oxidoreductase activity, acting on other nitrogenous compounds as donors, iron-sulfur protein as acceptor ; GO:0016664
 EC:1.7.7.1 > GO:ferredoxin-nitrite reductase activity ; GO:0048307
 EC:1.7.7.2 > GO:ferredoxin-nitrate reductase activity ; GO:0047889
@@ -2802,7 +2805,7 @@ EC:2.7.1.182 > GO:phytol kinase activity ; GO:0010276
 EC:2.7.1.184 > GO:6-deoxy-6-sulfofructose kinase activity ; GO:0061594
 EC:2.7.1.19 > GO:phosphoribulokinase activity ; GO:0008974
 EC:2.7.1.190 > GO:aminoglycoside phosphotransferase activity ; GO:0034071
-EC:2.7.1.191 > GO:D-glucosamine PTS permease activity ; GO:0103111
+EC:2.7.1.193 > GO:protein-N(pi)-phosphohistidine--N-acetyl-D-glucosamine phosphotransferase activity ; GO:0103111
 EC:2.7.1.2 > GO:glucokinase activity ; GO:0004340
 EC:2.7.1.20 > GO:adenosine kinase activity ; GO:0004001
 EC:2.7.1.206 > GO:protein-N(PI)-phosphohistidine-sorbose phosphotransferase system transporter activity ; GO:0022871

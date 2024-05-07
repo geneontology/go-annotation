@@ -1,4 +1,4 @@
-! Generated on 2024-04-24T17:18Z from the ontology 'go' with data version: 'releases/2024-04-24'
+! Generated on 2024-05-05T08:22Z from the ontology 'go' with data version: 'releases/2024-05-05'
 !
 MetaCyc:+-BORNEOL-DEHYDROGENASE-RXN > GO:(+)-borneol dehydrogenase activity ; GO:0047500
 MetaCyc:+-NEOMENTHOL-DEHYDROGENASE-RXN > GO:(+)-neomenthol dehydrogenase activity ; GO:0047501
@@ -65,7 +65,7 @@ MetaCyc:1.1.1.259-RXN > GO:3-hydroxypimeloyl-CoA dehydrogenase activity ; GO:001
 MetaCyc:1.1.1.260-RXN > GO:sulcatone reductase activity ; GO:0050491
 MetaCyc:1.1.1.261-RXN > GO:glycerol-1-phosphate dehydrogenase [NAD(P)+] activity ; GO:0050492
 MetaCyc:1.1.1.263-RXN > GO:1,5-anhydro-D-fructose reductase activity ; GO:0050571
-MetaCyc:1.1.1.264-RXN > GO:L-idonate 5-dehydrogenase activity ; GO:0050572
+MetaCyc:1.1.1.264-RXN > GO:L-idonate 5-dehydrogenase [NAD(P)+] activity ; GO:0050572
 MetaCyc:1.1.1.265-RXN > GO:3-methylbutanal reductase [NAD(P)H] activity ; GO:0046568
 MetaCyc:1.1.1.266-RXN > GO:dTDP-4-dehydro-6-deoxyglucose reductase activity ; GO:0050573
 MetaCyc:1.1.1.268-RXN > GO:2-(R)-hydroxypropyl-CoM dehydrogenase activity ; GO:0050574
@@ -2408,7 +2408,7 @@ MetaCyc:GLUCOSAMINE-N-ACETYLTRANSFERASE-RXN > GO:glucosamine N-acetyltransferase
 MetaCyc:GLUCOSAMINEPNACETYLTRANS-RXN > GO:glucosamine 6-phosphate N-acetyltransferase activity ; GO:0004343
 MetaCyc:GLUCOSE-1-DEHYDROGENASE-NAD+-RXN > GO:glucose 1-dehydrogenase (NAD+) activity ; GO:0047934
 MetaCyc:GLUCOSE-1-DEHYDROGENASE-NADP+-RXN > GO:glucose 1-dehydrogenase (NADP+) activity ; GO:0047935
-MetaCyc:GLUCOSE-1-DEHYDROGENASE-RXN > GO:glucose 1-dehydrogenase [NAD(P)] activity ; GO:0047936
+MetaCyc:GLUCOSE-1-DEHYDROGENASE-RXN > GO:glucose 1-dehydrogenase [NAD(P)+] activity ; GO:0047936
 MetaCyc:GLUCOSE-1-PHOSPHAT-RXN > GO:glucose-1-phosphatase activity ; GO:0008877
 MetaCyc:GLUCOSE-1-PHOSPHATE-PHOSPHODISMUTASE-RXN > GO:glucose-1-phosphate phosphodismutase activity ; GO:0047937
 MetaCyc:GLUCOSE-16-BISPHOSPHATE-SYNTHASE-RXN > GO:glucose-1,6-bisphosphate synthase activity ; GO:0047933
@@ -3507,6 +3507,7 @@ MetaCyc:PWY-5512 > GO:UDP-N-acetylgalactosamine biosynthetic process ; GO:001927
 MetaCyc:PWY-5514 > GO:UDP-N-acetylgalactosamine biosynthetic process ; GO:0019277
 MetaCyc:PWY-5525 > GO:D-glucuronate catabolic process ; GO:0042840
 MetaCyc:PWY-5659 > GO:GDP-mannose biosynthetic process ; GO:0009298
+MetaCyc:PWY-5659 > GO:GDP-mannose biosynthetic process from glucose ; GO:0141199
 MetaCyc:PWY-5766 > GO:glutamate catabolic process to 2-oxoglutarate ; GO:0019551
 MetaCyc:PWY-581 > GO:indoleacetic acid biosynthetic process via tryptophan ; GO:0009848
 MetaCyc:PWY-581 > GO:tryptophan-independent indoleacetic acid biosynthetic process ; GO:0009849
@@ -5239,7 +5240,7 @@ MetaCyc:RXN-9599 > GO:diamine oxidase activity ; GO:0052597
 MetaCyc:RXN-9600 > GO:histamine oxidase activity ; GO:0052598
 MetaCyc:RXN-9601 > GO:delta12-fatty-acid desaturase activity ; GO:0102985
 MetaCyc:RXN-9603 > GO:trehalose synthase activity ; GO:0102986
-MetaCyc:RXN-9615 > GO:ammonium transmembrane transporter activity ; GO:0008519
+MetaCyc:RXN-9615 > GO:ammonium channel activity ; GO:0008519
 MetaCyc:RXN-9616 > GO:palmitoleic acid delta 12 desaturase activity ; GO:0102987
 MetaCyc:RXN-9617 > GO:9,12-cis-hexadecadienoic acid delta 15 desaturase activity ; GO:0102988
 MetaCyc:RXN-9618 > GO:5-pentadecatrienylresorcinol synthase activity ; GO:0102989
@@ -5734,7 +5735,6 @@ MetaCyc:TRANS-RXN-141A > GO:cobalt ion transmembrane transporter activity ; GO:0
 MetaCyc:TRANS-RXN-141B > GO:nickel cation transmembrane transporter activity ; GO:0015099
 MetaCyc:TRANS-RXN-144 > GO:calcium ion transmembrane transporter activity ; GO:0015085
 MetaCyc:TRANS-RXN-145 > GO:water channel activity ; GO:0015250
-MetaCyc:TRANS-RXN-167A > GO:D-glucosamine PTS permease activity ; GO:0103111
 MetaCyc:TRANS-RXN-178 > GO:P-type divalent copper transporter activity ; GO:0043682
 MetaCyc:TRANS-RXN-194 > GO:P-type calcium transporter activity ; GO:0005388
 MetaCyc:TRANS-RXN-2 > GO:P-type potassium transmembrane transporter activity ; GO:0008556

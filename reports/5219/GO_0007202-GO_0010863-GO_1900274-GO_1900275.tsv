@@ -1,0 +1,34 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	UniProtKB:P47901	AVPR1B	PMID:9322919		GO:0007202	activation of phospholipase C activity	IDA			PANTHER:PTHR24241	20191024		NCBITaxon:9606
+AgBase	UniProtKB:Q9YGC1	BLNK	PMID:10023776		GO:0007202	activation of phospholipase C activity	IMP			PANTHER:PTHR14098	20090722		NCBITaxon:9031
+BHF-UCL	UniProtKB:P16581	SELE	PMID:12960351		GO:0007202	activation of phospholipase C activity	IMP			PANTHER:PTHR19325	20090309		NCBITaxon:9606
+CAFA	UniProtKB:P01270	PTH	PMID:11604398		GO:0007202	activation of phospholipase C activity	IMP			PANTHER:PTHR10541	20170111		NCBITaxon:9606
+UniProt	MGI:MGI:96621	Itk	PMID:10213685|MGI:MGI:1335923		GO:0007202	activation of phospholipase C activity	IMP			PANTHER:PTHR24418	20110913		NCBITaxon:10090
+UniProt	MGI:MGI:102960	Txk	PMID:10213685|MGI:MGI:1335923		GO:0007202	activation of phospholipase C activity	IMP			PANTHER:PTHR24418	20110913		NCBITaxon:10090
+UniProt	MGI:MGI:108429	Lpar1	PMID:11040035|MGI:MGI:5645211		GO:0007202	activation of phospholipase C activity	IDA			PANTHER:PTHR22750	20150713		NCBITaxon:10090
+UniProt	AGI_LocusCode:AT1G48270	GCR1	PMID:12972659|TAIR:Publication:501710553		GO:0007202	activation of phospholipase C activity	IMP		TAIR:locus:2007710		20210331		NCBITaxon:3702
+UniProt	UniProtKB:P41595	HTR2B	PMID:16517693		GO:0007202	activation of phospholipase C activity	IDA			PANTHER:PTHR24247	20130821		NCBITaxon:9606
+UniProt	UniProtKB:P28223	HTR2A	PMID:16517693		GO:0007202	activation of phospholipase C activity	IDA			PANTHER:PTHR24247	20130821		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y2T6	GPR55	PMID:18757503		GO:0007202	activation of phospholipase C activity	IDA			PANTHER:PTHR24232	20100111		NCBITaxon:9606
+UniProt	UniProtKB:P41595	HTR2B	PMID:19057895		GO:0007202	activation of phospholipase C activity	IDA			PANTHER:PTHR24247	20130821		NCBITaxon:9606
+UniProt	UniProtKB:Q92633	LPAR1	PMID:19306925		GO:0007202	activation of phospholipase C activity	IDA			PANTHER:PTHR22750	20150713		NCBITaxon:9606
+UniProt	MGI:MGI:97572	Phb1	PMID:23241883|MGI:MGI:5461234		GO:0007202	activation of phospholipase C activity	IDA			PANTHER:PTHR23222	20200423		NCBITaxon:10090
+UniProt	MGI:MGI:102520	Phb2	PMID:23241883|MGI:MGI:5461234		GO:0007202	activation of phospholipase C activity	IDA			PANTHER:PTHR23222	20200423		NCBITaxon:10090
+UniProt	MGI:MGI:101773	Cd86	PMID:23241883|MGI:MGI:5461234		GO:0007202	activation of phospholipase C activity	IDA			PANTHER:PTHR25466	20200423		NCBITaxon:10090
+UniProt	UniProtKB:P03950	ANG	PMID:2457905		GO:0007202	activation of phospholipase C activity	IMP			PANTHER:PTHR11437	20060601		NCBITaxon:9606
+UniProt	UniProtKB:P25117	CALCR	PMID:7961748		GO:0007202	activation of phospholipase C activity	IDA			PANTHER:PTHR45620	20070129		NCBITaxon:9823
+UniProt	UniProtKB:P79222	CALCR	PMID:8940110		GO:0007202	activation of phospholipase C activity	IDA		UniProtKB:P79222-1		20070126		NCBITaxon:9986
+UniProt	UniProtKB:P79222	CALCR	PMID:8940110		GO:0007202	activation of phospholipase C activity	IDA		UniProtKB:P79222-2		20070126		NCBITaxon:9986
+ZFIN	ZFIN:ZDB-GENE-990415-273	vegfaa	PMID:16537812		GO:0007202	activation of phospholipase C activity	IDA			PANTHER:PTHR12025	20060803		NCBITaxon:7955
+AgBase	UniProtKB:P45645	GNA11	PMID:8519600		GO:0010863	positive regulation of phospholipase C activity	IMP				20141217	UniProtKB:P10894|UniProtKB:Q00722|UniProtKB:Q00722-2|UniProtKB:Q00722-3	NCBITaxon:9103
+AgBase	UniProtKB:P45645	GNA11	PMID:8687401		GO:0010863	positive regulation of phospholipase C activity	IDA				20141217	UniProtKB:Q91086|UniProtKB:G1MWY7	NCBITaxon:9103
+MGI	UniProtKB:P42684	ABL2	PMID:24367707		GO:0010863	positive regulation of phospholipase C activity	IMP			PANTHER:PTHR24418	20140804		NCBITaxon:9606
+UniProt	UniProtKB:P01112	HRAS	PMID:11022048		GO:0010863	positive regulation of phospholipase C activity	IDA			PANTHER:PTHR24070	20180410		NCBITaxon:9606
+UniProt	UniProtKB:P17948	FLT1	PMID:11312102		GO:0010863	positive regulation of phospholipase C activity	IMP			PANTHER:PTHR24416	20110922		NCBITaxon:9606
+UniProt	UniProtKB:P16234	PDGFRA	PMID:1646396		GO:0010863	positive regulation of phospholipase C activity	IMP			PANTHER:PTHR24416	20111005		NCBITaxon:9606
+UniProt	UniProtKB:P09619	PDGFRB	PMID:1653029		GO:0010863	positive regulation of phospholipase C activity	IDA			PANTHER:PTHR24416	20111007		NCBITaxon:9606
+UniProt	UniProtKB:P11362	FGFR1	PMID:18480409		GO:0010863	positive regulation of phospholipase C activity	IDA			PANTHER:PTHR24416	20110811		NCBITaxon:9606
+UniProt	UniProtKB:O95267	RASGRP1	PMID:19933860	not	GO:1900274	regulation of phospholipase C activity	IMP			PANTHER:PTHR23113	20150325		NCBITaxon:9606
+BHF-UCL	MGI:MGI:1101760	Bicd1	PMID:20164183|MGI:MGI:4887309		GO:1900275	negative regulation of phospholipase C activity	IDA			PANTHER:PTHR31233	20120404		NCBITaxon:10090
+MGI	UniProtKB:P00519	ABL1	PMID:24367707		GO:1900275	negative regulation of phospholipase C activity	IMP			PANTHER:PTHR24418	20140804		NCBITaxon:9606
+PseudoCAP	PseudoCAP:PA1544	anr	PMID:25073853		GO:1900275	negative regulation of phospholipase C activity	IMP				20190311		NCBITaxon:208964

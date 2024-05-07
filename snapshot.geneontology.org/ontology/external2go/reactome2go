@@ -1,4 +1,4 @@
-! Generated on 2024-04-24T17:18Z from the ontology 'go' with data version: 'releases/2024-04-24'
+! Generated on 2024-05-05T08:22Z from the ontology 'go' with data version: 'releases/2024-05-05'
 !
 Reactome:R-HSA-1008248 > GO:nucleoside triphosphate adenylate kinase activity ; GO:0046899
 Reactome:R-HSA-1013012 > GO:G protein-coupled GABA receptor activity ; GO:0004965
@@ -2762,9 +2762,9 @@ Reactome:R-HSA-444100 > GO:proline:sodium symporter activity ; GO:0005298
 Reactome:R-HSA-444120 > GO:glycine:sodium symporter activity ; GO:0015375
 Reactome:R-HSA-444126 > GO:urea transmembrane transporter activity ; GO:0015204
 Reactome:R-HSA-444160 > GO:monoamine transmembrane transporter activity ; GO:0008504
-Reactome:R-HSA-444393 > GO:ammonium transmembrane transporter activity ; GO:0008519
-Reactome:R-HSA-444416 > GO:ammonium transmembrane transporter activity ; GO:0008519
-Reactome:R-HSA-444419 > GO:ammonium transmembrane transporter activity ; GO:0008519
+Reactome:R-HSA-444393 > GO:ammonium channel activity ; GO:0008519
+Reactome:R-HSA-444416 > GO:ammonium channel activity ; GO:0008519
+Reactome:R-HSA-444419 > GO:ammonium channel activity ; GO:0008519
 Reactome:R-HSA-444433 > GO:choline transmembrane transporter activity ; GO:0015220
 Reactome:R-HSA-445064 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
 Reactome:R-HSA-445072 > GO:protein serine/threonine kinase activity ; GO:0004674
@@ -2799,8 +2799,8 @@ Reactome:R-HSA-446215 > GO:alpha-1,2-mannosyltransferase activity ; GO:0000026
 Reactome:R-HSA-446216 > GO:alpha-1,2-mannosyltransferase activity ; GO:0000026
 Reactome:R-HSA-446218 > GO:chitobiosyldiphosphodolichol beta-mannosyltransferase activity ; GO:0004578
 Reactome:R-HSA-446221 > GO:mannose-1-phosphate guanylyltransferase (GTP) activity ; GO:0004475
-Reactome:R-HSA-446277 > GO:ammonium transmembrane transporter activity ; GO:0008519
-Reactome:R-HSA-446278 > GO:ammonium transmembrane transporter activity ; GO:0008519
+Reactome:R-HSA-446277 > GO:ammonium channel activity ; GO:0008519
+Reactome:R-HSA-446278 > GO:ammonium channel activity ; GO:0008519
 Reactome:R-HSA-446694 > GO:protein serine/threonine kinase activity ; GO:0004674
 Reactome:R-HSA-446701 > GO:protein serine/threonine kinase activity ; GO:0004674
 Reactome:R-HSA-446877 > GO:ubiquitin-protein transferase activity ; GO:0004842
@@ -3291,7 +3291,7 @@ Reactome:R-HSA-5621370 > GO:protein tyrosine kinase activity ; GO:0004713
 Reactome:R-HSA-5621402 > GO:ferroxidase activity ; GO:0004322
 Reactome:R-HSA-5621888 > GO:glucokinase activity ; GO:0004340
 Reactome:R-HSA-5621918 > GO:glucokinase activity ; GO:0004340
-Reactome:R-HSA-5623051 > GO:ammonium transmembrane transporter activity ; GO:0008519
+Reactome:R-HSA-5623051 > GO:ammonium channel activity ; GO:0008519
 Reactome:R-HSA-5623508 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
 Reactome:R-HSA-5623513 > GO:GTPase activity ; GO:0003924
 Reactome:R-HSA-5623521 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
@@ -5399,7 +5399,7 @@ Reactome:R-HSA-947538 > GO:sulfurtransferase activity ; GO:0016783
 Reactome:R-HSA-947541 > GO:molybdopterin synthase activity ; GO:0030366
 Reactome:R-HSA-947581 > GO:sulfurated eukaryotic molybdenum cofactor(2-) biosynthetic process ; GO:1902756
 Reactome:R-HSA-947591 > GO:ATPase-coupled intramembrane lipid transporter activity ; GO:0140326
-Reactome:R-HSA-947991 > GO:mannose binding ; GO:0005537
+Reactome:R-HSA-947991 > GO:D-mannose binding ; GO:0005537
 Reactome:R-HSA-9603420 > GO:protein tyrosine kinase activity ; GO:0004713
 Reactome:R-HSA-9603445 > GO:1-phosphatidylinositol-4,5-bisphosphate 3-kinase activity ; GO:0046934
 Reactome:R-HSA-9603534 > GO:cysteine-type endopeptidase activity ; GO:0004197

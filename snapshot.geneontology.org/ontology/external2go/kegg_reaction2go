@@ -1,4 +1,4 @@
-! Generated on 2024-04-24T17:18Z from the ontology 'go' with data version: 'releases/2024-04-24'
+! Generated on 2024-05-05T08:22Z from the ontology 'go' with data version: 'releases/2024-05-05'
 !
 KEGG_REACTION:R00004 > GO:inorganic diphosphate phosphatase activity ; GO:0004427
 KEGG_REACTION:R00005 > GO:allophanate hydrolase activity ; GO:0004039
@@ -1488,6 +1488,7 @@ KEGG_REACTION:R05877 > GO:vinorine hydroxylase activity ; GO:0050596
 KEGG_REACTION:R05878 > GO:vomilenine reductase activity ; GO:0050624
 KEGG_REACTION:R05879 > GO:1,2-dihydrovomilenine reductase activity ; GO:0050615
 KEGG_REACTION:R05882 > GO:vomilenine glucosyltransferase activity ; GO:0050506
+KEGG_REACTION:R05884 > GO:4-hydroxy-3-methylbut-2-enyl diphosphate reductase activity ; GO:0051745
 KEGG_REACTION:R05982 > GO:mannosyl-oligosaccharide 1,2-alpha-mannosidase activity ; GO:0004571
 KEGG_REACTION:R05983 > GO:alpha-1,3-mannosylglycoprotein 2-beta-N-acetylglucosaminyltransferase activity ; GO:0003827
 KEGG_REACTION:R05988 > GO:glycoprotein 6-alpha-L-fucosyltransferase activity ; GO:0008424
