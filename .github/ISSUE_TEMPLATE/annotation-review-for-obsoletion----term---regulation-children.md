@@ -2,7 +2,7 @@
 name: Annotation review for obsoletion  - term + regulation children
 about: 'Annotation review for obsoletion '
 title: Review annotations to [INSERT GO TERM]  & regulation children
-labels: annotation review, reg_ann_to_list_of_terms
+labels: annotation review, reg_ann_to_list_of_terms, UniProt KW2GO mapping
 assignees: ''
 
 ---
@@ -18,7 +18,7 @@ Experimental annotations that need to be reviewed are here:
 Impacted groups: 
 [LIST GROUPS + NUMBER OF ANNOTATIONS + ADD ASSIGNEES] 
 
-Group contacts: https://github.com/geneontology/go-site/blob/master/metadata/group-contacts.csv
+** Group contacts: https://github.com/geneontology/go-site/blob/master/metadata/group-contacts.csv
 
 ----
 
