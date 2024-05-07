@@ -18,6 +18,7 @@ Experimental annotations that need to be reviewed are here:
 Impacted groups: 
 [LIST GROUPS + NUMBER OF ANNOTATIONS + ADD ASSIGNEES] 
 
+** Group contacts: https://github.com/geneontology/go-site/blob/master/metadata/group-contacts.csv
 ----
 
 Mappings that need to be reviewed: (InterPro2GO, UniProt-Keywords, UniRule) 
