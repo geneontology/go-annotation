@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:P05093	CYP17A1	PMID:24140098		GO:0047442	17-alpha-hydroxyprogesterone aldolase activity	IMP			PANTHER:PTHR24289	20150304		NCBITaxon:9606
+ZFIN	ZFIN:ZDB-GENE-040213-2	cyp17a1	PMID:25533464		GO:0047442	17-alpha-hydroxyprogesterone aldolase activity	IDA			PANTHER:PTHR24289	20150514		NCBITaxon:7955

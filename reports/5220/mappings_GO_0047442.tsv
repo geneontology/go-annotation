@@ -1,0 +1,4 @@
+term	file	line
+GO:0047442	metacyc2go	MetaCyc:4.1.2.30-RXN > GO:17-alpha-hydroxyprogesterone aldolase activity ; GO:0047442
+GO:0047442	rhea2go	RHEA:14753 > GO:17-alpha-hydroxyprogesterone aldolase activity ; GO:0047442
+GO:0047442	ec2go	EC:1.14.14.32 > GO:17-alpha-hydroxyprogesterone aldolase activity ; GO:0047442
