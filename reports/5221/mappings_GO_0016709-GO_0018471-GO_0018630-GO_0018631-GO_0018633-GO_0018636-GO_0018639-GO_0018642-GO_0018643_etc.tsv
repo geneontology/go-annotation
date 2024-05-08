@@ -1,0 +1,67 @@
+term	file	line
+GO:0016709	unirule2go	UniRule:UR000376192 > GO:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen ; GO:0016709
+GO:0016709	unirule2go	UniRule:UR000729525 > GO:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen ; GO:0016709
+GO:0016709	unirule2go	UniRule:UR000729565 > GO:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen ; GO:0016709
+GO:0016709	hamap2go	HAMAP:MF_02097 > GO:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen ; GO:0016709
+GO:0016709	hamap2go	HAMAP:MF_02098 > GO:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen ; GO:0016709
+GO:0016709	hamap2go	HAMAP:MF_03194 > GO:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen ; GO:0016709
+GO:0016709	interpro2go	InterPro:IPR012078 Methane/phenol monooxygenase, hydroxylase component > GO:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen ; GO:0016709
+GO:0016709	interpro2go	InterPro:IPR018168 Ubiquinone biosynthesis hydroxylase, UbiH/UbiF/VisC/COQ6, conserved site > GO:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen ; GO:0016709
+GO:0016709	reactome2go	Reactome:R-HSA-2162187 > GO:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen ; GO:0016709
+GO:0016709	reactome2go	Reactome:R-HSA-2162194 > GO:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen ; GO:0016709
+GO:0016709	ec2go	EC:1.14.13.- > GO:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen ; GO:0016709
+GO:0018471	um-bbd_reactionid2go	UM-BBD_reactionID:r0447 > GO:4-chlorobenzaldehyde oxidase activity ; GO:0018471
+GO:0018471	ec2go	EC:1.14.13.- > GO:4-chlorobenzaldehyde oxidase activity ; GO:0018471
+GO:0018630	metacyc2go	MetaCyc:3-5-XYLENOL-METHYLHYDROXYLASE-RXN > GO:3,5-xylenol methylhydroxylase activity ; GO:0018630
+GO:0018630	um-bbd_reactionid2go	UM-BBD_reactionID:r0081 > GO:3,5-xylenol methylhydroxylase activity ; GO:0018630
+GO:0018630	ec2go	EC:1.14.13.- > GO:3,5-xylenol methylhydroxylase activity ; GO:0018630
+GO:0018631	um-bbd_reactionid2go	UM-BBD_reactionID:r0036 > GO:phenylacetate hydroxylase activity ; GO:0018631
+GO:0018631	ec2go	EC:1.14.13.- > GO:phenylacetate hydroxylase activity ; GO:0018631
+GO:0018633	um-bbd_reactionid2go	UM-BBD_reactionID:r0208 > GO:dimethyl sulfide monooxygenase activity ; GO:0018633
+GO:0018633	ec2go	EC:1.14.13.- > GO:dimethyl sulfide monooxygenase activity ; GO:0018633
+GO:0018636	um-bbd_reactionid2go	UM-BBD_reactionID:r0495 > GO:phenanthrene 9,10-monooxygenase activity ; GO:0018636
+GO:0018636	ec2go	EC:1.14.13.- > GO:phenanthrene 9,10-monooxygenase activity ; GO:0018636
+GO:0018639	um-bbd_enzymeid2go	UM-BBD_enzymeID:e0172 > GO:xylene monooxygenase activity ; GO:0018639
+GO:0018639	ec2go	EC:1.14.13.- > GO:xylene monooxygenase activity ; GO:0018639
+GO:0018642	um-bbd_enzymeid2go	UM-BBD_enzymeID:e0252 > GO:chlorophenol 4-monooxygenase activity ; GO:0018642
+GO:0018642	ec2go	EC:1.14.13.- > GO:chlorophenol 4-monooxygenase activity ; GO:0018642
+GO:0018643	um-bbd_reactionid2go	UM-BBD_reactionID:r0599 > GO:carbon disulfide oxygenase activity ; GO:0018643
+GO:0018643	ec2go	EC:1.14.13.- > GO:carbon disulfide oxygenase activity ; GO:0018643
+GO:0018646	um-bbd_reactionid2go	UM-BBD_reactionID:r0736 > GO:1-hydroxy-2-oxolimonene 1,2-monooxygenase activity ; GO:0018646
+GO:0018646	ec2go	EC:1.14.13.- > GO:1-hydroxy-2-oxolimonene 1,2-monooxygenase activity ; GO:0018646
+GO:0018647	um-bbd_enzymeid2go	UM-BBD_enzymeID:e0333 > GO:phenanthrene 1,2-monooxygenase activity ; GO:0018647
+GO:0018647	ec2go	EC:1.14.13.- > GO:phenanthrene 1,2-monooxygenase activity ; GO:0018647
+GO:0018649	um-bbd_reactionid2go	UM-BBD_reactionID:r0017 > GO:tetrahydrofuran hydroxylase activity ; GO:0018649
+GO:0018649	ec2go	EC:1.14.13.- > GO:tetrahydrofuran hydroxylase activity ; GO:0018649
+GO:0018650	um-bbd_reactionid2go	UM-BBD_reactionID:r0225 > GO:styrene monooxygenase activity ; GO:0018650
+GO:0018650	ec2go	EC:1.14.13.- > GO:styrene monooxygenase activity ; GO:0018650
+GO:0018651	um-bbd_reactionid2go	UM-BBD_reactionID:r0296 > GO:toluene-4-sulfonate monooxygenase activity ; GO:0018651
+GO:0018651	ec2go	EC:1.14.13.- > GO:toluene-4-sulfonate monooxygenase activity ; GO:0018651
+GO:0018653	um-bbd_reactionid2go	UM-BBD_reactionID:r0046 > GO:3-methyl-2-oxo-1,2-dihydroquinoline 6-monooxygenase activity ; GO:0018653
+GO:0018653	ec2go	EC:1.14.13.- > GO:3-methyl-2-oxo-1,2-dihydroquinoline 6-monooxygenase activity ; GO:0018653
+GO:0018654	um-bbd_reactionid2go	UM-BBD_reactionID:r0252 > GO:2-hydroxy-phenylacetate hydroxylase activity ; GO:0018654
+GO:0018654	ec2go	EC:1.14.13.- > GO:2-hydroxy-phenylacetate hydroxylase activity ; GO:0018654
+GO:0018655	um-bbd_reactionid2go	UM-BBD_reactionID:r0430 > GO:2-oxo-delta3-4,5,5-trimethylcyclopentenylacetyl-CoA 1,2-monooxygenase activity ; GO:0018655
+GO:0018655	ec2go	EC:1.14.13.- > GO:2-oxo-delta3-4,5,5-trimethylcyclopentenylacetyl-CoA 1,2-monooxygenase activity ; GO:0018655
+GO:0018656	um-bbd_reactionid2go	UM-BBD_reactionID:r0508 > GO:phenanthrene 3,4-monooxygenase activity ; GO:0018656
+GO:0018656	ec2go	EC:1.14.13.- > GO:phenanthrene 3,4-monooxygenase activity ; GO:0018656
+GO:0019113	ec2go	EC:1.14.13.- > GO:limonene monooxygenase activity ; GO:0019113
+GO:0034526	um-bbd_reactionid2go	UM-BBD_reactionID:r0788 > GO:2-methylnaphthalene hydroxylase activity ; GO:0034526
+GO:0034526	ec2go	EC:1.14.13.- > GO:2-methylnaphthalene hydroxylase activity ; GO:0034526
+GO:0034534	um-bbd_reactionid2go	UM-BBD_reactionID:r0795 > GO:1-methylnaphthalene hydroxylase activity ; GO:0034534
+GO:0034534	ec2go	EC:1.14.13.- > GO:1-methylnaphthalene hydroxylase activity ; GO:0034534
+GO:0034560	um-bbd_reactionid2go	UM-BBD_reactionID:r0861 > GO:bisphenol A hydroxylase A activity ; GO:0034560
+GO:0034560	ec2go	EC:1.14.13.- > GO:bisphenol A hydroxylase A activity ; GO:0034560
+GO:0034791	um-bbd_reactionid2go	UM-BBD_reactionID:r1053 > GO:isobutylamine N-hydroxylase activity ; GO:0034791
+GO:0034791	ec2go	EC:1.14.13.- > GO:isobutylamine N-hydroxylase activity ; GO:0034791
+GO:0034802	um-bbd_reactionid2go	UM-BBD_reactionID:r1079 > GO:branched-chain dodecylbenzene sulfonate monooxygenase activity ; GO:0034802
+GO:0034802	ec2go	EC:1.14.13.- > GO:branched-chain dodecylbenzene sulfonate monooxygenase activity ; GO:0034802
+GO:0034819	um-bbd_reactionid2go	UM-BBD_reactionID:r1150 > GO:3-HSA hydroxylase activity ; GO:0034819
+GO:0034819	ec2go	EC:1.14.13.- > GO:3-HSA hydroxylase activity ; GO:0034819
+GO:0034894	um-bbd_reactionid2go	UM-BBD_reactionID:r1397 > GO:4-hydroxypyridine-3-hydroxylase activity ; GO:0034894
+GO:0034894	ec2go	EC:1.14.13.- > GO:4-hydroxypyridine-3-hydroxylase activity ; GO:0034894
+GO:0043719	metacyc2go	MetaCyc:OCTAPRENYL-METHYL-METHOXY-BENZOQ-OH-RXN > GO:2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase activity ; GO:0043719
+GO:0043719	ec2go	EC:1.14.13.- > GO:2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase activity ; GO:0043719
+GO:0052872	ec2go	EC:1.14.13.- > GO:tocotrienol omega-hydroxylase activity ; GO:0052872
+GO:0080014	metacyc2go	MetaCyc:RXN-9631 > GO:thalianol hydroxylase activity ; GO:0080014
+GO:0080014	ec2go	EC:1.14.13.- > GO:thalianol hydroxylase activity ; GO:0080014
