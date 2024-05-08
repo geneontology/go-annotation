@@ -1,0 +1,16 @@
+term	file	line
+GO:0018635	kegg_reaction2go	KEGG_REACTION:R06398 > GO:(R)-limonene 1,2-monooxygenase activity ; GO:0018635
+GO:0018635	kegg_reaction2go	KEGG_REACTION:R09393 > GO:(R)-limonene 1,2-monooxygenase activity ; GO:0018635
+GO:0018635	metacyc2go	MetaCyc:RXN-9407 > GO:(R)-limonene 1,2-monooxygenase activity ; GO:0018635
+GO:0018635	um-bbd_reactionid2go	UM-BBD_reactionID:r0733 > GO:(R)-limonene 1,2-monooxygenase activity ; GO:0018635
+GO:0018635	ec2go	EC:1.14.13.107 > GO:(R)-limonene 1,2-monooxygenase activity ; GO:0018635
+GO:0052601	kegg_reaction2go	KEGG_REACTION:R09385 > GO:(S)-limonene 1,2-monooxygenase activity ; GO:0052601
+GO:0052601	kegg_reaction2go	KEGG_REACTION:R09389 > GO:(S)-limonene 1,2-monooxygenase activity ; GO:0052601
+GO:0052601	metacyc2go	MetaCyc:RXN-9409 > GO:(S)-limonene 1,2-monooxygenase activity ; GO:0052601
+GO:0052601	ec2go	EC:1.14.13.107 > GO:(S)-limonene 1,2-monooxygenase activity ; GO:0052601
+GO:0106319	rhea2go	RHEA:26093 > GO:(R)-limonene 1,2-monooxygenase NADH activity ; GO:0106319
+GO:0106319	ec2go	EC:1.14.13.107 > GO:(R)-limonene 1,2-monooxygenase NADH activity ; GO:0106319
+GO:0106320	rhea2go	RHEA:26097 > GO:(R)-limonene 1,2-monooxygenase NADPH activity ; GO:0106320
+GO:0106320	ec2go	EC:1.14.13.107 > GO:(R)-limonene 1,2-monooxygenase NADPH activity ; GO:0106320
+GO:0106323	rhea2go	RHEA:26085 > GO:(S)-limonene 1,2-monooxygenase NADPH activity ; GO:0106323
+GO:0106324	rhea2go	RHEA:26089 > GO:(S)-limonene 1,2-monooxygenase NADH activity ; GO:0106324
