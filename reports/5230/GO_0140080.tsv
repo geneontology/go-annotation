@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	FB:FBgn0019639	ApI	PMID:2419327|FB:FBrf0044682		GO:0140080	class III/IV DNA-(apurinic or apyrimidinic site) endonuclease activity	IDA				20180315		NCBITaxon:7227
