@@ -1,4 +1,4 @@
-! Generated on 2024-05-05T08:22Z from the ontology 'go' with data version: 'releases/2024-05-05'
+! Generated on 2024-05-12T08:13Z from the ontology 'go' with data version: 'releases/2024-05-12'
 !
 Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase [NAD(P)] activity ; GO:0003845
 Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase (NAD+) activity ; GO:0070523
@@ -15,7 +15,6 @@ Wikipedia:7beta-hydroxysteroid_dehydrogenase_(NADP+) > GO:7-beta-hydroxysteroid 
 Wikipedia:ACE_inhibitor > GO:peptidyl-dipeptidase inhibitor activity ; GO:0060422
 Wikipedia:ADP-ribosylation > GO:NAD+-protein ADP-ribosyltransferase activity ; GO:1990404
 Wikipedia:AP_endonuclease > GO:class I DNA-(apurinic or apyrimidinic site) endonuclease activity ; GO:0140078
-Wikipedia:AP_endonuclease > GO:class III/IV DNA-(apurinic or apyrimidinic site) endonuclease activity ; GO:0140080
 Wikipedia:ATP-binding_cassette_transporter > GO:ABC-type transporter activity ; GO:0140359
 Wikipedia:ATPase,_Na%2B/K%2B_transporting,_alpha_1 > GO:P-type sodium:potassium-exchanging transporter activity ; GO:0005391
 Wikipedia:Abscission > GO:abscission ; GO:0009838
@@ -306,7 +305,7 @@ Wikipedia:Hemostasis > GO:hemostasis ; GO:0007599
 Wikipedia:Heterochromatin > GO:heterochromatin ; GO:0000792
 Wikipedia:Heterotroph > GO:carbon utilization ; GO:0015976
 Wikipedia:Hibernation > GO:hibernation ; GO:0042750
-Wikipedia:Histidine > GO:histidine metabolic process ; GO:0006547
+Wikipedia:Histidine > GO:L-histidine metabolic process ; GO:0006547
 Wikipedia:Histogenesis > GO:tissue development ; GO:0009888
 Wikipedia:Host_(biology) > GO:host cellular component ; GO:0018995
 Wikipedia:Humoral_immunity > GO:humoral immune response ; GO:0006959
@@ -549,6 +548,7 @@ Wikipedia:Pre-integration_complex > GO:viral integration complex ; GO:0019035
 Wikipedia:Prefoldin > GO:prefoldin complex ; GO:0016272
 Wikipedia:Preprophase_band > GO:preprophase band ; GO:0009574
 Wikipedia:Prepulse_inhibition > GO:prepulse inhibition ; GO:0060134
+Wikipedia:Primary_metabolite > GO:primary metabolic process ; GO:0044238
 Wikipedia:Programmed_cell_death > GO:programmed cell death ; GO:0012501
 Wikipedia:Pronucleus > GO:pronucleus ; GO:0045120
 Wikipedia:Prophase > GO:prophase ; GO:0051324
@@ -740,6 +740,7 @@ Wikipedia:Virus > GO:virion component ; GO:0044423
 Wikipedia:Virus-like_particle > GO:retrotransposon nucleocapsid ; GO:0000943
 Wikipedia:Visual_perception > GO:visual perception ; GO:0007601
 Wikipedia:Visual_phototransduction > GO:phototransduction ; GO:0007602
+Wikipedia:Visual_phototransduction > GO:negative regulation of phospholipase C-activating phototransduction signaling pathway ; GO:0016060
 Wikipedia:Vitellogenesis > GO:vitellogenesis ; GO:0007296
 Wikipedia:Vocal_learning > GO:vocal learning ; GO:0042297
 Wikipedia:Weibel-Palade_body > GO:Weibel-Palade body ; GO:0033093

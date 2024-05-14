@@ -1,0 +1,10 @@
+term	file	line
+GO:0102202	metacyc2go	MetaCyc:RXN-12123 > GO:soladodine glucosyltransferase activity ; GO:0102202
+GO:0102202	rhea2go	RHEA:61844 > GO:soladodine glucosyltransferase activity ; GO:0102202
+GO:0102202	ec2go	EC:2.4.1.173 > GO:soladodine glucosyltransferase activity ; GO:0102202
+GO:0102203	metacyc2go	MetaCyc:RXN-12125 > GO:brassicasterol glucosyltransferase activity ; GO:0102203
+GO:0102203	rhea2go	RHEA:61840 > GO:brassicasterol glucosyltransferase activity ; GO:0102203
+GO:0102203	ec2go	EC:2.4.1.173 > GO:brassicasterol glucosyltransferase activity ; GO:0102203
+GO:0102205	metacyc2go	MetaCyc:RXN-12127 > GO:cholesterol alpha-glucosyltransferase activity ; GO:0102205
+GO:0102205	rhea2go	RHEA:61848 > GO:cholesterol alpha-glucosyltransferase activity ; GO:0102205
+GO:0102205	ec2go	EC:2.4.1.173 > GO:cholesterol alpha-glucosyltransferase activity ; GO:0102205

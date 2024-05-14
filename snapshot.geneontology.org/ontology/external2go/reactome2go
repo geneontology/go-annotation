@@ -1,4 +1,4 @@
-! Generated on 2024-05-05T08:22Z from the ontology 'go' with data version: 'releases/2024-05-05'
+! Generated on 2024-05-12T08:13Z from the ontology 'go' with data version: 'releases/2024-05-12'
 !
 Reactome:R-HSA-1008248 > GO:nucleoside triphosphate adenylate kinase activity ; GO:0046899
 Reactome:R-HSA-1013012 > GO:G protein-coupled GABA receptor activity ; GO:0004965
@@ -2831,7 +2831,6 @@ Reactome:R-HSA-450499 > GO:protein serine/threonine kinase activity ; GO:0004674
 Reactome:R-HSA-450533 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
 Reactome:R-HSA-450550 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
 Reactome:R-HSA-450827 > GO:protein serine/threonine kinase activity ; GO:0004674
-Reactome:R-HSA-450971 > GO:NAD(P)+ transhydrogenase activity ; GO:0008746
 Reactome:R-HSA-450975 > GO:aconitate hydratase activity ; GO:0003994
 Reactome:R-HSA-450984 > GO:isocitrate dehydrogenase (NADP+) activity ; GO:0004450
 Reactome:R-HSA-451033 > GO:fumarate hydratase activity ; GO:0004333

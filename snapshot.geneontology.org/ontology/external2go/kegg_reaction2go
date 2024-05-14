@@ -1,4 +1,4 @@
-! Generated on 2024-05-05T08:22Z from the ontology 'go' with data version: 'releases/2024-05-05'
+! Generated on 2024-05-12T08:13Z from the ontology 'go' with data version: 'releases/2024-05-12'
 !
 KEGG_REACTION:R00004 > GO:inorganic diphosphate phosphatase activity ; GO:0004427
 KEGG_REACTION:R00005 > GO:allophanate hydrolase activity ; GO:0004039
@@ -30,7 +30,7 @@ KEGG_REACTION:R00093 > GO:glutamate synthase (NADH) activity ; GO:0016040
 KEGG_REACTION:R00103 > GO:NADH pyrophosphatase activity ; GO:0035529
 KEGG_REACTION:R00104 > GO:NAD+ kinase activity ; GO:0003951
 KEGG_REACTION:R00105 > GO:NADH kinase activity ; GO:0042736
-KEGG_REACTION:R00112 > GO:NAD(P)+ transhydrogenase activity ; GO:0008746
+KEGG_REACTION:R00112 > GO:NAD(P)+ transhydrogenase (Si-specific) activity ; GO:0003957
 KEGG_REACTION:R00113 > GO:NADPH peroxidase activity ; GO:0050137
 KEGG_REACTION:R00114 > GO:glutamate synthase (NADPH) activity ; GO:0004355
 KEGG_REACTION:R00120 > GO:glutathione oxidase activity ; GO:0047950
@@ -247,7 +247,7 @@ KEGG_REACTION:R00833 > GO:methylmalonyl-CoA mutase activity ; GO:0004494
 KEGG_REACTION:R00834 > GO:aldose-6-phosphate reductase (NADPH) activity ; GO:0047641
 KEGG_REACTION:R00842 > GO:glycerol-3-phosphate dehydrogenase (NAD+) activity ; GO:0141152
 KEGG_REACTION:R00844 > GO:glycerol-3-phosphate dehydrogenase (NADP+) activity ; GO:0141153
-KEGG_REACTION:R00845 > GO:glycerol-3-phosphate 1-dehydrogenase [NADP+] activity ; GO:0047014
+KEGG_REACTION:R00845 > GO:glycerol-3-phosphate 1-dehydrogenase (NADP+) activity ; GO:0047014
 KEGG_REACTION:R00846 > GO:glycerol-3-phosphate oxidase activity ; GO:0004369
 KEGG_REACTION:R00847 > GO:glycerol kinase activity ; GO:0004370
 KEGG_REACTION:R00850 > GO:glycerol-3-phosphate-glucose phosphotransferase activity ; GO:0047327
@@ -304,7 +304,7 @@ KEGG_REACTION:R01023 > GO:choline O-acetyltransferase activity ; GO:0004102
 KEGG_REACTION:R01025 > GO:choline dehydrogenase activity ; GO:0008812
 KEGG_REACTION:R01027 > GO:choline sulfotransferase activity ; GO:0047754
 KEGG_REACTION:R01028 > GO:choline-sulfatase activity ; GO:0047753
-KEGG_REACTION:R01034 > GO:glycerol dehydrogenase [NAD+] activity ; GO:0008888
+KEGG_REACTION:R01034 > GO:glycerol dehydrogenase (NAD+) activity ; GO:0008888
 KEGG_REACTION:R01039 > GO:glycerol 2-dehydrogenase (NADP+) activity ; GO:0047953
 KEGG_REACTION:R01043 > GO:glycerol-2-phosphatase activity ; GO:0047954
 KEGG_REACTION:R01044 > GO:diphosphate-glycerol phosphotransferase activity ; GO:0047331
@@ -1523,7 +1523,7 @@ KEGG_REACTION:R06357 > GO:abieta-7,13-dien-18-al dehydrogenase activity ; GO:003
 KEGG_REACTION:R06367 > GO:perillic acid-CoA ligase (ADP-forming) activity ; GO:0052685
 KEGG_REACTION:R06368 > GO:perillic acid-CoA ligase (AMP-forming) activity ; GO:0052686
 KEGG_REACTION:R06396 > GO:(3R)-3-isopropenyl-6-oxoheptanoate:CoA ligase (ADP-forming) activity ; GO:0052687
-KEGG_REACTION:R06398 > GO:(R)-limonene 1,2-monooxygenase activity ; GO:0018635
+KEGG_REACTION:R06398 > GO:limonene 1,2-monooxygenase activity ; GO:0052601
 KEGG_REACTION:R06417 > GO:(-)-isopiperitenone reductase activity ; GO:0052581
 KEGG_REACTION:R06502 > GO:polyenoic fatty acid isomerase activity ; GO:0034016
 KEGG_REACTION:R06513 > GO:dTDP-glucose 4,6-dehydratase activity ; GO:0008460
@@ -1666,8 +1666,8 @@ KEGG_REACTION:R07422 > GO:3-hydroxyindolin-2-one monooxygenase activity ; GO:003
 KEGG_REACTION:R07423 > GO:2-hydroxy-1,4-benzoxazin-3-one monooxygenase activity ; GO:0036193
 KEGG_REACTION:R07476 > GO:phosphosulfolactate synthase activity ; GO:0043817
 KEGG_REACTION:R07500 > GO:homogentisate phytyltransferase activity ; GO:0010176
-KEGG_REACTION:R07502 > GO:gamma-tocopherol cyclase activity ; GO:0052605
-KEGG_REACTION:R07503 > GO:delta-tocopherol cyclase activity ; GO:0052604
+KEGG_REACTION:R07502 > GO:tocopherol cyclase activity ; GO:0009976
+KEGG_REACTION:R07503 > GO:tocopherol cyclase activity ; GO:0009976
 KEGG_REACTION:R07511 > GO:9,9'-di-cis-zeta-carotene desaturation to 7,9,7',9'-tetra-cis-lycopene ; GO:0052889
 KEGG_REACTION:R07582 > GO:10-hydroxy-9-(phosphonooxy)octadecanoate phosphatase activity ; GO:0033885
 KEGG_REACTION:R07598 > GO:L-lysine 6-oxidase activity ; GO:0033736
@@ -1750,10 +1750,10 @@ KEGG_REACTION:R09289 > GO:3-hydroxypropionate dehydrogenase (NADP+) activity ; G
 KEGG_REACTION:R09359 > GO:aromatic (S)-hydroxynitrile lyase activity ; GO:0052892
 KEGG_REACTION:R09383 > GO:CTP:tRNA cytidylyltransferase activity ; GO:0052927
 KEGG_REACTION:R09384 > GO:CTP:tRNA cytidylyltransferase activity ; GO:0052927
-KEGG_REACTION:R09385 > GO:(S)-limonene 1,2-monooxygenase activity ; GO:0052601
+KEGG_REACTION:R09385 > GO:limonene 1,2-monooxygenase activity ; GO:0052601
 KEGG_REACTION:R09386 > GO:ATP:3'-cytidine-cytidine-tRNA adenylyltransferase activity ; GO:0052929
-KEGG_REACTION:R09389 > GO:(S)-limonene 1,2-monooxygenase activity ; GO:0052601
-KEGG_REACTION:R09393 > GO:(R)-limonene 1,2-monooxygenase activity ; GO:0018635
+KEGG_REACTION:R09389 > GO:limonene 1,2-monooxygenase activity ; GO:0052601
+KEGG_REACTION:R09393 > GO:limonene 1,2-monooxygenase activity ; GO:0052601
 KEGG_REACTION:R09494 > GO:formate dehydrogenase (quinone) activity ; GO:0036397
 KEGG_REACTION:R09532 > GO:bisphosphoglycerate 3-phosphatase activity ; GO:0034417
 KEGG_REACTION:R09533 > GO:baicalin beta-D-glucuronidase activity ; GO:0052748
@@ -1779,6 +1779,8 @@ KEGG_REACTION:R09944 > GO:CTP-dependent diacylglycerol kinase activity ; GO:0141
 KEGG_REACTION:R10089 > GO:pyridoxal 5'-phosphate synthase (glutamine hydrolysing) activity ; GO:0036381
 KEGG_REACTION:R10309 > GO:norsolorinic acid ketoreductase activity ; GO:0140393
 KEGG_REACTION:R10479 > GO:versicolorin B desaturase activity ; GO:0140398
+KEGG_REACTION:R10623 > GO:tocopherol cyclase activity ; GO:0009976
+KEGG_REACTION:R10624 > GO:tocopherol cyclase activity ; GO:0009976
 KEGG_REACTION:R10859 > GO:4-hydroxy-3-methylbut-2-enyl-diphosphate synthase activity (flavodoxin) ; GO:0141197
 KEGG_REACTION:R11098 > GO:2-iminobutanoate deaminase activity ; GO:0120242
 KEGG_REACTION:R11099 > GO:2-iminopropanoate deaminase activity ; GO:0120243

@@ -1,4 +1,4 @@
-! Generated on 2024-05-05T08:22Z from the ontology 'go' with data version: 'releases/2024-05-05'
+! Generated on 2024-05-12T08:13Z from the ontology 'go' with data version: 'releases/2024-05-12'
 !
 UM-BBD_enzymeID:e0002 > GO:naphthalene 1,2-dioxygenase activity ; GO:0018625
 UM-BBD_enzymeID:e0003 > GO:haloalkane dehalogenase activity ; GO:0018786
@@ -95,6 +95,7 @@ UM-BBD_enzymeID:e0421 > GO:triethanolamine lyase activity ; GO:0018825
 UM-BBD_enzymeID:e0422 > GO:p-benzoquinone reductase (NADPH) activity ; GO:0018541
 UM-BBD_enzymeID:e0422 > GO:2,6-dichloro-p-hydroquinone 1,2-dioxygenase activity ; GO:0018574
 UM-BBD_enzymeID:e0432 > GO:3-chloroallyl aldehyde dehydrogenase activity ; GO:0004028
+UM-BBD_enzymeID:e0462 > GO:limonene 1,2-monooxygenase activity ; GO:0052601
 UM-BBD_enzymeID:e0481 > GO:cytochrome-c3 hydrogenase activity ; GO:0047806
 UM-BBD_enzymeID:e0523 > GO:NADPH dehydrogenase activity ; GO:0003959
 UM-BBD_enzymeID:e0538 > GO:2-hydroxypropyl-CoM lyase activity ; GO:0050555
