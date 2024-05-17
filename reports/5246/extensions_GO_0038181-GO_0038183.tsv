@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ParkinsonsUK-UCL	UniProtKB:Q96RI1	NR1H4	PMID:23767959		GO:0045944	positive regulation of transcription by RNA polymerase II	IDA			PANTHER:PTHR24082	20161114	UniProtKB:P52824|GO:0038183	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q96RI1	NR1H4	PMID:23767959		GO:1905695	positive regulation of phosphatidic acid biosynthetic process	IDA			PANTHER:PTHR24082	20161114	GO:0038183	NCBITaxon:9606
