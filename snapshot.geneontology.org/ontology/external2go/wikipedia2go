@@ -1,4 +1,4 @@
-! Generated on 2024-05-12T08:13Z from the ontology 'go' with data version: 'releases/2024-05-12'
+! Generated on 2024-05-26T08:14Z from the ontology 'go' with data version: 'releases/2024-05-26'
 !
 Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase [NAD(P)] activity ; GO:0003845
 Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase (NAD+) activity ; GO:0070523
@@ -258,6 +258,7 @@ Wikipedia:Fertilisation > GO:fertilization ; GO:0009566
 Wikipedia:Fever > GO:fever generation ; GO:0001660
 Wikipedia:Fibrinolysis > GO:fibrinolysis ; GO:0042730
 Wikipedia:Filopodia > GO:filopodium ; GO:0030175
+Wikipedia:Flagellum#Bacterial > GO:bacterial-type flagellum ; GO:0009288
 Wikipedia:Flavonoid > GO:flavonoid biosynthetic process ; GO:0009813
 Wikipedia:Flocculation > GO:flocculation ; GO:0000128
 Wikipedia:Focal_adhesion > GO:focal adhesion ; GO:0005925
@@ -395,6 +396,7 @@ Wikipedia:Meiosis#Zygotene > GO:zygotene ; GO:0000238
 Wikipedia:Melanosome > GO:melanosome ; GO:0042470
 Wikipedia:Membrane_nanotube > GO:cytoneme ; GO:0035230
 Wikipedia:Membrane_nanotube > GO:cell hair ; GO:0070451
+Wikipedia:Membrane_ruffling > GO:ruffle assembly ; GO:0097178
 Wikipedia:Memory > GO:memory ; GO:0007613
 Wikipedia:Menarche > GO:menarche ; GO:0042696
 Wikipedia:Menopause > GO:menopause ; GO:0042697

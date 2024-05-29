@@ -1,4 +1,4 @@
-! Generated on 2024-05-12T08:13Z from the ontology 'go' with data version: 'releases/2024-05-12'
+! Generated on 2024-05-26T08:14Z from the ontology 'go' with data version: 'releases/2024-05-26'
 !
 EC:1.-.-.- > GO:oxidoreductase activity ; GO:0016491
 EC:1.1.-.- > GO:oxidoreductase activity, acting on CH-OH group of donors ; GO:0016614
@@ -213,7 +213,7 @@ EC:1.1.1.285 > GO:3''-deamino-3''-oxonicotianamine reductase activity ; GO:00337
 EC:1.1.1.286 > GO:isocitrate-homoisocitrate dehydrogenase activity ; GO:0033708
 EC:1.1.1.288 > GO:xanthoxin dehydrogenase (NAD+) activity ; GO:0010301
 EC:1.1.1.289 > GO:sorbose reductase activity ; GO:0032115
-EC:1.1.1.29 > GO:glycerate dehydrogenase (NAD+) activity ; GO:0008465
+EC:1.1.1.29 > GO:hydroxypyruvate reductase (NADH) activity ; GO:0008465
 EC:1.1.1.290 > GO:4-phosphoerythronate dehydrogenase activity ; GO:0033711
 EC:1.1.1.291 > GO:2-hydroxymethylglutarate dehydrogenase activity ; GO:0043718
 EC:1.1.1.292 > GO:1,5-anhydro-D-fructose reductase (1,5-anhydro-D-mannitol-forming) activity ; GO:0033712
@@ -305,7 +305,7 @@ EC:1.1.1.78 > GO:methylglyoxal reductase (NADH) activity ; GO:0019170
 EC:1.1.1.79 > GO:glyoxylate reductase (NADPH) activity ; GO:0030267
 EC:1.1.1.8 > GO:glycerol-3-phosphate dehydrogenase (NAD+) activity ; GO:0141152
 EC:1.1.1.80 > GO:isopropanol dehydrogenase (NADP+) activity ; GO:0050009
-EC:1.1.1.81 > GO:hydroxypyruvate reductase [NAD(P)] activity ; GO:0016618
+EC:1.1.1.81 > GO:hydroxypyruvate reductase [NAD(P)H] activity ; GO:0016618
 EC:1.1.1.82 > GO:malate dehydrogenase (NADP+) activity ; GO:0046554
 EC:1.1.1.83 > GO:D-malate dehydrogenase (decarboxylating) activity ; GO:0046553
 EC:1.1.1.84 > GO:dimethylmalate dehydrogenase activity ; GO:0047867
@@ -686,7 +686,6 @@ EC:1.14.13.- > GO:isobutylamine N-hydroxylase activity ; GO:0034791
 EC:1.14.13.- > GO:branched-chain dodecylbenzene sulfonate monooxygenase activity ; GO:0034802
 EC:1.14.13.- > GO:3-HSA hydroxylase activity ; GO:0034819
 EC:1.14.13.- > GO:4-hydroxypyridine-3-hydroxylase activity ; GO:0034894
-EC:1.14.13.- > GO:tocotrienol omega-hydroxylase activity ; GO:0052872
 EC:1.14.13.- > GO:thalianol hydroxylase activity ; GO:0080014
 EC:1.14.13.1 > GO:salicylate 1-monooxygenase activity ; GO:0018658
 EC:1.14.13.10 > GO:2,6-dihydroxypyridine 3-monooxygenase activity ; GO:0018663
@@ -796,6 +795,8 @@ EC:1.14.14.122 > GO:3alpha-hydroxy-ent-sandaracopimardiene 9-beta-monooxygenase 
 EC:1.14.14.123 > GO:3alpha-hydroxy-ent-sandaracopimardiene 7-beta-monooxygenase activity ; GO:0102598
 EC:1.14.14.126 > GO:uvaol dehydrogenase activity ; GO:0102373
 EC:1.14.14.126 > GO:ursolic aldehyde 28-monooxygenase activity ; GO:0102374
+EC:1.14.14.127 > GO:methyl farnesoate epoxidase activity ; GO:0120511
+EC:1.14.14.128 > GO:farnesoate epoxidase activity ; GO:0120512
 EC:1.14.14.135 > GO:glyceollin synthase activity ; GO:0033769
 EC:1.14.14.136 > GO:deoxysarpagine hydroxylase activity ; GO:0033775
 EC:1.14.14.137 > GO:(+)-abscisic acid 8'-hydroxylase activity ; GO:0010295
@@ -995,6 +996,7 @@ EC:1.14.99.35 > GO:thiophene-2-carbonyl-CoA monooxygenase activity ; GO:0050603
 EC:1.14.99.38 > GO:cholesterol 25-hydroxylase activity ; GO:0001567
 EC:1.14.99.39 > GO:ammonia monooxygenase activity ; GO:0018597
 EC:1.14.99.4 > GO:progesterone monooxygenase activity ; GO:0050214
+EC:1.14.99.46 > GO:uracil oxygenase activity ; GO:0052614
 EC:1.14.99.50 > GO:gamma-glutamyl hercynylcysteine sulfoxide synthase activity ; GO:0044875
 EC:1.14.99.59 > GO:tryptamine 4-monooxygenase activity ; GO:0140382
 EC:1.14.99.60 > GO:3-demethoxyubiquinol 3-hydroxylase activity ; GO:0008682
@@ -3303,7 +3305,6 @@ EC:3.1.15.- > GO:exonuclease activity, active with either ribo- or deoxyribonucl
 EC:3.1.16.- > GO:exonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 3'-phosphomonoesters ; GO:0016797
 EC:3.1.2.- > GO:thiolester hydrolase activity ; GO:0016790
 EC:3.1.2.1 > GO:acetyl-CoA hydrolase activity ; GO:0003986
-EC:3.1.2.10 > GO:acyl-CoA hydrolase activity ; GO:0016289
 EC:3.1.2.11 > GO:acetoacetyl-CoA hydrolase activity ; GO:0047603
 EC:3.1.2.12 > GO:S-formylglutathione hydrolase activity ; GO:0018738
 EC:3.1.2.13 > GO:S-succinylglutathione hydrolase activity ; GO:0050273
@@ -3908,6 +3909,7 @@ EC:3.5.1.122 > GO:protein-N-terminal glutamine amidohydrolase activity ; GO:0070
 EC:3.5.1.124 > GO:protein deglycase activity ; GO:0036524
 EC:3.5.1.128 > GO:deaminated glutathione amidase activity ; GO:0110050
 EC:3.5.1.13 > GO:aryl-acylamidase activity ; GO:0047680
+EC:3.5.1.138 > GO:lipoamidase activity ; GO:0061690
 EC:3.5.1.14 > GO:aminoacylase activity ; GO:0004046
 EC:3.5.1.15 > GO:aspartoacylase activity ; GO:0019807
 EC:3.5.1.16 > GO:acetylornithine deacetylase activity ; GO:0008777
@@ -4378,8 +4380,7 @@ EC:4.1.99.19 > GO:2-iminoacetate synthase activity ; GO:0036355
 EC:4.1.99.2 > GO:tyrosine phenol-lyase activity ; GO:0050371
 EC:4.1.99.22 > GO:GTP 3',8'-cyclase activity ; GO:0061798
 EC:4.1.99.3 > GO:deoxyribodipyrimidine photo-lyase activity ; GO:0003904
-EC:4.1.99.5 > GO:aldehyde decarbonylase activity ; GO:0071771
-EC:4.1.99.5 > GO:aldehyde oxygenase (deformylating) activity ; GO:1990465
+EC:4.1.99.5 > GO:aldehyde oxygenase (deformylating) activity ; GO:0071771
 EC:4.2.-.- > GO:carbon-oxygen lyase activity ; GO:0016835
 EC:4.2.1.- > GO:hydro-lyase activity ; GO:0016836
 EC:4.2.1.1 > GO:carbonate dehydratase activity ; GO:0004089

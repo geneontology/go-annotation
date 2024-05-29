@@ -1,4 +1,4 @@
-! Generated on 2024-05-12T08:13Z from the ontology 'go' with data version: 'releases/2024-05-12'
+! Generated on 2024-05-26T08:14Z from the ontology 'go' with data version: 'releases/2024-05-26'
 !
 KEGG_REACTION:R00004 > GO:inorganic diphosphate phosphatase activity ; GO:0004427
 KEGG_REACTION:R00005 > GO:allophanate hydrolase activity ; GO:0004039
@@ -157,7 +157,6 @@ KEGG_REACTION:R00504 > GO:UDP-galactose-UDP-N-acetylglucosamine galactose phosph
 KEGG_REACTION:R00512 > GO:CMP kinase activity ; GO:0036430
 KEGG_REACTION:R00518 > GO:formate kinase activity ; GO:0047900
 KEGG_REACTION:R00519 > GO:formate dehydrogenase (NAD+) activity ; GO:0008863
-KEGG_REACTION:R00521 > GO:acyl-CoA hydrolase activity ; GO:0016289
 KEGG_REACTION:R00522 > GO:oxalate decarboxylase activity ; GO:0046564
 KEGG_REACTION:R00524 > GO:formamidase activity ; GO:0004328
 KEGG_REACTION:R00525 > GO:N-formylglutamate deformylase activity ; GO:0050129

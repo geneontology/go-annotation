@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPBC2G5.03	ctu1	PMID:18391219	contributes_to	GO:0106054	tRNA-uracil-34 sulfurtransferase activity	IDA			PANTHER:PTHR11807	20230711	PomBase:SPATRNALYS.02|GO:0002143	NCBITaxon:4896
+PomBase	PomBase:SPBC2G5.03	ctu1	PMID:18391219	contributes_to	GO:0106054	tRNA-uracil-34 sulfurtransferase activity	IDA			PANTHER:PTHR11807	20230711	PomBase:SPATRNALYS.04|GO:0002143	NCBITaxon:4896
+PomBase	PomBase:SPBC19C2.13c	ctu2	PMID:18391219	contributes_to	GO:0106054	tRNA-uracil-34 sulfurtransferase activity	IDA			PANTHER:PTHR20882	20230711	PomBase:SPATRNALYS.03	NCBITaxon:4896
+PomBase	PomBase:SPBC19C2.13c	ctu2	PMID:18391219	contributes_to	GO:0106054	tRNA-uracil-34 sulfurtransferase activity	IDA			PANTHER:PTHR20882	20230711	PomBase:SPATRNALYS.04|GO:0002143	NCBITaxon:4896
