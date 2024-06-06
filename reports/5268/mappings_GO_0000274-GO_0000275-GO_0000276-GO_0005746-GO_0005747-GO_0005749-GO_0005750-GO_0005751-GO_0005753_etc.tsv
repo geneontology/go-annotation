@@ -1,0 +1,83 @@
+term	file	line
+GO:0000275	interpro2go	InterPro:IPR006721 ATP synthase, F1 complex, epsilon subunit, mitochondrial > GO:mitochondrial proton-transporting ATP synthase complex, catalytic sector F(1) ; GO:0000275
+GO:0000275	interpro2go	InterPro:IPR020971 ATP synthase, F1 beta subunit > GO:mitochondrial proton-transporting ATP synthase complex, catalytic sector F(1) ; GO:0000275
+GO:0000275	interpro2go	InterPro:IPR036742 ATP synthase, F1 complex, epsilon subunit superfamily, mitochondrial > GO:mitochondrial proton-transporting ATP synthase complex, catalytic sector F(1) ; GO:0000275
+GO:0000276	interpro2go	InterPro:IPR001421 ATP synthase protein 8, metazoa > GO:mitochondrial proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0000276
+GO:0000276	interpro2go	InterPro:IPR006808 ATP synthase, F0 complex, subunit G, mitochondrial > GO:mitochondrial proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0000276
+GO:0000276	interpro2go	InterPro:IPR008386 ATP synthase, F0 complex, subunit E, mitochondrial > GO:mitochondrial proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0000276
+GO:0000276	interpro2go	InterPro:IPR008387 ATP synthase-coupling factor 6, mitochondrial > GO:mitochondrial proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0000276
+GO:0000276	interpro2go	InterPro:IPR008688 ATP synthase, F0 complex, subunit B/MI25 > GO:mitochondrial proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0000276
+GO:0000276	interpro2go	InterPro:IPR008689 ATP synthase, F0 complex, subunit D, mitochondrial > GO:mitochondrial proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0000276
+GO:0000276	interpro2go	InterPro:IPR013837 ATP synthase, F0 complex, subunit B > GO:mitochondrial proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0000276
+GO:0000276	interpro2go	InterPro:IPR019711 ATP synthase, F0 complex, subunit H > GO:mitochondrial proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0000276
+GO:0000276	interpro2go	InterPro:IPR019727 ATP synthase, F0 complex, subunit F, mitochondria, fungi > GO:mitochondrial proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0000276
+GO:0000276	interpro2go	InterPro:IPR036204 ATP synthase-coupling factor 6 superfamily, mitochondrial > GO:mitochondrial proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0000276
+GO:0000276	interpro2go	InterPro:IPR036228 ATP synthase, F0 complex, subunit D superfamily, mitochondrial > GO:mitochondrial proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0000276
+GO:0000276	interpro2go	InterPro:IPR039017 ATP synthase protein 8, mammals > GO:mitochondrial proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0000276
+GO:0000276	unirule2go	UniRule:UR000977770 > GO:mitochondrial proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0000276
+GO:0000276	unirule2go	UniRule:UR001348758 > GO:mitochondrial proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0000276
+GO:0000276	unirule2go	UniRule:UR001478771 > GO:mitochondrial proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0000276
+GO:0005746	interpro2go	InterPro:IPR003177 Cytochrome c oxidase subunit VIIa, metazoa > GO:mitochondrial respirasome ; GO:0005746
+GO:0005746	interpro2go	InterPro:IPR008432 Cytochrome c oxidase subunit 5c > GO:mitochondrial respirasome ; GO:0005746
+GO:0005746	interpro2go	InterPro:IPR008433 Cytochrome C oxidase, subunit VIIB > GO:mitochondrial respirasome ; GO:0005746
+GO:0005746	unirule2go	UniRule:UR000356810 > GO:mitochondrial respirasome ; GO:0005746
+GO:0005747	interpro2go	InterPro:IPR015828 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 10, mitochondrial > GO:mitochondrial respiratory chain complex I ; GO:0005747
+GO:0005747	interpro2go	InterPro:IPR016551 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, metazoa > GO:mitochondrial respiratory chain complex I ; GO:0005747
+GO:0005747	interpro2go	InterPro:IPR016668 NADH dehydrogenase [ubiquinone] iron-sulfur protein 6, mitochondrial > GO:mitochondrial respiratory chain complex I ; GO:0005747
+GO:0005747	interpro2go	InterPro:IPR019174 NADH dehydrogenase 1, beta subcomplex, subunit 6 > GO:mitochondrial respiratory chain complex I ; GO:0005747
+GO:0005747	interpro2go	InterPro:IPR026192 NADH-ubiquinone oxidoreductase 1 subunit C1 > GO:mitochondrial respiratory chain complex I ; GO:0005747
+GO:0005747	interpro2go	InterPro:IPR026193 NADH-ubiquinone oxidoreductase flavoprotein 3 > GO:mitochondrial respiratory chain complex I ; GO:0005747
+GO:0005747	interpro2go	InterPro:IPR026626 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 3 > GO:mitochondrial respiratory chain complex I ; GO:0005747
+GO:0005747	interpro2go	InterPro:IPR026627 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 2, animal type > GO:mitochondrial respiratory chain complex I ; GO:0005747
+GO:0005747	interpro2go	InterPro:IPR044980 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 2, plant/fungi > GO:mitochondrial respiratory chain complex I ; GO:0005747
+GO:0005747	interpro2go	InterPro:IPR045299 NDUFA6, LYR domain > GO:mitochondrial respiratory chain complex I ; GO:0005747
+GO:0005747	unirule2go	UniRule:UR000168457 > GO:mitochondrial respiratory chain complex I ; GO:0005747
+GO:0005747	unirule2go	UniRule:UR001527787 > GO:mitochondrial respiratory chain complex I ; GO:0005747
+GO:0005749	interpro2go	InterPro:IPR034573 Succinate dehydrogenase subunit 7, mitochondrial > GO:mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone) ; GO:0005749
+GO:0005749	interpro2go	InterPro:IPR034574 Succinate dehydrogenase subunit 6, mitochondrial > GO:mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone) ; GO:0005749
+GO:0005749	interpro2go	InterPro:IPR044963 Succinate dehydrogenase subunit 4, mitochondrial > GO:mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone) ; GO:0005749
+GO:0005750	interpro2go	InterPro:IPR003197 Cytochrome b-c1 complex subunit 7 > GO:mitochondrial respiratory chain complex III ; GO:0005750
+GO:0005750	interpro2go	InterPro:IPR003422 Cytochrome b-c1 complex, subunit 6 > GO:mitochondrial respiratory chain complex III ; GO:0005750
+GO:0005750	interpro2go	InterPro:IPR004205 Cytochrome b-c1 complex subunit 8 > GO:mitochondrial respiratory chain complex III ; GO:0005750
+GO:0005750	interpro2go	InterPro:IPR008027 Cytochrome b-c1 complex subunit 9 > GO:mitochondrial respiratory chain complex III ; GO:0005750
+GO:0005750	interpro2go	InterPro:IPR015089 Cytochrome b-c1 complex subunit 10 > GO:mitochondrial respiratory chain complex III ; GO:0005750
+GO:0005750	interpro2go	InterPro:IPR019182 Cytochrome b-c1 complex subunit 10, fungi > GO:mitochondrial respiratory chain complex III ; GO:0005750
+GO:0005750	interpro2go	InterPro:IPR020101 Cytochrome b-c1 complex subunit 8, plants > GO:mitochondrial respiratory chain complex III ; GO:0005750
+GO:0005750	interpro2go	InterPro:IPR036544 Cytochrome b-c1 complex subunit 7 superfamily > GO:mitochondrial respiratory chain complex III ; GO:0005750
+GO:0005750	interpro2go	InterPro:IPR036642 Cytochrome b-c1 complex subunit 8 superfamily > GO:mitochondrial respiratory chain complex III ; GO:0005750
+GO:0005750	interpro2go	InterPro:IPR036656 Cytochrome b-c1 complex subunit 9 superfamily > GO:mitochondrial respiratory chain complex III ; GO:0005750
+GO:0005750	unirule2go	UniRule:UR001528774 > GO:mitochondrial respiratory chain complex III ; GO:0005750
+GO:0005750	unirule2go	UniRule:UR001590792 > GO:mitochondrial respiratory chain complex III ; GO:0005750
+GO:0005751	interpro2go	InterPro:IPR001349 Cytochrome c oxidase, subunit VIa > GO:mitochondrial respiratory chain complex IV ; GO:0005751
+GO:0005751	interpro2go	InterPro:IPR002124 Cytochrome c oxidase, subunit Vb > GO:mitochondrial respiratory chain complex IV ; GO:0005751
+GO:0005751	interpro2go	InterPro:IPR003177 Cytochrome c oxidase subunit VIIa, metazoa > GO:mitochondrial respiratory chain complex IV ; GO:0005751
+GO:0005751	interpro2go	InterPro:IPR003204 Cytochrome c oxidase, subunit Va/VI > GO:mitochondrial respiratory chain complex IV ; GO:0005751
+GO:0005751	interpro2go	InterPro:IPR003205 Cytochrome c oxidase, subunit 8 > GO:mitochondrial respiratory chain complex IV ; GO:0005751
+GO:0005751	interpro2go	InterPro:IPR004202 Cytochrome c oxidase subunit VIIc > GO:mitochondrial respiratory chain complex IV ; GO:0005751
+GO:0005751	interpro2go	InterPro:IPR004203 Cytochrome c oxidase subunit IV family > GO:mitochondrial respiratory chain complex IV ; GO:0005751
+GO:0005751	interpro2go	InterPro:IPR004204 Cytochrome c oxidase subunit 7e/7s > GO:mitochondrial respiratory chain complex IV ; GO:0005751
+GO:0005751	interpro2go	InterPro:IPR014367 Cytochrome c oxidase subunit VII, budding yeast > GO:mitochondrial respiratory chain complex IV ; GO:0005751
+GO:0005751	interpro2go	InterPro:IPR018507 Cytochrome c oxidase, subunit VIa, conserved site > GO:mitochondrial respiratory chain complex IV ; GO:0005751
+GO:0005751	interpro2go	InterPro:IPR036539 Cytochrome c oxidase, subunit VIIa superfamily > GO:mitochondrial respiratory chain complex IV ; GO:0005751
+GO:0005751	interpro2go	InterPro:IPR036545 Cytochrome c oxidase, subunit Va/VI superfamily > GO:mitochondrial respiratory chain complex IV ; GO:0005751
+GO:0005751	interpro2go	InterPro:IPR036548 Cytochrome c oxidase, subunit 8 superfamily > GO:mitochondrial respiratory chain complex IV ; GO:0005751
+GO:0005751	interpro2go	InterPro:IPR036636 Cytochrome c oxidase subunit VIIc superfamily > GO:mitochondrial respiratory chain complex IV ; GO:0005751
+GO:0005751	interpro2go	InterPro:IPR036639 Cytochrome c oxidase subunit IV superfamily > GO:mitochondrial respiratory chain complex IV ; GO:0005751
+GO:0005751	interpro2go	InterPro:IPR036972 Cytochrome c oxidase, subunit Vb superfamily > GO:mitochondrial respiratory chain complex IV ; GO:0005751
+GO:0005751	unirule2go	UniRule:UR001590796 > GO:mitochondrial respiratory chain complex IV ; GO:0005751
+GO:0005751	unirule2go	UniRule:UR001590798 > GO:mitochondrial respiratory chain complex IV ; GO:0005751
+GO:0005751	unirule2go	UniRule:UR001591772 > GO:mitochondrial respiratory chain complex IV ; GO:0005751
+GO:0005751	unirule2go	UniRule:UR001591774 > GO:mitochondrial respiratory chain complex IV ; GO:0005751
+GO:0005753	interpro2go	InterPro:IPR009125 ATP synthase membrane subunit K > GO:mitochondrial proton-transporting ATP synthase complex ; GO:0005753
+GO:0045278	interpro2go	InterPro:IPR004677 Cytochrome c oxidase cbb3-type, subunit I > GO:plasma membrane respiratory chain complex IV ; GO:0045278
+GO:0045281	interpro2go	InterPro:IPR014314 Succinate dehydrogenase, cytochrome b556 subunit > GO:succinate dehydrogenase complex ; GO:0045281
+GO:0045284	hamap2go	HAMAP:MF_00708 > GO:plasma membrane fumarate reductase complex ; GO:0045284
+GO:0045284	hamap2go	HAMAP:MF_00709 > GO:plasma membrane fumarate reductase complex ; GO:0045284
+GO:0045284	unirule2go	UniRule:UR000065683 > GO:plasma membrane fumarate reductase complex ; GO:0045284
+GO:0045284	unirule2go	UniRule:UR000065693 > GO:plasma membrane fumarate reductase complex ; GO:0045284
+GO:0070469	interpro2go	InterPro:IPR020101 Cytochrome b-c1 complex subunit 8, plants > GO:respirasome ; GO:0070469
+GO:0070469	uniprotkb_kw2go	UniProtKB-KW:KW-0679 Respiratory chain > GO:respirasome ; GO:0070469
+GO:0070469	unirule2go	UniRule:UR000000668 > GO:respirasome ; GO:0070469
+GO:0070469	unirule2go	UniRule:UR000285107 > GO:respirasome ; GO:0070469
+GO:0070469	unirule2go	UniRule:UR000668782 > GO:respirasome ; GO:0070469
+GO:0070469	unirule2go	UniRule:UR001478752 > GO:respirasome ; GO:0070469
