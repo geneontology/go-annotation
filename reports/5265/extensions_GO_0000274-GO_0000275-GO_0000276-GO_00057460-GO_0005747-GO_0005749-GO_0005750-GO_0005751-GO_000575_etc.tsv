@@ -1,0 +1,34 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	UniProtKB:Q8N183	NDUFAF2	PMID:16200211		GO:0044877	protein-containing complex binding	IDA			PANTHER:PTHR32470	20201013	GO:0005747	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q99497	PARK7	PMID:19822128		GO:0044877	protein-containing complex binding	IDA			PANTHER:PTHR48094	20190422	GO:0005747	NCBITaxon:9606
+UniProt	UniProtKB:Q9Y375	NDUFAF1	PMID:17344420		GO:0051131	chaperone-mediated protein complex assembly	IDA			PANTHER:PTHR13194	20191023	GO:0005747	NCBITaxon:9606
+UniProt	UniProtKB:Q9BQ95	ECSIT	PMID:17344420		GO:0061635	regulation of protein complex stability	IDA			PANTHER:PTHR13113	20191023	GO:0005747	NCBITaxon:9606
+SGD	SGD:S000000248	TCM62	PMID:9822678		GO:0034553	mitochondrial respiratory chain complex II assembly	IMP		UniProtKB:P38228	PANTHER:PTHR45633	20140403	GO:0005749	NCBITaxon:559292
+SGD	SGD:S000006053	COX11	PMID:2167832		GO:0065003	protein-containing complex assembly	IMP		UniProtKB:P19516	PANTHER:PTHR21320	20170427	GO:0005751	NCBITaxon:559292
+SGD	SGD:S000007255	TIM11	PMID:16551625		GO:0065003	protein-containing complex assembly	IMP		UniProtKB:P81449		20191023	GO:0005753	NCBITaxon:559292
+SGD	SGD:S000006224	ATP20	PMID:16551625		GO:0065003	protein-containing complex assembly	IMP		UniProtKB:Q12233	PANTHER:PTHR12386	20191023	GO:0005753	NCBITaxon:559292
+SGD	SGD:S000006224	ATP20	PMID:17761666		GO:0065003	protein-containing complex assembly	IMP		UniProtKB:Q12233	PANTHER:PTHR12386	20191023	GO:0005753	NCBITaxon:559292
+SGD	SGD:S000005999	ATP4	PMID:18293929		GO:0065003	protein-containing complex assembly	IMP		UniProtKB:P05626	PANTHER:PTHR12733	20191023	GO:0005753	NCBITaxon:559292
+SGD	SGD:S000007339	ATP19	PMID:20219971		GO:0065003	protein-containing complex assembly	IMP		UniProtKB:P81451	PANTHER:PTHR28074	20191023	GO:0005753	NCBITaxon:559292
+SGD	SGD:S000007255	TIM11	PMID:20219971		GO:0065003	protein-containing complex assembly	IMP		UniProtKB:P81449		20191023	GO:0005753	NCBITaxon:559292
+SGD	SGD:S000007247	ATP18	PMID:20219971		GO:0065003	protein-containing complex assembly	IMP		UniProtKB:P81450	PANTHER:PTHR28060	20191023	GO:0005753	NCBITaxon:559292
+SGD	SGD:S000006224	ATP20	PMID:20219971		GO:0065003	protein-containing complex assembly	IMP		UniProtKB:Q12233	PANTHER:PTHR12386	20191023	GO:0005753	NCBITaxon:559292
+SGD	SGD:S000007232	STF1	PMID:2172220		GO:0051117	ATPase binding	IDA		UniProtKB:P01098		20140313	GO:0005753	NCBITaxon:559292
+UniProt	UniProtKB:P18859	ATP5PF	PMID:12110673	contributes_to	GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	IDA			PANTHER:PTHR12441	20191023	GO:0005753	NCBITaxon:9606
+UniProt	UniProtKB:P36542	ATP5F1C	PMID:12110673	contributes_to	GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	IDA			PANTHER:PTHR11693	20191023	GO:0005753	NCBITaxon:9606
+UniProt	UniProtKB:P48047	ATP5PO	PMID:12110673	contributes_to	GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	IDA			PANTHER:PTHR11910	20191023	GO:0005753	NCBITaxon:9606
+UniProt	UniProtKB:P56381	ATP5F1E	PMID:12110673	contributes_to	GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	IDA			PANTHER:PTHR12448	20191023	GO:0005753	NCBITaxon:9606
+UniProt	UniProtKB:P56385	ATP5ME	PMID:12110673	contributes_to	GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	IDA			PANTHER:PTHR12427	20191023	GO:0005753	NCBITaxon:9606
+UniProt	UniProtKB:O75947	ATP5PD	PMID:12110673	contributes_to	GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	IDA			PANTHER:PTHR12700	20191023	GO:0005753	NCBITaxon:9606
+UniProt	UniProtKB:O75964	ATP5MG	PMID:12110673	contributes_to	GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	IDA			PANTHER:PTHR12386	20191023	GO:0005753	NCBITaxon:9606
+UniProt	UniProtKB:P03928	MT-ATP8	PMID:12110673	contributes_to	GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	IDA			PANTHER:PTHR13722	20191023	GO:0005753	NCBITaxon:9606
+UniProt	UniProtKB:P24539	ATP5PB	PMID:12110673	contributes_to	GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	IDA			PANTHER:PTHR12733	20191023	GO:0005753	NCBITaxon:9606
+UniProt	UniProtKB:P30049	ATP5F1D	PMID:12110673	contributes_to	GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	IDA			PANTHER:PTHR13822	20210610	GO:0005753	NCBITaxon:9606
+UniProt	UniProtKB:P06576	ATP5F1B	PMID:12110673	contributes_to	GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	IDA			PANTHER:PTHR15184	20191023	GO:0005753	NCBITaxon:9606
+UniProt	UniProtKB:P00846	MT-ATP6	PMID:12110673	contributes_to	GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	IDA			PANTHER:PTHR11410	20191023	GO:0005753	NCBITaxon:9606
+UniProt	UniProtKB:P56134	ATP5MF	PMID:12110673	contributes_to	GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	IDA			PANTHER:PTHR13080	20191023	GO:0005753	NCBITaxon:9606
+UniProt	UniProtKB:P25705	ATP5F1A	PMID:12110673	contributes_to	GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	IDA			PANTHER:PTHR48082	20191023	GO:0005753	NCBITaxon:9606
+IntAct	UniProtKB:P07014	sdhB	PMID:16079137		GO:0005515	protein binding	IPI	UniProtKB:P0AC41		PANTHER:PTHR11921	20240406	GO:0045282	NCBITaxon:83333
+IntAct	UniProtKB:P0AC41	sdhA	PMID:16079137		GO:0005515	protein binding	IPI	UniProtKB:P07014		PANTHER:PTHR11632	20240406	GO:0045282	NCBITaxon:83333
+IntAct	UniProtKB:P07014	sdhB	PMID:24561554		GO:0005515	protein binding	IPI	UniProtKB:P0AC41		PANTHER:PTHR11921	20240406	GO:0045282	NCBITaxon:83333
+IntAct	UniProtKB:P0AC41	sdhA	PMID:24561554		GO:0005515	protein binding	IPI	UniProtKB:P07014		PANTHER:PTHR11632	20240406	GO:0045282	NCBITaxon:83333
