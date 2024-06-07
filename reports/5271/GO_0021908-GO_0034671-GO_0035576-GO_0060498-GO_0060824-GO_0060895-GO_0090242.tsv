@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:107928	Aldh1a2	PMID:15889094		GO:0090242	retinoic acid receptor signaling pathway involved in somitogenesis	IMP	MGI:MGI:1857891		PANTHER:PTHR11699	20180309		NCBITaxon:10090
+MGI	MGI:MGI:107928	Aldh1a2	PMID:15889094		GO:0090242	retinoic acid receptor signaling pathway involved in somitogenesis	IGI	MGI:MGI:1100864		PANTHER:PTHR11699	20180309		NCBITaxon:10090
+ZFIN	ZFIN:ZDB-MIRNAG-050103-6	dre-mir-19a	PMID:23975936		GO:0090242	retinoic acid receptor signaling pathway involved in somitogenesis	IGI	ZFIN:ZDB-MRPHLNO-140205-4			20140221	GO:0001756	NCBITaxon:7955
+ZFIN	ZFIN:ZDB-MIRNAG-081208-24	mir19d	PMID:23975936		GO:0090242	retinoic acid receptor signaling pathway involved in somitogenesis	IGI	ZFIN:ZDB-MRPHLNO-140205-4			20140221	GO:0001756	NCBITaxon:7955
+ZFIN	ZFIN:ZDB-MIRNAG-081208-23	mir19c	PMID:23975936		GO:0090242	retinoic acid receptor signaling pathway involved in somitogenesis	IGI	ZFIN:ZDB-MRPHLNO-140205-4			20140221	GO:0001756	NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-990415-44	cyp26a1	PMID:23975936		GO:0090242	retinoic acid receptor signaling pathway involved in somitogenesis	IMP	ZFIN:ZDB-MRPHLNO-140205-4		PANTHER:PTHR24286	20140221	GO:0001756	NCBITaxon:7955
