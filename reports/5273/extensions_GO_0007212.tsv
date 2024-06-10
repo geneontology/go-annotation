@@ -1,0 +1,8 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:94925	Drd3	PMID:12097513		GO:0060160	negative regulation of dopamine receptor signaling pathway	IGI	MGI:MGI:99578		PANTHER:PTHR24248	20070717	GO:0007212	NCBITaxon:10090
+MGI	MGI:MGI:94925	Drd3	PMID:12097513		GO:0060160	negative regulation of dopamine receptor signaling pathway	IGI	MGI:MGI:94924		PANTHER:PTHR24248	20070717	GO:0007212	NCBITaxon:10090
+MGI	MGI:MGI:94924	Drd2	PMID:12097513		GO:0060160	negative regulation of dopamine receptor signaling pathway	IGI	MGI:MGI:99578		PANTHER:PTHR24248	20070717	GO:0007212	NCBITaxon:10090
+MGI	MGI:MGI:94924	Drd2	PMID:12097513		GO:0060160	negative regulation of dopamine receptor signaling pathway	IGI	MGI:MGI:94925		PANTHER:PTHR24248	20070717	GO:0007212	NCBITaxon:10090
+MGI	MGI:MGI:94925	Drd3	PMID:15016423		GO:0060161	positive regulation of dopamine receptor signaling pathway	IMP	MGI:MGI:1857159		PANTHER:PTHR24248	20070717	GO:0007212	NCBITaxon:10090
+ParkinsonsUK-UCL	UniProtKB:Q96QK1	VPS35	PMID:27460146		GO:0099639	neurotransmitter receptor transport, endosome to plasma membrane	IDA			PANTHER:PTHR11099	20160913	UniProtKB:P21728|GO:0007212	NCBITaxon:9606
+ParkinsonsUK-UCL	MGI:MGI:1890467	Vps35	PMID:27460146|MGI:MGI:5796045		GO:0099639	neurotransmitter receptor transport, endosome to plasma membrane	IMP			PANTHER:PTHR11099	20160913	UniProtKB:Q61616|GO:0007212	NCBITaxon:10090
