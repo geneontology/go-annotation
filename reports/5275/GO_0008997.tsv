@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P21499	rnr	PMID:11948193		GO:0008997	ribonuclease R activity	IDA			PANTHER:PTHR23355	20121218		NCBITaxon:83333
