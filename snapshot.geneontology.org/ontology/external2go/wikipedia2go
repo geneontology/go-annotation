@@ -1,6 +1,6 @@
-! Generated on 2024-06-02T08:15Z from the ontology 'go' with data version: 'releases/2024-06-02'
+! Generated on 2024-06-10T20:11Z from the ontology 'go' with data version: 'releases/2024-06-10'
 !
-Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase [NAD(P)] activity ; GO:0003845
+Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase [NAD(P)+] activity ; GO:0003845
 Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase (NAD+) activity ; GO:0070523
 Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase (NADP+) activity ; GO:0070524
 Wikipedia:2-(hydroxymethyl)-3-(acetamidomethylene)succinate_amidohydrolase_(deaminating,_decarboxylating) > GO:2-(hydroxymethyl)-3-(acetamidomethylene)succinate hydrolase activity ; GO:0047414

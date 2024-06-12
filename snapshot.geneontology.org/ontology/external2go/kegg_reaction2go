@@ -1,4 +1,4 @@
-! Generated on 2024-06-02T08:15Z from the ontology 'go' with data version: 'releases/2024-06-02'
+! Generated on 2024-06-10T20:11Z from the ontology 'go' with data version: 'releases/2024-06-10'
 !
 KEGG_REACTION:R00004 > GO:inorganic diphosphate phosphatase activity ; GO:0004427
 KEGG_REACTION:R00005 > GO:allophanate hydrolase activity ; GO:0004039
@@ -561,7 +561,7 @@ KEGG_REACTION:R01884 > GO:creatininase activity ; GO:0047789
 KEGG_REACTION:R01888 > GO:kanamycin kinase activity ; GO:0008910
 KEGG_REACTION:R01889 > GO:aminoglycoside 6'-N-acetyltransferase activity ; GO:0047663
 KEGG_REACTION:R01891 > GO:ceramide cholinephosphotransferase activity ; GO:0047493
-KEGG_REACTION:R01895 > GO:ribitol 2-dehydrogenase activity ; GO:0050255
+KEGG_REACTION:R01895 > GO:ribitol 2-dehydrogenase (NAD+) activity ; GO:0050255
 KEGG_REACTION:R01896 > GO:D-xylulose reductase activity ; GO:0046526
 KEGG_REACTION:R01898 > GO:D-lyxose ketol-isomerase activity ; GO:0047828
 KEGG_REACTION:R01903 > GO:L-arabinitol 4-dehydrogenase activity ; GO:0050019
@@ -1148,7 +1148,7 @@ KEGG_REACTION:R03899 > GO:N1-acetylspermine:oxygen oxidoreductase (3-acetamidopr
 KEGG_REACTION:R03900 > GO:beta-nitroacrylate reductase activity ; GO:0047703
 KEGG_REACTION:R03906 > GO:glycyrrhizinate beta-glucuronidase activity ; GO:0047967
 KEGG_REACTION:R03908 > GO:2-methyleneglutarate mutase activity ; GO:0047548
-KEGG_REACTION:R03918 > GO:sinapyl alcohol dehydrogenase activity ; GO:0052747
+KEGG_REACTION:R03918 > GO:cinnamyl-alcohol dehydrogenase activity ; GO:0045551
 KEGG_REACTION:R03925 > GO:allantoin racemase activity ; GO:0047653
 KEGG_REACTION:R03930 > GO:3-methyleneoxindole reductase activity ; GO:0047567
 KEGG_REACTION:R03932 > GO:4-chlorobenzoate-CoA ligase activity ; GO:0018861
