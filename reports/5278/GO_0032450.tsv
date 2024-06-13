@@ -1,0 +1,9 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	UniProtKB:Q4J9M3	malA	PMID:23396915		GO:0032450	maltose alpha-glucosidase activity	IDA				20131027		NCBITaxon:330779
+CGD	CGD:CAL0000194458	C5_04940W_A	PMID:8489504|CGD_REF:CAL0100615		GO:0032450	maltose alpha-glucosidase activity	IDA			PANTHER:PTHR10357	20140625		NCBITaxon:237561
+PomBase	PomBase:SPAPB24D3.10c	agl1	PMID:11298744		GO:0032450	maltose alpha-glucosidase activity	IDA			PANTHER:PTHR22762	20120627		NCBITaxon:4896
+PomBase	PomBase:SPAPB24D3.10c	agl1	PMID:16911511		GO:0032450	maltose alpha-glucosidase activity	IDA			PANTHER:PTHR22762	20130910		NCBITaxon:4896
+PomBase	PomBase:SPBC1683.07	mal1	PMID:18556189		GO:0032450	maltose alpha-glucosidase activity	IDA			PANTHER:PTHR10357	20120620		NCBITaxon:4896
+SGD	SGD:S000000503	MAL32	PMID:20471265		GO:0032450	maltose alpha-glucosidase activity	IDA		UniProtKB:P38158	PANTHER:PTHR10357	20100621		NCBITaxon:559292
+SGD	SGD:S000003524	MAL12	PMID:20471265		GO:0032450	maltose alpha-glucosidase activity	IDA		UniProtKB:P53341	PANTHER:PTHR10357	20100621		NCBITaxon:559292
+SGD	SGD:S000029690	MAL62	PMID:8636115		GO:0032450	maltose alpha-glucosidase activity	IDA				20210921		NCBITaxon:559292
