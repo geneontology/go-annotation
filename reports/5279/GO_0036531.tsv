@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ParkinsonsUK-UCL	UniProtKB:Q99497	PARK7	PMID:25416785		GO:0036531	glutathione deglycation	IDA			PANTHER:PTHR48094	20160808		NCBITaxon:9606
