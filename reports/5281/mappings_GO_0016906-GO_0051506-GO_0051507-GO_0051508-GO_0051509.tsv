@@ -1,0 +1,10 @@
+term	file	line
+GO:0016906	metacyc2go	MetaCyc:STEROL-GLUCOSYLTRANSFERASE-RXN > GO:sterol 3-beta-glucosyltransferase activity ; GO:0016906
+GO:0016906	ec2go	EC:2.4.1.173 > GO:sterol 3-beta-glucosyltransferase activity ; GO:0016906
+GO:0016906	rhea2go	RHEA:22724 > GO:sterol 3-beta-glucosyltransferase activity ; GO:0016906
+GO:0051506	metacyc2go	MetaCyc:RXN-16975 > GO:ergosterol UDP-glucosyltransferase activity ; GO:0051506
+GO:0051506	rhea2go	RHEA:61836 > GO:ergosterol UDP-glucosyltransferase activity ; GO:0051506
+GO:0051507	metacyc2go	MetaCyc:RXN-12128 > GO:beta-sitosterol UDP-glucosyltransferase activity ; GO:0051507
+GO:0051507	rhea2go	RHEA:61832 > GO:beta-sitosterol UDP-glucosyltransferase activity ; GO:0051507
+GO:0051508	metacyc2go	MetaCyc:RXN-12126 > GO:stigmasterol UDP-glucosyltransferase activity ; GO:0051508
+GO:0051508	rhea2go	RHEA:61828 > GO:stigmasterol UDP-glucosyltransferase activity ; GO:0051508

@@ -1,0 +1,10 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CGD	CGD:CAL0000189652	UGT51C1	PMID:10224056|CGD_REF:CAL0082006		GO:0016906	sterol 3-beta-glucosyltransferase activity	IDA			PANTHER:PTHR48050	20140625		NCBITaxon:237561
+SGD	SGD:S000004179	ATG26	PMID:10224056		GO:0016906	sterol 3-beta-glucosyltransferase activity	IDA		UniProtKB:Q06321	PANTHER:PTHR48050	20021030		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT3G07020	SGT	PMID:17324374|TAIR:Publication:501720899		GO:0016906	sterol 3-beta-glucosyltransferase activity	IDA		TAIR:locus:2077627		20110204		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G43620	UGT80B1	PMID:19641030|TAIR:Publication:501733418		GO:0016906	sterol 3-beta-glucosyltransferase activity	IMP		TAIR:locus:2194676		20090929		NCBITaxon:3702
+dictyBase	dictyBase:DDB_G0288655	ugt52	PMID:10224056		GO:0051506	ergosterol UDP-glucosyltransferase activity	IDA			PANTHER:PTHR48050	20050725		NCBITaxon:44689
+TAIR	AGI_LocusCode:AT3G07020	SGT	PMID:17324374|TAIR:Publication:501720899		GO:0051507	beta-sitosterol UDP-glucosyltransferase activity	IDA		TAIR:locus:2077627		20110204		NCBITaxon:3702
+dictyBase	dictyBase:DDB_G0288655	ugt52	PMID:10224056		GO:0051507	beta-sitosterol UDP-glucosyltransferase activity	IDA			PANTHER:PTHR48050	20050725		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0288655	ugt52	PMID:10224056		GO:0051508	stigmasterol UDP-glucosyltransferase activity	IDA			PANTHER:PTHR48050	20050725		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0288655	ugt52	PMID:10224056		GO:0051509	tomatidine UDP-glucosyltransferase activity	IDA			PANTHER:PTHR48050	20050725		NCBITaxon:44689
