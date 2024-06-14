@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+TAIR	AGI_LocusCode:AT1G24340	EMB2421	PMID:34626646|TAIR:Publication:501796201		GO:0043719	2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase activity	IGI	UniProtKB:P75728	TAIR:locus:2032482		20211008		NCBITaxon:3702
