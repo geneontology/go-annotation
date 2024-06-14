@@ -1,0 +1,18 @@
+term	file	line
+GO:0102655	metacyc2go	MetaCyc:RXN-1726 > GO:1-18:1-2-trans-16:1-phosphatidylglycerol desaturase activity ; GO:0102655
+GO:0102655	ec2go	EC:1.14.19.23 > GO:1-18:1-2-trans-16:1-phosphatidylglycerol desaturase activity ; GO:0102655
+GO:0102834	metacyc2go	MetaCyc:RXN-8294 > GO:1-18:1-2-16:0-monogalactosyldiacylglycerol acyl-lipid omega-6 desaturase activity ; GO:0102834
+GO:0102834	ec2go	EC:1.14.19.23 > GO:1-18:1-2-16:0-monogalactosyldiacylglycerol acyl-lipid omega-6 desaturase activity ; GO:0102834
+GO:0102836	metacyc2go	MetaCyc:RXN-8296 > GO:1-18:1-2-16:1-monogalactosyldiacylglyceroldesaturase activity ; GO:0102836
+GO:0102836	ec2go	EC:1.14.19.23 > GO:1-18:1-2-16:1-monogalactosyldiacylglyceroldesaturase activity ; GO:0102836
+GO:0102838	metacyc2go	MetaCyc:RXN-8298 > GO:1-18:1-2-16:2-monogalactosyldiacylglycerol desaturase activity ; GO:0102838
+GO:0102838	ec2go	EC:1.14.19.23 > GO:1-18:1-2-16:2-monogalactosyldiacylglycerol desaturase activity ; GO:0102838
+GO:0102841	metacyc2go	MetaCyc:RXN-8302 > GO:1-18:1-2-16:2-monogalactosyldiacylglycerol synthase activity ; GO:0102841
+GO:0102841	ec2go	EC:1.14.19.23 > GO:1-18:1-2-16:2-monogalactosyldiacylglycerol synthase activity ; GO:0102841
+GO:0102844	metacyc2go	MetaCyc:RXN-8305 > GO:1-18:2-2-16:1-monogalactosyldiacylglycerol desaturase activity (SN2-16:2 forming) ; GO:0102844
+GO:0102844	ec2go	EC:1.14.19.23 > GO:1-18:2-2-16:1-monogalactosyldiacylglycerol desaturase activity (SN2-16:2 forming) ; GO:0102844
+GO:0102850	metacyc2go	MetaCyc:RXN-8316 > GO:1-18:1-2-16:0-phosphatidylglycerol omega-6 desaturase activity ; GO:0102850
+GO:0102850	ec2go	EC:1.14.19.23 > GO:1-18:1-2-16:0-phosphatidylglycerol omega-6 desaturase activity ; GO:0102850
+GO:0102850	rhea2go	RHEA:46376 > GO:1-18:1-2-16:0-phosphatidylglycerol omega-6 desaturase activity ; GO:0102850
+GO:0102873	metacyc2go	MetaCyc:RXN-8363 > GO:1-18:1-2-16:0-digalactosyldiacylglycerol desaturase activity ; GO:0102873
+GO:0102873	ec2go	EC:1.14.19.23 > GO:1-18:1-2-16:0-digalactosyldiacylglycerol desaturase activity ; GO:0102873
