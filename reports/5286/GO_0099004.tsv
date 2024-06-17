@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CAFA	UniProtKB:P40136	cya	PMID:11807546		GO:0099004	calmodulin dependent kinase signaling pathway	IMP				20180524		NCBITaxon:1392
+MGI	MGI:MGI:1915058	Tprg1l	PMID:33431696		GO:0099004	calmodulin dependent kinase signaling pathway	IDA			PANTHER:PTHR31108	20220802		NCBITaxon:10090
+RGD	RGD:2522	Drd4	PMID:15229297|RGD:401960855		GO:0099004	calmodulin dependent kinase signaling pathway	IDA			PANTHER:PTHR24247	20240201		NCBITaxon:10116
+SynGO	RGD:2261	Camk2a	PMID:20670832|RGD:12050125		GO:0099004	calmodulin dependent kinase signaling pathway	IMP			PANTHER:PTHR24347	20170126	GO:0043197|CL:0002608	NCBITaxon:10116
+UniProt	UniProtKB:Q92633	LPAR1	PMID:19733258		GO:0099004	calmodulin dependent kinase signaling pathway	IMP			PANTHER:PTHR22750	20230718		NCBITaxon:9606
+UniProt	UniProtKB:P48539	PCP4	PMID:21491429		GO:0099004	calmodulin dependent kinase signaling pathway	IMP			PANTHER:PTHR15359	20170608		NCBITaxon:9606
