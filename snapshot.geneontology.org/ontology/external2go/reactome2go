@@ -1,4 +1,4 @@
-! Generated on 2024-06-10T20:11Z from the ontology 'go' with data version: 'releases/2024-06-10'
+! Generated on 2024-06-18T07:46Z from the ontology 'go' with data version: 'releases/2024-06-17'
 !
 Reactome:R-HSA-1008248 > GO:nucleoside triphosphate adenylate kinase activity ; GO:0046899
 Reactome:R-HSA-1013012 > GO:G protein-coupled GABA receptor activity ; GO:0004965
@@ -1028,7 +1028,7 @@ Reactome:R-HSA-189102 > GO:alpha-1,4-glucosidase activity ; GO:0004558
 Reactome:R-HSA-189208 > GO:glucose:sodium symporter activity ; GO:0005412
 Reactome:R-HSA-189222 > GO:fructose transmembrane transporter activity ; GO:0005353
 Reactome:R-HSA-189242 > GO:hexose transmembrane transporter activity ; GO:0015149
-Reactome:R-HSA-189384 > GO:biliverdin reductase (NAD(P)H) activity ; GO:0004074
+Reactome:R-HSA-189384 > GO:biliverdin reductase [NAD(P)+] activity ; GO:0004074
 Reactome:R-HSA-189398 > GO:heme oxygenase (decyclizing) activity ; GO:0004392
 Reactome:R-HSA-189406 > GO:hydroxymethylbilane synthase activity ; GO:0004418
 Reactome:R-HSA-189421 > GO:coproporphyrinogen oxidase activity ; GO:0004109
@@ -1261,7 +1261,7 @@ Reactome:R-HSA-198314 > GO:diacylglycerol-dependent serine/threonine kinase acti
 Reactome:R-HSA-198347 > GO:protein serine/threonine kinase activity ; GO:0004674
 Reactome:R-HSA-198371 > GO:protein serine/threonine kinase activity ; GO:0004674
 Reactome:R-HSA-198440 > GO:oxoglutarate:malate antiporter activity ; GO:0015367
-Reactome:R-HSA-198508 > GO:L-malate dehydrogenase activity ; GO:0030060
+Reactome:R-HSA-198508 > GO:L-malate dehydrogenase (NAD+) activity ; GO:0030060
 Reactome:R-HSA-198513 > GO:glucose 6-phosphate:phosphate antiporter activity ; GO:0061513
 Reactome:R-HSA-198563 > GO:tryptophan 2,3-dioxygenase activity ; GO:0004833
 Reactome:R-HSA-198599 > GO:protein serine/threonine kinase activity ; GO:0004674
@@ -2033,8 +2033,8 @@ Reactome:R-HSA-3134804 > GO:ubiquitin-protein transferase activity ; GO:0004842
 Reactome:R-HSA-3134946 > GO:ubiquitin-protein transferase activity ; GO:0004842
 Reactome:R-HSA-3139027 > GO:peptidase activity ; GO:0008233
 Reactome:R-HSA-3149434 > GO:protein transmembrane transporter activity ; GO:0008320
-Reactome:R-HSA-3149518 > GO:[methionine synthase] reductase activity ; GO:0030586
-Reactome:R-HSA-3149519 > GO:cyanocobalamin reductase (cyanide-eliminating) activity ; GO:0033787
+Reactome:R-HSA-3149518 > GO:[methionine synthase] reductase (NADPH) activity ; GO:0030586
+Reactome:R-HSA-3149519 > GO:cyanocobalamin reductase (cyanide-eliminating) (NADP+) activity ; GO:0033787
 Reactome:R-HSA-3149539 > GO:methionine synthase activity ; GO:0008705
 Reactome:R-HSA-3159253 > GO:transferase activity, transferring alkyl or aryl (other than methyl) groups ; GO:0016765
 Reactome:R-HSA-3165230 > GO:riboflavin transmembrane transporter activity ; GO:0032217
@@ -3718,7 +3718,7 @@ Reactome:R-HSA-5691439 > GO:K63-linked deubiquitinase activity ; GO:0061578
 Reactome:R-HSA-5691507 > GO:aspartoacylase activity ; GO:0019807
 Reactome:R-HSA-5691512 > GO:serine-type endopeptidase activity ; GO:0004252
 Reactome:R-HSA-5692232 > GO:aldo-keto reductase (NADPH) activity ; GO:0004033
-Reactome:R-HSA-5692237 > GO:S-(hydroxymethyl)glutathione dehydrogenase (NAD(P)+) activity ; GO:0051903
+Reactome:R-HSA-5692237 > GO:S-(hydroxymethyl)glutathione dehydrogenase [NAD(P)+] activity ; GO:0051903
 Reactome:R-HSA-5692261 > GO:aldehyde dehydrogenase (NAD+) activity ; GO:0004029
 Reactome:R-HSA-5692283 > GO:aldehyde dehydrogenase [NAD(P)+] activity ; GO:0004030
 Reactome:R-HSA-5692462 > GO:ABC-type manganese transporter activity ; GO:0015410
@@ -4001,7 +4001,7 @@ Reactome:R-HSA-6797627 > GO:asparaginase activity ; GO:0004067
 Reactome:R-HSA-6797630 > GO:phosphatidate phosphatase activity ; GO:0008195
 Reactome:R-HSA-6797653 > GO:dimethylglycine dehydrogenase activity ; GO:0047865
 Reactome:R-HSA-6797913 > GO:sarcosine dehydrogenase activity ; GO:0008480
-Reactome:R-HSA-6797955 > GO:betaine-aldehyde dehydrogenase activity ; GO:0008802
+Reactome:R-HSA-6797955 > GO:betaine-aldehyde dehydrogenase (NAD+) activity ; GO:0008802
 Reactome:R-HSA-6797956 > GO:choline transmembrane transporter activity ; GO:0015220
 Reactome:R-HSA-6797961 > GO:choline dehydrogenase activity ; GO:0008812
 Reactome:R-HSA-6798174 > GO:1-phosphatidylinositol-3-kinase activity ; GO:0016303
@@ -4267,7 +4267,7 @@ Reactome:R-HSA-70952 > GO:2-aminoadipate transaminase activity ; GO:0047536
 Reactome:R-HSA-70967 > GO:isocitrate dehydrogenase (NAD+) activity ; GO:0004449
 Reactome:R-HSA-70971 > GO:aconitate hydratase activity ; GO:0003994
 Reactome:R-HSA-70975 > GO:citrate (Si)-synthase activity ; GO:0004108
-Reactome:R-HSA-70979 > GO:L-malate dehydrogenase activity ; GO:0030060
+Reactome:R-HSA-70979 > GO:L-malate dehydrogenase (NAD+) activity ; GO:0030060
 Reactome:R-HSA-70982 > GO:fumarate hydratase activity ; GO:0004333
 Reactome:R-HSA-70994 > GO:succinate dehydrogenase (quinone) activity ; GO:0008177
 Reactome:R-HSA-70997 > GO:succinate-CoA ligase (ADP-forming) activity ; GO:0004775
@@ -4326,7 +4326,7 @@ Reactome:R-HSA-71723 > GO:aldehyde dehydrogenase (NAD+) activity ; GO:0004029
 Reactome:R-HSA-71732 > GO:inorganic diphosphate phosphatase activity ; GO:0004427
 Reactome:R-HSA-71735 > GO:acetate-CoA ligase activity ; GO:0003987
 Reactome:R-HSA-71775 > GO:succinate-CoA ligase (GDP-forming) activity ; GO:0004776
-Reactome:R-HSA-71783 > GO:L-malate dehydrogenase activity ; GO:0030060
+Reactome:R-HSA-71783 > GO:L-malate dehydrogenase (NAD+) activity ; GO:0030060
 Reactome:R-HSA-71802 > GO:6-phosphofructo-2-kinase activity ; GO:0003873
 Reactome:R-HSA-71825 > GO:glucose-6-phosphatase activity ; GO:0004346
 Reactome:R-HSA-71849 > GO:L-lactate dehydrogenase activity ; GO:0004459
@@ -4451,7 +4451,7 @@ Reactome:R-HSA-75869 > GO:DNA-directed 5'-3' RNA polymerase activity ; GO:000389
 Reactome:R-HSA-75872 > GO:fatty acid synthase activity ; GO:0004312
 Reactome:R-HSA-75873 > GO:DNA-directed 5'-3' RNA polymerase activity ; GO:0003899
 Reactome:R-HSA-75879 > GO:glycerone-phosphate O-acyltransferase activity ; GO:0016287
-Reactome:R-HSA-75883 > GO:acylglycerone-phosphate reductase activity ; GO:0000140
+Reactome:R-HSA-75883 > GO:acylglycerone-phosphate reductase (NADP+) activity ; GO:0000140
 Reactome:R-HSA-75885 > GO:1-acylglycerol-3-phosphate O-acyltransferase activity ; GO:0003841
 Reactome:R-HSA-75886 > GO:glycerol-3-phosphate O-acyltransferase activity ; GO:0004366
 Reactome:R-HSA-75887 > GO:glycerol kinase activity ; GO:0004370

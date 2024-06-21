@@ -1,4 +1,4 @@
-! Generated on 2024-06-10T20:11Z from the ontology 'go' with data version: 'releases/2024-06-10'
+! Generated on 2024-06-18T07:46Z from the ontology 'go' with data version: 'releases/2024-06-17'
 !
 RHEA:10000 > GO:pentanamidase activity ; GO:0050168
 RHEA:10004 > GO:thiocyanate isomerase activity ; GO:0050335
@@ -141,7 +141,7 @@ RHEA:10616 > GO:leucoanthocyanidin reductase activity ; GO:0033788
 RHEA:10620 > GO:cinnamoyl-CoA reductase activity ; GO:0016621
 RHEA:10628 > GO:tRNA nucleotidyltransferase activity ; GO:0009022
 RHEA:10644 > GO:2-pyrone-4,6-dicarboxylate lactonase activity ; GO:0047554
-RHEA:10652 > GO:long-chain-aldehyde dehydrogenase activity ; GO:0050061
+RHEA:10652 > GO:long-chain fatty aldehyde dehydrogenase (NAD+) activity ; GO:0050061
 RHEA:10656 > GO:guanidinoacetate N-methyltransferase activity ; GO:0030731
 RHEA:10660 > GO:protein-serine epimerase activity ; GO:0018365
 RHEA:10664 > GO:perillyl-alcohol dehydrogenase (NAD+) activity ; GO:0018457
@@ -175,10 +175,10 @@ RHEA:10804 > GO:allantoin racemase activity ; GO:0047653
 RHEA:10812 > GO:succinylglutamate-semialdehyde dehydrogenase activity ; GO:0043824
 RHEA:10816 > GO:1,2-alpha-L-fucosidase activity ; GO:0047513
 RHEA:10820 > GO:isocitrate epimerase activity ; GO:0047755
-RHEA:10824 > GO:malate dehydrogenase (NADP+) activity ; GO:0046554
+RHEA:10824 > GO:L-malate dehydrogenase (NADP+) activity ; GO:0046554
 RHEA:10828 > GO:anthranilate-CoA ligase activity ; GO:0018860
 RHEA:10832 > GO:glycosylphosphatidylinositol phospholipase D activity ; GO:0004621
-RHEA:10836 > GO:questin monooxygenase activity ; GO:0050246
+RHEA:10836 > GO:questin monooxygenase (NADPH) activity ; GO:0050246
 RHEA:10840 > GO:threonine synthase activity ; GO:0004795
 RHEA:10844 > GO:pyridoxamine-oxaloacetate transaminase activity ; GO:0019162
 RHEA:10864 > GO:3-hydroxy-2-methylpyridinecarboxylate dioxygenase activity ; GO:0047081
@@ -191,7 +191,6 @@ RHEA:10896 > GO:limonin-D-ring-lactonase activity ; GO:0050055
 RHEA:10900 > GO:aromatic-amino-acid-glyoxylate transaminase activity ; GO:0047313
 RHEA:10912 > GO:pantoate-beta-alanine ligase activity ; GO:0004592
 RHEA:10924 > GO:2-chloro-4-carboxymethylenebut-2-en-1,4-olide isomerase activity ; GO:0047466
-RHEA:10928 > GO:ent-kaur-16-en-19-al oxidase activity ; GO:0052617
 RHEA:10932 > GO:argininosuccinate synthase activity ; GO:0004055
 RHEA:10936 > GO:thiosulfate dehydrogenase (quinone) activity ; GO:0043831
 RHEA:10940 > GO:(R)-limonene synthase activity ; GO:0034002
@@ -365,7 +364,7 @@ RHEA:11756 > GO:biotin-[acetyl-CoA-carboxylase] ligase activity ; GO:0004077
 RHEA:11764 > GO:methylguanidinase activity ; GO:0050098
 RHEA:11768 > GO:anthranilate phosphoribosyltransferase activity ; GO:0004048
 RHEA:11772 > GO:6-pyruvoyltetrahydropterin 2'-reductase activity ; GO:0047028
-RHEA:11776 > GO:stearoyl-[acp] desaturase activity ; GO:0102786
+RHEA:11776 > GO:stearoyl-[ACP] desaturase activity ; GO:0045300
 RHEA:11780 > GO:galactosylxylosylprotein 3-beta-galactosyltransferase activity ; GO:0047220
 RHEA:11784 > GO:aspartate dehydrogenase activity ; GO:0033735
 RHEA:11788 > GO:aspartate dehydrogenase activity ; GO:0033735
@@ -412,7 +411,7 @@ RHEA:11980 > GO:bis-gamma-glutamylcystine reductase activity ; GO:0047135
 RHEA:11984 > GO:progesterone monooxygenase activity ; GO:0050214
 RHEA:11988 > GO:cyclopropane-fatty-acyl-phospholipid synthase activity ; GO:0008825
 RHEA:11992 > GO:L-pipecolate oxidase activity ; GO:0050031
-RHEA:11996 > GO:2-hydroxybiphenyl 3-monooxygenase activity ; GO:0047544
+RHEA:11996 > GO:2-hydroxybiphenyl 3-monooxygenase (NADH) activity ; GO:0047544
 RHEA:12000 > GO:formate dehydrogenase (NADP+) activity ; GO:0047899
 RHEA:12004 > GO:indoxyl-UDPG glucosyltransferase activity ; GO:0050507
 RHEA:12008 > GO:G protein-coupled receptor kinase activity ; GO:0004703
@@ -475,6 +474,7 @@ RHEA:12292 > GO:serine-tRNA ligase activity ; GO:0004828
 RHEA:12296 > GO:deacetylipecoside synthase activity ; GO:0050557
 RHEA:12300 > GO:tRNA-uridine aminocarboxypropyltransferase activity ; GO:0016432
 RHEA:12308 > GO:L-aminoadipate-semialdehyde dehydrogenase activity ; GO:0004043
+RHEA:12312 > GO:dibenzothiophene sulfone monooxygenase (NADH) activity ; GO:0018679
 RHEA:12316 > GO:phosphatidylinositol-3-phosphate phosphatase activity ; GO:0004438
 RHEA:12320 > GO:1,2-dihydrovomilenine reductase activity ; GO:0050615
 RHEA:12324 > GO:beta-aspartyl-N-acetylglucosaminidase activity ; GO:0047406
@@ -556,7 +556,7 @@ RHEA:12677 > GO:Latia-luciferin monooxygenase (demethylating) activity ; GO:0047
 RHEA:12681 > GO:creatinine deaminase activity ; GO:0047790
 RHEA:12693 > GO:L-mimosine synthase activity ; GO:0050461
 RHEA:12697 > GO:T2-induced deoxynucleotide kinase activity ; GO:0050316
-RHEA:12701 > GO:ribonucleoside-triphosphate reductase activity ; GO:0008998
+RHEA:12701 > GO:ribonucleoside-triphosphate reductase (thioredoxin) activity ; GO:0008998
 RHEA:12705 > GO:protein-L-isoaspartate (D-aspartate) O-methyltransferase activity ; GO:0004719
 RHEA:12709 > GO:1-phosphatidylinositol-3-kinase activity ; GO:0016303
 RHEA:12713 > GO:nucleotide diphosphokinase activity ; GO:0050148
@@ -748,8 +748,8 @@ RHEA:13621 > GO:(1,4)-alpha-D-glucan 1-alpha-D-glucosylmutase activity ; GO:0047
 RHEA:13625 > GO:cytokinin dehydrogenase activity ; GO:0019139
 RHEA:13629 > GO:carveol dehydrogenase activity ; GO:0018459
 RHEA:13633 > GO:glutamate-putrescine ligase activity ; GO:0034024
-RHEA:13637 > GO:methane monooxygenase NADH activity ; GO:0106317
-RHEA:13641 > GO:methane monooxygenase NADPH activity ; GO:0106318
+RHEA:13637 > GO:methane monooxygenase [NAD(P)H] activity ; GO:0015049
+RHEA:13641 > GO:methane monooxygenase [NAD(P)H] activity ; GO:0015049
 RHEA:13653 > GO:levansucrase activity ; GO:0050053
 RHEA:13657 > GO:[citrate-(pro-3S)-lyase] thiolesterase activity ; GO:0047778
 RHEA:13661 > GO:formimidoylaspartate deiminase activity ; GO:0050414
@@ -788,7 +788,7 @@ RHEA:13809 > GO:aspulvinone dimethylallyltransferase activity ; GO:0047691
 RHEA:13813 > GO:benzene 1,2-dioxygenase activity ; GO:0018619
 RHEA:13821 > GO:glutarate dioxygenase activity ; GO:0106343
 RHEA:13837 > GO:phthalate 4,5-cis-dihydrodiol dehydrogenase activity ; GO:0018517
-RHEA:13841 > GO:diferric-transferrin reductase activity ; GO:0047852
+RHEA:13841 > GO:diferric-transferrin reductase (NAD+) activity ; GO:0047852
 RHEA:13845 > GO:dihydroxyfumarate decarboxylase activity ; GO:0047858
 RHEA:13849 > GO:arabinose isomerase activity ; GO:0008790
 RHEA:13853 > GO:4-methyleneglutamate-ammonia ligase activity ; GO:0047581
@@ -886,7 +886,7 @@ RHEA:14261 > GO:glucarolactone O-hydroxycinnamoyltransferase activity ; GO:00471
 RHEA:14265 > GO:glutamate-1-semialdehyde 2,1-aminomutase activity ; GO:0042286
 RHEA:14269 > GO:NADPH:quinone reductase activity ; GO:0003960
 RHEA:14273 > GO:spermidine dehydrogenase activity ; GO:0050289
-RHEA:14277 > GO:lactaldehyde dehydrogenase activity ; GO:0008911
+RHEA:14277 > GO:lactaldehyde dehydrogenase (NAD+) activity ; GO:0008911
 RHEA:14281 > GO:sulfite dehydrogenase activity ; GO:0050310
 RHEA:14285 > GO:sn-glycerol-3-phosphate 2-alpha-galactosyltransferase activity ; GO:0047221
 RHEA:14289 > GO:dicarboxylate-CoA ligase activity ; GO:0047851
@@ -906,9 +906,8 @@ RHEA:14353 > GO:3-dehydro-L-gulonate-6-phosphate decarboxylase activity ; GO:003
 RHEA:14357 > GO:riboflavin kinase activity ; GO:0008531
 RHEA:14365 > GO:ureidosuccinase activity ; GO:0050386
 RHEA:14369 > GO:phosphoglycolate phosphatase activity ; GO:0008967
-RHEA:14373 > GO:cholestanetriol 26-monooxygenase activity ; GO:0047749
 RHEA:14377 > GO:3-hydroxyaspartate aldolase activity ; GO:0047562
-RHEA:14381 > GO:gamma-guanidinobutyraldehyde dehydrogenase activity ; GO:0047107
+RHEA:14381 > GO:gamma-guanidinobutyraldehyde dehydrogenase (NAD+) activity ; GO:0047107
 RHEA:14385 > GO:dolichyldiphosphatase activity ; GO:0047874
 RHEA:14397 > GO:5-oxopent-3-ene-1,2,5-tricarboxylate decarboxylase activity ; GO:0018800
 RHEA:14401 > GO:chlordecone reductase activity ; GO:0047743
@@ -1023,6 +1022,7 @@ RHEA:14917 > GO:sterol 14-demethylase activity ; GO:0008398
 RHEA:14921 > GO:indole-3-acetate beta-glucosyltransferase activity ; GO:0047215
 RHEA:14925 > GO:mannose-6-phosphate 6-reductase activity ; GO:0050088
 RHEA:14929 > GO:testosterone dehydrogenase (NAD+) activity ; GO:0047035
+RHEA:14937 > GO:zeaxanthin epoxidase activity ; GO:0052662
 RHEA:14945 > GO:1,2-diacylglycerol 3-beta-galactosyltransferase activity ; GO:0046509
 RHEA:14949 > GO:quinoline-4-carboxylate 2-oxidoreductase activity ; GO:0047123
 RHEA:14961 > GO:S-formylglutathione hydrolase activity ; GO:0018738
@@ -1100,7 +1100,7 @@ RHEA:15285 > GO:AMP dimethylallyltransferase activity ; GO:0009824
 RHEA:15289 > GO:1,4-beta-D-xylan synthase activity ; GO:0047517
 RHEA:15297 > GO:xylosylprotein 4-beta-galactosyltransferase activity ; GO:0046525
 RHEA:15301 > GO:apiose 1-reductase activity ; GO:0047674
-RHEA:15305 > GO:betaine-aldehyde dehydrogenase activity ; GO:0008802
+RHEA:15305 > GO:betaine-aldehyde dehydrogenase (NAD+) activity ; GO:0008802
 RHEA:15309 > GO:phycocyanobilin:ferredoxin oxidoreductase activity ; GO:0050620
 RHEA:15313 > GO:ethanolamine ammonia-lyase activity ; GO:0008851
 RHEA:15317 > GO:2-deoxyglucosidase activity ; GO:0047539
@@ -1193,8 +1193,8 @@ RHEA:15773 > GO:glycerone kinase activity ; GO:0004371
 RHEA:15777 > GO:guanidinodeoxy-scyllo-inositol-4-phosphatase activity ; GO:0047383
 RHEA:15781 > GO:L-tyrosine 2,3-aminomutase activity ; GO:0050368
 RHEA:15789 > GO:L-xylose 1-dehydrogenase activity ; GO:0050037
-RHEA:15793 > GO:biliverdin reductase (NADPH) activity ; GO:0106277
-RHEA:15797 > GO:biliberdin reductase NAD+ activity ; GO:0106276
+RHEA:15793 > GO:biliverdin reductase (NADP+) activity ; GO:0106277
+RHEA:15797 > GO:biliberdin reductase (NAD+) activity ; GO:0106276
 RHEA:15801 > GO:phospholipase A2 activity ; GO:0004623
 RHEA:15805 > GO:dethiobiotin synthase activity ; GO:0004141
 RHEA:15809 > GO:R-linalool synthase activity ; GO:0034008
@@ -1262,7 +1262,7 @@ RHEA:16097 > GO:acetylpyruvate hydrolase activity ; GO:0018773
 RHEA:16101 > GO:chondroitin 4-sulfotransferase activity ; GO:0047756
 RHEA:16105 > GO:enoyl-CoA hydratase activity ; GO:0004300
 RHEA:16109 > GO:6-phosphofructokinase activity ; GO:0003872
-RHEA:16113 > GO:cyanocobalamin reductase (cyanide-eliminating) activity ; GO:0033787
+RHEA:16113 > GO:cyanocobalamin reductase (cyanide-eliminating) (NADP+) activity ; GO:0033787
 RHEA:16117 > GO:acetoacetate-CoA ligase activity ; GO:0030729
 RHEA:16121 > GO:dihydropyrimidinase activity ; GO:0004157
 RHEA:16125 > GO:fructokinase activity ; GO:0008865
@@ -1325,7 +1325,7 @@ RHEA:16405 > GO:benzyl-2-methyl-hydroxybutyrate dehydrogenase activity ; GO:0047
 RHEA:16409 > GO:vomilenine reductase activity ; GO:0050624
 RHEA:16417 > GO:1-pyrroline-5-carboxylate dehydrogenase activity ; GO:0003842
 RHEA:16421 > GO:aldehyde ferredoxin oxidoreductase activity ; GO:0033726
-RHEA:16425 > GO:formaldehyde dehydrogenase activity ; GO:0018467
+RHEA:16425 > GO:formaldehyde dehydrogenase (NAD+) activity ; GO:0018467
 RHEA:16429 > GO:UDP-N-acetylmuramoylalanine-D-glutamate ligase activity ; GO:0008764
 RHEA:16441 > GO:protein-glutamine glutaminase activity ; GO:0050568
 RHEA:16445 > GO:2-hydroxyisoflavanone dehydratase activity ; GO:0033987
@@ -1376,7 +1376,7 @@ RHEA:16661 > GO:adenosyl-fluoride synthase activity ; GO:0033846
 RHEA:16665 > GO:hepoxilin-epoxide hydrolase activity ; GO:0047977
 RHEA:16669 > GO:xanthine dehydrogenase activity ; GO:0004854
 RHEA:16673 > GO:phosphonopyruvate hydrolase activity ; GO:0033978
-RHEA:16677 > GO:fluoroacetaldehyde dehydrogenase activity ; GO:0033723
+RHEA:16677 > GO:fluoroacetaldehyde dehydrogenase (NAD+) activity ; GO:0033723
 RHEA:16685 > GO:dolichol O-acyltransferase activity ; GO:0047872
 RHEA:16689 > GO:glucose-6-phosphatase activity ; GO:0004346
 RHEA:16693 > GO:alpha-pinene-oxide decyclase activity ; GO:0018851
@@ -1503,7 +1503,7 @@ RHEA:17257 > GO:vinorine hydroxylase activity ; GO:0050596
 RHEA:17261 > GO:arylsulfatase activity ; GO:0004065
 RHEA:17265 > GO:aconitate delta-isomerase activity ; GO:0047614
 RHEA:17269 > GO:macrocin O-methyltransferase activity ; GO:0030769
-RHEA:17273 > GO:4-hydroxyphenylacetaldehyde dehydrogenase activity ; GO:0047106
+RHEA:17273 > GO:4-hydroxyphenylacetaldehyde dehydrogenase (NAD+) activity ; GO:0047106
 RHEA:17277 > GO:phosphogluconate dehydratase activity ; GO:0004456
 RHEA:17281 > GO:ectoine synthase activity ; GO:0033990
 RHEA:17289 > GO:fructose-2,6-bisphosphate 2-phosphatase activity ; GO:0004331
@@ -1519,7 +1519,7 @@ RHEA:17325 > GO:2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransfera
 RHEA:17329 > GO:(+)-borneol dehydrogenase activity ; GO:0047500
 RHEA:17333 > GO:zeatin 9-aminocarboxyethyltransferase activity ; GO:0050447
 RHEA:17337 > GO:catechol 2,3-dioxygenase activity ; GO:0018577
-RHEA:17341 > GO:acylglycerone-phosphate reductase activity ; GO:0000140
+RHEA:17341 > GO:acylglycerone-phosphate reductase (NADP+) activity ; GO:0000140
 RHEA:17345 > GO:(S)-methylmalonyl-CoA hydrolase activity ; GO:0047511
 RHEA:17357 > GO:thiol oxidase activity ; GO:0016972
 RHEA:17361 > GO:N-malonylurea hydrolase activity ; GO:0033970
@@ -1735,7 +1735,7 @@ RHEA:18349 > GO:aspartate-tRNA(Asn) ligase activity ; GO:0050560
 RHEA:18353 > GO:P-type sodium:potassium-exchanging transporter activity ; GO:0005391
 RHEA:18357 > GO:tropine dehydrogenase activity ; GO:0050356
 RHEA:18361 > GO:dolichyl-xylosyl-phosphate-protein xylosyltransferase activity ; GO:0047284
-RHEA:18365 > GO:D-malate dehydrogenase (decarboxylating) activity ; GO:0046553
+RHEA:18365 > GO:D-malate dehydrogenase (decarboxylating) (NAD+) activity ; GO:0046553
 RHEA:18369 > GO:glycerol-3-phosphate oxidase activity ; GO:0004369
 RHEA:18373 > GO:1-phosphatidylinositol-4-phosphate 3-kinase activity ; GO:0035005
 RHEA:18377 > GO:streptomycin 3''-kinase activity ; GO:0050299
@@ -1775,7 +1775,7 @@ RHEA:18521 > GO:licodione 2'-O-methyltransferase activity ; GO:0030751
 RHEA:18525 > GO:3-methylbutanal reductase (NADPH) activity ; GO:0052675
 RHEA:18529 > GO:3-methylbutanal reductase (NADH) activity ; GO:0052676
 RHEA:18533 > GO:5-hydroxy-L-tryptophan decarboxylase activity ; GO:0036467
-RHEA:18537 > GO:salicylaldehyde dehydrogenase activity ; GO:0018485
+RHEA:18537 > GO:salicylaldehyde dehydrogenase (NAD+) activity ; GO:0018485
 RHEA:18541 > GO:10-hydroxydihydrosanguinarine 10-O-methyltransferase activity ; GO:0030779
 RHEA:18545 > GO:2-dehydro-3-deoxy-L-pentonate aldolase activity ; GO:0047438
 RHEA:18549 > GO:glycogen (starch) synthase activity ; GO:0004373
@@ -1883,7 +1883,7 @@ RHEA:19073 > GO:IkappaB kinase activity ; GO:0008384
 RHEA:19081 > GO:haloalkane dehalogenase activity ; GO:0018786
 RHEA:19085 > GO:dTDP-4-amino-4,6-dideoxy-D-glucose transaminase activity ; GO:0019179
 RHEA:19101 > GO:2-alkyn-1-ol dehydrogenase activity ; GO:0047535
-RHEA:19105 > GO:aminobutyraldehyde dehydrogenase activity ; GO:0019145
+RHEA:19105 > GO:aminobutyraldehyde dehydrogenase (NAD+) activity ; GO:0019145
 RHEA:19109 > GO:beta-glucogallin-tetrakisgalloylglucose O-galloyltransferase activity ; GO:0047176
 RHEA:19117 > GO:dopamine beta-monooxygenase activity ; GO:0004500
 RHEA:19121 > GO:ABC-type glutathione S-conjugate transporter activity ; GO:0015431
@@ -1924,7 +1924,7 @@ RHEA:19265 > GO:carnitine 3-dehydrogenase activity ; GO:0047728
 RHEA:19269 > GO:2-furoate-CoA ligase activity ; GO:0047541
 RHEA:19273 > GO:N-acetylneuraminate synthase activity ; GO:0050462
 RHEA:19277 > GO:pyrrolysyl-tRNA synthetase activity ; GO:0043767
-RHEA:19281 > GO:psoralen synthase activity ; GO:0102876
+RHEA:19281 > GO:psoralen synthase (NADPH) activity ; GO:0102876
 RHEA:19285 > GO:phosphatidylcholine-dolichol O-acyltransferase activity ; GO:0047199
 RHEA:19289 > GO:sucrose-phosphate phosphatase activity ; GO:0050307
 RHEA:19293 > GO:acylglycerol kinase activity ; GO:0047620
@@ -2081,7 +2081,7 @@ RHEA:19989 > GO:S-methyl-5-thioribose-1-phosphate isomerase activity ; GO:004652
 RHEA:19993 > GO:L-methionine:thioredoxin-disulfide S-oxidoreductase activity ; GO:0033744
 RHEA:19995 > GO:L-methionine-(S)-S-oxide reductase activity ; GO:0036456
 RHEA:19997 > GO:phosphoenolpyruvate phosphatase activity ; GO:0050189
-RHEA:20001 > GO:glycolaldehyde dehydrogenase activity ; GO:0050569
+RHEA:20001 > GO:glycolaldehyde dehydrogenase (NAD+) activity ; GO:0050569
 RHEA:20005 > GO:alpha-glucuronidase activity ; GO:0046559
 RHEA:20009 > GO:linamarin synthase activity ; GO:0050057
 RHEA:20013 > GO:aspartate carbamoyltransferase activity ; GO:0004070
@@ -2097,7 +2097,7 @@ RHEA:20049 > GO:phosphoribosyl-AMP cyclohydrolase activity ; GO:0004635
 RHEA:20053 > GO:ribitol 2-dehydrogenase (NAD+) activity ; GO:0050255
 RHEA:20057 > GO:N-carbamoylsarcosine amidase activity ; GO:0050127
 RHEA:20061 > GO:deoxycytidine kinase activity ; GO:0004137
-RHEA:20065 > GO:2'-deoxymugineic-acid 3-dioxygenase activity ; GO:0052860
+RHEA:20065 > GO:mugineic-acid 3-dioxygenase activity ; GO:0033761
 RHEA:20069 > GO:phenylacetaldoxime dehydratase activity ; GO:0018814
 RHEA:20077 > GO:tRNA (guanine(18)-2'-O)-methyltransferase activity ; GO:0141100
 RHEA:20081 > GO:alkylamidase activity ; GO:0047648
@@ -2148,7 +2148,7 @@ RHEA:20289 > GO:acetyl-CoA hydrolase activity ; GO:0003986
 RHEA:20293 > GO:diiodophenylpyruvate reductase activity ; GO:0047860
 RHEA:20297 > GO:aryl-acylamidase activity ; GO:0047680
 RHEA:20301 > GO:arginine-tRNA ligase activity ; GO:0004814
-RHEA:20305 > GO:4-hydroxybenzaldehyde dehydrogenase activity ; GO:0018484
+RHEA:20305 > GO:4-hydroxybenzaldehyde dehydrogenase (NAD+) activity ; GO:0018484
 RHEA:20309 > GO:catalase activity ; GO:0004096
 RHEA:20313 > GO:inositol pentakisphosphate 2-kinase activity ; GO:0035299
 RHEA:20325 > GO:aromatic-hydroxylamine O-acetyltransferase activity ; GO:0047188
@@ -2298,7 +2298,7 @@ RHEA:21020 > GO:chorismate synthase activity ; GO:0004107
 RHEA:21024 > GO:glyoxylate dehydrogenase (acylating) activity ; GO:0047968
 RHEA:21032 > GO:glucuronosyltransferase activity ; GO:0015020
 RHEA:21036 > GO:acetyl-CoA C-acetyltransferase activity ; GO:0003985
-RHEA:21040 > GO:carbon-monoxide dehydrogenase (acceptor) activity ; GO:0018492
+RHEA:21040 > GO:anaerobic carbon-monoxide dehydrogenase activity ; GO:0043885
 RHEA:21044 > GO:24-methylenesterol C-methyltransferase activity ; GO:0030797
 RHEA:21052 > GO:2-(S)-hydroxypropyl-CoM dehydrogenase activity ; GO:0050575
 RHEA:21060 > GO:3,4-dichloroaniline N-malonyltransferase activity ; GO:0047163
@@ -2357,7 +2357,6 @@ RHEA:21288 > GO:glycerol-3-phosphate-glucose phosphotransferase activity ; GO:00
 RHEA:21292 > GO:1-phosphatidylinositol-4,5-bisphosphate 3-kinase activity ; GO:0046934
 RHEA:21296 > GO:galactose 1-dehydrogenase activity ; GO:0019151
 RHEA:21300 > GO:cerebroside-sulfatase activity ; GO:0004098
-RHEA:21304 > GO:ent-kaur-16-en-19-ol oxidase activity ; GO:0052616
 RHEA:21308 > GO:cycloartenol synthase activity ; GO:0016871
 RHEA:21312 > GO:gentisate decarboxylase activity ; GO:0047923
 RHEA:21316 > GO:phorbol-diester hydrolase activity ; GO:0050181
@@ -2376,7 +2375,7 @@ RHEA:21376 > GO:4-hydroxymandelate synthase activity ; GO:0050585
 RHEA:21380 > GO:phytanate-CoA ligase activity ; GO:0050197
 RHEA:21384 > GO:phenylalanine ammonia-lyase activity ; GO:0045548
 RHEA:21388 > GO:L-lysine-lactamase activity ; GO:0050028
-RHEA:21392 > GO:phenylacetaldehyde dehydrogenase activity ; GO:0008957
+RHEA:21392 > GO:phenylacetaldehyde dehydrogenase (NAD+) activity ; GO:0008957
 RHEA:21400 > GO:oxoglutarate dehydrogenase (NADP+) activity ; GO:0050164
 RHEA:21404 > GO:chlorite O2-lyase activity ; GO:0050587
 RHEA:21408 > GO:phenylalanine dehydrogenase activity ; GO:0050175
@@ -2385,7 +2384,7 @@ RHEA:21416 > GO:glycerol-1-phosphate dehydrogenase (NADP+) activity ; GO:0106358
 RHEA:21420 > GO:15-hydroxyprostaglandin-I dehydrogenase (NADP+) activity ; GO:0047033
 RHEA:21424 > GO:3alpha,7alpha,12beta-trihydroxy-5beta-cholanate dehydrogenase activity ; GO:0047521
 RHEA:21428 > GO:sulfolactate sulfo-lyase activity ; GO:0034010
-RHEA:21432 > GO:L-malate dehydrogenase activity ; GO:0030060
+RHEA:21432 > GO:L-malate dehydrogenase (NAD+) activity ; GO:0030060
 RHEA:21436 > GO:elongation factor-2 kinase activity ; GO:0004686
 RHEA:21440 > GO:aldehyde oxygenase (deformylating) activity ; GO:0071771
 RHEA:21444 > GO:2-coumarate reductase activity ; GO:0047788
@@ -2697,7 +2696,7 @@ RHEA:22884 > GO:methionine-glyoxylate transaminase activity ; GO:0050094
 RHEA:22888 > GO:methylmalonyl-CoA mutase activity ; GO:0004494
 RHEA:22892 > GO:methylenetetrahydrofolate dehydrogenase (NAD+) activity ; GO:0004487
 RHEA:22896 > GO:fatty-acyl-CoA synthase activity ; GO:0004321
-RHEA:22900 > GO:diacetyl reductase ((R)-acetoin forming) activity ; GO:0052587
+RHEA:22900 > GO:diacetyl reductase ((R)-acetoin forming) (NAD+) activity ; GO:0052587
 RHEA:22908 > GO:cAMP deaminase activity ; GO:0090612
 RHEA:22912 > GO:valine-pyruvate transaminase activity ; GO:0009042
 RHEA:22916 > GO:4-hydroxyacetophenone monooxygenase activity ; GO:0033767
@@ -2901,7 +2900,7 @@ RHEA:23836 > GO:D-methionine-pyruvate transaminase activity ; GO:0047306
 RHEA:23840 > GO:3-carboxyethylcatechol 2,3-dioxygenase activity ; GO:0047070
 RHEA:23844 > GO:sedoheptulokinase activity ; GO:0050277
 RHEA:23852 > GO:catechol 1,2-dioxygenase activity ; GO:0018576
-RHEA:23856 > GO:mercury (II) reductase activity ; GO:0016152
+RHEA:23856 > GO:mercury (II) reductase (NADP+) activity ; GO:0016152
 RHEA:23860 > GO:deacetylcephalosporin-C acetyltransferase activity ; GO:0033813
 RHEA:23864 > GO:2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase activity ; GO:0008685
 RHEA:23868 > GO:(1-hydroxycyclohexan-1-yl)acetyl-CoA lyase activity ; GO:0047446
@@ -2913,7 +2912,7 @@ RHEA:23888 > GO:cyanophycin synthetase activity (L-arginine-adding) ; GO:0071161
 RHEA:23892 > GO:beta-nitroacrylate reductase activity ; GO:0047703
 RHEA:23896 > GO:4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase activity ; GO:0008697
 RHEA:23900 > GO:cis-stilbene-oxide hydrolase activity ; GO:0033961
-RHEA:23908 > GO:[methionine synthase] reductase activity ; GO:0030586
+RHEA:23908 > GO:[methionine synthase] reductase (NADPH) activity ; GO:0030586
 RHEA:23916 > GO:UDP-glucuronate decarboxylase activity ; GO:0048040
 RHEA:23920 > GO:(S)-2-(5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido) succinate lyase (fumarate-forming) activity ; GO:0070626
 RHEA:23928 > GO:acetylspermidine deacetylase activity ; GO:0047611
@@ -2991,7 +2990,7 @@ RHEA:24288 > GO:glycine formimidoyltransferase activity ; GO:0030408
 RHEA:24292 > GO:acetyl-CoA:L-glutamate N-acetyltransferase activity ; GO:0004042
 RHEA:24296 > GO:dihydroorotase activity ; GO:0004151
 RHEA:24304 > GO:glycine dehydrogenase (decarboxylating) activity ; GO:0004375
-RHEA:24308 > GO:27-hydroxycholesterol 7-alpha-monooxygenase activity ; GO:0047092
+RHEA:24308 > GO:25-hydroxycholesterol 7alpha-hydroxylase activity ; GO:0033783
 RHEA:24312 > GO:[cytochrome c]-lysine N-methyltransferase activity ; GO:0000277
 RHEA:24316 > GO:copalyl diphosphate synthase activity ; GO:0050559
 RHEA:24324 > GO:6-oxocineole dehydrogenase activity ; GO:0047597
@@ -3087,6 +3086,7 @@ RHEA:25037 > GO:L-seryl-tRNA(Sec) kinase activity ; GO:0043915
 RHEA:25041 > GO:O-phosphoseryl-tRNA(Sec) selenium transferase activity ; GO:0098621
 RHEA:25046 > GO:2-hydroxy-6-oxonona-2,4,7-trienedioate hydrolase activity ; GO:0052823
 RHEA:25062 > GO:2,3-dihydroxy-2,3-dihydro-phenylpropionate dehydrogenase activity ; GO:0018498
+RHEA:25066 > GO:2,3-dihydroxy-2,3-dihydro-phenylpropionate dehydrogenase activity ; GO:0018498
 RHEA:25074 > GO:allene oxide synthase activity ; GO:0009978
 RHEA:25075 > GO:allene oxide synthase activity ; GO:0009978
 RHEA:25094 > GO:dCMP kinase activity ; GO:0036431
@@ -3108,7 +3108,7 @@ RHEA:25273 > GO:UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--D-lysine ligase activ
 RHEA:25277 > GO:3',5'-cyclic-AMP phosphodiesterase activity ; GO:0004115
 RHEA:25282 > GO:squalene monooxygenase activity ; GO:0004506
 RHEA:25286 > GO:sterol 14-demethylase activity ; GO:0008398
-RHEA:25294 > GO:glyceraldehyde-3-phosphate dehydrogenase (NAD+) (non-phosphorylating) activity ; GO:0043878
+RHEA:25294 > GO:aldehyde dehydrogenase (NAD+) activity ; GO:0004029
 RHEA:25302 > GO:dihydroneopterin triphosphate pyrophosphohydrolase activity ; GO:0019177
 RHEA:25306 > GO:dihydroneopterin monophosphate phosphatase activity ; GO:0019176
 RHEA:25321 > GO:phosphomethylethanolamine N-methyltransferase activity ; GO:0052667
@@ -3244,10 +3244,11 @@ RHEA:26530 > GO:4-hydroxybutanoyl-CoA dehydratase activity ; GO:0043721
 RHEA:26534 > GO:3-hydroxypropionyl-CoA synthetase activity ; GO:0043955
 RHEA:26562 > GO:1,4-dihydroxy-2-naphthoyl-CoA synthase activity ; GO:0008935
 RHEA:27282 > GO:2-amino-5-formylamino-6-(5-phosphoribosylamino)pyrimidin-4(3H)-one formate-lyase activity ; GO:0043729
-RHEA:27286 > GO:diacetyl reductase ((S)-acetoin forming) activity ; GO:0052588
+RHEA:27286 > GO:diacetyl reductase ((S)-acetoin forming) (NAD+) activity ; GO:0052588
 RHEA:27294 > GO:glucose-6-phosphate dehydrogenase (coenzyme F420) activity ; GO:0052749
+RHEA:27298 > GO:2-formylbenzoate dehydrogenase (NAD+) activity ; GO:0018474
 RHEA:27310 > GO:1,2-dihydroxynaphthalene dioxygenase activity ; GO:0018554
-RHEA:27321 > GO:3-epi-6-deoxocathasterone C-23 hydroxylase activity ; GO:0102136
+RHEA:27321 > GO:(22S)-22-hydroxy-5alpha-campestan-3-one C-23 hydroxylase activity ; GO:0102097
 RHEA:27325 > GO:(22S)-22-hydroxy-5alpha-campestan-3-one C-23 hydroxylase activity ; GO:0102097
 RHEA:27329 > GO:FAD-dependent urate hydroxylase activity ; GO:0102099
 RHEA:27333 > GO:6-hydroxynicotinate 3-monooxygenase activity ; GO:0043731
@@ -3303,6 +3304,8 @@ RHEA:27798 > GO:octaprenyl pyrophosphate synthase activity ; GO:0106350
 RHEA:27802 > GO:all-trans-decaprenyl-diphosphate synthase activity ; GO:0097269
 RHEA:27810 > GO:2-cis,6-cis-farnesyl pyrophosphate synthase activity ; GO:0102059
 RHEA:27822 > GO:O-acetylhomoserine sulfhydrylase activity ; GO:0051009
+RHEA:27838 > GO:carbazole 1,9a-dioxygenase [NAD(P)H] activity ; GO:0018564
+RHEA:27842 > GO:carbazole 1,9a-dioxygenase [NAD(P)H] activity ; GO:0018564
 RHEA:27850 > GO:phenylacetyl-coenzyme A:glycine N-acyltransferase activity ; GO:0102080
 RHEA:27854 > GO:4-hydroxybenzoate geranyltransferase activity ; GO:0102930
 RHEA:27870 > GO:2-hydroxy-6-oxo-6-(2'-aminophenyl)-hexa-2,4dienoate hydrolase activity ; GO:0102139
@@ -3403,6 +3406,7 @@ RHEA:28967 > GO:proline:sodium symporter activity ; GO:0005298
 RHEA:28987 > GO:sialic acid:proton symporter activity ; GO:0015538
 RHEA:29023 > GO:fucose:proton symporter activity ; GO:0015535
 RHEA:29031 > GO:glutamate:sodium symporter activity ; GO:0015501
+RHEA:29035 > GO:ATPase-coupled L-glutamate tranmembrane transporter activity ; GO:0102013
 RHEA:29043 > GO:thymidylate synthase (FAD) activity ; GO:0050797
 RHEA:29091 > GO:NADH dehydrogenase (ubiquinone) activity ; GO:0008137
 RHEA:29251 > GO:sodium:proton antiporter activity ; GO:0015385
@@ -3447,6 +3451,7 @@ RHEA:29823 > GO:chloride transmembrane transporter activity ; GO:0015108
 RHEA:29827 > GO:magnesium ion transmembrane transporter activity ; GO:0015095
 RHEA:29831 > GO:nickel cation transmembrane transporter activity ; GO:0015099
 RHEA:29871 > GO:ABC-type thiosulfate transporter activity ; GO:0102025
+RHEA:29895 > GO:ATPase-coupled L-glutamine transmembrane transporter activity ; GO:0015599
 RHEA:29899 > GO:ABC-type D-xylose transporter activity ; GO:0015614
 RHEA:29903 > GO:ABC-type D-ribose transporter activity ; GO:0015611
 RHEA:29923 > GO:lipopolysaccharide core heptosyltransferase activity ; GO:0071967
@@ -3460,6 +3465,7 @@ RHEA:30031 > GO:muconate cycloisomerase activity ; GO:0018849
 RHEA:30059 > GO:dihydroorotate dehydrogenase (fumarate) activity ; GO:1990663
 RHEA:30063 > GO:S-adenosylmethionine:2-demethylquinol-8 methyltransferase activity ; GO:0102027
 RHEA:30079 > GO:crotonobetaine-CoA ligase activity ; GO:0051109
+RHEA:30095 > GO:L-malate dehydrogenase (quinone) activity ; GO:0008924
 RHEA:30099 > GO:1,4-dihydroxy-2-naphthoate octaprenyltransferase activity ; GO:0046428
 RHEA:30187 > GO:dihydroorotate dehydrogenase (quinone) activity ; GO:0106430
 RHEA:30199 > GO:benzoyl-CoA reductase activity ; GO:0018522
@@ -3481,6 +3487,7 @@ RHEA:30303 > GO:germacrene A hydroxylase activity ; GO:0106223
 RHEA:30323 > GO:beta-carotene 3-hydroxylase activity ; GO:0052611
 RHEA:30327 > GO:beta-cryptoxanthin hydroxylase activity ; GO:0052610
 RHEA:30339 > GO:L-tryptophan decarboxylase activity ; GO:0036469
+RHEA:30351 > GO:pyrrole-2-carboxylate monooxygenase (NADH) activity ; GO:0034938
 RHEA:30359 > GO:chlorophyllide a oxygenase activity ; GO:0010277
 RHEA:30375 > GO:(+)-thujopsene synthase activity ; GO:0102879
 RHEA:30379 > GO:(+)-beta-chamigrene synthase activity ; GO:0102883
@@ -3513,6 +3520,7 @@ RHEA:30927 > GO:unsaturated rhamnogalacturonyl hydrolase activity ; GO:0102211
 RHEA:30955 > GO:9,9'-di-cis-zeta-carotene desaturase activity ; GO:0016719
 RHEA:30959 > GO:9,9'-dicis-carotene:quinone oxidoreductase activity ; GO:0052886
 RHEA:30983 > GO:endo-alpha-N-acetylgalactosaminidase activity ; GO:0033926
+RHEA:31007 > GO:beta-amyrin synthase activity ; GO:0042300
 RHEA:31031 > GO:abscisic acid glucosyltransferase activity ; GO:0010294
 RHEA:31035 > GO:arabidiol synthase activity ; GO:0034075
 RHEA:31103 > GO:folate reductase activity ; GO:0033560
@@ -3528,7 +3536,7 @@ RHEA:31335 > GO:molybdenum cofactor cytidylyltransferase activity ; GO:0061602
 RHEA:31347 > GO:abscisic acid glucose ester beta-glucosidase activity ; GO:0051993
 RHEA:31351 > GO:lupan-3beta,20-diol synthase activity ; GO:0102245
 RHEA:31355 > GO:dimethyl sulfide monooxygenase activity ; GO:0018633
-RHEA:31359 > GO:nitrilotriacetate monooxygenase activity (FMN-dependent) ; GO:0102977
+RHEA:31359 > GO:nitrilotriacetate monooxygenase activity ; GO:0018529
 RHEA:31363 > GO:8-hydroxy-5-deazaflavin:NADPH oxidoreductase activity ; GO:0102261
 RHEA:31371 > GO:2,7,4'-trihydroxyisoflavanone-4'-O-methyltransferase activity ; GO:0102670
 RHEA:31383 > GO:lupeol synthase activity ; GO:0042299
@@ -3557,10 +3565,8 @@ RHEA:31643 > GO:mycinamicin VI 2''-O-methyltransferase activity ; GO:0102302
 RHEA:31647 > GO:unsaturated chondroitin disaccharide hydrolase activity ; GO:0102212
 RHEA:31663 > GO:UDP-2-acetamido-4-amino-2,4,6-trideoxyglucose transaminase activity ; GO:0047302
 RHEA:31687 > GO:linolenate 9R-lipoxygenase activity ; GO:0102299
-RHEA:31691 > GO:linoleate 9R-lipoxygenase activity ; GO:0102300
+RHEA:31691 > GO:linolenate 9R-lipoxygenase activity ; GO:0102299
 RHEA:31711 > GO:beta-amyrin 11-oxidase activity ; GO:0102289
-RHEA:31715 > GO:beta-amyrin monooxygenase activity ; GO:0102290
-RHEA:31719 > GO:11alpha-hydroxy-beta-amyrin dehydrogenase activity ; GO:0102291
 RHEA:31723 > GO:2-hydroxyisoflavanone synthase activity ; GO:0033770
 RHEA:31731 > GO:3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase activity ; GO:0036383
 RHEA:31739 > GO:isoflavone 4'-O-methyltransferase activity ; GO:0030746
@@ -3619,6 +3625,7 @@ RHEA:32359 > GO:inositol-1,4,5-trisphosphate 6-kinase activity ; GO:0000823
 RHEA:32363 > GO:L-gulonolactone oxidase activity ; GO:0050105
 RHEA:32367 > GO:galactonolactone dehydrogenase activity ; GO:0016633
 RHEA:32371 > GO:violaxanthin de-epoxidase activity ; GO:0046422
+RHEA:32443 > GO:zeaxanthin epoxidase activity ; GO:0052662
 RHEA:32459 > GO:uroporphyrin-III C-methyltransferase activity ; GO:0004851
 RHEA:32479 > GO:iodotyrosine deiodinase activity ; GO:0140616
 RHEA:32483 > GO:pheophorbidase activity ; GO:0035560
@@ -3702,6 +3709,7 @@ RHEA:33283 > GO:2-hydroxycyclohexanone 2-monooxygenase activity ; GO:0047095
 RHEA:33299 > GO:deoxyhypusine synthase activity ; GO:0034038
 RHEA:33419 > GO:2-oxo-delta3-4,5,5-trimethylcyclopentenylacetyl-CoA synthetase activity ; GO:0018855
 RHEA:33447 > GO:4alpha-carboxy-5alpha-cholesta-8-en-3beta-ol:NAD(P)+ 3-dehydrogenase (decarboxylating) activity ; GO:0103067
+RHEA:33467 > GO:C-22 sterol desaturase (NADPH) activity ; GO:0000249
 RHEA:33503 > GO:ABC-type azole transporter activity ; GO:0140394
 RHEA:33559 > GO:glycerol-3-phosphate 2-O-acyltransferase activity ; GO:0090447
 RHEA:33627 > GO:decanoate-CoA ligase activity ; GO:0102391
@@ -3729,7 +3737,9 @@ RHEA:34135 > GO:delta9-tetrahydrocannabinolate synthase activity ; GO:0102778
 RHEA:34171 > GO:4-hydroxy-tetrahydrodipicolinate synthase activity ; GO:0008840
 RHEA:34179 > GO:mycophenolic acid acyl-glucuronide esterase activity ; GO:0102390
 RHEA:34183 > GO:abequosyltransferase activity ; GO:0047600
-RHEA:34203 > GO:butein:oxygen oxidoreductase activity ; GO:0102706
+RHEA:34195 > GO:aureusidin synthase activity ; GO:0033793
+RHEA:34199 > GO:aureusidin synthase activity ; GO:0033793
+RHEA:34203 > GO:aureusidin synthase activity ; GO:0033793
 RHEA:34223 > GO:6-hydroxypseudooxynicotine dehydrogenase activity ; GO:0034909
 RHEA:34243 > GO:molybdenum cofactor guanylyltransferase activity ; GO:0061603
 RHEA:34279 > GO:polyprenol reductase activity ; GO:0102389
@@ -3754,7 +3764,6 @@ RHEA:34511 > GO:N,N'-diacetylbacillosaminyl-diphospho-undecaprenol alpha-1,3-N-a
 RHEA:34515 > GO:N,N'-diacetylbacilliosaminyl-1-phosphate transferase activity ; GO:0102334
 RHEA:34555 > GO:L-2-hydroxycarboxylate dehydrogenase (NAD+) activity ; GO:0102443
 RHEA:34591 > GO:cobalt-precorrin-7 C15-methyltransferase activity ; GO:0043777
-RHEA:34627 > GO:3-alpha,7-alpha,12-alpha-trihydroxycholestan-26-al 26-oxidoreductase activity ; GO:0047103
 RHEA:34631 > GO:cholestanetetraol 26-dehydrogenase activity ; GO:0047748
 RHEA:34635 > GO:1-deoxy-11-oxopentalenate oxygenase activity ; GO:0102285
 RHEA:34679 > GO:alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase activity ; GO:0061693
@@ -3846,10 +3855,13 @@ RHEA:36147 > GO:acetyl-coenzyme A:acetyl alcohol acetyltransferase activity ; GO
 RHEA:36163 > GO:nicotinate phosphoribosyltransferase activity ; GO:0004516
 RHEA:36167 > GO:5'-deoxynucleotidase activity ; GO:0002953
 RHEA:36171 > GO:alkylglycerone-phosphate synthase activity ; GO:0008609
+RHEA:36175 > GO:acylglycerone-phosphate reductase (NADP+) activity ; GO:0000140
 RHEA:36227 > GO:1-alkenyl-2-acylglycerol choline phosphotransferase activity ; GO:0047359
 RHEA:36255 > GO:glyceryl-ether monooxygenase activity ; GO:0050479
 RHEA:36299 > GO:(E)-caffeate-CoA ligase activity ; GO:0106286
 RHEA:36307 > GO:feruloyl-CoA hydratase/lyase activity ; GO:0050547
+RHEA:36327 > GO:ATP/ADP dimethylallyltransferase activity ; GO:0052622
+RHEA:36331 > GO:ATP/ADP dimethylallyltransferase activity ; GO:0052622
 RHEA:36347 > GO:tRNA-4-demethylwyosine synthase activity ; GO:0102521
 RHEA:36355 > GO:tRNA 4-demethylwyosine alpha-amino-alpha-carboxypropyltransferase activity ; GO:0102522
 RHEA:36359 > GO:oxygen evolving activity ; GO:0010242
@@ -3922,6 +3934,7 @@ RHEA:39283 > GO:long-chain fatty acid transmembrane transporter activity ; GO:00
 RHEA:39287 > GO:trimethylamine methyltransferase activity ; GO:0043834
 RHEA:39651 > GO:6-hydroxycyclohex-1-ene-1-carboxyl-CoA hydratase activity ; GO:0018807
 RHEA:39747 > GO:ABC-type sterol transporter activity ; GO:0034041
+RHEA:39755 > GO:arachidonic acid omega-hydroxylase activity ; GO:0052869
 RHEA:39895 > GO:7-deoxyloganetic acid glucosyltransferase activity ; GO:0102970
 RHEA:39975 > GO:2-iminobutanoate deaminase activity ; GO:0120242
 RHEA:40027 > GO:(13S)-vitexifolin A synthase activity ; GO:0062204
@@ -3994,6 +4007,7 @@ RHEA:42716 > GO:tRNA 2-selenouridine synthase activity ; GO:0043828
 RHEA:42736 > GO:16S rRNA (guanine(1207)-N(2))-methyltransferase activity ; GO:0052914
 RHEA:42740 > GO:23S rRNA (guanine(2445)-N(2))-methyltransferase activity ; GO:0052915
 RHEA:42744 > GO:23S rRNA (guanine(1835)-N(2))-methyltransferase activity ; GO:0052916
+RHEA:42760 > GO:glyceraldehyde-3-phosphate dehydrogenase (NAD+) (non-phosphorylating) activity ; GO:0043878
 RHEA:42780 > GO:18S rRNA (adenine(1779)-N(6)/adenine(1780)-N(6))-dimethyltransferase activity ; GO:0052909
 RHEA:42784 > GO:23S rRNA (adenine(2085)-N(6))-dimethyltransferase activity ; GO:0052910
 RHEA:42800 > GO:4,4'-diapophytoene desaturase (4,4'-diaponeurosporene-forming) ; GO:0102223
@@ -4005,6 +4019,7 @@ RHEA:42900 > GO:23S rRNA (guanine(745)-N(1))-methyltransferase activity ; GO:005
 RHEA:42904 > GO:23S rRNA (guanine(748)-N(1))-methyltransferase activity ; GO:0052912
 RHEA:42916 > GO:rRNA (adenine(2503)-C2-)-methyltransferase activity ; GO:0070040
 RHEA:42968 > GO:tRNA (cytidine(56)-2'-O)-methyltransferase activity ; GO:0106059
+RHEA:43068 > GO:beta-amyrin 28-monooxygenase activity ; GO:0102373
 RHEA:43084 > GO:tRNA (cytidine(34)-2'-O)-methyltransferase activity ; GO:0141098
 RHEA:43088 > GO:tRNA (5-carboxymethylaminomethyluridine(34)-2'-O)-methyltransferase activity ; GO:0141102
 RHEA:43100 > GO:tRNA(Ser) (uridine(44)-2'-O-)-methyltransferase activity ; GO:0141101
@@ -4036,6 +4051,7 @@ RHEA:43716 > GO:[glutamine synthetase]-adenylyl-L-tyrosine phosphorylase activit
 RHEA:43724 > GO:farnesoate epoxidase activity ; GO:0120512
 RHEA:43728 > GO:methyl farnesoate epoxidase activity ; GO:0120511
 RHEA:43736 > GO:23S rRNA (adenine(2030)-N(6))-methyltransferase activity ; GO:0036307
+RHEA:43744 > GO:tRNA(Ile)-lysidine synthase activity ; GO:0032267
 RHEA:43752 > GO:peptide-alanine-alpha-N-acetyltransferase activity ; GO:0008999
 RHEA:43756 > GO:peptide-alanine-alpha-N-acetyltransferase activity ; GO:0008999
 RHEA:43764 > GO:cholate-CoA ligase activity ; GO:0047747
@@ -4062,7 +4078,7 @@ RHEA:44768 > GO:3-hexaprenyl-4-hydroxy-5-methoxybenzoic acid decarboxylase activ
 RHEA:45024 > GO:cholesterol 7-desaturase (NAD(P)H) activity ; GO:0170056
 RHEA:45084 > GO:fatty acid in-chain hydroxylase activity ; GO:0052722
 RHEA:45088 > GO:L-serine-phosphatidylcholine phosphatidyltransferase activity ; GO:0106258
-RHEA:45096 > GO:palmitoleic acid delta 12 desaturase activity ; GO:0102987
+RHEA:45096 > GO:delta12-fatty-acid desaturase activity ; GO:0102985
 RHEA:45108 > GO:alpha-tocopherol omega-hydroxylase activity ; GO:0052871
 RHEA:45140 > GO:gamma-glutamyl carboxylase activity ; GO:0008488
 RHEA:45200 > GO:methyltetrahydrofolate:corrinoid/iron-sulfur protein methyltransferase activity ; GO:0102036
@@ -4086,7 +4102,7 @@ RHEA:45892 > GO:ceramide phosphoethanolamine synthase activity ; GO:0002950
 RHEA:45896 > GO:ceramide phosphoethanolamine synthase activity ; GO:0002950
 RHEA:45900 > GO:delta(3)-delta(2)-enoyl-CoA isomerase activity ; GO:0004165
 RHEA:45948 > GO:peptide-lysine-N-acetyltransferase activity ; GO:0061733
-RHEA:46012 > GO:malate dehydrogenase (quinone) activity ; GO:0008924
+RHEA:46012 > GO:L-malate dehydrogenase (quinone) activity ; GO:0008924
 RHEA:46124 > GO:24-hydroxycholesterol 7alpha-hydroxylase activity ; GO:0033782
 RHEA:46148 > GO:deoxynucleoside triphosphate hydrolase activity ; GO:0106375
 RHEA:46160 > GO:NADH:ubiquinone reductase (non-electrogenic) activity ; GO:0050136
@@ -4095,31 +4111,32 @@ RHEA:46180 > GO:2-methylbutanoate-CoA ligase activity ; GO:0043759
 RHEA:46188 > GO:aliphatic nitrilase activity ; GO:0018762
 RHEA:46232 > GO:9,12-cis-hexadecadienoic acid delta 15 desaturase activity ; GO:0102988
 RHEA:46236 > GO:acyl-lipid omega-(9-4) desaturase activity ; GO:0102431
-RHEA:46260 > GO:di-homo-gamma-linolenate delta5 desaturase activity ; GO:0102866
+RHEA:46260 > GO:acyl-lipid (8-3)-desaturase activity ; GO:0102866
+RHEA:46264 > GO:acyl-lipid (8-3)-desaturase activity ; GO:0102866
 RHEA:46268 > GO:sphingolipid 8-(E/Z)-desaturase activity ; GO:0052631
 RHEA:46272 > GO:sphingolipid 8-(E/Z)-desaturase activity ; GO:0052631
 RHEA:46304 > GO:testosterone 16-beta-hydroxylase activity ; GO:0062184
 RHEA:46316 > GO:GDP-2,4-diacetamido-2,4,6-trideoxy-alpha-D-glucopyranose hydrolase/2-epimerase activity ; GO:0102224
-RHEA:46332 > GO:phosphatidylcholine desaturase activity ; GO:0050184
+RHEA:46332 > GO:acyl-lipid omega-6 desaturase (cytochrome b5) activity ; GO:0050184
 RHEA:46360 > GO:phosphatidylcholine 12-monooxygenase activity ; GO:0050183
-RHEA:46376 > GO:1-18:1-2-16:0-phosphatidylglycerol omega-6 desaturase activity ; GO:0102850
+RHEA:46376 > GO:acyl-lipid (n+3)-(Z)-desaturase (ferredoxin) activity ; GO:0102850
 RHEA:46396 > GO:acyl-CoA 11-(E)-desaturase activity ; GO:0050600
-RHEA:46404 > GO:1-18:1-2-18:2-phosphatidylcholine desaturase activity (SN2-18:3 forming) ; GO:0102859
-RHEA:46408 > GO:linolenate delta15 desaturase activity ; GO:0102993
-RHEA:46412 > GO:1-18:1-2-16:2-monogalactosyldiacylglycerol desaturase activity (SN2-16:3 forming) ; GO:0102842
+RHEA:46404 > GO:acyl-lipid omega-3 desaturase (cytochrome b5) activity ; GO:0102859
+RHEA:46408 > GO:sn-2 acyl-lipid omega-3 desaturase (ferredoxin) activity ; GO:0102993
+RHEA:46412 > GO:sn-2 acyl-lipid omega-3 desaturase (ferredoxin) activity ; GO:0102993
 RHEA:46420 > GO:acyl-CoA delta5-desaturase activity ; GO:0062076
 RHEA:46424 > GO:acyl-CoA delta5-desaturase activity ; GO:0062076
 RHEA:46512 > GO:dihydroceramide fatty acyl 2-hydroxylase activity ; GO:0102771
 RHEA:46536 > GO:delta6-acyl-lipid desaturase activity ; GO:0102865
 RHEA:46544 > GO:sphingolipid delta-4 desaturase activity ; GO:0042284
 RHEA:46552 > GO:acyl-lipid Delta(12)-acetylenase ; GO:0016720
-RHEA:46556 > GO:delta7-sterol 5(6)-desaturase activity ; GO:0050046
+RHEA:46576 > GO:C-22 sterol desaturase (NADPH) activity ; GO:0000249
 RHEA:46616 > GO:25-hydroxycholecalciferol-23-hydroxylase activity ; GO:0062180
 RHEA:46624 > GO:hydantoin racemase activity ; GO:0036348
 RHEA:46680 > GO:cytochrome-b5 reductase activity, acting on NAD(P)H ; GO:0004128
 RHEA:46752 > GO:7alpha-hydroxycholest-4-en-3-one 12alpha-hydroxylase activity ; GO:0033778
-RHEA:46756 > GO:1-18:2-2-16:0-monogalactosyldiacylglycerol desaturase activity (SN2-16:1 forming) ; GO:0102843
-RHEA:46764 > GO:1-18:1-2-16:0-phosphatidylglycerol trans-3 desaturase activity ; GO:0102654
+RHEA:46756 > GO:palmitoyl-[glycerolipid] 7-desaturase activity ; GO:0102843
+RHEA:46764 > GO:palmitoyl-[glycerolipid] 3-(E)-desaturase activity ; GO:0102654
 RHEA:46792 > GO:acyl-lipid (11-3)-desaturase activity ; GO:0102003
 RHEA:46796 > GO:acyl-lipid (11-3)-desaturase activity ; GO:0102003
 RHEA:46876 > GO:alginate synthase activity ; GO:0047643
@@ -4182,7 +4199,7 @@ RHEA:48884 > GO:3,8-divinyl protochlorophyllide a 8-vinyl reductase activity ; G
 RHEA:48892 > GO:[protein]-3-O-(N-acetyl-D-glucosaminyl)-L-serine/L-threonine O-N-acetyl-alpha-D-glucosaminase activity ; GO:0102571
 RHEA:48904 > GO:protein O-acetylglucosaminyltransferase activity ; GO:0097363
 RHEA:48908 > GO:protein O-acetylglucosaminyltransferase activity ; GO:0097363
-RHEA:48976 > GO:pyocyanin hydroxylase activity ; GO:0102169
+RHEA:48976 > GO:5-methylphenazine-1-carboxylate 1-monooxygenase (NADH) activity ; GO:0102169
 RHEA:48984 > GO:2,4-dichlorophenoxyacetate alpha-ketoglutarate dioxygenase activity ; GO:0018602
 RHEA:48992 > GO:trimethyluric acid monooxygenase activity ; GO:0102613
 RHEA:49064 > GO:secalciferol 1-monooxygenase activity ; GO:0062185
@@ -4205,6 +4222,7 @@ RHEA:49552 > GO:protein deglycase activity ; GO:0036524
 RHEA:49556 > GO:protein deglycase activity ; GO:0036524
 RHEA:49576 > GO:GTP 3',8'-cyclase activity ; GO:0061798
 RHEA:49580 > GO:cyclic pyranopterin monophosphate synthase activity ; GO:0061799
+RHEA:49832 > GO:fatty aldehyde dehydrogenase (NAD+) activity ; GO:0102673
 RHEA:49936 > GO:arachidonic acid 5,6-epoxygenase activity ; GO:0106301
 RHEA:50044 > GO:coenzyme A diphosphatase activity ; GO:0010945
 RHEA:50048 > GO:ABC-type bile acid transporter activity ; GO:0015432
@@ -4258,6 +4276,7 @@ RHEA:52268 > GO:3-aminomethylindole N-methyltransferase activity ; GO:0102913
 RHEA:52272 > GO:N-methyl-3-aminomethylindole N-methyltransferase activity ; GO:0102914
 RHEA:52312 > GO:11-hydroxythromboxane B2 dehydrogenase activity ; GO:0036133
 RHEA:52368 > GO:cholesterol sulfotransferase activity ; GO:0051922
+RHEA:52620 > GO:pivalyl-CoA mutase activity ; GO:0034784
 RHEA:52636 > GO:5-methylcytosine dioxygenase activity ; GO:0070579
 RHEA:52656 > GO:long-chain-3-hydroxyacyl-CoA dehydrogenase activity ; GO:0016509
 RHEA:52692 > GO:(R)-4-hydroxyphenyllactate dehydrogenase (NADP+) activity ; GO:0047029
@@ -4286,6 +4305,7 @@ RHEA:53492 > GO:tetrahydromethanopterin S-methyltransferase activity ; GO:003026
 RHEA:53544 > GO:7-hydroxymethyl chlorophyll a reductase activity ; GO:0090415
 RHEA:53828 > GO:5-methylcytosine dioxygenase activity ; GO:0070579
 RHEA:53832 > GO:5-methylcytosine dioxygenase activity ; GO:0070579
+RHEA:53868 > GO:5-methylphenazine-1-carboxylate 1-monooxygenase (NADH) activity ; GO:0102169
 RHEA:53876 > GO:tRNA N-acetyltransferase activity ; GO:0051392
 RHEA:53892 > GO:prenylcysteine oxidase activity ; GO:0001735
 RHEA:53896 > GO:alpha-N-acetylneuraminyl-2,3-beta-galactosyl-1,3-N-acetyl-galactosaminide 6-alpha-sialyltransferase activity ; GO:0047290
@@ -4300,6 +4320,9 @@ RHEA:54256 > GO:peptidyl-histidine dioxygenase activity ; GO:0036139
 RHEA:54260 > GO:[protein]-asparagine 3-dioxygenase activity ; GO:0036140
 RHEA:54288 > GO:AMPylase activity ; GO:0070733
 RHEA:54292 > GO:AMPylase activity ; GO:0070733
+RHEA:54300 > GO:N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase activity ; GO:0050659
+RHEA:54304 > GO:N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase activity ; GO:0050659
+RHEA:54320 > GO:delta7-sterol 5(6)-desaturase activity ; GO:0050046
 RHEA:54384 > GO:3-oxo-5alpha-steroid 4-dehydrogenase (NADP+) activity ; GO:0047751
 RHEA:54412 > GO:Delta4-3-oxosteroid 5beta-reductase activity ; GO:0047787
 RHEA:54420 > GO:cyclic-di-AMP phosphodiesterase activity ; GO:0106409
@@ -4332,7 +4355,8 @@ RHEA:55264 > GO:omega-hydroxyceramide transacylase activity ; GO:0106341
 RHEA:55332 > GO:quercetin 3'-O-methyltransferase activity ; GO:0102822
 RHEA:55380 > GO:3alpha-hydroxy bile acid-CoA-ester 3-dehydrogenase activity ; GO:0033792
 RHEA:55424 > GO:DMNT synthase activity ; GO:0102171
-RHEA:55440 > GO:cytochrome P450 dependent beta-amyrin 16beta-hydroxylase activity ; GO:0102601
+RHEA:55440 > GO:beta-amyrin 16beta-monooxygenase activity ; GO:0102601
+RHEA:55444 > GO:beta-amyrin 16beta-monooxygenase activity ; GO:0102601
 RHEA:55448 > GO:flavonoid 3',5'-hydroxylase activity ; GO:0033772
 RHEA:55484 > GO:ent-cassadiene-C2-hydroxylase activity ; GO:0102615
 RHEA:55524 > GO:3,4-dihydroxyphenylacetaldehyde synthase activity ; GO:0106425
@@ -4348,6 +4372,8 @@ RHEA:55772 > GO:jasmonoyl-L-amino acid ligase activity ; GO:0080123
 RHEA:55808 > GO:sphingolipid C4-monooxygenase activity ; GO:0102772
 RHEA:55856 > GO:all-trans retinoic acid 18-hydroxylase activity ; GO:0062183
 RHEA:55988 > GO:Glc3Man9GlcNAc2 oligosaccharide glucosidase activity ; GO:0004573
+RHEA:56008 > GO:mannosyl-oligosaccharide 1,2-alpha-mannosidase activity ; GO:0004571
+RHEA:56028 > GO:mannosyl-oligosaccharide 1,2-alpha-mannosidase activity ; GO:0004571
 RHEA:56052 > GO:mannosyl-oligosaccharide 1,3-1,6-alpha-mannosidase activity ; GO:0004572
 RHEA:56064 > GO:UDP-D-xylose:beta-D-glucoside alpha-1,3-D-xylosyltransferase activity ; GO:0140563
 RHEA:56136 > GO:lactoperoxidase activity ; GO:0140825
@@ -4366,6 +4392,7 @@ RHEA:56712 > GO:phosphatidylglycerol-prolipoprotein diacylglyceryl transferase a
 RHEA:56744 > GO:peptidyl-arginine 3-dioxygenase activity ; GO:0106157
 RHEA:56748 > GO:long-chain fatty acid omega-hydroxylase activity ; GO:0102033
 RHEA:56776 > GO:piperitol synthase activity ; GO:0102915
+RHEA:56780 > GO:piperitol synthase activity ; GO:0102915
 RHEA:56784 > GO:gamma-glutamyl-peptidase activity ; GO:0034722
 RHEA:56816 > GO:ribosylpyrimidine nucleosidase activity ; GO:0050263
 RHEA:56820 > GO:octat-9-en-7-ol 5-monooxygenase activity ; GO:0102606
@@ -4503,12 +4530,6 @@ RHEA:61652 > GO:2,3-dihydroxybenzoate--[aryl-carrier protein] ligase ; GO:000866
 RHEA:61656 > GO:ATP:farnesol kinase activity ; GO:0102237
 RHEA:61660 > GO:ATP:geranylgeraniol phosphotransferase activity ; GO:0102243
 RHEA:61716 > GO:ABC-type D-galactofuranose transporter ; GO:0103116
-RHEA:61828 > GO:stigmasterol UDP-glucosyltransferase activity ; GO:0051508
-RHEA:61832 > GO:beta-sitosterol UDP-glucosyltransferase activity ; GO:0051507
-RHEA:61836 > GO:ergosterol UDP-glucosyltransferase activity ; GO:0051506
-RHEA:61840 > GO:brassicasterol glucosyltransferase activity ; GO:0102203
-RHEA:61844 > GO:soladodine glucosyltransferase activity ; GO:0102202
-RHEA:61848 > GO:cholesterol alpha-glucosyltransferase activity ; GO:0102205
 RHEA:61996 > GO:peptide lactyltransferase (CoA-dependent) activity ; GO:0120300
 RHEA:62016 > GO:EGF-domain serine xylosyltransferase activity ; GO:0140562
 RHEA:62124 > GO:(deoxy)nucleoside phosphate kinase activity, GTP as phosphate donor ; GO:0106369
@@ -4539,7 +4560,7 @@ RHEA:63372 > GO:protein-cysteine S-acyltransferase activity ; GO:0019707
 RHEA:63424 > GO:phospholactate guanylyltransferase activity ; GO:0043814
 RHEA:63484 > GO:peptidyl-proline 4-dioxygenase activity ; GO:0031545
 RHEA:63500 > GO:S-nitrosoglutathione reductase (NADPH) activity ; GO:0160163
-RHEA:63512 > GO:2,2'-hydroxybiphenyl monooxygenase activity ; GO:0102321
+RHEA:63512 > GO:2-hydroxybiphenyl 3-monooxygenase (NADH) activity ; GO:0047544
 RHEA:63516 > GO:2,2',3-trihydroxybiphenyl monooxygenase activity ; GO:0102325
 RHEA:63520 > GO:2-isopropylphenol monooxygenase activity ; GO:0102323
 RHEA:63524 > GO:2-propylphenol monooxygenase activity ; GO:0102322
@@ -4595,6 +4616,7 @@ RHEA:66632 > GO:protein-arginine N-acetylglucosaminyltransferase activity ; GO:0
 RHEA:66684 > GO:peptidyl-cysteine S-nitrosylase activity ; GO:0035605
 RHEA:66692 > GO:protein-arginine rhamnosyltransferase activity ; GO:0106361
 RHEA:66820 > GO:P-type manganese transporter activity ; GO:0140613
+RHEA:66848 > GO:cupric reductase (NADH) activity ; GO:0008823
 RHEA:67004 > GO:mRNA 5'-triphosphate monophosphatase activity ; GO:0140818
 RHEA:67072 > GO:very long-chain fatty acyl-CoA hydrolase activity ; GO:0052817
 RHEA:67076 > GO:protein-L-histidine N-pros-methyltransferase activity ; GO:0106370
@@ -4618,6 +4640,7 @@ RHEA:67908 > GO:linear primary-alkylsulfatase activity ; GO:0018741
 RHEA:67916 > GO:adenosine 5'-monophosphoramidase activity ; GO:0043530
 RHEA:67952 > GO:very long-chain fatty acid omega-hydroxylase activity ; GO:0140692
 RHEA:67972 > GO:ecdysteroid 22-kinase activity ; GO:0106389
+RHEA:68004 > GO:chloroethene reductive dehalogenase activity ; GO:0018698
 RHEA:68076 > GO:RNA ligase (GTP) activity ; GO:0170057
 RHEA:68080 > GO:RNA ligase (GTP) activity ; GO:0170057
 RHEA:68100 > GO:L-xylulose reductase (NADH) activity ; GO:0044105
@@ -4626,6 +4649,7 @@ RHEA:68184 > GO:medium-chain fatty acyl-CoA hydrolase activity ; GO:0052815
 RHEA:68228 > GO:glycine:sodium symporter activity ; GO:0015375
 RHEA:68460 > GO:steroid sulfotransferase activity ; GO:0050294
 RHEA:68616 > GO:cortisol dehydrogenase activity ; GO:0102196
+RHEA:68636 > GO:sabinene synthase activity ; GO:0080015
 RHEA:68984 > GO:ATP-dependent DNA (cytosine-5-)-methyltransferase activity ; GO:0120328
 RHEA:69172 > GO:protein decrotonylase activity ; GO:0160008
 RHEA:69176 > GO:protein de-2-hydroxyisobutyrylase activity ; GO:0160010
@@ -4638,6 +4662,7 @@ RHEA:69500 > GO:ADP-riboxanase activity ; GO:0140740
 RHEA:69576 > GO:2-oxoadipate dehydrogenase activity ; GO:0160166
 RHEA:69647 > GO:beta-glucosidase activity ; GO:0008422
 RHEA:69655 > GO:beta-glucosidase activity ; GO:0008422
+RHEA:69763 > GO:medium-chain fatty aldehyde dehydrogenase (NAD+) activity ; GO:0052814
 RHEA:69819 > GO:hypotaurine dehydrogenase activity ; GO:0047822
 RHEA:69843 > GO:RNA dihydrouridine synthase activity ; GO:0106413
 RHEA:69847 > GO:RNA dihydrouridine synthase activity ; GO:0106413
@@ -4691,6 +4716,7 @@ RHEA:72395 > GO:sodium:potassium:chloride symporter activity ; GO:0008511
 RHEA:72427 > GO:potassium:chloride symporter activity ; GO:0015379
 RHEA:72627 > GO:zinc:proton antiporter activity ; GO:0140826
 RHEA:73059 > GO:calcium:manganese antiporter activity ; GO:0140983
+RHEA:74015 > GO:phenyl-phosphate phosphatase/carboxylase activity ; GO:0018862
 RHEA:75279 > GO:medium-chain fatty acid omega-hydroxylase activity ; GO:0140981
 RHEA:75355 > GO:mimosinase activity ; GO:0050101
 RHEA:75443 > GO:heme B transmembrane transporter activity ; GO:0170003
@@ -4699,6 +4725,7 @@ RHEA:75715 > GO:coenzyme A diphosphatase activity ; GO:0010945
 RHEA:75883 > GO:ADP-riboxanase activity ; GO:0140740
 RHEA:75887 > GO:ADP-riboxanase activity ; GO:0140740
 RHEA:75935 > GO:muramyl dipeptide kinase activity ; GO:0160047
+RHEA:75955 > GO:codeine O-demethylase activity ; GO:0102805
 RHEA:76443 > GO:choline:sodium symporter activity ; GO:0005307
 RHEA:76519 > GO:lipoamidase activity ; GO:0061690
 RHEA:76615 > GO:methylmalonate-semialdehyde dehydrogenase (acylating, NAD) activity ; GO:0004491

@@ -1,0 +1,22 @@
+term	file	line
+GO:0004078	ec2go	EC:6.3.4.11 > GO:biotin-[methylcrotonoyl-CoA-carboxylase] ligase activity ; GO:0004078
+GO:0004078	rhea2go	RHEA:24376 > GO:biotin-[methylcrotonoyl-CoA-carboxylase] ligase activity ; GO:0004078
+GO:0004078	metacyc2go	MetaCyc:6.3.4.11-RXN > GO:biotin-[methylcrotonoyl-CoA-carboxylase] ligase activity ; GO:0004078
+GO:0004079	ec2go	EC:6.3.4.9 > GO:biotin-[methylmalonyl-CoA-carboxytransferase] ligase activity ; GO:0004079
+GO:0004079	rhea2go	RHEA:23668 > GO:biotin-[methylmalonyl-CoA-carboxytransferase] ligase activity ; GO:0004079
+GO:0004079	metacyc2go	MetaCyc:6.3.4.9-RXN > GO:biotin-[methylmalonyl-CoA-carboxytransferase] ligase activity ; GO:0004079
+GO:0004080	ec2go	EC:6.3.4.10 > GO:biotin-[propionyl-CoA-carboxylase (ATP-hydrolyzing)] ligase activity ; GO:0004080
+GO:0004080	rhea2go	RHEA:11204 > GO:biotin-[propionyl-CoA-carboxylase (ATP-hydrolyzing)] ligase activity ; GO:0004080
+GO:0004080	metacyc2go	MetaCyc:6.3.4.10-RXN > GO:biotin-[propionyl-CoA-carboxylase (ATP-hydrolyzing)] ligase activity ; GO:0004080
+GO:0018271	ec2go	EC:6.3.4.- > GO:biotin-protein ligase activity ; GO:0018271
+GO:0018271	reactome2go	Reactome:R-HSA-2993447 > GO:biotin-protein ligase activity ; GO:0018271
+GO:0018271	reactome2go	Reactome:R-HSA-2993799 > GO:biotin-protein ligase activity ; GO:0018271
+GO:0018271	reactome2go	Reactome:R-HSA-2993802 > GO:biotin-protein ligase activity ; GO:0018271
+GO:0018271	reactome2go	Reactome:R-HSA-2993814 > GO:biotin-protein ligase activity ; GO:0018271
+GO:0018271	reactome2go	Reactome:R-HSA-3323184 > GO:biotin-protein ligase activity ; GO:0018271
+GO:0018271	reactome2go	Reactome:R-HSA-4167511 > GO:biotin-protein ligase activity ; GO:0018271
+GO:0018271	reactome2go	Reactome:R-HSA-9035987 > GO:biotin-protein ligase activity ; GO:0018271
+GO:0018271	reactome2go	Reactome:R-HSA-9035988 > GO:biotin-protein ligase activity ; GO:0018271
+GO:0018271	reactome2go	Reactome:R-HSA-9035990 > GO:biotin-protein ligase activity ; GO:0018271
+GO:0018271	metacyc2go	MetaCyc:BIOTINLIG-RXN > GO:biotin-protein ligase activity ; GO:0018271
+GO:0071734	ec2go	EC:6.3.4.- > GO:biotin-[pyruvate-carboxylase] ligase activity ; GO:0071734

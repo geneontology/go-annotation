@@ -1,10 +1,10 @@
-! Generated on 2024-06-10T20:11Z from the ontology 'go' with data version: 'releases/2024-06-10'
+! Generated on 2024-06-18T07:46Z from the ontology 'go' with data version: 'releases/2024-06-17'
 !
 UM-BBD_enzymeID:e0002 > GO:naphthalene 1,2-dioxygenase activity ; GO:0018625
 UM-BBD_enzymeID:e0003 > GO:haloalkane dehalogenase activity ; GO:0018786
 UM-BBD_enzymeID:e0004 > GO:alcohol dehydrogenase (cytochrome c) activity ; GO:0052934
 UM-BBD_enzymeID:e0006 > GO:haloacetate dehalogenase activity ; GO:0018785
-UM-BBD_enzymeID:e0007 > GO:methane monooxygenase activity ; GO:0015049
+UM-BBD_enzymeID:e0007 > GO:methane monooxygenase [NAD(P)H] activity ; GO:0015049
 UM-BBD_enzymeID:e0012 > GO:acetate CoA-transferase activity ; GO:0008775
 UM-BBD_enzymeID:e0014 > GO:enoyl-CoA hydratase activity ; GO:0004300
 UM-BBD_enzymeID:e0019 > GO:aryl-alcohol dehydrogenase (NAD+) activity ; GO:0018456
@@ -60,7 +60,6 @@ UM-BBD_enzymeID:e0190 > GO:toluate dioxygenase activity ; GO:0018611
 UM-BBD_enzymeID:e0208 > GO:phenol 2-monooxygenase activity ; GO:0018662
 UM-BBD_enzymeID:e0214 > GO:dibenzothiophene monooxygenase activity ; GO:0018640
 UM-BBD_enzymeID:e0216 > GO:2'-hydroxybiphenyl-2-sulfinate desulfinase activity ; GO:0018740
-UM-BBD_enzymeID:e0219 > GO:cis-1,2-dihydroxycyclohexa-3,5-diene-1-carboxylate dehydrogenase activity ; GO:0018508
 UM-BBD_enzymeID:e0222 > GO:toluene 2-monooxygenase activity ; GO:0018644
 UM-BBD_enzymeID:e0225 > GO:toluene 4-monooxygenase activity ; GO:0018638
 UM-BBD_enzymeID:e0229 > GO:chloral hydrate dehydrogenase activity ; GO:0018447
@@ -68,7 +67,7 @@ UM-BBD_enzymeID:e0245 > GO:nitrobenzene nitroreductase activity ; GO:0018546
 UM-BBD_enzymeID:e0249 > GO:naphthalene disulfonate 1,2-dioxygenase activity ; GO:0018689
 UM-BBD_enzymeID:e0252 > GO:chlorophenol 4-monooxygenase activity ; GO:0018642
 UM-BBD_enzymeID:e0255 > GO:1,2-dihydroxynaphthalene dioxygenase activity ; GO:0018554
-UM-BBD_enzymeID:e0256 > GO:salicylaldehyde dehydrogenase activity ; GO:0018485
+UM-BBD_enzymeID:e0256 > GO:salicylaldehyde dehydrogenase (NAD+) activity ; GO:0018485
 UM-BBD_enzymeID:e0257 > GO:trans-o-hydroxybenzylidenepyruvate hydratase-aldolase activity ; GO:0018813
 UM-BBD_enzymeID:e0259 > GO:benzylsuccinate synthase activity ; GO:0018805
 UM-BBD_enzymeID:e0271 > GO:1,1,2-trichloroethene reductive dehalogenase activity ; GO:0050697
@@ -86,10 +85,8 @@ UM-BBD_enzymeID:e0346 > GO:oxidoreductase activity, acting on other nitrogenous 
 UM-BBD_enzymeID:e0357 > GO:bromoxynil nitrilase activity ; GO:0018761
 UM-BBD_enzymeID:e0359 > GO:gamma-hexachlorocyclohexane dehydrochlorinase activity ; GO:0018830
 UM-BBD_enzymeID:e0366 > GO:2,5-dichlorohydroquinone reductive dehalogenase activity ; GO:0018701
-UM-BBD_enzymeID:e0395 > GO:nitrogenase activity ; GO:0016163
 UM-BBD_enzymeID:e0397 > GO:epoxide hydrolase activity ; GO:0004301
 UM-BBD_enzymeID:e0411 > GO:cis-chlorobenzene dihydrodiol dehydrogenase activity ; GO:0018501
-UM-BBD_enzymeID:e0415 > GO:carbon-monoxide dehydrogenase (acceptor) activity ; GO:0018492
 UM-BBD_enzymeID:e0418 > GO:ferredoxin hydrogenase activity ; GO:0008901
 UM-BBD_enzymeID:e0421 > GO:triethanolamine lyase activity ; GO:0018825
 UM-BBD_enzymeID:e0422 > GO:p-benzoquinone reductase (NADPH) activity ; GO:0018541

@@ -1,0 +1,13 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+TAIR	AGI_LocusCode:AT2G25710	HCS1	PMID:9874227|TAIR:Publication:1900		GO:0004078	biotin-[methylcrotonoyl-CoA-carboxylase] ligase activity	IDA		TAIR:locus:2050291		20110920		NCBITaxon:3702
+RGD	RGD:1565360	Hlcs	PMID:7849632|RGD:2313679		GO:0004080	biotin-[propionyl-CoA-carboxylase (ATP-hydrolyzing)] ligase activity	IDA			PANTHER:PTHR12835	20091008		NCBITaxon:10116
+UniProt	UniProtKB:P50747	HLCS	PMID:7842009		GO:0004080	biotin-[propionyl-CoA-carboxylase (ATP-hydrolyzing)] ligase activity	IDA			PANTHER:PTHR12835	20091014		NCBITaxon:9606
+CGD	CGD:CAL0000192734	BPL1	PMID:18809372|CGD_REF:CAL0120301		GO:0018271	biotin-protein ligase activity	IGI	UniProtKB:M10123		PANTHER:PTHR12835	20140625		NCBITaxon:237561
+FlyBase	FB:FBgn0037332	Hcs	PMID:17056793|FB:FBrf0192768		GO:0018271	biotin-protein ligase activity	IMP			PANTHER:PTHR12835	20220407		NCBITaxon:7227
+GO_Central	UniProtKB:P96884	birA	PMID:18509457		GO:0018271	biotin-protein ligase activity	IDA				20220405		NCBITaxon:83331
+MGI	MGI:MGI:894646	Hlcs	PMID:35385533		GO:0018271	biotin-protein ligase activity	IMP	MGI:MGI:6446223		PANTHER:PTHR12835	20230614	GO:0006768|CHEBI:15956|GO:0003989|GO:0004736	NCBITaxon:10090
+TAIR	AGI_LocusCode:AT1G37150	AT1G37150	PMID:18156294|TAIR:Publication:501723708	not	GO:0018271	biotin-protein ligase activity	IMP		TAIR:locus:2029642		20110922		NCBITaxon:3702
+UniProt	UniProtKB:P50747	HLCS	PMID:14613969		GO:0018271	biotin-protein ligase activity	IDA			PANTHER:PTHR12835	20220405		NCBITaxon:9606
+UniProt	UniProtKB:P50747	HLCS	PMID:18429047		GO:0018271	biotin-protein ligase activity	IMP			PANTHER:PTHR12835	20091014		NCBITaxon:9606
+UniProt	UniProtKB:P50747	HLCS	PMID:9630604		GO:0018271	biotin-protein ligase activity	IDA			PANTHER:PTHR12835	20091014		NCBITaxon:9606
+SGD	SGD:S000002300	BPL1	PMID:10551847		GO:0071734	biotin-[pyruvate-carboxylase] ligase activity	IDA		UniProtKB:P48445	PANTHER:PTHR12835	20100324		NCBITaxon:559292
