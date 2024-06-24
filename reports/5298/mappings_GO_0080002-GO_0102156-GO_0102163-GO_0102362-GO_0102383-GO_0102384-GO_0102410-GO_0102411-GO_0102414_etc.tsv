@@ -1,0 +1,88 @@
+term	file	line
+GO:0080002	metacyc2go	MetaCyc:RXN-6142 > GO:UDP-glucose:4-aminobenzoate acylglucosyltransferase activity ; GO:0080002
+GO:0102156	metacyc2go	MetaCyc:RXN-11705 > GO:2,5-DHBA UDP-glucosyltransferase activity ; GO:0102156
+GO:0102163	metacyc2go	MetaCyc:RXN-11785 > GO:3-hydroxyacyl-CoA-acyl carrier protein transferase activity ; GO:0102163
+GO:0102362	metacyc2go	MetaCyc:RXN-13472 > GO:esculetin 3-O-glucosyltransferase activity ; GO:0102362
+GO:0102383	metacyc2go	MetaCyc:RXN-13520 > GO:steviol 19-O glucosyltransferase activity ; GO:0102383
+GO:0102384	metacyc2go	MetaCyc:RXN-13521 > GO:19-O-beta-glucopyranosyl-steviol glucosyltransferase activity ; GO:0102384
+GO:0102410	metacyc2go	MetaCyc:RXN-13765 > GO:quercetin-4',3-O-glucosyltransferase activity ; GO:0102410
+GO:0102411	metacyc2go	MetaCyc:RXN-13766 > GO:quercetin-3,4'-O-glucosyltransferase activity ; GO:0102411
+GO:0102414	metacyc2go	MetaCyc:RXN-13797 > GO:quercetin-3-O-glucoside 1,6-glucosyltransferase activity ; GO:0102414
+GO:0102415	metacyc2go	MetaCyc:RXN-13798 > GO:quercetin gentiobioside 1,6-glucosyltransferase activity ; GO:0102415
+GO:0102416	metacyc2go	MetaCyc:RXN-13799 > GO:quercetin gentiotrioside 1,6-glucosyltransferase activity ; GO:0102416
+GO:0102417	metacyc2go	MetaCyc:RXN-13800 > GO:apigenin-7-O-glucoside 1,6-glucosyltransferase activity ; GO:0102417
+GO:0102418	metacyc2go	MetaCyc:RXN-13801 > GO:luteolin-7-O-glucoside 1,6-glucosyltransferase activity ; GO:0102418
+GO:0102421	metacyc2go	MetaCyc:RXN-13813 > GO:curcumin-4'-O-beta-D-gentiobioside 1,6-glucosyltransferase activity ; GO:0102421
+GO:0102422	metacyc2go	MetaCyc:RXN-13814 > GO:curcumin-4'-O-beta-D-gentiotrioside 1,6-glucosyltransferase activity ; GO:0102422
+GO:0102424	metacyc2go	MetaCyc:RXN-13821 > GO:sesaminol-2-O-gentiobioside 1,6-glucosyltransferase activity ; GO:0102424
+GO:0102426	metacyc2go	MetaCyc:RXN-13823 > GO:myricetin-3-O-glucoside 1,6-glucosyltransferase activity ; GO:0102426
+GO:0102428	metacyc2go	MetaCyc:RXN-13830 > GO:kaempferol-3-O-glucoside 1,6-glucosyltransferase activity ; GO:0102428
+GO:0102429	metacyc2go	MetaCyc:RXN-13831 > GO:genistein-3-O-glucoside 1,6-glucosyltransferase activity ; GO:0102429
+GO:0102460	metacyc2go	MetaCyc:RXN-14008 > GO:kaempferol 3-gentiobioside 7-O-rhamnosyltransferase activity ; GO:0102460
+GO:0102461	metacyc2go	MetaCyc:RXN-14009 > GO:kaempferol 3-sophoroside 7-O-rhamnosyltransferase activity ; GO:0102461
+GO:0102462	metacyc2go	MetaCyc:RXN-14011 > GO:quercetin 3-sophoroside 7-O-rhamnosyltransferase activity ; GO:0102462
+GO:0102463	metacyc2go	MetaCyc:RXN-14012 > GO:quercetin 3-gentiobioside 7-O-rhamnosyltransferase activity ; GO:0102463
+GO:0102484	metacyc2go	MetaCyc:RXN-14182 > GO:esculetin glucosyltransferase activity ; GO:0102484
+GO:0102504	metacyc2go	MetaCyc:RXN-14424 > GO:luteolinidin 5-O-glucosyltransferase activity ; GO:0102504
+GO:0102505	metacyc2go	MetaCyc:RXN-14427 > GO:apigeninidin 5-O-glucosyltransferase activity ; GO:0102505
+GO:0102587	metacyc2go	MetaCyc:RXN-15333 > GO:cyanidin 3-O-[2''-O-(2''-O-(sinapoyl) xylosyl) 6''-O-(p-O-(glucosyl)-p-coumaroyl) glucoside] 5-O-[6''-O-(malonyl) glucoside] sinapoylglucose glucosyltransferase activity ; GO:0102587
+GO:0102590	metacyc2go	MetaCyc:RXN-15351 > GO:delphinidin 3-O-rutinoside 7-O-glucosyltransferase (acyl-glucose dependent) activity ; GO:0102590
+GO:0102593	metacyc2go	MetaCyc:RXN-15371 > GO:UDP-glucose: N-methylanthranilate glucosyltransferase activity ; GO:0102593
+GO:0102685	metacyc2go	MetaCyc:RXN-4721 > GO:UDP-glucose:trans-zeatin 7-N-glucosyltransferase activity ; GO:0102685
+GO:0102686	metacyc2go	MetaCyc:RXN-4722 > GO:UDP-glucose:trans-zeatin 9-N-glucosyltransferase ; GO:0102686
+GO:0102687	metacyc2go	MetaCyc:RXN-4724 > GO:UDP-glucose:dihydrozeatin 7-N-glucosyltransferase activity ; GO:0102687
+GO:0102688	metacyc2go	MetaCyc:RXN-4725 > GO:dihydrozeatin UDP glycosyltransferase activity ; GO:0102688
+GO:0102689	metacyc2go	MetaCyc:RXN-4727 > GO:UDP-glucose:isopentenyladenine 7-N-glucosyltransferase activity ; GO:0102689
+GO:0102690	metacyc2go	MetaCyc:RXN-4728 > GO:isopentenyladenine UDP glycosyltransferase activity ; GO:0102690
+GO:0102691	metacyc2go	MetaCyc:RXN-4729 > GO:UDP-glucose:benzyladenine 7-N-glucosyltransferase activity ; GO:0102691
+GO:0102692	metacyc2go	MetaCyc:RXN-4730 > GO:benzyladenine UDP glycosyltransferase activity ; GO:0102692
+GO:0102693	metacyc2go	MetaCyc:RXN-4731 > GO:UDP-glucose:kinetin 7-N-glucosyltransferase activity ; GO:0102693
+GO:0102694	metacyc2go	MetaCyc:RXN-4732 > GO:kinetin UDP glycosyltransferase activity ; GO:0102694
+GO:0102695	metacyc2go	MetaCyc:RXN-4733 > GO:UDP-glucose:cis-zeatin 7-N-glucosyltransferase activity ; GO:0102695
+GO:0102696	metacyc2go	MetaCyc:RXN-4734 > GO:cis-zeatin UDP glycosyltransferase activity ; GO:0102696
+GO:0102697	metacyc2go	MetaCyc:RXN-4736 > GO:trans-zeatin-O-glucoside UDP glycosyltransferase activity ; GO:0102697
+GO:0102723	metacyc2go	MetaCyc:RXN-7062 > GO:UDP-glucose:curcumin glucosyltransferase activity ; GO:0102723
+GO:0102724	metacyc2go	MetaCyc:RXN-7063 > GO:UDP-glucose:curcumin monoglucoside glucosyltransferase activity ; GO:0102724
+GO:0102776	metacyc2go	MetaCyc:RXN-7828 > GO:UDP-D-glucose:pelargonidin-3-O-beta-D-glucoside 5-O-glucosyltransferase activity ; GO:0102776
+GO:0102789	metacyc2go	MetaCyc:RXN-8005 > GO:UDP-D-glucose:cyanidin 5-O-beta-D-glucosyltransferase activity ; GO:0102789
+GO:0102790	metacyc2go	MetaCyc:RXN-8006 > GO:cyanidin 5,3-O-glycosyltransferase activity ; GO:0102790
+GO:0102807	metacyc2go	MetaCyc:RXN-8176 > GO:cyanidin 3-O-glucoside 2''-O-glucosyltransferase activity ; GO:0102807
+GO:0102808	metacyc2go	MetaCyc:RXN-8177 > GO:pelargonidin 3-O-glucoside 2''-O-glucosyltransferase activity ; GO:0102808
+GO:0102809	metacyc2go	MetaCyc:RXN-8178 > GO:delphinidin 3-O-glucoside 2''-O-glucosyltransferase activity ; GO:0102809
+GO:0102813	metacyc2go	MetaCyc:RXN-8205 > GO:UDP-D-glucose:cyanidin 3-(p-coumaroyl)-glucoside 5-O-glucosyltransferase activity ; GO:0102813
+GO:0102823	metacyc2go	MetaCyc:RXN-8266 > GO:kaempferol-3-rhamnoside-glucosyltransferase activity ; GO:0102823
+GO:0102824	rhea2go	RHEA:61160 > GO:UDP-L-rhamnose:quercetin 3-O-rhamnosyltransferase activity ; GO:0102824
+GO:0102824	metacyc2go	MetaCyc:RXN-8267 > GO:UDP-L-rhamnose:quercetin 3-O-rhamnosyltransferase activity ; GO:0102824
+GO:0102825	metacyc2go	MetaCyc:RXN-8268 > GO:quercetin 3-O-rhamnoside-glucosyltransferase activity ; GO:0102825
+GO:0102826	metacyc2go	MetaCyc:RXN-8270 > GO:kaempferol-3-glucoside-glucosyltransferase activity ; GO:0102826
+GO:0102828	metacyc2go	MetaCyc:RXN-8284 > GO:stachyose galactinol:verbascose galactosyltransferase activity ; GO:0102828
+GO:0102829	metacyc2go	MetaCyc:RXN-8285 > GO:ajugose synthase activity ; GO:0102829
+GO:0102833	metacyc2go	MetaCyc:RXN-8292 > GO:sequoyitol galactinol:D-galactosylononitol galactosyltransferase activity ; GO:0102833
+GO:0102869	metacyc2go	MetaCyc:RXN-8354 > GO:6-hydroxyflavone-glucosyltransferase activity ; GO:0102869
+GO:0102870	metacyc2go	MetaCyc:RXN-8355 > GO:7-hydroxyflavone-glucosyltransferase activity ; GO:0102870
+GO:0102892	metacyc2go	MetaCyc:RXN-8479 > GO:betanidin 5-O-glucosyltransferase activity ; GO:0102892
+GO:0102893	metacyc2go	MetaCyc:RXN-8480 > GO:betanidin 6-O-glucosyltransferase activity ; GO:0102893
+GO:0102927	metacyc2go	MetaCyc:RXN-8883 > GO:beta-chaconine rhamnosyltransferase activity ; GO:0102927
+GO:0102928	metacyc2go	MetaCyc:RXN-8884 > GO:beta-solanine rhamnosyltransferase activity ; GO:0102928
+GO:0102935	metacyc2go	MetaCyc:RXN-9012 > GO:gypsogenin-UDP-glucosyltransferase activity ; GO:0102935
+GO:0102936	metacyc2go	MetaCyc:RXN-9013 > GO:gypsogenate-UDP-glucosyltransferase activity ; GO:0102936
+GO:0102944	metacyc2go	MetaCyc:RXN-9035 > GO:medicagenate UDP-glucosyltransferase activity ; GO:0102944
+GO:0102945	metacyc2go	MetaCyc:RXN-9037 > GO:soyasapogenol B UDP-glucosyl transferase activity ; GO:0102945
+GO:0102946	metacyc2go	MetaCyc:RXN-9038 > GO:soyasapogenol E UDP-glucosyltransferase activity ; GO:0102946
+GO:0102948	metacyc2go	MetaCyc:RXN-9081 > GO:luteolin C-glucosyltransferase activity ; GO:0102948
+GO:0102952	rhea2go	RHEA:57708 > GO:UDP-glucose:coniferaldehyde 4-beta-D-glucosyltransferase activity ; GO:0102952
+GO:0102952	metacyc2go	MetaCyc:RXN-91 > GO:UDP-glucose:coniferaldehyde 4-beta-D-glucosyltransferase activity ; GO:0102952
+GO:0102956	rhea2go	RHEA:57712 > GO:UDP-glucose:sinapaldehyde 4-beta-D-glucosyltransferase activity ; GO:0102956
+GO:0102956	metacyc2go	MetaCyc:RXN-92 > GO:UDP-glucose:sinapaldehyde 4-beta-D-glucosyltransferase activity ; GO:0102956
+GO:0102999	metacyc2go	MetaCyc:RXN-9743 > GO:UDP-glucose:2-hydroxylamino-4,6-dinitrotoluene-O-glucosyltransferase activity ; GO:0102999
+GO:0103000	metacyc2go	MetaCyc:RXN-9748 > GO:UDP-glucose:4-hydroxylamino-2,6-dinitrotoluene-O-glucosyltransferase activity ; GO:0103000
+GO:0103058	metacyc2go	MetaCyc:RXN1F-443 > GO:kaempferol 3-glucoside 7-O-rhamnosyltransferase activity ; GO:0103058
+GO:0103059	rhea2go	RHEA:61164 > GO:UDP-L-rhamnose:kaempferol 3-O-rhamnosyltransferase activity ; GO:0103059
+GO:0103059	metacyc2go	MetaCyc:RXN1F-474 > GO:UDP-L-rhamnose:kaempferol 3-O-rhamnosyltransferase activity ; GO:0103059
+GO:0103060	metacyc2go	MetaCyc:RXN1F-475 > GO:kaempferol 3-rhamnoside 7-O-rhamnosyltransferase activity ; GO:0103060
+GO:0103077	rhea2go	RHEA:61188 > GO:quercetin 3-glucoside 7-O-rhamnosyltransferase activity ; GO:0103077
+GO:0103077	metacyc2go	MetaCyc:RXNQT-4161 > GO:quercetin 3-glucoside 7-O-rhamnosyltransferase activity ; GO:0103077
+GO:0103078	rhea2go	RHEA:61184 > GO:quercetin 3-rhamnoside 7-O-rhamnosyltransferase activity ; GO:0103078
+GO:0103078	metacyc2go	MetaCyc:RXNQT-4162 > GO:quercetin 3-rhamnoside 7-O-rhamnosyltransferase activity ; GO:0103078
+GO:0103106	metacyc2go	MetaCyc:RXNQT-4397 > GO:brassinolide 23-O-glucosyltransferase activity ; GO:0103106
+GO:0103107	metacyc2go	MetaCyc:RXNQT-4398 > GO:castasterone 23-O-glucosyltransferase activity ; GO:0103107

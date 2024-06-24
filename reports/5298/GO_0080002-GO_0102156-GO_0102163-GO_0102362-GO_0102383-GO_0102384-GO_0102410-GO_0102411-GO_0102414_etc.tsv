@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+TAIR	AGI_LocusCode:AT2G43840	UGT74F1	PMID:18385129|TAIR:Publication:501724620		GO:0080002	UDP-glucose:4-aminobenzoate acylglucosyltransferase activity	IDA		TAIR:locus:2044044		20080822		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G43820	UGT74F2	PMID:18385129|TAIR:Publication:501724620		GO:0080002	UDP-glucose:4-aminobenzoate acylglucosyltransferase activity	IDA		TAIR:locus:2043949		20080822		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G05560	AT1G05560	PMID:18385129|TAIR:Publication:501724620		GO:0080002	UDP-glucose:4-aminobenzoate acylglucosyltransferase activity	IDA		TAIR:locus:2201031		20080822		NCBITaxon:3702
