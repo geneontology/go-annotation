@@ -1,0 +1,11 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AgBase	UniProtKB:P38530	HSF2	PMID:21813737		GO:0010243	response to organonitrogen compound	IMP			PANTHER:PTHR10015	20151224	CHEBI:75142	NCBITaxon:9031
+AgBase	UniProtKB:P08106	P08106	PMID:9716376		GO:0010243	response to organonitrogen compound	IDA			PANTHER:PTHR19375	20151228	CHEBI:75142	NCBITaxon:9031
+AgBase	UniProtKB:P11501	HSP90AA1	PMID:9716376		GO:0010243	response to organonitrogen compound	IDA			PANTHER:PTHR11528	20151228	CHEBI:75142	NCBITaxon:9031
+AgBase	UniProtKB:P38530	HSF2	PMID:9716376		GO:0010243	response to organonitrogen compound	IDA			PANTHER:PTHR10015	20151228	CHEBI:75142	NCBITaxon:9031
+MGI	MGI:MGI:1341787	Trpv1	PMID:17767493		GO:0010243	response to organonitrogen compound	IMP	MGI:MGI:1934023		PANTHER:PTHR10582	20130517		NCBITaxon:10090
+TAIR	AGI_LocusCode:AT2G46830	CCA1	PMID:18344319|TAIR:Publication:501724335		GO:0010243	response to organonitrogen compound	IEP		TAIR:locus:2044345		20080415		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G02035	miR2111B	PMID:38057302|TAIR:Publication:501805859		GO:0010243	response to organonitrogen compound	IEP		TAIR:locus:6530298233		20231215		NCBITaxon:3702
+dictyBase	dictyBase:DDB_G0288047	dnmA	PMID:26424849		GO:0010243	response to organonitrogen compound	IDA			PANTHER:PTHR46098	20201001		NCBITaxon:44689
+UniProt	UniProtKB:P52758	RIDA	PMID:22094463		GO:1901565	organonitrogen compound catabolic process	IDA			PANTHER:PTHR11803	20170413		NCBITaxon:9606
+UniProt	UniProtKB:A0A1J1DL12	MAG133	PMID:27539850		GO:1901565	organonitrogen compound catabolic process	IDA				20190621		NCBITaxon:6954

@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AgBase	UniProtKB:P38531	HSF3	PMID:9716376		GO:0001046	core promoter sequence-specific DNA binding	IDA			PANTHER:PTHR10015	20151228	GO:0010243|GO:0014070	NCBITaxon:9031
+AgBase	UniProtKB:P38531	HSF3	PMID:9716376		GO:0070207	protein homotrimerization	IDA			PANTHER:PTHR10015	20151228	GO:0010243|GO:0014070	NCBITaxon:9031
+AgBase	UniProtKB:P38530	HSF2	PMID:9716376		GO:0001046	core promoter sequence-specific DNA binding	IDA			PANTHER:PTHR10015	20151228	GO:0010243|GO:0014070	NCBITaxon:9031
+AgBase	UniProtKB:P38530	HSF2	PMID:9716376		GO:0070207	protein homotrimerization	IDA			PANTHER:PTHR10015	20151228	GO:0010243|GO:0014070	NCBITaxon:9031
+AgBase	UniProtKB:P38529	HSF1	PMID:9716376		GO:0001046	core promoter sequence-specific DNA binding	IDA			PANTHER:PTHR10015	20151228	GO:0010243|GO:0014070	NCBITaxon:9031
+AgBase	UniProtKB:P38529	HSF1	PMID:9716376		GO:0070207	protein homotrimerization	IDA			PANTHER:PTHR10015	20151228	GO:0010243|GO:0014070	NCBITaxon:9031
