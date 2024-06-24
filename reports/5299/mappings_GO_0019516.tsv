@@ -1,0 +1,9 @@
+term	file	line
+GO:0019516	unirule2go	UniRule:UR000079107 > GO:lactate oxidation ; GO:0019516
+GO:0019516	unirule2go	UniRule:UR000160008 > GO:lactate oxidation ; GO:0019516
+GO:0019516	unirule2go	UniRule:UR000635130 > GO:lactate oxidation ; GO:0019516
+GO:0019516	interpro2go	InterPro:IPR004452 4Fe-4S binding protein > GO:lactate oxidation ; GO:0019516
+GO:0019516	interpro2go	InterPro:IPR012256 D-lactate dehydrogenase > GO:lactate oxidation ; GO:0019516
+GO:0019516	hamap2go	HAMAP:MF_01559 > GO:lactate oxidation ; GO:0019516
+GO:0019516	hamap2go	HAMAP:MF_02092 > GO:lactate oxidation ; GO:0019516
+GO:0019516	hamap2go	HAMAP:MF_02103 > GO:lactate oxidation ; GO:0019516

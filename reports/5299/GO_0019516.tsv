@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P06149	dld	PMID:4575624		GO:0019516	lactate oxidation	IDA			PANTHER:PTHR43716	20110605		NCBITaxon:83333
+EcoCyc	UniProtKB:P06149	dld	PMID:4582730		GO:0019516	lactate oxidation	IDA			PANTHER:PTHR43716	20140820		NCBITaxon:83333
+EcoCyc	UniProtKB:P33232	lldD	PMID:8407843		GO:0019516	lactate oxidation	IMP			PANTHER:PTHR10578	20120702		NCBITaxon:83333
+MGI	MGI:MGI:96764	Ldhc	PMID:18367675		GO:0019516	lactate oxidation	IDA			PANTHER:PTHR43128	20120221		NCBITaxon:10090
+UniProt	UniProtKB:C0HLV8	MLDHR	PMID:33406399		GO:0019516	lactate oxidation	IMP				20210310		NCBITaxon:9606
