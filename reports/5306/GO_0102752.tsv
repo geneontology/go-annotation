@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:1921435	Gbe1	PMID:21856731		GO:0102752	1,4-alpha-glucan branching enzyme activity (using a glucosylated glycogenin as primer for glycogen synthesis)	IMP	MGI:MGI:5293612		PANTHER:PTHR43651	20220328	GO:0005978|GO:0005829	NCBITaxon:10090
