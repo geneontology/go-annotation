@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoliWiki	UniProtKB:P35340	ahpF	PMID:11717276		GO:0008785	alkyl hydroperoxide reductase activity	IGI	EcoliWiki:ahpC|EcoliWiki:katE|EcoliWiki:katG		PANTHER:PTHR48105	20110815		NCBITaxon:83333
+MTBBASE	UniProtKB:P9WQB7	ahpC	PMID:11171096		GO:0008785	alkyl hydroperoxide reductase activity	IDA			PANTHER:PTHR10681	20100611		NCBITaxon:83332
+PseudoCAP	PseudoCAP:PA3529	PA3529	PMID:21674802		GO:0008785	alkyl hydroperoxide reductase activity	IDA				20190311		NCBITaxon:208964
+EcoCyc	UniProtKB:P18775	dmsA	PMID:1917829		GO:0009389	dimethyl sulfoxide reductase activity	EXP			PANTHER:PTHR43742	20141104		NCBITaxon:83333
+EcoCyc	UniProtKB:P18777	dmsC	PMID:3280546		GO:0009389	dimethyl sulfoxide reductase activity	IDA			PANTHER:PTHR38095	20141104		NCBITaxon:83333
+EcoCyc	UniProtKB:P18776	dmsB	PMID:3280546		GO:0009389	dimethyl sulfoxide reductase activity	IDA			PANTHER:PTHR43177	20141104		NCBITaxon:83333
