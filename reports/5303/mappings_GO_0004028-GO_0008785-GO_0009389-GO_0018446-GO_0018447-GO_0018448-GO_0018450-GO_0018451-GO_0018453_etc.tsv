@@ -1,0 +1,238 @@
+term	file	line
+GO:0004028	um-bbd_enzymeid2go	UM-BBD_enzymeID:e0432 > GO:3-chloroallyl aldehyde dehydrogenase activity ; GO:0004028
+GO:0008785	reactome2go	Reactome:R-HSA-1222526 > GO:alkyl hydroperoxide reductase activity ; GO:0008785
+GO:0008785	unirule2go	UniRule:UR000084072 > GO:alkyl hydroperoxide reductase activity ; GO:0008785
+GO:0008785	um-bbd_reactionid2go	UM-BBD_reactionID:r0684 > GO:alkyl hydroperoxide reductase activity ; GO:0008785
+GO:0008785	interpro2go	InterPro:IPR012081 Alkyl hydroperoxide reductase subunit F > GO:alkyl hydroperoxide reductase activity ; GO:0008785
+GO:0008785	hamap2go	HAMAP:MF_01676 > GO:alkyl hydroperoxide reductase activity ; GO:0008785
+GO:0009389	um-bbd_reactionid2go	UM-BBD_reactionID:r0207 > GO:dimethyl sulfoxide reductase activity ; GO:0009389
+GO:0009389	interpro2go	InterPro:IPR011888 Anaerobic dimethyl sulphoxide reductase, subunit A, DmsA/YnfE > GO:dimethyl sulfoxide reductase activity ; GO:0009389
+GO:0018446	um-bbd_reactionid2go	UM-BBD_reactionID:r0717 > GO:pinocarveol dehydrogenase activity ; GO:0018446
+GO:0018447	um-bbd_enzymeid2go	UM-BBD_enzymeID:e0229 > GO:chloral hydrate dehydrogenase activity ; GO:0018447
+GO:0018448	um-bbd_reactionid2go	UM-BBD_reactionID:r0638 > GO:hydroxymethylmethylsilanediol oxidase activity ; GO:0018448
+GO:0018450	um-bbd_reactionid2go	UM-BBD_reactionID:r0710 > GO:myrtenol dehydrogenase activity ; GO:0018450
+GO:0018451	um-bbd_reactionid2go	UM-BBD_reactionID:r0595 > GO:epoxide dehydrogenase activity ; GO:0018451
+GO:0018453	um-bbd_reactionid2go	UM-BBD_reactionID:r0018 > GO:2-hydroxytetrahydrofuran dehydrogenase activity ; GO:0018453
+GO:0018469	um-bbd_reactionid2go	UM-BBD_reactionID:r0711 > GO:myrtenal dehydrogenase activity ; GO:0018469
+GO:0018470	um-bbd_reactionid2go	UM-BBD_reactionID:r0014 > GO:4-hydroxybutaraldehyde dehydrogenase activity ; GO:0018470
+GO:0018472	um-bbd_reactionid2go	UM-BBD_reactionID:r0485 > GO:1-hydroxy-2-naphthaldehyde dehydrogenase activity ; GO:0018472
+GO:0018473	um-bbd_reactionid2go	UM-BBD_reactionID:r0744 > GO:cis-2-methyl-5-isopropylhexa-2,5-dienal dehydrogenase activity ; GO:0018473
+GO:0018475	um-bbd_reactionid2go	UM-BBD_reactionID:r0745 > GO:trans-2-methyl-5-isopropylhexa-2,5-dienal dehydrogenase activity ; GO:0018475
+GO:0018486	um-bbd_reactionid2go	UM-BBD_reactionID:r0169 > GO:2-butanone oxidase activity ; GO:0018486
+GO:0018487	um-bbd_reactionid2go	UM-BBD_reactionID:r0758 > GO:vanillate O-demethylase (anaerobic) activity ; GO:0018487
+GO:0018495	um-bbd_reactionid2go	UM-BBD_reactionID:r0192 > GO:2-hydroxycyclohexane-1-carboxyl-CoA dehydrogenase activity ; GO:0018495
+GO:0018496	um-bbd_reactionid2go	UM-BBD_reactionID:r0205 > GO:2,6-dihydroxycyclohexane-1-carboxyl-CoA dehydrogenase activity ; GO:0018496
+GO:0018497	um-bbd_reactionid2go	UM-BBD_reactionID:r0514 > GO:1-chloro-2,2-bis(4-chlorophenyl)ethane dehydrogenase activity ; GO:0018497
+GO:0018499	um-bbd_reactionid2go	UM-BBD_reactionID:r0451 > GO:cis-2,3-dihydrodiol DDT dehydrogenase activity ; GO:0018499
+GO:0018500	um-bbd_reactionid2go	UM-BBD_reactionID:r0575 > GO:trans-9R,10R-dihydrodiolphenanthrene dehydrogenase activity ; GO:0018500
+GO:0018501	um-bbd_enzymeid2go	UM-BBD_enzymeID:e0411 > GO:cis-chlorobenzene dihydrodiol dehydrogenase activity ; GO:0018501
+GO:0018503	um-bbd_reactionid2go	UM-BBD_reactionID:r0574 > GO:trans-1,2-dihydrodiolphenanthrene dehydrogenase activity ; GO:0018503
+GO:0018526	um-bbd_reactionid2go	UM-BBD_reactionID:r0342 > GO:2-aminobenzoyl-CoA reductase activity ; GO:0018526
+GO:0018528	um-bbd_reactionid2go	UM-BBD_reactionID:r0589 > GO:iminodiacetate dehydrogenase activity ; GO:0018528
+GO:0018547	reactome2go	Reactome:R-HSA-9620103 > GO:nitroglycerin reductase activity ; GO:0018547
+GO:0018547	um-bbd_enzymeid2go	UM-BBD_enzymeID:e0038 > GO:nitroglycerin reductase activity ; GO:0018547
+GO:0018550	um-bbd_reactionid2go	UM-BBD_reactionID:r0314 > GO:tetrachloro-p-hydroquinone reductive dehalogenase activity ; GO:0018550
+GO:0018553	um-bbd_enzymeid2go	UM-BBD_enzymeID:e0309 > GO:3-(2,3-dihydroxyphenyl)propionate 1,2-dioxygenase activity ; GO:0018553
+GO:0018585	um-bbd_reactionid2go	UM-BBD_reactionID:r0407 > GO:fluorene oxygenase activity ; GO:0018585
+GO:0018586	um-bbd_reactionid2go	UM-BBD_reactionID:r0647 > GO:mono-butyltin dioxygenase activity ; GO:0018586
+GO:0018588	um-bbd_reactionid2go	UM-BBD_reactionID:r0643 > GO:tri-n-butyltin dioxygenase activity ; GO:0018588
+GO:0018589	um-bbd_reactionid2go	UM-BBD_reactionID:r0645 > GO:di-n-butyltin dioxygenase activity ; GO:0018589
+GO:0018590	um-bbd_reactionid2go	UM-BBD_reactionID:r0640 > GO:methylsilanetriol hydroxylase activity ; GO:0018590
+GO:0018593	um-bbd_reactionid2go	UM-BBD_reactionID:r0281 > GO:4-chlorophenoxyacetate monooxygenase activity ; GO:0018593
+GO:0018596	um-bbd_reactionid2go	UM-BBD_reactionID:r0637 > GO:dimethylsilanediol hydroxylase activity ; GO:0018596
+GO:0018598	um-bbd_reactionid2go	UM-BBD_reactionID:r0641 > GO:hydroxymethylsilanetriol oxidase activity ; GO:0018598
+GO:0018599	um-bbd_reactionid2go	UM-BBD_reactionID:r0619 > GO:2-hydroxyisobutyrate 3-monooxygenase activity ; GO:0018599
+GO:0018641	um-bbd_reactionid2go	UM-BBD_reactionID:r0048 > GO:6-hydroxy-3-methyl-2-oxo-1,2-dihydroquinoline 6-monooxygenase activity ; GO:0018641
+GO:0018686	um-bbd_reactionid2go	UM-BBD_reactionID:r0480 > GO:6-hydroxy pseudo-oxynicotine monooxygenase activity ; GO:0018686
+GO:0018688	um-bbd_reactionid2go	UM-BBD_reactionID:r0450 > GO:DDT 2,3-dioxygenase activity ; GO:0018688
+GO:0018689	um-bbd_enzymeid2go	UM-BBD_enzymeID:e0249 > GO:naphthalene disulfonate 1,2-dioxygenase activity ; GO:0018689
+GO:0018703	um-bbd_reactionid2go	UM-BBD_reactionID:r0280 > GO:2,4-dichlorophenoxyacetate dehalogenase activity ; GO:0018703
+GO:0018705	um-bbd_enzymeid2go	UM-BBD_enzymeID:e0272 > GO:1,2-dichloroethene reductive dehalogenase activity ; GO:0018705
+GO:0018707	um-bbd_reactionid2go	UM-BBD_reactionID:r0493 > GO:1-phenanthrol methyltransferase activity ; GO:0018707
+GO:0018715	um-bbd_reactionid2go	UM-BBD_reactionID:r0567 > GO:9-phenanthrol UDP-glucuronosyltransferase activity ; GO:0018715
+GO:0018716	um-bbd_reactionid2go	UM-BBD_reactionID:r0525 > GO:1-phenanthrol glycosyltransferase activity ; GO:0018716
+GO:0018717	um-bbd_reactionid2go	UM-BBD_reactionID:r0511 > GO:9-phenanthrol glycosyltransferase activity ; GO:0018717
+GO:0018718	um-bbd_reactionid2go	UM-BBD_reactionID:r0569 > GO:1,2-dihydroxy-phenanthrene glycosyltransferase activity ; GO:0018718
+GO:0018721	um-bbd_reactionid2go	UM-BBD_reactionID:r0559 > GO:trans-9R,10R-dihydrodiolphenanthrene sulfotransferase activity ; GO:0018721
+GO:0018722	um-bbd_reactionid2go	UM-BBD_reactionID:r0565 > GO:1-phenanthrol sulfotransferase activity ; GO:0018722
+GO:0018723	um-bbd_reactionid2go	UM-BBD_reactionID:r0561 > GO:3-phenanthrol sulfotransferase activity ; GO:0018723
+GO:0018724	um-bbd_reactionid2go	UM-BBD_reactionID:r0562 > GO:4-phenanthrol sulfotransferase activity ; GO:0018724
+GO:0018725	um-bbd_reactionid2go	UM-BBD_reactionID:r0558 > GO:trans-3,4-dihydrodiolphenanthrene sulfotransferase activity ; GO:0018725
+GO:0018726	um-bbd_reactionid2go	UM-BBD_reactionID:r0564 > GO:9-phenanthrol sulfotransferase activity ; GO:0018726
+GO:0018727	um-bbd_reactionid2go	UM-BBD_reactionID:r0563 > GO:2-phenanthrol sulfotransferase activity ; GO:0018727
+GO:0018731	um-bbd_reactionid2go	UM-BBD_reactionID:r0167 > GO:1-oxa-2-oxocycloheptane lactonase activity ; GO:0018731
+GO:0018734	um-bbd_reactionid2go	UM-BBD_reactionID:r0016 > GO:butyrolactone hydrolase activity ; GO:0018734
+GO:0018736	um-bbd_reactionid2go	UM-BBD_reactionID:r0206 > GO:6-oxo-2-hydroxycyclohexane-1-carboxyl-CoA hydrolase activity ; GO:0018736
+GO:0018737	um-bbd_reactionid2go	UM-BBD_reactionID:r0193 > GO:2-ketocyclohexane-1-carboxyl-CoA hydrolase activity ; GO:0018737
+GO:0018742	um-bbd_enzymeid2go	UM-BBD_enzymeID:e0051 > GO:epoxide hydrolase B activity ; GO:0018742
+GO:0018743	um-bbd_reactionid2go	UM-BBD_reactionID:r0560 > GO:phenanthrene-9,10-epoxide hydrolase (9R,10R-forming) activity ; GO:0018743
+GO:0018745	um-bbd_enzymeid2go	UM-BBD_enzymeID:e0049 > GO:epoxide hydrolase A activity ; GO:0018745
+GO:0018746	um-bbd_reactionid2go	UM-BBD_reactionID:r0535 > GO:phenanthrene-3,4-epoxide hydrolase activity ; GO:0018746
+GO:0018747	um-bbd_reactionid2go	UM-BBD_reactionID:r0536 > GO:phenanthrene-1,2-epoxide hydrolase activity ; GO:0018747
+GO:0018748	um-bbd_reactionid2go	UM-BBD_reactionID:r0706 > GO:iprodione amidohydrolase activity ; GO:0018748
+GO:0018749	um-bbd_reactionid2go	UM-BBD_reactionID:r0708 > GO:(3,5-dichlorophenylurea)acetate amidohydrolase activity ; GO:0018749
+GO:0018751	um-bbd_reactionid2go	UM-BBD_reactionID:r0707 > GO:3,5-dichlorophenylcarboximide hydrolase activity ; GO:0018751
+GO:0018758	um-bbd_reactionid2go	UM-BBD_reactionID:r0122 > GO:2,4-dihydroxy-6-(N'-ethyl)amino-1,3,5-triazine aminohydrolase activity ; GO:0018758
+GO:0018767	um-bbd_reactionid2go	UM-BBD_reactionID:r0399 > GO:2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase activity ; GO:0018767
+GO:0018769	um-bbd_reactionid2go	UM-BBD_reactionID:r0311 > GO:2-hydroxy-6-oxoocta-2,4-dienoate hydrolase activity ; GO:0018769
+GO:0018770	um-bbd_reactionid2go	UM-BBD_reactionID:r0444 > GO:6-oxo-2-hydroxy-7-(4'-chlorophenyl)-3,8,8-trichloroocta-2E,4E,7-trienoate hydrolase activity ; GO:0018770
+GO:0018776	um-bbd_reactionid2go	UM-BBD_reactionID:r0689 > GO:trans-chloroacrylic acid dehalogenase activity ; GO:0018776
+GO:0018780	um-bbd_reactionid2go	UM-BBD_reactionID:r0383 > GO:dichloroacetate halidohydrolase activity ; GO:0018780
+GO:0018781	um-bbd_enzymeid2go	UM-BBD_enzymeID:e0091 > GO:S-triazine hydrolase activity ; GO:0018781
+GO:0018782	um-bbd_reactionid2go	UM-BBD_reactionID:r0688 > GO:cis-chloroacrylic acid dehalogenase activity ; GO:0018782
+GO:0018791	um-bbd_reactionid2go	UM-BBD_reactionID:r0398 > GO:2-hydroxy-3-carboxy-6-oxo-7-methylocta-2,4-dienoate decarboxylase activity ; GO:0018791
+GO:0018792	um-bbd_reactionid2go	UM-BBD_reactionID:r0520 > GO:bis(4-chlorophenyl)acetate decarboxylase activity ; GO:0018792
+GO:0018793	um-bbd_reactionid2go	UM-BBD_reactionID:r0546 > GO:3,5-dibromo-4-hydroxybenzoate decarboxylase activity ; GO:0018793
+GO:0018794	um-bbd_reactionid2go	UM-BBD_reactionID:r0617 > GO:2-hydroxyisobutyrate decarboxylase activity ; GO:0018794
+GO:0018795	um-bbd_reactionid2go	UM-BBD_reactionID:r0621 > GO:2-hydroxy-2-methyl-1,3-dicarbonate decarboxylase activity ; GO:0018795
+GO:0018802	um-bbd_reactionid2go	UM-BBD_reactionID:r0370 > GO:2,4-dihydroxyhept-2-ene-1,7-dioate aldolase activity ; GO:0018802
+GO:0018802	interpro2go	InterPro:IPR012689 2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase > GO:2,4-dihydroxyhept-2-ene-1,7-dioate aldolase activity ; GO:0018802
+GO:0018802	interpro2go	InterPro:IPR023701 4-hydroxy-2-oxo-heptane-1,7-dioate aldolase, Enterobacteriales > GO:2,4-dihydroxyhept-2-ene-1,7-dioate aldolase activity ; GO:0018802
+GO:0018808	um-bbd_reactionid2go	UM-BBD_reactionID:r0484 > GO:trans-4-(1'-hydroxynaphth-2'-yl)-2-oxobut-3-enoate hydratase-aldolase activity ; GO:0018808
+GO:0018809	um-bbd_reactionid2go	UM-BBD_reactionID:r0331 > GO:E-phenylitaconyl-CoA hydratase activity ; GO:0018809
+GO:0018810	um-bbd_reactionid2go	UM-BBD_reactionID:r0164 > GO:trans-4-[2-(3-hydroxy)-thionaphthenyl]-2-oxo-3-butenoate hydratase activity ; GO:0018810
+GO:0018816	um-bbd_reactionid2go	UM-BBD_reactionID:r0618 > GO:2-hydroxyisobutyrate dehydratase activity ; GO:0018816
+GO:0018825	um-bbd_enzymeid2go	UM-BBD_enzymeID:e0421 > GO:triethanolamine lyase activity ; GO:0018825
+GO:0018828	um-bbd_enzymeid2go	UM-BBD_enzymeID:e0048 > GO:halohydrin hydrogen-halide-lyase A activity ; GO:0018828
+GO:0018832	um-bbd_enzymeid2go	UM-BBD_enzymeID:e0050 > GO:halohydrin hydrogen-halide-lyase B activity ; GO:0018832
+GO:0018837	um-bbd_reactionid2go	UM-BBD_reactionID:r0502 > GO:2-hydroxy-2H-benzo[h]chromene-2-carboxylate isomerase activity ; GO:0018837
+GO:0018854	um-bbd_reactionid2go	UM-BBD_reactionID:r0737 > GO:3-isopropenyl-6-oxoheptanoyl-CoA synthetase activity ; GO:0018854
+GO:0018857	um-bbd_reactionid2go	UM-BBD_reactionID:r0137 > GO:2,4-dichlorobenzoate-CoA ligase activity ; GO:0018857
+GO:0018863	um-bbd_reactionid2go	UM-BBD_reactionID:r0496 > GO:phenanthrene-9,10-epoxide hydrolase (9S,10S-forming) activity ; GO:0018863
+GO:0034522	um-bbd_reactionid2go	UM-BBD_reactionID:r0774 > GO:cis-1,2-dihydroxy-1,2-dihydro-8-carboxynaphthalene dehydrogenase activity ; GO:0034522
+GO:0034523	um-bbd_reactionid2go	UM-BBD_reactionID:r0777 > GO:3-formylsalicylate oxidase activity ; GO:0034523
+GO:0034524	um-bbd_reactionid2go	UM-BBD_reactionID:r0776 > GO:2-hydroxyisophthalate decarboxylase activity ; GO:0034524
+GO:0034525	um-bbd_reactionid2go	UM-BBD_reactionID:r0787 > GO:1-naphthaldehyde dehydrogenase activity ; GO:0034525
+GO:0034527	um-bbd_reactionid2go	UM-BBD_reactionID:r0790 > GO:1,2-dihydroxy-8-carboxynaphthalene dioxygenase activity ; GO:0034527
+GO:0034529	um-bbd_reactionid2go	UM-BBD_reactionID:r0792 > GO:2-hydroxy-3-carboxy-benzalpyruvate hydratase-aldolase activity ; GO:0034529
+GO:0034531	um-bbd_reactionid2go	UM-BBD_reactionID:r0766 > GO:2-hydroxy-4-hydroxymethylbenzalpyruvate hydratase-aldolase activity ; GO:0034531
+GO:0034533	um-bbd_reactionid2go	UM-BBD_reactionID:r0764 > GO:1,2-dihydroxy-7-hydroxymethylnaphthalene dioxygenase activity ; GO:0034533
+GO:0034535	um-bbd_reactionid2go	UM-BBD_reactionID:r0781 > GO:1,2-dihydroxy-8-methylnaphthalene dioxygenase activity ; GO:0034535
+GO:0034537	um-bbd_reactionid2go	UM-BBD_reactionID:r0783 > GO:2-hydroxy-3-methylbenzalpyruvate hydratase-aldolase activity ; GO:0034537
+GO:0034538	um-bbd_reactionid2go	UM-BBD_reactionID:r0784 > GO:3-methylsalicylaldehyde dehydrogenase activity ; GO:0034538
+GO:0034541	um-bbd_reactionid2go	UM-BBD_reactionID:r0806 > GO:dimethylarsinite methyltransferase activity ; GO:0034541
+GO:0034556	um-bbd_reactionid2go	UM-BBD_reactionID:r0849 > GO:nitrobenzoate nitroreductase activity ; GO:0034556
+GO:0034558	um-bbd_reactionid2go	UM-BBD_reactionID:r0859 > GO:technetium (VII) reductase activity ; GO:0034558
+GO:0034559	um-bbd_reactionid2go	UM-BBD_reactionID:r0860 > GO:bisphenol A hydroxylase B activity ; GO:0034559
+GO:0034561	um-bbd_reactionid2go	UM-BBD_reactionID:r0862 > GO:1,2-bis(4-hydroxyphenyl)-2-proponol dehydratase activity ; GO:0034561
+GO:0034562	um-bbd_reactionid2go	UM-BBD_reactionID:r0864 > GO:2,2-bis(4-hydroxyphenyl)-1-propanol hydroxylase activity ; GO:0034562
+GO:0034563	um-bbd_reactionid2go	UM-BBD_reactionID:r0867 > GO:2,3-bis(4-hydroxyphenyl)-1,2-propanediol dioxygenase activity ; GO:0034563
+GO:0034564	um-bbd_reactionid2go	UM-BBD_reactionID:r0866 > GO:4,4'-dihydroxy-alpha-methylstilbene dioxygenase activity ; GO:0034564
+GO:0034571	um-bbd_reactionid2go	UM-BBD_reactionID:r0895 > GO:4'-(2-hydroxyisopropyl)phenylurea amidohydrolase activity ; GO:0034571
+GO:0034573	um-bbd_reactionid2go	UM-BBD_reactionID:r0898 > GO:didemethylisoproturon amidohydrolase activity ; GO:0034573
+GO:0034576	um-bbd_reactionid2go	UM-BBD_reactionID:r0913 > GO:N-isopropylacetanilide amidohydrolase activity ; GO:0034576
+GO:0034578	um-bbd_reactionid2go	UM-BBD_reactionID:r0916 > GO:limonene 8-hydratase activity ; GO:0034578
+GO:0034579	um-bbd_reactionid2go	UM-BBD_reactionID:r0920 > GO:(1-methylpentyl)succinate synthase activity ; GO:0034579
+GO:0034581	um-bbd_reactionid2go	UM-BBD_reactionID:r0925 > GO:4-methyloct-2-enoyl-CoA hydratase activity ; GO:0034581
+GO:0034582	um-bbd_reactionid2go	UM-BBD_reactionID:r0926 > GO:3-hydroxy-4-methyloctanoyl-CoA dehydrogenase activity ; GO:0034582
+GO:0034778	um-bbd_reactionid2go	UM-BBD_reactionID:r1003 > GO:2-hydroxy-4-isopropenylcyclohexane-1-carboxyl-CoA dehydrogenase activity ; GO:0034778
+GO:0034779	um-bbd_reactionid2go	UM-BBD_reactionID:r1004 > GO:4-isopropenyl-2-ketocyclohexane-1-carboxyl-CoA hydrolase activity ; GO:0034779
+GO:0034780	um-bbd_reactionid2go	UM-BBD_reactionID:r0073 > GO:glyphosate dehydrogenase activity ; GO:0034780
+GO:0034781	um-bbd_reactionid2go	UM-BBD_reactionID:r1030 > GO:N-cyclohexylformamide amidohydrolase activity ; GO:0034781
+GO:0034782	um-bbd_reactionid2go	UM-BBD_reactionID:r1031 > GO:dimethylmalonate decarboxylase activity ; GO:0034782
+GO:0034783	um-bbd_reactionid2go	UM-BBD_reactionID:r1032 > GO:pivalate-CoA ligase activity ; GO:0034783
+GO:0034786	um-bbd_reactionid2go	UM-BBD_reactionID:r1039 > GO:9-fluorenone-3,4-dioxygenase activity ; GO:0034786
+GO:0034787	um-bbd_reactionid2go	UM-BBD_reactionID:r1040 > GO:1-hydro-1,1a-dihydroxy-9-fluorenone dehydrogenase activity ; GO:0034787
+GO:0034788	um-bbd_reactionid2go	UM-BBD_reactionID:r1041 > GO:2,3-dihydroxy-2'-carboxybiphenyl 1,2-dioxygenase activity ; GO:0034788
+GO:0034789	um-bbd_reactionid2go	UM-BBD_reactionID:r1042 > GO:2-hydroxy-6-oxo-6-(2-carboxyphenyl)-hexa-2,4-dienoate hydrolase activity ; GO:0034789
+GO:0034790	um-bbd_reactionid2go	UM-BBD_reactionID:r1043 > GO:3,4-dihydroxy-3,4-dihydrofluorene dehydrogenase activity ; GO:0034790
+GO:0034792	um-bbd_reactionid2go	UM-BBD_reactionID:r1058 > GO:hypophosphite dioxygenase activity ; GO:0034792
+GO:0034793	um-bbd_reactionid2go	UM-BBD_reactionID:r1056 > GO:cyclopropanecarboxylate-CoA ligase activity ; GO:0034793
+GO:0034796	um-bbd_reactionid2go	UM-BBD_reactionID:r1060 > GO:adipate-CoA ligase activity ; GO:0034796
+GO:0034797	um-bbd_reactionid2go	UM-BBD_reactionID:r1073 > GO:fosfomycin 2-glutathione ligase activity ; GO:0034797
+GO:0034798	um-bbd_reactionid2go	UM-BBD_reactionID:r1074 > GO:fosfomycin 2-L-cysteine ligase activity ; GO:0034798
+GO:0034799	um-bbd_reactionid2go	UM-BBD_reactionID:r1070 > GO:dihydride TNP tautomerase activity ; GO:0034799
+GO:0034801	um-bbd_reactionid2go	UM-BBD_reactionID:r1069 > GO:2,4-dinitrocyclohexanone hydrolase activity ; GO:0034801
+GO:0034804	um-bbd_reactionid2go	UM-BBD_reactionID:r1119 > GO:benzo(a)pyrene 11,12-epoxidase activity ; GO:0034804
+GO:0034805	um-bbd_reactionid2go	UM-BBD_reactionID:r1121 > GO:benzo(a)pyrene-trans-11,12-dihydrodiol dehydrogenase activity ; GO:0034805
+GO:0034807	um-bbd_reactionid2go	UM-BBD_reactionID:r1131 > GO:4,5-dihydroxybenzo(a)pyrene methyltransferase activity ; GO:0034807
+GO:0034809	um-bbd_reactionid2go	UM-BBD_reactionID:r1127 > GO:benzo(a)pyrene-cis-4,5-dihydrodiol dehydrogenase activity ; GO:0034809
+GO:0034816	um-bbd_reactionid2go	UM-BBD_reactionID:r1141 > GO:anthracene 9,10-dioxygenase activity ; GO:0034816
+GO:0034817	um-bbd_reactionid2go	UM-BBD_reactionID:r1144 > GO:cis-9,10-dihydroanthracene-9,10-diol dehydrogenase activity ; GO:0034817
+GO:0034820	um-bbd_reactionid2go	UM-BBD_reactionID:r1152 > GO:4,9-DSHA hydrolase activity ; GO:0034820
+GO:0034821	um-bbd_reactionid2go	UM-BBD_reactionID:r1155 > GO:citronellol dehydrogenase activity ; GO:0034821
+GO:0034822	um-bbd_reactionid2go	UM-BBD_reactionID:r1156 > GO:citronellal dehydrogenase activity ; GO:0034822
+GO:0034824	um-bbd_reactionid2go	UM-BBD_reactionID:r1159 > GO:citronellyl-CoA dehydrogenase activity ; GO:0034824
+GO:0034826	um-bbd_reactionid2go	UM-BBD_reactionID:r1170 > GO:1,2-dihydroxy-1,2,5,6,7,8-hexyhadronaphthalene dehydrogenase activity ; GO:0034826
+GO:0034828	um-bbd_reactionid2go	UM-BBD_reactionID:r1172 > GO:4-(2-oxocyclohexyl)-2-hydroxy-buta-2,4-dienoate hydrolase activity ; GO:0034828
+GO:0034829	um-bbd_reactionid2go	UM-BBD_reactionID:r1172 > GO:2-hydroxydec-2,4-diene-1,10-dioate hydratase activity ; GO:0034829
+GO:0034831	um-bbd_reactionid2go	UM-BBD_reactionID:r1176 > GO:(R)-(-)-1,2,3,4-tetrahydronaphthol dehydrogenase activity ; GO:0034831
+GO:0034832	um-bbd_reactionid2go	UM-BBD_reactionID:r1164 > GO:geranial dehydrogenase activity ; GO:0034832
+GO:0034833	um-bbd_reactionid2go	UM-BBD_reactionID:r1165 > GO:geranylate CoA-transferase activity ; GO:0034833
+GO:0034837	um-bbd_reactionid2go	UM-BBD_reactionID:r1179 > GO:2-mercaptobenzothiazole-cis-6,7-dihydrodiol dehydrogenase activity ; GO:0034837
+GO:0034838	um-bbd_reactionid2go	UM-BBD_reactionID:r1183 > GO:menthone dehydrogenase activity ; GO:0034838
+GO:0034839	um-bbd_reactionid2go	UM-BBD_reactionID:r1184 > GO:menth-2-enone hydratase activity ; GO:0034839
+GO:0034840	um-bbd_reactionid2go	UM-BBD_reactionID:r1185 > GO:3-hydroxymenthone dehydrogenase activity ; GO:0034840
+GO:0034841	um-bbd_reactionid2go	UM-BBD_reactionID:r1186 > GO:mentha-1,3-dione-CoA ligase activity ; GO:0034841
+GO:0034842	um-bbd_reactionid2go	UM-BBD_reactionID:r1234 > GO:thiophene-2-carboxylate-CoA ligase activity ; GO:0034842
+GO:0034843	um-bbd_reactionid2go	UM-BBD_reactionID:r1238 > GO:2-oxoglutaryl-CoA thioesterase activity ; GO:0034843
+GO:0034844	um-bbd_reactionid2go	UM-BBD_reactionID:r1256 > GO:naphthyl-2-methyl-succinate CoA-transferase activity ; GO:0034844
+GO:0034846	um-bbd_reactionid2go	UM-BBD_reactionID:r1259 > GO:naphthyl-2-methylene-succinyl-CoA lyase activity ; GO:0034846
+GO:0034847	um-bbd_reactionid2go	UM-BBD_reactionID:r1260 > GO:naphthyl-2-hydroxymethyl-succinyl-CoA dehydrogenase activity ; GO:0034847
+GO:0034848	um-bbd_reactionid2go	UM-BBD_reactionID:r1261 > GO:naphthyl-2-oxomethyl-succinyl-CoA succinyl transferase activity ; GO:0034848
+GO:0034849	um-bbd_reactionid2go	UM-BBD_reactionID:r1262 > GO:2-naphthoate CoA-transferase activity ; GO:0034849
+GO:0034851	um-bbd_reactionid2go	UM-BBD_reactionID:r1274 > GO:2,4,4-trimethyl-3-oxopentanoyl-CoA 2-C-propanoyl transferase activity ; GO:0034851
+GO:0034852	um-bbd_reactionid2go	UM-BBD_reactionID:r1309 > GO:4,4-dimethyl-3-oxopentanal dehydrogenase activity ; GO:0034852
+GO:0034853	um-bbd_reactionid2go	UM-BBD_reactionID:r1278 > GO:2,4,4-trimethyl-3-oxopentanoate decarboxylase activity ; GO:0034853
+GO:0034854	um-bbd_reactionid2go	UM-BBD_reactionID:r1280 > GO:4,4-dimethyl-3-oxopentanoate decarboxylase activity ; GO:0034854
+GO:0034857	um-bbd_reactionid2go	UM-BBD_reactionID:r1287 > GO:2-(methylthio)benzothiazole monooxygenase activity ; GO:0034857
+GO:0034858	um-bbd_reactionid2go	UM-BBD_reactionID:r1291 > GO:2-hydroxybenzothiazole monooxygenase activity ; GO:0034858
+GO:0034859	um-bbd_reactionid2go	UM-BBD_reactionID:r1292 > GO:benzothiazole monooxygenase activity ; GO:0034859
+GO:0034862	um-bbd_reactionid2go	UM-BBD_reactionID:r1294 > GO:2,6-dihydroxybenzothiazole monooxygenase activity ; GO:0034862
+GO:0034863	um-bbd_reactionid2go	UM-BBD_reactionID:r1270 > GO:2,4,4-trimethyl-1-pentanol dehydrogenase activity ; GO:0034863
+GO:0034864	um-bbd_reactionid2go	UM-BBD_reactionID:r1275 > GO:2,4,4-trimethylpentanal dehydrogenase activity ; GO:0034864
+GO:0034865	um-bbd_reactionid2go	UM-BBD_reactionID:r1271 > GO:2,4,4-trimethylpentanoate-CoA ligase activity ; GO:0034865
+GO:0034866	um-bbd_reactionid2go	UM-BBD_reactionID:r1276 > GO:2,4,4-trimethylpentanoyl-CoA dehydrogenase activity ; GO:0034866
+GO:0034867	um-bbd_reactionid2go	UM-BBD_reactionID:r1277 > GO:2,4,4-trimethylpent-2-enoyl-CoA hydratase activity ; GO:0034867
+GO:0034868	um-bbd_reactionid2go	UM-BBD_reactionID:r1273 > GO:2,4,4-trimethyl-3-hydroxypentanoyl-CoA dehydrogenase activity ; GO:0034868
+GO:0034869	um-bbd_reactionid2go	UM-BBD_reactionID:r1307 > GO:2,4,4-trimethyl-3-oxopentanoyl-CoA thioesterase activity ; GO:0034869
+GO:0034870	um-bbd_reactionid2go	UM-BBD_reactionID:r12979 > GO:pinacolone 5-monooxygenase activity ; GO:0034870
+GO:0034871	um-bbd_reactionid2go	UM-BBD_reactionID:r1308 > GO:1-hydroxy-4,4-dimethylpentan-3-one dehydrogenase activity ; GO:0034871
+GO:0034873	um-bbd_reactionid2go	UM-BBD_reactionID:r1312 > GO:thioacetamide S-oxygenase activity ; GO:0034873
+GO:0034874	um-bbd_reactionid2go	UM-BBD_reactionID:r1313 > GO:thioacetamide S-oxide S-oxygenase activity ; GO:0034874
+GO:0034876	um-bbd_reactionid2go	UM-BBD_reactionID:r1336 > GO:isonicotinic acid hydrazide hydrolase activity ; GO:0034876
+GO:0034877	um-bbd_reactionid2go	UM-BBD_reactionID:r1337 > GO:isonicotinate dehydrogenase activity ; GO:0034877
+GO:0034878	um-bbd_reactionid2go	UM-BBD_reactionID:r1338 > GO:2-hydroxyisonicotinate dehydrogenase activity ; GO:0034878
+GO:0034879	um-bbd_reactionid2go	UM-BBD_reactionID:r1340 > GO:2,3,6-trihydroxyisonicotinate decarboxylase activity ; GO:0034879
+GO:0034880	um-bbd_reactionid2go	UM-BBD_reactionID:r1339 > GO:citrazinate dehydrogenase activity ; GO:0034880
+GO:0034881	um-bbd_reactionid2go	UM-BBD_reactionID:r1343 > GO:citrazinate hydrolase activity ; GO:0034881
+GO:0034882	um-bbd_reactionid2go	UM-BBD_reactionID:r1344 > GO:cis-aconitamide amidase activity ; GO:0034882
+GO:0034885	um-bbd_reactionid2go	UM-BBD_reactionID:r1350 > GO:gamma-N-formylaminovinylacetate hydrolase activity ; GO:0034885
+GO:0034888	um-bbd_reactionid2go	UM-BBD_reactionID:r1382 > GO:endosulfan monooxygenase I activity ; GO:0034888
+GO:0034889	um-bbd_reactionid2go	UM-BBD_reactionID:r1384 > GO:endosulfan hemisulfate sulfatase activity ; GO:0034889
+GO:0034890	um-bbd_reactionid2go	UM-BBD_reactionID:r1386 > GO:endosulfan diol hydrolyase (cyclizing) activity ; GO:0034890
+GO:0034891	um-bbd_reactionid2go	UM-BBD_reactionID:r1388 > GO:endosulfan diol dehydrogenase activity ; GO:0034891
+GO:0034892	um-bbd_reactionid2go	UM-BBD_reactionID:r1389 > GO:endosulfan lactone lactonase activity ; GO:0034892
+GO:0034893	um-bbd_reactionid2go	UM-BBD_reactionID:r1395 > GO:N-nitrodimethylamine hydroxylase activity ; GO:0034893
+GO:0034897	um-bbd_reactionid2go	UM-BBD_reactionID:r1358 > GO:4-(1-ethyl-1,4-dimethyl-pentyl)phenol monooxygenase activity ; GO:0034897
+GO:0034901	um-bbd_reactionid2go	UM-BBD_reactionID:r1411 > GO:endosulfan hydroxyether dehydrogenase activity ; GO:0034901
+GO:0034902	um-bbd_reactionid2go	UM-BBD_reactionID:r1387 > GO:endosulfan sulfate hydrolase activity ; GO:0034902
+GO:0034903	um-bbd_reactionid2go	UM-BBD_reactionID:r1413 > GO:endosulfan ether monooxygenase activity ; GO:0034903
+GO:0034904	um-bbd_reactionid2go	UM-BBD_reactionID:r1436 > GO:5-chloro-2-oxopent-4-enoate hydratase activity ; GO:0034904
+GO:0034910	um-bbd_reactionid2go	UM-BBD_reactionID:r1442 > GO:6-hydroxy-3-succinoylpyridine hydrolase activity ; GO:0034910
+GO:0034917	um-bbd_reactionid2go	UM-BBD_reactionID:r0929 > GO:2-methylhex-2-enoyl-CoA hydratase activity ; GO:0034917
+GO:0034918	um-bbd_reactionid2go	UM-BBD_reactionID:r0930 > GO:3-hydroxy-2-methylhexanoyl-CoA dehydrogenase activity ; GO:0034918
+GO:0034919	um-bbd_reactionid2go	UM-BBD_reactionID:r0931 > GO:butyryl-CoA 2-C-propionyltransferase activity ; GO:0034919
+GO:0034921	um-bbd_reactionid2go	UM-BBD_reactionID:r0935 > GO:cis-4,5-dihydroxy-4,5-dihydropyrene dehydrogenase activity ; GO:0034921
+GO:0034923	um-bbd_reactionid2go	UM-BBD_reactionID:r0937 > GO:phenanthrene-4,5-dicarboxylate decarboxylase activity ; GO:0034923
+GO:0034924	um-bbd_reactionid2go	UM-BBD_reactionID:r0940 > GO:cis-3,4-phenanthrenedihydrodiol-4-carboxylate dehydrogenase activity ; GO:0034924
+GO:0034925	um-bbd_reactionid2go	UM-BBD_reactionID:r0941 > GO:pyrene 4,5-monooxygenase activity ; GO:0034925
+GO:0034926	um-bbd_reactionid2go	UM-BBD_reactionID:r0942 > GO:pyrene-4,5-epoxide hydrolase activity ; GO:0034926
+GO:0034927	um-bbd_reactionid2go	UM-BBD_reactionID:r0943 > GO:pyrene 1,2-monooxygenase activity ; GO:0034927
+GO:0034928	um-bbd_reactionid2go	UM-BBD_reactionID:r0946 > GO:1-hydroxypyrene 6,7-monooxygenase activity ; GO:0034928
+GO:0034929	um-bbd_reactionid2go	UM-BBD_reactionID:r0949 > GO:1-hydroxypyrene 7,8-monooxygenase activity ; GO:0034929
+GO:0034930	um-bbd_reactionid2go	UM-BBD_reactionID:r0952 > GO:1-hydroxypyrene sulfotransferase activity ; GO:0034930
+GO:0034931	um-bbd_reactionid2go	UM-BBD_reactionID:r0953 > GO:1-hydroxypyrene methyltransferase activity ; GO:0034931
+GO:0034932	um-bbd_reactionid2go	UM-BBD_reactionID:r0954 > GO:1-methoxypyrene 6,7-monooxygenase activity ; GO:0034932
+GO:0034933	um-bbd_reactionid2go	UM-BBD_reactionID:r0956 > GO:1-hydroxy-6-methoxypyrene methyltransferase activity ; GO:0034933
+GO:0034939	um-bbd_reactionid2go	UM-BBD_reactionID:r0969 > GO:5-hydroxypyrrole-2-carboxylate tautomerase activity ; GO:0034939
+GO:0034940	um-bbd_reactionid2go	UM-BBD_reactionID:r0984 > GO:5-oxo-4,5-dihydropyrrole-2-carboxylate amidase activity ; GO:0034940
+GO:0034942	um-bbd_reactionid2go	UM-BBD_reactionID:r0988 > GO:cis-2-methyl-5-isopropylhexa-2,5-dienoate-CoA ligase activity ; GO:0034942
+GO:0034943	um-bbd_reactionid2go	UM-BBD_reactionID:r0989 > GO:trans-2-methyl-5-isopropylhexa-2,5-dienoate-CoA ligase activity ; GO:0034943
+GO:0034944	um-bbd_reactionid2go	UM-BBD_reactionID:r0986 > GO:3-hydroxy-2,6-dimethyl-5-methylene-heptanoyl-CoA dehydrogenase activity ; GO:0034944
+GO:0034946	um-bbd_reactionid2go	UM-BBD_reactionID:r0994 > GO:3-isopropylbut-3-enoyl-CoA thioesterase activity ; GO:0034946
+GO:0034947	um-bbd_reactionid2go	UM-BBD_reactionID:r0321 > GO:terephthalate decarboxylase activity ; GO:0034947
+GO:0034950	um-bbd_reactionid2go	UM-BBD_reactionID:r1020 > GO:phenylboronic acid monooxygenase activity ; GO:0034950
+GO:0034952	um-bbd_reactionid2go	UM-BBD_reactionID:r0266 > GO:malonate semialdehyde decarboxylase activity ; GO:0034952
+GO:0034953	um-bbd_reactionid2go	UM-BBD_reactionID:r1002 > GO:perillyl-CoA hydratase activity ; GO:0034953
+GO:0034957	um-bbd_reactionid2go	UM-BBD_reactionID:r1495 > GO:3-nitrophenol nitroreductase activity ; GO:0034957
