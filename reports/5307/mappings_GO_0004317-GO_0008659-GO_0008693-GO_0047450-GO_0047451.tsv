@@ -1,0 +1,16 @@
+term	file	line
+GO:0004317	kegg_reaction2go	KEGG_REACTION:R04462 > GO:(3R)-3-hydroxypalmitoyl-[acyl-carrier-protein] dehydratase activity ; GO:0004317
+GO:0004317	rhea2go	RHEA:41908 > GO:(3R)-3-hydroxypalmitoyl-[acyl-carrier-protein] dehydratase activity ; GO:0004317
+GO:0004317	interpro2go	InterPro:IPR016452 Fatty acid synthase beta subunit AflB /Fas1-like, fungi > GO:(3R)-3-hydroxypalmitoyl-[acyl-carrier-protein] dehydratase activity ; GO:0004317
+GO:0004317	interpro2go	InterPro:IPR040883 Fatty acid synthase, meander beta sheet domain > GO:(3R)-3-hydroxypalmitoyl-[acyl-carrier-protein] dehydratase activity ; GO:0004317
+GO:0008659	rhea2go	RHEA:41892 > GO:(3R)-3-hydroxymyristoyl-[acyl-carrier-protein] dehydratase activity ; GO:0008659
+GO:0008693	rhea2go	RHEA:41860 > GO:(3R)-3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase activity ; GO:0008693
+GO:0008693	unirule2go	UniRule:UR000085101 > GO:(3R)-3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase activity ; GO:0008693
+GO:0008693	metacyc2go	MetaCyc:3-HYDROXYDECANOYL-ACP-DEHYDR-RXN > GO:(3R)-3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase activity ; GO:0008693
+GO:0008693	interpro2go	InterPro:IPR010083 Beta-hydroxyacyl-(acyl-carrier-protein) dehydratase FabA > GO:(3R)-3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase activity ; GO:0008693
+GO:0008693	hamap2go	HAMAP:MF_00405 > GO:(3R)-3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase activity ; GO:0008693
+GO:0047450	kegg_reaction2go	KEGG_REACTION:R04428 > GO:(3R)-3-hydroxybutanoyl-[acyl-carrier-protein] hydratase activity ; GO:0047450
+GO:0047450	rhea2go	RHEA:41808 > GO:(3R)-3-hydroxybutanoyl-[acyl-carrier-protein] hydratase activity ; GO:0047450
+GO:0047451	kegg_reaction2go	KEGG_REACTION:R04537 > GO:(3R)-3-hydroxyoctanoyl-[acyl-carrier-protein] dehydratase activity ; GO:0047451
+GO:0047451	rhea2go	RHEA:41844 > GO:(3R)-3-hydroxyoctanoyl-[acyl-carrier-protein] dehydratase activity ; GO:0047451
+GO:0047451	metacyc2go	MetaCyc:4.2.1.59-RXN > GO:(3R)-3-hydroxyoctanoyl-[acyl-carrier-protein] dehydratase activity ; GO:0047451

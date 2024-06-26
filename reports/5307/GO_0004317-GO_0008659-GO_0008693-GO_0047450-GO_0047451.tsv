@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P0A6Q6	fabZ	PMID:8910376		GO:0008693	(3R)-3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase activity	IDA			PANTHER:PTHR30272	20130404		NCBITaxon:83333
+EcoCyc	UniProtKB:P0A6Q3	fabA	PMID:8910376		GO:0008693	(3R)-3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase activity	IDA			PANTHER:PTHR30272	20130514		NCBITaxon:83333
+TAIR	AGI_LocusCode:AT2G22230	AT2G22230	PMID:19101548|TAIR:Publication:501729281		GO:0047450	(3R)-3-hydroxybutanoyl-[acyl-carrier-protein] hydratase activity	IDA		TAIR:locus:2060374		20100827		NCBITaxon:3702
+EcoCyc	UniProtKB:P0A6Q6	fabZ	PMID:8910376		GO:0047451	(3R)-3-hydroxyoctanoyl-[acyl-carrier-protein] dehydratase activity	IDA			PANTHER:PTHR30272	20130404		NCBITaxon:83333
+EcoCyc	UniProtKB:P0A6Q3	fabA	PMID:8910376		GO:0047451	(3R)-3-hydroxyoctanoyl-[acyl-carrier-protein] dehydratase activity	IDA			PANTHER:PTHR30272	20130514		NCBITaxon:83333
