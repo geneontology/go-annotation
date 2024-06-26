@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P24197	ygiD	PMID:23666480		GO:0046566	DOPA dioxygenase activity	IDA			PANTHER:PTHR30096	20160711		NCBITaxon:83333
+UniProt	UniProtKB:B6F0W8	DOD	PMID:19366710		GO:0046566	DOPA dioxygenase activity	IDA				20130826		NCBITaxon:3538
+UniProt	UniProtKB:Q70FG7	DODA	PMID:22270561		GO:0046566	DOPA dioxygenase activity	IDA				20130826		NCBITaxon:161934
