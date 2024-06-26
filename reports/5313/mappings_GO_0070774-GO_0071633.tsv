@@ -1,0 +1,4 @@
+term	file	line
+GO:0070774	reactome2go	Reactome:R-HSA-428262 > GO:phytoceramidase activity ; GO:0070774
+GO:0070774	kegg_reaction2go	KEGG_REACTION:R06528 > GO:phytoceramidase activity ; GO:0070774
+GO:0070774	metacyc2go	MetaCyc:CERAMIDASE-YEAST-RXN > GO:phytoceramidase activity ; GO:0070774
