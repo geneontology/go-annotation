@@ -1,0 +1,49 @@
+term	file	line
+GO:0052893	ec2go	EC:1.5.3.14 > GO:N1-acetylspermine:oxygen oxidoreductase (propane-1,3-diamine-forming) activity ; GO:0052893
+GO:0052893	rhea2go	RHEA:25996 > GO:N1-acetylspermine:oxygen oxidoreductase (propane-1,3-diamine-forming) activity ; GO:0052893
+GO:0052893	metacyc2go	MetaCyc:RXN-10465 > GO:N1-acetylspermine:oxygen oxidoreductase (propane-1,3-diamine-forming) activity ; GO:0052893
+GO:0052894	ec2go	EC:1.5.3.16 > GO:norspermine:oxygen oxidoreductase activity ; GO:0052894
+GO:0052894	rhea2go	RHEA:25816 > GO:norspermine:oxygen oxidoreductase activity ; GO:0052894
+GO:0052894	metacyc2go	MetaCyc:RXN-10464 > GO:norspermine:oxygen oxidoreductase activity ; GO:0052894
+GO:0052895	ec2go	EC:1.5.3.16 > GO:N1-acetylspermine:oxygen oxidoreductase (N1-acetylspermidine-forming) activity ; GO:0052895
+GO:0052895	rhea2go	RHEA:16133 > GO:N1-acetylspermine:oxygen oxidoreductase (N1-acetylspermidine-forming) activity ; GO:0052895
+GO:0052895	metacyc2go	MetaCyc:POLYAMINE-OXIDASE-RXN > GO:N1-acetylspermine:oxygen oxidoreductase (N1-acetylspermidine-forming) activity ; GO:0052895
+GO:0052896	ec2go	EC:1.5.3.14 > GO:spermidine oxidase (propane-1,3-diamine-forming) activity ; GO:0052896
+GO:0052896	kegg_reaction2go	KEGG_REACTION:R01914 > GO:spermidine oxidase (propane-1,3-diamine-forming) activity ; GO:0052896
+GO:0052896	rhea2go	RHEA:25820 > GO:spermidine oxidase (propane-1,3-diamine-forming) activity ; GO:0052896
+GO:0052896	metacyc2go	MetaCyc:RXN-10747 > GO:spermidine oxidase (propane-1,3-diamine-forming) activity ; GO:0052896
+GO:0052897	ec2go	EC:1.5.3.15 > GO:N8-acetylspermidine:oxygen oxidoreductase (propane-1,3-diamine-forming) activity ; GO:0052897
+GO:0052897	kegg_reaction2go	KEGG_REACTION:R09075 > GO:N8-acetylspermidine:oxygen oxidoreductase (propane-1,3-diamine-forming) activity ; GO:0052897
+GO:0052897	rhea2go	RHEA:25972 > GO:N8-acetylspermidine:oxygen oxidoreductase (propane-1,3-diamine-forming) activity ; GO:0052897
+GO:0052897	metacyc2go	MetaCyc:RXN-10463 > GO:N8-acetylspermidine:oxygen oxidoreductase (propane-1,3-diamine-forming) activity ; GO:0052897
+GO:0052899	ec2go	EC:1.5.3.13 > GO:N(1),N(12)-diacetylspermine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity ; GO:0052899
+GO:0052899	rhea2go	RHEA:25868 > GO:N(1),N(12)-diacetylspermine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity ; GO:0052899
+GO:0052899	metacyc2go	MetaCyc:RXN-10460 > GO:N(1),N(12)-diacetylspermine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity ; GO:0052899
+GO:0052900	ec2go	EC:1.5.3.14 > GO:spermine oxidase (propane-1,3-diamine-forming) activity ; GO:0052900
+GO:0052900	rhea2go	RHEA:25824 > GO:spermine oxidase (propane-1,3-diamine-forming) activity ; GO:0052900
+GO:0052900	metacyc2go	MetaCyc:RXN-6421 > GO:spermine oxidase (propane-1,3-diamine-forming) activity ; GO:0052900
+GO:0052901	ec2go	EC:1.5.3.13 > GO:spermine:oxygen oxidoreductase (spermidine-forming) activity ; GO:0052901
+GO:0052901	ec2go	EC:1.5.3.16 > GO:spermine:oxygen oxidoreductase (spermidine-forming) activity ; GO:0052901
+GO:0052901	ec2go	EC:1.5.3.17 > GO:spermine:oxygen oxidoreductase (spermidine-forming) activity ; GO:0052901
+GO:0052901	reactome2go	Reactome:R-HSA-141341 > GO:spermine:oxygen oxidoreductase (spermidine-forming) activity ; GO:0052901
+GO:0052901	kegg_reaction2go	KEGG_REACTION:R09076 > GO:spermine:oxygen oxidoreductase (spermidine-forming) activity ; GO:0052901
+GO:0052901	rhea2go	RHEA:25804 > GO:spermine:oxygen oxidoreductase (spermidine-forming) activity ; GO:0052901
+GO:0052901	metacyc2go	MetaCyc:RXN-9015 > GO:spermine:oxygen oxidoreductase (spermidine-forming) activity ; GO:0052901
+GO:0052902	ec2go	EC:1.5.3.13 > GO:spermidine:oxygen oxidoreductase (3-aminopropanal-forming) activity ; GO:0052902
+GO:0052902	ec2go	EC:1.5.3.17 > GO:spermidine:oxygen oxidoreductase (3-aminopropanal-forming) activity ; GO:0052902
+GO:0052902	kegg_reaction2go	KEGG_REACTION:R09077 > GO:spermidine:oxygen oxidoreductase (3-aminopropanal-forming) activity ; GO:0052902
+GO:0052902	rhea2go	RHEA:25808 > GO:spermidine:oxygen oxidoreductase (3-aminopropanal-forming) activity ; GO:0052902
+GO:0052902	metacyc2go	MetaCyc:RXN-12089 > GO:spermidine:oxygen oxidoreductase (3-aminopropanal-forming) activity ; GO:0052902
+GO:0052903	ec2go	EC:1.5.3.13 > GO:N1-acetylspermine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity ; GO:0052903
+GO:0052903	ec2go	EC:1.5.3.17 > GO:N1-acetylspermine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity ; GO:0052903
+GO:0052903	kegg_reaction2go	KEGG_REACTION:R03899 > GO:N1-acetylspermine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity ; GO:0052903
+GO:0052903	rhea2go	RHEA:25800 > GO:N1-acetylspermine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity ; GO:0052903
+GO:0052903	metacyc2go	MetaCyc:RXN-12090 > GO:N1-acetylspermine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity ; GO:0052903
+GO:0052903	metacyc2go	MetaCyc:RXN-9940 > GO:N1-acetylspermine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity ; GO:0052903
+GO:0052904	ec2go	EC:1.5.3.13 > GO:N1-acetylspermidine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity ; GO:0052904
+GO:0052904	ec2go	EC:1.5.3.17 > GO:N1-acetylspermidine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity ; GO:0052904
+GO:0052904	reactome2go	Reactome:R-HSA-141348 > GO:N1-acetylspermidine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity ; GO:0052904
+GO:0052904	reactome2go	Reactome:R-HSA-141351 > GO:N1-acetylspermidine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity ; GO:0052904
+GO:0052904	kegg_reaction2go	KEGG_REACTION:R09074 > GO:N1-acetylspermidine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity ; GO:0052904
+GO:0052904	rhea2go	RHEA:25812 > GO:N1-acetylspermidine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity ; GO:0052904
+GO:0052904	metacyc2go	MetaCyc:RXN-12091 > GO:N1-acetylspermidine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity ; GO:0052904
