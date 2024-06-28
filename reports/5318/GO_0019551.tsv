@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CGD	CGD:CAL0000201467	GDH2	PMID:32936835|CGD_REF:CAL0000228565		GO:0019551	glutamate catabolic process to 2-oxoglutarate	IMP			PANTHER:PTHR11606	20201006		NCBITaxon:237561
+MGI	MGI:MGI:95792	Got2	PMID:4193185		GO:0019551	glutamate catabolic process to 2-oxoglutarate	IDA			PANTHER:PTHR11879	20080131		NCBITaxon:10090
+MGI	MGI:MGI:95791	Got1	PMID:4193185		GO:0019551	glutamate catabolic process to 2-oxoglutarate	IDA			PANTHER:PTHR11879	20080131		NCBITaxon:10090
+PomBase	PomBase:SPCC132.04c	gdh2	PMID:28982178		GO:0019551	glutamate catabolic process to 2-oxoglutarate	EXP			PANTHER:PTHR11606	20180306		NCBITaxon:4896
+RGD	RGD:2722	Got2	PMID:16489927|RGD:13504861		GO:0019551	glutamate catabolic process to 2-oxoglutarate	IDA			PANTHER:PTHR11879	20180130		NCBITaxon:10116
+RGD	RGD:2721	Got1	PMID:16489927|RGD:13504861		GO:0019551	glutamate catabolic process to 2-oxoglutarate	IDA			PANTHER:PTHR11879	20180130		NCBITaxon:10116
