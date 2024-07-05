@@ -1,0 +1,75 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CGD	CGD:CAL0000175581	DPM2	PMID:26299246|CGD_REF:CAL0000212764		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP			PANTHER:PTHR15039	20150909		NCBITaxon:237561
+CGD	CGD:CAL0000190463	DPM1	PMID:26299246|CGD_REF:CAL0000212764		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP			PANTHER:PTHR43398	20150909		NCBITaxon:237561
+CGD	CGD:CAL0000175946	DPM3	PMID:26299246|CGD_REF:CAL0000212764		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP			PANTHER:PTHR16433	20150909		NCBITaxon:237561
+ComplexPortal	SGD:S000217964	CPX-1643	PMID:16100110		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IDA				20141016		NCBITaxon:559292
+ComplexPortal	ComplexPortal:CPX-6701	dds_human	PMID:32817466		GO:0006489	dolichyl diphosphate biosynthetic process	IDA				20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q86SQ9	DHDDS	PMID:32817466		GO:0006489	dolichyl diphosphate biosynthetic process	IDA			PANTHER:PTHR10291	20210712		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q96E22	NUS1	PMID:32817466		GO:0006489	dolichyl diphosphate biosynthetic process	IDA			PANTHER:PTHR21528	20210712		NCBITaxon:9606
+GO_Central	UniProtKB:Q9H553	ALG2	PMID:12684507		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IGI	UniProtKB:P43636		PANTHER:PTHR45918	20220407	GO:0005783	NCBITaxon:9606
+GeneDB	TriTrypDB:Tb927.10.4700	Tb927.10.4700	GO_REF:0000002		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP				20100914		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.9.9200	Tb927.9.9200	PMID:20382188		GO:0006490	oligosaccharide-lipid intermediate biosynthetic process	IMP				20100824		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.6.1140	ALG9	PMID:20382188		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP				20100907		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.11.11670	RFT1	PMID:23720757		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP				20140423		NCBITaxon:185431
+MGI	UniProtKB:Q9BV10	ALG12	PMID:11983712		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IDA			PANTHER:PTHR22760	20110208		NCBITaxon:9606
+PomBase	PomBase:SPCC330.08	alg11	PMID:11015724		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP			PANTHER:PTHR45919	20180217		NCBITaxon:4896
+PomBase	PomBase:SPAC7D4.06c	alg3	PMID:20854854		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP			PANTHER:PTHR12646	20191030		NCBITaxon:4896
+PomBase	PomBase:SPAC1006.05c	och1	PMID:20854854		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP			PANTHER:PTHR31834	20191030		NCBITaxon:4896
+PomBase	PomBase:SPBC342.01c	alg6	PMID:27587357		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP			PANTHER:PTHR12413	20171020		NCBITaxon:4896
+PomBase	PomBase:SPBC342.01c	alg6	PMID:27587357		GO:0042281	dolichyl pyrophosphate Man9GlcNAc2 alpha-1,3-glucosyltransferase activity	EXP			PANTHER:PTHR12413	20171020		NCBITaxon:4896
+PomBase	PomBase:SPBC56F2.10c	alg5	PMID:27587357		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP			PANTHER:PTHR10859	20171020		NCBITaxon:4896
+PomBase	PomBase:SPBC15D4.04	gpt2	PMID:7893167		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP			PANTHER:PTHR10571	20120503		NCBITaxon:4896
+PomBase	PomBase:SPBC342.01c	alg6	PMID:9813085		GO:0006490	oligosaccharide-lipid intermediate biosynthetic process	IMP			PANTHER:PTHR12413	20120628		NCBITaxon:4896
+PomBase	PomBase:SPBC342.01c	alg6	PMID:9813085		GO:0042281	dolichyl pyrophosphate Man9GlcNAc2 alpha-1,3-glucosyltransferase activity	IMP			PANTHER:PTHR12413	20120628		NCBITaxon:4896
+RGD	RGD:735124	Dpagt1	PMID:8280061|RGD:1624315		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IDA			PANTHER:PTHR10571	20070508		NCBITaxon:10116
+SGD	SGD:S000005528	ALG6	PMID:10336995		GO:0006490	oligosaccharide-lipid intermediate biosynthetic process	IMP		UniProtKB:Q12001	PANTHER:PTHR12413	20070427		NCBITaxon:559292
+SGD	SGD:S000005528	ALG6	PMID:10336995		GO:0042281	dolichyl pyrophosphate Man9GlcNAc2 alpha-1,3-glucosyltransferase activity	IMP		UniProtKB:Q12001	PANTHER:PTHR12413	20070810		NCBITaxon:559292
+SGD	SGD:S000005313	ALG12	PMID:10336995		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP		UniProtKB:P53730	PANTHER:PTHR22760	20021220		NCBITaxon:559292
+SGD	SGD:S000000178	ALG3	PMID:11308030		GO:0006490	oligosaccharide-lipid intermediate biosynthetic process	IDA		UniProtKB:P38179	PANTHER:PTHR12646	20070417		NCBITaxon:559292
+SGD	SGD:S000000274	ALG14	PMID:15615718		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP		UniProtKB:P38242	PANTHER:PTHR12154	20051109		NCBITaxon:559292
+SGD	SGD:S000003015	ALG13	PMID:15615718		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP		UniProtKB:P53178	PANTHER:PTHR47043	20051109		NCBITaxon:559292
+SGD	SGD:S000005163	ALG9	PMID:15987956		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP		UniProtKB:P53868	PANTHER:PTHR22760	20140318		NCBITaxon:559292
+SGD	SGD:S000000274	ALG14	PMID:16100110		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IPI	SGD:S000003015	UniProtKB:P38242	PANTHER:PTHR12154	20051109		NCBITaxon:559292
+SGD	SGD:S000000274	ALG14	PMID:16100113		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP		UniProtKB:P38242	PANTHER:PTHR12154	20051109		NCBITaxon:559292
+SGD	SGD:S000000274	ALG14	PMID:16100113		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IDA		UniProtKB:P38242	PANTHER:PTHR12154	20051109		NCBITaxon:559292
+SGD	SGD:S000003015	ALG13	PMID:16100113		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP		UniProtKB:P53178	PANTHER:PTHR47043	20051109		NCBITaxon:559292
+SGD	SGD:S000003015	ALG13	PMID:16100113		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IDA		UniProtKB:P53178	PANTHER:PTHR47043	20051109		NCBITaxon:559292
+SGD	SGD:S000004993	ALG11	PMID:16878994		GO:0006490	oligosaccharide-lipid intermediate biosynthetic process	IDA		UniProtKB:P53954	PANTHER:PTHR45919	20070417		NCBITaxon:559292
+SGD	SGD:S000003033	ALG2	PMID:16878994		GO:0006490	oligosaccharide-lipid intermediate biosynthetic process	IDA		UniProtKB:P43636	PANTHER:PTHR45918	20070417		NCBITaxon:559292
+SGD	SGD:S000001311	DFG10	PMID:20637498		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP		UniProtKB:P40526	PANTHER:PTHR14624	20120412		NCBITaxon:559292
+SGD	SGD:S000006387	DPM1	PMID:2146492		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP		UniProtKB:P14020	PANTHER:PTHR43398	20150831		NCBITaxon:559292
+SGD	SGD:S000003539	OST1	PMID:29301962		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IDA		UniProtKB:P41543	PANTHER:PTHR21049	20211118		NCBITaxon:559292
+SGD	SGD:S000005593	ALG8	PMID:3536907		GO:0006490	oligosaccharide-lipid intermediate biosynthetic process	IMP		UniProtKB:P40351	PANTHER:PTHR12413	20010118		NCBITaxon:559292
+SGD	SGD:S000000314	ALG1	PMID:7037780		GO:0006490	oligosaccharide-lipid intermediate biosynthetic process	IMP		UniProtKB:P16661	PANTHER:PTHR13036	20050301		NCBITaxon:559292
+SGD	SGD:S000000178	ALG3	PMID:8842708		GO:0006490	oligosaccharide-lipid intermediate biosynthetic process	IMP		UniProtKB:P38179	PANTHER:PTHR12646	20070417		NCBITaxon:559292
+UniProt	UniProtKB:Q9Y673	ALG5	PMID:10359825		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP			PANTHER:PTHR10859	20240215		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y672	ALG6	PMID:10359825		GO:0042281	dolichyl pyrophosphate Man9GlcNAc2 alpha-1,3-glucosyltransferase activity	IGI	UniProtKB:Q12001		PANTHER:PTHR12413	20240215		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y672	ALG6	PMID:10359825		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP			PANTHER:PTHR12413	20240220		NCBITaxon:9606
+UniProt	UniProtKB:Q92685	ALG3	PMID:10581255		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IDA			PANTHER:PTHR12646	20240207		NCBITaxon:9606
+UniProt	UniProtKB:Q9BV10	ALG12	PMID:11983712		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP			PANTHER:PTHR22760	20240226		NCBITaxon:9606
+UniProt	UniProtKB:Q9BV10	ALG12	PMID:12093361		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP			PANTHER:PTHR22760	20240226		NCBITaxon:9606
+UniProt	UniProtKB:Q9BVK2	ALG8	PMID:12480927		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP			PANTHER:PTHR12413	20240221		NCBITaxon:9606
+UniProt	UniProtKB:Q9BT22	ALG1	PMID:14973778		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IDA			PANTHER:PTHR13036	20220124		NCBITaxon:9606
+UniProt	UniProtKB:Q9H6U8	ALG9	PMID:15148656		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IGI	UniProtKB:P53868		PANTHER:PTHR22760	20240226		NCBITaxon:9606
+UniProt	UniProtKB:Q9BVK2	ALG8	PMID:15235028		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP			PANTHER:PTHR12413	20240221		NCBITaxon:9606
+UniProt	UniProtKB:Q9H6U8	ALG9	PMID:15945070		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IGI	UniProtKB:P53868		PANTHER:PTHR22760	20240226		NCBITaxon:9606
+UniProt	UniProtKB:Q96AA3	RFT1	PMID:18313027		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP			PANTHER:PTHR13117	20240222		NCBITaxon:9606
+UniProt	AGI_LocusCode:AT2G40190	LEW3	PMID:19732381|TAIR:Publication:501734878		GO:0006490	oligosaccharide-lipid intermediate biosynthetic process	IMP		TAIR:locus:2065080		20210331		NCBITaxon:3702
+UniProt	UniProtKB:Q2TAA5	ALG11	PMID:20080937		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP			PANTHER:PTHR45919	20240222		NCBITaxon:9606
+UniProt	UniProtKB:Q9H8P0	SRD5A3	PMID:20637498		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP			PANTHER:PTHR14624	20100721		NCBITaxon:9606
+UniProt	MGI:MGI:1930252	Srd5a3	PMID:20637498|MGI:MGI:4821529		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP			PANTHER:PTHR14624	20100721		NCBITaxon:10090
+UniProt	UniProtKB:Q5I7T1	ALG10B	PMID:20950623		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IGI	UniProtKB:P50076		PANTHER:PTHR12989	20240221		NCBITaxon:9606
+UniProt	UniProtKB:Q9NP73	ALG13	PMID:22492991		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP			PANTHER:PTHR12867	20240207		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y672	ALG6	PMID:25792706		GO:0042281	dolichyl pyrophosphate Man9GlcNAc2 alpha-1,3-glucosyltransferase activity	IMP			PANTHER:PTHR12413	20240220		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y672	ALG6	PMID:25792706		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP			PANTHER:PTHR12413	20240220		NCBITaxon:9606
+UniProt	UniProtKB:Q5EA65	DPAGT1	PMID:2846531		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IDA			PANTHER:PTHR10571	20240223		NCBITaxon:9913
+UniProt	UniProtKB:Q8U4M3	PF0058	PMID:28743912		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IDA				20220818		NCBITaxon:186497
+UniProt	UniProtKB:Q86SQ9	DHDDS	PMID:28842490		GO:0006489	dolichyl diphosphate biosynthetic process	IDA			PANTHER:PTHR10291	20180703		NCBITaxon:9606
+UniProt	UniProtKB:A8B1Z2	UPPS	PMID:28842490		GO:0006489	dolichyl diphosphate biosynthetic process	IDA				20180703		NCBITaxon:184922
+UniProt	UniProtKB:Q96E22	NUS1	PMID:28842490		GO:0006489	dolichyl diphosphate biosynthetic process	IDA			PANTHER:PTHR21528	20180703		NCBITaxon:9606
+UniProt	UniProtKB:Q8THV9	MA_4402	PMID:28842490		GO:0006489	dolichyl diphosphate biosynthetic process	IDA			PANTHER:PTHR10291	20181221		NCBITaxon:188937
+UniProt	UniProtKB:Q8TJQ7	uppS	PMID:28842490		GO:0006489	dolichyl diphosphate biosynthetic process	IDA			PANTHER:PTHR10291	20181221		NCBITaxon:188937
+UniProt	UniProtKB:Q9H3H5	DPAGT1	PMID:29459785		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IDA			PANTHER:PTHR10571	20180514		NCBITaxon:9606
+UniProt	UniProtKB:Q9H553	ALG2	PMID:35136180		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IDA			PANTHER:PTHR45918	20240214		NCBITaxon:9606
+UniProt	UniProtKB:Q96F25	ALG14	PMID:36200043		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IDA			PANTHER:PTHR12154	20240212		NCBITaxon:9606
+dictyBase	dictyBase:DDB_G0279349	alg9	PMID:23320427		GO:0006488	dolichol-linked oligosaccharide biosynthetic process	IMP			PANTHER:PTHR22760	20130507		NCBITaxon:44689
