@@ -1,0 +1,8 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:Q9BXM7	PINK1	PMID:19880420		GO:0010857	calcium-dependent protein kinase activity	IDA			PANTHER:PTHR22972	20091202		NCBITaxon:9606
+CACAO	UniProtKB:Q7XZK5	CDPK1	PMID:22760783		GO:0010857	calcium-dependent protein kinase activity	IDA				20131013		NCBITaxon:3827
+UniProt	AGI_LocusCode:AT5G04870	CPK1	PMID:10823962|TAIR:Publication:393		GO:0010857	calcium-dependent protein kinase activity	IDA		TAIR:locus:2175503		20210401		NCBITaxon:3702
+UniProt	UniProtKB:P53682	CPK23	PMID:11910009		GO:0010857	calcium-dependent protein kinase activity	IDA			PANTHER:PTHR24349	20170302		NCBITaxon:39947
+UniProt	UniProtKB:Q53P85	CPK24	PMID:16255173		GO:0010857	calcium-dependent protein kinase activity	IDA			PANTHER:PTHR24349	20170302		NCBITaxon:39947
+UniProt	UniProtKB:Q0D715	CPK18	PMID:23456295		GO:0010857	calcium-dependent protein kinase activity	IDA			PANTHER:PTHR24349	20170302		NCBITaxon:39947
+ZFIN	ZFIN:ZDB-GENE-080402-7	camk1da	PMID:27207832		GO:0010857	calcium-dependent protein kinase activity	IDA			PANTHER:PTHR24347	20160829		NCBITaxon:7955
