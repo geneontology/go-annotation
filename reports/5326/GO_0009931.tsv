@@ -1,0 +1,8 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CAFA	MGI:MGI:88256	Camk2a	PMID:15994560|MGI:MGI:5882895		GO:0009931	calcium-dependent protein serine/threonine kinase activity	IDA			PANTHER:PTHR24347	20160919		NCBITaxon:10090
+GeneDB	PlasmoDB:PF3D7_0217500	CDPK1	PMID:8142371		GO:0009931	calcium-dependent protein serine/threonine kinase activity	IDA				20220901		NCBITaxon:36329
+GeneDB	PlasmoDB:PF3D7_0610600	CDPK2	PMID:9247932		GO:0009931	calcium-dependent protein serine/threonine kinase activity	IDA				20220901		NCBITaxon:36329
+TAIR	AGI_LocusCode:AT2G17290	CPK6	PMID:23766366|TAIR:Publication:501755775		GO:0009931	calcium-dependent protein serine/threonine kinase activity	IDA		TAIR:locus:2827528		20131016		NCBITaxon:3702
+UniProt	UniProtKB:A0AAR7	CCAMK	PMID:16810257		GO:0009931	calcium-dependent protein serine/threonine kinase activity	IDA				20100923		NCBITaxon:34305
+UniProt	UniProtKB:A0A2I0BVG8	PDCK1	PMID:27923926		GO:0009931	calcium-dependent protein serine/threonine kinase activity	IDA				20210310		NCBITaxon:5843
+UniProt	UniProtKB:Q13554	CAMK2B	PMID:31930741		GO:0009931	calcium-dependent protein serine/threonine kinase activity	IDA			PANTHER:PTHR24347	20220711		NCBITaxon:9606
