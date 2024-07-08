@@ -1,0 +1,4 @@
+term	file	line
+GO:0007205	unirule2go	UniRule:UR000759781 > GO:protein kinase C-activating G protein-coupled receptor signaling pathway ; GO:0007205
+GO:0007205	interpro2go	InterPro:IPR000756 Diacylglycerol kinase, accessory domain > GO:protein kinase C-activating G protein-coupled receptor signaling pathway ; GO:0007205
+GO:0090036	interpro2go	InterPro:IPR028540 A-kinase anchor protein 12 > GO:regulation of protein kinase C signaling ; GO:0090036
