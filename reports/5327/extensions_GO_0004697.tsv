@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	UniProtKB:P58400	NRXN1	PMID:26078884		GO:0033138	positive regulation of peptidyl-serine phosphorylation	IDA				20170814	UniProtKB:Q05586|CL:0010012|GO:0004697|GO:0010737	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P00533	EGFR	PMID:22732145		GO:0005768	endosome	IDA			PANTHER:PTHR24416	20161111	GO:0004697	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P52824	DGKQ	PMID:22732145		GO:0005768	endosome	IDA			PANTHER:PTHR11255	20161111	GO:0004697	NCBITaxon:9606

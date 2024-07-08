@@ -1,0 +1,43 @@
+term	file	line
+GO:0004697	ec2go	EC:2.7.11.13 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-1433508 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-193703 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-198314 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-2179413 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-2730863 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-374664 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-429698 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-450533 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-450550 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-5138432 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-5218805 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-5218823 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-5229194 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-5623667 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-5625784 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-5671749 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-74615 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-751040 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-8932284 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-8934446 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-9010681 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-9021357 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-909552 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-927889 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-9626817 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-9632858 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	reactome2go	Reactome:R-HSA-9796053 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	unirule2go	UniRule:UR000130793 > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR014375 Protein kinase C, alpha/beta/gamma types > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR014376 Protein kinase C, delta/epsilon/eta/theta types > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR027264 Protein kinase C, theta > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR027431 Protein kinase C, eta > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR027436 Protein kinase C, delta > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR034661 Atypical protein kinase C iota type, catalytic domain > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR034663 Classical Protein Kinase C alpha, catalytic domain > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR034664 Classical protein kinase C beta, catalytic domain > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR034665 Novel protein kinase C eta, catalytic domain > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR034667 Novel protein kinase C delta, catalytic domain > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR034668 Novel protein kinase C theta, catalytic domain > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR034669 Novel protein kinase C epsilon, catalytic domain > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
+GO:0004697	interpro2go	InterPro:IPR037312 Protein kinase C-like, HR1 domain > GO:diacylglycerol-dependent serine/threonine kinase activity ; GO:0004697
