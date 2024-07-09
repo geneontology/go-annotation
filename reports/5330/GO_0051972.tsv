@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:Q9UKK3	PARP4	PMID:15169895		GO:0051972	regulation of telomerase activity	IDA			PANTHER:PTHR46530	20170406		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q6NT76	HMBOX1	PMID:23685356		GO:0051972	regulation of telomerase activity	IDA			PANTHER:PTHR14618	20180815		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9BQ15	NABP2	PMID:25589350	not	GO:0051972	regulation of telomerase activity	IMP			PANTHER:PTHR13356	20151218		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q13315	ATM	PMID:26586427	not	GO:0051972	regulation of telomerase activity	IMP			PANTHER:PTHR11139	20151218		NCBITaxon:9606
