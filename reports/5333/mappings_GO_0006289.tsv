@@ -1,0 +1,31 @@
+term	file	line
+GO:0006289	unirule2go	UniRule:UR000080076 > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	unirule2go	UniRule:UR000101266 > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	unirule2go	UniRule:UR000163512 > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	unirule2go	UniRule:UR000859774 > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	unirule2go	UniRule:UR001116792 > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	unirule2go	UniRule:UR001350751 > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	unirule2go	UniRule:UR001590778 > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	interpro2go	InterPro:IPR000465 XPA/RAD14 > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	interpro2go	InterPro:IPR001044 XPG/Rad2 endonuclease, eukaryotes > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	interpro2go	InterPro:IPR001161 Helicase XPB/Ssl2 > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	interpro2go	InterPro:IPR001945 RAD3/XPD family > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	interpro2go	InterPro:IPR004575 Cdk-activating kinase assembly factor MAT1/Tfb3 > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	interpro2go	InterPro:IPR004583 DNA repair protein Rad4 > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	interpro2go	InterPro:IPR004598 Transcription factor TFIIH subunit p52/Tfb2 > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	interpro2go	InterPro:IPR004600 TFIIH subunit Tfb4/GTF2H3 > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	interpro2go	InterPro:IPR004601 UV-endonuclease UvdE > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	interpro2go	InterPro:IPR004602 UvrABC system subunit A > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	interpro2go	InterPro:IPR004791 UvrABC system, subunit C > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	interpro2go	InterPro:IPR004806 UV excision repair protein Rad23 > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	interpro2go	InterPro:IPR004807 UvrABC system, subunit B > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	interpro2go	InterPro:IPR009400 TFIIH subunit TTDA/Tfb5 > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	interpro2go	InterPro:IPR012170 TFIIH subunit Ssl1/p44 > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	interpro2go	InterPro:IPR012904 8-oxoguanine DNA glycosylase, N-terminal > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	interpro2go	InterPro:IPR015360 XPC-binding domain > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	interpro2go	InterPro:IPR027079 TFIIH subunit Tfb1/GTF2H1 > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	interpro2go	InterPro:IPR036353 XPC-binding domain superfamily > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	interpro2go	InterPro:IPR047296 UvrC/Cho-like, GIY-YIG domain > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	hamap2go	HAMAP:MF_00203 > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	hamap2go	HAMAP:MF_00204 > GO:nucleotide-excision repair ; GO:0006289
+GO:0006289	hamap2go	HAMAP:MF_00205 > GO:nucleotide-excision repair ; GO:0006289

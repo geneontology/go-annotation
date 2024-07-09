@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:1914487	Cul4a	PMID:19481525		GO:2000819	regulation of nucleotide-excision repair	IMP	MGI:MGI:3851025		PANTHER:PTHR11932	20131229	GO:0006289	NCBITaxon:10090
+MGI	MGI:MGI:103557	Xpc	PMID:22431748		GO:0003684	damaged DNA binding	IDA			PANTHER:PTHR12135	20190513	GO:0006289|GO:0070914|GO:0090734	NCBITaxon:10090
+UniProt	UniProtKB:Q8N6T7	SIRT6	PMID:19109893		GO:0034979	NAD-dependent protein lysine deacetylase activity	IDA			PANTHER:PTHR47651	20220301	UniProtKB:Q92466|GO:0006289	NCBITaxon:9606
