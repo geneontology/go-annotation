@@ -1,0 +1,17 @@
+term	file	line
+GO:0003720	reactome2go	Reactome:R-HSA-163090 > GO:telomerase activity ; GO:0003720
+GO:0003720	reactome2go	Reactome:R-HSA-164617 > GO:telomerase activity ; GO:0003720
+GO:0003720	rfam2go	Rfam:RF00024 Telomerase-vert > GO:telomerase activity ; GO:0003720
+GO:0003720	rfam2go	Rfam:RF00025 Telomerase-cil > GO:telomerase activity ; GO:0003720
+GO:0003720	rfam2go	Rfam:RF02462 Telomerase_Asco > GO:telomerase activity ; GO:0003720
+GO:0003964	ec2go	EC:2.7.7.49 > GO:RNA-directed DNA polymerase activity ; GO:0003964
+GO:0003964	unirule2go	UniRule:UR000584809 > GO:RNA-directed DNA polymerase activity ; GO:0003964
+GO:0003964	metacyc2go	MetaCyc:RNA-DIRECTED-DNA-POLYMERASE-RXN > GO:RNA-directed DNA polymerase activity ; GO:0003964
+GO:0003964	reactome2go	Reactome:R-HSA-164504 > GO:RNA-directed DNA polymerase activity ; GO:0003964
+GO:0003964	reactome2go	Reactome:R-HSA-164520 > GO:RNA-directed DNA polymerase activity ; GO:0003964
+GO:0003964	hamap2go	HAMAP:MF_04073 > GO:RNA-directed DNA polymerase activity ; GO:0003964
+GO:0003964	interpro2go	InterPro:IPR000123 RNA-directed DNA polymerase (reverse transcriptase), msDNA > GO:RNA-directed DNA polymerase activity ; GO:0003964
+GO:0003964	interpro2go	InterPro:IPR010659 Reverse transcriptase connection > GO:RNA-directed DNA polymerase activity ; GO:0003964
+GO:0003964	interpro2go	InterPro:IPR010661 Reverse transcriptase thumb > GO:RNA-directed DNA polymerase activity ; GO:0003964
+GO:0003964	interpro2go	InterPro:IPR021891 Telomerase ribonucleoprotein complex - RNA-binding domain > GO:RNA-directed DNA polymerase activity ; GO:0003964
+GO:0003964	uniprotkb_kw2go	UniProtKB-KW:KW-0695 RNA-directed DNA polymerase > GO:RNA-directed DNA polymerase activity ; GO:0003964
