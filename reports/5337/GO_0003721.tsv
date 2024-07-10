@@ -1,0 +1,32 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:O14746	TERT	PMID:11313459		GO:0003721	telomerase RNA reverse transcriptase activity	IMP			PANTHER:PTHR12066	20180221		NCBITaxon:9606
+BHF-UCL	ComplexPortal:CPX-17	tert-terc_human	PMID:11313459		GO:0003721	telomerase RNA reverse transcriptase activity	IMP				20150217		NCBITaxon:9606
+BHF-UCL	RNAcentral:URS00004A7003_9606	URS00004A7003_9606	PMID:11313459	contributes_to	GO:0003721	telomerase RNA reverse transcriptase activity	IMP				20150217		NCBITaxon:9606
+BHF-UCL	RNAcentral:URS00004416C5_9606	URS00004416C5_9606	PMID:11313459	contributes_to	GO:0003721	telomerase RNA reverse transcriptase activity	IMP				20170621		NCBITaxon:9606
+BHF-UCL	UniProtKB:O14746	TERT	PMID:15632080		GO:0003721	telomerase RNA reverse transcriptase activity	IDA			PANTHER:PTHR12066	20081208		NCBITaxon:9606
+BHF-UCL	UniProtKB:O14746	TERT	PMID:17940095		GO:0003721	telomerase RNA reverse transcriptase activity	IDA			PANTHER:PTHR12066	20151118		NCBITaxon:9606
+BHF-UCL	UniProtKB:O14746	TERT	PMID:19701182		GO:0003721	telomerase RNA reverse transcriptase activity	IDA			PANTHER:PTHR12066	20180221		NCBITaxon:9606
+BHF-UCL	ComplexPortal:CPX-20	tert-rmrp_human	PMID:19701182	not	GO:0003721	telomerase RNA reverse transcriptase activity	IDA				20170131		NCBITaxon:9606
+BHF-UCL	ComplexPortal:CPX-17	tert-terc_human	PMID:19701182		GO:0003721	telomerase RNA reverse transcriptase activity	IDA				20150209		NCBITaxon:9606
+BHF-UCL	RNAcentral:URS00004A7003_9606	URS00004A7003_9606	PMID:19701182	contributes_to	GO:0003721	telomerase RNA reverse transcriptase activity	IDA				20150219		NCBITaxon:9606
+BHF-UCL	RNAcentral:URS00004416C5_9606	URS00004416C5_9606	PMID:19701182	contributes_to	GO:0003721	telomerase RNA reverse transcriptase activity	IDA				20170621		NCBITaxon:9606
+BHF-UCL	MGI:MGI:101947	Hnrnpd	PMID:22633954|MGI:MGI:5438900		GO:1905663	positive regulation of telomerase RNA reverse transcriptase activity	IMP			PANTHER:PTHR48033	20161109		NCBITaxon:10090
+BHF-UCL	UniProtKB:Q9Y6F1	PARP3	PMID:24528514		GO:1905662	negative regulation of telomerase RNA reverse transcriptase activity	IMP			PANTHER:PTHR10459	20180416	UniProtKB:O14746	NCBITaxon:9606
+BHF-UCL	UniProtKB:O14746	TERT	PMID:9398860		GO:0003721	telomerase RNA reverse transcriptase activity	IDA			PANTHER:PTHR12066	20170220		NCBITaxon:9606
+CGD	CGD:CAL0000184329	TERT	PMID:12477797|CGD_REF:CAL0081268		GO:0003721	telomerase RNA reverse transcriptase activity	IMP			PANTHER:PTHR12066	20140625		NCBITaxon:237561
+ComplexPortal	ComplexPortal:CPX-265	telomerase_human-1	PMID:20351177		GO:0003721	telomerase RNA reverse transcriptase activity	NAS				20230615		NCBITaxon:9606
+GeneDB	TriTrypDB:Tb927.11.835	TER	PMID:23523918		GO:0003721	telomerase RNA reverse transcriptase activity	IMP				20130828		NCBITaxon:185431
+PomBase	PomBase:SPBC29A3.14c	trt1	PMID:18157152		GO:0003721	telomerase RNA reverse transcriptase activity	IDA			PANTHER:PTHR12066	20151006		NCBITaxon:4896
+PomBase	PomBase:SPBC29A3.14c	trt1	PMID:9336465		GO:0003721	telomerase RNA reverse transcriptase activity	IDA			PANTHER:PTHR12066	20170816		NCBITaxon:4896
+PomBase	PomBase:SPBC29A3.14c	trt1	PMID:9774280		GO:0003721	telomerase RNA reverse transcriptase activity	IMP			PANTHER:PTHR12066	20050110		NCBITaxon:4896
+RGD	RGD:70494	Tert	PMID:11517337|RGD:70299		GO:0003721	telomerase RNA reverse transcriptase activity	TAS			PANTHER:PTHR12066	20050217		NCBITaxon:10116
+SGD	SGD:S000004310	EST2	PMID:9110970		GO:0003721	telomerase RNA reverse transcriptase activity	IMP		UniProtKB:Q06163	PANTHER:PTHR12066	20181212		NCBITaxon:559292
+UniProt	UniProtKB:O77448	TERT	PMID:10944124		GO:0003721	telomerase RNA reverse transcriptase activity	IDA				20200311		NCBITaxon:312017
+UniProt	UniProtKB:O14746	TERT	PMID:14991929		GO:0003721	telomerase RNA reverse transcriptase activity	TAS			PANTHER:PTHR12066	20040427		NCBITaxon:9606
+UniProt	UniProtKB:O77448	TERT	PMID:15696174		GO:0003721	telomerase RNA reverse transcriptase activity	IDA				20200311		NCBITaxon:312017
+UniProt	UniProtKB:O77448	TERT	PMID:16462747		GO:0003721	telomerase RNA reverse transcriptase activity	IDA				20200311		NCBITaxon:312017
+UniProt	UniProtKB:Q4KTA7	tert	PMID:18039659		GO:0003721	telomerase RNA reverse transcriptase activity	IDA				20151215		NCBITaxon:31033
+UniProt	UniProtKB:Q1PS67	tert	PMID:18039659		GO:0003721	telomerase RNA reverse transcriptase activity	IDA			PANTHER:PTHR12066	20151215		NCBITaxon:8090
+UniProt	UniProtKB:O77448	TERT	PMID:20713447		GO:0003721	telomerase RNA reverse transcriptase activity	IDA				20200311		NCBITaxon:312017
+UniProt	UniProtKB:Q4KTA7	tert	PMID:24055314		GO:0003721	telomerase RNA reverse transcriptase activity	IDA				20151215		NCBITaxon:31033
+UniProt	PomBase:SPBC29A3.14c	trt1	PMID:24793650		GO:0003721	telomerase RNA reverse transcriptase activity	IDA			PANTHER:PTHR12066	20151216		NCBITaxon:4896
