@@ -2,7 +2,7 @@
 name: Annotation review for obsoletion  - term + regulation children
 about: 'Annotation review for obsoletion '
 title: Review annotations to [INSERT GO TERM]  & regulation children
-labels: annotation review, reg_ann_to_list_of_terms, UniProt KW2GO mapping
+labels: annotation review, reg_ann_to_list_of_terms
 assignees: ''
 
 ---
