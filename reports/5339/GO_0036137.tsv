@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+SGD	SGD:S000001179	ARO9	PMID:9491082		GO:0036137	kynurenine aminotransferase activity	IMP		UniProtKB:P38840	PANTHER:PTHR42790	20180428		NCBITaxon:559292
+UniProt	UniProtKB:Q0IG34	HKT	PMID:11880382		GO:0036137	kynurenine aminotransferase activity	IDA				20201116		NCBITaxon:7159
+UniProt	UniProtKB:Q0IG34	HKT	PMID:12220660		GO:0036137	kynurenine aminotransferase activity	IDA				20201116		NCBITaxon:7159
+UniProt	UniProtKB:Q7PRG3	HKT	PMID:16262702		GO:0036137	kynurenine aminotransferase activity	IDA			PANTHER:PTHR21152	20201116		NCBITaxon:7165
