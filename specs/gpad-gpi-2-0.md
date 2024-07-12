@@ -112,7 +112,7 @@ Header property | Example value | Comment
 | <code><a name="Property_Value">Property_Value</a></code> | <code>[Text](#Text)</code>| |
 | <code><a name="ID">ID</a></code> | <code>[Prefix](#Prefix) ':' [Local_ID](#Local_ID)</code>| |
 | <code><a name="Prefix">Prefix</a></code> | <code>[Alpha_Char](#Alpha_Char) [ID_Char](#ID_Char)*</code>| The [GO database registry](https://github.com/geneontology/go-site/blob/master/metadata/db-xrefs.yaml) contains a list of valid prefixes that can be used in GPAD or GPI files. Every identifier prefix used in a GPAD or GPI file MUST have an entry in the registry. |
-| <code><a name="Local_ID">Local_ID</a></code> | <code>( [ID_Char](#ID_Char) \| ':' )+</code>| |
+| <code><a name="Local_ID">Local_ID</a></code> | <code>( [ID_Char](#ID_Char) \| ':' \| '\/' )+</code>| |
 | <code><a name="ID_Char">ID_Char</a></code> | <code>[Alpha_Char](#Alpha_Char) \| [Digit](#Digit) \| '_' \| '-' \| '.'</code>| |
 | <code><a name="Date_Or_Date_Time">Date_Or_Date_Time</a></code> | <code>[Date](#Date) \| [Date_Time](#Date_Time)</code>| |
 | <code><a name="Date">Date</a></code> | <code>YYYY-MM-DD</code>| Corresponds to [xsd:date](https://www.w3.org/TR/xmlschema-2/#date) without optional timezone (a subset of the ISO 8601 standard) |
