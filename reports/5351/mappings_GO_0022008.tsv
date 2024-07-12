@@ -1,0 +1,4 @@
+term	file	line
+GO:0022008	wikipedia2go	Wikipedia:Neurogenesis > GO:neurogenesis ; GO:0022008
+GO:0022008	interpro2go	InterPro:IPR039041 Nav/unc-53 family > GO:neurogenesis ; GO:0022008
+GO:0022008	interpro2go	InterPro:IPR040470 Vexin > GO:neurogenesis ; GO:0022008
