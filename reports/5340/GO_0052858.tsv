@@ -1,0 +1,8 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoliWiki	UniProtKB:P76594	patZ	PMID:21696463		GO:0052858	peptidyl-lysine acetyltransferase activity	IMP			PANTHER:PTHR42793	20150820		NCBITaxon:83333
+PomBase	PomBase:SPBC16A3.11	eso1	PMID:21300781		GO:0052858	peptidyl-lysine acetyltransferase activity	IMP			PANTHER:PTHR45873	20130704	GO:0000085|PomBase:SPAC10F6.09c|GO:0007064	NCBITaxon:4896
+PomBase	PomBase:SPBC16A3.11	eso1	PMID:21300781		GO:0052858	peptidyl-lysine acetyltransferase activity	IMP			PANTHER:PTHR45873	20210522	GO:0051320|PomBase:SPAC10F6.09c|GO:0007064	NCBITaxon:4896
+PomBase	PomBase:SPBC16A3.11	eso1	PMID:21979813		GO:0052858	peptidyl-lysine acetyltransferase activity	IMP			PANTHER:PTHR45873	20180302	GO:0000084|PomBase:SPAC10F6.09c|GO:0051177	NCBITaxon:4896
+TAIR	AGI_LocusCode:AT5G11340	NAA50	PMID:32461302|TAIR:Publication:501789796		GO:0052858	peptidyl-lysine acetyltransferase activity	IDA		TAIR:locus:2147997		20200623		NCBITaxon:3702
+UniProt	UniProtKB:Q9GZZ1	NAA50	PMID:19744929		GO:0052858	peptidyl-lysine acetyltransferase activity	IDA			PANTHER:PTHR42919	20140131		NCBITaxon:9606
+UniProt	UniProtKB:D5VRB9	Metin_0452	PMID:25151136	not	GO:0052858	peptidyl-lysine acetyltransferase activity	IDA				20200526		NCBITaxon:573063
