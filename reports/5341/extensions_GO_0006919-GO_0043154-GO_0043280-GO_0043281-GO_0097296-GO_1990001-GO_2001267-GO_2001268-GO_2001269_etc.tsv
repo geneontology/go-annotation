@@ -1,0 +1,10 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	RGD:61936	Slc22a2	PMID:30120945|RGD:30309911		GO:0010628	positive regulation of gene expression	IMP			PANTHER:PTHR24064	20200501	UniProtKB:P55213|CL:0002306|GO:0006919	NCBITaxon:10116
+UniProt	UniProtKB:P55211	CASP9	PMID:16352606		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20220627	UniProtKB:P55210|GO:0006919	NCBITaxon:9606
+UniProt	UniProtKB:Q14790	CASP8	PMID:16916640		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20220627	UniProtKB:P55210|GO:0006919	NCBITaxon:9606
+UniProt	UniProtKB:Q14790	CASP8	PMID:16916640		GO:0051604	protein maturation	IDA			PANTHER:PTHR10454	20220627	GO:0006919	NCBITaxon:9606
+UniProt	UniProtKB:Q92851	CASP10	PMID:16916640		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20220627	UniProtKB:P55210|GO:0006919	NCBITaxon:9606
+UniProt	UniProtKB:Q92851	CASP10	PMID:16916640		GO:0051604	protein maturation	IDA			PANTHER:PTHR10454	20220627	GO:0006919	NCBITaxon:9606
+UniProt	UniProtKB:P55211	CASP9	PMID:16916640		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20220627	UniProtKB:P55210|GO:0006919	NCBITaxon:9606
+UniProt	UniProtKB:P55211	CASP9	PMID:16916640		GO:0051604	protein maturation	IDA			PANTHER:PTHR10454	20220627	GO:0006919	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P43357	MAGEA3	PMID:12097332		GO:0010955	negative regulation of protein processing	IDA			PANTHER:PTHR11736	20150330	GO:0043154|GO:1902236	NCBITaxon:9606

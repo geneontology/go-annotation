@@ -1,0 +1,5 @@
+term	file	line
+GO:0006919	interpro2go	InterPro:IPR009062 Smac/DIABLO-like superfamily > GO:activation of cysteine-type endopeptidase activity involved in apoptotic process ; GO:0006919
+GO:0006919	interpro2go	InterPro:IPR015142 Smac/DIABLO protein > GO:activation of cysteine-type endopeptidase activity involved in apoptotic process ; GO:0006919
+GO:0006919	interpro2go	InterPro:IPR024140 Phorbol-12-myristate-13-acetate-induced protein 1 > GO:activation of cysteine-type endopeptidase activity involved in apoptotic process ; GO:0006919
+GO:0043154	interpro2go	InterPro:IPR024135 Ragulator complex protein LAMTOR5 > GO:negative regulation of cysteine-type endopeptidase activity involved in apoptotic process ; GO:0043154
