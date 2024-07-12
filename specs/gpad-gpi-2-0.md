@@ -164,25 +164,14 @@ Property | Allowed usages per annotation | Value Grammar | Example | Comment
 
 ### GPI Entity Types 
 
-Entity types may be one of the following, or a more granular child term. The value should be provided as an ontology term identifier.
+Entity type value must be provided as an ontology term identifier from Sequence Ontology, Protein Ontology, or GO, and must correspond to one of the permitted GPI entity types or a more granular child term. Common entries include:
 
-Entity Type | Ontology Label | Ontology ID 
----------------------------|----------------|------------ | 
-protein-coding gene | protein_coding_gene | `SO:0001217`
-ncRNA-coding gene | ncRNA_gene  | `SO:0001263` 
-mRNA | mRNA | `SO:0000234`
-ncRNA | ncRNA | `SO:0000655` 
-protein | protein | `PR:000000001`
-protein-containing complex | protein-containing complex | `GO:0032991`
-marker or uncloned locus | genetic_marker | `SO:0001645`
-
-Other possible entity types from MGI (additional examples coming):
-- gene segment: `SO:3000000`
-- pseudogene: `SO:0000336`
-  - Example: http://www.informatics.jax.org/marker/MGI:3029152
-- gene: `SO:0000704`
-- biological region: `SO:0001411`
-
+    protein PR:000000001
+    protein-coding gene SO:0001217
+    gene SO:0000704
+    ncRNA SO:0000655
+        any subtype of ncRNA in the Sequence Ontology, including ncRNA-coding gene SO:0001263
+    protein-containing complex GO:0032991
 
 ### Required and Optional DB xrefs
 #### Required:
