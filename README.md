@@ -57,7 +57,7 @@ Query for tickets that were opened for ontology work:
 ### Tickets will fall into a few broad categories
 #### A. The ticket requested a review for a term obsoletion:
  1. If the [go-ontology](https://github.com/geneontology/go-ontology/issues) ticket is **closed**:
-   * Open the associated Google spreadsheet, and if every annotation has been addressed, change the title to add `DONE` at the begining of the file name; otherwise, put `CLOSED`
+   * Open the associated Google spreadsheet, and if every annotation has been addressed, change the title to add `DONE` at the begining of the spreadsheet name; otherwise, put `CLOSED` at the beginning of the spreadsheet name
    * Add a comment to the ticket `This term was obsoleted; remaining annotations will appear in GORULES error reports`.
    *  _Example:_ [issue-4639](https://github.com/geneontology/go-annotation/issues/4639)
  2. If the [go-ontology](https://github.com/geneontology/go-ontology/issues) ticket is still **open**:
