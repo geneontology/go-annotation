@@ -52,6 +52,8 @@ We use labels to organize the work in this repo. These are useful for housekeepi
 ## label:annotation review
 Query for tickets that were opened for ontology work: 
 * `is:open label:"annotation review" label:"direct_ann_to_list_of_terms","reg_ann_to_list_of_terms"` (the comma is an OR).
+* Query for tickets that were opened - maybe for ontology work (a while ago, before the scripts existed), or for other reasons: 
+* `is:open label:"annotation review" -label:"direct_ann_to_list_of_terms","reg_ann_to_list_of_terms"` (the comma is an OR).
 ### Tickets will fall into a few broad categories
 #### A. The ticket requested a review for a term obsoletion:
  1. If the [go-ontology](https://github.com/geneontology/go-ontology/issues) ticket is **closed**:
