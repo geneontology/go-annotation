@@ -44,3 +44,15 @@ closure) to all terms in the list.
 - grebe
 - more structured runner / delagation
 - editing / deleting output with the GH "code" editors; curator workflow control
+
+
+# SOP for housekeeping of this repo
+We use labels to organize the work in this repo. 
+
+# annotation review
+Maintained by GO central. 
+Query for tickets opened for ontology work: 
+- is:open label:"annotation review" label:"direct_ann_to_list_of_terms","reg_ann_to_list_of_terms" (the comma is an OR)
+
+## PAINT annotation and PAINT - waiting for primary annotation 
+ Monitored by the PAINT annotation team
