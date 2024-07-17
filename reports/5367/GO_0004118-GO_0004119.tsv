@@ -1,0 +1,10 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AgBase	UniProtKB:P14099	PDE2A	PMID:1654333		GO:0004118	cGMP-stimulated cyclic-nucleotide phosphodiesterase activity	TAS			PANTHER:PTHR11347	20060215		NCBITaxon:9913
+UniProt	MGI:MGI:2446107	Pde2a	PMID:15210692|MGI:MGI:5294304		GO:0004118	cGMP-stimulated cyclic-nucleotide phosphodiesterase activity	IDA			PANTHER:PTHR11347	20110921		NCBITaxon:10090
+UniProt	UniProtKB:P14099	PDE2A	PMID:1654333		GO:0004118	cGMP-stimulated cyclic-nucleotide phosphodiesterase activity	IDA			PANTHER:PTHR11347	20220203		NCBITaxon:9913
+UniProt	UniProtKB:O00408	PDE2A	PMID:17329248		GO:0004118	cGMP-stimulated cyclic-nucleotide phosphodiesterase activity	IDA			PANTHER:PTHR11347	20110920		NCBITaxon:9606
+UniProt	UniProtKB:Q9HCR9	PDE11A	PMID:19689430		GO:0004118	cGMP-stimulated cyclic-nucleotide phosphodiesterase activity	IDA			PANTHER:PTHR11347	20110916		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y233	PDE10A	PMID:19689430		GO:0004118	cGMP-stimulated cyclic-nucleotide phosphodiesterase activity	IDA			PANTHER:PTHR11347	20110916		NCBITaxon:9606
+UniProt	UniProtKB:O00408	PDE2A	PMID:19689430		GO:0004118	cGMP-stimulated cyclic-nucleotide phosphodiesterase activity	IDA			PANTHER:PTHR11347	20110916		NCBITaxon:9606
+PINC	UniProtKB:Q13370	PDE3B	PMID:8884271		GO:0004119	cGMP-inhibited cyclic-nucleotide phosphodiesterase activity	TAS			PANTHER:PTHR11347	20030904		NCBITaxon:9606
+UniProt	UniProtKB:Q14432	PDE3A	PMID:8155697		GO:0004119	cGMP-inhibited cyclic-nucleotide phosphodiesterase activity	IDA			PANTHER:PTHR11347	20220204		NCBITaxon:9606
