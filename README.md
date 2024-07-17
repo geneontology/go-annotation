@@ -55,7 +55,7 @@ Query for tickets that were opened for ontology work:
 ### Tickets will fall into a few broad categories
 #### A. The ticket requested a review for a term obsoletion:
  1. If the [go-ontology](https://github.com/geneontology/go-ontology/issues) ticket is **closed**:
-   * Open the associated Google spreadsheet, and if every annotation has a curator comment, change the title to add `DONE` at the begining of the file name; otherwise, put `CLOSED`
+   * Open the associated Google spreadsheet, and if every annotation has been addressed, change the title to add `DONE` at the begining of the file name; otherwise, put `CLOSED`
    * Add a comment to the ticket `This term was obsoleted; remaining annotations will appear in GORULES error reports`.
    *  _Example:_ [issue-4639](https://github.com/geneontology/go-annotation/issues/4639)
  2. If the [go-ontology](https://github.com/geneontology/go-ontology/issues) ticket is still **open**:
@@ -81,7 +81,8 @@ Query for tickets that were opened for ontology work:
      * Ping the `author` of the ticket to see if the review is still valid.
   * _Example:_ [issue-4583](https://github.com/geneontology/go-annotation/issues/4583)
 #### C. The ticket doesn't formulate a clear request: 
-  * Ping the author of the ticket. This can be done 2-3 times, at > 2-3 months intevals. If there is no reply, close as `not planned`. 
+  * Ping the author of the ticket. This can be done 2-3 times, at > 2-3 months intevals. If there is no reply, close as `not planned`.
+  * * _Examples:_ [issue-4497](https://github.com/geneontology/go-annotation/issues/4497),[issue-4598](https://github.com/geneontology/go-annotation/issues/4598)
 ## label:PAINT annotation and label:PAINT - waiting for primary annotation 
 * Monitored by the PAINT annotation team.
 * If there has not been any comment on a ticket in > 1 year, ping the assignee(s) or close the ticket if it is out-of-date.
