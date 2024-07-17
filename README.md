@@ -49,10 +49,17 @@ closure) to all terms in the list.
 # SOP for housekeeping of this repo
 We use labels to organize the work in this repo. 
 
-# annotation review
-Maintained by GO central. 
+## annotation review
 Query for tickets opened for ontology work: 
-- is:open label:"annotation review" label:"direct_ann_to_list_of_terms","reg_ann_to_list_of_terms" (the comma is an OR)
+- is:open label:"annotation review" label:"direct_ann_to_list_of_terms","reg_ann_to_list_of_terms" (the comma is an OR).
+- Tickets fall into some broad categories:
+* The ticket requested a review for a term obsoletion:
+* * check if the corresponding [go-ontology](https://github.com/geneontology/go-ontology/issues) ticket has been closed (it should be linked in the ticket).
+  * If the ticket is closed:
+  * * open the associated spreadsheet, and change the title to add DONE (if every annotation has a curator comment); otherwise, put  CLOSED
+  * * Add a comment to the ticket "This term was obsoleted; remaining annotations will appear in GORULES error reports".
+* * If the go-ontology](https://github.com/geneontology/go-ontology/issues) ticket is not linked in the go-annotation, search the go-ontology](https://github.com/geneontology/go-ontology/issues) repo with the term ID or label. If there is no results, close the ticket with the comment that 'the corresponing go-ontology ticket does not exist'. 
 
 ## PAINT annotation and PAINT - waiting for primary annotation 
- Monitored by the PAINT annotation team
+- Monitored by the PAINT annotation team.
+- If there has not been any comment on a ticket in > 1 year, ping the assignee(s) or close the ticket if it is out-of-date.
