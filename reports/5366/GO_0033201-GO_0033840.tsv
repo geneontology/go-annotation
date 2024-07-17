@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPCC63.04	mok14	PMID:16420355		GO:0033201	alpha-1,4-glucan synthase activity	IMP			PANTHER:PTHR47182	20201021	GO:0070591	NCBITaxon:4896
+PomBase	PomBase:SPCC1281.01	ags1	PMID:17472966		GO:0033201	alpha-1,4-glucan synthase activity	IMP			PANTHER:PTHR47182	20051111		NCBITaxon:4896

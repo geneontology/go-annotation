@@ -1,0 +1,6 @@
+term	file	line
+GO:0033201	ec2go	EC:2.4.1.21 > GO:alpha-1,4-glucan synthase activity ; GO:0033201
+GO:0033201	rhea2go	RHEA:18189 > GO:alpha-1,4-glucan synthase activity ; GO:0033201
+GO:0033840	ec2go	EC:2.4.1.242 > GO:NDP-glucose-starch glucosyltransferase activity ; GO:0033840
+GO:0033840	metacyc2go	MetaCyc:2.4.1.242-RXN > GO:NDP-glucose-starch glucosyltransferase activity ; GO:0033840
+GO:0033840	rhea2go	RHEA:15873 > GO:NDP-glucose-starch glucosyltransferase activity ; GO:0033840
