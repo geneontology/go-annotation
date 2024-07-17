@@ -85,6 +85,7 @@ Query for tickets that were opened for ontology work:
 #### C. The ticket doesn't formulate a clear request: 
   * Ping the author of the ticket. This can be done 2-3 times, at > 2-3 months intevals. If there is no reply, close as `not planned`.
   * * _Examples:_ [issue-4497](https://github.com/geneontology/go-annotation/issues/4497),[issue-4598](https://github.com/geneontology/go-annotation/issues/4598)
+  * Consider removing old `label:"annotation review"` `label:"direct_ann_to_list_of_terms"` and/or `label:"reg_ann_to_list_of_terms"`
 ## label:PAINT annotation and label:PAINT - waiting for primary annotation 
 * Monitored by the PAINT annotation team.
 * If there has not been any comment on a ticket in > 1 year, ping the assignee(s) or close the ticket if it is out-of-date.
