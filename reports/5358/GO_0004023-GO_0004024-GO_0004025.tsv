@@ -1,0 +1,9 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoliWiki	UniProtKB:P25437	frmA	PMID:1731906		GO:0004024	alcohol dehydrogenase (NAD+) activity, zinc-dependent	IDA			PANTHER:PTHR43880	20080915		NCBITaxon:83333
+MGI	MGI:MGI:1349472	Adh4	PMID:10514444		GO:0004024	alcohol dehydrogenase (NAD+) activity, zinc-dependent	IDA			PANTHER:PTHR43880	20071212		NCBITaxon:10090
+UniProt	UniProtKB:P08319	ADH4	PMID:10407146		GO:0004024	alcohol dehydrogenase (NAD+) activity, zinc-dependent	IDA			PANTHER:PTHR43880	20080606		NCBITaxon:9606
+UniProt	WB:WBGene00019240	adh-5	PMID:7608988|WB_REF:WBPaper00002192		GO:0004024	alcohol dehydrogenase (NAD+) activity, zinc-dependent	NAS			PANTHER:PTHR43880	20020611		NCBITaxon:6239
+UniProt	UniProtKB:P40394	ADH7	PMID:7876099		GO:0004024	alcohol dehydrogenase (NAD+) activity, zinc-dependent	IDA			PANTHER:PTHR43880	20060424		NCBITaxon:9606
+UniProt	UniProtKB:P07327	ADH1A	PMID:9982		GO:0004024	alcohol dehydrogenase (NAD+) activity, zinc-dependent	IDA			PANTHER:PTHR43880	20090219		NCBITaxon:9606
+UniProt	UniProtKB:P00325	ADH1B	PMID:9982		GO:0004024	alcohol dehydrogenase (NAD+) activity, zinc-dependent	IDA			PANTHER:PTHR43880	20100115		NCBITaxon:9606
+EcoCyc	UniProtKB:P0A9Q7	adhE	PMID:31586059		GO:0004025	alcohol dehydrogenase (NAD+) activity, iron-dependent	IDA			PANTHER:PTHR11496	20200410		NCBITaxon:83333
