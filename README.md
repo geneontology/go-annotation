@@ -53,22 +53,31 @@ We use labels to organize the work in this repo. These are useful for housekeepi
 Query for tickets that were opened for ontology work: 
 * `is:open label:"annotation review" label:"direct_ann_to_list_of_terms","reg_ann_to_list_of_terms"` (the comma is an OR).
 ### Tickets will fall into a few broad categories
-#### 1. The ticket requested a review for a term obsoletion:
-* Check whether the corresponding [go-ontology](https://github.com/geneontology/go-ontology/issues) ticket has been closed (it should be linked in the ticket).
-  * 1.a. If the [go-ontology](https://github.com/geneontology/go-ontology/issues) ticket is **closed**:
-     * Open the associated spreadsheet, and change the title to add `DONE`at the begining of the file name (if every annotation has a curator comment); otherwise, put `CLOSED`
-     * Add a comment to the ticket `This term was obsoleted; remaining annotations will appear in GORULES error reports`.
-  * 1.b. If the [go-ontology](https://github.com/geneontology/go-ontology/issues) ticket is still **open**:
-     * Check the corresponding spreadsheet to see whether all reviewed have been done.
-        * 1.b.1. If all annotations have been reviewed:
-           * Change the title of the Google spreadsheet to add `DONE`at the begining of the file name
-           * Close the go-annotation ticket
-           * Add a comment to the [go-ontology](https://github.com/geneontology/go-ontology/issues) ticket: `All annotations have been fixed` and add the label `ready`.
-        * 1.b.2 If some annotations have been not been reviewed:
-           * 1.b.2.i If the annotation review is > 6 months old, close it and add a comment to the [go-ontology](https://github.com/geneontology/go-ontology/issues) ticket `Annotation Review is out-of-date and was closed`.
-           * 1.b.2.ii If the review is < 6 months old, ping the assignees that still need to review annotations. (People should not be pinged more than 2-3 times; after we assume that they will not get to the work). 
-  * 1.2 If the [go-ontology](https://github.com/geneontology/go-ontology/issues) ticket is not linked in the go-annotation, search the [go-ontology](https://github.com/geneontology/go-ontology/issues) repo with the term ID or label. If there is no results, close the ticket with the comment that `The corresponing go-ontology ticket does not exist`. 
-    * Example: [issue-4639](https://github.com/geneontology/go-annotation/issues/4639)
+#### A. The ticket requested a review for a term obsoletion:
+ 1. If the [go-ontology](https://github.com/geneontology/go-ontology/issues) ticket is **closed**:
+   * Open the associated spreadsheet, and if every annotation has a curator comment, change the title to add `DONE`at the begining of the file name; otherwise, put `CLOSED`
+   * Add a comment to the ticket `This term was obsoleted; remaining annotations will appear in GORULES error reports`.
+ 2. If the [go-ontology](https://github.com/geneontology/go-ontology/issues) ticket is still **open**:
+   * Check the corresponding spreadsheet to see whether all reviewed have been done.
+     * 2.1. If all annotations have been reviewed:
+       * Change the title of the Google spreadsheet to add `DONE`at the begining of the file name
+       * Close the go-annotation ticket
+       * Add a comment to the [go-ontology](https://github.com/geneontology/go-ontology/issues) ticket: `All annotations have been fixed` and add the label `ready`.
+     * 2.2 If some annotations have been not been reviewed:
+       * 2.1.1 If the annotation review is > 6 months old, close it and add a comment to the [go-ontology](https://github.com/geneontology/go-ontology/issues) ticket `Annotation Review is out-of-date and was closed`.
+       * 2.1.2 If the review is < 6 months old, ping the assignees that still need to review annotations. (People should not be pinged more than 2-3 times; after we assume that they will not get to the work). 
+  3. If the [go-ontology](https://github.com/geneontology/go-ontology/issues) ticket is not linked in the go-annotation, search the [go-ontology](https://github.com/geneontology/go-ontology/issues) repo with the term ID or label. If there is no results, close the ticket with the comment that `The corresponing go-ontology ticket does not exist`.
+     * _Example:_ [issue-4639](https://github.com/geneontology/go-annotation/issues/4639)
+
+#### B. The ticket requested a review, without requesting an obsoletion:
+* Check the corresponding spreadsheet to see whether all reviewed have been done.
+  1. If all annotations have been reviewed:
+      * Change the title of the Google spreadsheet to add `DONE`at the begining of the file name
+      * Close the go-annotation ticket
+  2. If some annotations have been not been reviewed:
+       * Ping the assignees that still need to review annotations. (People should not be pinged more than 2-3 times; after we assume that they will not get to the work).
+       * Ping the `author` of the ticket to see if the review is still valid.
+  * _Example:_ [issue-4583](https://github.com/geneontology/go-annotation/issues/4583)
 ## label:PAINT annotation and label:PAINT - waiting for primary annotation 
 * Monitored by the PAINT annotation team.
 * If there has not been any comment on a ticket in > 1 year, ping the assignee(s) or close the ticket if it is out-of-date.
