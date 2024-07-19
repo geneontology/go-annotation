@@ -1,0 +1,10 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:108078	Sfrp2	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:2135272		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:108078	Sfrp2	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:1860298		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:108078	Sfrp2	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:892014		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:1860298	Sfrp5	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:2135272		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:1860298	Sfrp5	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:892014		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:1860298	Sfrp5	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:108078		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:892014	Sfrp1	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:2135272		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:892014	Sfrp1	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:1860298		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:892014	Sfrp1	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:108078		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090

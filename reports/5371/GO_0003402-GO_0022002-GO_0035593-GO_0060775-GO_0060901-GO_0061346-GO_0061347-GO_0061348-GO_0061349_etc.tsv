@@ -1,0 +1,87 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:108078	Sfrp2	PMID:18257070		GO:0003402	planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:892014		PANTHER:PTHR11309	20100831	EMAPA:16039	NCBITaxon:10090
+MGI	MGI:MGI:108078	Sfrp2	PMID:18257070		GO:0003402	planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:1860298		PANTHER:PTHR11309	20100831	EMAPA:16039	NCBITaxon:10090
+MGI	MGI:MGI:108078	Sfrp2	PMID:18257070		GO:0003402	planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:2135272		PANTHER:PTHR11309	20100831	EMAPA:16039	NCBITaxon:10090
+MGI	MGI:MGI:1860298	Sfrp5	PMID:18257070		GO:0003402	planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:108078		PANTHER:PTHR11309	20100831	EMAPA:16039	NCBITaxon:10090
+MGI	MGI:MGI:1860298	Sfrp5	PMID:18257070		GO:0003402	planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:892014		PANTHER:PTHR11309	20100831	EMAPA:16039	NCBITaxon:10090
+MGI	MGI:MGI:1860298	Sfrp5	PMID:18257070		GO:0003402	planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:2135272		PANTHER:PTHR11309	20100831	EMAPA:16039	NCBITaxon:10090
+MGI	MGI:MGI:892014	Sfrp1	PMID:18257070		GO:0003402	planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:108078		PANTHER:PTHR11309	20100831	EMAPA:16039	NCBITaxon:10090
+MGI	MGI:MGI:892014	Sfrp1	PMID:18257070		GO:0003402	planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:1860298		PANTHER:PTHR11309	20100831	EMAPA:16039	NCBITaxon:10090
+MGI	MGI:MGI:892014	Sfrp1	PMID:18257070		GO:0003402	planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:2135272		PANTHER:PTHR11309	20100831	EMAPA:16039	NCBITaxon:10090
+MGI	MGI:MGI:2135272	Vangl2	PMID:18257070		GO:0003402	planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:1860298		PANTHER:PTHR20886	20100831	EMAPA:16039	NCBITaxon:10090
+MGI	MGI:MGI:2135272	Vangl2	PMID:18257070		GO:0003402	planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:108078		PANTHER:PTHR20886	20100831	EMAPA:16039	NCBITaxon:10090
+MGI	MGI:MGI:2135272	Vangl2	PMID:18257070		GO:0003402	planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:892014		PANTHER:PTHR20886	20100831	EMAPA:16039	NCBITaxon:10090
+MGI	MGI:MGI:98958	Wnt5a	PMID:25813538		GO:0003402	planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:101948		PANTHER:PTHR12027	20150612		NCBITaxon:10090
+MGI	MGI:MGI:98958	Wnt5a	PMID:25813538		GO:0003402	planar cell polarity pathway involved in axis elongation	IMP	MGI:MGI:1857617		PANTHER:PTHR12027	20150612	EMAPA:16183	NCBITaxon:10090
+MGI	MGI:MGI:98958	Wnt5a	PMID:25813538		GO:0003402	planar cell polarity pathway involved in axis elongation	IMP	MGI:MGI:1857617		PANTHER:PTHR12027	20150612	EMAPA:16191	NCBITaxon:10090
+MGI	MGI:MGI:101948	Wnt11	PMID:25813538		GO:0003402	planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:98958		PANTHER:PTHR12027	20150612	EMAPA:16191	NCBITaxon:10090
+MGI	MGI:MGI:1916034	Prickle1	PMID:33144400		GO:0003402	planar cell polarity pathway involved in axis elongation	IMP	MGI:MGI:5645931		PANTHER:PTHR24211	20220906		NCBITaxon:10090
+UniProt	UniProtKB:Q86UL8	MAGI2	PMID:20534871		GO:0003402	planar cell polarity pathway involved in axis elongation	NAS			PANTHER:PTHR10316	20120210		NCBITaxon:9606
+ZFIN	ZFIN:ZDB-GENE-050522-216	ptk7a	PMID:23533179		GO:0003402	planar cell polarity pathway involved in axis elongation	IDA			PANTHER:PTHR45080	20130506		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-131003-2	adgra3	PMID:23821037		GO:0003402	planar cell polarity pathway involved in axis elongation	IDA			PANTHER:PTHR45930	20131003		NCBITaxon:7955
+FlyBase	FB:FBgn0034709	Swim	PMID:22203956|FB:FBrf0217131		GO:0035593	positive regulation of Wnt signaling pathway by establishment of Wnt protein localization to extracellular region	IMP			PANTHER:PTHR12411	20190802		NCBITaxon:7227
+MGI	MGI:MGI:98958	Wnt5a	PMID:25813538		GO:0060775	planar cell polarity pathway involved in gastrula mediolateral intercalation	IGI	MGI:MGI:101948		PANTHER:PTHR12027	20150612	EMAPA:16191	NCBITaxon:10090
+MGI	MGI:MGI:101948	Wnt11	PMID:25813538		GO:0060775	planar cell polarity pathway involved in gastrula mediolateral intercalation	IGI	MGI:MGI:98958		PANTHER:PTHR12027	20150612	EMAPA:16191	NCBITaxon:10090
+ZFIN	ZFIN:ZDB-GENE-030115-3	rock2a	PMID:12062050		GO:0060775	planar cell polarity pathway involved in gastrula mediolateral intercalation	IMP			PANTHER:PTHR22988	20100715		NCBITaxon:7955
+MGI	MGI:MGI:2135272	Vangl2	PMID:24302887		GO:0061346	planar cell polarity pathway involved in heart morphogenesis	IMP	MGI:MGI:5558098		PANTHER:PTHR20886	20140423		NCBITaxon:10090
+MGI	MGI:MGI:98958	Wnt5a	PMID:19056682		GO:0061347	planar cell polarity pathway involved in outflow tract morphogenesis	IMP	MGI:MGI:1857617		PANTHER:PTHR12027	20101005	EMAPA:16346	NCBITaxon:10090
+MGI	MGI:MGI:98958	Wnt5a	PMID:19056682		GO:0061348	planar cell polarity pathway involved in ventricular septum morphogenesis	IMP	MGI:MGI:1857617		PANTHER:PTHR12027	20101005	EMAPA:17333	NCBITaxon:10090
+MGI	MGI:MGI:98958	Wnt5a	PMID:19056682		GO:0061349	planar cell polarity pathway involved in cardiac right atrium morphogenesis	IMP	MGI:MGI:1857617		PANTHER:PTHR12027	20101005	EMAPA:17321	NCBITaxon:10090
+MGI	MGI:MGI:98958	Wnt5a	PMID:19056682		GO:0061350	planar cell polarity pathway involved in cardiac muscle tissue morphogenesis	IMP	MGI:MGI:1857617		PANTHER:PTHR12027	20101005	EMAPA:17342	NCBITaxon:10090
+MGI	MGI:MGI:98958	Wnt5a	PMID:19056682		GO:0061350	planar cell polarity pathway involved in cardiac muscle tissue morphogenesis	IMP	MGI:MGI:1857617		PANTHER:PTHR12027	20101005	EMAPA:17320	NCBITaxon:10090
+MGI	MGI:MGI:98958	Wnt5a	PMID:19056682		GO:0061350	planar cell polarity pathway involved in cardiac muscle tissue morphogenesis	IMP	MGI:MGI:1857617		PANTHER:PTHR12027	20101005	EMAPA:17339	NCBITaxon:10090
+MGI	MGI:MGI:98958	Wnt5a	PMID:19056682		GO:0061350	planar cell polarity pathway involved in cardiac muscle tissue morphogenesis	IMP	MGI:MGI:1857617		PANTHER:PTHR12027	20101005	EMAPA:17318	NCBITaxon:10090
+MGI	MGI:MGI:98958	Wnt5a	PMID:19056682		GO:0061350	planar cell polarity pathway involved in cardiac muscle tissue morphogenesis	IMP	MGI:MGI:1857617		PANTHER:PTHR12027	20101005	EMAPA:17324	NCBITaxon:10090
+MGI	MGI:MGI:98958	Wnt5a	PMID:19056682		GO:0061350	planar cell polarity pathway involved in cardiac muscle tissue morphogenesis	IMP	MGI:MGI:1857617		PANTHER:PTHR12027	20101005	EMAPA:17326	NCBITaxon:10090
+MGI	MGI:MGI:98958	Wnt5a	PMID:19056682		GO:0061354	planar cell polarity pathway involved in pericardium morphogenesis	IMP	MGI:MGI:1857617		PANTHER:PTHR12027	20101005	EMAPA:16133	NCBITaxon:10090
+MGI	MGI:MGI:106613	Dvl2	PMID:16571627		GO:0090179	planar cell polarity pathway involved in neural tube closure	IMP	MGI:MGI:2429760		PANTHER:PTHR10878	20100823	EMAPA:16164	NCBITaxon:10090
+MGI	MGI:MGI:106613	Dvl2	PMID:16571627		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:94941		PANTHER:PTHR10878	20100823	EMAPA:16164	NCBITaxon:10090
+MGI	MGI:MGI:106613	Dvl2	PMID:16571627		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:2135272		PANTHER:PTHR10878	20100823	EMAPA:16164	NCBITaxon:10090
+MGI	MGI:MGI:94941	Dvl1	PMID:16571627		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:106613		PANTHER:PTHR10878	20100823	EMAPA:16164	NCBITaxon:10090
+MGI	MGI:MGI:2135272	Vangl2	PMID:16571627		GO:0090179	planar cell polarity pathway involved in neural tube closure	IMP	MGI:MGI:1857642		PANTHER:PTHR20886	20100823	EMAPA:16164	NCBITaxon:10090
+MGI	MGI:MGI:2135272	Vangl2	PMID:16571627		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:106613		PANTHER:PTHR20886	20100823	EMAPA:16164	NCBITaxon:10090
+MGI	MGI:MGI:108078	Sfrp2	PMID:18257070		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:2135272		PANTHER:PTHR11309	20100831	EMAPA:16164	NCBITaxon:10090
+MGI	MGI:MGI:108078	Sfrp2	PMID:18257070		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:1860298		PANTHER:PTHR11309	20100831	EMAPA:16164	NCBITaxon:10090
+MGI	MGI:MGI:108078	Sfrp2	PMID:18257070		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:892014		PANTHER:PTHR11309	20100831	EMAPA:16164	NCBITaxon:10090
+MGI	MGI:MGI:1860298	Sfrp5	PMID:18257070		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:2135272		PANTHER:PTHR11309	20100831	EMAPA:16164	NCBITaxon:10090
+MGI	MGI:MGI:1860298	Sfrp5	PMID:18257070		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:892014		PANTHER:PTHR11309	20100831	EMAPA:16164	NCBITaxon:10090
+MGI	MGI:MGI:1860298	Sfrp5	PMID:18257070		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:108078		PANTHER:PTHR11309	20100831	EMAPA:16164	NCBITaxon:10090
+MGI	MGI:MGI:892014	Sfrp1	PMID:18257070		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:2135272		PANTHER:PTHR11309	20100831	EMAPA:16164	NCBITaxon:10090
+MGI	MGI:MGI:892014	Sfrp1	PMID:18257070		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:1860298		PANTHER:PTHR11309	20100831	EMAPA:16164	NCBITaxon:10090
+MGI	MGI:MGI:892014	Sfrp1	PMID:18257070		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:108078		PANTHER:PTHR11309	20100831	EMAPA:16164	NCBITaxon:10090
+MGI	MGI:MGI:2135272	Vangl2	PMID:18257070		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:892014		PANTHER:PTHR20886	20100831	EMAPA:16164	NCBITaxon:10090
+MGI	MGI:MGI:2135272	Vangl2	PMID:18257070		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:1860298		PANTHER:PTHR20886	20100831	EMAPA:16164	NCBITaxon:10090
+MGI	MGI:MGI:2135272	Vangl2	PMID:18257070		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:108078		PANTHER:PTHR20886	20100831	EMAPA:16164	NCBITaxon:10090
+MGI	MGI:MGI:108100	Dvl3	PMID:19008950		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:2135272		PANTHER:PTHR10878	20100825		NCBITaxon:10090
+MGI	MGI:MGI:2135272	Vangl2	PMID:19008950		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:108100		PANTHER:PTHR20886	20100825		NCBITaxon:10090
+MGI	MGI:MGI:98958	Wnt5a	PMID:19056682		GO:0090179	planar cell polarity pathway involved in neural tube closure	IMP	MGI:MGI:1857617		PANTHER:PTHR12027	20101008	EMAPA:16164	NCBITaxon:10090
+MGI	MGI:MGI:2135272	Vangl2	PMID:20643356		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:2655333		PANTHER:PTHR20886	20101206	EMAPA:16470	NCBITaxon:10090
+MGI	MGI:MGI:2655333	Grhl3	PMID:20643356		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:2135272		PANTHER:PTHR11037	20101206	EMAPA:16470	NCBITaxon:10090
+MGI	MGI:MGI:1100883	Celsr1	PMID:20704721		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:1918711		PANTHER:PTHR24026	20101206	EMAPA:16470	NCBITaxon:10090
+MGI	MGI:MGI:1100883	Celsr1	PMID:20704721		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:2135272		PANTHER:PTHR24026	20101206	EMAPA:16470	NCBITaxon:10090
+MGI	MGI:MGI:2135272	Vangl2	PMID:20704721		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:1918711		PANTHER:PTHR20886	20101206	EMAPA:16470	NCBITaxon:10090
+MGI	MGI:MGI:2135272	Vangl2	PMID:20704721		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:1100883		PANTHER:PTHR20886	20101206	EMAPA:16470	NCBITaxon:10090
+MGI	MGI:MGI:1918711	Ptk7	PMID:20704721		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:1100883		PANTHER:PTHR13817	20101206	EMAPA:16470	NCBITaxon:10090
+MGI	MGI:MGI:1918711	Ptk7	PMID:20704721		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:2135272		PANTHER:PTHR13817	20101206	EMAPA:16470	NCBITaxon:10090
+MGI	MGI:MGI:1888513	Fzd2	PMID:20940229		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:1196625		PANTHER:PTHR11309	20101227	EMAPA:16164	NCBITaxon:10090
+MGI	MGI:MGI:1888513	Fzd2	PMID:20940229		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:2135272		PANTHER:PTHR11309	20101227	EMAPA:16164	NCBITaxon:10090
+MGI	MGI:MGI:2135272	Vangl2	PMID:20940229		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:1196625		PANTHER:PTHR20886	20101227	EMAPA:16164	NCBITaxon:10090
+MGI	MGI:MGI:2135272	Vangl2	PMID:20940229		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:1888513		PANTHER:PTHR20886	20101227	EMAPA:16164	NCBITaxon:10090
+MGI	MGI:MGI:1196625	Fzd1	PMID:20940229		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:2135272		PANTHER:PTHR11309	20101227	EMAPA:16164	NCBITaxon:10090
+MGI	MGI:MGI:1196625	Fzd1	PMID:20940229		GO:0090179	planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:1888513		PANTHER:PTHR11309	20101227	EMAPA:16164	NCBITaxon:10090
+Reactome	UniProtKB:P49841	GSK3B	Reactome:R-HSA-4641262		GO:1904886	beta-catenin destruction complex disassembly	TAS			PANTHER:PTHR24057	20231116		NCBITaxon:9606
+ZFIN	ZFIN:ZDB-GENE-050522-216	ptk7a	PMID:23533179		GO:2000040	regulation of planar cell polarity pathway involved in axis elongation	IMP	ZFIN:ZDB-GENO-130506-2		PANTHER:PTHR45080	20130506		NCBITaxon:7955
+MGI	MGI:MGI:108078	Sfrp2	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:2135272		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:108078	Sfrp2	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:1860298		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:108078	Sfrp2	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:892014		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:1860298	Sfrp5	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:2135272		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:1860298	Sfrp5	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:892014		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:1860298	Sfrp5	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:108078		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:892014	Sfrp1	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:2135272		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:892014	Sfrp1	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:1860298		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:892014	Sfrp1	PMID:18257070		GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	IGI	MGI:MGI:108078		PANTHER:PTHR11309	20100831	GO:0003402	NCBITaxon:10090
+MGI	MGI:MGI:1298218	Lrp6	PMID:19056682		GO:2000149	negative regulation of planar cell polarity pathway involved in ventricular septum morphogenesis	IGI	MGI:MGI:98958		PANTHER:PTHR46513	20101008	GO:0060412	NCBITaxon:10090
+MGI	MGI:MGI:1298218	Lrp6	PMID:19056682		GO:2000151	negative regulation of planar cell polarity pathway involved in cardiac muscle tissue morphogenesis	IGI	MGI:MGI:98958		PANTHER:PTHR46513	20101008	GO:0055008	NCBITaxon:10090
+MGI	MGI:MGI:1298218	Lrp6	PMID:19056682		GO:2000164	negative regulation of planar cell polarity pathway involved in outflow tract morphogenesis	IGI	MGI:MGI:98958		PANTHER:PTHR46513	20101008	GO:0003151	NCBITaxon:10090
+MGI	MGI:MGI:1298218	Lrp6	PMID:19056682		GO:2000166	negative regulation of planar cell polarity pathway involved in pericardium morphogenesis	IGI	MGI:MGI:98958		PANTHER:PTHR46513	20101008	GO:0003344	NCBITaxon:10090
+MGI	MGI:MGI:1298218	Lrp6	PMID:19056682		GO:2000168	negative regulation of planar cell polarity pathway involved in neural tube closure	IGI	MGI:MGI:98958		PANTHER:PTHR46513	20101008	GO:0001843	NCBITaxon:10090
