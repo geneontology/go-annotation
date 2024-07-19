@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+RGD	RGD:631345	Abcg2	PMID:15598971|RGD:11099974		GO:0019389	glucuronoside metabolic process	IMP			PANTHER:PTHR48041	20160609		NCBITaxon:10116
+BHF-UCL	UniProtKB:Q9NUJ1	ABHD10	PMID:22294686		GO:0019391	glucuronoside catabolic process	IDA			PANTHER:PTHR16138	20120510	CHEBI:168396	NCBITaxon:9606
+EcoCyc	UniProtKB:P05804	uidA	PMID:4568840		GO:0019391	glucuronoside catabolic process	IMP			PANTHER:PTHR10066	20080204		NCBITaxon:83333
+MGI	MGI:MGI:95872	Gusb	PMID:19751987		GO:0019391	glucuronoside catabolic process	IDA			PANTHER:PTHR10066	20180724		NCBITaxon:10090
