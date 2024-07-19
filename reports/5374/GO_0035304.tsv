@@ -1,0 +1,152 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	UniProtKB:P33151	CDH5	PMID:11950700		GO:0035307	positive regulation of protein dephosphorylation	IMP			PANTHER:PTHR24027	20190516		NCBITaxon:9606
+ARUK-UCL	MGI:MGI:97810	Ptprc	PMID:15661907|MGI:MGI:3530407		GO:1903615	positive regulation of protein tyrosine phosphatase activity	IGI	UniProtKB:P05480|UniProtKB:P06240		PANTHER:PTHR19134	20180723	CL:0000084	NCBITaxon:10090
+ARUK-UCL	UniProtKB:Q13526	PIN1	PMID:23362255		GO:0035307	positive regulation of protein dephosphorylation	TAS			PANTHER:PTHR10657	20180202	UniProtKB:P10636	NCBITaxon:9606
+ARUK-UCL	ComplexPortal:CPX-1134	abeta-42-oligomer_human	PMID:24052308		GO:0035307	positive regulation of protein dephosphorylation	IGI	UniProtKB:P97484			20240201	CL:0010012|UniProtKB:P23528	NCBITaxon:9606
+ARUK-UCL	MGI:MGI:894311	Pirb	PMID:24052308|MGI:MGI:5511064		GO:0035307	positive regulation of protein dephosphorylation	IGI	ComplexPortal:CPX-1134		PANTHER:PTHR11738	20170725	CL:0010012|UniProtKB:P18760	NCBITaxon:10090
+ARUK-UCL	UniProtKB:Q09328	MGAT5	PMID:24846175		GO:1903614	negative regulation of protein tyrosine phosphatase activity	IDA			PANTHER:PTHR15075	20180803	UniProtKB:O14522	NCBITaxon:9606
+ARUK-UCL	UniProtKB:P49841	GSK3B	PMID:28386764		GO:0032515	negative regulation of phosphoprotein phosphatase activity	TAS			PANTHER:PTHR24057	20180122	UniProtKB:P67775	NCBITaxon:9606
+ARUK-UCL	UniProtKB:P42345	MTOR	PMID:28386764		GO:0032516	positive regulation of phosphoprotein phosphatase activity	TAS			PANTHER:PTHR11139	20180122	UniProtKB:P67775	NCBITaxon:9606
+BHF-UCL	UniProtKB:P50052	AGTR2	PMID:10406457		GO:0032516	positive regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR24228	20080520		NCBITaxon:9606
+BHF-UCL	UniProtKB:P62258	YWHAE	PMID:11953308		GO:1902309	negative regulation of peptidyl-serine dephosphorylation	IDA			PANTHER:PTHR18860	20140522	UniProtKB:Q12809	NCBITaxon:9606
+BHF-UCL	UniProtKB:P01137	TGFB1	PMID:14555988		GO:0035307	positive regulation of protein dephosphorylation	IDA			PANTHER:PTHR11848	20071129		NCBITaxon:9606
+BHF-UCL	UniProtKB:P31946	YWHAB	PMID:17255105		GO:0035308	negative regulation of protein dephosphorylation	IDA			PANTHER:PTHR18860	20090220		NCBITaxon:9606
+BHF-UCL	UniProtKB:P04062	GBA1	PMID:19279008		GO:0035307	positive regulation of protein dephosphorylation	IMP			PANTHER:PTHR11069	20110616		NCBITaxon:9606
+BHF-UCL	UniProtKB:P17405	SMPD1	PMID:19279008		GO:0035307	positive regulation of protein dephosphorylation	IMP			PANTHER:PTHR10340	20110616		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q05655	PRKCD	PMID:19279008		GO:0035307	positive regulation of protein dephosphorylation	IMP			PANTHER:PTHR24356	20110616		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q15172	PPP2R5A	PMID:21075214		GO:0035307	positive regulation of protein dephosphorylation	IMP			PANTHER:PTHR10257	20110301		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9Y6Y1	CAMTA1	PMID:23853098		GO:0035307	positive regulation of protein dephosphorylation	IMP			PANTHER:PTHR23335	20180419	UniProtKB:Q13469	NCBITaxon:9606
+BHF-UCL	UniProtKB:P26599	PTBP1	PMID:23853098		GO:0035307	positive regulation of protein dephosphorylation	IMP			PANTHER:PTHR15592	20180419	UniProtKB:Q13469	NCBITaxon:9606
+BHF-UCL	RNAcentral:URS000020BE6A_9606	URS000020BE6A_9606	PMID:23853098		GO:0035308	negative regulation of protein dephosphorylation	IDA				20180420	UniProtKB:Q12968|CL:0002591|GO:0071456	NCBITaxon:9606
+BHF-UCL	UniProtKB:P0DP25	CALM3	PMID:8631777		GO:0032516	positive regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR23050	20170809		NCBITaxon:9606
+BHF-UCL	UniProtKB:P0DP25	CALM3	PMID:8631777		GO:0035307	positive regulation of protein dephosphorylation	IDA			PANTHER:PTHR23050	20170809		NCBITaxon:9606
+BHF-UCL	UniProtKB:P0DP24	CALM2	PMID:8631777		GO:0032516	positive regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR23050	20170809		NCBITaxon:9606
+BHF-UCL	UniProtKB:P0DP24	CALM2	PMID:8631777		GO:0035307	positive regulation of protein dephosphorylation	IDA			PANTHER:PTHR23050	20170809		NCBITaxon:9606
+BHF-UCL	UniProtKB:P0DP23	CALM1	PMID:8631777		GO:0032516	positive regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR23050	20170809		NCBITaxon:9606
+BHF-UCL	UniProtKB:P0DP23	CALM1	PMID:8631777		GO:0035307	positive regulation of protein dephosphorylation	IDA			PANTHER:PTHR23050	20170809		NCBITaxon:9606
+CACAO	MGI:MGI:1298390	Swap70	PMID:23921380|MGI:MGI:5554982		GO:1902309	negative regulation of peptidyl-serine dephosphorylation	IMP			PANTHER:PTHR14383	20131009		NCBITaxon:10090
+CACAO	UniProtKB:Q79PF6	kaiA	PMID:9727980		GO:0035308	negative regulation of protein dephosphorylation	IMP				20111104		NCBITaxon:1140
+CAFA	UniProtKB:Q9UD71	PPP1R1B	PMID:10807923		GO:0032515	negative regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR15417	20161003		NCBITaxon:9606
+CAFA	UniProtKB:P11845	PPP1R2	PMID:10807923		GO:0032515	negative regulation of phosphoprotein phosphatase activity	IMP				20161003		NCBITaxon:9986
+CAFA	UniProtKB:Q95VF2	CGC20_37975	PMID:12646217		GO:1903615	positive regulation of protein tyrosine phosphatase activity	IDA				20171024		NCBITaxon:5661
+CAFA	UniProtKB:P11845	PPP1R2	PMID:6245879		GO:0032515	negative regulation of phosphoprotein phosphatase activity	IDA				20161003		NCBITaxon:9986
+CAFA	UniProtKB:G1SK25	PRKACB	PMID:6245879		GO:0032516	positive regulation of phosphoprotein phosphatase activity	IDA				20161003		NCBITaxon:9986
+CAFA	UniProtKB:P01099	PPP1R1A	PMID:6245879		GO:0032515	negative regulation of phosphoprotein phosphatase activity	IDA				20161003		NCBITaxon:9986
+ComplexPortal	SGD:S000218155	CPX-1260	PMID:17142459		GO:1905183	negative regulation of protein serine/threonine phosphatase activity	IDA				20171114		NCBITaxon:559292
+FlyBase	FB:FBgn0028429	I-2	PMID:10601641|FB:FBrf0123043		GO:0035308	negative regulation of protein dephosphorylation	IDA			PANTHER:PTHR12398	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0028429	I-2	PMID:12750335|FB:FBrf0158995		GO:0035308	negative regulation of protein dephosphorylation	IMP			PANTHER:PTHR12398	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0026402	NiPp1	PMID:12750335|FB:FBrf0158995		GO:0035308	negative regulation of protein dephosphorylation	IMP			PANTHER:PTHR23308	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0010316	dap	PMID:8980229|FB:FBrf0091107		GO:0035308	negative regulation of protein dephosphorylation	IDA			PANTHER:PTHR10265	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0010316	dap	PMID:8980230|FB:FBrf0091210		GO:0035308	negative regulation of protein dephosphorylation	IDA			PANTHER:PTHR10265	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0025821	I-t	PMID:9821974|FB:FBrf0105245		GO:0035308	negative regulation of protein dephosphorylation	IDA				20060803		NCBITaxon:7227
+GO_Central	UniProtKB:Q96T49	PPP1R16B	PMID:16263087		GO:0035307	positive regulation of protein dephosphorylation	IDA			PANTHER:PTHR24179	20141114		NCBITaxon:9606
+GO_Central	UniProtKB:Q96T49	PPP1R16B	PMID:21466834		GO:0035308	negative regulation of protein dephosphorylation	IDA			PANTHER:PTHR24179	20141120	UniProtKB:P26038	NCBITaxon:9606
+GO_Central	UniProtKB:Q96T49	PPP1R16B	PMID:25007873		GO:1902309	negative regulation of peptidyl-serine dephosphorylation	IMP			PANTHER:PTHR24179	20141124	CL:0002188|UniProtKB:P31749	NCBITaxon:9606
+GeneDB	PlasmoDB:PF3D7_1247400	FKBP35	PMID:15664653		GO:0032515	negative regulation of phosphoprotein phosphatase activity	IDA				20190222		NCBITaxon:36329
+GeneDB	PlasmoDB:PF3D7_0320000	I2	PMID:23837822		GO:0043666	regulation of phosphoprotein phosphatase activity	IDA				20130711		NCBITaxon:36329
+HGNC-UCL	UniProtKB:Q15257	PTPA	PMID:16916641		GO:0032515	negative regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR10012	20071011		NCBITaxon:9606
+HGNC-UCL	UniProtKB:Q15257	PTPA	PMID:16916641		GO:0032516	positive regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR10012	20071011		NCBITaxon:9606
+HGNC-UCL	UniProtKB:Q15257	PTPA	PMID:16916641		GO:0035307	positive regulation of protein dephosphorylation	IDA			PANTHER:PTHR10012	20070426		NCBITaxon:9606
+HGNC-UCL	UniProtKB:Q15257	PTPA	PMID:16916641		GO:0035308	negative regulation of protein dephosphorylation	IDA			PANTHER:PTHR10012	20070426		NCBITaxon:9606
+HGNC-UCL	UniProtKB:Q15257	PTPA	PMID:16916641		GO:0043666	regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR10012	20070426		NCBITaxon:9606
+MGI	MGI:MGI:894689	Ywhae	PMID:12796778		GO:0035308	negative regulation of protein dephosphorylation	IDA			PANTHER:PTHR18860	20080102		NCBITaxon:10090
+MGI	MGI:MGI:96552	Il3	PMID:12944463		GO:0035304	regulation of protein dephosphorylation	IDA				20110318	GO:0006470	NCBITaxon:10090
+MGI	MGI:MGI:1890564	Rcan1	PMID:16024798		GO:0043666	regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR10300	20070112		NCBITaxon:10090
+MGI	UniProtKB:Q5H9R7	PPP6R3	PMID:16716191		GO:0043666	regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR12634	20070305		NCBITaxon:9606
+MGI	UniProtKB:Q9UPN7	PPP6R1	PMID:16716191		GO:0043666	regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR12634	20091111		NCBITaxon:9606
+MGI	UniProtKB:Q75170	env	PMID:16716191		GO:0043666	regulation of phosphoprotein phosphatase activity	IDA				20070305		NCBITaxon:11676
+MGI	MGI:MGI:2182465	Vrk3	PMID:18035061		GO:0032516	positive regulation of phosphoprotein phosphatase activity	IPI	PR:Q9D7X3		PANTHER:PTHR11909	20100225		NCBITaxon:10090
+MGI	MGI:MGI:2388481	Ppp2r5d	PMID:18496528		GO:0035307	positive regulation of protein dephosphorylation	IDA			PANTHER:PTHR10257	20170705		NCBITaxon:10090
+MGI	UniProtKB:Q6NUP7	PPP4R4	PMID:18715871		GO:0032515	negative regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR21467	20120611		NCBITaxon:9606
+MGI	UniProtKB:Q6NUP7	PPP4R4	PMID:18715871		GO:0080163	regulation of protein serine/threonine phosphatase activity	IDA			PANTHER:PTHR21467	20120611		NCBITaxon:9606
+MGI	UniProtKB:P14625	HSP90B1	PMID:19000834		GO:0043666	regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR11528	20100614		NCBITaxon:9606
+MGI	MGI:MGI:1923719	Cmya5	PMID:21427212		GO:0032515	negative regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR24099	20170126	MGI:MGI:107164	NCBITaxon:10090
+MGI	UniProtKB:Q15435	PPP1R7	PMID:22801782		GO:0035307	positive regulation of protein dephosphorylation	IMP			PANTHER:PTHR45973	20140624		NCBITaxon:9606
+MGI	UniProtKB:Q69YH5	CDCA2	PMID:22801782		GO:0035307	positive regulation of protein dephosphorylation	IMP			PANTHER:PTHR21603	20140624		NCBITaxon:9606
+MGI	MGI:MGI:1914515	Slc39a10	PMID:25074919		GO:1903615	positive regulation of protein tyrosine phosphatase activity	IMP	MGI:MGI:5642299		PANTHER:PTHR12191	20150707	MGI:MGI:97810	NCBITaxon:10090
+ParkinsonsUK-UCL	MGI:MGI:1927072	Ppp1r15a	PMID:11381086|MGI:MGI:5605960		GO:1902310	positive regulation of peptidyl-serine dephosphorylation	IDA			PANTHER:PTHR16489	20141027	UniProtKB:Q6ZWX6	NCBITaxon:10090
+ParkinsonsUK-UCL	UniProtKB:O75807	PPP1R15A	PMID:11564868		GO:0032515	negative regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR16489	20141110	UniProtKB:P62136	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O75807	PPP1R15A	PMID:11564868		GO:0032516	positive regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR16489	20150209		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O75807	PPP1R15A	PMID:11564868		GO:0035308	negative regulation of protein dephosphorylation	IDA			PANTHER:PTHR16489	20141110		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O75807	PPP1R15A	PMID:11564868		GO:1902310	positive regulation of peptidyl-serine dephosphorylation	IDA			PANTHER:PTHR16489	20150209	UniProtKB:P05198	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O75807	PPP1R15A	PMID:12556489		GO:1902310	positive regulation of peptidyl-serine dephosphorylation	IDA			PANTHER:PTHR16489	20141106	UniProtKB:P05198	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O43639	NCK2	PMID:16835242		GO:1902310	positive regulation of peptidyl-serine dephosphorylation	IDA			PANTHER:PTHR19969	20231018	UniProtKB:P05198	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P16333	NCK1	PMID:16835242		GO:1902310	positive regulation of peptidyl-serine dephosphorylation	IDA			PANTHER:PTHR19969	20231018	UniProtKB:P05198	NCBITaxon:9606
+ParkinsonsUK-UCL	MGI:MGI:1927072	Ppp1r15a	PMID:16835242|MGI:MGI:5613475		GO:1902310	positive regulation of peptidyl-serine dephosphorylation	IDA			PANTHER:PTHR16489	20231018	UniProtKB:Q6ZWX6|GO:0034976	NCBITaxon:10090
+ParkinsonsUK-UCL	MGI:MGI:2444211	Ppp1r15b	PMID:16835242|MGI:MGI:5613475		GO:1902310	positive regulation of peptidyl-serine dephosphorylation	IDA			PANTHER:PTHR16489	20231018	UniProtKB:Q6ZWX6	NCBITaxon:10090
+ParkinsonsUK-UCL	UniProtKB:O75807	PPP1R15A	PMID:21518769		GO:1902310	positive regulation of peptidyl-serine dephosphorylation	IDA			PANTHER:PTHR16489	20141030	UniProtKB:P05198	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O75807	PPP1R15A	PMID:21518769		GO:1903917	positive regulation of endoplasmic reticulum stress-induced eIF2 alpha dephosphorylation	IDA			PANTHER:PTHR16489	20151008	UniProtKB:P05198	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O75807	PPP1R15A	PMID:22013210		GO:1903917	positive regulation of endoplasmic reticulum stress-induced eIF2 alpha dephosphorylation	TAS			PANTHER:PTHR16489	20150209		NCBITaxon:9606
+ParkinsonsUK-UCL	MGI:MGI:1916193	Pink1	PMID:24553947|MGI:MGI:5558956		GO:0035307	positive regulation of protein dephosphorylation	IMP			PANTHER:PTHR22972	20140826	UniProtKB:Q60876|GO:0071456	NCBITaxon:10090
+RGD	RGD:2048	Adora1	PMID:12234781|RGD:1625280		GO:0035307	positive regulation of protein dephosphorylation	IDA			PANTHER:PTHR24246	20070531		NCBITaxon:10116
+RGD	RGD:3380	Ppp2ca	PMID:15728831|RGD:8554004		GO:0035307	positive regulation of protein dephosphorylation	IDA			PANTHER:PTHR45619	20140718		NCBITaxon:10116
+RGD	RGD:1310299	Pin1	PMID:16675464|RGD:8693430		GO:0035307	positive regulation of protein dephosphorylation	IMP			PANTHER:PTHR10657	20140715		NCBITaxon:10116
+RGD	RGD:3380	Ppp2ca	PMID:16884689|RGD:13515114		GO:0035307	positive regulation of protein dephosphorylation	IMP			PANTHER:PTHR45619	20180404		NCBITaxon:10116
+RGD	RGD:620826	Akap1	PMID:19358331|RGD:2312604		GO:0035308	negative regulation of protein dephosphorylation	IMP			PANTHER:PTHR22948	20090910		NCBITaxon:10116
+SGD	SGD:S000006323	CLB2	PMID:10580002		GO:0035308	negative regulation of protein dephosphorylation	IDA		UniProtKB:P24869	PANTHER:PTHR10177	20131007	SGD:S000000891|SGD:S000000364	NCBITaxon:559292
+SGD	SGD:S000006323	CLB2	PMID:10580002		GO:0035308	negative regulation of protein dephosphorylation	IDA		UniProtKB:P24869	PANTHER:PTHR10177	20131007	SGD:S000000152|SGD:S000000364	NCBITaxon:559292
+SGD	SGD:S000001899	YPI1	PMID:14506263		GO:0035308	negative regulation of protein dephosphorylation	IMP		UniProtKB:P43587	PANTHER:PTHR20835	20120501		NCBITaxon:559292
+SGD	SGD:S000001899	YPI1	PMID:14506263		GO:0035308	negative regulation of protein dephosphorylation	IDA		UniProtKB:P43587	PANTHER:PTHR20835	20120501		NCBITaxon:559292
+SGD	SGD:S000003330	ESP1	PMID:16713564		GO:0035308	negative regulation of protein dephosphorylation	IMP		UniProtKB:Q03018	PANTHER:PTHR12792	20230225		NCBITaxon:559292
+SGD	SGD:S000003330	ESP1	PMID:16713564		GO:0035308	negative regulation of protein dephosphorylation	IPI	SGD:S000003158	UniProtKB:Q03018	PANTHER:PTHR12792	20230225		NCBITaxon:559292
+SGD	SGD:S000001899	YPI1	PMID:18172024		GO:0035307	positive regulation of protein dephosphorylation	IGI	SGD:S000000935	UniProtKB:P43587	PANTHER:PTHR20835	20230224		NCBITaxon:559292
+SGD	SGD:S000005101	IGO1	PMID:23273919		GO:0035308	negative regulation of protein dephosphorylation	IDA		UniProtKB:P53897	PANTHER:PTHR10358	20230224	GO:0000159	NCBITaxon:559292
+SGD	SGD:S000005101	IGO1	PMID:23273919		GO:0035308	negative regulation of protein dephosphorylation	IMP		UniProtKB:P53897	PANTHER:PTHR10358	20230224	GO:0000159	NCBITaxon:559292
+SGD	SGD:S000007496	IGO2	PMID:23861665		GO:1905184	positive regulation of protein serine/threonine phosphatase activity	IGI	SGD:S000005101	UniProtKB:Q9P305	PANTHER:PTHR10358	20170301	GO:0000159	NCBITaxon:559292
+SGD	SGD:S000005101	IGO1	PMID:23861665		GO:0035307	positive regulation of protein dephosphorylation	IGI	SGD:S000007496	UniProtKB:P53897	PANTHER:PTHR10358	20230224	GO:0000159	NCBITaxon:559292
+SGD	SGD:S000005101	IGO1	PMID:23861665		GO:0035308	negative regulation of protein dephosphorylation	IDA		UniProtKB:P53897	PANTHER:PTHR10358	20230224	GO:0000159	NCBITaxon:559292
+SGD	SGD:S000000254	REG2	PMID:8649403		GO:0043666	regulation of phosphoprotein phosphatase activity	IMP		UniProtKB:P38232		20190301		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT5G66570	PSBO1	PMID:17217465|TAIR:Publication:501720808		GO:0035304	regulation of protein dephosphorylation	IMP		TAIR:locus:2154940		20070221		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G50820	PSBO2	PMID:17217465|TAIR:Publication:501720808		GO:0035304	regulation of protein dephosphorylation	IMP		TAIR:locus:2077972		20070221		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G25490	RCN1	PMID:22781128|TAIR:Publication:501750464		GO:0035304	regulation of protein dephosphorylation	IMP		TAIR:locus:2031165		20120806		NCBITaxon:3702
+UniProt	UniProtKB:Q6X855	PPP1R17	PMID:10051666		GO:0035308	negative regulation of protein dephosphorylation	IDA				20131205		NCBITaxon:9986
+UniProt	UniProtKB:Q86UL8	MAGI2	PMID:10760291		GO:0032516	positive regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR10316	20111206	UniProtKB:P60484	NCBITaxon:9606
+UniProt	UniProtKB:Q96P31	FCRL3	PMID:12051764		GO:1905184	positive regulation of protein serine/threonine phosphatase activity	IDA			PANTHER:PTHR11481	20190910	UniProtKB:P29350	NCBITaxon:9606
+UniProt	UniProtKB:Q9NXH3	PPP1R14D	PMID:12974676		GO:1905183	negative regulation of protein serine/threonine phosphatase activity	IDA			PANTHER:PTHR16188	20180705	UniProtKB:P62139	NCBITaxon:9606
+UniProt	UniProtKB:Q9NXH3	PPP1R14D	PMID:12974676		GO:1905184	positive regulation of protein serine/threonine phosphatase activity	IDA			PANTHER:PTHR16188	20190910	UniProtKB:P67774	NCBITaxon:9606
+UniProt	UniProtKB:Q03113	GNA12	PMID:15525651		GO:0032516	positive regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR10218	20210726	UniProtKB:P67775	NCBITaxon:9606
+UniProt	UniProtKB:P56199	ITGA1	PMID:15592458		GO:0032516	positive regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR23220	20130503		NCBITaxon:9606
+UniProt	UniProtKB:Q9UGN4	CD300A	PMID:16339535		GO:0032516	positive regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR11860	20131210	CL:0000097	NCBITaxon:9606
+UniProt	UniProtKB:P55160	NCKAP1L	PMID:16417406		GO:0035509	negative regulation of myosin-light-chain-phosphatase activity	IMP			PANTHER:PTHR12093	20101007		NCBITaxon:9606
+UniProt	UniProtKB:Q96QB1	DLC1	PMID:17292327		GO:0035307	positive regulation of protein dephosphorylation	IDA			PANTHER:PTHR12659	20080509		NCBITaxon:9606
+UniProt	UniProtKB:Q92574	TSC1	PMID:17308101		GO:0043666	regulation of phosphoprotein phosphatase activity	IMP			PANTHER:PTHR15154	20070808		NCBITaxon:9606
+UniProt	UniProtKB:O75663	TIPRL	PMID:17384681		GO:0032515	negative regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR21021	20100507		NCBITaxon:9606
+UniProt	MGI:MGI:1346500	Igbp1	PMID:17438131|MGI:MGI:4457251		GO:0035308	negative regulation of protein dephosphorylation	IDA			PANTHER:PTHR10933	20100517		NCBITaxon:10090
+UniProt	RGD:619819	Nsmf	PMID:18303947|RGD:8553324		GO:0035307	positive regulation of protein dephosphorylation	IMP			PANTHER:PTHR32061	20130130		NCBITaxon:10116
+UniProt	Xenbase:XB-GENE-964551	mastl.L	PMID:19680222		GO:0032515	negative regulation of phosphoprotein phosphatase activity	TAS				20110317		NCBITaxon:8355
+UniProt	UniProtKB:O14974	PPP1R12A	PMID:20354225		GO:0035507	regulation of myosin-light-chain-phosphatase activity	IDA			PANTHER:PTHR24179	20110722		NCBITaxon:9606
+UniProt	UniProtKB:O60285	NUAK1	PMID:20354225		GO:0035507	regulation of myosin-light-chain-phosphatase activity	IDA			PANTHER:PTHR24343	20110722		NCBITaxon:9606
+UniProt	UniProtKB:Q96GX5	MASTL	PMID:20538976		GO:0032515	negative regulation of phosphoprotein phosphatase activity	IMP			PANTHER:PTHR24356	20110317		NCBITaxon:9606
+UniProt	Xenbase:XB-GENE-964551	mastl.L	PMID:21164013		GO:0032515	negative regulation of phosphoprotein phosphatase activity	IDA				20110317		NCBITaxon:8355
+UniProt	Xenbase:XB-GENE-964551	mastl.L	PMID:21164014		GO:0032515	negative regulation of phosphoprotein phosphatase activity	IDA				20110317		NCBITaxon:8355
+UniProt	UniProtKB:Q8N9A8	CNEP1R1	PMID:22134922		GO:0035307	positive regulation of protein dephosphorylation	IDA			PANTHER:PTHR20996	20120105		NCBITaxon:9606
+UniProt	UniProtKB:Q86XL3	ANKLE2	PMID:22770216		GO:0035307	positive regulation of protein dephosphorylation	IDA			PANTHER:PTHR12349	20120726		NCBITaxon:9606
+UniProt	WB:WBGene00021945	lem-4	PMID:22770216|WB_REF:WBPaper00041279		GO:0035307	positive regulation of protein dephosphorylation	IDA			PANTHER:PTHR12349	20120726		NCBITaxon:6239
+UniProt	UniProtKB:Q96IK1	BOD1	PMID:24157919		GO:0032515	negative regulation of phosphoprotein phosphatase activity	IDA				20211119	UniProtKB:Q14738	NCBITaxon:9606
+UniProt	UniProtKB:Q9Y6J8	STYXL1	PMID:24709986		GO:0032515	negative regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR46659	20180416		NCBITaxon:9606
+UniProt	UniProtKB:Q7XBY6	PYL10	PMID:24743650		GO:1905183	negative regulation of protein serine/threonine phosphatase activity	IDA			PANTHER:PTHR31213	20180416		NCBITaxon:39947
+UniProt	UniProtKB:Q6EN42	PYL3	PMID:24743650		GO:1905183	negative regulation of protein serine/threonine phosphatase activity	IDA			PANTHER:PTHR31213	20180416		NCBITaxon:39947
+UniProt	UniProtKB:Q6I5C3	PYL5	PMID:24743650		GO:1905183	negative regulation of protein serine/threonine phosphatase activity	IDA			PANTHER:PTHR31213	20180413		NCBITaxon:39947
+UniProt	UniProtKB:Q5Z8S0	PYL9	PMID:24743650		GO:1905183	negative regulation of protein serine/threonine phosphatase activity	IDA			PANTHER:PTHR31213	20180413		NCBITaxon:39947
+UniProt	UniProtKB:Q8TCT6	SPPL3	PMID:25384971		GO:0035307	positive regulation of protein dephosphorylation	IMP			PANTHER:PTHR12174	20150505		NCBITaxon:9606
+UniProt	UniProtKB:Q9C0C7	AMBRA1	PMID:25438055		GO:0035307	positive regulation of protein dephosphorylation	IDA			PANTHER:PTHR22874	20210629		NCBITaxon:9606
+UniProt	UniProtKB:Q13464	ROCK1	PMID:25816133		GO:0035509	negative regulation of myosin-light-chain-phosphatase activity	IGI	UniProtKB:O75116		PANTHER:PTHR22988	20150806	CL:2000008|GO:1903140|GO:0007249	NCBITaxon:9606
+UniProt	UniProtKB:Q13464	ROCK1	PMID:25816133		GO:0035509	negative regulation of myosin-light-chain-phosphatase activity	IMP			PANTHER:PTHR22988	20150806	CL:2000008|GO:1903140|GO:0007249	NCBITaxon:9606
+UniProt	UniProtKB:O75116	ROCK2	PMID:25816133		GO:0035509	negative regulation of myosin-light-chain-phosphatase activity	IGI	UniProtKB:Q13464		PANTHER:PTHR22988	20150806	CL:2000008|GO:1903140|GO:0007249	NCBITaxon:9606
+UniProt	UniProtKB:O75116	ROCK2	PMID:25816133		GO:0035509	negative regulation of myosin-light-chain-phosphatase activity	IMP			PANTHER:PTHR22988	20150806	CL:2000008|GO:1903140|GO:0007249	NCBITaxon:9606
+UniProt	UniProtKB:O14974	PPP1R12A	PMID:25816133		GO:0035508	positive regulation of myosin-light-chain-phosphatase activity	IMP			PANTHER:PTHR24179	20150806	CL:2000008	NCBITaxon:9606
+UniProt	UniProtKB:O14920	IKBKB	PMID:25816133		GO:0035509	negative regulation of myosin-light-chain-phosphatase activity	IMP			PANTHER:PTHR22969	20150806	CL:2000008|GO:1903140|UniProtKB:Q13464	NCBITaxon:9606
+UniProt	UniProtKB:P01375	TNF	PMID:25816133		GO:0035509	negative regulation of myosin-light-chain-phosphatase activity	IDA			PANTHER:PTHR11471	20150806	CL:2000008|GO:1903140|UniProtKB:Q13464	NCBITaxon:9606
+UniProt	UniProtKB:Q96T49	PPP1R16B	PMID:26497934		GO:0035304	regulation of protein dephosphorylation	IMP			PANTHER:PTHR24179	20170420		NCBITaxon:9606
+UniProt	UniProtKB:P08238	HSP90AB1	PMID:26593036		GO:0032516	positive regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR11528	20160617		NCBITaxon:9606
+UniProt	WB:WBGene00000915	hsp-90	PMID:26593036|WB_REF:WBPaper00048908		GO:0032516	positive regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR11528	20190910	WB:WBGene00012665	NCBITaxon:6239
+UniProt	UniProtKB:Q6I5C3	PYL5	PMID:28000033		GO:1905183	negative regulation of protein serine/threonine phosphatase activity	IDA			PANTHER:PTHR31213	20180416		NCBITaxon:39947
+UniProt	UniProtKB:Q9Y4C4	MFHAS1	PMID:28609714		GO:0035308	negative regulation of protein dephosphorylation	IMP			PANTHER:PTHR45752	20180524		NCBITaxon:9606
+UniProt	UniProtKB:Q9C0C7	AMBRA1	PMID:30513302		GO:0035307	positive regulation of protein dephosphorylation	IDA			PANTHER:PTHR22874	20210629		NCBITaxon:9606
+UniProt	UniProtKB:P62937	PPIA	PMID:31063815		GO:0035307	positive regulation of protein dephosphorylation	IMP			PANTHER:PTHR11071	20200623		NCBITaxon:9606
+UniProt	UniProtKB:Q6I621	B'KAPPA	PMID:31221736		GO:0043666	regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR10257	20191205		NCBITaxon:39947
+UniProt	UniProtKB:P09619	PDGFRB	PMID:7691811		GO:0032516	positive regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR24416	20111007		NCBITaxon:9606
+UniProt	UniProtKB:Q49AN0	CRY2	PMID:9383998		GO:0032515	negative regulation of phosphoprotein phosphatase activity	IDA			PANTHER:PTHR11455	20131015	UniProtKB:P53041	NCBITaxon:9606
+UniProt	MGI:MGI:1346500	Igbp1	PMID:9792806|MGI:MGI:4457259		GO:0035308	negative regulation of protein dephosphorylation	IDA			PANTHER:PTHR10933	20100517		NCBITaxon:10090
+dictyBase	dictyBase:DDB_G0291512	epnA	PMID:17971415		GO:0035304	regulation of protein dephosphorylation	IDA			PANTHER:PTHR12276	20100216		NCBITaxon:44689
+dictyBase	UniProtKB:P42858	HTT	PMID:21562226		GO:0043666	regulation of phosphoprotein phosphatase activity	IMP			PANTHER:PTHR10170	20110906		NCBITaxon:9606
