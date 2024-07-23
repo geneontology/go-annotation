@@ -1,0 +1,20 @@
+term	file	line
+GO:0030234	unirule2go	UniRule:UR000058577 > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	unirule2go	UniRule:UR000058578 > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	unirule2go	UniRule:UR000759782 > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	unirule2go	UniRule:UR000777776 > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	unirule2go	UniRule:UR001029768 > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	hamap2go	HAMAP:MF_01889 > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	hamap2go	HAMAP:MF_01890 > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	interpro2go	InterPro:IPR002187 Nitrogen regulatory protein PII > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	interpro2go	InterPro:IPR002332 Nitrogen regulatory protein P-II, urydylation site > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	interpro2go	InterPro:IPR005774 UTP-glucose pyrophosphorylase, regulatory subunit > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	interpro2go	InterPro:IPR008028 Sarcolipin > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	interpro2go	InterPro:IPR008367 Regucalcin > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	interpro2go	InterPro:IPR009914 Dolichol phosphate-mannose biosynthesis regulatory > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	interpro2go	InterPro:IPR012589 Plasma membrane ATPase proteolipid > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	interpro2go	InterPro:IPR013586 26S proteasome regulatory subunit, C-terminal > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	interpro2go	InterPro:IPR016642 26S proteasome regulatory complex, non-ATPase subcomplex, Rpn2/Psmd1 subunit > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	interpro2go	InterPro:IPR016643 26S proteasome regulatory complex, non-ATPase subcomplex, Rpn1 subunit > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	interpro2go	InterPro:IPR017918 Nitrogen regulatory protein PII, conserved site > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	interpro2go	InterPro:IPR031581 Mannosyl phosphorylinositol ceramide synthase regulatory protein Csg2 > GO:enzyme regulator activity ; GO:0030234
