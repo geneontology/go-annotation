@@ -1,0 +1,27 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	RNAcentral:URS00001C94E0_9606	URS00001C94E0_9606	PMID:23353574		GO:0035195	miRNA-mediated post-transcriptional gene silencing	IDA				20170807	UniProtKB:Q07817|GO:0097153	NCBITaxon:9606
+BHF-UCL	RNAcentral:URS0000324096_9606	URS0000324096_9606	PMID:26296645		GO:0035195	miRNA-mediated post-transcriptional gene silencing	IDA				20170807	UniProtKB:P42574|GO:0097153|CL:0002540|UniProtKB:P42574|GO:0010421|CL:0002540	NCBITaxon:9606
+MGI	MGI:MGI:1316736	Men1	PMID:14688275		GO:0043280	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR12693	20080226	GO:0097153|MGI:MGI:1261423	NCBITaxon:10090
+MGI	MGI:MGI:1096330	Bad	PMID:14967141		GO:0043281	regulation of cysteine-type endopeptidase activity involved in apoptotic process	IMP			PANTHER:PTHR28540	20070212	GO:0097153	NCBITaxon:10090
+MGI	MGI:MGI:1919815	Uaca	PMID:15271982		GO:0043280	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	IMP	MGI:MGI:3043446		PANTHER:PTHR24173	20060726	GO:0097153	NCBITaxon:10090
+MGI	MGI:MGI:108078	Sfrp2	PMID:17251350		GO:0043154	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR11309	20100820	GO:0097153	NCBITaxon:10090
+MGI	MGI:MGI:98956	Wnt3a	PMID:17251350		GO:0043280	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR12027	20100820	GO:0097153	NCBITaxon:10090
+MGI	MGI:MGI:1915760	Ints1	PMID:17544522		GO:0043154	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	IMP	MGI:MGI:3663683		PANTHER:PTHR21224	20081106	GO:0097153	NCBITaxon:10090
+MGI	MGI:MGI:2444668	Fnip1	PMID:22709692		GO:0043154	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	IGI	MGI:MGI:88138		PANTHER:PTHR21634	20121231	GO:0097153	NCBITaxon:10090
+MGI	MGI:MGI:2444668	Fnip1	PMID:22709692		GO:0043154	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	IMP	MGI:MGI:5445116		PANTHER:PTHR21634	20121231	GO:0097153	NCBITaxon:10090
+UniProt	UniProtKB:P54646	PRKAA2	PMID:32029622		GO:0004674	protein serine/threonine kinase activity	IDA			PANTHER:PTHR24343	20210915	GO:1903944|GO:0043028|UniProtKB:P55212|GO:0097153	NCBITaxon:9606
+MGI	MGI:MGI:2429770	Nle1	PMID:23231322		GO:2001268	negative regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	IMP	MGI:MGI:2671874		PANTHER:PTHR19848	20130726	GO:0097199|MGI:MGI:107739	NCBITaxon:10090
+MGI	MGI:MGI:2429770	Nle1	PMID:23231322		GO:2001268	negative regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	IMP	MGI:MGI:2671871		PANTHER:PTHR19848	20130726	GO:0097199|MGI:MGI:107739	NCBITaxon:10090
+UniProt	UniProtKB:P55211	CASP9	PMID:16920334		GO:0097199	cysteine-type endopeptidase activity involved in apoptotic signaling pathway	IDA			PANTHER:PTHR10454	20220706	GO:0097199	NCBITaxon:9606
+UniProt	UniProtKB:Q7NWF2	copC	PMID:35338844		GO:0005516	calmodulin binding	IDA				20220708	GO:0052040|GO:0097199|UniProtKB:P0DP23|GO:0140740	NCBITaxon:243365
+UniProt	UniProtKB:Q7NWF2	copC	PMID:35446120		GO:0005516	calmodulin binding	IDA				20220708	GO:0052040|GO:0097199|UniProtKB:P0DP23|GO:0140740	NCBITaxon:243365
+UniProt	UniProtKB:P04487	US11	PMID:35853963		GO:0004175	endopeptidase activity	IDA				20220928	GO:0039521|GO:0097199	NCBITaxon:10299
+UniProt	UniProtKB:P98170	XIAP	PMID:11257230		GO:0061135	endopeptidase regulator activity	IDA			PANTHER:PTHR10044	20220627	GO:0043066|UniProtKB:P55210|GO:0097200	NCBITaxon:9606
+UniProt	UniProtKB:P98170	XIAP	PMID:11257231		GO:0043027	cysteine-type endopeptidase inhibitor activity involved in apoptotic process	IDA			PANTHER:PTHR10044	20220627	UniProtKB:P55210|GO:0097200	NCBITaxon:9606
+UniProt	UniProtKB:P98170	XIAP	PMID:11257231		GO:0061135	endopeptidase regulator activity	IDA			PANTHER:PTHR10044	20220627	UniProtKB:P55210|GO:0097200	NCBITaxon:9606
+UniProt	UniProtKB:P98170	XIAP	PMID:16916640		GO:0043027	cysteine-type endopeptidase inhibitor activity involved in apoptotic process	IDA			PANTHER:PTHR10044	20220627	UniProtKB:P55210|GO:0097200	NCBITaxon:9606
+UniProt	UniProtKB:P98170	XIAP	PMID:16916640		GO:0061135	endopeptidase regulator activity	IDA			PANTHER:PTHR10044	20220627	UniProtKB:P55210|GO:0097200	NCBITaxon:9606
+UniProt	UniProtKB:Q7NWF2	copC	PMID:35338844		GO:0005516	calmodulin binding	IDA				20220708	GO:0052040|GO:0004197|GO:0097200|UniProtKB:P0DP23|GO:0140740	NCBITaxon:243365
+UniProt	UniProtKB:Q7NWF2	copC	PMID:35338844		GO:0005516	calmodulin binding	IDA				20220708	GO:0052040|GO:0097200|UniProtKB:P0DP23|GO:0140740	NCBITaxon:243365
+UniProt	UniProtKB:Q7NWF2	copC	PMID:35446120		GO:0005516	calmodulin binding	IDA				20220708	GO:0052040|GO:0004197|GO:0097200|UniProtKB:P0DP23|GO:0140740	NCBITaxon:243365
+UniProt	UniProtKB:Q7NWF2	copC	PMID:35446120		GO:0005516	calmodulin binding	IDA				20220708	GO:0052040|GO:0097200|UniProtKB:P0DP23|GO:0140740	NCBITaxon:243365

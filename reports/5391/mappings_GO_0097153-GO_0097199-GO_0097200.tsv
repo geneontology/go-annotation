@@ -1,0 +1,4 @@
+term	file	line
+GO:0097153	reactome2go	Reactome:R-HSA-6800797 > GO:cysteine-type endopeptidase activity involved in apoptotic process ; GO:0097153
+GO:0097199	interpro2go	InterPro:IPR035701 Caspase-10, death effector domain > GO:cysteine-type endopeptidase activity involved in apoptotic signaling pathway ; GO:0097199
+GO:0097200	interpro2go	InterPro:IPR035702 Caspase-2, CARD domain > GO:cysteine-type endopeptidase activity involved in execution phase of apoptosis ; GO:0097200

@@ -1,0 +1,71 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AgBase	UniProtKB:P08998	GH	PMID:24744268		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR11417	20150219	UBERON:0013516	NCBITaxon:9031
+FlyBase	FB:FBgn0019972	Drice	PMID:18166655|FB:FBrf0201142		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20141009		NCBITaxon:7227
+MGI	MGI:MGI:1261423	Casp8	PMID:12065591		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20130514		NCBITaxon:10090
+MGI	MGI:MGI:1261423	Casp8	PMID:16183742		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20130617		NCBITaxon:10090
+MGI	MGI:MGI:109383	Casp7	PMID:16183742		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20130617		NCBITaxon:10090
+MGI	MGI:MGI:97295	Casp2	PMID:16183742		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20130617		NCBITaxon:10090
+MGI	MGI:MGI:107739	Casp3	PMID:16183742		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20130617		NCBITaxon:10090
+MGI	MGI:MGI:107739	Casp3	PMID:24378336		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20140501		NCBITaxon:10090
+UniProt	UniProtKB:P42574	CASP3	PMID:10921886		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IMP			PANTHER:PTHR10454	20131121	UniProtKB:P07949-2	NCBITaxon:9606
+UniProt	UniProtKB:P55210	CASP7	PMID:11257230		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20220621		NCBITaxon:9606
+UniProt	UniProtKB:F1NV61	CASP7	PMID:14583630		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20220627		NCBITaxon:9031
+UniProt	UniProtKB:P55211	CASP9	PMID:16352606		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20220627	UniProtKB:P55210|GO:0006919	NCBITaxon:9606
+UniProt	UniProtKB:Q14790	CASP8	PMID:16916640		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20220627	UniProtKB:P55210|GO:0006919	NCBITaxon:9606
+UniProt	UniProtKB:Q92851	CASP10	PMID:16916640		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20220627	UniProtKB:P55210|GO:0006919	NCBITaxon:9606
+UniProt	UniProtKB:P55211	CASP9	PMID:16916640		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20220627	UniProtKB:P55210|GO:0006919	NCBITaxon:9606
+UniProt	UniProtKB:P42574	CASP3	PMID:16920334		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20230124		NCBITaxon:9606
+UniProt	UniProtKB:Q05315	CLC	PMID:17502455		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR11346	20130908		NCBITaxon:9606
+UniProt	UniProtKB:P55210	CASP7	PMID:19581639		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20220627		NCBITaxon:9606
+UniProt	UniProtKB:Q14790	CASP8	PMID:21737330		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IMP			PANTHER:PTHR10454	20131015		NCBITaxon:9606
+UniProt	UniProtKB:P55212	CASP6	PMID:22858542		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20210916	UniProtKB:Q13546	NCBITaxon:9606
+UniProt	UniProtKB:P42574	CASP3	PMID:23729654		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20150211	UniProtKB:P06396	NCBITaxon:9606
+UniProt	MGI:MGI:109383	Casp7	PMID:25231987|MGI:MGI:6716960		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20210503	UniProtKB:Q5GH62|UniProtKB:Q8C0T0|UniProtKB:Q5GH67	NCBITaxon:10090
+UniProt	MGI:MGI:1312921	Casp6	PMID:25231987|MGI:MGI:6716960		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20210503	UniProtKB:Q5GH62|UniProtKB:Q5GH67	NCBITaxon:10090
+UniProt	MGI:MGI:107739	Casp3	PMID:25231987|MGI:MGI:6716960		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20210503	UniProtKB:Q5GH62|UniProtKB:Q8C0T0|UniProtKB:Q5GH67	NCBITaxon:10090
+UniProt	UniProtKB:P55211	CASP9	PMID:27889207		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20220627	UniProtKB:P55210|GO:0051604	NCBITaxon:9606
+UniProt	UniProtKB:P42574	CASP3	PMID:30878284		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20210907	UniProtKB:Q8N884|UniProtKB:Q14653|UniProtKB:Q7Z434|GO:0097194|GO:0060338	NCBITaxon:9606
+UniProt	UniProtKB:Q14790	CASP8	PMID:31827280		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20200331		NCBITaxon:9606
+UniProt	MGI:MGI:1261423	Casp8	PMID:31827281|MGI:MGI:6401044		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IMP			PANTHER:PTHR10454	20200331		NCBITaxon:10090
+UniProt	UniProtKB:P55212	CASP6	PMID:32029622		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20210916	UniProtKB:P55957	NCBITaxon:9606
+UniProt	UniProtKB:P42574	CASP3	PMID:33725486		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IDA			PANTHER:PTHR10454	20210503	UniProtKB:Q13426|UniProtKB:Q5GH76|GO:0070782	NCBITaxon:9606
+ZFIN	ZFIN:ZDB-GENE-040704-77	snx7	PMID:22213104		GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process	IGI	ZFIN:ZDB-GENE-030826-3|ZFIN:ZDB-MRPHLNO-120927-1		PANTHER:PTHR45949	20121106		NCBITaxon:7955
+FlyBase	FB:FBgn0026404	Dronc	PMID:15107838|FB:FBrf0174987		GO:0097199	cysteine-type endopeptidase activity involved in apoptotic signaling pathway	IDA			PANTHER:PTHR15034	20230414		NCBITaxon:7227
+FlyBase	FB:FBgn0026404	Dronc	PMID:17310982|FB:FBrf0202061		GO:0097199	cysteine-type endopeptidase activity involved in apoptotic signaling pathway	IMP			PANTHER:PTHR15034	20230609		NCBITaxon:7227
+FlyBase	FB:FBgn0026404	Dronc	PMID:21220123|FB:FBrf0212736		GO:0097199	cysteine-type endopeptidase activity involved in apoptotic signaling pathway	IDA			PANTHER:PTHR15034	20170619		NCBITaxon:7227
+UniProt	UniProtKB:Q14790	CASP8	PMID:11717445		GO:0097199	cysteine-type endopeptidase activity involved in apoptotic signaling pathway	IMP			PANTHER:PTHR10454	20140210		NCBITaxon:9606
+UniProt	UniProtKB:Q92851	CASP10	PMID:11717445		GO:0097199	cysteine-type endopeptidase activity involved in apoptotic signaling pathway	IMP			PANTHER:PTHR10454	20140210		NCBITaxon:9606
+UniProt	UniProtKB:Q14790	CASP8	PMID:16916640		GO:0097199	cysteine-type endopeptidase activity involved in apoptotic signaling pathway	IDA			PANTHER:PTHR10454	20220708		NCBITaxon:9606
+UniProt	UniProtKB:P55211	CASP9	PMID:16916640		GO:0097199	cysteine-type endopeptidase activity involved in apoptotic signaling pathway	IDA			PANTHER:PTHR10454	20220708		NCBITaxon:9606
+UniProt	UniProtKB:P42574	CASP3	PMID:16920334		GO:0097199	cysteine-type endopeptidase activity involved in apoptotic signaling pathway	IDA			PANTHER:PTHR10454	20220706		NCBITaxon:9606
+UniProt	UniProtKB:Q14790	CASP8	PMID:16920334		GO:0097199	cysteine-type endopeptidase activity involved in apoptotic signaling pathway	IDA			PANTHER:PTHR10454	20220928	GO:0019777	NCBITaxon:9606
+UniProt	UniProtKB:P55211	CASP9	PMID:16920334		GO:0097199	cysteine-type endopeptidase activity involved in apoptotic signaling pathway	IDA			PANTHER:PTHR10454	20220706	GO:0097199	NCBITaxon:9606
+UniProt	UniProtKB:P42574	CASP3	PMID:21980415		GO:0097199	cysteine-type endopeptidase activity involved in apoptotic signaling pathway	IMP			PANTHER:PTHR10454	20180606	CL:0010003	NCBITaxon:9606
+UniProt	UniProtKB:Q14790	CASP8	PMID:21980415		GO:0097199	cysteine-type endopeptidase activity involved in apoptotic signaling pathway	IMP			PANTHER:PTHR10454	20180606	CL:0010003	NCBITaxon:9606
+UniProt	UniProtKB:Q92851	CASP10	PMID:21980415		GO:0097199	cysteine-type endopeptidase activity involved in apoptotic signaling pathway	IMP			PANTHER:PTHR10454	20180606	CL:0010003	NCBITaxon:9606
+UniProt	UniProtKB:P55211	CASP9	PMID:21980415		GO:0097199	cysteine-type endopeptidase activity involved in apoptotic signaling pathway	IMP			PANTHER:PTHR10454	20180606	CL:0010003	NCBITaxon:9606
+CAFA	UniProtKB:P42574	CASP3	PMID:22253444		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IMP			PANTHER:PTHR10454	20161021		NCBITaxon:9606
+CAFA	UniProtKB:P55212	CASP6	PMID:22253444		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IMP			PANTHER:PTHR10454	20161021		NCBITaxon:9606
+CAFA	UniProtKB:P55210	CASP7	PMID:22253444		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IMP			PANTHER:PTHR10454	20161021		NCBITaxon:9606
+FlyBase	FB:FBgn0019972	Drice	PMID:15107838|FB:FBrf0174987		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IDA			PANTHER:PTHR10454	20230414		NCBITaxon:7227
+FlyBase	FB:FBgn0010501	Dcp-1	PMID:9422696|FB:FBrf0100158		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IMP			PANTHER:PTHR10454	20131121		NCBITaxon:7227
+MGI	MGI:MGI:107739	Casp3	PMID:12124386		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IDA			PANTHER:PTHR10454	20130502		NCBITaxon:10090
+UniProt	UniProtKB:P55210	CASP7	PMID:16123041		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IDA			PANTHER:PTHR10454	20220630	UniProtKB:Q9HAW4|GO:0030163	NCBITaxon:9606
+UniProt	UniProtKB:P55210	CASP7	PMID:16352606		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IDA			PANTHER:PTHR10454	20220628		NCBITaxon:9606
+UniProt	UniProtKB:P42574	CASP3	PMID:16374543		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IDA			PANTHER:PTHR10454	20220629	UniProtKB:P09874|GO:0030163|GO:0097194	NCBITaxon:9606
+UniProt	UniProtKB:P55210	CASP7	PMID:16374543		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IDA			PANTHER:PTHR10454	20220629	UniProtKB:P09874|GO:0030163|GO:0097194	NCBITaxon:9606
+UniProt	UniProtKB:P55210	CASP7	PMID:16916640		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IDA			PANTHER:PTHR10454	20220627		NCBITaxon:9606
+UniProt	UniProtKB:P42574	CASP3	PMID:17559062		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IMP			PANTHER:PTHR10454	20131119	UniProtKB:Q14126	NCBITaxon:9606
+UniProt	UniProtKB:P42574	CASP3	PMID:18723680		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IDA			PANTHER:PTHR10454	20220627		NCBITaxon:9606
+UniProt	UniProtKB:P55210	CASP7	PMID:18723680		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IDA			PANTHER:PTHR10454	20220627		NCBITaxon:9606
+UniProt	UniProtKB:P42574	CASP3	PMID:20566630		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IDA			PANTHER:PTHR10454	20220628		NCBITaxon:9606
+UniProt	UniProtKB:P55210	CASP7	PMID:20566630		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IDA			PANTHER:PTHR10454	20220628		NCBITaxon:9606
+UniProt	UniProtKB:P55210	CASP7	PMID:22184066		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IDA			PANTHER:PTHR10454	20220630	UniProtKB:P25490|GO:0030163|GO:0097194	NCBITaxon:9606
+UniProt	UniProtKB:P55210	CASP7	PMID:22451931		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IDA			PANTHER:PTHR10454	20220629	UniProtKB:P09874|GO:0030163	NCBITaxon:9606
+UniProt	UniProtKB:P55210	CASP7	PMID:22451931		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IDA			PANTHER:PTHR10454	20220629	UniProtKB:Q15185|GO:0030163|GO:0097194	NCBITaxon:9606
+UniProt	UniProtKB:P55210	CASP7	PMID:27889207		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IDA			PANTHER:PTHR10454	20220627		NCBITaxon:9606
+UniProt	UniProtKB:P55210	CASP7	PMID:28863261		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IDA			PANTHER:PTHR10454	20220629	UniProtKB:Q15185|GO:0030163|GO:0097194	NCBITaxon:9606
+WB	WB:WBGene00000417	ced-3	PMID:18722182|WB_REF:WBPaper00032123		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IDA			PANTHER:PTHR10454	20150213	WB:WBGene00001093	NCBITaxon:6239
+WB	WB:WBGene00000417	ced-3	PMID:20223951|WB_REF:WBPaper00036025		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IDA			PANTHER:PTHR10454	20131204	WB:WBGene00000939	NCBITaxon:6239
+WB	WB:WBGene00000417	ced-3	PMID:24225442|WB_REF:WBPaper00044468		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IDA			PANTHER:PTHR10454	20150213	WB:WBGene00000422	NCBITaxon:6239
+WB	WB:WBGene00000417	ced-3	PMID:25383666|WB_REF:WBPaper00045987		GO:0097200	cysteine-type endopeptidase activity involved in execution phase of apoptosis	IDA			PANTHER:PTHR10454	20150212	WB:WBGene00000565	NCBITaxon:6239
