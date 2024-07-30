@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P00804	lspA	PMID:2580835		GO:0097304	lipoprotein biosynthetic process via signal peptide cleavage	IDA			PANTHER:PTHR33695	20151117		NCBITaxon:83333
+EcoCyc	UniProtKB:P00804	lspA	PMID:6313636		GO:0097304	lipoprotein biosynthetic process via signal peptide cleavage	IMP			PANTHER:PTHR33695	20151117		NCBITaxon:83333
+EcoCyc	UniProtKB:P00804	lspA	PMID:6374664		GO:0097304	lipoprotein biosynthetic process via signal peptide cleavage	IMP			PANTHER:PTHR33695	20151117		NCBITaxon:83333
