@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:J9MJK9	FOXG_03074	DOI:10.1016/j.procbio.2008.05.013		GO:0044836	D-xylose fermentation	IDA				20190524		NCBITaxon:426428
