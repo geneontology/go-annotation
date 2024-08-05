@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ParkinsonsUK-UCL	UniProtKB:Q9BXM7	PINK1	PMID:20871098		GO:0031396	regulation of protein ubiquitination	IMP			PANTHER:PTHR22972	20150216	UniProtKB:Q8IWA4|GO:0098779|UniProtKB:O95140|GO:0098779	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O60260	PRKN	PMID:20871098		GO:0031396	regulation of protein ubiquitination	IMP			PANTHER:PTHR11685	20150216	UniProtKB:Q8IWA4|GO:0098779|UniProtKB:O95140|GO:0098779	NCBITaxon:9606
+ParkinsonsUK-UCL	MGI:MGI:1270126	Ulk1	PMID:21855797|MGI:MGI:5607224		GO:0004674	protein serine/threonine kinase activity	IMP			PANTHER:PTHR24348	20160229	UniProtKB:Q91YI1|GO:0098779	NCBITaxon:10090
+ParkinsonsUK-UCL	MGI:MGI:1928676	Htra2	PMID:24709290|MGI:MGI:5581539		GO:0006508	proteolysis	IMP			PANTHER:PTHR22939	20161102	UniProtKB:Q8VCM5|GO:0034599|UniProtKB:Q8VCM5|GO:1904924	NCBITaxon:10090
+ParkinsonsUK-UCL	MGI:MGI:1928676	Htra2	PMID:24709290|MGI:MGI:5581539		GO:0008233	peptidase activity	IMP			PANTHER:PTHR22939	20161102	UniProtKB:Q8VCM5|GO:0034599|UniProtKB:Q8VCM5|GO:1904924	NCBITaxon:10090

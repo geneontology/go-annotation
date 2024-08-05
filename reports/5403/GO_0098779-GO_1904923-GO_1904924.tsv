@@ -1,0 +1,10 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	UniProtKB:Q7Z6Z7	HUWE1	PMID:30217973		GO:0098779	positive regulation of mitophagy in response to mitochondrial depolarization	IDA			PANTHER:PTHR11254	20180918		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O60260	PRKN	PMID:20457763		GO:0098779	positive regulation of mitophagy in response to mitochondrial depolarization	IDA			PANTHER:PTHR11685	20150216		NCBITaxon:9606
+ParkinsonsUK-UCL	MGI:MGI:1333752	Hdac6	PMID:20457763|MGI:MGI:5616310		GO:0098779	positive regulation of mitophagy in response to mitochondrial depolarization	IGI	UniProtKB:Q9JK66		PANTHER:PTHR48252	20150603		NCBITaxon:10090
+ParkinsonsUK-UCL	UniProtKB:Q9BXM7	PINK1	PMID:20871098		GO:0098779	positive regulation of mitophagy in response to mitochondrial depolarization	IMP			PANTHER:PTHR22972	20150216		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O60260	PRKN	PMID:20871098		GO:0098779	positive regulation of mitophagy in response to mitochondrial depolarization	IMP			PANTHER:PTHR11685	20150216		NCBITaxon:9606
+ParkinsonsUK-UCL	MGI:MGI:109531	Cdc37	PMID:21855797|MGI:MGI:5607224		GO:0098779	positive regulation of mitophagy in response to mitochondrial depolarization	IDA			PANTHER:PTHR12800	20150216		NCBITaxon:10090
+ParkinsonsUK-UCL	UniProtKB:O60260	PRKN	PMID:23212910		GO:0098779	positive regulation of mitophagy in response to mitochondrial depolarization	IMP			PANTHER:PTHR11685	20150223		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9P0U1	TOMM7	PMID:24270810		GO:0098779	positive regulation of mitophagy in response to mitochondrial depolarization	IMP			PANTHER:PTHR46722	20150422		NCBITaxon:9606
+ParkinsonsUK-UCL	MGI:MGI:1928676	Htra2	PMID:24709290|MGI:MGI:5581539		GO:1904924	negative regulation of mitophagy in response to mitochondrial depolarization	IMP			PANTHER:PTHR22939	20161102		NCBITaxon:10090
