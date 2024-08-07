@@ -1,0 +1,13 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	UniProtKB:Q09328	MGAT5	PMID:24846175		GO:0030144	alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase activity	IDA			PANTHER:PTHR15075	20180803	UniProtKB:O14522|GO:0006487	NCBITaxon:9606
+PomBase	PomBase:SPBC4C3.09	otg3	PMID:22988247		GO:0001962	alpha-1,3-galactosyltransferase activity	IDA			PANTHER:PTHR11183	20171101	GO:0005794|GO:0006487	NCBITaxon:4896
+PomBase	PomBase:SPBC4C3.08	otg2	PMID:22988247		GO:0001962	alpha-1,3-galactosyltransferase activity	IDA			PANTHER:PTHR11183	20171101	GO:0005794|GO:0006487	NCBITaxon:4896
+PomBase	PomBase:SPBC56F2.10c	alg5	PMID:27587357		GO:0004581	dolichyl-phosphate beta-glucosyltransferase activity	IDA			PANTHER:PTHR10859	20171020	GO:0006487	NCBITaxon:4896
+PomBase	PomBase:SPAC4F10.10c	mnn9	PMID:32650974		GO:0000030	mannosyltransferase activity	IMP			PANTHER:PTHR43083	20200721	GO:0006487	NCBITaxon:4896
+PomBase	PomBase:SPBC1734.04	anp1	PMID:32650974		GO:0000030	mannosyltransferase activity	IMP			PANTHER:PTHR43083	20200721	GO:0006487	NCBITaxon:4896
+PomBase	PomBase:SPAC5H10.13c	gmh2	PMID:33909078		GO:0031278	alpha-1,2-galactosyltransferase activity	EXP			PANTHER:PTHR31306	20210511	GO:0006487	NCBITaxon:4896
+PomBase	PomBase:SPAC22E12.06c	gmh3	PMID:33909078		GO:0031278	alpha-1,2-galactosyltransferase activity	EXP			PANTHER:PTHR31306	20210511	GO:0006487	NCBITaxon:4896
+PomBase	PomBase:SPAC5H10.11	gmh1	PMID:33909078		GO:0031278	alpha-1,2-galactosyltransferase activity	EXP			PANTHER:PTHR31306	20210511	GO:0006487	NCBITaxon:4896
+PomBase	PomBase:SPAC22E12.06c	gmh3	PMID:9839953		GO:0031278	alpha-1,2-galactosyltransferase activity	IDA			PANTHER:PTHR31306	20190109	GO:0006487	NCBITaxon:4896
+PomBase	PomBase:SPCC736.04c	gma12	PMID:9839953		GO:0031278	alpha-1,2-galactosyltransferase activity	IDA			PANTHER:PTHR31306	20190109	GO:0006487	NCBITaxon:4896
+SGD	SGD:S000004757	SWP1	PMID:29466327		GO:0005198	structural molecule activity	IDA		UniProtKB:Q02795	PANTHER:PTHR12640	20211124	GO:0006487|GO:0005789|SGD:S000217958|SGD:S000217959	NCBITaxon:559292
