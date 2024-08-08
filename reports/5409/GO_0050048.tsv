@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P04693	tyrB	PMID:361681		GO:0050048	L-leucine:2-oxoglutarate aminotransferase activity	IMP			PANTHER:PTHR11879	20070213		NCBITaxon:83333
+TAIR	AGI_LocusCode:AT1G70560	TAA1	PMID:18394996|TAIR:Publication:501729939		GO:0050048	L-leucine:2-oxoglutarate aminotransferase activity	IDA		TAIR:locus:2026826		20090325		NCBITaxon:3702

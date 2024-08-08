@@ -1,0 +1,4 @@
+term	file	line
+GO:0050048	ec2go	EC:2.6.1.6 > GO:L-leucine:2-oxoglutarate aminotransferase activity ; GO:0050048
+GO:0050048	metacyc2go	MetaCyc:BRANCHED-CHAINAMINOTRANSFERLEU-RXN > GO:L-leucine:2-oxoglutarate aminotransferase activity ; GO:0050048
+GO:0050048	rhea2go	RHEA:18321 > GO:L-leucine:2-oxoglutarate aminotransferase activity ; GO:0050048
