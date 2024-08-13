@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoliWiki	UniProtKB:P35340	ahpF	PMID:11717276		GO:0008785	alkyl hydroperoxide reductase activity	IGI	EcoliWiki:ahpC|EcoliWiki:katE|EcoliWiki:katG		PANTHER:PTHR48105	20110815		NCBITaxon:83333
+MTBBASE	UniProtKB:P9WQB7	ahpC	PMID:11171096		GO:0008785	alkyl hydroperoxide reductase activity	IDA			PANTHER:PTHR10681	20100611		NCBITaxon:83332
+PseudoCAP	PseudoCAP:PA3529	PA3529	PMID:21674802		GO:0008785	alkyl hydroperoxide reductase activity	IDA				20190311		NCBITaxon:208964
+UniProt	UniProtKB:P30048	PRDX3	PMID:7733872		GO:0008785	alkyl hydroperoxide reductase activity	NAS			PANTHER:PTHR10681	20080909		NCBITaxon:9606
