@@ -1,0 +1,7 @@
+term	file	line
+GO:0036428	metacyc2go	MetaCyc:RXN-14063 > GO:adenosylcobinamide kinase (GTP-specific) activity ; GO:0036428
+GO:0036428	rhea2go	RHEA:15765 > GO:adenosylcobinamide kinase (GTP-specific) activity ; GO:0036428
+GO:0036428	kegg_reaction2go	KEGG_REACTION:R06558 > GO:adenosylcobinamide kinase (GTP-specific) activity ; GO:0036428
+GO:0036429	metacyc2go	MetaCyc:COBINAMIDEKIN-RXN > GO:adenosylcobinamide kinase (ATP-specific) activity ; GO:0036429
+GO:0036429	rhea2go	RHEA:15769 > GO:adenosylcobinamide kinase (ATP-specific) activity ; GO:0036429
+GO:0036429	kegg_reaction2go	KEGG_REACTION:R05221 > GO:adenosylcobinamide kinase (ATP-specific) activity ; GO:0036429
