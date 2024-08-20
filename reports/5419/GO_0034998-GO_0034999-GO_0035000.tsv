@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:E2RG47	STT3B	PMID:12887896		GO:0034998	oligosaccharyltransferase I complex	IDA			PANTHER:PTHR13872	20180727		NCBITaxon:9615
+UniProt	UniProtKB:P61165	TMEM258	PMID:26472760		GO:0034998	oligosaccharyltransferase I complex	IDA			PANTHER:PTHR13636	20170205		NCBITaxon:9606
+UniProt	UniProtKB:E2RG47	STT3B	PMID:12887896		GO:0034999	oligosaccharyltransferase II complex	IDA			PANTHER:PTHR13872	20180727		NCBITaxon:9615
+UniProt	UniProtKB:F1PJP5	STT3A	PMID:12887896		GO:0035000	oligosaccharyltransferase III complex	IDA			PANTHER:PTHR13872	20180727		NCBITaxon:9615
