@@ -1,0 +1,6 @@
+term	file	line
+GO:0008785	hamap2go	HAMAP:MF_01676 > GO:alkyl hydroperoxide reductase activity ; GO:0008785
+GO:0008785	interpro2go	InterPro:IPR012081 Alkyl hydroperoxide reductase subunit F > GO:alkyl hydroperoxide reductase activity ; GO:0008785
+GO:0008785	unirule2go	UniRule:UR000084072 > GO:alkyl hydroperoxide reductase activity ; GO:0008785
+GO:0008785	reactome2go	Reactome:R-HSA-1222526 > GO:alkyl hydroperoxide reductase activity ; GO:0008785
+GO:0009389	interpro2go	InterPro:IPR011888 Anaerobic dimethyl sulphoxide reductase, subunit A, DmsA/YnfE > GO:dimethyl sulfoxide reductase activity ; GO:0009389

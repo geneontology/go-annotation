@@ -1,0 +1,25 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:1861722	Aldh1a3	PMID:10906479		GO:0004028	3-chloroallyl aldehyde dehydrogenase activity	TAS			PANTHER:PTHR11699	20000925		NCBITaxon:10090
+MGI	MGI:MGI:1353451	Aldh3a1	PMID:11784860		GO:0004028	3-chloroallyl aldehyde dehydrogenase activity	IMP	MGI:MGI:2180794		PANTHER:PTHR43570	20110217		NCBITaxon:10090
+MGI	MGI:MGI:1353450	Aldh1a1	PMID:12610736		GO:0004028	3-chloroallyl aldehyde dehydrogenase activity	IDA			PANTHER:PTHR11699	20030623		NCBITaxon:10090
+MGI	MGI:MGI:1353451	Aldh3a1	PMID:12610736		GO:0004028	3-chloroallyl aldehyde dehydrogenase activity	IDA			PANTHER:PTHR43570	20030623		NCBITaxon:10090
+MGI	MGI:MGI:107928	Aldh1a2	PMID:12610736		GO:0004028	3-chloroallyl aldehyde dehydrogenase activity	IDA			PANTHER:PTHR11699	20030623		NCBITaxon:10090
+MGI	MGI:MGI:99596	Aldh5	PMID:6543304		GO:0004028	3-chloroallyl aldehyde dehydrogenase activity	IDA				20000809		NCBITaxon:10090
+MGI	MGI:MGI:1353451	Aldh3a1	PMID:742739		GO:0004028	3-chloroallyl aldehyde dehydrogenase activity	IDA			PANTHER:PTHR43570	20000808		NCBITaxon:10090
+RGD	RGD:61866	Aldh3a2	PMID:1717467|RGD:61536		GO:0004028	3-chloroallyl aldehyde dehydrogenase activity	IDA			PANTHER:PTHR43570	20050217		NCBITaxon:10116
+RGD	RGD:402093005	Aldh1a7	PMID:2753900|RGD:631864		GO:0004028	3-chloroallyl aldehyde dehydrogenase activity	IDA				20240411		NCBITaxon:10116
+RGD	RGD:402093005	Aldh1a7	PMID:2753900|RGD:631864		GO:0004028	3-chloroallyl aldehyde dehydrogenase activity	TAS				20240411		NCBITaxon:10116
+RGD	RGD:2088	Aldh3a1	PMID:2831537|RGD:632185		GO:0004028	3-chloroallyl aldehyde dehydrogenase activity	IDA			PANTHER:PTHR43570	20050217		NCBITaxon:10116
+RGD	RGD:2087	Aldh1a1	PMID:8543180|RGD:628400		GO:0004028	3-chloroallyl aldehyde dehydrogenase activity	TAS			PANTHER:PTHR11699	20050217		NCBITaxon:10116
+ZFIN	ZFIN:ZDB-GENE-040426-1262	aldh2.1	PMID:15703303		GO:0004028	3-chloroallyl aldehyde dehydrogenase activity	IDA			PANTHER:PTHR11699	20050627		NCBITaxon:7955
+EcoliWiki	UniProtKB:P35340	ahpF	PMID:11717276		GO:0008785	alkyl hydroperoxide reductase activity	IGI	EcoliWiki:ahpC|EcoliWiki:katE|EcoliWiki:katG		PANTHER:PTHR48105	20110815		NCBITaxon:83333
+MTBBASE	UniProtKB:P9WQB7	ahpC	PMID:11171096		GO:0008785	alkyl hydroperoxide reductase activity	IDA			PANTHER:PTHR10681	20100611		NCBITaxon:83332
+PseudoCAP	PseudoCAP:PA3529	PA3529	PMID:21674802		GO:0008785	alkyl hydroperoxide reductase activity	IDA				20190311		NCBITaxon:208964
+UniProt	UniProtKB:P30048	PRDX3	PMID:7733872		GO:0008785	alkyl hydroperoxide reductase activity	NAS			PANTHER:PTHR10681	20080909		NCBITaxon:9606
+EcoCyc	UniProtKB:P18775	dmsA	PMID:1917829		GO:0009389	dimethyl sulfoxide reductase activity	EXP			PANTHER:PTHR43742	20141104		NCBITaxon:83333
+EcoCyc	UniProtKB:P18777	dmsC	PMID:3280546		GO:0009389	dimethyl sulfoxide reductase activity	IDA			PANTHER:PTHR38095	20141104		NCBITaxon:83333
+EcoCyc	UniProtKB:P18776	dmsB	PMID:3280546		GO:0009389	dimethyl sulfoxide reductase activity	IDA			PANTHER:PTHR43177	20141104		NCBITaxon:83333
+PseudoCAP	PseudoCAP:PA1535	PA1535	PMID:18310025		GO:0034824	citronellyl-CoA dehydrogenase activity	IDA				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA2889	atvR	PMID:18310025		GO:0034824	citronellyl-CoA dehydrogenase activity	IDA				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA1535	PA1535	PMID:20490788		GO:0034824	citronellyl-CoA dehydrogenase activity	IDA				20190311		NCBITaxon:208964
+UniProt	UniProtKB:H1ZV37	geoB	PMID:22286981		GO:0034832	geranial dehydrogenase activity	IDA				20120614		NCBITaxon:1437824
