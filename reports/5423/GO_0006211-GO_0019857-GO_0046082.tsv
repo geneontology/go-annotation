@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:1922717	Stpg4	PMID:23560077		GO:0006211	5-methylcytosine catabolic process	IMP			PANTHER:PTHR35678	20160809	CL:0010017	NCBITaxon:10090
+UniProt	UniProtKB:A0A2K3D5Z7	CMD1	PMID:31043749		GO:0006211	5-methylcytosine catabolic process	IDA				20190527		NCBITaxon:3055
+MGI	MGI:MGI:2443298	Tet2	PMID:21803851		GO:0019857	5-methylcytosine metabolic process	IMP	MGI:MGI:5301343		PANTHER:PTHR23358	20140916		NCBITaxon:10090
