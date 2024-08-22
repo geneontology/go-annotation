@@ -1,0 +1,10 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	MGI:MGI:87866	Acadl	PMID:9861014|MGI:MGI:1321427		GO:0016401	palmitoyl-CoA oxidase activity	IMP			PANTHER:PTHR48083	20091117		NCBITaxon:10090
+RGD	RGD:619757	Acox1	PMID:1400324|RGD:2299949		GO:0016401	palmitoyl-CoA oxidase activity	IDA			PANTHER:PTHR10909	20080821		NCBITaxon:10116
+UniProt	UniProtKB:P09110	ACAA1	PMID:2882519		GO:0016401	palmitoyl-CoA oxidase activity	IMP			PANTHER:PTHR43853	20120305		NCBITaxon:9606
+UniProt	RGD:67379	Acaa1a	PMID:2882519|RGD:8554082		GO:0016401	palmitoyl-CoA oxidase activity	IGI	UniProtKB:P09110		PANTHER:PTHR43853	20120307		NCBITaxon:10116
+MGI	MGI:MGI:1933156	Acox3	PMID:10806321		GO:0016402	pristanoyl-CoA oxidase activity	TAS			PANTHER:PTHR10909	20011119		NCBITaxon:10090
+RGD	RGD:69245	Acox3	PMID:1400324|RGD:2299949		GO:0016402	pristanoyl-CoA oxidase activity	IDA			PANTHER:PTHR10909	20080821		NCBITaxon:10116
+RGD	RGD:69245	Acox3	PMID:8026493|RGD:2299969		GO:0016402	pristanoyl-CoA oxidase activity	IDA			PANTHER:PTHR10909	20080822		NCBITaxon:10116
+RGD	RGD:69245	Acox3	PMID:8654595|RGD:2299971		GO:0016402	pristanoyl-CoA oxidase activity	IDA			PANTHER:PTHR10909	20080822		NCBITaxon:10116
+RGD	RGD:69245	Acox3	PMID:8706733|RGD:68737		GO:0016402	pristanoyl-CoA oxidase activity	TAS			PANTHER:PTHR10909	20050217		NCBITaxon:10116
