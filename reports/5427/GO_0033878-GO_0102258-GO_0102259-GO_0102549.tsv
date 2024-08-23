@@ -1,0 +1,8 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+TAIR	AGI_LocusCode:AT3G14360	AtOBL1	PMID:29178188|TAIR:Publication:501777884		GO:0033878	hormone-sensitive lipase activity	IDA		TAIR:locus:2091025		20210220		NCBITaxon:3702
+UniProt	UniProtKB:Q05469	LIPE	PMID:19800417		GO:0033878	hormone-sensitive lipase activity	IDA			PANTHER:PTHR23025	20200428		NCBITaxon:9606
+UniProt	UniProtKB:P08910	ABHD2	PMID:27247428		GO:0033878	hormone-sensitive lipase activity	IDA			PANTHER:PTHR10794	20190702		NCBITaxon:9606
+UniProt	RGD:3010	Lipe	PMID:6643478|RGD:30309921		GO:0033878	hormone-sensitive lipase activity	IDA			PANTHER:PTHR23025	20200428		NCBITaxon:10116
+UniProt	UniProtKB:Q05469	LIPE	PMID:8812477		GO:0033878	hormone-sensitive lipase activity	IDA			PANTHER:PTHR23025	20200428		NCBITaxon:9606
+UniProt	MGI:MGI:96790	Lipe	PMID:23066022|MGI:MGI:5465510		GO:0102258	1,3-diacylglycerol acylhydrolase activity	IDA			PANTHER:PTHR23025	20200428		NCBITaxon:10090
+UniProt	MGI:MGI:96790	Lipe	PMID:23066022|MGI:MGI:5465510		GO:0102259	1,2-diacylglycerol acylhydrolase activity	IDA			PANTHER:PTHR23025	20200428		NCBITaxon:10090

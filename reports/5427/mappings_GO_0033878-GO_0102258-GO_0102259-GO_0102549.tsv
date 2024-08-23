@@ -1,0 +1,6 @@
+term	file	line
+GO:0033878	ec2go	EC:3.1.1.79 > GO:hormone-sensitive lipase activity ; GO:0033878
+GO:0102258	metacyc2go	MetaCyc:RXN-12433 > GO:1,3-diacylglycerol acylhydrolase activity ; GO:0102258
+GO:0102259	metacyc2go	MetaCyc:RXN-12434 > GO:1,2-diacylglycerol acylhydrolase activity ; GO:0102259
+GO:0102549	ec2go	EC:3.1.1.26 > GO:1-18:1-2-16:0-monogalactosyldiacylglycerol lipase activity ; GO:0102549
+GO:0102549	metacyc2go	MetaCyc:RXN-14912 > GO:1-18:1-2-16:0-monogalactosyldiacylglycerol lipase activity ; GO:0102549
