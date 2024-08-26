@@ -68,7 +68,7 @@ Header property | Example value | Comment
 | ------ | ------ | ------ | ------ | ------ |
 | 1 | <code><a name="DB_Object_ID">DB_Object_ID</a></code> | <code>[ID](#ID)</code>| `UniProtKB:P11678` | |
 | 2 | <code><a name="Negation">Negation</a></code> | <code>'NOT'?</code>| `NOT` | |
-| 3 | <code><a name="Relation">Relation</a></code> | <code>[ID](#ID)</code>| `RO:0002263` | The relation used MUST come from the [allowed gene-product-to-term relations](#allowed-gene-product-to-go-term-relations) |
+| 3 | <code><a name="Relation">Relation</a></code> | <code>[ID](#ID)</code>| `RO:0002263` | The relation used SHOULD come from the [allowed gene-product-to-term relations](#allowed-gene-product-to-go-term-relations) |
 | 4 | <code><a name="Ontology_Class_ID">Ontology_Class_ID</a></code> | <code>[ID](#ID)</code>| `GO:0050803` | The identifier MUST be a term from the GO ontology |
 | 5 | <code><a name="Reference">Reference</a></code> | <code>[ID](#ID) ( '\|' [ID](#ID) )*</code>| `PMID:30695063` | Different IDs, e.g. PMID and MOD paper ID, MUST correspond to the same publication or reference |
 | 6 | <code><a name="Evidence_Type">Evidence_Type</a></code> | <code>[ID](#ID)</code>| `ECO:0000315` | The evidence identifier MUST be a term from the ECO ontology. [GO evidence-ECO mapping file](https://purl.obolibrary.org/obo/eco/gaf-eco-mapping-derived.txt) |
@@ -77,7 +77,7 @@ Header property | Example value | Comment
 | 9 | <code><a name="Annotation_Date">Annotation_Date</a></code> | <code>[Date_Or_Date_Time](#Date_Or_Date_Time)</code>| `2019-01-30` | |
 | 10 | <code><a name="Assigned_By">Assigned_By</a></code> | <code>[Prefix](#Prefix)</code>| `MGI` | |
 | 11 | <code><a name="Annotation_Extensions">Annotation_Extensions</a></code> | <code>( [Extension_Conj](#Extension_Conj) ( '\|' [Extension_Conj](#Extension_Conj) )* )?</code>| `BFO:0000066(GO:0005829)` | |
-| 12 | <code><a name="Annotation_Properties">Annotation_Properties</a></code> | <code>( [Property_Value_Pair](#Property_Value_Pair) ( '\|' [Property_Value_Pair](#Property_Value_Pair) )* )?</code>| `contributor-id=orcid:0000-0002-1478-7671` | Properties and values MUST come conform to the list in [GPAD annotation properties](#gpad-annotation-properties) |
+| 12 | <code><a name="Annotation_Properties">Annotation_Properties</a></code> | <code>( [Property_Value_Pair](#Property_Value_Pair) ( '\|' [Property_Value_Pair](#Property_Value_Pair) )* )?</code>| `contributor-id=orcid:0000-0002-1478-7671` | Properties and values MUST conform to the list in [GPAD annotation properties](#gpad-annotation-properties) |
 
 ### GPI columns
 
@@ -112,7 +112,7 @@ Header property | Example value | Comment
 | <code><a name="Property_Value">Property_Value</a></code> | <code>[Text](#Text)</code>| |
 | <code><a name="ID">ID</a></code> | <code>[Prefix](#Prefix) ':' [Local_ID](#Local_ID)</code>| |
 | <code><a name="Prefix">Prefix</a></code> | <code>[Alpha_Char](#Alpha_Char) [ID_Char](#ID_Char)*</code>| The [GO database registry](https://github.com/geneontology/go-site/blob/master/metadata/db-xrefs.yaml) contains a list of valid prefixes that can be used in GPAD or GPI files. Every identifier prefix used in a GPAD or GPI file MUST have an entry in the registry. |
-| <code><a name="Local_ID">Local_ID</a></code> | <code>( [ID_Char](#ID_Char) \| ':' )+</code>| |
+| <code><a name="Local_ID">Local_ID</a></code> | <code>( [ID_Char](#ID_Char) \| ':' \| '\/' )+</code>| |
 | <code><a name="ID_Char">ID_Char</a></code> | <code>[Alpha_Char](#Alpha_Char) \| [Digit](#Digit) \| '_' \| '-' \| '.'</code>| |
 | <code><a name="Date_Or_Date_Time">Date_Or_Date_Time</a></code> | <code>[Date](#Date) \| [Date_Time](#Date_Time)</code>| |
 | <code><a name="Date">Date</a></code> | <code>YYYY-MM-DD</code>| Corresponds to [xsd:date](https://www.w3.org/TR/xmlschema-2/#date) without optional timezone (a subset of the ISO 8601 standard) |
