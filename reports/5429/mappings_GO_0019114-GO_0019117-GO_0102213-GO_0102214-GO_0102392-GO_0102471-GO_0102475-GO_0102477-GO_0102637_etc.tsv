@@ -1,0 +1,15 @@
+term	file	line
+GO:0019114	ec2go	EC:1.13.11.- > GO:catechol dioxygenase activity ; GO:0019114
+GO:0019117	ec2go	EC:1.13.11.- > GO:dihydroxyfluorene dioxygenase activity ; GO:0019117
+GO:0102213	metacyc2go	MetaCyc:RXN-12184 > GO:in-chain hydroxy fatty acyl-CoA synthetase activity ; GO:0102213
+GO:0102214	metacyc2go	MetaCyc:RXN-12185 > GO:omega-hydroxy fatty acyl-CoA synthetase activity ; GO:0102214
+GO:0102392	metacyc2go	MetaCyc:RXN-13623 > GO:decanoate-[HmqF protein] ligase activity ; GO:0102392
+GO:0102471	metacyc2go	MetaCyc:RXN-14076 > GO:2-hydroxynaringenin-6C-glucoside dehydratase activity ; GO:0102471
+GO:0102475	metacyc2go	MetaCyc:RXN-14081 > GO:2-hydroxyeriodictyol 6C-glucoside dehydratase activity ; GO:0102475
+GO:0102477	metacyc2go	MetaCyc:RXN-14088 > GO:2,5,7-trihydroxyflavanone 6C-glucoside dehydratase activity ; GO:0102477
+GO:0102637	metacyc2go	MetaCyc:RXN-15714 > GO:5-aminolevulinate-CoA ligase activity ; GO:0102637
+GO:0102643	metacyc2go	MetaCyc:RXN-15755 > GO:scalarane-17alpha-19-diol synthase activity ; GO:0102643
+GO:0102644	metacyc2go	MetaCyc:RXN-15756 > GO:monocyclic sesterterpenediol synthase activity ; GO:0102644
+GO:0102784	metacyc2go	MetaCyc:RXN-7884 > GO:lutein oxygenase activity ; GO:0102784
+GO:0103062	metacyc2go	MetaCyc:RXN1G-4142 > GO:cis-keto-C60-meroacyl-AMP ligase activity ; GO:0103062
+GO:0103063	metacyc2go	MetaCyc:RXN1G-4143 > GO:trans-keto-C61-meroacyl-AMP ligase activity ; GO:0103063
