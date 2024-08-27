@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	UniProtKB:P43405	SYK	PMID:19358895		GO:0051712	positive regulation of killing of cells of another organism	IMP			PANTHER:PTHR24418	20211119	CL:0000451	NCBITaxon:9606
+ARUK-UCL	UniProtKB:Q9BXN2	CLEC7A	PMID:19358895		GO:0051712	positive regulation of killing of cells of another organism	IDA			PANTHER:PTHR47218	20211119	CL:0000451|CL:0000235	NCBITaxon:9606
+BHF-UCL	UniProtKB:P35228	NOS2	PMID:7544003		GO:0051712	positive regulation of killing of cells of another organism	IMP			PANTHER:PTHR19384	20080724		NCBITaxon:9606
+BHF-UCL	UniProtKB:P06734	FCER2	PMID:7544003		GO:0051712	positive regulation of killing of cells of another organism	IDA			PANTHER:PTHR22802	20080724		NCBITaxon:9606
+BHF-UCL	UniProtKB:P01579	IFNG	PMID:7544003		GO:0051712	positive regulation of killing of cells of another organism	IDA			PANTHER:PTHR11419	20080724		NCBITaxon:9606
+UniProt	UniProtKB:P14222	PRF1	PMID:9756476		GO:0051712	positive regulation of killing of cells of another organism	IDA			PANTHER:PTHR46096	20170425		NCBITaxon:9606
