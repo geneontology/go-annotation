@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+TAIR	AGI_LocusCode:AT2G36070	TIM44-2	PMID:12692332|TAIR:Publication:501705853		GO:0015462	ABC-type protein transporter activity	TAS		TAIR:locus:2039195		20030903		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G20510	AT2G20510	PMID:12692332|TAIR:Publication:501705853		GO:0015462	ABC-type protein transporter activity	TAS		TAIR:locus:2054759		20030903		NCBITaxon:3702
+ZFIN	ZFIN:ZDB-GENE-080204-52	abcb4	PMID:25193616		GO:0015462	ABC-type protein transporter activity	IDA			PANTHER:PTHR24221	20150406		NCBITaxon:7955
