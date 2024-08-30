@@ -1,0 +1,16 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	UniProtKB:P94427	gabT	PMID:12123465		GO:0003867	4-aminobutyrate transaminase activity	IMP			PANTHER:PTHR43206	20131027		NCBITaxon:224308
+CACAO	AGI_LocusCode:AT3G22200	POP2	PMID:12859897|TAIR:Publication:501707689		GO:0003867	4-aminobutyrate transaminase activity	IMP		TAIR:locus:2090414		20161103		NCBITaxon:3702
+CACAO	AGI_LocusCode:AT3G22150	AEF1	PMID:12859897|TAIR:Publication:501707689		GO:0003867	4-aminobutyrate transaminase activity	IMP		TAIR:locus:2090444		20160611		NCBITaxon:3702
+CACAO	UniProtKB:B5SRV2	gabT	PMID:19854901		GO:0003867	4-aminobutyrate transaminase activity	IMP				20131027		NCBITaxon:29339
+CGD	CGD:CAL0000181031	UGA1	PMID:11737641|CGD_REF:CAL0080636		GO:0003867	4-aminobutyrate transaminase activity	NAS			PANTHER:PTHR43206	20140625		NCBITaxon:237561
+EcoCyc	UniProtKB:P50457	puuE	PMID:15590624		GO:0003867	4-aminobutyrate transaminase activity	IDA			PANTHER:PTHR43206	20071023		NCBITaxon:83333
+EcoCyc	UniProtKB:P50457	puuE	PMID:20639325		GO:0003867	4-aminobutyrate transaminase activity	IDA			PANTHER:PTHR43206	20100728		NCBITaxon:83333
+EcoCyc	UniProtKB:P22256	gabT	PMID:2178550		GO:0003867	4-aminobutyrate transaminase activity	IDA			PANTHER:PTHR43206	20071023		NCBITaxon:83333
+RGD	RGD:620948	Abat	PMID:10447691|RGD:631980		GO:0003867	4-aminobutyrate transaminase activity	IDA			PANTHER:PTHR43206	20050217		NCBITaxon:10116
+SGD	SGD:S000003251	UGA1	PMID:3888627		GO:0003867	4-aminobutyrate transaminase activity	IMP		UniProtKB:P17649	PANTHER:PTHR43206	20071106		NCBITaxon:559292
+SGN	SGN:8343	GABA-TP1	PMID:18713763		GO:0003867	4-aminobutyrate transaminase activity	IDA				20100524		NCBITaxon:4081
+SGN	SGN:8342	GABA-TP2	PMID:18713763		GO:0003867	4-aminobutyrate transaminase activity	IDA				20100524		NCBITaxon:4081
+TAIR	AGI_LocusCode:AT3G22200	POP2	TAIR:Publication:501707123		GO:0003867	4-aminobutyrate transaminase activity	NAS		TAIR:locus:2090414		20070808		NCBITaxon:3702
+UniProt	UniProtKB:Q9BGI0	ABAT	PMID:11561735	contributes_to	GO:0003867	4-aminobutyrate transaminase activity	IMP			PANTHER:PTHR43206	20060710		NCBITaxon:9913
+UniProt	UniProtKB:P80404	ABAT	PMID:15528998	contributes_to	GO:0003867	4-aminobutyrate transaminase activity	IDA			PANTHER:PTHR43206	20060710		NCBITaxon:9606

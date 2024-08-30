@@ -1,0 +1,4 @@
+term	file	line
+GO:0003867	interpro2go	InterPro:IPR004631 4-aminobutyrate aminotransferase, eukaryotic > GO:4-aminobutyrate transaminase activity ; GO:0003867
+GO:0003867	interpro2go	InterPro:IPR004632 4-aminobutyrate aminotransferase, bacterial > GO:4-aminobutyrate transaminase activity ; GO:0003867
+GO:0003867	reactome2go	Reactome:R-HSA-916855 > GO:4-aminobutyrate transaminase activity ; GO:0003867
