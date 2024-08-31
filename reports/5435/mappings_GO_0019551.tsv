@@ -1,0 +1,7 @@
+term	file	line
+GO:0019551	interpro2go	InterPro:IPR007780 NAD-glutamate dehydrogenase, bacteria > GO:glutamate catabolic process to 2-oxoglutarate ; GO:0019551
+GO:0019551	interpro2go	InterPro:IPR016210 NAD-dependent glutamate dehydrogenase, eukaryotes > GO:glutamate catabolic process to 2-oxoglutarate ; GO:0019551
+GO:0019551	interpro2go	InterPro:IPR028971 NAD-glutamate dehydrogenase, catalytic domain > GO:glutamate catabolic process to 2-oxoglutarate ; GO:0019551
+GO:0019551	unirule2go	UniRule:UR000380776 > GO:glutamate catabolic process to 2-oxoglutarate ; GO:0019551
+GO:0019551	metacyc2go	MetaCyc:GLUTAMATE-DEG1-PWY > GO:glutamate catabolic process to 2-oxoglutarate ; GO:0019551
+GO:0019551	metacyc2go	MetaCyc:PWY-5766 > GO:glutamate catabolic process to 2-oxoglutarate ; GO:0019551
