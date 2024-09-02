@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P60720	lipB	PMID:9218413		GO:0016415	octanoyltransferase activity	IMP			PANTHER:PTHR10993	20141106		NCBITaxon:83333
+UniProt	UniProtKB:P54511	lipM	PMID:20882995		GO:0016415	octanoyltransferase activity	IDA			PANTHER:PTHR43679	20110511		NCBITaxon:224308
+UniProt	UniProtKB:P54511	lipM	PMID:21338420		GO:0016415	octanoyltransferase activity	IGI	UniProtKB:P60720		PANTHER:PTHR43679	20110512		NCBITaxon:224308
+UniProt	UniProtKB:P39648	lipL	PMID:21338421		GO:0016415	octanoyltransferase activity	IDA			PANTHER:PTHR43679	20110523		NCBITaxon:224308

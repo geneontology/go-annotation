@@ -1,0 +1,8 @@
+term	file	line
+GO:0016415	hamap2go	HAMAP:MF_02118 > GO:octanoyltransferase activity ; GO:0016415
+GO:0016415	hamap2go	HAMAP:MF_02119 > GO:octanoyltransferase activity ; GO:0016415
+GO:0016415	interpro2go	InterPro:IPR024897 Octanoyltransferase LipL > GO:octanoyltransferase activity ; GO:0016415
+GO:0016415	interpro2go	InterPro:IPR024898 Octanoyltransferase LipM > GO:octanoyltransferase activity ; GO:0016415
+GO:0016415	ec2go	EC:2.3.1.181 > GO:octanoyltransferase activity ; GO:0016415
+GO:0016415	unirule2go	UniRule:UR000112906 > GO:octanoyltransferase activity ; GO:0016415
+GO:0016415	unirule2go	UniRule:UR000159987 > GO:octanoyltransferase activity ; GO:0016415
