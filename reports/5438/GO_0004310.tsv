@@ -1,0 +1,11 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CGD	CGD:CAL0136937	ERG9	PMID:10952588|CGD_REF:CAL0082214		GO:0004310	farnesyl-diphosphate farnesyltransferase activity	IMP				20101110		NCBITaxon:284593
+PomBase	PomBase:SPBC646.05c	erg9	PMID:8474436		GO:0004310	farnesyl-diphosphate farnesyltransferase activity	IGI	UniProtKB:P29704		PANTHER:PTHR11626	20041102		NCBITaxon:4896
+RGD	RGD:61834	Fdft1	PMID:1400448|RGD:728402		GO:0004310	farnesyl-diphosphate farnesyltransferase activity	IDA			PANTHER:PTHR11626	20050217		NCBITaxon:10116
+RGD	RGD:61834	Fdft1	PMID:16440058|RGD:1626611		GO:0004310	farnesyl-diphosphate farnesyltransferase activity	IMP			PANTHER:PTHR11626	20070813		NCBITaxon:10116
+SGD	SGD:S000001233	ERG9	PMID:8157649		GO:0004310	farnesyl-diphosphate farnesyltransferase activity	IDA		UniProtKB:P29704	PANTHER:PTHR11626	20100824		NCBITaxon:559292
+SGD	SGD:S000001233	ERG9	PMID:8323279		GO:0004310	farnesyl-diphosphate farnesyltransferase activity	IDA		UniProtKB:P29704	PANTHER:PTHR11626	20100824		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT4G34650	SQS2	PMID:18236008|TAIR:Publication:501723852	not	GO:0004310	farnesyl-diphosphate farnesyltransferase activity	IGI		TAIR:locus:2139534		20080818		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G34640	SQS1	PMID:7892265|TAIR:Publication:4472		GO:0004310	farnesyl-diphosphate farnesyltransferase activity	IDA		TAIR:locus:2139514		20050113		NCBITaxon:3702
+TIGR	AGI_LocusCode:AT4G34640	SQS1	PMID:7892265|TAIR:Publication:4472		GO:0004310	farnesyl-diphosphate farnesyltransferase activity	IDA		TAIR:locus:2139514		20030417		NCBITaxon:3702
+TIGR	AGI_LocusCode:AT4G34650	SQS2	PMID:9363754|TAIR:Publication:2989		GO:0004310	farnesyl-diphosphate farnesyltransferase activity	IDA		TAIR:locus:2139534		20030417		NCBITaxon:3702

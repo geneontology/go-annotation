@@ -1,0 +1,7 @@
+term	file	line
+GO:0004310	interpro2go	InterPro:IPR006449 Squalene synthase-like > GO:farnesyl-diphosphate farnesyltransferase activity ; GO:0004310
+GO:0004310	ec2go	EC:2.5.1.21 > GO:farnesyl-diphosphate farnesyltransferase activity ; GO:0004310
+GO:0004310	unirule2go	UniRule:UR001553760 > GO:farnesyl-diphosphate farnesyltransferase activity ; GO:0004310
+GO:0004310	metacyc2go	MetaCyc:RXN-12263 > GO:farnesyl-diphosphate farnesyltransferase activity ; GO:0004310
+GO:0004310	reactome2go	Reactome:R-HSA-191402 > GO:farnesyl-diphosphate farnesyltransferase activity ; GO:0004310
+GO:0004310	reactome2go	Reactome:R-HSA-191405 > GO:farnesyl-diphosphate farnesyltransferase activity ; GO:0004310
