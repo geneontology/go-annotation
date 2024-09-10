@@ -1,0 +1,21 @@
+term	file	line
+GO:0102111	metacyc2go	MetaCyc:RXN-113 > GO:gibberellin A20,2-oxoglutarate:oxygen oxidoreductase activity ; GO:0102111
+GO:0102652	metacyc2go	MetaCyc:RXN-171 > GO:gibberellin A9,2-oxoglutarate:oxygen oxidoreductase activity ; GO:0102652
+GO:0102653	metacyc2go	MetaCyc:RXN-172 > GO:gibberellin A51,2-oxoglutarate:oxygen oxidoreductase activity ; GO:0102653
+GO:0102663	metacyc2go	MetaCyc:RXN-292 > GO:gibberellin A34,2-oxoglutarate:oxygen oxidoreductase activity ; GO:0102663
+GO:0102711	metacyc2go	MetaCyc:RXN-6541 > GO:gibberellin A25,oxoglutarate:oxygen oxidoreductase activity ; GO:0102711
+GO:0102712	metacyc2go	MetaCyc:RXN-6542 > GO:gibberellin A13,oxoglutarate:oxygen oxidoreductase activity ; GO:0102712
+GO:0102714	metacyc2go	MetaCyc:RXN-6544 > GO:gibberellin A12,oxoglutarate:oxygen oxidoreductase activity ; GO:0102714
+GO:0102715	metacyc2go	MetaCyc:RXN-6546 > GO:gibberellin A17,oxoglutarate:oxygen oxidoreductase activity ; GO:0102715
+GO:0102716	metacyc2go	MetaCyc:RXN-6547 > GO:gibberellin A28,oxoglutarate:oxygen oxidoreductase activity ; GO:0102716
+GO:0102738	metacyc2go	MetaCyc:RXN-7589 > GO:(gibberellin-14), 2-oxoglutarate:oxygen oxidoreductase activity ; GO:0102738
+GO:0102739	metacyc2go	MetaCyc:RXN-7591 > GO:(gibberellin-36), 2-oxoglutarate:oxygen oxidoreductase activity ; GO:0102739
+GO:0102755	metacyc2go	MetaCyc:RXN-7680 > GO:gibberellin-15(closed lactone form),2-oxoglutarate:oxygen oxidoreductase (3beta-hydroxylating) activity ; GO:0102755
+GO:0102924	metacyc2go	MetaCyc:RXN-886 > GO:gibberellin A44,2-oxoglutarate:oxygen oxidoreductase activity ; GO:0102924
+GO:0102972	metacyc2go	MetaCyc:RXN-947 > GO:gibberellin A12,2-oxoglutarate:oxygen oxidoreductase activity (gibberellin A110-forming) ; GO:0102972
+GO:0103010	metacyc2go	MetaCyc:RXN-991 > GO:gibberellin A53,2-oxoglutarate:oxygen oxidoreductase activity (GA97-forming) ; GO:0103010
+GO:0103054	rhea2go	RHEA:60776 > GO:gibberellin A12, 2-oxoglutarate:oxygen oxidoreductase activity (gibberellin A15-forming) ; GO:0103054
+GO:0103054	metacyc2go	MetaCyc:RXN1F-162 > GO:gibberellin A12, 2-oxoglutarate:oxygen oxidoreductase activity (gibberellin A15-forming) ; GO:0103054
+GO:0103056	rhea2go	RHEA:60800 > GO:gibberellin A53, 2-oxoglutarate:oxygen oxidoreductase activity ; GO:0103056
+GO:0103056	metacyc2go	MetaCyc:RXN1F-167 > GO:gibberellin A53, 2-oxoglutarate:oxygen oxidoreductase activity ; GO:0103056
+GO:0103057	metacyc2go	MetaCyc:RXN1F-169 > GO:gibberellin A19, 2-oxoglutarate:oxygen oxidoreductase activity ; GO:0103057

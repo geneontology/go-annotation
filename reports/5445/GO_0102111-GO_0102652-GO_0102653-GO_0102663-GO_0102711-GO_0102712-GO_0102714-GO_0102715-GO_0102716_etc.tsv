@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:Q5W726	GA2OX1	PMID:11244129		GO:0102111	gibberellin A20,2-oxoglutarate:oxygen oxidoreductase activity	IDA			PANTHER:PTHR47990	20180503		NCBITaxon:39947
+UniProt	UniProtKB:Q5W726	GA2OX1	PMID:11244129		GO:0102652	gibberellin A9,2-oxoglutarate:oxygen oxidoreductase activity	IDA			PANTHER:PTHR47990	20180503		NCBITaxon:39947
+UniProt	UniProtKB:Q5W726	GA2OX1	PMID:11244129		GO:0102924	gibberellin A44,2-oxoglutarate:oxygen oxidoreductase activity	IDA			PANTHER:PTHR47990	20180503		NCBITaxon:39947
