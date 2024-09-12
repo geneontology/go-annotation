@@ -1,0 +1,570 @@
+term	file	line
+GO:0000079	interpro2go	InterPro:IPR012104 PHO85 cyclin 1/2/9 > GO:regulation of cyclin-dependent protein serine/threonine kinase activity ; GO:0000079
+GO:0000079	interpro2go	InterPro:IPR012399 Cyclin Y > GO:regulation of cyclin-dependent protein serine/threonine kinase activity ; GO:0000079
+GO:0000079	interpro2go	InterPro:IPR013922 Cyclin PHO80-like > GO:regulation of cyclin-dependent protein serine/threonine kinase activity ; GO:0000079
+GO:0000079	interpro2go	InterPro:IPR014399 Cyclin CLN > GO:regulation of cyclin-dependent protein serine/threonine kinase activity ; GO:0000079
+GO:0000413	interpro2go	InterPro:IPR002130 Cyclophilin-type peptidyl-prolyl cis-trans isomerase domain > GO:protein peptidyl-prolyl isomerization ; GO:0000413
+GO:0000413	interpro2go	InterPro:IPR044609 Peptidyl-prolyl cis-trans isomerase FKBP2/11 > GO:protein peptidyl-prolyl isomerization ; GO:0000413
+GO:0001932	interpro2go	InterPro:IPR012198 cAMP-dependent protein kinase regulatory subunit > GO:regulation of protein phosphorylation ; GO:0001932
+GO:0001933	interpro2go	InterPro:IPR030604 Kelch-like protein 31, BTB/POZ domain > GO:negative regulation of protein phosphorylation ; GO:0001933
+GO:0001934	interpro2go	InterPro:IPR020415 Interleukin-34 > GO:positive regulation of protein phosphorylation ; GO:0001934
+GO:0006468	interpro2go	InterPro:IPR000239 GPCR kinase > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR000719 Protein kinase domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR000961 AGC-kinase, C-terminal > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR001245 Serine-threonine/tyrosine-protein kinase, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR001426 Tyrosine-protein kinase, receptor class V, conserved site > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR001824 Tyrosine-protein kinase, receptor class III, conserved site > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR002011 Tyrosine-protein kinase, receptor class II, conserved site > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR002291 Phosphorylase kinase, gamma catalytic subunit > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR003527 Mitogen-activated protein (MAP) kinase, conserved site > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR003547 Serine/threonine protein kinase, yersinia-type > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR003605 GS domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR004166 Alpha-type protein kinase, alpha-kinase domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR005189 Focal adhesion kinase, targeting (FAT) domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR006748 Aminoglycoside/hydroxyurea antibiotic resistance kinase > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR008266 Tyrosine-protein kinase, active site > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR008271 Serine/threonine-protein kinase, active site > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR008349 Mitogen-activated protein (MAP) kinase, ERK1/2 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR008350 Mitogen-activated protein (MAP) kinase, ERK3/4 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR008351 Mitogen-activated protein (MAP) kinase, JNK > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR008352 Mitogen-activated protein (MAP) kinase p38-like > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR009135 Vascular endothelial growth factor receptor 1 (VEGFR1) > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR009136 Vascular endothelial growth factor receptor 2 (VEGFR2) > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR010193 Serine-protein kinase RsbW > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR010194 Anti-sigma F factor > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR011648 Circadian clock oscillator protein KaiA > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR012234 Tyrosine-protein kinase, non-receptor SYK/ZAP-70 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR013543 Calcium/calmodulin-dependent protein kinase II, association-domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR014375 Protein kinase C, alpha/beta/gamma types > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR014376 Protein kinase C, delta/epsilon/eta/theta types > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR014930 Myotonic dystrophy protein kinase, coiled coil > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR015013 Transforming growth factor beta receptor 2 ectodomain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR015015 F-actin binding > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR015022 Microtubule-associated serine/threonine-protein kinase, pre-PK domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR015123 Bcr-Abl oncoprotein oligomerisation > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR015285 RIO2 kinase winged helix domain, N-terminal > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR015725 Myosin Light Chain Kinase 1, Kinase domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR015727 Protein kinase C mu-related > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR015771 Anti-muellerian hormone receptor, type II > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016234 Serine/threonine-protein kinase, Sbk1 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016235 Tyrosine/threonine-protein kinase, Cdc2 inhibitor > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016237 Serine/threonine-protein kinase, Ulk1/Ulk2 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016238 Ribosomal protein S6 kinase > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016239 Ribosomal protein S6 kinase II > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016241 Nitrogen network kinase 1 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016242 Serine/threonine-protein kinase Mps1 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016245 Tyrosine protein kinase, EGF/ERB/XmrK receptor > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016248 Fibroblast growth factor receptor family > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016251 Tyrosine-protein kinase, non-receptor Jak/Tyk2 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016254 Serine/threonine-protein kinase, asfivirus > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016255 eIF-2-alpha kinase Gcn2 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016257 Ephrin receptor type-A /type-B > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR017090 Serine/threonine-protein kinase, SIK1/2 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR017348 Serine/threonine-protein kinase pim-1/2/3 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR017400 Eukaryotic elongation factor 2 kinase > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR017406 Serine/threonine-protein kinase Rio3 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR017424 Mitogen-activated protein (MAP) kinase kinase kinase 8 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR017425 Mitogen-activated protein (MAP) kinase kinase kinase 14 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR017428 Interleukin-1 receptor-associated kinase 4 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR017892 Protein kinase, C-terminal > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR017944 KaiA/RbsU helical domain superfamily > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR018941 Tyrosine-protein kinase, receptor Tie-2, Ig-like domain 1, N-terminal > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR020446 NT-3 growth factor receptor NTRK3 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR020455 BDNF/NT-3 growth factors receptor NTRK2 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR020461 High affinity nerve growth factor receptor NTRK1 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR020635 Tyrosine-protein kinase, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR020693 Tyrosine-protein kinase, non-receptor Jak2 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR020775 Tyrosine-protein kinase, non-receptor Jak3 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR020776 Tyrosine-protein kinase, non-receptor Jak1 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR020777 Growth factor receptor NTRK > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR020856 Circadian clock oscillator protein KaiA, C-terminal > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR032882 SrkA/RdoA protein kinase > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034659 Atypical protein kinase C, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034661 Atypical protein kinase C iota type, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034663 Classical Protein Kinase C alpha, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034664 Classical protein kinase C beta, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034665 Novel protein kinase C eta, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034667 Novel protein kinase C delta, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034668 Novel protein kinase C theta, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034669 Novel protein kinase C epsilon, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034670 Checkpoint kinase 1, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034671 Hormonally up-regulated neu tumour-associated kinase, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034672 Salt-Inducible kinase, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034673 Maternal embryonic leucine zipper kinase, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034674 Serine/threonine-protein kinase Kin4/ppk1, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034675 Protein kinase B gamma, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034676 Protein kinase B alpha, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034677 Protein Kinase B beta, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR035056 MST4, kinase domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR035060 Serine/threonine kinase 25, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR035062 Kic1p-like serine/threonine kinase, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR035063 p21-activated kinase 3, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR035064 p21-activated kinase 2, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR036137 Focal adhesion kinase, targeting (FAT) domain superfamily > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR037313 Serine/threonine-protein kinase N, first HR1 domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR044092 Serine/threonine-protein PRP4, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR044093 Cyclin-dependent kinase 10, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR044131 Dual specificity tyrosine-phosphorylation-regulated kinase 1A/1B, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR045216 Casein Kinase 2, subunit alpha > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR045267 Cyclin-dependent kinase 11/PITSLRE, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR045272 Receptor-like protein kinase ANXUR1-like > GO:protein phosphorylation ; GO:0006468
+GO:0006468	unirule2go	UniRule:UR000100369 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	unirule2go	UniRule:UR000100579 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	hamap2go	HAMAP:MF_00921 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	hamap2go	HAMAP:MF_01062 > GO:protein phosphorylation ; GO:0006468
+GO:0006469	interpro2go	InterPro:IPR004171 cAMP-dependent protein kinase inhibitor > GO:negative regulation of protein kinase activity ; GO:0006469
+GO:0006470	interpro2go	InterPro:IPR000242 Tyrosine-specific protein phosphatase, PTPase domain > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	interpro2go	InterPro:IPR000751 M-phase inducer phosphatase > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	interpro2go	InterPro:IPR002115 Protein-tyrosine phosphatase, low molecular weight, mammalian > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	interpro2go	InterPro:IPR003546 Type III secreted modular tyrosine phosphatase, SptP/YopH > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	interpro2go	InterPro:IPR008343 Mitogen-activated protein (MAP) kinase phosphatase > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	interpro2go	InterPro:IPR008356 Protein-tyrosine phosphatase, KIM-containing > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	interpro2go	InterPro:IPR012151 Protein-tyrosine phosphatase, non-receptor type-3, -4 > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	interpro2go	InterPro:IPR012152 Protein-tyrosine phosphatase, non-receptor type-6, -11 > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	interpro2go	InterPro:IPR012153 Tyrosine-protein phosphatase non-receptor type 13 > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	interpro2go	InterPro:IPR012265 Protein-tyrosine phosphatase, non-receptor type-1/2 > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	interpro2go	InterPro:IPR012266 Tyrosine-protein phosphatase non-receptor type 12 > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	interpro2go	InterPro:IPR014392 Protein-tyrosine phosphatase, non-receptor type-14/21 > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	interpro2go	InterPro:IPR015103 Protein-tyrosine phosphatase, YopH, N-terminal > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	interpro2go	InterPro:IPR015655 Protein phosphatase 2C > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	interpro2go	InterPro:IPR016277 Tyrosine-protein phosphatase 1 > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	interpro2go	InterPro:IPR016278 Dual specificity protein phosphatase 12 > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	interpro2go	InterPro:IPR016334 Protein-tyrosine phosphatase, receptor type R/non-receptor type 5 > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	interpro2go	InterPro:IPR016336 Receptor tyrosine-protein phosphatase, alpha/epsilon-type > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	interpro2go	InterPro:IPR017867 Protein-tyrosine phosphatase, low molecular weight > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	interpro2go	InterPro:IPR020405 Atypical dual specificity phosphatase, subfamily A > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	interpro2go	InterPro:IPR020422 Dual specificity protein phosphatase domain > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	interpro2go	InterPro:IPR027262 Receptor tyrosine-protein phosphatase alpha > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	unirule2go	UniRule:UR000100369 > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	unirule2go	UniRule:UR000100579 > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	hamap2go	HAMAP:MF_00921 > GO:protein dephosphorylation ; GO:0006470
+GO:0006470	hamap2go	HAMAP:MF_01062 > GO:protein dephosphorylation ; GO:0006470
+GO:0006474	interpro2go	InterPro:IPR006464 N-acetyltransferase RimI/Ard1 > GO:N-terminal protein amino acid acetylation ; GO:0006474
+GO:0006474	interpro2go	InterPro:IPR043690 N-acetyltransferase RimI > GO:N-terminal protein amino acid acetylation ; GO:0006474
+GO:0006474	interpro2go	InterPro:IPR045047 N-acetyltransferase Ard1-like > GO:N-terminal protein amino acid acetylation ; GO:0006474
+GO:0006476	unirule2go	UniRule:UR000090056 > GO:protein deacetylation ; GO:0006476
+GO:0006476	unirule2go	UniRule:UR000090059 > GO:protein deacetylation ; GO:0006476
+GO:0006476	unirule2go	UniRule:UR000334654 > GO:protein deacetylation ; GO:0006476
+GO:0006476	unirule2go	UniRule:UR000375859 > GO:protein deacetylation ; GO:0006476
+GO:0006476	unirule2go	UniRule:UR000376616 > GO:protein deacetylation ; GO:0006476
+GO:0006476	hamap2go	HAMAP:MF_01121 > GO:protein deacetylation ; GO:0006476
+GO:0006476	hamap2go	HAMAP:MF_01967 > GO:protein deacetylation ; GO:0006476
+GO:0006476	hamap2go	HAMAP:MF_01968 > GO:protein deacetylation ; GO:0006476
+GO:0006476	hamap2go	HAMAP:MF_03160 > GO:protein deacetylation ; GO:0006476
+GO:0006476	hamap2go	HAMAP:MF_03161 > GO:protein deacetylation ; GO:0006476
+GO:0006478	interpro2go	InterPro:IPR026634 Protein-tyrosine sulfotransferase-like > GO:peptidyl-tyrosine sulfation ; GO:0006478
+GO:0006478	resid2go	RESID:AA0172 > GO:peptidyl-tyrosine sulfation ; GO:0006478
+GO:0006479	interpro2go	InterPro:IPR004498 Ribosomal protein L11 methyltransferase > GO:protein methylation ; GO:0006479
+GO:0006479	interpro2go	InterPro:IPR004556 Methyltransferase HemK-like > GO:protein methylation ; GO:0006479
+GO:0006479	interpro2go	InterPro:IPR007857 Protein arginine N-methyltransferase PRMT5 > GO:protein methylation ; GO:0006479
+GO:0006479	interpro2go	InterPro:IPR014644 Protein arginine N-methyltransferase PRMT7 > GO:protein methylation ; GO:0006479
+GO:0006479	interpro2go	InterPro:IPR017127 Ribosomal protein uL3 glutamine methyltransferase > GO:protein methylation ; GO:0006479
+GO:0006479	interpro2go	InterPro:IPR038899 Methyltransferase-like protein 22 > GO:protein methylation ; GO:0006479
+GO:0006480	interpro2go	InterPro:IPR008576 Alpha-N-methyltransferase NTM1 > GO:N-terminal protein amino acid methylation ; GO:0006480
+GO:0006481	interpro2go	InterPro:IPR007269 Isoprenylcysteine carboxyl methyltransferase > GO:C-terminal protein methylation ; GO:0006481
+GO:0006481	interpro2go	InterPro:IPR025770 Protein-S-isoprenylcysteine O-methyltransferase > GO:C-terminal protein methylation ; GO:0006481
+GO:0006482	interpro2go	InterPro:IPR016812 Protein phosphatase methylesterase, eukaryotic > GO:protein demethylation ; GO:0006482
+GO:0006482	unirule2go	UniRule:UR000076362 > GO:protein demethylation ; GO:0006482
+GO:0006482	hamap2go	HAMAP:MF_00099 > GO:protein demethylation ; GO:0006482
+GO:0006497	resid2go	RESID:AA0059 > GO:protein lipidation ; GO:0006497
+GO:0006497	resid2go	RESID:AA0060 > GO:protein lipidation ; GO:0006497
+GO:0006497	resid2go	RESID:AA0077 > GO:protein lipidation ; GO:0006497
+GO:0006497	resid2go	RESID:AA0078 > GO:protein lipidation ; GO:0006497
+GO:0006497	resid2go	RESID:AA0079 > GO:protein lipidation ; GO:0006497
+GO:0006497	resid2go	RESID:AA0080 > GO:protein lipidation ; GO:0006497
+GO:0006497	resid2go	RESID:AA0102 > GO:protein lipidation ; GO:0006497
+GO:0006497	resid2go	RESID:AA0103 > GO:protein lipidation ; GO:0006497
+GO:0006497	resid2go	RESID:AA0104 > GO:protein lipidation ; GO:0006497
+GO:0006497	resid2go	RESID:AA0106 > GO:protein lipidation ; GO:0006497
+GO:0006497	resid2go	RESID:AA0107 > GO:protein lipidation ; GO:0006497
+GO:0006497	resid2go	RESID:AA0158 > GO:protein lipidation ; GO:0006497
+GO:0006497	resid2go	RESID:AA0159 > GO:protein lipidation ; GO:0006497
+GO:0006497	resid2go	RESID:AA0160 > GO:protein lipidation ; GO:0006497
+GO:0006497	resid2go	RESID:AA0161 > GO:protein lipidation ; GO:0006497
+GO:0006497	resid2go	RESID:AA0162 > GO:protein lipidation ; GO:0006497
+GO:0006497	resid2go	RESID:AA0163 > GO:protein lipidation ; GO:0006497
+GO:0006497	resid2go	RESID:AA0166 > GO:protein lipidation ; GO:0006497
+GO:0006497	resid2go	RESID:AA0223 > GO:protein lipidation ; GO:0006497
+GO:0006497	resid2go	RESID:AA0290 > GO:protein lipidation ; GO:0006497
+GO:0006497	resid2go	RESID:AA0307 > GO:protein lipidation ; GO:0006497
+GO:0006497	resid2go	RESID:AA0308 > GO:protein lipidation ; GO:0006497
+GO:0006497	resid2go	RESID:AA0309 > GO:protein lipidation ; GO:0006497
+GO:0006497	resid2go	RESID:AA0316 > GO:protein lipidation ; GO:0006497
+GO:0006499	interpro2go	InterPro:IPR000903 Glycylpeptide N-tetradecanoyltransferase > GO:N-terminal protein myristoylation ; GO:0006499
+GO:0006919	interpro2go	InterPro:IPR009062 Smac/DIABLO-like superfamily > GO:activation of cysteine-type endopeptidase activity involved in apoptotic process ; GO:0006919
+GO:0006919	interpro2go	InterPro:IPR015142 Smac/DIABLO protein > GO:activation of cysteine-type endopeptidase activity involved in apoptotic process ; GO:0006919
+GO:0006919	interpro2go	InterPro:IPR024140 Phorbol-12-myristate-13-acetate-induced protein 1 > GO:activation of cysteine-type endopeptidase activity involved in apoptotic process ; GO:0006919
+GO:0007175	interpro2go	InterPro:IPR037342 SOCS4, SOCS box domain > GO:negative regulation of epidermal growth factor-activated receptor activity ; GO:0007175
+GO:0007176	interpro2go	InterPro:IPR011170 Growth factor, vaccinia C11R type > GO:regulation of epidermal growth factor-activated receptor activity ; GO:0007176
+GO:0007194	interpro2go	InterPro:IPR003906 Galanin receptor 1 > GO:negative regulation of adenylate cyclase activity ; GO:0007194
+GO:0007194	interpro2go	InterPro:IPR003907 Galanin receptor 2 > GO:negative regulation of adenylate cyclase activity ; GO:0007194
+GO:0007194	interpro2go	InterPro:IPR003908 Galanin receptor 3 > GO:negative regulation of adenylate cyclase activity ; GO:0007194
+GO:0007194	interpro2go	InterPro:IPR008109 P2Y13 purinoceptor > GO:negative regulation of adenylate cyclase activity ; GO:0007194
+GO:0007194	interpro2go	InterPro:IPR026919 Adhesion G-protein coupled receptor V1 > GO:negative regulation of adenylate cyclase activity ; GO:0007194
+GO:0007250	interpro2go	InterPro:IPR037305 TNF receptor-associated factor 2, MATH domain > GO:activation of NF-kappaB-inducing kinase activity ; GO:0007250
+GO:0007250	interpro2go	InterPro:IPR037307 TNF receptor-associated factor 4, MATH domain > GO:activation of NF-kappaB-inducing kinase activity ; GO:0007250
+GO:0007252	unirule2go	UniRule:UR000734760 > GO:I-kappaB phosphorylation ; GO:0007252
+GO:0008612	interpro2go	InterPro:IPR002773 Deoxyhypusine synthase > GO:peptidyl-lysine modification to peptidyl-hypusine ; GO:0008612
+GO:0008612	interpro2go	InterPro:IPR027517 Deoxyhypusine hydroxylase > GO:peptidyl-lysine modification to peptidyl-hypusine ; GO:0008612
+GO:0008612	interpro2go	InterPro:IPR036982 Deoxyhypusine synthase superfamily > GO:peptidyl-lysine modification to peptidyl-hypusine ; GO:0008612
+GO:0008612	unirule2go	UniRule:UR000106249 > GO:peptidyl-lysine modification to peptidyl-hypusine ; GO:0008612
+GO:0008612	uniprotkb_kw2go	UniProtKB-KW:KW-0386 Hypusine biosynthesis > GO:peptidyl-lysine modification to peptidyl-hypusine ; GO:0008612
+GO:0008612	resid2go	RESID:AA0116 > GO:peptidyl-lysine modification to peptidyl-hypusine ; GO:0008612
+GO:0008612	hamap2go	HAMAP:MF_03101 > GO:peptidyl-lysine modification to peptidyl-hypusine ; GO:0008612
+GO:0009249	interpro2go	InterPro:IPR000544 Octanoyltransferase > GO:protein lipoylation ; GO:0009249
+GO:0009249	interpro2go	InterPro:IPR004562 Lipoyltransferase/lipoate-protein ligase > GO:protein lipoylation ; GO:0009249
+GO:0009249	interpro2go	InterPro:IPR020605 Octanoyltransferase, conserved site > GO:protein lipoylation ; GO:0009249
+GO:0009249	interpro2go	InterPro:IPR023741 Lipoate-protein ligase A > GO:protein lipoylation ; GO:0009249
+GO:0009249	interpro2go	InterPro:IPR024897 Octanoyltransferase LipL > GO:protein lipoylation ; GO:0009249
+GO:0009249	interpro2go	InterPro:IPR024898 Octanoyltransferase LipM > GO:protein lipoylation ; GO:0009249
+GO:0009249	unirule2go	UniRule:UR000079207 > GO:protein lipoylation ; GO:0009249
+GO:0009249	unirule2go	UniRule:UR000080080 > GO:protein lipoylation ; GO:0009249
+GO:0009249	unirule2go	UniRule:UR000083076 > GO:protein lipoylation ; GO:0009249
+GO:0009249	unirule2go	UniRule:UR000112906 > GO:protein lipoylation ; GO:0009249
+GO:0009249	unirule2go	UniRule:UR000159987 > GO:protein lipoylation ; GO:0009249
+GO:0009249	unirule2go	UniRule:UR000375959 > GO:protein lipoylation ; GO:0009249
+GO:0009249	unirule2go	UniRule:UR000376419 > GO:protein lipoylation ; GO:0009249
+GO:0009249	unirule2go	UniRule:UR000376665 > GO:protein lipoylation ; GO:0009249
+GO:0009249	hamap2go	HAMAP:MF_00206 > GO:protein lipoylation ; GO:0009249
+GO:0009249	hamap2go	HAMAP:MF_00272 > GO:protein lipoylation ; GO:0009249
+GO:0009249	hamap2go	HAMAP:MF_01602 > GO:protein lipoylation ; GO:0009249
+GO:0009249	hamap2go	HAMAP:MF_02118 > GO:protein lipoylation ; GO:0009249
+GO:0009249	hamap2go	HAMAP:MF_02119 > GO:protein lipoylation ; GO:0009249
+GO:0009249	hamap2go	HAMAP:MF_03123 > GO:protein lipoylation ; GO:0009249
+GO:0009249	hamap2go	HAMAP:MF_03128 > GO:protein lipoylation ; GO:0009249
+GO:0009249	hamap2go	HAMAP:MF_03129 > GO:protein lipoylation ; GO:0009249
+GO:0010466	interpro2go	InterPro:IPR008296 Tissue factor pathway inhibitor-like > GO:negative regulation of peptidase activity ; GO:0010466
+GO:0010466	interpro2go	InterPro:IPR021066 Fungal protease inhibitor-1 > GO:negative regulation of peptidase activity ; GO:0010466
+GO:0010466	uniprotkb_kw2go	UniProtKB-KW:KW-0082 Bait region > GO:negative regulation of peptidase activity ; GO:0010466
+GO:0010466	uniprotkb_kw2go	UniProtKB-KW:KW-0646 Protease inhibitor > GO:negative regulation of peptidase activity ; GO:0010466
+GO:0010801	unirule2go	UniRule:UR000613387 > GO:negative regulation of peptidyl-threonine phosphorylation ; GO:0010801
+GO:0010801	hamap2go	HAMAP:MF_04079 > GO:negative regulation of peptidyl-threonine phosphorylation ; GO:0010801
+GO:0010921	interpro2go	InterPro:IPR033242 Protein phosphatase 1 regulatory subunit 17 > GO:regulation of phosphatase activity ; GO:0010921
+GO:0010923	interpro2go	InterPro:IPR026130 Protein phosphatase 1 regulatory subunit 26 > GO:negative regulation of phosphatase activity ; GO:0010923
+GO:0010923	interpro2go	InterPro:IPR026142 Protein phosphatase 1 regulatory subunit 36 > GO:negative regulation of phosphatase activity ; GO:0010923
+GO:0010923	interpro2go	InterPro:IPR033542 Transmembrane protein 225 > GO:negative regulation of phosphatase activity ; GO:0010923
+GO:0010923	interpro2go	InterPro:IPR033590 Protein phosphatase 1 regulatory subunit 35 > GO:negative regulation of phosphatase activity ; GO:0010923
+GO:0010951	interpro2go	InterPro:IPR010832 ProSAAS > GO:negative regulation of endopeptidase activity ; GO:0010951
+GO:0010951	interpro2go	InterPro:IPR019507 Protease A inhibitor IA3 > GO:negative regulation of endopeptidase activity ; GO:0010951
+GO:0010951	interpro2go	InterPro:IPR019509 Carboxypeptidase inhibitor I68 > GO:negative regulation of endopeptidase activity ; GO:0010951
+GO:0010951	interpro2go	InterPro:IPR022815 Protease inhibitor > GO:negative regulation of endopeptidase activity ; GO:0010951
+GO:0010952	uniprotkb_kw2go	UniProtKB-KW:KW-0655 Prothrombin activator > GO:positive regulation of peptidase activity ; GO:0010952
+GO:0010998	interpro2go	InterPro:IPR016255 eIF-2-alpha kinase Gcn2 > GO:regulation of translational initiation by eIF2 alpha phosphorylation ; GO:0010998
+GO:0016310	wikipedia2go	Wikipedia:Phosphorylation > GO:phosphorylation ; GO:0016310
+GO:0016310	interpro2go	InterPro:IPR000121 PEP-utilising enzyme, C-terminal > GO:phosphorylation ; GO:0016310
+GO:0016310	interpro2go	InterPro:IPR000890 Aliphatic acid kinase, short-chain > GO:phosphorylation ; GO:0016310
+GO:0016310	interpro2go	InterPro:IPR002192 Pyruvate phosphate dikinase, AMP/ATP-binding > GO:phosphorylation ; GO:0016310
+GO:0016310	interpro2go	InterPro:IPR002736 Triphosphoribosyl-dephospho-CoA protein > GO:phosphorylation ; GO:0016310
+GO:0016310	interpro2go	InterPro:IPR004358 Signal transduction histidine kinase-related protein, C-terminal > GO:phosphorylation ; GO:0016310
+GO:0016310	interpro2go	InterPro:IPR005218 Diacylglycerol/lipid kinase > GO:phosphorylation ; GO:0016310
+GO:0016310	interpro2go	InterPro:IPR008279 PEP-utilising enzyme, mobile domain > GO:phosphorylation ; GO:0016310
+GO:0016310	interpro2go	InterPro:IPR011245 Butyrate kinase > GO:phosphorylation ; GO:0016310
+GO:0016310	interpro2go	InterPro:IPR014093 Thiamine kinase > GO:phosphorylation ; GO:0016310
+GO:0016310	interpro2go	InterPro:IPR017551 Triphosphoribosyl-dephospho-CoA synthase CitG > GO:phosphorylation ; GO:0016310
+GO:0016310	interpro2go	InterPro:IPR017555 Triphosphoribosyl-dephospho-CoA synthase > GO:phosphorylation ; GO:0016310
+GO:0016310	interpro2go	InterPro:IPR018274 PEP-utilising enzyme, active site > GO:phosphorylation ; GO:0016310
+GO:0016310	interpro2go	InterPro:IPR022841 5-dehydro-2-deoxygluconokinase, Firmicutes > GO:phosphorylation ; GO:0016310
+GO:0016310	interpro2go	InterPro:IPR023865 Aliphatic acid kinase, short-chain, conserved site > GO:phosphorylation ; GO:0016310
+GO:0016310	interpro2go	InterPro:IPR030220 Activated CDC42 kinase 1, UBA domain > GO:phosphorylation ; GO:0016310
+GO:0016310	interpro2go	InterPro:IPR031559 Serine/threonine-protein kinase SMG1 > GO:phosphorylation ; GO:0016310
+GO:0016310	interpro2go	InterPro:IPR036637 Phosphohistidine domain superfamily > GO:phosphorylation ; GO:0016310
+GO:0016310	unirule2go	UniRule:UR000010916 > GO:phosphorylation ; GO:0016310
+GO:0016310	unirule2go	UniRule:UR000036500 > GO:phosphorylation ; GO:0016310
+GO:0016310	unirule2go	UniRule:UR000037499 > GO:phosphorylation ; GO:0016310
+GO:0016310	unirule2go	UniRule:UR000086061 > GO:phosphorylation ; GO:0016310
+GO:0016310	unirule2go	UniRule:UR000162883 > GO:phosphorylation ; GO:0016310
+GO:0016310	unirule2go	UniRule:UR000166134 > GO:phosphorylation ; GO:0016310
+GO:0016310	unirule2go	UniRule:UR000618752 > GO:phosphorylation ; GO:0016310
+GO:0016310	unirule2go	UniRule:UR001683764 > GO:phosphorylation ; GO:0016310
+GO:0016310	uniprotkb_kw2go	UniProtKB-KW:KW-0418 Kinase > GO:phosphorylation ; GO:0016310
+GO:0016310	hamap2go	HAMAP:MF_00020 > GO:phosphorylation ; GO:0016310
+GO:0016310	hamap2go	HAMAP:MF_00542 > GO:phosphorylation ; GO:0016310
+GO:0016310	hamap2go	HAMAP:MF_01604 > GO:phosphorylation ; GO:0016310
+GO:0016310	hamap2go	HAMAP:MF_01881 > GO:phosphorylation ; GO:0016310
+GO:0016310	hamap2go	HAMAP:MF_01882 > GO:phosphorylation ; GO:0016310
+GO:0016310	hamap2go	HAMAP:MF_03131 > GO:phosphorylation ; GO:0016310
+GO:0016311	wikipedia2go	Wikipedia:Dephosphorylation > GO:dephosphorylation ; GO:0016311
+GO:0016311	interpro2go	InterPro:IPR000340 Dual specificity phosphatase, catalytic domain > GO:dephosphorylation ; GO:0016311
+GO:0016311	interpro2go	InterPro:IPR000387 Tyrosine-specific protein phosphatases domain > GO:dephosphorylation ; GO:0016311
+GO:0016311	interpro2go	InterPro:IPR003824 Undecaprenyl-diphosphatase UppP > GO:dephosphorylation ; GO:0016311
+GO:0016311	interpro2go	InterPro:IPR006355 HAD hydrolase, LHPP/HDHD2 > GO:dephosphorylation ; GO:0016311
+GO:0016311	interpro2go	InterPro:IPR006382 Phosphoglycolate phosphatase > GO:dephosphorylation ; GO:0016311
+GO:0016311	interpro2go	InterPro:IPR016130 Protein-tyrosine phosphatase, active site > GO:dephosphorylation ; GO:0016311
+GO:0016311	interpro2go	InterPro:IPR044266 Phosphoserine phosphatase YsaA > GO:dephosphorylation ; GO:0016311
+GO:0016598	interpro2go	InterPro:IPR007471 N-end aminoacyl transferase, N-terminal > GO:protein arginylation ; GO:0016598
+GO:0016598	interpro2go	InterPro:IPR007472 N-end rule aminoacyl transferase, C-terminal > GO:protein arginylation ; GO:0016598
+GO:0016598	interpro2go	InterPro:IPR017137 Arginine-tRNA-protein transferase 1, eukaryotic > GO:protein arginylation ; GO:0016598
+GO:0016598	interpro2go	InterPro:IPR038794 Protein LIAT1 > GO:protein arginylation ; GO:0016598
+GO:0017003	interpro2go	InterPro:IPR004329 CcmE/CycJ protein > GO:protein-heme linkage ; GO:0017003
+GO:0017003	interpro2go	InterPro:IPR036127 CcmE-like superfamily > GO:protein-heme linkage ; GO:0017003
+GO:0017003	unirule2go	UniRule:UR000089058 > GO:protein-heme linkage ; GO:0017003
+GO:0017003	hamap2go	HAMAP:MF_01959 > GO:protein-heme linkage ; GO:0017003
+GO:0017006	interpro2go	InterPro:IPR012129 Phytochrome A/B/C/D/E > GO:protein-tetrapyrrole linkage ; GO:0017006
+GO:0017006	unirule2go	UniRule:UR000078260 > GO:protein-tetrapyrrole linkage ; GO:0017006
+GO:0017006	unirule2go	UniRule:UR000078263 > GO:protein-tetrapyrrole linkage ; GO:0017006
+GO:0017006	hamap2go	HAMAP:MF_01459 > GO:protein-tetrapyrrole linkage ; GO:0017006
+GO:0017006	hamap2go	HAMAP:MF_01460 > GO:protein-tetrapyrrole linkage ; GO:0017006
+GO:0017008	resid2go	RESID:AA0258 > GO:protein-phycobiliviolin linkage ; GO:0017008
+GO:0017009	interpro2go	InterPro:IPR010404 Chromophore lyase CpcT/CpeT > GO:protein-phycocyanobilin linkage ; GO:0017009
+GO:0017009	interpro2go	InterPro:IPR018536 Chromophore lyase CpcS/CpeS > GO:protein-phycocyanobilin linkage ; GO:0017009
+GO:0017009	resid2go	RESID:AA0131 > GO:protein-phycocyanobilin linkage ; GO:0017009
+GO:0017010	resid2go	RESID:AA0260 > GO:protein-phycourobilin linkage ; GO:0017010
+GO:0017011	resid2go	RESID:AA0132 > GO:protein-phycoerythrobilin linkage ; GO:0017011
+GO:0017012	resid2go	RESID:AA0133 > GO:protein-phytochromobilin linkage ; GO:0017012
+GO:0017013	interpro2go	InterPro:IPR024932 Flavin transferase ApbE > GO:protein flavinylation ; GO:0017013
+GO:0017187	interpro2go	InterPro:IPR007782 Vitamin K-dependent gamma-carboxylase > GO:peptidyl-glutamic acid carboxylation ; GO:0017187
+GO:0017187	resid2go	RESID:AA0032 > GO:peptidyl-glutamic acid carboxylation ; GO:0017187
+GO:0017190	resid2go	RESID:AA0042 > GO:N-terminal peptidyl-aspartic acid acetylation ; GO:0017190
+GO:0017192	resid2go	RESID:AA0045 > GO:N-terminal peptidyl-glutamine acetylation ; GO:0017192
+GO:0017196	interpro2go	InterPro:IPR007244 -alpha-acetyltransferase 35, NatC auxiliary subunit > GO:N-terminal peptidyl-methionine acetylation ; GO:0017196
+GO:0017196	interpro2go	InterPro:IPR044542 N-alpha-acetyltransferase 30-like > GO:N-terminal peptidyl-methionine acetylation ; GO:0017196
+GO:0017196	resid2go	RESID:AA0049 > GO:N-terminal peptidyl-methionine acetylation ; GO:0017196
+GO:0018002	resid2go	RESID:AA0044 > GO:N-terminal peptidyl-glutamic acid acetylation ; GO:0018002
+GO:0018003	resid2go	RESID:AA0055 > GO:peptidyl-lysine N6-acetylation ; GO:0018003
+GO:0018008	resid2go	RESID:AA0059 > GO:N-terminal peptidyl-glycine N-myristoylation ; GO:0018008
+GO:0018009	resid2go	RESID:AA0060 > GO:N-terminal peptidyl-L-cysteine N-palmitoylation ; GO:0018009
+GO:0018011	resid2go	RESID:AA0061 > GO:N-terminal peptidyl-alanine methylation ; GO:0018011
+GO:0018011	resid2go	RESID:AA0062 > GO:N-terminal peptidyl-alanine methylation ; GO:0018011
+GO:0018012	resid2go	RESID:AA0062 > GO:N-terminal peptidyl-alanine trimethylation ; GO:0018012
+GO:0018013	unirule2go	UniRule:UR000523752 > GO:N-terminal peptidyl-glycine methylation ; GO:0018013
+GO:0018013	resid2go	RESID:AA0063 > GO:N-terminal peptidyl-glycine methylation ; GO:0018013
+GO:0018013	hamap2go	HAMAP:MF_03223 > GO:N-terminal peptidyl-glycine methylation ; GO:0018013
+GO:0018016	resid2go	RESID:AA0066 > GO:N-terminal peptidyl-proline dimethylation ; GO:0018016
+GO:0018021	unirule2go	UniRule:UR000400697 > GO:peptidyl-histidine methylation ; GO:0018021
+GO:0018021	resid2go	RESID:AA0073 > GO:peptidyl-histidine methylation ; GO:0018021
+GO:0018021	resid2go	RESID:AA0317 > GO:peptidyl-histidine methylation ; GO:0018021
+GO:0018022	interpro2go	InterPro:IPR025815 Cytochrome c lysine N-methyltransferase 1 > GO:peptidyl-lysine methylation ; GO:0018022
+GO:0018022	interpro2go	InterPro:IPR044430 SETD6, SET domain > GO:peptidyl-lysine methylation ; GO:0018022
+GO:0018022	interpro2go	InterPro:IPR044431 RBCMT, SET domain > GO:peptidyl-lysine methylation ; GO:0018022
+GO:0018022	interpro2go	InterPro:IPR044432 Set10/Efm1, SET domain > GO:peptidyl-lysine methylation ; GO:0018022
+GO:0018022	unirule2go	UniRule:UR000165985 > GO:peptidyl-lysine methylation ; GO:0018022
+GO:0018022	unirule2go	UniRule:UR000166233 > GO:peptidyl-lysine methylation ; GO:0018022
+GO:0018022	unirule2go	UniRule:UR000209829 > GO:peptidyl-lysine methylation ; GO:0018022
+GO:0018022	hamap2go	HAMAP:MF_03187 > GO:peptidyl-lysine methylation ; GO:0018022
+GO:0018022	hamap2go	HAMAP:MF_03188 > GO:peptidyl-lysine methylation ; GO:0018022
+GO:0018022	hamap2go	HAMAP:MF_03198 > GO:peptidyl-lysine methylation ; GO:0018022
+GO:0018023	interpro2go	InterPro:IPR044429 SETD4, SET domain > GO:peptidyl-lysine trimethylation ; GO:0018023
+GO:0018023	resid2go	RESID:AA0074 > GO:peptidyl-lysine trimethylation ; GO:0018023
+GO:0018026	interpro2go	InterPro:IPR011383 N-lysine methyltransferase SETD6 > GO:peptidyl-lysine monomethylation ; GO:0018026
+GO:0018026	interpro2go	InterPro:IPR017119 SET domain containing methyltransferase Efm1/Rkm1 > GO:peptidyl-lysine monomethylation ; GO:0018026
+GO:0018026	unirule2go	UniRule:UR000859776 > GO:peptidyl-lysine monomethylation ; GO:0018026
+GO:0018026	unirule2go	UniRule:UR001429763 > GO:peptidyl-lysine monomethylation ; GO:0018026
+GO:0018026	resid2go	RESID:AA0076 > GO:peptidyl-lysine monomethylation ; GO:0018026
+GO:0018027	interpro2go	InterPro:IPR017119 SET domain containing methyltransferase Efm1/Rkm1 > GO:peptidyl-lysine dimethylation ; GO:0018027
+GO:0018027	unirule2go	UniRule:UR000523752 > GO:peptidyl-lysine dimethylation ; GO:0018027
+GO:0018027	resid2go	RESID:AA0075 > GO:peptidyl-lysine dimethylation ; GO:0018027
+GO:0018027	hamap2go	HAMAP:MF_03223 > GO:peptidyl-lysine dimethylation ; GO:0018027
+GO:0018057	unirule2go	UniRule:UR001350759 > GO:peptidyl-lysine oxidation ; GO:0018057
+GO:0018057	resid2go	RESID:AA0121 > GO:peptidyl-lysine oxidation ; GO:0018057
+GO:0018058	resid2go	RESID:AA0127 > GO:N-terminal protein amino acid deamination, from amino carbon ; GO:0018058
+GO:0018058	resid2go	RESID:AA0128 > GO:N-terminal protein amino acid deamination, from amino carbon ; GO:0018058
+GO:0018058	resid2go	RESID:AA0129 > GO:N-terminal protein amino acid deamination, from amino carbon ; GO:0018058
+GO:0018063	unirule2go	UniRule:UR000076215 > GO:cytochrome c-heme linkage ; GO:0018063
+GO:0018063	resid2go	RESID:AA0134 > GO:cytochrome c-heme linkage ; GO:0018063
+GO:0018063	resid2go	RESID:AA0135 > GO:cytochrome c-heme linkage ; GO:0018063
+GO:0018063	hamap2go	HAMAP:MF_01378 > GO:cytochrome c-heme linkage ; GO:0018063
+GO:0018070	resid2go	RESID:AA0150 > GO:peptidyl-serine phosphopantetheinylation ; GO:0018070
+GO:0018094	resid2go	RESID:AA0201 > GO:protein polyglycylation ; GO:0018094
+GO:0018095	interpro2go	InterPro:IPR039231 Tubulin polyglutamylase complex subunit 2 > GO:protein polyglutamylation ; GO:0018095
+GO:0018095	interpro2go	InterPro:IPR039235 Tubulin polyglutamylase complex subunit 1 > GO:protein polyglutamylation ; GO:0018095
+GO:0018095	resid2go	RESID:AA0202 > GO:protein polyglutamylation ; GO:0018095
+GO:0018105	resid2go	RESID:AA0037 > GO:peptidyl-serine phosphorylation ; GO:0018105
+GO:0018106	interpro2go	InterPro:IPR015014 PhoQ Sensor domain > GO:peptidyl-histidine phosphorylation ; GO:0018106
+GO:0018106	interpro2go	InterPro:IPR017203 Signal transduction histidine kinase, NreB > GO:peptidyl-histidine phosphorylation ; GO:0018106
+GO:0018106	interpro2go	InterPro:IPR019017 Signal transduction histidine kinase RcsC, alpha-beta loop, C-terminal > GO:peptidyl-histidine phosphorylation ; GO:0018106
+GO:0018106	resid2go	RESID:AA0035 > GO:peptidyl-histidine phosphorylation ; GO:0018106
+GO:0018106	resid2go	RESID:AA0036 > GO:peptidyl-histidine phosphorylation ; GO:0018106
+GO:0018107	resid2go	RESID:AA0038 > GO:peptidyl-threonine phosphorylation ; GO:0018107
+GO:0018108	interpro2go	InterPro:IPR016250 Tyrosine-protein kinase, Fes/Fps type > GO:peptidyl-tyrosine phosphorylation ; GO:0018108
+GO:0018108	resid2go	RESID:AA0039 > GO:peptidyl-tyrosine phosphorylation ; GO:0018108
+GO:0018109	resid2go	RESID:AA0222 > GO:peptidyl-arginine phosphorylation ; GO:0018109
+GO:0018117	unirule2go	UniRule:UR000128651 > GO:protein adenylylation ; GO:0018117
+GO:0018119	resid2go	RESID:AA0230 > GO:peptidyl-cysteine S-nitrosylation ; GO:0018119
+GO:0018125	resid2go	RESID:AA0234 > GO:peptidyl-cysteine methylation ; GO:0018125
+GO:0018144	interpro2go	InterPro:IPR013648 Polyprotein, Potyviridae > GO:RNA-protein covalent cross-linking ; GO:0018144
+GO:0018144	uniprotkb_kw2go	UniProtKB-KW:KW-0191 Covalent protein-RNA linkage > GO:RNA-protein covalent cross-linking ; GO:0018144
+GO:0018149	interpro2go	InterPro:IPR001102 Transglutaminase, N-terminal > GO:peptide cross-linking ; GO:0018149
+GO:0018149	interpro2go	InterPro:IPR008958 Transglutaminase, C-terminal > GO:peptide cross-linking ; GO:0018149
+GO:0018149	interpro2go	InterPro:IPR013808 Transglutaminase, active site > GO:peptide cross-linking ; GO:0018149
+GO:0018149	interpro2go	InterPro:IPR023608 Protein-glutamine gamma-glutamyltransferase, animal > GO:peptide cross-linking ; GO:0018149
+GO:0018149	interpro2go	InterPro:IPR036238 Transglutaminase, C-terminal domain superfamily > GO:peptide cross-linking ; GO:0018149
+GO:0018153	resid2go	RESID:AA0124 > GO:isopeptide cross-linking via N6-(L-isoglutamyl)-L-lysine ; GO:0018153
+GO:0018160	interpro2go	InterPro:IPR022419 Porphobilinogen deaminase, dipyrromethane cofactor binding site > GO:peptidyl-pyrromethane cofactor linkage ; GO:0018160
+GO:0018160	resid2go	RESID:AA0252 > GO:peptidyl-pyrromethane cofactor linkage ; GO:0018160
+GO:0018171	resid2go	RESID:AA0205 > GO:peptidyl-cysteine oxidation ; GO:0018171
+GO:0018171	resid2go	RESID:AA0262 > GO:peptidyl-cysteine oxidation ; GO:0018171
+GO:0018173	resid2go	RESID:AA0265 > GO:peptidyl-1-thioglycine biosynthetic process from peptidyl-glycine ; GO:0018173
+GO:0018174	resid2go	RESID:AA0266 > GO:protein-heme P460 linkage ; GO:0018174
+GO:0018174	resid2go	RESID:AA0271 > GO:protein-heme P460 linkage ; GO:0018174
+GO:0018186	resid2go	RESID:AA0279 > GO:peroxidase-heme linkage ; GO:0018186
+GO:0018186	resid2go	RESID:AA0280 > GO:peroxidase-heme linkage ; GO:0018186
+GO:0018188	resid2go	RESID:AA0282 > GO:peptidyl-proline di-hydroxylation ; GO:0018188
+GO:0018191	resid2go	RESID:AA0290 > GO:peptidyl-serine octanoylation ; GO:0018191
+GO:0018216	interpro2go	InterPro:IPR025799 Protein arginine N-methyltransferase > GO:peptidyl-arginine methylation ; GO:0018216
+GO:0018230	resid2go	RESID:AA0106 > GO:peptidyl-L-cysteine S-palmitoylation ; GO:0018230
+GO:0018240	interpro2go	InterPro:IPR026499 Peptide S-glycosyltransferase, SunS family > GO:protein S-linked glycosylation via cysteine ; GO:0018240
+GO:0018240	resid2go	RESID:AA0152 > GO:protein S-linked glycosylation via cysteine ; GO:0018240
+GO:0018247	resid2go	RESID:AA0167 > GO:protein-phosphoribosyl dephospho-coenzyme A linkage ; GO:0018247
+GO:0018251	resid2go	RESID:AA0183 > GO:peptidyl-tyrosine dehydrogenation ; GO:0018251
+GO:0018259	resid2go	RESID:AA0213 > GO:RNA-protein covalent cross-linking via peptidyl-serine ; GO:0018259
+GO:0018272	resid2go	RESID:AA0119 > GO:protein-pyridoxal-5-phosphate linkage via peptidyl-N6-pyridoxal phosphate-L-lysine ; GO:0018272
+GO:0018277	unirule2go	UniRule:UR000076362 > GO:protein deamination ; GO:0018277
+GO:0018277	hamap2go	HAMAP:MF_00099 > GO:protein deamination ; GO:0018277
+GO:0018283	interpro2go	InterPro:IPR017789 Frataxin > GO:iron incorporation into metallo-sulfur cluster ; GO:0018283
+GO:0018293	interpro2go	InterPro:IPR028882 Succinate dehydrogenase assembly factor 2, mitochondrial > GO:protein-FAD linkage ; GO:0018293
+GO:0018293	unirule2go	UniRule:UR000369524 > GO:protein-FAD linkage ; GO:0018293
+GO:0018293	hamap2go	HAMAP:MF_03057 > GO:protein-FAD linkage ; GO:0018293
+GO:0018316	resid2go	RESID:AA0025 > GO:peptide cross-linking via L-cystine ; GO:0018316
+GO:0018342	interpro2go	InterPro:IPR002088 Protein prenyltransferase, alpha subunit > GO:protein prenylation ; GO:0018342
+GO:0018343	interpro2go	InterPro:IPR026872 Protein farnesyltransferase subunit beta > GO:protein farnesylation ; GO:0018343
+GO:0018344	interpro2go	InterPro:IPR001738 Rab protein geranylgeranyltransferase component A > GO:protein geranylgeranylation ; GO:0018344
+GO:0018344	interpro2go	InterPro:IPR026873 Geranylgeranyl transferase type-2 subunit beta > GO:protein geranylgeranylation ; GO:0018344
+GO:0018344	interpro2go	InterPro:IPR041960 Geranylgeranyl transferase type-1 subunit beta > GO:protein geranylgeranylation ; GO:0018344
+GO:0018344	unirule2go	UniRule:UR000859759 > GO:protein geranylgeranylation ; GO:0018344
+GO:0018344	unirule2go	UniRule:UR001001759 > GO:protein geranylgeranylation ; GO:0018344
+GO:0018345	unirule2go	UniRule:UR000234449 > GO:protein palmitoylation ; GO:0018345
+GO:0018345	hamap2go	HAMAP:MF_03199 > GO:protein palmitoylation ; GO:0018345
+GO:0018364	unirule2go	UniRule:UR000030784 > GO:peptidyl-glutamine methylation ; GO:0018364
+GO:0018364	unirule2go	UniRule:UR000120762 > GO:peptidyl-glutamine methylation ; GO:0018364
+GO:0018364	hamap2go	HAMAP:MF_02125 > GO:peptidyl-glutamine methylation ; GO:0018364
+GO:0018364	hamap2go	HAMAP:MF_02126 > GO:peptidyl-glutamine methylation ; GO:0018364
+GO:0018395	resid2go	RESID:AA0028 > GO:peptidyl-lysine hydroxylation to 5-hydroxy-L-lysine ; GO:0018395
+GO:0018400	resid2go	RESID:AA0029 > GO:peptidyl-proline hydroxylation to 3-hydroxy-L-proline ; GO:0018400
+GO:0018401	resid2go	RESID:AA0030 > GO:peptidyl-proline hydroxylation to 4-hydroxy-L-proline ; GO:0018401
+GO:0018406	interpro2go	InterPro:IPR047462 C-mannosyltransferase Dpy19 > GO:protein C-linked glycosylation via 2'-alpha-mannosyl-L-tryptophan ; GO:0018406
+GO:0018406	resid2go	RESID:AA0217 > GO:protein C-linked glycosylation via 2'-alpha-mannosyl-L-tryptophan ; GO:0018406
+GO:0018410	unirule2go	UniRule:UR000056574 > GO:C-terminal protein amino acid modification ; GO:0018410
+GO:0018410	hamap2go	HAMAP:MF_01552 > GO:C-terminal protein amino acid modification ; GO:0018410
+GO:0018418	resid2go	RESID:AA0293 > GO:nickel incorporation into iron-sulfur cluster via tris-L-cysteinyl L-cysteine persulfido L-glutamato L-histidino L-serinyl nickel triiron disulfide trioxide ; GO:0018418
+GO:0019918	resid2go	RESID:AA0067 > GO:peptidyl-arginine methylation, to symmetrical-dimethyl arginine ; GO:0019918
+GO:0019918	resid2go	RESID:AA0069 > GO:peptidyl-arginine methylation, to symmetrical-dimethyl arginine ; GO:0019918
+GO:0019919	resid2go	RESID:AA0068 > GO:peptidyl-arginine methylation, to asymmetrical-dimethyl arginine ; GO:0019919
+GO:0019919	resid2go	RESID:AA0069 > GO:peptidyl-arginine methylation, to asymmetrical-dimethyl arginine ; GO:0019919
+GO:0030047	interpro2go	InterPro:IPR025785 Actin-histidine N-methyltransferase SETD3 > GO:actin modification ; GO:0030047
+GO:0030047	interpro2go	InterPro:IPR044428 SETD3, SET domain > GO:actin modification ; GO:0030047
+GO:0030047	unirule2go	UniRule:UR000400697 > GO:actin modification ; GO:0030047
+GO:0030919	resid2go	RESID:AA0364 > GO:peptidyl-serine O-acetylation ; GO:0030919
+GO:0031954	unirule2go	UniRule:UR001376774 > GO:positive regulation of protein autophosphorylation ; GO:0031954
+GO:0032088	interpro2go	InterPro:IPR027128 TNF receptor-associated factor 3, C3HC3D-type RING zinc finger > GO:negative regulation of NF-kappaB transcription factor activity ; GO:0032088
+GO:0032088	interpro2go	InterPro:IPR037304 TNF receptor-associated factor 3, MATH domain > GO:negative regulation of NF-kappaB transcription factor activity ; GO:0032088
+GO:0032088	interpro2go	InterPro:IPR038840 RWD domain-containing protein 3 > GO:negative regulation of NF-kappaB transcription factor activity ; GO:0032088
+GO:0032147	interpro2go	InterPro:IPR009675 TPX2 > GO:activation of protein kinase activity ; GO:0032147
+GO:0032237	interpro2go	InterPro:IPR037609 Stromal interaction molecule 1, SAM domain > GO:activation of store-operated calcium channel activity ; GO:0032237
+GO:0032414	unirule2go	UniRule:UR000034429 > GO:positive regulation of ion transmembrane transporter activity ; GO:0032414
+GO:0032414	unirule2go	UniRule:UR000037486 > GO:positive regulation of ion transmembrane transporter activity ; GO:0032414
+GO:0032414	hamap2go	HAMAP:MF_01414 > GO:positive regulation of ion transmembrane transporter activity ; GO:0032414
+GO:0032414	hamap2go	HAMAP:MF_01415 > GO:positive regulation of ion transmembrane transporter activity ; GO:0032414
+GO:0032429	interpro2go	InterPro:IPR016338 Phospholipase A2 inhibitor, gamma type > GO:regulation of phospholipase A2 activity ; GO:0032429
+GO:0032780	interpro2go	InterPro:IPR007648 Mitochondrial ATPase inhibitor > GO:negative regulation of ATP-dependent activity ; GO:0032780
+GO:0032793	interpro2go	InterPro:IPR024786 CREB-regulated transcription coactivator > GO:positive regulation of CREB transcription factor activity ; GO:0032793
+GO:0032793	interpro2go	InterPro:IPR047908 Testis-specific serine/threonine kinase 4, catalytic domain > GO:positive regulation of CREB transcription factor activity ; GO:0032793
+GO:0035246	interpro2go	InterPro:IPR007857 Protein arginine N-methyltransferase PRMT5 > GO:peptidyl-arginine N-methylation ; GO:0035246
+GO:0035247	resid2go	RESID:AA0067 > GO:peptidyl-arginine omega-N-methylation ; GO:0035247
+GO:0035247	resid2go	RESID:AA0068 > GO:peptidyl-arginine omega-N-methylation ; GO:0035247
+GO:0035247	resid2go	RESID:AA0069 > GO:peptidyl-arginine omega-N-methylation ; GO:0035247
+GO:0035568	resid2go	RESID:AA0419 > GO:N-terminal peptidyl-proline methylation ; GO:0035568
+GO:0035608	interpro2go	InterPro:IPR034286 Cytosolic carboxypeptidase-like protein 5 catalytic domain > GO:protein deglutamylation ; GO:0035608
+GO:0036048	unirule2go	UniRule:UR000334654 > GO:protein desuccinylation ; GO:0036048
+GO:0036048	hamap2go	HAMAP:MF_01121 > GO:protein desuccinylation ; GO:0036048
+GO:0042038	resid2go	RESID:AA0317 > GO:peptidyl-histidine methylation, to form tele-methylhistidine ; GO:0042038
+GO:0042264	interpro2go	InterPro:IPR039038 Aspartyl/asparaginyl beta-hydroxylase family > GO:peptidyl-aspartic acid hydroxylation ; GO:0042264
+GO:0042325	interpro2go	InterPro:IPR008025 CPI-17 > GO:regulation of phosphorylation ; GO:0042325
+GO:0042325	interpro2go	InterPro:IPR036658 CPI-17 superfamily > GO:regulation of phosphorylation ; GO:0042325
+GO:0042325	unirule2go	UniRule:UR001693761 > GO:regulation of phosphorylation ; GO:0042325
+GO:0042326	interpro2go	InterPro:IPR013474 Circadian clock protein KaiB > GO:negative regulation of phosphorylation ; GO:0042326
+GO:0043085	interpro2go	InterPro:IPR009294 Gamma-secretase subunit Aph-1 > GO:positive regulation of catalytic activity ; GO:0043085
+GO:0043085	interpro2go	InterPro:IPR010334 mRNA-decapping enzyme subunit 1 > GO:positive regulation of catalytic activity ; GO:0043085
+GO:0043085	interpro2go	InterPro:IPR047576 Colipase, chordates > GO:positive regulation of catalytic activity ; GO:0043085
+GO:0043085	unirule2go	UniRule:UR001453775 > GO:positive regulation of catalytic activity ; GO:0043085
+GO:0043086	interpro2go	InterPro:IPR014453 Inhibitor of vertebrate lysozyme > GO:negative regulation of catalytic activity ; GO:0043086
+GO:0043086	interpro2go	InterPro:IPR034086 Pectinesterase inhibitor, plant > GO:negative regulation of catalytic activity ; GO:0043086
+GO:0043086	interpro2go	InterPro:IPR034087 Cell wall/vacuolar inhibitor of fructosidase > GO:negative regulation of catalytic activity ; GO:0043086
+GO:0043154	interpro2go	InterPro:IPR024135 Ragulator complex protein LAMTOR5 > GO:negative regulation of cysteine-type endopeptidase activity involved in apoptotic process ; GO:0043154
+GO:0043407	interpro2go	InterPro:IPR044212 Protein-tyrosine-phosphatase IBR5-like > GO:negative regulation of MAP kinase activity ; GO:0043407
+GO:0043462	interpro2go	InterPro:IPR011726 K+ transporting P-type ATPase, F subunit > GO:regulation of ATP-dependent activity ; GO:0043462
+GO:0043507	unirule2go	UniRule:UR000734760 > GO:positive regulation of JUN kinase activity ; GO:0043507
+GO:0043547	interpro2go	InterPro:IPR003913 Tuberin > GO:positive regulation of GTPase activity ; GO:0043547
+GO:0043547	interpro2go	InterPro:IPR018515 Tuberin-type domain > GO:positive regulation of GTPase activity ; GO:0043547
+GO:0043547	interpro2go	InterPro:IPR026817 Guanine nucleotide exchange factor Ect2 > GO:positive regulation of GTPase activity ; GO:0043547
+GO:0043547	interpro2go	InterPro:IPR027107 Tuberin/Ral GTPase-activating protein subunit alpha > GO:positive regulation of GTPase activity ; GO:0043547
+GO:0043547	interpro2go	InterPro:IPR028558 Unconventional myosin-IXa, Ras-associating domain > GO:positive regulation of GTPase activity ; GO:0043547
+GO:0043547	interpro2go	InterPro:IPR028775 Arf GTPase activating protein 3, BAR domain > GO:positive regulation of GTPase activity ; GO:0043547
+GO:0043547	interpro2go	InterPro:IPR037769 Abr/Bcr > GO:positive regulation of GTPase activity ; GO:0043547
+GO:0043547	interpro2go	InterPro:IPR037844 ASAP, PH domain > GO:positive regulation of GTPase activity ; GO:0043547
+GO:0043547	interpro2go	InterPro:IPR037849 ADAP, PH domain 1 > GO:positive regulation of GTPase activity ; GO:0043547
+GO:0043547	interpro2go	InterPro:IPR037851 ADAP, PH domain 2 > GO:positive regulation of GTPase activity ; GO:0043547
+GO:0043547	interpro2go	InterPro:IPR037858 ARAP, RhoGAP domain > GO:positive regulation of GTPase activity ; GO:0043547
+GO:0043547	interpro2go	InterPro:IPR037860 Chimaerin, RhoGAP domain > GO:positive regulation of GTPase activity ; GO:0043547
+GO:0043547	interpro2go	InterPro:IPR037896 SNX13, RGS domain > GO:positive regulation of GTPase activity ; GO:0043547
+GO:0043547	interpro2go	InterPro:IPR040144 Rap1 GTPase-GDP dissociation stimulator 1 > GO:positive regulation of GTPase activity ; GO:0043547
+GO:0043547	interpro2go	InterPro:IPR043593 Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein > GO:positive regulation of GTPase activity ; GO:0043547
+GO:0043547	interpro2go	InterPro:IPR045700 Rab3GAP catalytic subunit > GO:positive regulation of GTPase activity ; GO:0043547
+GO:0043547	interpro2go	InterPro:IPR045913 GTPase-activating protein TBC20/Gyp8-like > GO:positive regulation of GTPase activity ; GO:0043547
+GO:0043547	interpro2go	InterPro:IPR047165 Rho GTPase-activating protein 17/44/SH3BP1-like > GO:positive regulation of GTPase activity ; GO:0043547
+GO:0043547	unirule2go	UniRule:UR000136804 > GO:positive regulation of GTPase activity ; GO:0043547
+GO:0045736	interpro2go	InterPro:IPR044275 Cyclin-dependent kinase inhibitor, plant > GO:negative regulation of cyclin-dependent protein serine/threonine kinase activity ; GO:0045736
+GO:0045737	interpro2go	InterPro:IPR004575 Cdk-activating kinase assembly factor MAT1/Tfb3 > GO:positive regulation of cyclin-dependent protein serine/threonine kinase activity ; GO:0045737
+GO:0045737	interpro2go	InterPro:IPR020984 Cell cycle regulatory protein Speedy > GO:positive regulation of cyclin-dependent protein serine/threonine kinase activity ; GO:0045737
+GO:0045761	interpro2go	InterPro:IPR005397 Neuropeptide FF receptor, type 2 > GO:regulation of adenylate cyclase activity ; GO:0045761
+GO:0045762	interpro2go	InterPro:IPR042375 A-kinase anchor protein 5 > GO:positive regulation of adenylate cyclase activity ; GO:0045762
+GO:0045859	unirule2go	UniRule:UR000067674 > GO:regulation of protein kinase activity ; GO:0045859
+GO:0045859	hamap2go	HAMAP:MF_00904 > GO:regulation of protein kinase activity ; GO:0045859
+GO:0046777	wikipedia2go	Wikipedia:Autophosphorylation > GO:protein autophosphorylation ; GO:0046777
+GO:0046777	interpro2go	InterPro:IPR016246 Tyrosine-protein kinase, insulin-like receptor > GO:protein autophosphorylation ; GO:0046777
+GO:0046777	interpro2go	InterPro:IPR017419 Mitogen-activated protein kinase kinase kinase 12/13 > GO:protein autophosphorylation ; GO:0046777
+GO:0046777	interpro2go	InterPro:IPR027257 Mitogen-activated protein kinase kinase kinase 12 > GO:protein autophosphorylation ; GO:0046777
+GO:0046777	interpro2go	InterPro:IPR027258 Mitogen-activated protein kinase kinase kinase 13 > GO:protein autophosphorylation ; GO:0046777
+GO:0046777	interpro2go	InterPro:IPR044131 Dual specificity tyrosine-phosphorylation-regulated kinase 1A/1B, catalytic domain > GO:protein autophosphorylation ; GO:0046777
+GO:0046777	unirule2go	UniRule:UR000117500 > GO:protein autophosphorylation ; GO:0046777
+GO:0046777	hamap2go	HAMAP:MF_00979 > GO:protein autophosphorylation ; GO:0046777
+GO:0046944	interpro2go	InterPro:IPR004421 Carbamoyltransferase, HypF-type > GO:protein carbamoylation ; GO:0046944
+GO:0050790	interpro2go	InterPro:IPR012589 Plasma membrane ATPase proteolipid > GO:regulation of catalytic activity ; GO:0050790
+GO:0050790	interpro2go	InterPro:IPR012599 Peptidase C1A, propeptide > GO:regulation of catalytic activity ; GO:0050790
+GO:0051090	rfam2go	Rfam:RF03532 SQ2397 > GO:regulation of DNA-binding transcription factor activity ; GO:0051090
+GO:0051091	interpro2go	InterPro:IPR039335 Sigma factor binding protein 1/2 > GO:positive regulation of DNA-binding transcription factor activity ; GO:0051091
+GO:0051092	interpro2go	InterPro:IPR027258 Mitogen-activated protein kinase kinase kinase 13 > GO:positive regulation of NF-kappaB transcription factor activity ; GO:0051092
+GO:0051092	interpro2go	InterPro:IPR033238 B-cell lymphoma/leukemia 10/E10 > GO:positive regulation of NF-kappaB transcription factor activity ; GO:0051092
+GO:0051097	interpro2go	InterPro:IPR033808 Burkholderia lethal factor 1 > GO:negative regulation of helicase activity ; GO:0051097
+GO:0051111	resid2go	RESID:AA0371 > GO:peptidyl-histidine adenylylation ; GO:0051111
+GO:0051114	resid2go	RESID:AA0372 > GO:peptidyl-histidine uridylylation ; GO:0051114
+GO:0052547	interpro2go	InterPro:IPR010200 HflC > GO:regulation of peptidase activity ; GO:0052547
+GO:0060315	interpro2go	InterPro:IPR030253 Chloride intracellular channel protein 2, C-terminal domain > GO:negative regulation of ryanodine-sensitive calcium-release channel activity ; GO:0060315
+GO:0060699	unirule2go	UniRule:UR000001297 > GO:regulation of endoribonuclease activity ; GO:0060699
+GO:0060699	unirule2go	UniRule:UR000031316 > GO:regulation of endoribonuclease activity ; GO:0060699
+GO:0060699	hamap2go	HAMAP:MF_00471 > GO:regulation of endoribonuclease activity ; GO:0060699
+GO:0060699	hamap2go	HAMAP:MF_01888 > GO:regulation of endoribonuclease activity ; GO:0060699
+GO:0060701	unirule2go	UniRule:UR000101148 > GO:negative regulation of ribonuclease activity ; GO:0060701
+GO:0060701	hamap2go	HAMAP:MF_01205 > GO:negative regulation of ribonuclease activity ; GO:0060701
+GO:0061098	interpro2go	InterPro:IPR037746 Protein Dok-7 > GO:positive regulation of protein tyrosine kinase activity ; GO:0061098
+GO:0061098	interpro2go	InterPro:IPR037747 Dok-7, PH domain > GO:positive regulation of protein tyrosine kinase activity ; GO:0061098
+GO:0071705	interpro2go	InterPro:IPR000060 BCCT transporter family > GO:nitrogen compound transport ; GO:0071705
+GO:0071705	interpro2go	InterPro:IPR005768 Specific amino acids and opine-binding periplasmic protein, ABC transporter > GO:nitrogen compound transport ; GO:0071705
+GO:0071705	interpro2go	InterPro:IPR009834 Ureide permease > GO:nitrogen compound transport ; GO:0071705
+GO:0071705	interpro2go	InterPro:IPR010065 Amino acid ABC transporter, permease protein, 3-TM domain > GO:nitrogen compound transport ; GO:0071705
+GO:0071705	interpro2go	InterPro:IPR030189 Ureide permease, plant > GO:nitrogen compound transport ; GO:0071705
+GO:0071929	interpro2go	InterPro:IPR007965 Gcn5-related N-acetyltransferase (GNAT) domain, ATAT-type > GO:alpha-tubulin acetylation ; GO:0071929
+GO:0071929	unirule2go	UniRule:UR000106988 > GO:alpha-tubulin acetylation ; GO:0071929
+GO:0071929	hamap2go	HAMAP:MF_03130 > GO:alpha-tubulin acetylation ; GO:0071929
+GO:0090630	interpro2go	InterPro:IPR005414 Guanine nucleotide exchange factor SopE > GO:activation of GTPase activity ; GO:0090630
+GO:0090630	interpro2go	InterPro:IPR016019 Guanine nucleotide exchange factor SopE, GEF domain > GO:activation of GTPase activity ; GO:0090630
+GO:0090630	interpro2go	InterPro:IPR043537 Tiam1/Tiam2/Protein still life > GO:activation of GTPase activity ; GO:0090630
+GO:0120258	resid2go	RESID:AA0364 > GO:peptidyl-threonine O-acetylation ; GO:0120258
+GO:1900137	interpro2go	InterPro:IPR045797 Evasins Class A > GO:negative regulation of chemokine activity ; GO:1900137
+GO:1901386	interpro2go	InterPro:IPR037658 Voltage-dependent calcium channel beta subunit-associated regulatory protein > GO:negative regulation of voltage-gated calcium channel activity ; GO:1901386
+GO:1901671	interpro2go	InterPro:IPR017416 Chaperonin Cpn20 > GO:positive regulation of superoxide dismutase activity ; GO:1901671
+GO:1901842	interpro2go	InterPro:IPR017358 Ras-related small G protein, RGK family > GO:negative regulation of high voltage-gated calcium channel activity ; GO:1901842
+GO:1901894	interpro2go	InterPro:IPR005984 Phospholamban > GO:regulation of ATPase-coupled calcium transmembrane transporter activity ; GO:1901894
+GO:1901894	interpro2go	InterPro:IPR044529 Sarcoplasmic/endoplasmic reticulum calcium ATPase regulator DWORF > GO:regulation of ATPase-coupled calcium transmembrane transporter activity ; GO:1901894
+GO:1903730	interpro2go	InterPro:IPR039292 Protein SICKLE > GO:regulation of phosphatidate phosphatase activity ; GO:1903730
+GO:1903818	interpro2go	InterPro:IPR031424 UPAR/Ly6 domain-containing protein Quiver-like > GO:positive regulation of voltage-gated potassium channel activity ; GO:1903818
+GO:1904382	interpro2go	InterPro:IPR037322 EDEM3, PA domain > GO:mannose trimming involved in glycoprotein ERAD pathway ; GO:1904382
+GO:1904382	interpro2go	InterPro:IPR044674 ER degradation-enhancing alpha-mannosidase-like protein 1/2/3 > GO:mannose trimming involved in glycoprotein ERAD pathway ; GO:1904382
+GO:1904667	interpro2go	InterPro:IPR034590 POLYCHOME/GIGAS CELL1 > GO:negative regulation of ubiquitin protein ligase activity ; GO:1904667
+GO:1904668	interpro2go	InterPro:IPR033010 WD repeat Cdc20/Fizzy > GO:positive regulation of ubiquitin protein ligase activity ; GO:1904668
+GO:1904684	interpro2go	InterPro:IPR039016 Reversion-inducing cysteine-rich protein with Kazal motifs > GO:negative regulation of metalloendopeptidase activity ; GO:1904684
+GO:1905775	interpro2go	InterPro:IPR008045 DNA replication licensing factor Mcm2 > GO:negative regulation of DNA helicase activity ; GO:1905775
+GO:2000312	interpro2go	InterPro:IPR030596 Kelch-like protein 24, BTB/POZ domain > GO:regulation of kainate selective glutamate receptor activity ; GO:2000312
+GO:2000372	unirule2go	UniRule:UR000030794 > GO:negative regulation of DNA topoisomerase (ATP-hydrolyzing) activity ; GO:2000372
+GO:2000372	hamap2go	HAMAP:MF_01896 > GO:negative regulation of DNA topoisomerase (ATP-hydrolyzing) activity ; GO:2000372
+GO:2000479	interpro2go	InterPro:IPR005397 Neuropeptide FF receptor, type 2 > GO:regulation of cAMP-dependent protein kinase activity ; GO:2000479
+GO:2000969	interpro2go	InterPro:IPR023263 Activity-regulated cytoskeleton-associated protein > GO:positive regulation of AMPA receptor activity ; GO:2000969
