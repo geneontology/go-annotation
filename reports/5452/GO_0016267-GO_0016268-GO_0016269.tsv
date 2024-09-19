@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:Q02742	GCNT1	PMID:1329093		GO:0016268	O-glycan processing, core 2	IDA		UniProtKB:Q02742	PANTHER:PTHR19297	20211130		NCBITaxon:9606
+UniProt	MGI:MGI:95676	Gcnt1	PMID:9881978		GO:0016268	O-glycan processing, core 2	IMP			PANTHER:PTHR19297	20211202		NCBITaxon:10090
+UniProt	UniProtKB:Q6ZMB0	B3GNT6	PMID:11821425		GO:0016269	O-glycan processing, core 3	NAS		UniProtKB:Q6ZMB0	PANTHER:PTHR11214	20070914		NCBITaxon:9606
