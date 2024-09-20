@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ComplexPortal	ComplexPortal:CPX-8070	mau2-nipbl_human	PMID:22628566		GO:0061780	mitotic cohesin loading	IDA				20231009		NCBITaxon:9606
+SGD	SGD:S000218003	CPX-1852	PMID:31729385		GO:0071921	cohesin loading	IDA				20220125	GO:0006302	NCBITaxon:559292
+ComplexPortal	SGD:S000217769	CPX-1868	PMID:10882066		GO:1905309	positive regulation of cohesin loading	IDA				20160905		NCBITaxon:559292
+PomBase	PomBase:SPBC26H8.05c	pph3	PMID:31895039		GO:1905406	positive regulation of mitotic cohesin loading	EXP			PANTHER:PTHR45619	20201026	GO:0000080	NCBITaxon:4896
