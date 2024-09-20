@@ -1,0 +1,8 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ComplexPortal	SGD:S000217712	CPX-1342	PMID:11711434		GO:0045129	NAD-independent histone deacetylase activity	IDA				20180214		NCBITaxon:559292
+FlyBase	FB:FBgn0015805	HDAC1	PMID:25578876|FB:FBrf0227478		GO:0045129	NAD-independent histone deacetylase activity	NAS			PANTHER:PTHR48252	20210715		NCBITaxon:7227
+FlyBase	FB:FBgn0025825	HDAC3	PMID:25578876|FB:FBrf0227478		GO:0045129	NAD-independent histone deacetylase activity	NAS			PANTHER:PTHR48252	20210715		NCBITaxon:7227
+FlyBase	FB:FBgn0026428	HDAC6	PMID:25578876|FB:FBrf0227478		GO:0045129	NAD-independent histone deacetylase activity	NAS			PANTHER:PTHR48252	20210715		NCBITaxon:7227
+FlyBase	FB:FBgn0041210	HDAC4	PMID:25578876|FB:FBrf0227478		GO:0045129	NAD-independent histone deacetylase activity	NAS			PANTHER:PTHR45364	20210715		NCBITaxon:7227
+FlyBase	FB:FBgn0051119	HDAC11	PMID:25578876|FB:FBrf0227478		GO:0045129	NAD-independent histone deacetylase activity	NAS			PANTHER:PTHR48252	20210715		NCBITaxon:7227
+SGD	SGD:S000003162	HOS2	PMID:11711434		GO:0045129	NAD-independent histone deacetylase activity	IDA		UniProtKB:P53096	PANTHER:PTHR48252	20021010		NCBITaxon:559292
