@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	UniProtKB:Q83639	Hemagglutinin	PMID:18287234		GO:0060141	positive regulation of syncytium formation by virus	IMP				20240312		NCBITaxon:11234
