@@ -1,0 +1,6 @@
+term	file	line
+GO:0044249	interpro2go	InterPro:IPR000842 Phosphoribosyl pyrophosphate synthetase, conserved site > GO:cellular biosynthetic process ; GO:0044249
+GO:0044249	interpro2go	InterPro:IPR011559 Initiation factor 2B alpha/beta/delta > GO:cellular biosynthetic process ; GO:0044249
+GO:0045226	interpro2go	InterPro:IPR005700 Exopolysaccharide biosynthesis protein ExoP-like > GO:extracellular polysaccharide biosynthetic process ; GO:0045226
+GO:0045226	interpro2go	InterPro:IPR005702 Tyrosine-protein kinase wzc-like, C-terminal domain > GO:extracellular polysaccharide biosynthetic process ; GO:0045226
+GO:0045226	interpro2go	InterPro:IPR005907 Glucose-1-phosphate thymidylyltransferase, short form > GO:extracellular polysaccharide biosynthetic process ; GO:0045226

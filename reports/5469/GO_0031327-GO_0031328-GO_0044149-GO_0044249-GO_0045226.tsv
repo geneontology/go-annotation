@@ -1,0 +1,58 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	RNAcentral:URS000049A7EB_9606	URS000049A7EB_9606	PMID:29048659		GO:0031327	negative regulation of cellular biosynthetic process	IDA				20200130	UniProtKB:P08670	NCBITaxon:9606
+ARUK-UCL	RNAcentral:URS00004AE8D3_9606	URS00004AE8D3_9606	PMID:30210926		GO:0031327	negative regulation of cellular biosynthetic process	IDA				20200312	UniProtKB:P46013	NCBITaxon:9606
+ARUK-UCL	RNAcentral:URS00004AE8D3_9606	URS00004AE8D3_9606	PMID:30210926		GO:0031327	negative regulation of cellular biosynthetic process	IDA				20200312	UniProtKB:P08670	NCBITaxon:9606
+ARUK-UCL	UniProtKB:P10145	CXCL8	PMID:29048659		GO:0031328	positive regulation of cellular biosynthetic process	IDA		UniProtKB:P10145	PANTHER:PTHR10179	20200526	UniProtKB:P02751	NCBITaxon:9606
+ARUK-UCL	UniProtKB:P10145	CXCL8	PMID:29048659		GO:0031328	positive regulation of cellular biosynthetic process	IDA		UniProtKB:P10145	PANTHER:PTHR10179	20200526	UniProtKB:P08670	NCBITaxon:9606
+BHF-UCL	UniProtKB:P13501	CCL5	PMID:18337562		GO:0031328	positive regulation of cellular biosynthetic process	IDA		UniProtKB:P13501	PANTHER:PTHR12015	20110222		NCBITaxon:9606
+MGI	MGI:MGI:1341886	Ajuba	PMID:15870270		GO:0031328	positive regulation of cellular biosynthetic process	IMP			PANTHER:PTHR24219	20110105		NCBITaxon:10090
+MGI	MGI:MGI:106184	Npm1	PMID:18809582		GO:0031328	positive regulation of cellular biosynthetic process	IMP			PANTHER:PTHR22747	20090325		NCBITaxon:10090
+MGI	MGI:MGI:106184	Npm1	PMID:18809582		GO:0031328	positive regulation of cellular biosynthetic process	IDA			PANTHER:PTHR22747	20090325		NCBITaxon:10090
+PseudoCAP	PseudoCAP:PA0612	ptrB	PMID:18227247		GO:0031328	positive regulation of cellular biosynthetic process	IMP				20190311		NCBITaxon:208964
+EcoCyc	UniProtKB:P0AF45	yjbE	PMID:17379715		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20070330		NCBITaxon:83333
+EcoCyc	UniProtKB:P32687	yjbF	PMID:17379715		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20070330		NCBITaxon:83333
+EcoCyc	UniProtKB:P32688	yjbG	PMID:17379715		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20070330		NCBITaxon:83333
+EcoCyc	UniProtKB:P32689	yjbH	PMID:17379715		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20070330		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AF45	yjbE	PMID:18997023		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20170411		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AFA5	nfrB	PMID:34903052		GO:0045226	extracellular polysaccharide biosynthetic process	IDA			PANTHER:PTHR30258	20220127		NCBITaxon:83333
+PseudoCAP	PseudoCAP:PA2236	pslF	PMID:19659934		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA2237	pslG	PMID:19659934		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA2242	pslL	PMID:19659934		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA2241	pslK	PMID:19659934		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA2240	pslJ	PMID:19659934		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA2239	pslI	PMID:19659934		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA2238	pslH	PMID:19659934		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA2235	pslE	PMID:19659934		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA2234	pslD	PMID:19659934		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA2233	pslC	PMID:19659934		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA2232	pslB	PMID:19659934		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA2231	pslA	PMID:19659934		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA1107	roeA	PMID:20978535		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA3063	pelB	PMID:22176658		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA3062	pelC	PMID:22176658		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA3061	pelD	PMID:22176658		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA3060	pelE	PMID:22176658		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA3058	pelG	PMID:22176658		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA3059	pelF	PMID:23435893		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA3064	pelA	PMID:23504011		GO:0045226	extracellular polysaccharide biosynthetic process	IMP				20190311		NCBITaxon:208964
+UniProt	MGI:MGI:107821	Has2	PMID:10455188		GO:0045226	extracellular polysaccharide biosynthetic process	IDA			PANTHER:PTHR22913	20130911		NCBITaxon:10090
+UniProt	MGI:MGI:109599	Has3	PMID:10455188		GO:0045226	extracellular polysaccharide biosynthetic process	IDA			PANTHER:PTHR22913	20130911		NCBITaxon:10090
+UniProt	MGI:MGI:106590	Has1	PMID:10455188		GO:0045226	extracellular polysaccharide biosynthetic process	IDA			PANTHER:PTHR22913	20130911		NCBITaxon:10090
+UniProt	UniProtKB:O27818	rmlC	PMID:10827167		GO:0045226	extracellular polysaccharide biosynthetic process	NAS				20100914		NCBITaxon:187420
+UniProt	UniProtKB:A0QTF8	rmlD	PMID:12029057		GO:0045226	extracellular polysaccharide biosynthetic process	IGI	UniProtKB:P9WH09			20170223		NCBITaxon:246196
+UniProt	UniProtKB:P9WH09	rmlD	PMID:12029057		GO:0045226	extracellular polysaccharide biosynthetic process	IGI	UniProtKB:A0QTF8		PANTHER:PTHR10491	20170222		NCBITaxon:83332
+UniProt	UniProtKB:P26392	rfbD	PMID:12057193		GO:0045226	extracellular polysaccharide biosynthetic process	IDA			PANTHER:PTHR10491	20100707		NCBITaxon:99287
+UniProt	UniProtKB:P9WMY3	wbbL	PMID:15294902		GO:0045226	extracellular polysaccharide biosynthetic process	IDA			PANTHER:PTHR43179	20170222		NCBITaxon:83332
+UniProt	UniProtKB:P9WN65	rmlB	PMID:16472764		GO:0045226	extracellular polysaccharide biosynthetic process	IGI	UniProtKB:A0QSK6		PANTHER:PTHR43000	20170221		NCBITaxon:83332
+UniProt	UniProtKB:A0QSK6	rmlB	PMID:16472764		GO:0045226	extracellular polysaccharide biosynthetic process	IGI	UniProtKB:P9WN65			20170222		NCBITaxon:246196
+UniProt	UniProtKB:A0QSK5	rmlC	PMID:16472764		GO:0045226	extracellular polysaccharide biosynthetic process	IGI	UniProtKB:P9WH11			20170222		NCBITaxon:246196
+UniProt	UniProtKB:P9WH11	rmlC	PMID:16472764		GO:0045226	extracellular polysaccharide biosynthetic process	IGI	UniProtKB:A0QSK5		PANTHER:PTHR21047	20170221		NCBITaxon:83332
+UniProt	UniProtKB:P26394	rfbC	PMID:17046787		GO:0045226	extracellular polysaccharide biosynthetic process	IDA			PANTHER:PTHR21047	20110815		NCBITaxon:99287
+UniProt	UniProtKB:P9WH13	rmlA	PMID:17784859		GO:0045226	extracellular polysaccharide biosynthetic process	IMP			PANTHER:PTHR43532	20170221		NCBITaxon:83332
+UniProt	UniProtKB:P36667	wbbL	PMID:7517391		GO:0045226	extracellular polysaccharide biosynthetic process	IGI			PANTHER:PTHR43179	20100512		NCBITaxon:83333
+UniProt	UniProtKB:P61887	rffH	PMID:7559340		GO:0045226	extracellular polysaccharide biosynthetic process	IDA			PANTHER:PTHR43532	20100914		NCBITaxon:83333
+UniProt	UniProtKB:P55253	rmlA	PMID:7559340		GO:0045226	extracellular polysaccharide biosynthetic process	IDA				20110715		NCBITaxon:562
+UniProt	UniProtKB:P27830	rffG	PMID:7559340		GO:0045226	extracellular polysaccharide biosynthetic process	IDA			PANTHER:PTHR43000	20100914		NCBITaxon:83333
+UniProt	UniProtKB:P26393	rmlA	PMID:8382158		GO:0045226	extracellular polysaccharide biosynthetic process	IDA			PANTHER:PTHR43532	20100706		NCBITaxon:99287
+UniProt	UniProtKB:P9WH13	rmlA	PMID:9084178		GO:0045226	extracellular polysaccharide biosynthetic process	IDA			PANTHER:PTHR43532	20170221		NCBITaxon:83332
+UniProt	UniProtKB:A0QPF9	rmlA	PMID:9084178		GO:0045226	extracellular polysaccharide biosynthetic process	IDA				20110413		NCBITaxon:246196
