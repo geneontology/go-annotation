@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPAC23D3.10c	eng2	PMID:19542306		GO:0072000	extracellular polysaccharide catabolic process involved in ascospore release from ascus	IDA			PANTHER:PTHR31983	20180302		NCBITaxon:4896
+PomBase	PomBase:SPBC646.06c	agn2	PMID:19542306		GO:0072000	extracellular polysaccharide catabolic process involved in ascospore release from ascus	IMP			PANTHER:PTHR43173	20201130		NCBITaxon:4896
+PomBase	PomBase:SPBC646.06c	agn2	PMID:17315266		GO:0072316	alpha-glucan catabolic process involved in ascospore release from ascus	IDA			PANTHER:PTHR43173	20040625		NCBITaxon:4896
