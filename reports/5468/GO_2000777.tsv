@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:Q9H4B4	PLK3	PMID:20889502		GO:2000777	positive regulation of proteasomal ubiquitin-dependent protein catabolic process involved in cellular response to hypoxia	IDA		UniProtKB:Q9H4B4	PANTHER:PTHR24345	20111108		NCBITaxon:9606
