@@ -1,0 +1,37 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	MGI:MGI:96629	Jak2	PMID:26227742		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IGI	UniProtKB:P01580		PANTHER:PTHR45807	20190429	CL:0000129	NCBITaxon:10090
+ARUK-UCL	MGI:MGI:107656	Ifng	PMID:26227742		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IGI	UniProtKB:P05067|UniProtKB:P49768		PANTHER:PTHR11419	20190429	CL:0000129	NCBITaxon:10090
+ARUK-UCL	MGI:MGI:1924375	Il33	PMID:26936882		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IDA			PANTHER:PTHR21114	20200526	CL:0002476	NCBITaxon:10090
+ARUK-UCL	MGI:MGI:107656	Ifng	PMID:29061364		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IDA			PANTHER:PTHR11419	20190423	CL:0002476|UniProtKB:P29477|CL:0000129|UniProtKB:P29477	NCBITaxon:10090
+BHF-UCL	MGI:MGI:96629	Jak2	PMID:10600756		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IDA			PANTHER:PTHR45807	20110331		NCBITaxon:10090
+BHF-UCL	RGD:2939	Jak2	PMID:11536325|RGD:8553830		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IDA			PANTHER:PTHR45807	20110331		NCBITaxon:10116
+BHF-UCL	MGI:MGI:96629	Jak2	PMID:12426001		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IDA			PANTHER:PTHR45807	20110331		NCBITaxon:10090
+BHF-UCL	MGI:MGI:96824	Tlr4	PMID:15356140		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IDA			PANTHER:PTHR24365	20100304		NCBITaxon:10090
+BHF-UCL	MGI:MGI:1346060	Tlr2	PMID:15356140		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IDA			PANTHER:PTHR24365	20100304		NCBITaxon:10090
+BHF-UCL	MGI:MGI:98259	Ccl2	PMID:19164781		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IMP			PANTHER:PTHR12015	20110224		NCBITaxon:10090
+BHF-UCL	UniProtKB:P43490	NAMPT	PMID:19727662		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IDA		UniProtKB:P43490	PANTHER:PTHR43816	20091116		NCBITaxon:9606
+BHF-UCL	MGI:MGI:2429397	Nod2	PMID:21156799		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IMP			PANTHER:PTHR24106	20110203		NCBITaxon:10090
+BHF-UCL	UniProtKB:P06734	FCER2	PMID:7544003		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IDA		UniProtKB:P06734	PANTHER:PTHR22802	20080724		NCBITaxon:9606
+RGD	RGD:628847	Mapk9	PMID:10593906|RGD:2304240		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IMP			PANTHER:PTHR24055	20090311		NCBITaxon:10116
+RGD	RGD:1307040	Map2k4	PMID:10593906|RGD:2304240		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IMP			PANTHER:PTHR48013	20131216		NCBITaxon:10116
+RGD	RGD:1306620	Map2k3	PMID:10593906|RGD:2304240		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IMP			PANTHER:PTHR48013	20131216		NCBITaxon:10116
+RGD	RGD:620666	Map2k6	PMID:10593906|RGD:2304240		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IMP			PANTHER:PTHR48013	20131216		NCBITaxon:10116
+RGD	RGD:3646	Ccl20	PMID:19428685|RGD:7488896		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IDA			PANTHER:PTHR12015	20131204		NCBITaxon:10116
+RGD	RGD:70988	Akap12	PMID:19937403|RGD:14348968		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IMP			PANTHER:PTHR23209	20190205		NCBITaxon:10116
+RGD	RGD:1310421	Cpeb1	PMID:21620800|RGD:9685153		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IMP			PANTHER:PTHR12566	20141217		NCBITaxon:10116
+RGD	RGD:1561168	Lrrk2	PMID:22302802|RGD:13462052		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IMP			PANTHER:PTHR45752	20171207		NCBITaxon:10116
+RGD	RGD:2940	Jak3	PMID:22788969|RGD:11533941		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IMP			PANTHER:PTHR45807	20160913		NCBITaxon:10116
+RGD	RGD:3771	Stat1	PMID:22788969|RGD:11533941		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IMP			PANTHER:PTHR11801	20160913		NCBITaxon:10116
+RGD	RGD:2625	Fnta	PMID:9153192|RGD:2302974		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IMP			PANTHER:PTHR11129	20090122		NCBITaxon:10116
+RGD	RGD:620119	Fntb	PMID:9153192|RGD:2302974		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IMP			PANTHER:PTHR11774	20090122		NCBITaxon:10116
+UniProt	UniProtKB:P35968	KDR	PMID:10600473		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IDA		UniProtKB:P35968	PANTHER:PTHR24416	20110921		NCBITaxon:9606
+UniProt	UniProtKB:P35968	KDR	PMID:9837777		GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	IMP		UniProtKB:P35968	PANTHER:PTHR24416	20110921		NCBITaxon:9606
+ARUK-UCL	RNAcentral:URS00006054DA_9606	URS00006054DA_9606	PMID:28089352		GO:0051771	negative regulation of nitric-oxide synthase biosynthetic process	IDA				20230718	CL:0000540|UniProtKB:P29475	NCBITaxon:9606
+BHF-UCL	MGI:MGI:95865	Gstp1	PMID:16023107		GO:0051771	negative regulation of nitric-oxide synthase biosynthetic process	IDA			PANTHER:PTHR11571	20110308		NCBITaxon:10090
+BHF-UCL	UniProtKB:P05305	EDN1	PMID:16820593		GO:0051771	negative regulation of nitric-oxide synthase biosynthetic process	IDA		UniProtKB:P05305	PANTHER:PTHR13874	20080215		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9BQE4	SELENOS	PMID:18675776		GO:0051771	negative regulation of nitric-oxide synthase biosynthetic process	IMP		UniProtKB:Q9BQE4	PANTHER:PTHR28621	20110314		NCBITaxon:9606
+BHF-UCL	UniProtKB:P09211	GSTP1	PMID:18962899		GO:0051771	negative regulation of nitric-oxide synthase biosynthetic process	IDA		UniProtKB:P09211	PANTHER:PTHR11571	20110308		NCBITaxon:9606
+BHF-UCL	MGI:MGI:95865	Gstp1	PMID:18962899		GO:0051771	negative regulation of nitric-oxide synthase biosynthetic process	IDA			PANTHER:PTHR11571	20110308		NCBITaxon:10090
+RGD	RGD:628641	Ptger4	PMID:11991626|RGD:10003093		GO:0051771	negative regulation of nitric-oxide synthase biosynthetic process	IMP			PANTHER:PTHR11866	20150501		NCBITaxon:10116
+RGD	RGD:2625	Fnta	PMID:9153192|RGD:2302974		GO:0051771	negative regulation of nitric-oxide synthase biosynthetic process	IMP			PANTHER:PTHR11129	20090122		NCBITaxon:10116
+RGD	RGD:621754	Pggt1b	PMID:9153192|RGD:2302974		GO:0051771	negative regulation of nitric-oxide synthase biosynthetic process	IMP			PANTHER:PTHR11774	20090122		NCBITaxon:10116

@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	MGI:MGI:96629	Jak2	PMID:26227742		GO:0007259	cell surface receptor signaling pathway via JAK-STAT	IGI	UniProtKB:P01580		PANTHER:PTHR45807	20201016	CL:0000129|GO:0032760|CL:0000129|GO:0045348|CL:0000129|GO:0032731|CL:0000129|GO:0051770	NCBITaxon:10090
+ARUK-UCL	MGI:MGI:107656	Ifng	PMID:26227742		GO:0007259	cell surface receptor signaling pathway via JAK-STAT	IGI	UniProtKB:Q62120		PANTHER:PTHR11419	20201016	CL:0000129|GO:0032760|CL:0000129|GO:0045348|CL:0000129|GO:0032731|CL:0000129|GO:0051770	NCBITaxon:10090
+ARUK-UCL	MGI:MGI:1924375	Il33	PMID:26936882		GO:0010628	positive regulation of gene expression	IDA			PANTHER:PTHR21114	20200319	UniProtKB:P29477|GO:0051770|CL:0002476	NCBITaxon:10090
