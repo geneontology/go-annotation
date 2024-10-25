@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ComplexPortal	SGD:S000217624	CPX-422	PMID:23499004		GO:0090618	DNA clamp unloading	IDA				20160622		NCBITaxon:559292
+SGD	SGD:S000005670	ELG1	PMID:23499004		GO:0090618	DNA clamp unloading	IMP		UniProtKB:Q12050	PANTHER:PTHR23389	20141110	GO:0006260	NCBITaxon:559292
+SGD	SGD:S000005670	ELG1	PMID:29440488		GO:0090618	DNA clamp unloading	IMP		UniProtKB:Q12050	PANTHER:PTHR23389	20180619	GO:0031507|GO:0051320	NCBITaxon:559292
