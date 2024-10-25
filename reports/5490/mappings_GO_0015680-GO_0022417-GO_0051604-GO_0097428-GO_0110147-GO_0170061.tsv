@@ -1,0 +1,13 @@
+term	file	line
+GO:0051604	interpro2go	InterPro:IPR000688 Hydrogenase maturation factor HypA/HybF > GO:protein maturation ; GO:0051604
+GO:0051604	interpro2go	InterPro:IPR004392 Hydrogenase maturation factor HypB > GO:protein maturation ; GO:0051604
+GO:0051604	interpro2go	InterPro:IPR009613 Lipase maturation factor > GO:protein maturation ; GO:0051604
+GO:0051604	interpro2go	InterPro:IPR017726 Fe/S biogenesis protein NfuA > GO:protein maturation ; GO:0051604
+GO:0051604	interpro2go	InterPro:IPR039002 Hydrogenase maturation factor HybF > GO:protein maturation ; GO:0051604
+GO:0051604	unirule2go	UniRule:UR000028575 > GO:protein maturation ; GO:0051604
+GO:0051604	unirule2go	UniRule:UR000081067 > GO:protein maturation ; GO:0051604
+GO:0051604	hamap2go	HAMAP:MF_01074 > GO:protein maturation ; GO:0051604
+GO:0051604	hamap2go	HAMAP:MF_01637 > GO:protein maturation ; GO:0051604
+GO:0097428	interpro2go	InterPro:IPR039920 DNA repair/transcription protein MET18/MMS19 > GO:protein maturation by iron-sulfur cluster transfer ; GO:0097428
+GO:0097428	interpro2go	InterPro:IPR045115 BolA-like protein 2 > GO:protein maturation by iron-sulfur cluster transfer ; GO:0097428
+GO:0097428	unirule2go	UniRule:UR001378764 > GO:protein maturation by iron-sulfur cluster transfer ; GO:0097428
