@@ -1,0 +1,8 @@
+term	file	line
+GO:0001932	interpro2go	InterPro:IPR012198 cAMP-dependent protein kinase regulatory subunit > GO:regulation of protein phosphorylation ; GO:0001932
+GO:0001933	interpro2go	InterPro:IPR030604 Kelch-like protein 31, BTB/POZ domain > GO:negative regulation of protein phosphorylation ; GO:0001933
+GO:0001934	interpro2go	InterPro:IPR020415 Interleukin-34 > GO:positive regulation of protein phosphorylation ; GO:0001934
+GO:0010801	unirule2go	UniRule:UR000613387 > GO:negative regulation of peptidyl-threonine phosphorylation ; GO:0010801
+GO:0010801	hamap2go	HAMAP:MF_04079 > GO:negative regulation of peptidyl-threonine phosphorylation ; GO:0010801
+GO:0031954	unirule2go	UniRule:UR001376774 > GO:positive regulation of protein autophosphorylation ; GO:0031954
+GO:1900723	interpro2go	InterPro:IPR033788 Antitoxin VbhA-like > GO:negative regulation of protein adenylylation ; GO:1900723
