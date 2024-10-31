@@ -1,0 +1,55 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	UniProtKB:Q9NPP4	NLRC4	PMID:15882992		GO:0097202	activation of cysteine-type endopeptidase activity	IGI	UniProtKB:P10749|UniProtKB:P29466	UniProtKB:Q9NPP4	PANTHER:PTHR47688	20200319	GO:0032731|UniProtKB:P29466|GO:0010954	NCBITaxon:9606
+ARUK-UCL	ComplexPortal:CPX-1134	abeta-42-oligomer_human	PMID:23386614		GO:0097202	activation of cysteine-type endopeptidase activity	TAS				20170626		NCBITaxon:9606
+ARUK-UCL	UniProtKB:Q99538	LGMN	PMID:9821970		GO:0097202	activation of cysteine-type endopeptidase activity	IDA		UniProtKB:Q99538	PANTHER:PTHR12000	20180307	UniProtKB:Q99538	NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9BXI6	TBC1D10A	PMID:18387192		GO:0097202	activation of cysteine-type endopeptidase activity	IDA		UniProtKB:Q9BXI6	PANTHER:PTHR22957	20130219		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q16611	BAK1	PMID:18387192		GO:0097202	activation of cysteine-type endopeptidase activity	IDA		UniProtKB:Q16611	PANTHER:PTHR11256	20130219		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q13158	FADD	PMID:18387192		GO:0097202	activation of cysteine-type endopeptidase activity	IDA		UniProtKB:Q13158	PANTHER:PTHR15077	20130219		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q96F07	CYFIP2	PMID:18387192		GO:0097202	activation of cysteine-type endopeptidase activity	IDA		UniProtKB:Q96F07	PANTHER:PTHR12195	20130219		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q92934	BAD	PMID:18387192		GO:0097202	activation of cysteine-type endopeptidase activity	IDA		UniProtKB:Q92934	PANTHER:PTHR28540	20130219		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q12797	ASPH	PMID:18387192		GO:0097202	activation of cysteine-type endopeptidase activity	IDA		UniProtKB:Q12797	PANTHER:PTHR12366	20130219		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q96FX8	PERP	PMID:18387192		GO:0097202	activation of cysteine-type endopeptidase activity	IDA		UniProtKB:Q96FX8	PANTHER:PTHR14399	20130219		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q14790	CASP8	PMID:18387192		GO:0097202	activation of cysteine-type endopeptidase activity	IDA		UniProtKB:Q14790	PANTHER:PTHR10454	20130219		NCBITaxon:9606
+CACAO	UniProtKB:Q9NPP4	NLRC4	PMID:15882992		GO:0097202	activation of cysteine-type endopeptidase activity	IMP		UniProtKB:Q9NPP4	PANTHER:PTHR47688	20160324		NCBITaxon:9606
+CACAO	MGI:MGI:1931465	Pycard	PMID:23302887		GO:0097202	activation of cysteine-type endopeptidase activity	IMP			PANTHER:PTHR46985	20130311		NCBITaxon:10090
+MGI	MGI:MGI:2141990	Nlrp6	PMID:30248149		GO:0097202	activation of cysteine-type endopeptidase activity	IMP			PANTHER:PTHR45690	20210305	CL:0000235	NCBITaxon:10090
+RGD	RGD:69065	Pawr	PMID:10349840|RGD:9835366		GO:0097202	activation of cysteine-type endopeptidase activity	IMP			PANTHER:PTHR15093	20150319		NCBITaxon:10116
+UniProt	UniProtKB:O43353	RIPK2	PMID:11821383		GO:0097202	activation of cysteine-type endopeptidase activity	IDA		UniProtKB:O43353	PANTHER:PTHR44329	20170609		NCBITaxon:9606
+UniProt	UniProtKB:Q16666	IFI16	PMID:21575908		GO:0097202	activation of cysteine-type endopeptidase activity	IMP		UniProtKB:Q16666	PANTHER:PTHR12200	20120823		NCBITaxon:9606
+UniProt	WB:WBGene00000418	ced-4	PMID:24065769|WB_REF:WBPaper00044240		GO:0097202	activation of cysteine-type endopeptidase activity	IMP				20170407		NCBITaxon:6239
+UniProt	WB:WBGene00000819	csp-1	PMID:9857046|WB_REF:WBPaper00003342		GO:0097202	activation of cysteine-type endopeptidase activity	IMP			PANTHER:PTHR23362	20161214		NCBITaxon:6239
+UniProt	WB:WBGene00000417	ced-3	PMID:9857046|WB_REF:WBPaper00003342		GO:0097202	activation of cysteine-type endopeptidase activity	IMP			PANTHER:PTHR10454	20161214		NCBITaxon:6239
+CAFA	UniProtKB:P20810	CAST	PMID:2407243		GO:0097340	inhibition of cysteine-type endopeptidase activity	IMP		UniProtKB:P20810	PANTHER:PTHR10077	20160921		NCBITaxon:9606
+MGI	MGI:MGI:1298217	Cst7	PMID:28251676		GO:0097340	inhibition of cysteine-type endopeptidase activity	IMP	MGI:MGI:5910746		PANTHER:PTHR47141	20190207	CL:0000129	NCBITaxon:10090
+UniProt	UniProtKB:Q5EG05	CARD16	PMID:11432859		GO:0097340	inhibition of cysteine-type endopeptidase activity	IDA		UniProtKB:Q5EG05	PANTHER:PTHR47901	20170530		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y2G2	CARD8	PMID:11821383		GO:0097340	inhibition of cysteine-type endopeptidase activity	IDA		UniProtKB:Q9Y2G2	PANTHER:PTHR46985	20170609		NCBITaxon:9606
+UniProt	UniProtKB:P57730	CARD18	PMID:11821383		GO:0097340	inhibition of cysteine-type endopeptidase activity	IDA		UniProtKB:P57730		20170609		NCBITaxon:9606
+UniProt	UniProtKB:P98170	XIAP	PMID:11865055		GO:0097340	inhibition of cysteine-type endopeptidase activity	IDA		UniProtKB:P98170	PANTHER:PTHR10044	20210722	UniProtKB:P42574	NCBITaxon:9606
+UniProt	RGD:708558	Nol3	PMID:16639714|RGD:10047164		GO:0097340	inhibition of cysteine-type endopeptidase activity	IMP			PANTHER:PTHR22797	20150113		NCBITaxon:10116
+UniProt	UniProtKB:Q13490	BIRC2	PMID:20651737		GO:2000116	regulation of cysteine-type endopeptidase activity	TAS		UniProtKB:Q13490	PANTHER:PTHR10044	20120126		NCBITaxon:9606
+UniProt	UniProtKB:Q13489	BIRC3	PMID:20651737		GO:2000116	regulation of cysteine-type endopeptidase activity	TAS		UniProtKB:Q13489	PANTHER:PTHR10044	20120126		NCBITaxon:9606
+UniProt	UniProtKB:P28065	PSMB9	PMID:26524591		GO:2000116	regulation of cysteine-type endopeptidase activity	IMP		UniProtKB:P28065	PANTHER:PTHR11599	20160119		NCBITaxon:9606
+CAFA	UniProtKB:P05814	CSN2	PMID:12788072		GO:2000117	negative regulation of cysteine-type endopeptidase activity	IDA		UniProtKB:P05814	PANTHER:PTHR11500	20161206		NCBITaxon:9606
+CAFA	UniProtKB:P02788	LTF	PMID:12788072		GO:2000117	negative regulation of cysteine-type endopeptidase activity	IDA		UniProtKB:P02788	PANTHER:PTHR11485	20161206		NCBITaxon:9606
+CAFA	UniProtKB:P24627	LTF	PMID:12788072		GO:2000117	negative regulation of cysteine-type endopeptidase activity	IDA		UniProtKB:P24627	PANTHER:PTHR11485	20161206		NCBITaxon:9913
+CAFA	UniProtKB:P02666	CSN2	PMID:12788072		GO:2000117	negative regulation of cysteine-type endopeptidase activity	IDA		UniProtKB:P02666	PANTHER:PTHR11500	20161206		NCBITaxon:9913
+RGD	RGD:68337	Htt	PMID:17124493|RGD:6902918		GO:2000117	negative regulation of cysteine-type endopeptidase activity	IMP			PANTHER:PTHR10170	20120922		NCBITaxon:10116
+RGD	RGD:2062	Grk2	PMID:23690069|RGD:13792722		GO:2000117	negative regulation of cysteine-type endopeptidase activity	IMP			PANTHER:PTHR24355	20180924		NCBITaxon:10116
+UniProt	UniProtKB:B7PKZ2	IscW_ISCW018603	PMID:20545851		GO:2000117	negative regulation of cysteine-type endopeptidase activity	IDA			PANTHER:PTHR46186	20160302		NCBITaxon:6945
+UniProt	UniProtKB:B7PKZ1	IscW_ISCW018602	PMID:20545851		GO:2000117	negative regulation of cysteine-type endopeptidase activity	IDA			PANTHER:PTHR46186	20160302		NCBITaxon:6945
+UniProt	UniProtKB:Q5JVF3	PCID2	PMID:20870947		GO:2000117	negative regulation of cysteine-type endopeptidase activity	IMP		UniProtKB:Q5JVF3	PANTHER:PTHR12732	20101005		NCBITaxon:9606
+UniProt	UniProtKB:Q16666	IFI16	PMID:22046441		GO:2000117	negative regulation of cysteine-type endopeptidase activity	IDA		UniProtKB:Q16666	PANTHER:PTHR12200	20120823		NCBITaxon:9606
+ZFIN	ZFIN:ZDB-GENE-081104-340	cenph	PMID:20573960		GO:2000117	negative regulation of cysteine-type endopeptidase activity	IMP	ZFIN:ZDB-GENO-110421-5		PANTHER:PTHR48122	20110426		NCBITaxon:7955
+ARUK-UCL	UniProtKB:Q5TCY1	TTBK1	PMID:19118186		GO:2001056	positive regulation of cysteine-type endopeptidase activity	IMP		UniProtKB:Q5TCY1	PANTHER:PTHR11909	20191216	UniProtKB:P07384	NCBITaxon:9606
+CAFA	UniProtKB:P00004	CYCS	PMID:11112785		GO:2001056	positive regulation of cysteine-type endopeptidase activity	IDA			PANTHER:PTHR11961	20160810		NCBITaxon:9796
+MGI	MGI:MGI:2142824	Nek5	PMID:23727203		GO:2001056	positive regulation of cysteine-type endopeptidase activity	IMP			PANTHER:PTHR44899	20140102	MGI:MGI:107739	NCBITaxon:10090
+MGI	UniProtKB:Q70EL3	USP50	PMID:28094437		GO:2001056	positive regulation of cysteine-type endopeptidase activity	IMP		UniProtKB:Q70EL3	PANTHER:PTHR21646	20180802		NCBITaxon:9606
+MGI	MGI:MGI:1922333	Usp50	PMID:28094437		GO:2001056	positive regulation of cysteine-type endopeptidase activity	IMP			PANTHER:PTHR21646	20180802	CL:0002476	NCBITaxon:10090
+UniProt	MGI:MGI:2686159	Aim2	PMID:19131592		GO:2001056	positive regulation of cysteine-type endopeptidase activity	IMP			PANTHER:PTHR12200	20120817		NCBITaxon:10090
+UniProt	UniProtKB:Q9ULZ3	PYCARD	PMID:19158676		GO:2001056	positive regulation of cysteine-type endopeptidase activity	IDA		UniProtKB:Q9ULZ3	PANTHER:PTHR46985	20120817		NCBITaxon:9606
+UniProt	UniProtKB:O15553	MEFV	PMID:19158676		GO:2001056	positive regulation of cysteine-type endopeptidase activity	IDA		UniProtKB:O15553	PANTHER:PTHR24103	20150423		NCBITaxon:9606
+UniProt	UniProtKB:O14862	AIM2	PMID:19158676		GO:2001056	positive regulation of cysteine-type endopeptidase activity	IDA		UniProtKB:O14862	PANTHER:PTHR12200	20120817		NCBITaxon:9606
+UniProt	MGI:MGI:2686159	Aim2	PMID:19158676		GO:2001056	positive regulation of cysteine-type endopeptidase activity	IDA			PANTHER:PTHR12200	20120817		NCBITaxon:10090
+UniProt	UniProtKB:O14862	AIM2	PMID:19158679		GO:2001056	positive regulation of cysteine-type endopeptidase activity	IDA		UniProtKB:O14862	PANTHER:PTHR12200	20120817		NCBITaxon:9606
+UniProt	MGI:MGI:2181667	Bbc3	PMID:21159964		GO:2001056	positive regulation of cysteine-type endopeptidase activity	IMP			PANTHER:PTHR28639	20121008		NCBITaxon:10090
+UniProt	MGI:MGI:2181667	Bbc3	PMID:22761832		GO:2001056	positive regulation of cysteine-type endopeptidase activity	IMP			PANTHER:PTHR28639	20121004		NCBITaxon:10090
