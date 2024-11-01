@@ -1,0 +1,10 @@
+term	file	line
+GO:0030374	interpro2go	InterPro:IPR017426 Nuclear receptor coactivator > GO:nuclear receptor coactivator activity ; GO:0030374
+GO:0030374	interpro2go	InterPro:IPR028819 Nuclear receptor coactivator 1, basic helix-loop-helix > GO:nuclear receptor coactivator activity ; GO:0030374
+GO:0030374	interpro2go	InterPro:IPR028822 Nuclear receptor coactivator 2, basic helix-loop-helix > GO:nuclear receptor coactivator activity ; GO:0030374
+GO:0030374	interpro2go	InterPro:IPR040243 Steroid receptor RNA activator 1 > GO:nuclear receptor coactivator activity ; GO:0030374
+GO:0030374	interpro2go	InterPro:IPR042429 Swi5-dependent recombination DNA repair protein 1 homolog > GO:nuclear receptor coactivator activity ; GO:0030374
+GO:0030374	unirule2go	UniRule:UR000112776 > GO:nuclear receptor coactivator activity ; GO:0030374
+GO:0030374	unirule2go	UniRule:UR000161210 > GO:nuclear receptor coactivator activity ; GO:0030374
+GO:0030374	hamap2go	HAMAP:MF_03046 > GO:nuclear receptor coactivator activity ; GO:0030374
+GO:0030374	hamap2go	HAMAP:MF_03047 > GO:nuclear receptor coactivator activity ; GO:0030374
