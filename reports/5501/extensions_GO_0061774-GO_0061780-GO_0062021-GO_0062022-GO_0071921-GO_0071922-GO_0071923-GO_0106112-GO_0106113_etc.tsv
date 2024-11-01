@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPAC31A2.05c	mis4	PMID:24291789		GO:0003690	double-stranded DNA binding	IDA			PANTHER:PTHR21704	20160823	GO:0061780	NCBITaxon:4896
+PomBase	PomBase:SPAC31A2.05c	mis4	PMID:24291789		GO:0005515	protein binding	IPI	PomBase:SPAC17H9.20		PANTHER:PTHR21704	20160823	GO:0061780	NCBITaxon:4896
+PomBase	PomBase:SPAC1687.18c	ssl3	PMID:24291789		GO:0003690	double-stranded DNA binding	IDA			PANTHER:PTHR21394	20160823	GO:0061780	NCBITaxon:4896
+PomBase	PomBase:SPAC10F6.09c	psm3	PMID:26687354		GO:0003677	DNA binding	IMP		PR:000037033	PANTHER:PTHR43977	20160709	GO:0061780	NCBITaxon:4896
+PomBase	PomBase:SPCC16C4.11	pef1	PMID:31895039		GO:0004693	cyclin-dependent protein serine/threonine kinase activity	EXP			PANTHER:PTHR24056	20201016	PomBase:SPCC338.17c|GO:1905412	NCBITaxon:4896
