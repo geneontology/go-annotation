@@ -1,0 +1,14 @@
+term	file	line
+GO:0046537	metacyc2go	MetaCyc:3PGAREARR-RXN > GO:2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity ; GO:0046537
+GO:0046537	interpro2go	InterPro:IPR004456 2,3-bisphosphoglycerate-independent phosphoglycerate mutase > GO:2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity ; GO:0046537
+GO:0046537	interpro2go	InterPro:IPR023665 2,3-bisphosphoglycerate-independent phosphoglycerate mutase, prokaryotes > GO:2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity ; GO:0046537
+GO:0046537	ec2go	EC:5.4.2.12 > GO:2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity ; GO:0046537
+GO:0046537	unirule2go	UniRule:UR000009933 > GO:2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity ; GO:0046537
+GO:0046537	unirule2go	UniRule:UR000100531 > GO:2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity ; GO:0046537
+GO:0046537	hamap2go	HAMAP:MF_01038 > GO:2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity ; GO:0046537
+GO:0046537	hamap2go	HAMAP:MF_01402 > GO:2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity ; GO:0046537
+GO:0046538	kegg_reaction2go	KEGG_REACTION:R01516 > GO:2,3-bisphosphoglycerate-dependent phosphoglycerate mutase activity ; GO:0046538
+GO:0046538	metacyc2go	MetaCyc:RXN-15513 > GO:2,3-bisphosphoglycerate-dependent phosphoglycerate mutase activity ; GO:0046538
+GO:0046538	ec2go	EC:5.4.2.11 > GO:2,3-bisphosphoglycerate-dependent phosphoglycerate mutase activity ; GO:0046538
+GO:0046538	unirule2go	UniRule:UR000100537 > GO:2,3-bisphosphoglycerate-dependent phosphoglycerate mutase activity ; GO:0046538
+GO:0046538	hamap2go	HAMAP:MF_01039 > GO:2,3-bisphosphoglycerate-dependent phosphoglycerate mutase activity ; GO:0046538

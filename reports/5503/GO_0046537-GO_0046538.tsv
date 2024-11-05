@@ -1,0 +1,20 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P37689	gpmI	PMID:10437801		GO:0046537	2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity	IDA			PANTHER:PTHR31637	20110105		NCBITaxon:83333
+EcoCyc	UniProtKB:P37689	gpmI	PMID:4932978		GO:0046537	2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity	IDA			PANTHER:PTHR31637	20110105		NCBITaxon:83333
+GeneDB	TriTrypDB:Tb927.10.7930	PGAM	PMID:10691985		GO:0046537	2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity	TAS				20090407		NCBITaxon:185431
+GeneDB	UniProtKB:Q9NG18	PGAM	PMID:10691985		GO:0046537	2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity	TAS				20090407		NCBITaxon:5702
+TAIR	AGI_LocusCode:AT3G08590	iPGAM2	PMID:21813794|TAIR:Publication:501744924		GO:0046537	2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity	IGI	AGI_LocusCode:AT1G09780	TAIR:locus:2077793		20111017		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G09780	iPGAM1	PMID:21813794|TAIR:Publication:501744924		GO:0046537	2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity	IGI	AGI_LocusCode:At3g08590	TAIR:locus:2024357		20111017		NCBITaxon:3702
+UniProt	UniProtKB:Q9X519	gpmI	PMID:10388626		GO:0046537	2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity	IDA				20150515		NCBITaxon:1422
+UniProt	UniProtKB:Q9X519	gpmI	PMID:10747010		GO:0046537	2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity	IDA				20150515		NCBITaxon:1422
+UniProt	UniProtKB:Q81X77	gpmI	PMID:17085493		GO:0046537	2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity	IDA				20150515		NCBITaxon:1392
+UniProt	AGI_LocusCode:AT3G08590	iPGAM2	PMID:21813794|TAIR:Publication:501744924		GO:0046537	2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity	IGI	UniProtKB:O04499	TAIR:locus:2077793		20240419		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT1G09780	iPGAM1	PMID:21813794|TAIR:Publication:501744924		GO:0046537	2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity	IGI	UniProtKB:Q9M9K1	TAIR:locus:2024357		20240419		NCBITaxon:3702
+UniProt	UniProtKB:P39773	gpmI	PMID:9830105		GO:0046537	2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity	IDA			PANTHER:PTHR31637	20150515		NCBITaxon:224308
+WB	UniProtKB:Q4VWF8	ipgm-1	PMID:15234973		GO:0046537	2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity	IDA				20201019		NCBITaxon:6279
+WB	WB:WBGene00019001	ipgm-1	PMID:15234973|WB_REF:WBPaper00024424		GO:0046537	2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity	IDA			PANTHER:PTHR31637	20201019		NCBITaxon:6239
+EcoCyc	UniProtKB:P62707	gpmA	PMID:10437801		GO:0046538	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase activity	IDA			PANTHER:PTHR11931	20110105		NCBITaxon:83333
+PomBase	PomBase:SPAC26F1.06	gpm1	PMID:8765231		GO:0046538	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase activity	IMP			PANTHER:PTHR11931	20121128		NCBITaxon:4896
+RGD	RGD:3313	Pgam2	PMID:2850701|RGD:1598712		GO:0046538	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase activity	IDA			PANTHER:PTHR11931	20061214		NCBITaxon:10116
+UniProt	UniProtKB:P18669	PGAM1	PMID:23653202		GO:0046538	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase activity	IDA		UniProtKB:P18669	PANTHER:PTHR11931	20220114		NCBITaxon:9606
+UniProt	UniProtKB:G4VJD5	Smp_096760	PMID:36083036		GO:0046538	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase activity	IDA				20240112		NCBITaxon:6183
