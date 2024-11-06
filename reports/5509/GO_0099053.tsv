@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:Q9H1I8	ASCC2	PMID:12077347		GO:0099053	activating signal cointegrator 1 complex	IDA		UniProtKB:Q9H1I8	PANTHER:PTHR21494	20160822		NCBITaxon:9606
+UniProt	UniProtKB:Q8N3C0	ASCC3	PMID:12077347		GO:0099053	activating signal cointegrator 1 complex	IDA		UniProtKB:Q8N3C0	PANTHER:PTHR24075	20160822		NCBITaxon:9606
+UniProt	UniProtKB:Q15650	TRIP4	PMID:12077347		GO:0099053	activating signal cointegrator 1 complex	IDA		UniProtKB:Q15650	PANTHER:PTHR12963	20160822		NCBITaxon:9606
