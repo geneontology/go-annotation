@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	MGI:MGI:3522699	Trpa1	PMID:25605129		GO:0007166	cell surface receptor signaling pathway	IMP			PANTHER:PTHR24123	20150624	CHEBI:16731|GO:0014070	NCBITaxon:10090
