@@ -1,0 +1,16 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:P0C6U8	1a	PMID:24991833		GO:0039519	modulation by virus of host autophagy	IDA		UniProtKB:P0C6U8-PRO_0000338260		20200507		NCBITaxon:694009
+UniProt	UniProtKB:P03300	P03300	PMID:17804493		GO:0039520	induction by virus of host autophagy	IDA				20140307		NCBITaxon:12081
+UniProt	UniProtKB:Q66282	Q66282	PMID:20861268		GO:0039520	induction by virus of host autophagy	IDA				20140307		NCBITaxon:103904
+UniProt	UniProtKB:Q1KNJ5	Q1KNJ5	PMID:21460631		GO:0039520	induction by virus of host autophagy	IDA				20140307		NCBITaxon:12104
+UniProt	UniProtKB:P04936	P04936	PMID:21752910		GO:0039520	induction by virus of host autophagy	IDA				20140307		NCBITaxon:12130
+UniProt	UniProtKB:P03305	P03305	PMID:22993157		GO:0039520	induction by virus of host autophagy	IDA				20140307		NCBITaxon:12118
+UniProt	UniProtKB:P29991	P29991	PMID:29902443		GO:0039520	induction by virus of host autophagy	IDA		UniProtKB:P29991-PRO_0000037944		20200529		NCBITaxon:31635
+UniProt	UniProtKB:P03304	P03304	PMID:31849860		GO:0039520	induction by virus of host autophagy	IDA				20200218		NCBITaxon:12104
+DisProt	UniProtKB:Q14457	BECN1	PMID:18797192		GO:0039521	suppression by virus of host autophagy	IDA		UniProtKB:Q14457	PANTHER:PTHR12768	20220228		NCBITaxon:9606
+UniProt	UniProtKB:P04487	US11	PMID:23115300		GO:0039521	suppression by virus of host autophagy	IDA				20150824		NCBITaxon:10299
+UniProt	UniProtKB:Q80874	Q80874	PMID:29848767		GO:0039521	suppression by virus of host autophagy	IDA				20210429		NCBITaxon:12327
+UniProt	UniProtKB:Q98325	MC159L	PMID:30842330		GO:0039521	suppression by virus of host autophagy	IDA				20190325		NCBITaxon:10280
+UniProt	UniProtKB:P08668	GP	PMID:31091447		GO:0039521	suppression by virus of host autophagy	IDA				20211216		NCBITaxon:11602
+UniProt	UniProtKB:P04487	US11	PMID:31189704		GO:0039521	suppression by virus of host autophagy	IDA				20220928		NCBITaxon:10299
+UniProt	UniProtKB:P04487	US11	PMID:35853963		GO:0039521	suppression by virus of host autophagy	IDA				20220928		NCBITaxon:10299

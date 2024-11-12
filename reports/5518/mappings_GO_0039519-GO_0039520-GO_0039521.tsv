@@ -1,0 +1,7 @@
+term	file	line
+GO:0039520	uniprotkb_kw2go	UniProtKB-KW:KW-1072 Activation of host autophagy by virus > GO:induction by virus of host autophagy ; GO:0039520
+GO:0039521	uniprotkb_kw2go	UniProtKB-KW:KW-1083 Inhibition of host autophagy by virus > GO:suppression by virus of host autophagy ; GO:0039521
+GO:0039521	unirule2go	UniRule:UR000568405 > GO:suppression by virus of host autophagy ; GO:0039521
+GO:0039521	unirule2go	UniRule:UR000584962 > GO:suppression by virus of host autophagy ; GO:0039521
+GO:0039521	hamap2go	HAMAP:MF_04069 > GO:suppression by virus of host autophagy ; GO:0039521
+GO:0039521	hamap2go	HAMAP:MF_04078 > GO:suppression by virus of host autophagy ; GO:0039521
