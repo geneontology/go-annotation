@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	UniProtKB:P27958	P27958	PMID:24390321		GO:0019054	modulation by virus of host cellular process	IDA				20181002		NCBITaxon:63746
