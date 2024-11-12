@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:P07396	OPG062	PMID:30078703		GO:0140313	molecular sequestering activity	IDA				20220705	GO:0039501|GO:0030430|UniProtKB:Q6R327|UniProtKB:Q8N122|GO:0043539	NCBITaxon:10254
+UniProt	UniProtKB:P03305	P03305	PMID:31445188		GO:0060090	molecular adaptor activity	IDA				20220810	GO:0039501|GO:0042025|UniProtKB:Q9NY93|GO:0140311	NCBITaxon:12118

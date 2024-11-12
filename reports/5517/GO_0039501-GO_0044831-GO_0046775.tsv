@@ -1,0 +1,25 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AgBase	UniProtKB:P19712	P19712	PMID:25809915		GO:0039501	suppression by virus of host type I interferon production	IDA		UniProtKB:P19712-PRO_0000038050		20160922		NCBITaxon:358805
+CACAO	UniProtKB:P16494	N	PMID:11209062		GO:0039501	suppression by virus of host type I interferon production	IMP				20140401		NCBITaxon:35304
+CACAO	UniProtKB:S5TDC0	M	PMID:12663771		GO:0039501	suppression by virus of host type I interferon production	IMP				20140406		NCBITaxon:11280
+CACAO	UniProtKB:P16494	N	PMID:15150262		GO:0039501	suppression by virus of host type I interferon production	IDA				20140405		NCBITaxon:35304
+CACAO	UniProtKB:P21698	NSS	PMID:15331713		GO:0039501	suppression by virus of host type I interferon production	IMP				20140405		NCBITaxon:11589
+CACAO	UniProtKB:P21698	NSS	PMID:16501102		GO:0039501	suppression by virus of host type I interferon production	IMP				20140402		NCBITaxon:11589
+CACAO	UniProtKB:Q05127	VP35	PMID:16698997		GO:0039501	suppression by virus of host type I interferon production	IMP				20130312		NCBITaxon:128952
+CACAO	UniProtKB:Q66579	Q66579	PMID:17267491		GO:0039501	suppression by virus of host type I interferon production	IDA				20140405		NCBITaxon:11021
+UniProt	UniProtKB:P0C6X7	rep	PMID:18305050		GO:0039501	suppression by virus of host type I interferon production	IDA		UniProtKB:P0C6X7-PRO_0000037309		20200505		NCBITaxon:694009
+UniProt	UniProtKB:P17362	OPG029	PMID:21931555		GO:0039501	suppression by virus of host type I interferon production	IDA				20220701		NCBITaxon:10254
+UniProt	UniProtKB:K9N4V0	ORF4a	PMID:24318862		GO:0039501	suppression by virus of host type I interferon production	IDA				20160203		NCBITaxon:1263720
+UniProt	UniProtKB:K9N7D2	ORF5	PMID:24318862		GO:0039501	suppression by virus of host type I interferon production	IDA				20160203		NCBITaxon:1263720
+UniProt	UniProtKB:K9N7A1	M	PMID:24318862		GO:0039501	suppression by virus of host type I interferon production	IDA				20160203		NCBITaxon:1263720
+UniProt	UniProtKB:K9N643	ORF4b	PMID:24318862		GO:0039501	suppression by virus of host type I interferon production	IDA				20160203		NCBITaxon:1263720
+UniProt	UniProtKB:A3EXD3	ORF4b	PMID:24443473		GO:0039501	suppression by virus of host type I interferon production	IDA				20160129		NCBITaxon:694008
+UniProt	UniProtKB:A3EX97	ORF4b	PMID:24443473		GO:0039501	suppression by virus of host type I interferon production	IDA				20160129		NCBITaxon:694007
+UniProt	UniProtKB:K9N643	ORF4b	PMID:24443473		GO:0039501	suppression by virus of host type I interferon production	IDA				20160129		NCBITaxon:1263720
+UniProt	UniProtKB:P21605	OPG065	PMID:25740987		GO:0039501	suppression by virus of host type I interferon production	IDA				20170216		NCBITaxon:10254
+UniProt	UniProtKB:Q997F2	P/V/C	PMID:29769705		GO:0039501	suppression by virus of host type I interferon production	IDA				20180531		NCBITaxon:3052225
+UniProt	UniProtKB:P07396	OPG062	PMID:30078703		GO:0039501	suppression by virus of host type I interferon production	IDA				20220705		NCBITaxon:10254
+UniProt	UniProtKB:P03305	P03305	PMID:31445188		GO:0039501	suppression by virus of host type I interferon production	IDA				20220810		NCBITaxon:12118
+UniProt	UniProtKB:P08393	ICP0	PMID:34759314		GO:0039501	suppression by virus of host type I interferon production	IDA				20220927		NCBITaxon:10299
+CACAO	UniProtKB:Q05127	VP35	PMID:19828757		GO:0046775	suppression by virus of host cytokine production	IDA				20111022		NCBITaxon:128952
+CACAO	UniProtKB:A5VK67	Lreu_0980	PMID:24123819		GO:0046775	suppression by virus of host cytokine production	IMP				20140323		NCBITaxon:557436
