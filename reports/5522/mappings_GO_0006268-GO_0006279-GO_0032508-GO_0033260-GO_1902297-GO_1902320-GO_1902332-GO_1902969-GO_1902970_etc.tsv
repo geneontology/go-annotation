@@ -1,0 +1,27 @@
+term	file	line
+GO:0006268	interpro2go	InterPro:IPR003176 Adenovirus DNA-binding, all-alpha domain > GO:DNA unwinding involved in DNA replication ; GO:0006268
+GO:0006268	interpro2go	InterPro:IPR005751 ATP-dependent DNA helicase PcrA > GO:DNA unwinding involved in DNA replication ; GO:0006268
+GO:0006268	interpro2go	InterPro:IPR005752 ATP-dependent DNA helicase Rep > GO:DNA unwinding involved in DNA replication ; GO:0006268
+GO:0006268	interpro2go	InterPro:IPR005753 DNA helicase, ATP-dependent, UvrD type > GO:DNA unwinding involved in DNA replication ; GO:0006268
+GO:0006268	interpro2go	InterPro:IPR037540 DNA-binding protein, Adenovirus > GO:DNA unwinding involved in DNA replication ; GO:0006268
+GO:0006268	unirule2go	UniRule:UR000036432 > GO:DNA unwinding involved in DNA replication ; GO:0006268
+GO:0006268	unirule2go	UniRule:UR000100683 > GO:DNA unwinding involved in DNA replication ; GO:0006268
+GO:0006268	unirule2go	UniRule:UR000102766 > GO:DNA unwinding involved in DNA replication ; GO:0006268
+GO:0006268	unirule2go	UniRule:UR000161582 > GO:DNA unwinding involved in DNA replication ; GO:0006268
+GO:0006268	unirule2go	UniRule:UR000165711 > GO:DNA unwinding involved in DNA replication ; GO:0006268
+GO:0006268	hamap2go	HAMAP:MF_00132 > GO:DNA unwinding involved in DNA replication ; GO:0006268
+GO:0006268	hamap2go	HAMAP:MF_00322 > GO:DNA unwinding involved in DNA replication ; GO:0006268
+GO:0006268	hamap2go	HAMAP:MF_00983 > GO:DNA unwinding involved in DNA replication ; GO:0006268
+GO:0006268	hamap2go	HAMAP:MF_01125 > GO:DNA unwinding involved in DNA replication ; GO:0006268
+GO:0006268	hamap2go	HAMAP:MF_01920 > GO:DNA unwinding involved in DNA replication ; GO:0006268
+GO:0032508	interpro2go	InterPro:IPR001208 MCM domain > GO:DNA duplex unwinding ; GO:0032508
+GO:0032508	interpro2go	InterPro:IPR005259 Primosomal protein N' > GO:DNA duplex unwinding ; GO:0032508
+GO:0032508	interpro2go	InterPro:IPR006345 ATP-dependent RecD2 DNA helicase > GO:DNA duplex unwinding ; GO:0032508
+GO:0032508	interpro2go	InterPro:IPR031327 Mini-chromosome maintenance protein > GO:DNA duplex unwinding ; GO:0032508
+GO:0032508	interpro2go	InterPro:IPR046393 Bacteriophage T4 DnaB-like replicative helicase > GO:DNA duplex unwinding ; GO:0032508
+GO:0032508	unirule2go	UniRule:UR000523870 > GO:DNA duplex unwinding ; GO:0032508
+GO:0032508	unirule2go	UniRule:UR001528770 > GO:DNA duplex unwinding ; GO:0032508
+GO:0032508	unirule2go	UniRule:UR001528773 > GO:DNA duplex unwinding ; GO:0032508
+GO:0032508	hamap2go	HAMAP:MF_04054 > GO:DNA duplex unwinding ; GO:0032508
+GO:0033260	interpro2go	InterPro:IPR047949 Dual specificity protein phosphatase PPS1, dual specificity phosphatase domain > GO:nuclear DNA replication ; GO:0033260
+GO:1905775	interpro2go	InterPro:IPR008045 DNA replication licensing factor Mcm2 > GO:negative regulation of DNA helicase activity ; GO:1905775

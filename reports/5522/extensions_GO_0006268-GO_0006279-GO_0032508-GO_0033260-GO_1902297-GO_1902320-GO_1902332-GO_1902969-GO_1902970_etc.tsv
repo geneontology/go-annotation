@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:P54132	BLM	PMID:11735402		GO:0000405	bubble DNA binding	IDA		UniProtKB:P54132	PANTHER:PTHR13710	20170209	GO:0032508	NCBITaxon:9606
+BHF-UCL	UniProtKB:Q14191	WRN	PMID:26420422		GO:0000403	Y-form DNA binding	IDA		UniProtKB:Q14191	PANTHER:PTHR13710	20220727	GO:0061820|GO:0032508|GO:0000781	NCBITaxon:9606
+BHF-UCL	UniProtKB:Q14191	WRN	PMID:26420422		GO:0070337	3'-flap-structured DNA binding	IDA		UniProtKB:Q14191	PANTHER:PTHR13710	20220727	GO:0061820|GO:0032508|GO:0000781	NCBITaxon:9606
+BHF-UCL	UniProtKB:Q14191	WRN	PMID:26420422		GO:0098530	positive regulation of strand invasion	IDA		UniProtKB:Q14191	PANTHER:PTHR13710	20220727	GO:0061820|GO:0032508|GO:0000781	NCBITaxon:9606
