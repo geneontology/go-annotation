@@ -1,0 +1,5 @@
+term	file	line
+GO:0009695	metacyc2go	MetaCyc:PWY-735 > GO:jasmonic acid biosynthetic process ; GO:0009695
+GO:0009695	interpro2go	InterPro:IPR034871 Allene oxide cyclase superfamily > GO:jasmonic acid biosynthetic process ; GO:0009695
+GO:2000022	interpro2go	InterPro:IPR044292 Regulatory protein NPR > GO:regulation of jasmonic acid mediated signaling pathway ; GO:2000022
+GO:2000022	unirule2go	UniRule:UR001683767 > GO:regulation of jasmonic acid mediated signaling pathway ; GO:2000022
