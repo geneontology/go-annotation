@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:P31749	AKT1	PMID:14749367		GO:0004674	protein serine/threonine kinase activity	IDA		UniProtKB:P31749	PANTHER:PTHR24356	20220705	GO:0019049	NCBITaxon:9606
+UniProt	UniProtKB:P0DTC8	8	PMID:33723527		GO:0005125	cytokine activity	IDA				20220524	GO:0019049|GO:0005615|GO:0030368	NCBITaxon:2697049

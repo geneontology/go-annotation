@@ -1,0 +1,17 @@
+term	file	line
+GO:0019049	uniprotkb_kw2go	UniProtKB-KW:KW-1125 Evasion of host immunity by viral interleukin-like protein > GO:virus-mediated perturbation of host defense response ; GO:0019049
+GO:0019049	uniprotkb_kw2go	UniProtKB-KW:KW-0922 Interferon antiviral system evasion > GO:virus-mediated perturbation of host defense response ; GO:0019049
+GO:0019049	uniprotkb_kw2go	UniProtKB-KW:KW-0899 Viral immunoevasion > GO:virus-mediated perturbation of host defense response ; GO:0019049
+GO:0019049	interpro2go	InterPro:IPR002532 Hantavirus glycoprotein Gc, N-terminal domain > GO:virus-mediated perturbation of host defense response ; GO:0019049
+GO:0019049	interpro2go	InterPro:IPR002534 Hantavirus glycoprotein Gn, head > GO:virus-mediated perturbation of host defense response ; GO:0019049
+GO:0019049	interpro2go	InterPro:IPR002608 Paramyxovirus non-structural protein C > GO:virus-mediated perturbation of host defense response ; GO:0019049
+GO:0019049	interpro2go	InterPro:IPR004985 Adenovirus E3-15 > GO:virus-mediated perturbation of host defense response ; GO:0019049
+GO:0019049	interpro2go	InterPro:IPR006965 Adenovirus Gp19K > GO:virus-mediated perturbation of host defense response ; GO:0019049
+GO:0019049	interpro2go	InterPro:IPR008026 Herpesvirus ICP47 > GO:virus-mediated perturbation of host defense response ; GO:0019049
+GO:0019049	interpro2go	InterPro:IPR009174 Orthopoxvirus, Protein K7 > GO:virus-mediated perturbation of host defense response ; GO:0019049
+GO:0019049	interpro2go	InterPro:IPR009353 Orthopoxvirus, Protein N1 > GO:virus-mediated perturbation of host defense response ; GO:0019049
+GO:0019049	interpro2go	InterPro:IPR011172 Poxvirus, TNF-alpha receptor-II > GO:virus-mediated perturbation of host defense response ; GO:0019049
+GO:0019049	interpro2go	InterPro:IPR012536 Cytomegalovirus US glycoprotein > GO:virus-mediated perturbation of host defense response ; GO:0019049
+GO:0019049	unirule2go	UniRule:UR000613575 > GO:virus-mediated perturbation of host defense response ; GO:0019049
+GO:0019049	unirule2go	UniRule:UR001503762 > GO:virus-mediated perturbation of host defense response ; GO:0019049
+GO:0019049	hamap2go	HAMAP:MF_04083 > GO:virus-mediated perturbation of host defense response ; GO:0019049

@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	UniProtKB:Q2V8W4	Q2V8W4	PMID:17804495		GO:0019049	virus-mediated perturbation of host defense response	IMP				20130519		NCBITaxon:223997
+UniProt	UniProtKB:P31749	AKT1	PMID:14749367		GO:0019049	virus-mediated perturbation of host defense response	IDA		UniProtKB:P31749	PANTHER:PTHR24356	20220705		NCBITaxon:9606
+UniProt	UniProtKB:P0DTC8	8	PMID:33723527		GO:0019049	virus-mediated perturbation of host defense response	IDA				20220524		NCBITaxon:2697049
