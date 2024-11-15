@@ -1,0 +1,8 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:Q83887	GP	PMID:16973572		GO:0039527	symbiont-mediated suppression of host TRAF-mediated signal transduction	IDA				20211216		NCBITaxon:44755
+UniProt	UniProtKB:Q9E006	GP	PMID:16973572		GO:0039527	symbiont-mediated suppression of host TRAF-mediated signal transduction	IDA				20211216		NCBITaxon:1980456
+UniProt	UniProtKB:Q83887	GP	PMID:18614628		GO:0039527	symbiont-mediated suppression of host TRAF-mediated signal transduction	IDA				20211216		NCBITaxon:44755
+UniProt	UniProtKB:Q83887	GP	PMID:24390324		GO:0039527	symbiont-mediated suppression of host TRAF-mediated signal transduction	IDA				20211216		NCBITaxon:44755
+UniProt	UniProtKB:P0C6X7	rep	PMID:27164085		GO:0039527	symbiont-mediated suppression of host TRAF-mediated signal transduction	IDA		UniProtKB:P0C6X7-PRO_0000037311		20200506		NCBITaxon:694009
+UniProt	UniProtKB:P0C6U8	1a	PMID:27164085		GO:0039527	symbiont-mediated suppression of host TRAF-mediated signal transduction	IDA		UniProtKB:P0C6U8-PRO_0000338257		20200506		NCBITaxon:694009
+UniProt	UniProtKB:P19712	P19712	PMID:28751780		GO:0039527	symbiont-mediated suppression of host TRAF-mediated signal transduction	IDA		UniProtKB:P19712-PRO_0000038057		20180412		NCBITaxon:358805
