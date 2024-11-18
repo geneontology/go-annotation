@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	UniProtKB:P06927	E5	PMID:20686024		GO:0019048	modulation by virus of host process	IDA				20131013		NCBITaxon:333760
+UniProt	UniProtKB:Q85439	Q85439	PMID:17174956		GO:0019048	modulation by virus of host process	IPI	UniProtKB:Q10CE4			20101110		NCBITaxon:142804
+UniProt	UniProtKB:P18247	P18247	PMID:22242134		GO:0019048	modulation by virus of host process	IDA		UniProtKB:P18247-PRO_0000040413		20210526		NCBITaxon:12219
+UniProt	UniProtKB:Q01500	Q01500	PMID:22242134		GO:0019048	modulation by virus of host process	IDA		UniProtKB:Q01500-PRO_0000040301		20210526		NCBITaxon:31737
+UniProt	UniProtKB:P04517	P04517	PMID:22242134		GO:0019048	modulation by virus of host process	IDA		UniProtKB:P04517-PRO_0000040456		20210526		NCBITaxon:12227
+CACAO	UniProtKB:P27958	P27958	PMID:24390321		GO:0019054	modulation by virus of host cellular process	IDA				20181002		NCBITaxon:63746

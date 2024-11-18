@@ -1,0 +1,10 @@
+term	file	line
+GO:0019048	interpro2go	InterPro:IPR002511 Geminivirus V2 protein > GO:modulation by virus of host process ; GO:0019048
+GO:0019048	interpro2go	InterPro:IPR003478 Outer capsid sigma 1s > GO:modulation by virus of host process ; GO:0019048
+GO:0019048	interpro2go	InterPro:IPR003515 Major spike protein G > GO:modulation by virus of host process ; GO:0019048
+GO:0019048	interpro2go	InterPro:IPR004078 Interleukin-1 binding protein > GO:modulation by virus of host process ; GO:0019048
+GO:0019048	interpro2go	InterPro:IPR004955 Baculovirus Gp64, envelope glycoprotein > GO:modulation by virus of host process ; GO:0019048
+GO:0019048	interpro2go	InterPro:IPR005167 Bunyavirus glycoprotein G1 > GO:modulation by virus of host process ; GO:0019048
+GO:0019048	interpro2go	InterPro:IPR014410 Adenovirus early E1A protein > GO:modulation by virus of host process ; GO:0019048
+GO:0019048	unirule2go	UniRule:UR000189783 > GO:modulation by virus of host process ; GO:0019048
+GO:0019054	interpro2go	InterPro:IPR007605 Microvirus lysis protein (E) > GO:modulation by virus of host cellular process ; GO:0019054
