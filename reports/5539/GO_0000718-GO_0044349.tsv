@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:Q2EES9	torI	PMID:16079126		GO:0044349	DNA excision	IMP				20120709		NCBITaxon:83333
