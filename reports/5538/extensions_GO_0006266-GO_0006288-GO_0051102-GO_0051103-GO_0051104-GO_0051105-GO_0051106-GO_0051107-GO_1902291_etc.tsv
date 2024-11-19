@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+SGD	SGD:S000004255	NEJ1	PMID:21149442		GO:0045027	DNA end binding	IDA		UniProtKB:Q06148	PANTHER:PTHR32235	20210824	GO:1904877|GO:0006303|GO:0035861	NCBITaxon:559292
