@@ -1,0 +1,12 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:B7UI21	nleB1	PMID:23955153		GO:0106362	protein-arginine N-acetylglucosaminyltransferase activity	IDA				20210218	GO:0034053|UniProtKB:Q15628	NCBITaxon:574521
+UniProt	UniProtKB:A0A482PDI9	nleB	PMID:23955153		GO:0106362	protein-arginine N-acetylglucosaminyltransferase activity	IDA				20210217	UniProtKB:Q15628|GO:0034053	NCBITaxon:67825
+UniProt	UniProtKB:B7UI21	nleB1	PMID:24025841		GO:0106362	protein-arginine N-acetylglucosaminyltransferase activity	IDA				20210218	UniProtKB:Q13158|GO:0034053|GO:0071550	NCBITaxon:574521
+UniProt	UniProtKB:Q8XBX8	nleB1	PMID:28522607		GO:0106362	protein-arginine N-acetylglucosaminyltransferase activity	IDA				20210303	UniProtKB:P04406|UniProtKB:Q13158|GO:0034053	NCBITaxon:83334
+UniProt	UniProtKB:B7UI21	nleB1	PMID:28522607		GO:0106362	protein-arginine N-acetylglucosaminyltransferase activity	IDA				20210218	GO:0034053|UniProtKB:Q13158	NCBITaxon:574521
+UniProt	UniProtKB:Q9L9J3	sseK1	PMID:28522607		GO:0106362	protein-arginine N-acetylglucosaminyltransferase activity	IDA				20210303	UniProtKB:P04406|GO:0034053	NCBITaxon:99287
+UniProt	UniProtKB:A0A0H3NK84	sseK1	PMID:30902834		GO:0106362	protein-arginine N-acetylglucosaminyltransferase activity	IDA				20210303	UniProtKB:Q15628|UniProtKB:Q3U0V2|GO:0034053	NCBITaxon:216597
+UniProt	UniProtKB:P0DUJ7	sseK3	PMID:30902834		GO:0106362	protein-arginine N-acetylglucosaminyltransferase activity	IDA				20210303	GO:0034053|UniProtKB:O14763|UniProtKB:P25118|UniProtKB:Q9QZM4	NCBITaxon:216597
+UniProt	UniProtKB:B7UI21	nleB1	PMID:30979585		GO:0106362	protein-arginine N-acetylglucosaminyltransferase activity	IDA				20210218	UniProtKB:Q13158|UniProtKB:Q93038|UniProtKB:P19438|UniProtKB:P25445|UniProtKB:Q15628|UniProtKB:Q13546|GO:0034053	NCBITaxon:574521
+UniProt	UniProtKB:A0A0H3NK84	sseK1	PMID:32766249		GO:0106362	protein-arginine N-acetylglucosaminyltransferase activity	IDA				20210303	UniProtKB:P19438|UniProtKB:Q15628|GO:0034053|GO:0085034	NCBITaxon:216597
+UniProt	UniProtKB:P0DUJ7	sseK3	PMID:32766249		GO:0106362	protein-arginine N-acetylglucosaminyltransferase activity	IDA				20210303	UniProtKB:P19438|UniProtKB:Q15628|GO:0085034|GO:0034053	NCBITaxon:216597

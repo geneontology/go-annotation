@@ -1,0 +1,9 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:P14727	avrBs3	PMID:12366827		GO:0034053	symbiont-mediated perturbation of host defense-related programmed cell death	IDA				20140808		NCBITaxon:456327
+UniProt	UniProtKB:A0A482PDI9	nleB	PMID:24025841		GO:0034053	symbiont-mediated perturbation of host defense-related programmed cell death	IDA				20210217		NCBITaxon:67825
+UniProt	UniProtKB:P0DUJ7	sseK3	PMID:28522607		GO:0034053	symbiont-mediated perturbation of host defense-related programmed cell death	IDA				20210303		NCBITaxon:216597
+UniProt	UniProtKB:A0A482PDI9	nleB	PMID:28522607		GO:0034053	symbiont-mediated perturbation of host defense-related programmed cell death	IDA				20210217		NCBITaxon:67825
+UniProt	UniProtKB:Q9RBS0	popA	PMID:8313899		GO:0034053	symbiont-mediated perturbation of host defense-related programmed cell death	IDA				20140807		NCBITaxon:267608
+Reactome	UniProtKB:P9WFK7	eis	Reactome:R-HSA-9636569		GO:0034054	symbiont-mediated suppression of host defense-related programmed cell death	TAS			PANTHER:PTHR37817	20230308		NCBITaxon:83332
+UniProt	UniProtKB:B7UI21	nleB1	PMID:22144899		GO:0034054	symbiont-mediated suppression of host defense-related programmed cell death	IDA				20210218		NCBITaxon:574521
+UniProt	UniProtKB:I6WXK4	ptpB	PMID:36227980		GO:0034054	symbiont-mediated suppression of host defense-related programmed cell death	IDA			PANTHER:PTHR31126	20221109		NCBITaxon:83332
