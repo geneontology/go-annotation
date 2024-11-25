@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:O60656	UGT1A9	PMID:20610558		GO:0004857	enzyme inhibitor activity	IDA		UniProtKB:O60656-2	PANTHER:PTHR48050	20240714	UniProtKB:Q9HAW9|GO:0045922|UniProtKB:Q9HAW9|GO:2001030	NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9HAW9	UGT1A8	PMID:20610558		GO:0004857	enzyme inhibitor activity	IDA		UniProtKB:Q9HAW9-2	PANTHER:PTHR48050	20240714	UniProtKB:Q9HAW7-1|GO:0045922|UniProtKB:Q9HAW7-1|GO:2001030	NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9HAW7	UGT1A7	PMID:20610558		GO:0004857	enzyme inhibitor activity	IDA		UniProtKB:Q9HAW7-2	PANTHER:PTHR48050	20240714	UniProtKB:Q9HAW9-1|GO:0045922|UniProtKB:Q9HAW9-1|GO:2001030	NCBITaxon:9606
+BHF-UCL	UniProtKB:Q02156	PRKCE	PMID:18556656		GO:0004699	diacylglycerol-dependent, calcium-independent serine/threonine kinase activity	IDA		UniProtKB:Q02156	PANTHER:PTHR24356	20240719	GO:2001031|GO:0009407	NCBITaxon:9606
