@@ -1,0 +1,191 @@
+term	file	line
+GO:0003707	interpro2go	InterPro:IPR000003 Retinoid X receptor/HNF4 > GO:nuclear steroid receptor activity ; GO:0003707
+GO:0003707	interpro2go	InterPro:IPR000128 Progesterone receptor > GO:nuclear steroid receptor activity ; GO:0003707
+GO:0003707	interpro2go	InterPro:IPR024178 Estrogen receptor/oestrogen-related receptor > GO:nuclear steroid receptor activity ; GO:0003707
+GO:0003707	interpro2go	InterPro:IPR027289 Oestrogen-related receptor > GO:nuclear steroid receptor activity ; GO:0003707
+GO:0003707	unirule2go	UniRule:UR001504781 > GO:nuclear steroid receptor activity ; GO:0003707
+GO:0003707	unirule2go	UniRule:UR001597791 > GO:nuclear steroid receptor activity ; GO:0003707
+GO:0003845	reactome2go	Reactome:R-HSA-194023 > GO:11-beta-hydroxysteroid dehydrogenase [NAD(P)+] activity ; GO:0003845
+GO:0003845	wikipedia2go	Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase [NAD(P)+] activity ; GO:0003845
+GO:0003854	metacyc2go	MetaCyc:1.1.1.145-RXN > GO:3-beta-hydroxy-delta5-steroid dehydrogenase (NAD+) activity ; GO:0003854
+GO:0003854	rhea2go	RHEA:24076 > GO:3-beta-hydroxy-delta5-steroid dehydrogenase (NAD+) activity ; GO:0003854
+GO:0003854	rhea2go	RHEA:43932 > GO:3-beta-hydroxy-delta5-steroid dehydrogenase (NAD+) activity ; GO:0003854
+GO:0003854	interpro2go	InterPro:IPR002225 3-beta hydroxysteroid dehydrogenase/isomerase > GO:3-beta-hydroxy-delta5-steroid dehydrogenase activity ; GO:0003854
+GO:0003854	reactome2go	Reactome:R-HSA-192097 > GO:3-beta-hydroxy-delta5-steroid dehydrogenase (NAD+) activity ; GO:0003854
+GO:0003854	reactome2go	Reactome:R-HSA-193789 > GO:3-beta-hydroxy-delta5-steroid dehydrogenase (NAD+) activity ; GO:0003854
+GO:0003854	reactome2go	Reactome:R-HSA-193816 > GO:3-beta-hydroxy-delta5-steroid dehydrogenase (NAD+) activity ; GO:0003854
+GO:0003854	reactome2go	Reactome:R-HSA-196350 > GO:3-beta-hydroxy-delta5-steroid dehydrogenase (NAD+) activity ; GO:0003854
+GO:0003854	reactome2go	Reactome:R-HSA-196372 > GO:3-beta-hydroxy-delta5-steroid dehydrogenase (NAD+) activity ; GO:0003854
+GO:0003854	ec2go	EC:1.1.1.145 > GO:3-beta-hydroxy-delta5-steroid dehydrogenase (NAD+) activity ; GO:0003854
+GO:0003865	metacyc2go	MetaCyc:RXN-13682 > GO:3-oxo-5-alpha-steroid 4-dehydrogenase activity ; GO:0003865
+GO:0003865	rhea2go	RHEA:13805 > GO:3-oxo-5-alpha-steroid 4-dehydrogenase activity ; GO:0003865
+GO:0003865	interpro2go	InterPro:IPR016636 3-oxo-5-alpha-steroid 4-dehydrogenase > GO:3-oxo-5-alpha-steroid 4-dehydrogenase activity ; GO:0003865
+GO:0003865	interpro2go	InterPro:IPR039698 Polyprenol reductase > GO:3-oxo-5-alpha-steroid 4-dehydrogenase activity ; GO:0003865
+GO:0003865	reactome2go	Reactome:R-HSA-469659 > GO:3-oxo-5-alpha-steroid 4-dehydrogenase activity ; GO:0003865
+GO:0003865	reactome2go	Reactome:R-HSA-9705713 > GO:3-oxo-5-alpha-steroid 4-dehydrogenase activity ; GO:0003865
+GO:0003865	reactome2go	Reactome:R-HSA-9705714 > GO:3-oxo-5-alpha-steroid 4-dehydrogenase activity ; GO:0003865
+GO:0003865	ec2go	EC:1.3.99.5 > GO:3-oxo-5-alpha-steroid 4-dehydrogenase activity ; GO:0003865
+GO:0003865	unirule2go	UniRule:UR000667783 > GO:3-oxo-5-alpha-steroid 4-dehydrogenase activity ; GO:0003865
+GO:0003865	unirule2go	UniRule:UR001419776 > GO:3-oxo-5-alpha-steroid 4-dehydrogenase activity ; GO:0003865
+GO:0004110	kegg_reaction2go	KEGG_REACTION:R04165 > GO:corticosteroid side-chain-isomerase activity ; GO:0004110
+GO:0004110	metacyc2go	MetaCyc:CORTICOSTEROID-SIDE-CHAIN-ISOMERASE-RXN > GO:corticosteroid side-chain-isomerase activity ; GO:0004110
+GO:0004110	rhea2go	RHEA:17861 > GO:corticosteroid side-chain-isomerase activity ; GO:0004110
+GO:0004110	ec2go	EC:5.3.1.21 > GO:corticosteroid side-chain-isomerase activity ; GO:0004110
+GO:0004507	metacyc2go	MetaCyc:STEROID-11-BETA-MONOOXYGENASE-RXN > GO:steroid 11-beta-monooxygenase activity ; GO:0004507
+GO:0004507	rhea2go	RHEA:15629 > GO:steroid 11-beta-monooxygenase activity ; GO:0004507
+GO:0004507	reactome2go	Reactome:R-HSA-193997 > GO:steroid 11-beta-monooxygenase activity ; GO:0004507
+GO:0004507	reactome2go	Reactome:R-HSA-194017 > GO:steroid 11-beta-monooxygenase activity ; GO:0004507
+GO:0004507	reactome2go	Reactome:R-HSA-5580292 > GO:steroid 11-beta-monooxygenase activity ; GO:0004507
+GO:0004507	reactome2go	Reactome:R-HSA-5600598 > GO:steroid 11-beta-monooxygenase activity ; GO:0004507
+GO:0004507	ec2go	EC:1.14.15.4 > GO:steroid 11-beta-monooxygenase activity ; GO:0004507
+GO:0004508	metacyc2go	MetaCyc:4.1.2.30-RXN > GO:steroid 17-alpha-monooxygenase activity ; GO:0004508
+GO:0004508	metacyc2go	MetaCyc:STEROID-17-ALPHA-MONOOXYGENASE-RXN > GO:steroid 17-alpha-monooxygenase activity ; GO:0004508
+GO:0004508	rhea2go	RHEA:65760 > GO:steroid 17-alpha-monooxygenase activity ; GO:0004508
+GO:0004508	reactome2go	Reactome:R-HSA-193068 > GO:steroid 17-alpha-monooxygenase activity ; GO:0004508
+GO:0004508	reactome2go	Reactome:R-HSA-193070 > GO:steroid 17-alpha-monooxygenase activity ; GO:0004508
+GO:0004508	reactome2go	Reactome:R-HSA-193072 > GO:steroid 17-alpha-monooxygenase activity ; GO:0004508
+GO:0004508	reactome2go	Reactome:R-HSA-193099 > GO:steroid 17-alpha-monooxygenase activity ; GO:0004508
+GO:0004508	reactome2go	Reactome:R-HSA-5601843 > GO:steroid 17-alpha-monooxygenase activity ; GO:0004508
+GO:0004508	reactome2go	Reactome:R-HSA-9035954 > GO:steroid 17-alpha-monooxygenase activity ; GO:0004508
+GO:0004508	reactome2go	Reactome:R-HSA-9035956 > GO:steroid 17-alpha-monooxygenase activity ; GO:0004508
+GO:0004508	ec2go	EC:1.14.14.19 > GO:steroid 17-alpha-monooxygenase activity ; GO:0004508
+GO:0004508	ec2go	EC:1.14.14.32 > GO:steroid 17-alpha-monooxygenase activity ; GO:0004508
+GO:0004509	metacyc2go	MetaCyc:STEROID-21-MONOOXYGENASE-RXN > GO:steroid 21-monooxygenase activity ; GO:0004509
+GO:0004509	rhea2go	RHEA:65612 > GO:steroid 21-monooxygenase activity ; GO:0004509
+GO:0004509	reactome2go	Reactome:R-HSA-5601976 > GO:steroid 21-monooxygenase activity ; GO:0004509
+GO:0004509	ec2go	EC:1.14.14.16 > GO:steroid 21-monooxygenase activity ; GO:0004509
+GO:0004769	metacyc2go	MetaCyc:STEROID-DELTA-ISOMERASE-RXN > GO:steroid delta-isomerase activity ; GO:0004769
+GO:0004769	rhea2go	RHEA:14709 > GO:steroid delta-isomerase activity ; GO:0004769
+GO:0004769	reactome2go	Reactome:R-HSA-193052 > GO:steroid delta-isomerase activity ; GO:0004769
+GO:0004769	reactome2go	Reactome:R-HSA-193073 > GO:steroid delta-isomerase activity ; GO:0004769
+GO:0004769	reactome2go	Reactome:R-HSA-193961 > GO:steroid delta-isomerase activity ; GO:0004769
+GO:0004769	reactome2go	Reactome:R-HSA-195690 > GO:steroid delta-isomerase activity ; GO:0004769
+GO:0004769	reactome2go	Reactome:R-HSA-6807052 > GO:steroid delta-isomerase activity ; GO:0004769
+GO:0004769	ec2go	EC:5.3.3.1 > GO:steroid delta-isomerase activity ; GO:0004769
+GO:0008395	reactome2go	Reactome:R-HSA-191983 > GO:steroid hydroxylase activity ; GO:0008395
+GO:0008395	reactome2go	Reactome:R-HSA-191999 > GO:steroid hydroxylase activity ; GO:0008395
+GO:0008395	reactome2go	Reactome:R-HSA-192042 > GO:steroid hydroxylase activity ; GO:0008395
+GO:0008395	reactome2go	Reactome:R-HSA-192054 > GO:steroid hydroxylase activity ; GO:0008395
+GO:0008395	reactome2go	Reactome:R-HSA-192123 > GO:steroid hydroxylase activity ; GO:0008395
+GO:0008395	reactome2go	Reactome:R-HSA-193060 > GO:steroid hydroxylase activity ; GO:0008395
+GO:0008395	reactome2go	Reactome:R-HSA-193143 > GO:steroid hydroxylase activity ; GO:0008395
+GO:0008395	reactome2go	Reactome:R-HSA-193393 > GO:steroid hydroxylase activity ; GO:0008395
+GO:0008395	reactome2go	Reactome:R-HSA-193460 > GO:steroid hydroxylase activity ; GO:0008395
+GO:0008395	reactome2go	Reactome:R-HSA-193497 > GO:steroid hydroxylase activity ; GO:0008395
+GO:0008395	reactome2go	Reactome:R-HSA-193713 > GO:steroid hydroxylase activity ; GO:0008395
+GO:0008395	reactome2go	Reactome:R-HSA-193719 > GO:steroid hydroxylase activity ; GO:0008395
+GO:0008395	reactome2go	Reactome:R-HSA-193737 > GO:steroid hydroxylase activity ; GO:0008395
+GO:0008395	reactome2go	Reactome:R-HSA-193780 > GO:steroid hydroxylase activity ; GO:0008395
+GO:0008395	reactome2go	Reactome:R-HSA-193787 > GO:steroid hydroxylase activity ; GO:0008395
+GO:0008395	reactome2go	Reactome:R-HSA-193792 > GO:steroid hydroxylase activity ; GO:0008395
+GO:0008395	reactome2go	Reactome:R-HSA-193965 > GO:steroid hydroxylase activity ; GO:0008395
+GO:0008395	reactome2go	Reactome:R-HSA-193995 > GO:steroid hydroxylase activity ; GO:0008395
+GO:0008395	reactome2go	Reactome:R-HSA-5601849 > GO:steroid hydroxylase activity ; GO:0008395
+GO:0008395	reactome2go	Reactome:R-HSA-5602170 > GO:steroid hydroxylase activity ; GO:0008395
+GO:0008395	reactome2go	Reactome:R-HSA-6785244 > GO:steroid hydroxylase activity ; GO:0008395
+GO:0008395	reactome2go	Reactome:R-HSA-6785245 > GO:steroid hydroxylase activity ; GO:0008395
+GO:0008395	reactome2go	Reactome:R-HSA-9035960 > GO:steroid hydroxylase activity ; GO:0008395
+GO:0008395	reactome2go	Reactome:R-HSA-9758674 > GO:steroid hydroxylase activity ; GO:0008395
+GO:0033703	kegg_reaction2go	KEGG_REACTION:R06166 > GO:3beta-hydroxy-5beta-steroid dehydrogenase activity ; GO:0033703
+GO:0033703	metacyc2go	MetaCyc:1.1.1.277-RXN > GO:3beta-hydroxy-5beta-steroid dehydrogenase activity ; GO:0033703
+GO:0033703	rhea2go	RHEA:22944 > GO:3beta-hydroxy-5beta-steroid dehydrogenase activity ; GO:0033703
+GO:0033703	ec2go	EC:1.1.1.277 > GO:3beta-hydroxy-5beta-steroid dehydrogenase activity ; GO:0033703
+GO:0033704	kegg_reaction2go	KEGG_REACTION:R07138 > GO:3beta-hydroxy-5alpha-steroid dehydrogenase activity ; GO:0033704
+GO:0033704	metacyc2go	MetaCyc:1.1.1.278-RXN > GO:3beta-hydroxy-5alpha-steroid dehydrogenase activity ; GO:0033704
+GO:0033704	rhea2go	RHEA:18137 > GO:3beta-hydroxy-5alpha-steroid dehydrogenase activity ; GO:0033704
+GO:0033704	ec2go	EC:1.1.1.278 > GO:3beta-hydroxy-5alpha-steroid dehydrogenase activity ; GO:0033704
+GO:0033764	reactome2go	Reactome:R-HSA-9758682 > GO:steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0033764
+GO:0036200	kegg_reaction2go	KEGG_REACTION:R09860 > GO:3-ketosteroid 9-alpha-monooxygenase activity ; GO:0036200
+GO:0036200	rhea2go	RHEA:32199 > GO:3-ketosteroid 9-alpha-monooxygenase activity ; GO:0036200
+GO:0036200	ec2go	EC:1.14.15.30 > GO:3-ketosteroid 9-alpha-monooxygenase activity ; GO:0036200
+GO:0042768	metacyc2go	MetaCyc:RXN-14679 > GO:ecdysteroid 2-hydroxylase activity ; GO:0042768
+GO:0047005	metacyc2go	MetaCyc:1.1.1.147-RXN > GO:16-alpha-hydroxysteroid dehydrogenase (NADP+) activity ; GO:0047005
+GO:0047005	ec2go	EC:1.1.1.147 > GO:16-alpha-hydroxysteroid dehydrogenase (NADP+) activity ; GO:0047005
+GO:0047022	metacyc2go	MetaCyc:1.1.1.201-RXN > GO:7-beta-hydroxysteroid dehydrogenase (NADP+) activity ; GO:0047022
+GO:0047022	rhea2go	RHEA:20233 > GO:7-beta-hydroxysteroid dehydrogenase (NADP+) activity ; GO:0047022
+GO:0047022	ec2go	EC:1.1.1.201 > GO:7-beta-hydroxysteroid dehydrogenase (NADP+) activity ; GO:0047022
+GO:0047022	wikipedia2go	Wikipedia:7beta-hydroxysteroid_dehydrogenase_(NADP+) > GO:7-beta-hydroxysteroid dehydrogenase (NADP+) activity ; GO:0047022
+GO:0047086	metacyc2go	MetaCyc:1.14.13.54-RXN > GO:ketosteroid monooxygenase activity ; GO:0047086
+GO:0047086	ec2go	EC:1.14.13.54 > GO:ketosteroid monooxygenase activity ; GO:0047086
+GO:0047261	kegg_reaction2go	KEGG_REACTION:R04451 > GO:steroid N-acetylglucosaminyltransferase activity ; GO:0047261
+GO:0047261	metacyc2go	MetaCyc:2.4.1.39-RXN > GO:steroid N-acetylglucosaminyltransferase activity ; GO:0047261
+GO:0047261	rhea2go	RHEA:14153 > GO:steroid N-acetylglucosaminyltransferase activity ; GO:0047261
+GO:0047261	ec2go	EC:2.4.1.39 > GO:steroid N-acetylglucosaminyltransferase activity ; GO:0047261
+GO:0047521	kegg_reaction2go	KEGG_REACTION:R03495 > GO:12-beta-hydroxysteroid dehydrogenase (NADP+) activity ; GO:0047521
+GO:0047521	metacyc2go	MetaCyc:12-BETA-HYDROXYSTEROID-DEHYDROGENASE-RXN > GO:12-beta-hydroxysteroid dehydrogenase (NADP+) activity ; GO:0047521
+GO:0047521	rhea2go	RHEA:21424 > GO:12-beta-hydroxysteroid dehydrogenase (NADP+) activity ; GO:0047521
+GO:0047521	ec2go	EC:1.1.1.238 > GO:12-beta-hydroxysteroid dehydrogenase (NADP+) activity ; GO:0047521
+GO:0047524	metacyc2go	MetaCyc:16-HYDROXYSTEROID-EPIMERASE-RXN > GO:16-hydroxysteroid epimerase activity ; GO:0047524
+GO:0047524	rhea2go	RHEA:15829 > GO:16-hydroxysteroid epimerase activity ; GO:0047524
+GO:0047524	ec2go	EC:5.1.99.2 > GO:16-hydroxysteroid epimerase activity ; GO:0047524
+GO:0047568	metacyc2go	MetaCyc:3-OXO-5-BETA-STEROID-4-DEHYDROGENASE-RXN > GO:3-oxo-5-beta-steroid 4-dehydrogenase activity ; GO:0047568
+GO:0047568	rhea2go	RHEA:24172 > GO:3-oxo-5-beta-steroid 4-dehydrogenase activity ; GO:0047568
+GO:0047568	ec2go	EC:1.3.99.6 > GO:3-oxo-5-beta-steroid 4-dehydrogenase activity ; GO:0047568
+GO:0047571	metacyc2go	MetaCyc:3-OXOSTEROID-1-DEHYDROGENASE-RXN > GO:3-oxosteroid 1-dehydrogenase activity ; GO:0047571
+GO:0047571	rhea2go	RHEA:13329 > GO:3-oxosteroid 1-dehydrogenase activity ; GO:0047571
+GO:0047571	ec2go	EC:1.3.99.4 > GO:3-oxosteroid 1-dehydrogenase activity ; GO:0047571
+GO:0047587	kegg_reaction2go	KEGG_REACTION:R03675 > GO:5-alpha-hydroxysteroid dehydratase activity ; GO:0047587
+GO:0047587	metacyc2go	MetaCyc:5-ALPHA-HYDROXYSTEROID-DEHYDRATASE-RXN > GO:5-alpha-hydroxysteroid dehydratase activity ; GO:0047587
+GO:0047587	rhea2go	RHEA:22064 > GO:5-alpha-hydroxysteroid dehydratase activity ; GO:0047587
+GO:0047587	ec2go	EC:4.2.1.62 > GO:5-alpha-hydroxysteroid dehydratase activity ; GO:0047587
+GO:0047751	kegg_reaction2go	KEGG_REACTION:R02610 > GO:3-oxo-5alpha-steroid 4-dehydrogenase (NADP+) activity ; GO:0047751
+GO:0047751	metacyc2go	MetaCyc:1.3.99.5-RXN > GO:3-oxo-5alpha-steroid 4-dehydrogenase (NADP+) activity ; GO:0047751
+GO:0047751	metacyc2go	MetaCyc:CHOLESTENONE-5-ALPHA-REDUCTASE-RXN > GO:3-oxo-5alpha-steroid 4-dehydrogenase (NADP+) activity ; GO:0047751
+GO:0047751	metacyc2go	MetaCyc:RXN-4229 > GO:3-oxo-5alpha-steroid 4-dehydrogenase (NADP+) activity ; GO:0047751
+GO:0047751	metacyc2go	MetaCyc:RXN-711 > GO:3-oxo-5alpha-steroid 4-dehydrogenase (NADP+) activity ; GO:0047751
+GO:0047751	rhea2go	RHEA:54384 > GO:3-oxo-5alpha-steroid 4-dehydrogenase (NADP+) activity ; GO:0047751
+GO:0047751	ec2go	EC:1.3.1.22 > GO:3-oxo-5alpha-steroid 4-dehydrogenase (NADP+) activity ; GO:0047751
+GO:0047751	unirule2go	UniRule:UR001419776 > GO:3-oxo-5alpha-steroid 4-dehydrogenase (NADP+) activity ; GO:0047751
+GO:0047787	metacyc2go	MetaCyc:CHOLESTENONE-5-BETA-REDUCTASE-RXN > GO:Delta4-3-oxosteroid 5beta-reductase activity ; GO:0047787
+GO:0047787	metacyc2go	MetaCyc:CORTISONE-BETA-REDUCTASE-RXN > GO:Delta4-3-oxosteroid 5beta-reductase activity ; GO:0047787
+GO:0047787	metacyc2go	MetaCyc:RXN-23672 > GO:Delta4-3-oxosteroid 5beta-reductase activity ; GO:0047787
+GO:0047787	metacyc2go	MetaCyc:RXN-9726 > GO:Delta4-3-oxosteroid 5beta-reductase activity ; GO:0047787
+GO:0047787	rhea2go	RHEA:54412 > GO:Delta4-3-oxosteroid 5beta-reductase activity ; GO:0047787
+GO:0047787	interpro2go	InterPro:IPR044483 Aldo-keto reductase family 1 member D1 > GO:delta4-3-oxosteroid 5beta-reductase activity ; GO:0047787
+GO:0047787	ec2go	EC:1.3.1.3 > GO:Delta4-3-oxosteroid 5beta-reductase activity ; GO:0047787
+GO:0050292	kegg_reaction2go	KEGG_REACTION:R04392 > GO:steroid 9-alpha-monooxygenase activity ; GO:0050292
+GO:0050292	metacyc2go	MetaCyc:STEROID-9-ALPHA-MONOOXYGENASE-RXN > GO:steroid 9-alpha-monooxygenase activity ; GO:0050292
+GO:0050292	rhea2go	RHEA:19557 > GO:steroid 9-alpha-monooxygenase activity ; GO:0050292
+GO:0050292	ec2go	EC:1.14.99.24 > GO:steroid 9-alpha-monooxygenase activity ; GO:0050292
+GO:0050293	kegg_reaction2go	KEGG_REACTION:R03641 > GO:steroid-lactonase activity ; GO:0050293
+GO:0050293	metacyc2go	MetaCyc:STEROID-LACTONASE-RXN > GO:steroid-lactonase activity ; GO:0050293
+GO:0050293	rhea2go	RHEA:13721 > GO:steroid-lactonase activity ; GO:0050293
+GO:0050293	ec2go	EC:3.1.1.37 > GO:steroid-lactonase activity ; GO:0050293
+GO:0050294	metacyc2go	MetaCyc:STEROID-SULFOTRANSFERASE-RXN > GO:steroid sulfotransferase activity ; GO:0050294
+GO:0050294	rhea2go	RHEA:68460 > GO:steroid sulfotransferase activity ; GO:0050294
+GO:0050294	reactome2go	Reactome:R-HSA-176517 > GO:steroid sulfotransferase activity ; GO:0050294
+GO:0050294	reactome2go	Reactome:R-HSA-176521 > GO:steroid sulfotransferase activity ; GO:0050294
+GO:0050294	reactome2go	Reactome:R-HSA-176631 > GO:steroid sulfotransferase activity ; GO:0050294
+GO:0050294	ec2go	EC:2.8.2.15 > GO:steroid sulfotransferase activity ; GO:0050294
+GO:0070523	rhea2go	RHEA:53116 > GO:11-beta-hydroxysteroid dehydrogenase (NAD+) activity ; GO:0070523
+GO:0070523	wikipedia2go	Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase (NAD+) activity ; GO:0070523
+GO:0070524	metacyc2go	MetaCyc:11-BETA-HYDROXYSTEROID-DEHYDROGENASE-RXN > GO:11-beta-hydroxysteroid dehydrogenase (NADP+) activity ; GO:0070524
+GO:0070524	rhea2go	RHEA:11388 > GO:11-beta-hydroxysteroid dehydrogenase (NADP+) activity ; GO:0070524
+GO:0070524	reactome2go	Reactome:R-HSA-9757706 > GO:11-beta-hydroxysteroid dehydrogenase (NADP+) activity ; GO:0070524
+GO:0070524	reactome2go	Reactome:R-HSA-9759259 > GO:11-beta-hydroxysteroid dehydrogenase (NADP+) activity ; GO:0070524
+GO:0070524	ec2go	EC:1.1.1.146 > GO:11-beta-hydroxysteroid dehydrogenase (NADP+) activity ; GO:0070524
+GO:0070524	wikipedia2go	Wikipedia:11beta-hydroxysteroid_dehydrogenase > GO:11-beta-hydroxysteroid dehydrogenase (NADP+) activity ; GO:0070524
+GO:0072582	rhea2go	RHEA:69284 > GO:17-beta-hydroxysteroid dehydrogenase (NADP+) activity ; GO:0072582
+GO:0102097	metacyc2go	MetaCyc:RXN-11101 > GO:22alpha-hydroxysteroid 23-monooxygenase activity ; GO:0102097
+GO:0102097	rhea2go	RHEA:27321 > GO:22alpha-hydroxysteroid 23-monooxygenase activity ; GO:0102097
+GO:0102097	rhea2go	RHEA:27325 > GO:22alpha-hydroxysteroid 23-monooxygenase activity ; GO:0102097
+GO:0102097	ec2go	EC:1.14.14.147 > GO:22alpha-hydroxysteroid 23-monooxygenase activity ; GO:0102097
+GO:0102175	metacyc2go	MetaCyc:RXN-11928 > GO:3-beta-hydroxysteroid dehydrogenase/C4-decarboxylase (NAD+) activity ; GO:0102175
+GO:0102175	rhea2go	RHEA:34775 > GO:3-beta-hydroxysteroid dehydrogenase/C4-decarboxylase (NAD+) activity ; GO:0102175
+GO:0102191	metacyc2go	MetaCyc:RXN-20374 > GO:3-beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase (decarboxylating) (NAD+) activity ; GO:0102191
+GO:0102191	rhea2go	RHEA:59016 > GO:3-beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase (decarboxylating) (NAD+) activity ; GO:0102191
+GO:0102191	ec2go	EC:1.1.1.418 > GO:3-beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase (decarboxylating) (NAD+) activity ; GO:0102191
+GO:0102531	metacyc2go	MetaCyc:RXN-14734 > GO:ecdysteroid-phosphate phosphatase activity ; GO:0102531
+GO:0102531	metacyc2go	MetaCyc:RXN-14766 > GO:ecdysteroid-phosphate phosphatase activity ; GO:0102531
+GO:0102531	rhea2go	RHEA:63576 > GO:ecdysteroid-phosphate phosphatase activity ; GO:0102531
+GO:0102531	rhea2go	RHEA:63580 > GO:ecdysteroid-phosphate phosphatase activity ; GO:0102531
+GO:0102531	rhea2go	RHEA:63584 > GO:ecdysteroid-phosphate phosphatase activity ; GO:0102531
+GO:0106389	metacyc2go	MetaCyc:RXN-14755 > GO:ecdysteroid 22-kinase activity ; GO:0106389
+GO:0106389	rhea2go	RHEA:67972 > GO:ecdysteroid 22-kinase activity ; GO:0106389
+GO:0160191	metacyc2go	MetaCyc:RXN-22825 > GO:steroid 22S-hydroxylase activity ; GO:0160191
+GO:0160191	metacyc2go	MetaCyc:RXN-22826 > GO:steroid 22S-hydroxylase activity ; GO:0160191
+GO:0160191	metacyc2go	MetaCyc:RXN-22827 > GO:steroid 22S-hydroxylase activity ; GO:0160191
+GO:0160191	rhea2go	RHEA:70059 > GO:steroid 22S-hydroxylase activity ; GO:0160191
+GO:0160191	rhea2go	RHEA:70063 > GO:steroid 22S-hydroxylase activity ; GO:0160191
+GO:0160191	rhea2go	RHEA:70067 > GO:steroid 22S-hydroxylase activity ; GO:0160191
+GO:0160191	ec2go	EC:1.14.14.178 > GO:steroid 22S-hydroxylase activity ; GO:0160191
