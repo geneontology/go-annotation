@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:P04798	CYP1A1	PMID:15546903		GO:0070576	vitamin D 24-hydroxylase activity	IDA		UniProtKB:P04798	PANTHER:PTHR24299	20090629		NCBITaxon:9606
+BHF-UCL	UniProtKB:P08684	CYP3A4	PMID:15546903		GO:0070576	vitamin D 24-hydroxylase activity	IDA		UniProtKB:P08684	PANTHER:PTHR24302	20090907		NCBITaxon:9606
+UniProt	RGD:2462	Cyp24a1	PMID:25727742|RGD:14995325		GO:0070576	vitamin D 24-hydroxylase activity	IDA			PANTHER:PTHR24291	20191008		NCBITaxon:10116
+UniProt	UniProtKB:Q07973	CYP24A1	PMID:25727742		GO:0070643	vitamin D 25-hydroxylase activity	IDA		UniProtKB:Q07973	PANTHER:PTHR24291	20191008		NCBITaxon:9606
+UniProt	RGD:2462	Cyp24a1	PMID:25727742|RGD:14995325		GO:0070643	vitamin D 25-hydroxylase activity	IDA			PANTHER:PTHR24291	20191008		NCBITaxon:10116
