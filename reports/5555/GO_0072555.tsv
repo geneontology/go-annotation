@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CAFA	MGI:MGI:1924587	Akr1c21	PMID:20124700		GO:0072555	17-beta-ketosteroid reductase (NADPH) activity	IMP			PANTHER:PTHR11732	20161125		NCBITaxon:10090
+TAIR	AGI_LocusCode:AT5G50600	HSD1	PMID:17074428|TAIR:Publication:501720025		GO:0072555	17-beta-ketosteroid reductase (NADPH) activity	IDA		TAIR:locus:2159747		20110331		NCBITaxon:3702
+UniProt	UniProtKB:Q6UWP2	DHRS11	PMID:26920053		GO:0072555	17-beta-ketosteroid reductase (NADPH) activity	IDA		UniProtKB:Q6UWP2	PANTHER:PTHR43115	20170710		NCBITaxon:9606
