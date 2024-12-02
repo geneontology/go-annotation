@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ZFIN	ZFIN:ZDB-GENE-101209-1	tut7	PMID:29625039		GO:0070569	uridylyltransferase activity	IGI	ZFIN:ZDB-GENE-030131-2403			20190425	GO:0071076	NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-101209-1	tut7	PMID:29625039		GO:0070569	uridylyltransferase activity	IMP	ZFIN:ZDB-MRPHLNO-180830-13|ZFIN:ZDB-MRPHLNO-180830-12			20190131	GO:0071076	NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-030131-2403	tut4	PMID:29625039		GO:0070569	uridylyltransferase activity	IMP	ZFIN:ZDB-MRPHLNO-180830-13|ZFIN:ZDB-MRPHLNO-180830-12			20190131	GO:0071076	NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-030131-2403	tut4	PMID:29625039		GO:0070569	uridylyltransferase activity	IGI	ZFIN:ZDB-GENE-101209-1			20190131	GO:0071076	NCBITaxon:7955
