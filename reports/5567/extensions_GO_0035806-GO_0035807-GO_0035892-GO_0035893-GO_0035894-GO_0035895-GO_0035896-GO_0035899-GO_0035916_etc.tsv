@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:C0HJQ2	C0HJQ2	PMID:26398235		GO:0019870	potassium channel inhibitor activity	IDA				20170531	UniProtKB:P10499|UniProtKB:P63142|UniProtKB:P15384|UniProtKB:P17659|GO:0044361	NCBITaxon:6871

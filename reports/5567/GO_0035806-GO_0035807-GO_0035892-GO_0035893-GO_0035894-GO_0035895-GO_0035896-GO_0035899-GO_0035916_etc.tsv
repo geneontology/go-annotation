@@ -1,0 +1,117 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:P81428	P81428	PMID:10397729		GO:0035807	induction of blood coagulation in another organism	IDA				20120612		NCBITaxon:100989
+UniProt	UniProtKB:P86163	P86163	PMID:10758276		GO:0035807	induction of blood coagulation in another organism	IDA				20230614		NCBITaxon:144766
+UniProt	UniProtKB:Q56VR3	Q56VR3	PMID:12362232		GO:0035807	induction of blood coagulation in another organism	IDA				20120612		NCBITaxon:8673
+UniProt	UniProtKB:Q7SZN0	Q7SZN0	PMID:12362232		GO:0035807	induction of blood coagulation in another organism	IDA				20120612		NCBITaxon:8673
+UniProt	UniProtKB:Q58L94	Q58L94	PMID:12403650		GO:0035807	induction of blood coagulation in another organism	IDA				20120612		NCBITaxon:70142
+UniProt	UniProtKB:P83370	P83370	PMID:12403650		GO:0035807	induction of blood coagulation in another organism	IDA				20120612		NCBITaxon:196418
+UniProt	UniProtKB:P82807	P82807	PMID:12403650		GO:0035807	induction of blood coagulation in another organism	IDA				20120612		NCBITaxon:70142
+UniProt	UniProtKB:P0DJ43	P0DJ43	PMID:12485606		GO:0035807	induction of blood coagulation in another organism	IDA				20220912		NCBITaxon:66188
+UniProt	UniProtKB:Q58L96	Q58L96	PMID:3531198		GO:0035807	induction of blood coagulation in another organism	IDA				20120612		NCBITaxon:8668
+UniProt	UniProtKB:Q58L91	Q58L91	PMID:3531198		GO:0035807	induction of blood coagulation in another organism	IDA				20120612		NCBITaxon:8668
+CACAO	UniProtKB:P22028	P22028	PMID:15665869		GO:0035893	suppression of platelet aggregation in another organism	IDA				20130210		NCBITaxon:8724
+CACAO	UniProtKB:P0CB14	P0CB14	PMID:18624975		GO:0035893	suppression of platelet aggregation in another organism	IDA				20120923		NCBITaxon:8717
+UniProt	UniProtKB:Q4F867	Q4F867	PMID:19523971		GO:0035893	suppression of platelet aggregation in another organism	IDA				20140806		NCBITaxon:343250
+UniProt	UniProtKB:P85420	P85420	PMID:20102699		GO:0035893	suppression of platelet aggregation in another organism	IDA				20201109		NCBITaxon:8725
+UniProt	UniProtKB:Q95P65	Q95P65	PMID:20351782		GO:0035893	suppression of platelet aggregation in another organism	IDA				20240912		NCBITaxon:37546
+UniProt	UniProtKB:A6YPK1	A6YPK1	PMID:23564450		GO:0035893	suppression of platelet aggregation in another organism	IDA				20240829		NCBITaxon:30076
+UniProt	UniProtKB:G3CJR9	G3CJR9	PMID:23564450		GO:0035893	suppression of platelet aggregation in another organism	IDA				20240829		NCBITaxon:72496
+UniProt	UniProtKB:D1FQ14	D1FQ14	PMID:24921659		GO:0035893	suppression of platelet aggregation in another organism	IDA				20240916		NCBITaxon:683695
+UniProt	UniProtKB:C0HJM4	C0HJM4	PMID:25457103		GO:0035893	suppression of platelet aggregation in another organism	IDA				20170411		NCBITaxon:1043007
+UniProt	UniProtKB:C0HJM5	C0HJM5	PMID:25457103		GO:0035893	suppression of platelet aggregation in another organism	IDA				20170411		NCBITaxon:1200835
+UniProt	UniProtKB:Q072L5	Q072L5	PMID:25457103		GO:0035893	suppression of platelet aggregation in another organism	IDA				20170704		NCBITaxon:8722
+UniProt	UniProtKB:L0MZ46	L0MZ46	PMID:25724270		GO:0035893	suppression of platelet aggregation in another organism	IDA				20240829		NCBITaxon:252632
+UniProt	UniProtKB:N0A5N4	N0A5N4	PMID:27666486		GO:0035894	induction of platelet aggregation in another organism	IDA				20230304		NCBITaxon:8714
+UniProt	UniProtKB:N0A5N4	N0A5N4	PMID:28579355		GO:0035894	induction of platelet aggregation in another organism	IDA				20230304		NCBITaxon:8714
+UniProt	UniProtKB:P84715	P84715	PMID:9663691		GO:0035896	positive regulation of mast cell degranulation in another organism	IDA			PANTHER:PTHR12167	20171117	CHEBI:18295	NCBITaxon:9258
+AgBase	UniProtKB:Q2FZB8	SAOUHSC_01114	PMID:26627825		GO:0035899	suppression of blood coagulation in another organism	IMP				20160128		NCBITaxon:93061
+CACAO	UniProtKB:Q90WA1	Q90WA1	PMID:19236611		GO:0035899	suppression of blood coagulation in another organism	IDA				20130315		NCBITaxon:169397
+UniProt	UniProtKB:P86681	P86681	PMID:10595640		GO:0035899	suppression of blood coagulation in another organism	IDA				20110721		NCBITaxon:279730
+UniProt	UniProtKB:Q95V94	Q95V94	PMID:12011093		GO:0035899	suppression of blood coagulation in another organism	IDA				20240827		NCBITaxon:30069
+UniProt	UniProtKB:P85975	P85975	PMID:17555860		GO:0035899	suppression of blood coagulation in another organism	IDA				20201109		NCBITaxon:547193
+UniProt	UniProtKB:P86806	P86806	PMID:19747981		GO:0035899	suppression of blood coagulation in another organism	IDA				20201111		NCBITaxon:184542
+UniProt	UniProtKB:P86805	P86805	PMID:19747981		GO:0035899	suppression of blood coagulation in another organism	IDA				20201111		NCBITaxon:184542
+UniProt	UniProtKB:Q1HRB8	Q1HRB8	PMID:20363282		GO:0035899	suppression of blood coagulation in another organism	IDA				20240916		NCBITaxon:7159
+UniProt	UniProtKB:D2X8K2	D2X8K2	PMID:20562011		GO:0035899	suppression of blood coagulation in another organism	IDA				20120612		NCBITaxon:47073
+UniProt	UniProtKB:Q1HRB8	Q1HRB8	PMID:21167902		GO:0035899	suppression of blood coagulation in another organism	IDA				20240916		NCBITaxon:7159
+UniProt	UniProtKB:Q06KA5	M02	PMID:24092749		GO:0035899	suppression of blood coagulation in another organism	IDA				20240827		NCBITaxon:37738
+UniProt	UniProtKB:Q06K46	K03	PMID:24092749		GO:0035899	suppression of blood coagulation in another organism	IDA				20240827		NCBITaxon:37738
+UniProt	UniProtKB:Q7Q3J5	AgaP_AGAP007907	PMID:25211214		GO:0035899	suppression of blood coagulation in another organism	IDA			PANTHER:PTHR21131	20240828		NCBITaxon:7165
+UniProt	UniProtKB:L0MZ46	L0MZ46	PMID:25724270		GO:0035899	suppression of blood coagulation in another organism	IDA				20240829		NCBITaxon:252632
+UniProt	UniProtKB:A0A0K1YW63	A0A0K1YW63	PMID:27208884		GO:0035899	suppression of blood coagulation in another organism	IDA				20210316		NCBITaxon:7461
+UniProt	UniProtKB:Q5MIT9	Q5MIT9	PMID:33612723		GO:0035899	suppression of blood coagulation in another organism	IDA				20240912		NCBITaxon:7160
+UniProt	UniProtKB:L0MZ37	L0MZ37	PMID:35817195		GO:0035899	suppression of blood coagulation in another organism	IDA				20240829		NCBITaxon:252632
+UniProt	UniProtKB:P83406	P83406	PMID:15067003		GO:0035916	modulation of calcium channel activity in another organism	IDA				20201109		NCBITaxon:6863
+UniProt	UniProtKB:P83405	P83405	PMID:15067003		GO:0035916	modulation of calcium channel activity in another organism	IDA				20201109		NCBITaxon:6863
+UniProt	UniProtKB:E7CLP2	E7CLP2	PMID:21605585		GO:0044360	modulation of voltage-gated potassium channel activity in another organism	IDA				20201112		NCBITaxon:419285
+UniProt	UniProtKB:P83243	P83243	PMID:11113450		GO:0044361	negative regulation of voltage-gated potassium channel activity in another organism	IDA				20201109		NCBITaxon:1221240
+UniProt	UniProtKB:P83244	P83244	PMID:11527374		GO:0044361	negative regulation of voltage-gated potassium channel activity in another organism	IDA				20201109		NCBITaxon:6892
+UniProt	UniProtKB:P60211	P60211	PMID:12445473		GO:0044361	negative regulation of voltage-gated potassium channel activity in another organism	IDA				20201109		NCBITaxon:1221240
+UniProt	UniProtKB:P60210	P60210	PMID:12445473		GO:0044361	negative regulation of voltage-gated potassium channel activity in another organism	IDA				20201109		NCBITaxon:1221240
+UniProt	UniProtKB:P60165	P60165	PMID:14561751		GO:0044361	negative regulation of voltage-gated potassium channel activity in another organism	IDA				20201113		NCBITaxon:252780
+UniProt	UniProtKB:P60164	P60164	PMID:14561751		GO:0044361	negative regulation of voltage-gated potassium channel activity in another organism	IDA				20201113		NCBITaxon:252780
+UniProt	UniProtKB:Q6WGI9	Q6WGI9	PMID:14561751		GO:0044361	negative regulation of voltage-gated potassium channel activity in another organism	IDA				20201113		NCBITaxon:242110
+UniProt	UniProtKB:P84713	P84713	PMID:15081394		GO:0044361	negative regulation of voltage-gated potassium channel activity in another organism	IDA				20201110		NCBITaxon:351660
+UniProt	UniProtKB:P84777	P84777	PMID:15369825		GO:0044361	negative regulation of voltage-gated potassium channel activity in another organism	IDA				20201109		NCBITaxon:57059
+UniProt	UniProtKB:P0CC12	P0CC12	PMID:17070524		GO:0044361	negative regulation of voltage-gated potassium channel activity in another organism	IDA				20171117		NCBITaxon:342590
+UniProt	UniProtKB:P85528	P85528	PMID:18699777		GO:0044361	negative regulation of voltage-gated potassium channel activity in another organism	IDA				20201109		NCBITaxon:520031
+UniProt	UniProtKB:C0HJC2	C0HJC2	PMID:23466933		GO:0044361	negative regulation of voltage-gated potassium channel activity in another organism	IDA				20130910		NCBITaxon:31165
+UniProt	UniProtKB:C0HJC3	C0HJC3	PMID:23466933		GO:0044361	negative regulation of voltage-gated potassium channel activity in another organism	IDA				20130910		NCBITaxon:31165
+UniProt	UniProtKB:C0HJC4	C0HJC4	PMID:23895459		GO:0044361	negative regulation of voltage-gated potassium channel activity in another organism	IDA				20131101		NCBITaxon:31165
+UniProt	UniProtKB:C0HJQ2	C0HJQ2	PMID:26398235		GO:0044361	negative regulation of voltage-gated potassium channel activity in another organism	IDA				20170531		NCBITaxon:6871
+UniProt	UniProtKB:A0A1L2FZD4	A0A1L2FZD4	PMID:28179135		GO:0044361	negative regulation of voltage-gated potassium channel activity in another organism	IDA				20170227		NCBITaxon:6892
+UniProt	UniProtKB:B2G331	B2G331	PMID:18579526		GO:0044465	modulation of sensory perception of pain in another organism	IDA				20120612		NCBITaxon:3122430
+UniProt	UniProtKB:E7CAU3	AGP-SYPU1	PMID:20945457		GO:0044465	modulation of sensory perception of pain in another organism	IDA				20120419		NCBITaxon:34649
+UniProt	UniProtKB:P60212	P60212	PMID:15025998		GO:0044488	modulation of voltage-gated sodium channel activity in another organism	IDA				20201109		NCBITaxon:1221240
+UniProt	UniProtKB:E7CLP2	E7CLP2	PMID:21605585		GO:0044488	modulation of voltage-gated sodium channel activity in another organism	IDA				20201112		NCBITaxon:419285
+UniProt	UniProtKB:P60992	P60992	PMID:27281198		GO:0044488	modulation of voltage-gated sodium channel activity in another organism	IDA				20201116		NCBITaxon:268413
+UniProt	UniProtKB:P0DOC5	P0DOC5	PMID:27281198		GO:0044488	modulation of voltage-gated sodium channel activity in another organism	IDA				20201116		NCBITaxon:268413
+UniProt	UniProtKB:P0DQP3	P0DQP3	PMID:37117223		GO:0044488	modulation of voltage-gated sodium channel activity in another organism	IDA				20230830	UniProtKB:B4DJY2	NCBITaxon:647263
+UniProt	UniProtKB:P83256	P83256	PMID:10971590		GO:0044489	negative regulation of voltage-gated sodium channel activity in another organism	IDA				20201109		NCBITaxon:185217
+UniProt	UniProtKB:P60214	P60214	PMID:11821128		GO:0044489	negative regulation of voltage-gated sodium channel activity in another organism	IDA				20201109		NCBITaxon:1221240
+UniProt	UniProtKB:O61705	O61705	PMID:15200476		GO:0044489	negative regulation of voltage-gated sodium channel activity in another organism	IDA				20201112		NCBITaxon:34649
+UniProt	UniProtKB:P84509	P84509	PMID:16267209		GO:0044489	negative regulation of voltage-gated sodium channel activity in another organism	IDA				20201109		NCBITaxon:316287
+UniProt	UniProtKB:P84510	P84510	PMID:16267209		GO:0044489	negative regulation of voltage-gated sodium channel activity in another organism	IDA				20201109		NCBITaxon:269635
+UniProt	UniProtKB:P84508	P84508	PMID:16267209		GO:0044489	negative regulation of voltage-gated sodium channel activity in another organism	IDA				20201109		NCBITaxon:316287
+UniProt	UniProtKB:P84507	P84507	PMID:16267209		GO:0044489	negative regulation of voltage-gated sodium channel activity in another organism	IDA				20201109		NCBITaxon:316287
+UniProt	UniProtKB:Q1A3R1	Q1A3R1	PMID:17961831		GO:0044489	negative regulation of voltage-gated sodium channel activity in another organism	IDA				20201111		NCBITaxon:89445
+UniProt	UniProtKB:C0HJC4	C0HJC4	PMID:23895459	not	GO:0044489	negative regulation of voltage-gated sodium channel activity in another organism	IDA				20131101		NCBITaxon:31165
+UniProt	UniProtKB:Q2I2Q5	Q2I2Q5	PMID:19562324		GO:0044490	positive regulation of voltage-gated sodium channel activity in another organism	IDA				20201111		NCBITaxon:89445
+UniProt	UniProtKB:P67863	P67863	PMID:14600159		GO:0044496	negative regulation of blood pressure in another organism	IDA				20220713		NCBITaxon:8705
+UniProt	UniProtKB:P83942	P83942	PMID:14600159		GO:0044496	negative regulation of blood pressure in another organism	IDA				20220713		NCBITaxon:194601
+UniProt	UniProtKB:P82972	P82972	PMID:14741349		GO:0044496	negative regulation of blood pressure in another organism	IDA				20201113		NCBITaxon:47769
+UniProt	UniProtKB:P85024	P85024	PMID:16277978		GO:0044503	modulation of G protein-coupled receptor activity in another organism	IDA				20201113	GO:0004947	NCBITaxon:8742
+UniProt	UniProtKB:P85886	P85886	PMID:17635581		GO:0044504	modulation of receptor activity in another organism	IDA				20201109		NCBITaxon:192919
+UniProt	UniProtKB:P50982	P50982	PMID:17635581		GO:0044504	modulation of receptor activity in another organism	IDA				20201109		NCBITaxon:55423
+UniProt	UniProtKB:P86099	P86099	PMID:18384102		GO:0044504	modulation of receptor activity in another organism	IDA				20201109		NCBITaxon:129470
+UniProt	UniProtKB:P86098	P86098	PMID:18384102		GO:0044504	modulation of receptor activity in another organism	IDA				20201109		NCBITaxon:129470
+UniProt	UniProtKB:P86097	P86097	PMID:18384102		GO:0044504	modulation of receptor activity in another organism	IDA				20201109		NCBITaxon:129470
+UniProt	UniProtKB:P86096	P86096	PMID:18384102		GO:0044504	modulation of receptor activity in another organism	IDA				20201109		NCBITaxon:129470
+UniProt	UniProtKB:P86095	P86095	PMID:18384102		GO:0044504	modulation of receptor activity in another organism	IDA				20201109		NCBITaxon:129470
+UniProt	UniProtKB:P86094	P86094	PMID:18384102		GO:0044504	modulation of receptor activity in another organism	IDA				20201109		NCBITaxon:129470
+UniProt	UniProtKB:A0S865	A0S865	PMID:18952712		GO:0044504	modulation of receptor activity in another organism	IDA				20201112		NCBITaxon:92519
+UniProt	UniProtKB:A0S864	A0S864	PMID:18952712		GO:0044504	modulation of receptor activity in another organism	IDA				20201112		NCBITaxon:92519
+UniProt	UniProtKB:C6ZJQ2	C6ZJQ2	PMID:20691232		GO:0044504	modulation of receptor activity in another organism	IDA				20201112		NCBITaxon:93154
+UniProt	UniProtKB:P82972	P82972	PMID:14741349		GO:0044505	positive regulation of G protein-coupled receptor activity in another organism	IDA				20201110		NCBITaxon:47769
+EcoliWiki	UniProtKB:P77335	hlyE	PMID:10858262		GO:0044532	modulation of apoptotic process in another organism	IDA				20130910		NCBITaxon:83333
+UniProt	UniProtKB:Q6TGQ8	Q6TGQ8	PMID:17320169		GO:0044532	modulation of apoptotic process in another organism	IDA				20120612		NCBITaxon:98334
+UniProt	UniProtKB:P0CC17	P0CC17	PMID:18804547		GO:0044532	modulation of apoptotic process in another organism	IDA				20120612		NCBITaxon:8725
+ComplexPortal	ComplexPortal:CPX-973	c3b_human	PMID:27782329		GO:0044533	positive regulation of apoptotic process in another organism	NAS				20240823		NCBITaxon:9606
+UniProt	UniProtKB:Q9YJN5	E10	PMID:11113112		GO:0044533	positive regulation of apoptotic process in another organism	TAS				20170223		NCBITaxon:12657
+UniProt	UniProtKB:P83573	P83573	PMID:12963119		GO:0044533	positive regulation of apoptotic process in another organism	IDA				20141023		NCBITaxon:82095
+UniProt	UniProtKB:P83572	P83572	PMID:12963119		GO:0044533	positive regulation of apoptotic process in another organism	IDA				20141023		NCBITaxon:82095
+UniProt	UniProtKB:Q9M6E9	AAG	PMID:16772301		GO:0044533	positive regulation of apoptotic process in another organism	IDA				20141023		NCBITaxon:3816
+UniProt	UniProtKB:P13423	pagA	PMID:23626836		GO:0044533	positive regulation of apoptotic process in another organism	IGI	UniProtKB:P15917			20150810	CL:2000016	NCBITaxon:1392
+GO_Central	UniProtKB:Q6PQK2	Q6PQK2	PMID:15170336		GO:0044552	vasodilation in another organism	IMP				20201112		NCBITaxon:13249
+GO_Central	UniProtKB:Q6PQK2	Q6PQK2	PMID:17428677		GO:0044552	vasodilation in another organism	IMP				20201112		NCBITaxon:13249
+UniProt	UniProtKB:E3PQQ8	conoCAP	PMID:20923766		GO:0044554	modulation of heart rate in another organism	IDA				20120612		NCBITaxon:257347
+UniProt	UniProtKB:E3PQQ8	conoCAP	PMID:20385188		GO:0044555	negative regulation of heart rate in another organism	IDA				20120612		NCBITaxon:257347
+UniProt	UniProtKB:Q86LR2	Hln-1	PMID:12885226		GO:0044616	modulation of relaxation of muscle in another organism	IDA				20201112		NCBITaxon:6082
+UniProt	UniProtKB:P85871	P85871	PMID:18201803		GO:0044616	modulation of relaxation of muscle in another organism	IDA				20201109		NCBITaxon:192919
+UniProt	UniProtKB:A0A6G9KHD3	A0A6G9KHD3	PMID:31557881		GO:0044616	modulation of relaxation of muscle in another organism	IDA				20210310		NCBITaxon:219785
+UniProt	UniProtKB:A0A6G9KIT6	A0A6G9KIT6	PMID:32182430		GO:0044616	modulation of relaxation of muscle in another organism	IDA				20210310		NCBITaxon:219785
+UniProt	UniProtKB:A0A6G9KIR5	A0A6G9KIR5	PMID:32182430		GO:0044616	modulation of relaxation of muscle in another organism	IDA				20210310		NCBITaxon:219785
+UniProt	UniProtKB:A0A6G9KJV6	A0A6G9KJV6	PMID:32182430		GO:0044616	modulation of relaxation of muscle in another organism	IDA				20210310		NCBITaxon:219785
+UniProt	UniProtKB:A0A6G9KJK9	A0A6G9KJK9	PMID:32182430		GO:0044616	modulation of relaxation of muscle in another organism	IDA				20210310		NCBITaxon:219785
+UniProt	UniProtKB:A0A6G9KHD6	A0A6G9KHD6	PMID:32182430		GO:0044616	modulation of relaxation of muscle in another organism	IDA				20210310		NCBITaxon:219785
+UniProt	UniProtKB:P84715	P84715	PMID:9663691		GO:0044619	positive regulation of relaxation of uterine smooth muscle in another organism	IDA			PANTHER:PTHR12167	20171117		NCBITaxon:9258
