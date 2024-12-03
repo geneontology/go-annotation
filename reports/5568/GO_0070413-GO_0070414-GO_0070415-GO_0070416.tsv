@@ -1,0 +1,17 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CGD	CGD:CAL0000174399	HSP21	PMID:22685587|CGD_REF:CAL0000157456		GO:0070414	trehalose metabolism in response to heat stress	IMP				20140625		NCBITaxon:237561
+ComplexPortal	PomBase:SPAC19G12.15c	tpp1	PMID:12153582		GO:0070413	trehalose metabolism in response to stress	NAS			PANTHER:PTHR10788	20240827		NCBITaxon:4896
+EcoCyc	UniProtKB:P31678	otsB	PMID:12105274		GO:0070415	trehalose metabolism in response to cold stress	IEP			PANTHER:PTHR43768	20100317		NCBITaxon:83333
+EcoCyc	UniProtKB:P31678	otsB	PMID:12105274		GO:0070415	trehalose metabolism in response to cold stress	IMP			PANTHER:PTHR43768	20100316		NCBITaxon:83333
+EcoCyc	UniProtKB:P31677	otsA	PMID:12105274		GO:0070415	trehalose metabolism in response to cold stress	IEP				20100316		NCBITaxon:83333
+EcoCyc	UniProtKB:P31677	otsA	PMID:12105274		GO:0070415	trehalose metabolism in response to cold stress	IMP				20100316		NCBITaxon:83333
+PomBase	PomBase:SPBC660.07	ntp1	PMID:12153582		GO:0070413	trehalose metabolism in response to stress	TAS			PANTHER:PTHR23403	20210315		NCBITaxon:4896
+PomBase	PomBase:SPAC328.03	tps1	PMID:9729425		GO:0070413	trehalose metabolism in response to stress	IMP			PANTHER:PTHR10788	20140619		NCBITaxon:4896
+SGD	SGD:S000003949	HSP104	PMID:9797333		GO:0070414	trehalose metabolism in response to heat stress	IMP		UniProtKB:P31539	PANTHER:PTHR11638	20130807		NCBITaxon:559292
+SGD	SGD:S000002481	TPS2	PMID:9837904		GO:0070413	trehalose metabolism in response to stress	IMP		UniProtKB:P31688	PANTHER:PTHR10788	20180222		NCBITaxon:559292
+CGD	CGD:CAL0000174399	HSP21	PMID:22685587|CGD_REF:CAL0000157456		GO:0070414	trehalose metabolism in response to heat stress	IMP				20140625		NCBITaxon:237561
+SGD	SGD:S000003949	HSP104	PMID:9797333		GO:0070414	trehalose metabolism in response to heat stress	IMP		UniProtKB:P31539	PANTHER:PTHR11638	20130807		NCBITaxon:559292
+EcoCyc	UniProtKB:P31678	otsB	PMID:12105274		GO:0070415	trehalose metabolism in response to cold stress	IEP			PANTHER:PTHR43768	20100317		NCBITaxon:83333
+EcoCyc	UniProtKB:P31678	otsB	PMID:12105274		GO:0070415	trehalose metabolism in response to cold stress	IMP			PANTHER:PTHR43768	20100316		NCBITaxon:83333
+EcoCyc	UniProtKB:P31677	otsA	PMID:12105274		GO:0070415	trehalose metabolism in response to cold stress	IEP				20100316		NCBITaxon:83333
+EcoCyc	UniProtKB:P31677	otsA	PMID:12105274		GO:0070415	trehalose metabolism in response to cold stress	IMP				20100316		NCBITaxon:83333
