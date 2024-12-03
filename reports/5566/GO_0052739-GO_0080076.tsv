@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+Reactome	UniProtKB:Q53H76	PLA1A	Reactome:R-HSA-8869425		GO:0052739	phosphatidylserine 1-acylhydrolase activity	TAS		UniProtKB:Q53H76	PANTHER:PTHR11610	20240514		NCBITaxon:9606
+TAIR	AGI_LocusCode:AT3G61680	PLIP1	PMID:28687655|TAIR:Publication:501776107		GO:0052739	phosphatidylserine 1-acylhydrolase activity	IDA		TAIR:locus:2076785		20170718		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G67990	TSM1	PMID:19077165|TAIR:Publication:501729349		GO:0080076	caffeoyl CoA:S-adenosyl-L-methionine O-methyltransferase activity	IDA		TAIR:locus:2200256		20090422		NCBITaxon:3702
+UniProt	UniProtKB:A0A0S2UWC9	CCOAOMT1	PMID:26620524		GO:0080076	caffeoyl CoA:S-adenosyl-L-methionine O-methyltransferase activity	IDA				20200721		NCBITaxon:4102
