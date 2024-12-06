@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:O60656	UGT1A9	PMID:20056724		GO:0052696	flavonoid glucuronidation	IDA		UniProtKB:O60656	PANTHER:PTHR48050	20110822		NCBITaxon:9606
+BHF-UCL	UniProtKB:P22309	UGT1A1	PMID:20056724		GO:0052696	flavonoid glucuronidation	IDA		UniProtKB:P22309	PANTHER:PTHR48050	20110822		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9HAW9	UGT1A8	PMID:20056724		GO:0052696	flavonoid glucuronidation	IDA		UniProtKB:Q9HAW9	PANTHER:PTHR48050	20110822		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9HAW7	UGT1A7	PMID:20056724		GO:0052696	flavonoid glucuronidation	IDA		UniProtKB:Q9HAW7	PANTHER:PTHR48050	20110822		NCBITaxon:9606
+BHF-UCL	UniProtKB:P35503	UGT1A3	PMID:20056724		GO:0052696	flavonoid glucuronidation	IDA		UniProtKB:P35503	PANTHER:PTHR48050	20110822		NCBITaxon:9606
+RGD	RGD:3935	Ugt1a1	PMID:8806713|RGD:10769352		GO:0052696	flavonoid glucuronidation	IDA			PANTHER:PTHR48050	20160210		NCBITaxon:10116
