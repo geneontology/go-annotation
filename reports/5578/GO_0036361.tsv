@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	UniProtKB:Q81IL5	BC_0371	PMID:17603539		GO:0036361	racemase activity, acting on amino acids and derivatives	IDA			PANTHER:PTHR48073	20141021		NCBITaxon:226900
+UniProt	UniProtKB:Q0FPQ4	hpbD	PMID:24056934		GO:0036361	racemase activity, acting on amino acids and derivatives	IDA				20131209		NCBITaxon:314265
+UniProt	UniProtKB:A1B198	hpbD	PMID:24056934		GO:0036361	racemase activity, acting on amino acids and derivatives	IDA				20131209		NCBITaxon:318586
