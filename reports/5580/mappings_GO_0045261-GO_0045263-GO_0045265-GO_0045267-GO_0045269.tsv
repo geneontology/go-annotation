@@ -1,0 +1,21 @@
+term	file	line
+GO:0045261	uniprotkb_kw2go	UniProtKB-KW:KW-0139 CF(1) > GO:proton-transporting ATP synthase complex, catalytic core F(1) ; GO:0045261
+GO:0045261	interpro2go	InterPro:IPR000131 ATP synthase, F1 complex, gamma subunit > GO:proton-transporting ATP synthase complex, catalytic core F(1) ; GO:0045261
+GO:0045261	interpro2go	InterPro:IPR001469 ATP synthase, F1 complex, delta/epsilon subunit > GO:proton-transporting ATP synthase complex, catalytic core F(1) ; GO:0045261
+GO:0045261	interpro2go	InterPro:IPR005294 ATP synthase, F1 complex, alpha subunit > GO:proton-transporting ATP synthase complex, catalytic core F(1) ; GO:0045261
+GO:0045261	interpro2go	InterPro:IPR005722 ATP synthase, F1 complex, beta subunit > GO:proton-transporting ATP synthase complex, catalytic core F(1) ; GO:0045261
+GO:0045261	interpro2go	InterPro:IPR017691 ATP synthase subunit beta, bacterial and archaeal > GO:proton-transporting ATP synthase complex, catalytic core F(1) ; GO:0045261
+GO:0045261	interpro2go	InterPro:IPR017710 Alternate ATP synthase, F1 complex, subunit alpha > GO:proton-transporting ATP synthase complex, catalytic core F(1) ; GO:0045261
+GO:0045261	interpro2go	InterPro:IPR035968 ATP synthase, F1 complex, gamma subunit superfamily > GO:proton-transporting ATP synthase complex, catalytic core F(1) ; GO:0045261
+GO:0045263	uniprotkb_kw2go	UniProtKB-KW:KW-0138 CF(0) > GO:proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0045263
+GO:0045263	interpro2go	InterPro:IPR000454 ATP synthase, F0 complex, subunit C > GO:proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0045263
+GO:0045263	interpro2go	InterPro:IPR000568 ATP synthase, F0 complex, subunit A > GO:proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0045263
+GO:0045263	interpro2go	InterPro:IPR002146 ATP synthase, F0 complex, subunit b/b', bacterial/chloroplast > GO:proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0045263
+GO:0045263	interpro2go	InterPro:IPR005864 ATP synthase, F0 complex, subunit b, bacterial > GO:proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0045263
+GO:0045263	interpro2go	InterPro:IPR005953 ATP synthase, F0 complex, subunit C, bacterial/chloroplast > GO:proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0045263
+GO:0045263	interpro2go	InterPro:IPR006995 ATP synthase, F0 complex, subunit J > GO:proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0045263
+GO:0045263	interpro2go	InterPro:IPR009230 ATP synthase protein 8, fungal type > GO:proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0045263
+GO:0045263	interpro2go	InterPro:IPR034679 ATP synthase, F0 complex, subunit b' > GO:proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0045263
+GO:0045263	interpro2go	InterPro:IPR045082 ATP synthase, F0 complex, subunit A, bacterial/chloroplast > GO:proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0045263
+GO:0045263	interpro2go	InterPro:IPR045083 ATP synthase, F0 complex, subunit A, bacterial/mitochondria > GO:proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0045263
+GO:0045263	unirule2go	UniRule:UR000310751 > GO:proton-transporting ATP synthase complex, coupling factor F(o) ; GO:0045263

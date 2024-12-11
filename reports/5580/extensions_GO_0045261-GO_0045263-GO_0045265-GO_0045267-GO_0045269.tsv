@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+SGD	SGD:S000002340	INH1	PMID:15294286		GO:0042030	ATPase inhibitor activity	IDA		UniProtKB:P01097		20191106	GO:0045261	NCBITaxon:559292
+UniProt	UniProtKB:P30049	ATP5F1D	PMID:12539966	contributes_to	GO:0005524	ATP binding	NAS		UniProtKB:P30049	PANTHER:PTHR13822	20210610	GO:0045261	NCBITaxon:9606
+UniProt	UniProtKB:P30049	ATP5F1D	PMID:12539966	contributes_to	GO:0043531	ADP binding	NAS		UniProtKB:P30049	PANTHER:PTHR13822	20210610	GO:0045261	NCBITaxon:9606
+UniProt	MGI:MGI:2180560	Atpaf1	PMID:34375736		GO:0140777	protein-containing complex stabilizing activity	IMP			PANTHER:PTHR13126	20240410	GO:0045261	NCBITaxon:10090

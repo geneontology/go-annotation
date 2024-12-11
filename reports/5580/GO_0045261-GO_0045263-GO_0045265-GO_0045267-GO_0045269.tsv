@@ -1,0 +1,96 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AgBase	UniProtKB:C6GFP2	LOC107950798	PMID:21040305		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA			PANTHER:PTHR13822	20120120		NCBITaxon:3635
+CACAO	UniProtKB:P05036	atpA	PMID:10625626		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA				20111205		NCBITaxon:1085
+CACAO	UniProtKB:P56381	ATP5F1E	PMID:20566710		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IMP		UniProtKB:P56381	PANTHER:PTHR12448	20120212		NCBITaxon:9606
+EcoliWiki	UniProtKB:P0ABB0	atpA	PMID:153904		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IMP			PANTHER:PTHR48082	20080730		NCBITaxon:83333
+EcoliWiki	UniProtKB:P0ABB4	atpD	PMID:158358		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IMP			PANTHER:PTHR15184	20110815		NCBITaxon:83333
+EcoliWiki	UniProtKB:P0ABA6	atpG	PMID:2863270		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IMP			PANTHER:PTHR11693	20080730		NCBITaxon:83333
+EcoliWiki	UniProtKB:P0A6E6	atpC	PMID:6238948		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA			PANTHER:PTHR13822	20110815		NCBITaxon:83333
+EcoliWiki	UniProtKB:P0ABA4	atpH	PMID:6294057		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IMP			PANTHER:PTHR11910	20080731		NCBITaxon:83333
+GeneDB	TriTrypDB:Tb927.3.1380	ATPB	PMID:19436713		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA				20141208		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.10.5050	Tb927.10.5050	PMID:19436713		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA				20170525		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.10.180	ATPF1G	PMID:19436713		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA				20170525		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.6.4990	Tb927.6.4990	PMID:19436713		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA				20170525		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.7.7430	ATPF1A	PMID:19436713		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA				20150713		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.7.7420	ATPF1A	PMID:19436713		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA				20150713		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.3.1380	ATPB	PMID:29247468		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA				20180905		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.10.5050	Tb927.10.5050	PMID:29247468		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA				20180905		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.10.180	ATPF1G	PMID:29247468		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA				20180905		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.6.4990	Tb927.6.4990	PMID:29247468		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA				20180905		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.7.7430	ATPF1A	PMID:29247468		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA				20180905		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.7.7420	ATPF1A	PMID:29247468		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA				20180905		NCBITaxon:185431
+RGD	RGD:620011	Atp5f1c	PMID:10887193|RGD:2292427		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA			PANTHER:PTHR11693	20080417		NCBITaxon:10116
+RGD	RGD:621368	Atp5f1b	PMID:10887193|RGD:2292427		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA			PANTHER:PTHR15184	20080417		NCBITaxon:10116
+RGD	RGD:621372	Atp5f1d	PMID:10887193|RGD:2292427		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA			PANTHER:PTHR13822	20080417		NCBITaxon:10116
+RGD	RGD:621374	Atp5f1e	PMID:10887193|RGD:2292427		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA			PANTHER:PTHR12448	20080417		NCBITaxon:10116
+RGD	RGD:619993	Atp5f1a	PMID:10887193|RGD:2292427		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA			PANTHER:PTHR48082	20080417		NCBITaxon:10116
+RGD	RGD:621368	Atp5f1b	PMID:1834656|RGD:2292212		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA			PANTHER:PTHR15184	20080415		NCBITaxon:10116
+RGD	RGD:619993	Atp5f1a	PMID:1834656|RGD:2292212		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA			PANTHER:PTHR48082	20080415		NCBITaxon:10116
+RGD	RGD:620011	Atp5f1c	PMID:2894844|RGD:2292224		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA			PANTHER:PTHR11693	20080415		NCBITaxon:10116
+RGD	RGD:621368	Atp5f1b	PMID:2894844|RGD:2292224		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA			PANTHER:PTHR15184	20080415		NCBITaxon:10116
+RGD	RGD:621372	Atp5f1d	PMID:2894844|RGD:2292224		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA			PANTHER:PTHR13822	20080415		NCBITaxon:10116
+RGD	RGD:621374	Atp5f1e	PMID:2894844|RGD:2292224		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA			PANTHER:PTHR12448	20080415		NCBITaxon:10116
+RGD	RGD:619993	Atp5f1a	PMID:2894844|RGD:2292224		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA			PANTHER:PTHR48082	20080415		NCBITaxon:10116
+RGD	RGD:621372	Atp5f1d	PMID:9578578|RGD:724594		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA			PANTHER:PTHR13822	20050217		NCBITaxon:10116
+SGD	SGD:S000003882	ATP2	PMID:15294286		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA		UniProtKB:P00830	PANTHER:PTHR15184	20200212		NCBITaxon:559292
+SGD	SGD:S000006192	ATP15	PMID:15294286		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA		UniProtKB:P21306	PANTHER:PTHR12448	20200212		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT5G08690	AT5G08690	PMID:12681508|TAIR:Publication:501705871		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA		TAIR:locus:505006590		20080502		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G08680	AT5G08680	PMID:12681508|TAIR:Publication:501705871		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA		TAIR:locus:504956338		20080502		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G08670	AT5G08670	PMID:12681508|TAIR:Publication:501705871		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA		TAIR:locus:505006589		20080502		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G47030	AT5G47030	PMID:12681508|TAIR:Publication:501705871		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	IDA		TAIR:locus:2171022		20080502		NCBITaxon:3702
+UniProt	UniProtKB:P30049	ATP5F1D	PMID:12539966		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	NAS		UniProtKB:P30049	PANTHER:PTHR13822	20080410		NCBITaxon:9606
+UniProt	UniProtKB:P36542	ATP5F1C	PMID:8227057		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	NAS		UniProtKB:P36542	PANTHER:PTHR11693	20080410		NCBITaxon:9606
+UniProt	UniProtKB:Q06735	ATPA	PMID:8358823		GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	NAS				20041109		NCBITaxon:161934
+EcoCyc	UniProtKB:P0AB98	atpB	PMID:2863271		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IMP			PANTHER:PTHR42823	20140128		NCBITaxon:83333
+EcoliWiki	UniProtKB:P0ABA0	atpF	PMID:6460031		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IMP			PANTHER:PTHR33445	20080805		NCBITaxon:83333
+EcoliWiki	UniProtKB:P0AB98	atpB	PMID:6460031		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IMP			PANTHER:PTHR42823	20080805		NCBITaxon:83333
+EcoliWiki	UniProtKB:P68699	atpE	PMID:6460031		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IMP			PANTHER:PTHR10031	20080805		NCBITaxon:83333
+FlyBase	UniProtKB:Q3ZBI7	ATP5MK	PMID:25851905		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IDA		UniProtKB:Q3ZBI7	PANTHER:PTHR34038	20240424		NCBITaxon:9913
+GeneDB	TriTrypDB:Tb927.10.1570	ATPc2	PMID:19436713		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IDA				20170524		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.11.5280	ATPc1	PMID:19436713		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IDA				20170525		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.5.1710	P18	PMID:19436713		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IPI	GeneDB:Tb927.5.1710			20170518		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.7.1470	ATPc3	PMID:23326569		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IDA				20170524		NCBITaxon:185431
+MTBBASE	UniProtKB:P9WPS1	atpE	PMID:17496888		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IDA			PANTHER:PTHR10031	20110606		NCBITaxon:83332
+RGD	RGD:621377	Atp5me	PMID:10887193|RGD:2292427		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IDA			PANTHER:PTHR12427	20080417		NCBITaxon:10116
+RGD	RGD:621376	Atp5pf	PMID:10887193|RGD:2292427		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IDA			PANTHER:PTHR12441	20080417		NCBITaxon:10116
+RGD	RGD:1303259	Atp5mg	PMID:10887193|RGD:2292427		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IDA			PANTHER:PTHR12386	20080417		NCBITaxon:10116
+RGD	RGD:1596067	Atp5mf	PMID:10887193|RGD:2292427		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IDA			PANTHER:PTHR13080	20080417		NCBITaxon:10116
+RGD	RGD:620041	Atp5pb	PMID:10887193|RGD:2292427		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IDA			PANTHER:PTHR12733	20080417		NCBITaxon:10116
+RGD	RGD:620083	Atp5pd	PMID:10887193|RGD:2292427		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IDA			PANTHER:PTHR12700	20080417		NCBITaxon:10116
+RGD	RGD:621379	Atp5po	PMID:10887193|RGD:2292427		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IDA			PANTHER:PTHR11910	20080417		NCBITaxon:10116
+RGD	RGD:61933	Atp5mc1	PMID:10887193|RGD:2292427		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IDA			PANTHER:PTHR10031	20080417		NCBITaxon:10116
+RGD	RGD:620083	Atp5pd	PMID:7509337|RGD:632024		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IDA			PANTHER:PTHR12700	20050217		NCBITaxon:10116
+SGD	SGD:S000007268	ATP6	PMID:18722382		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IDA		UniProtKB:P00854	PANTHER:PTHR11410	20141118		NCBITaxon:559292
+SGD	SGD:S000007274	OLI1	PMID:2894987		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IPI	SGD:S000007268	UniProtKB:P61829	PANTHER:PTHR10031	20190222		NCBITaxon:559292
+SGD	SGD:S000007267	ATP8	PMID:8662204		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IMP		UniProtKB:P00856	PANTHER:PTHR36101	20130807		NCBITaxon:559292
+SGD	SGD:S000004286	ATP14	PMID:8702761		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IMP		UniProtKB:Q12349	PANTHER:PTHR28207	20130807		NCBITaxon:559292
+SGD	SGD:S000002785	ATP17	PMID:9288937		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IMP		UniProtKB:Q06405	PANTHER:PTHR28161	20130807		NCBITaxon:559292
+SGD	SGD:S000007339	ATP19	PMID:9857174		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IMP		UniProtKB:P81451	PANTHER:PTHR28074	20130807		NCBITaxon:559292
+SGD	SGD:S000007255	TIM11	PMID:9857174		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IMP		UniProtKB:P81449		20130807		NCBITaxon:559292
+SGD	SGD:S000007247	ATP18	PMID:9867807		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IMP		UniProtKB:P81450	PANTHER:PTHR28060	20130807		NCBITaxon:559292
+TAIR	AGI_LocusCode:ATMG00480	ORFB	PMID:12681508|TAIR:Publication:501705871		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IDA		TAIR:locus:504954531		20030701		NCBITaxon:3702
+TAIR	AGI_LocusCode:ATMG00640	ORF25	PMID:12681508|TAIR:Publication:501705871		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IDA		TAIR:locus:504954547		20030707		NCBITaxon:3702
+UniProt	UniProtKB:P00847	MT-ATP6	PMID:17570365		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IDA		UniProtKB:P00847	PANTHER:PTHR11410	20240610		NCBITaxon:9913
+UniProt	UniProtKB:P00847	MT-ATP6	PMID:1827992		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IDA		UniProtKB:P00847	PANTHER:PTHR11410	20240610		NCBITaxon:9913
+UniProt	UniProtKB:P0CY41	atp8	PMID:7945306		GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	IGI	SGD:S000007267		PANTHER:PTHR36101	20240610		NCBITaxon:227321
+SGD	SGD:S000001499	ATP7	PMID:1832157		GO:0045265	proton-transporting ATP synthase, stator stalk	IMP		UniProtKB:P30902	PANTHER:PTHR12700	20130807		NCBITaxon:559292
+SGD	SGD:S000002706	ATP5	PMID:18722382		GO:0045265	proton-transporting ATP synthase, stator stalk	IDA		UniProtKB:P09457	PANTHER:PTHR11910	20141118		NCBITaxon:559292
+SGD	SGD:S000005999	ATP4	PMID:18722382		GO:0045265	proton-transporting ATP synthase, stator stalk	IDA		UniProtKB:P05626	PANTHER:PTHR12733	20130807		NCBITaxon:559292
+SGD	SGD:S000001499	ATP7	PMID:18937496		GO:0045265	proton-transporting ATP synthase, stator stalk	IDA		UniProtKB:P30902	PANTHER:PTHR12700	20141119		NCBITaxon:559292
+SGD	SGD:S000002706	ATP5	PMID:2146269		GO:0045265	proton-transporting ATP synthase, stator stalk	IMP		UniProtKB:P09457	PANTHER:PTHR11910	20130807		NCBITaxon:559292
+PomBase	PomBase:SPAC14C4.14	atp1	PMID:1824697		GO:0045267	proton-transporting ATP synthase, catalytic core	TAS			PANTHER:PTHR48082	20040505		NCBITaxon:4896
+SGD	SGD:S000003882	ATP2	PMID:15294286		GO:0045267	proton-transporting ATP synthase, catalytic core	IDA		UniProtKB:P00830	PANTHER:PTHR15184	20240607		NCBITaxon:559292
+SGD	SGD:S000000195	ATP1	PMID:15294286		GO:0045267	proton-transporting ATP synthase, catalytic core	IDA		UniProtKB:P07251	PANTHER:PTHR48082	20240607		NCBITaxon:559292
+SGD	SGD:S000003882	ATP2	PMID:17082766		GO:0045267	proton-transporting ATP synthase, catalytic core	IDA		UniProtKB:P00830	PANTHER:PTHR15184	20240607		NCBITaxon:559292
+SGD	SGD:S000000195	ATP1	PMID:17082766		GO:0045267	proton-transporting ATP synthase, catalytic core	IDA		UniProtKB:P07251	PANTHER:PTHR48082	20240607		NCBITaxon:559292
+SGD	SGD:S000000195	ATP1	PMID:2876995		GO:0045267	proton-transporting ATP synthase, catalytic core	IMP		UniProtKB:P07251	PANTHER:PTHR48082	20240607		NCBITaxon:559292
+SGD	SGD:S000003882	ATP2	PMID:6225776		GO:0045267	proton-transporting ATP synthase, catalytic core	IMP		UniProtKB:P00830	PANTHER:PTHR15184	20240607		NCBITaxon:559292
+TAIR	AGI_LocusCode:ATCG00480	PB	TAIR:Publication:501682433		GO:0045267	proton-transporting ATP synthase, catalytic core	TAS		TAIR:locus:504954671		20040420		NCBITaxon:3702
+UniProt	UniProtKB:P06576	ATP5F1B	PMID:2870059		GO:0045267	proton-transporting ATP synthase, catalytic core	NAS		UniProtKB:P06576	PANTHER:PTHR15184	20080411		NCBITaxon:9606
+PomBase	PomBase:SPAC222.12c	atp2	PMID:6228552		GO:0045269	proton-transporting ATP synthase, central stalk	IGI	SGD:S000003882		PANTHER:PTHR15184	20040505		NCBITaxon:4896
+SGD	SGD:S000006192	ATP15	PMID:17082766		GO:0045269	proton-transporting ATP synthase, central stalk	IDA		UniProtKB:P21306	PANTHER:PTHR12448	20240607		NCBITaxon:559292
+SGD	SGD:S000000243	ATP3	PMID:17082766		GO:0045269	proton-transporting ATP synthase, central stalk	IDA		UniProtKB:P38077	PANTHER:PTHR11693	20240607		NCBITaxon:559292
+SGD	SGD:S000002162	ATP16	PMID:17082766		GO:0045269	proton-transporting ATP synthase, central stalk	IDA		UniProtKB:Q12165	PANTHER:PTHR13822	20130807		NCBITaxon:559292
+SGD	SGD:S000000243	ATP3	PMID:7929329		GO:0045269	proton-transporting ATP synthase, central stalk	IMP		UniProtKB:P38077	PANTHER:PTHR11693	20240607		NCBITaxon:559292
+SGD	SGD:S000002162	ATP16	PMID:8026496		GO:0045269	proton-transporting ATP synthase, central stalk	IMP		UniProtKB:Q12165	PANTHER:PTHR13822	20130807		NCBITaxon:559292
+SGD	SGD:S000006192	ATP15	PMID:8416924		GO:0045269	proton-transporting ATP synthase, central stalk	IMP		UniProtKB:P21306	PANTHER:PTHR12448	20240607		NCBITaxon:559292
