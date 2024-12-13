@@ -1,0 +1,11 @@
+term	file	line
+GO:0062023	interpro2go	InterPro:IPR001863 Glypican > GO:collagen-containing extracellular matrix ; GO:0062023
+GO:0062023	interpro2go	InterPro:IPR003979 Tropoelastin > GO:collagen-containing extracellular matrix ; GO:0062023
+GO:0062023	interpro2go	InterPro:IPR004116 Amelogenin > GO:collagen-containing extracellular matrix ; GO:0062023
+GO:0062023	interpro2go	InterPro:IPR013275 Peptidase M12B, ADAM-TS2 > GO:collagen-containing extracellular matrix ; GO:0062023
+GO:0062023	interpro2go	InterPro:IPR013276 Peptidase M12B, ADAM-TS5 > GO:collagen-containing extracellular matrix ; GO:0062023
+GO:0062023	interpro2go	InterPro:IPR013277 Peptidase M12B, ADAM-TS8 > GO:collagen-containing extracellular matrix ; GO:0062023
+GO:0062023	interpro2go	InterPro:IPR016359 SPARC-like protein 1 > GO:collagen-containing extracellular matrix ; GO:0062023
+GO:0062023	interpro2go	InterPro:IPR027118 Matrix Gla protein > GO:collagen-containing extracellular matrix ; GO:0062023
+GO:0062023	interpro2go	InterPro:IPR037640 SMOC-2, extracellular calcium-binding domain > GO:collagen-containing extracellular matrix ; GO:0062023
+GO:0062023	unirule2go	UniRule:UR001528771 > GO:collagen-containing extracellular matrix ; GO:0062023
