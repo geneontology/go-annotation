@@ -1,0 +1,4 @@
+term	file	line
+GO:0046177	metacyc2go	MetaCyc:GLUCONSUPER-PWY > GO:D-gluconate catabolic process ; GO:0046177
+GO:0046177	unirule2go	UniRule:UR000683091 > GO:D-gluconate catabolic process ; GO:0046177
+GO:0046177	hamap2go	HAMAP:MF_02094 > GO:D-gluconate catabolic process ; GO:0046177

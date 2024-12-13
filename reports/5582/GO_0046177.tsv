@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P39208	idnK	PMID:14973046		GO:0046177	D-gluconate catabolic process	IGI	EcoCyc:EG12629		PANTHER:PTHR43442	20100416		NCBITaxon:83333
+EcoCyc	UniProtKB:P00350	gnd	PMID:4869212		GO:0046177	D-gluconate catabolic process	IMP			PANTHER:PTHR11811	20160329		NCBITaxon:83333
+EcoCyc	UniProtKB:P0ADF6	edd	PMID:5337844		GO:0046177	D-gluconate catabolic process	IMP			PANTHER:PTHR43661	20160329		NCBITaxon:83333
+EcoCyc	UniProtKB:P46859	gntK	PMID:8655507		GO:0046177	D-gluconate catabolic process	EXP			PANTHER:PTHR43442	20150817		NCBITaxon:83333
+PomBase	PomBase:SPBC660.16	gnd1	PMID:7840611		GO:0046177	D-gluconate catabolic process	IDA			PANTHER:PTHR11811	20160629		NCBITaxon:4896
+PomBase	PomBase:SPAC4G9.12	idn1	PMID:7840611		GO:0046177	D-gluconate catabolic process	IDA			PANTHER:PTHR43442	20160629		NCBITaxon:4896
