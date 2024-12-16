@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+SGD	SGD:S000003087	COQ8	PMID:11279158		GO:1901006	ubiquinone-6 biosynthetic process	IMP		UniProtKB:P27697	PANTHER:PTHR43851	20140430		NCBITaxon:559292
+SGD	SGD:S000004191	COQ9	PMID:16027161		GO:1901006	ubiquinone-6 biosynthetic process	IMP		UniProtKB:Q05779	PANTHER:PTHR21427	20140430		NCBITaxon:559292
+SGD	SGD:S000003087	COQ8	PMID:25498144		GO:1901006	ubiquinone-6 biosynthetic process	IMP		UniProtKB:P27697	PANTHER:PTHR43851	20150610		NCBITaxon:559292
+SGD	SGD:S000004281	COQ11	PMID:25631044		GO:1901006	ubiquinone-6 biosynthetic process	IMP		UniProtKB:Q05892	PANTHER:PTHR12126	20150204		NCBITaxon:559292
