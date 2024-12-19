@@ -16,7 +16,7 @@ This is specification has been approved as version 2.0.
 - GPAD: Annotation Extensions in column 11 will use a Relation_ID, rather than a Relation_Symbol, in the Relational_Expression, e.g. RO:0002233(UniProtKB:Q00362)
 - GPAD and GPI: dates follow the ISO-8601 format, e.g. YYYY-MM-DD; time may be included as YYYY-MM-DDTHH:MM:SS
 - GPI: the entity type in column 5 is captured using an ID from the Sequence Ontology, Protein Ontology, or Gene Ontology.
-- GPI: the parent object id in column 7 refers to the gene-centric parent, e.g. the UniProtKB Gene-Centric Reference Proteome accession or a Model Organism Database gene identifier
+- GPI: the canonical object ID in column 8 refers to the gene-centric parent, e.g. the UniProtKB Gene-Centric Reference Proteome accession, Model Organism Database gene identifier, RNA Central ID or Complex Portal ID. 
 - Characters allowed in all fields have been explicitly specified
 - Extensions in file names are: *.gpad and *.gpi
 
@@ -46,7 +46,7 @@ GPI and GPAD documents consist of sequences of ASCII characters.
 | <code><a name="GPAD_Header">GPAD_Header</a></code> | <code>'!gpad-version: 2.0' \n '!generated-by: ' [Prefix](#Prefix) \n '!date-generated: ' [Date_Or_Date_Time](#Date_Or_Date_Time) \n [Header_Line](#Header_Line)*</code>| Groups may include optional additional [header properties](#header-properties) |
 | <code><a name="GPI_Header">GPI_Header</a></code> | <code>'!gpi-version: 2.0' \n '!generated-by: ' [Prefix](#Prefix) \n '!date-generated: ' [Date_Or_Date_Time](#Date_Or_Date_Time) \n [Header_Line](#Header_Line)*</code>| Groups may include optional additional [header properties](#header-properties) |
 | <code><a name="Annotation">Annotation</a></code> | <code>[DB_Object_ID](#DB_Object_ID) \t [Negation](#Negation) \t [Relation](#Relation) \t [Ontology_Class_ID](#Ontology_Class_ID) \t [Reference](#Reference) \t [Evidence_Type](#Evidence_Type) \t [With_Or_From](#With_Or_From) \t [Interacting_Taxon_ID](#Interacting_Taxon_ID) \t [Annotation_Date](#Annotation_Date) \t [Assigned_By](#Assigned_By) \t [Annotation_Extensions](#Annotation_Extensions) \t [Annotation_Properties](#Annotation_Properties) \n</code>| |
-| <code><a name="Entity">Entity</a></code> | <code>[DB_Object_ID](#DB_Object_ID) \t [DB_Object_Symbol](#DB_Object_Symbol) \t [DB_Object_Name](#DB_Object_Name) \t [DB_Object_Synonyms](#DB_Object_Synonyms) \t [DB_Object_Type](#DB_Object_Type) \t [DB_Object_Taxon](#DB_Object_Taxon) \t [Encoded_By](#Encoded_By) \t [Parent_Protein](#Parent_Protein) \t [Protein_Containing_Complex_Members](#Protein_Containing_Complex_Members) \t [DB_Xrefs](#DB_Xrefs) \t [Gene_Product_Properties](#Gene_Product_Properties) \n</code>| |
+| <code><a name="Entity">Entity</a></code> | <code>[DB_Object_ID](#DB_Object_ID) \t [DB_Object_Symbol](#DB_Object_Symbol) \t [DB_Object_Name](#DB_Object_Name) \t [DB_Object_Synonyms](#DB_Object_Synonyms) \t [DB_Object_Type](#DB_Object_Type) \t [DB_Object_Taxon](#DB_Object_Taxon) \t [Encoded_By](#Encoded_By) \t [Canonical Object ID](#Canonical_Object_ID) \t [Protein_Containing_Complex_Members](#Protein_Containing_Complex_Members) \t [DB_Xrefs](#DB_Xrefs) \t [Gene_Product_Properties](#Gene_Product_Properties) \n</code>| |
 
 ### Header properties
 
@@ -90,7 +90,7 @@ Header property | Example value | Comment
 | 5 | <code><a name="DB_Object_Type">DB_Object_Type</a></code> | <code>[ID](#ID) ( '\|' [ID](#ID) )*</code>| `PR:000000001` | Identifier used MUST conform to the list in [GPI entity types](#gpi-entity-types) |
 | 6 | <code><a name="DB_Object_Taxon">DB_Object_Taxon</a></code> | <code>[ID](#ID)</code>| `NCBITaxon:9606` | The taxon MUST be a term from the NCBITaxon ontology |
 | 7 | <code><a name="Encoded_By">Encoded_By</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| `HGNC:17810` | For proteins and transcripts, this refers to the gene id that encodes those entities. |
-| 8 | <code><a name="Parent_Protein">Parent_Protein</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| | When column 1 refers to a protein isoform or modified protein, this column refers to the gene-centric reference protein accession of the column 1 entry. |
+| 8 | <code><a name="Canonical_Object_ID">Canonical Object ID</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| | This column refers to the gene-centric reference protein accession of the column 1 entry, or to the complex ID for protein complexes. |
 | 9 | <code><a name="Protein_Containing_Complex_Members">Protein_Containing_Complex_Members</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| `UniProtKB:Q15021\|UniProtKB:Q15003` | |
 | 10 | <code><a name="DB_Xrefs">DB_Xrefs</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| `HGNC:17810` | Identifiers used MUST include the [required DB xref values](#required-and-optional-db-xrefs) |
 | 11 | <code><a name="Gene_Product_Properties">Gene_Product_Properties</a></code> | <code>( [Property_Value_Pair](#Property_Value_Pair) ( '\|' [Property_Value_Pair](#Property_Value_Pair) )* )?</code>| `db-subset=Swiss-Prot` | Properties and values MUST conform to the list in [GPI gene product properties](#gpi-gene-product-properties) |
@@ -176,16 +176,14 @@ Entity type value must be provided as an ontology term identifier from Sequence 
 ### Required and Optional DB xrefs
 #### Required:
 
- - **MODs:** Must associate gene ids, for protein-coding genes, with UniProtKB gene-centric reference protein accessions
- - **UniProtKB:** Must associate gene-centric reference protein accessions with MOD gene ids
+ - **MODs:** Must associate gene IDs, for protein-coding genes, with UniProtKB gene-centric reference protein accessions. Must associated RNA Central IDs for RNA objects, and Complex Portal IDs for protein complexes.
+ - **UniProtKB:** Must associate gene-centric reference protein accessions with MOD gene IDs.
 
 #### Optional DB xref suggestions (where applicable):
 
-- RNAcentral 
 - Ensembl gene
 - NCBI RefSeq gene
 - HGNC
-- ComplexPortal
 - PRO
 
 ### GPI Gene Product Properties
