@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPAC144.08	jac1	PMID:26545917		GO:0001671	ATPase activator activity	IDA			PANTHER:PTHR14021	20160511	PomBase:SPAC664.11|GO:0044571	NCBITaxon:4896
+PomBase	PomBase:SPAC227.13c	isu1	PMID:26545917		GO:0005515	protein binding	IPI	PomBase:SPAC664.11		PANTHER:PTHR10093	20160512	GO:0044571	NCBITaxon:4896
+PomBase	PomBase:SPAC664.11	ssc1	PMID:26545917		GO:0016887	ATP hydrolysis activity	IDA			PANTHER:PTHR19375	20160511	GO:0044571	NCBITaxon:4896
+PomBase	PomBase:SPAC664.11	ssc1	PMID:26545917		GO:0005515	protein binding	IPI	PomBase:SPAC227.13c		PANTHER:PTHR19375	20160512	GO:0044571	NCBITaxon:4896

@@ -1,0 +1,7 @@
+term	file	line
+GO:0018283	interpro2go	InterPro:IPR017789 Frataxin > GO:iron incorporation into metallo-sulfur cluster ; GO:0018283
+GO:0018418	resid2go	RESID:AA0293 > GO:nickel incorporation into iron-sulfur cluster via tris-L-cysteinyl L-cysteine persulfido L-glutamato L-histidino L-serinyl nickel triiron disulfide trioxide ; GO:0018418
+GO:0044571	interpro2go	InterPro:IPR004640 Co-chaperone Hsc20 > GO:[2Fe-2S] cluster assembly ; GO:0044571
+GO:0044571	interpro2go	InterPro:IPR010240 Cysteine desulfurase IscS > GO:[2Fe-2S] cluster assembly ; GO:0044571
+GO:0044571	unirule2go	UniRule:UR000084057 > GO:[2Fe-2S] cluster assembly ; GO:0044571
+GO:0044571	hamap2go	HAMAP:MF_00331 > GO:[2Fe-2S] cluster assembly ; GO:0044571
