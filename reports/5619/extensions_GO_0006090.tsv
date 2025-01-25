@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	FB:FBgn0030478	Alat	PMID:37932430|FB:FBrf0258148		GO:0004021	L-alanine:2-oxoglutarate aminotransferase activity	IMP			PANTHER:PTHR11751	20240111	GO:0006090	NCBITaxon:7227
+FlyBase	FB:FBgn0001258	Ldh	PMID:6819859|FB:FBrf0037503		GO:0004459	L-lactate dehydrogenase activity	IDA			PANTHER:PTHR43128	20240126	GO:0006090|GO:0006089	NCBITaxon:7227
+MGI	MGI:MGI:2147351	Me2	PMID:19691144		GO:0004471	malate dehydrogenase (decarboxylating) (NAD+) activity	IDA			PANTHER:PTHR23406	20221020	GO:0006090	NCBITaxon:10090
+MGI	MGI:MGI:1915886	Fahd1	PMID:25575590		GO:0008948	oxaloacetate decarboxylase activity	IMP	MGI:MGI:6358775		PANTHER:PTHR11820	20221020	GO:0006090	NCBITaxon:10090
+MGI	MGI:MGI:1916679	Me3	PMID:25711		GO:0004473	malate dehydrogenase (decarboxylating) (NADP+) activity	IDA			PANTHER:PTHR23406	20221025	GO:0006090|GO:0005759	NCBITaxon:10090

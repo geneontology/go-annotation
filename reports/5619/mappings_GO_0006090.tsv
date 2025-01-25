@@ -1,0 +1,11 @@
+term	file	line
+GO:0006090	reactome2go	Reactome:R-HSA-70268 > GO:pyruvate metabolic process ; GO:0006090
+GO:0006090	metacyc2go	MetaCyc:P41-PWY > GO:pyruvate metabolic process ; GO:0006090
+GO:0006090	wikipedia2go	Wikipedia:Pyruvic_acid > GO:pyruvate metabolic process ; GO:0006090
+GO:0006090	interpro2go	InterPro:IPR005930 Pyruvate carboxylase > GO:pyruvate metabolic process ; GO:0006090
+GO:0006090	interpro2go	InterPro:IPR006257 Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex > GO:pyruvate metabolic process ; GO:0006090
+GO:0006090	interpro2go	InterPro:IPR006319 Phosphoenolpyruvate synthase > GO:pyruvate metabolic process ; GO:0006090
+GO:0006090	interpro2go	InterPro:IPR010121 Pyruvate, phosphate dikinase > GO:pyruvate metabolic process ; GO:0006090
+GO:0006090	interpro2go	InterPro:IPR044261 Pyruvate dehydrogenase [ubiquinone] > GO:pyruvate metabolic process ; GO:0006090
+GO:0006090	unirule2go	UniRule:UR000124451 > GO:pyruvate metabolic process ; GO:0006090
+GO:0006090	unirule2go	UniRule:UR000380769 > GO:pyruvate metabolic process ; GO:0006090
