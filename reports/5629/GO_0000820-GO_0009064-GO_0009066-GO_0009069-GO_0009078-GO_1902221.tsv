@@ -1,0 +1,18 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	MGI:MGI:1922637	Sirt4	PMID:23562301		GO:0000820	regulation of glutamine family amino acid metabolic process	IMP			PANTHER:PTHR11085	20130413		NCBITaxon:10090
+FlyBase	FB:FBgn0004510	Ets97D	PMID:19742324|FB:FBrf0208776		GO:0000820	regulation of glutamine family amino acid metabolic process	IMP			PANTHER:PTHR11849	20190626		NCBITaxon:7227
+MTBBASE	UniProtKB:P9WN27	glnE	PMID:18469098		GO:0000820	regulation of glutamine family amino acid metabolic process	IMP			PANTHER:PTHR30621	20100519		NCBITaxon:83332
+UniProt	UniProtKB:P30870	glnE	PMID:8412694		GO:0000820	regulation of glutamine family amino acid metabolic process	IDA			PANTHER:PTHR30621	20161108		NCBITaxon:83333
+AspGD	UniProtKB:C8VEZ6	ANIA_05134	PMID:9933358		GO:0009064	glutamine family amino acid metabolic process	IGI	AspGD:ASPL0000075551		PANTHER:PTHR11938	20090908		NCBITaxon:227321
+AspGD	UniProtKB:C8VEZ6	ANIA_05134	PMID:9933358		GO:0009064	glutamine family amino acid metabolic process	IMP			PANTHER:PTHR11938	20090908		NCBITaxon:227321
+Reactome	UniProtKB:Q8IXN7	RIMKLA	Reactome:R-HSA-8964539		GO:0009064	glutamine family amino acid metabolic process	TAS		UniProtKB:Q8IXN7	PANTHER:PTHR21621	20240525		NCBITaxon:9606
+Reactome	UniProtKB:Q9ULI2	RIMKLB	Reactome:R-HSA-8964539		GO:0009064	glutamine family amino acid metabolic process	TAS		UniProtKB:Q9ULI2	PANTHER:PTHR21621	20240525		NCBITaxon:9606
+Reactome	UniProtKB:Q8N9F0	NAT8L	Reactome:R-HSA-8963693		GO:0009066	aspartate family amino acid metabolic process	TAS		UniProtKB:Q8N9F0	PANTHER:PTHR13947	20240601		NCBITaxon:9606
+Reactome	UniProtKB:Q86U10	ASPG	Reactome:R-HSA-8963693		GO:0009066	aspartate family amino acid metabolic process	TAS		UniProtKB:Q86U10	PANTHER:PTHR11707	20240601		NCBITaxon:9606
+AgBase	UniProtKB:P05153	PCK1	PMID:7275964		GO:0009069	serine family amino acid metabolic process	IDA		UniProtKB:P05153	PANTHER:PTHR11561	20110324		NCBITaxon:9031
+BHF-UCL	MGI:MGI:1342005	Mthfd1	PMID:23190757		GO:0009069	serine family amino acid metabolic process	IMP			PANTHER:PTHR48099	20150325	UBERON:0001969	NCBITaxon:10090
+MGI	MGI:MGI:1351636	Srr	PMID:15536068		GO:0009069	serine family amino acid metabolic process	IDA			PANTHER:PTHR43050	20051006		NCBITaxon:10090
+MGI	MGI:MGI:102570	Ndp	PMID:30988181		GO:0009069	serine family amino acid metabolic process	IMP	MGI:MGI:4414794		PANTHER:PTHR28611	20221206		NCBITaxon:10090
+TAIR	AGI_LocusCode:AT4G11640	SR	PMID:16483618|TAIR:Publication:501718516		GO:0009069	serine family amino acid metabolic process	IDA		TAIR:locus:2139767		20081210		NCBITaxon:3702
+UniProt	UniProtKB:Q60V73	mel-32	PMID:10216251		GO:0009069	serine family amino acid metabolic process	TAS			PANTHER:PTHR11680	20070515		NCBITaxon:6238
+UniProt	WB:WBGene00003214	mel-32	PMID:9497323|WB_REF:WBPaper00003021		GO:0009069	serine family amino acid metabolic process	TAS			PANTHER:PTHR11680	20070515		NCBITaxon:6239

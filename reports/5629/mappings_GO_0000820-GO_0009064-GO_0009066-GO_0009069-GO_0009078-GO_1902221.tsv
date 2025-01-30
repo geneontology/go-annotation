@@ -1,0 +1,6 @@
+term	file	line
+GO:0000820	hamap2go	HAMAP:MF_00802 > GO:regulation of glutamine family amino acid metabolic process ; GO:0000820
+GO:0000820	unirule2go	UniRule:UR000100229 > GO:regulation of glutamine family amino acid metabolic process ; GO:0000820
+GO:0009064	reactome2go	Reactome:R-HSA-8964539 > GO:glutamine family amino acid metabolic process ; GO:0009064
+GO:0009066	reactome2go	Reactome:R-HSA-8963693 > GO:aspartate family amino acid metabolic process ; GO:0009066
+GO:0009078	reactome2go	Reactome:R-HSA-8964540 > GO:pyruvate family amino acid metabolic process ; GO:0009078
