@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+WB	WB:WBGene00013866	cbs-1	PMID:22240119|WB_REF:WBPaper00040626		GO:0044272	sulfur compound biosynthetic process	IDA			PANTHER:PTHR10314	20120315		NCBITaxon:6239
