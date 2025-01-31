@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPBC1683.04	ghf3	GO_REF:0000051		GO:0044248	cellular catabolic process	NAS			PANTHER:PTHR42715	20080709		NCBITaxon:4896
+PseudoCAP	PseudoCAP:PA2863	lipH	PMID:1748875		GO:0044248	cellular catabolic process	IDA				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA3363	amiR	PMID:2495988		GO:0044248	cellular catabolic process	IDA				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA2416	treA	PMID:2820965		GO:0044248	cellular catabolic process	IMP				20190311		NCBITaxon:208964
+WB	WB:WBGene00001578	ges-1	PMID:2379823|WB_REF:WBPaper00001305		GO:0044248	cellular catabolic process	IDA			PANTHER:PTHR11559	20190320		NCBITaxon:6239
