@@ -1,0 +1,136 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:Q93063	EXT2	PMID:17761672		GO:0015014	heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	IMP		UniProtKB:Q93063	PANTHER:PTHR11062	20080228		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q16394	EXT1	PMID:17761672		GO:0015014	heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	IMP		UniProtKB:Q16394	PANTHER:PTHR11062	20080228		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-8307	ext1-ext2_human	PMID:36593275		GO:0015014	heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	IDA				20240823		NCBITaxon:9606
+FlyBase	FB:FBgn0265974	ttv	PMID:11832488|FB:FBrf0149597		GO:0015014	heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	IMP			PANTHER:PTHR11062	20190509		NCBITaxon:7227
+FlyBase	FB:FBgn0029175	sotv	PMID:14645127|FB:FBrf0167537		GO:0015014	heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	IMP			PANTHER:PTHR11062	20190501		NCBITaxon:7227
+FlyBase	FB:FBgn0027535	botv	PMID:14645127|FB:FBrf0167537		GO:0015014	heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	IMP			PANTHER:PTHR11062	20190501		NCBITaxon:7227
+FlyBase	FB:FBgn0265974	ttv	PMID:14645127|FB:FBrf0167537		GO:0015014	heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	IMP			PANTHER:PTHR11062	20190501		NCBITaxon:7227
+FlyBase	FB:FBgn0265974	ttv	PMID:15056609|FB:FBrf0174569		GO:0015014	heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	IMP			PANTHER:PTHR11062	20190509		NCBITaxon:7227
+FlyBase	FB:FBgn0265974	ttv	PMID:16303756|FB:FBrf0190890		GO:0015014	heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	IDA			PANTHER:PTHR11062	20190509		NCBITaxon:7227
+FlyBase	FB:FBgn0265974	ttv	PMID:19571145|FB:FBrf0208233		GO:0015014	heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	IMP			PANTHER:PTHR11062	20190509		NCBITaxon:7227
+MGI	MGI:MGI:1346049	Hs2st1	PMID:11457822		GO:0015014	heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	IMP	MGI:MGI:1934916		PANTHER:PTHR12129	20021231		NCBITaxon:10090
+UniProt	MGI:MGI:97040	Ndst2	PMID:10758005		GO:0015014	heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	IDA			PANTHER:PTHR10605	20211210		NCBITaxon:10090
+UniProt	MGI:MGI:104719	Ndst1	PMID:10758005		GO:0015014	heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	IDA			PANTHER:PTHR10605	20211210		NCBITaxon:10090
+UniProt	WB:WBGene00005025	sqv-7	PMID:11005858|WB_REF:WBPaper00004348		GO:0015014	heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	IMP			PANTHER:PTHR11132	20170126		NCBITaxon:6239
+UniProt	UniProtKB:O77783	EXT2	PMID:11256613		GO:0015014	heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	IDA		UniProtKB:O77783	PANTHER:PTHR11062	20240925		NCBITaxon:9913
+UniProt	UniProtKB:Q8TDX6	CSGALNACT1	PMID:11514575		GO:0015014	heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	NAS		UniProtKB:Q8TDX6	PANTHER:PTHR12369	20031216		NCBITaxon:9606
+UniProt	RGD:69303	Ndst1	PMID:1379236|RGD:68801		GO:0015014	heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	IDA			PANTHER:PTHR10605	20211215		NCBITaxon:10116
+UniProt	UniProtKB:Q93063	EXT2	PMID:36593275		GO:0015014	heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	IDA		UniProtKB:Q93063	PANTHER:PTHR11062	20230912		NCBITaxon:9606
+UniProt	UniProtKB:Q16394	EXT1	PMID:36593275		GO:0015014	heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	IDA		UniProtKB:Q16394	PANTHER:PTHR11062	20230912		NCBITaxon:9606
+UniProt	RGD:69303	Ndst1	PMID:8483907|RGD:151356652		GO:0015014	heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	IDA			PANTHER:PTHR10605	20211215		NCBITaxon:10116
+UniProt	UniProtKB:O77783	EXT2	PMID:9756849		GO:0015014	heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	IDA		UniProtKB:O77783	PANTHER:PTHR11062	20240925		NCBITaxon:9913
+UniProt	UniProtKB:O95803	NDST3	PMID:9915799		GO:0015014	heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	IDA		UniProtKB:O95803	PANTHER:PTHR10605	20170523		NCBITaxon:9606
+FlyBase	FB:FBgn0031005	Hs3st-B	PMID:15452147|FB:FBrf0180374		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	IMP			PANTHER:PTHR10605	20240827		NCBITaxon:7227
+FlyBase	FB:FBgn0024230	Hs2st	PMID:16966419|FB:FBrf0193661		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	IMP			PANTHER:PTHR12129	20240826		NCBITaxon:7227
+FlyBase	FB:FBgn0038755	Hs6st	PMID:16966419|FB:FBrf0193661		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	IMP			PANTHER:PTHR12812	20240826		NCBITaxon:7227
+FlyBase	FB:FBgn0040271	Sulf1	PMID:20637191|FB:FBrf0211640		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	IMP			PANTHER:PTHR43108	20240830		NCBITaxon:7227
+MGI	MGI:MGI:1354960	Hs6st3	PMID:10644753		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	IDA			PANTHER:PTHR12812	20130904		NCBITaxon:10090
+MGI	MGI:MGI:1354958	Hs6st1	PMID:10644753		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	IDA			PANTHER:PTHR12812	20130904		NCBITaxon:10090
+MGI	PR:Q80UW0-3	mHS6ST2/iso:3	PMID:10644753		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	IDA				20130904		NCBITaxon:10090
+Reactome	UniProtKB:P52849	NDST2	Reactome:R-HSA-2022860		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	TAS		UniProtKB:P52849	PANTHER:PTHR10605	20240525		NCBITaxon:9606
+Reactome	UniProtKB:P52848	NDST1	Reactome:R-HSA-2022860		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	TAS		UniProtKB:P52848	PANTHER:PTHR10605	20240525		NCBITaxon:9606
+Reactome	UniProtKB:P52849	NDST2	Reactome:R-HSA-2022887		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	TAS		UniProtKB:P52849	PANTHER:PTHR10605	20240525		NCBITaxon:9606
+Reactome	UniProtKB:P52848	NDST1	Reactome:R-HSA-2022887		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	TAS		UniProtKB:P52848	PANTHER:PTHR10605	20240525		NCBITaxon:9606
+Reactome	UniProtKB:O14792	HS3ST1	Reactome:R-HSA-2076383		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	TAS		UniProtKB:O14792	PANTHER:PTHR10605	20240525		NCBITaxon:9606
+Reactome	UniProtKB:Q96MM7	HS6ST2	Reactome:R-HSA-2076419		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	TAS		UniProtKB:Q96MM7	PANTHER:PTHR12812	20240525		NCBITaxon:9606
+Reactome	UniProtKB:O60243	HS6ST1	Reactome:R-HSA-2076419		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	TAS		UniProtKB:O60243	PANTHER:PTHR12812	20240525		NCBITaxon:9606
+Reactome	UniProtKB:Q7LGA3	HS2ST1	Reactome:R-HSA-2076508		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	TAS		UniProtKB:Q7LGA3	PANTHER:PTHR12129	20240525		NCBITaxon:9606
+Reactome	UniProtKB:Q9Y278	HS3ST2	Reactome:R-HSA-2076611		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	TAS		UniProtKB:Q9Y278	PANTHER:PTHR10605	20240525		NCBITaxon:9606
+Reactome	UniProtKB:Q8IZT8	HS3ST5	Reactome:R-HSA-2076611		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	TAS		UniProtKB:Q8IZT8	PANTHER:PTHR10605	20240525		NCBITaxon:9606
+Reactome	UniProtKB:Q9Y663	HS3ST3A1	Reactome:R-HSA-2076611		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	TAS		UniProtKB:Q9Y663	PANTHER:PTHR10605	20240525		NCBITaxon:9606
+Reactome	UniProtKB:Q9Y662	HS3ST3B1	Reactome:R-HSA-2076611		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	TAS		UniProtKB:Q9Y662	PANTHER:PTHR10605	20240525		NCBITaxon:9606
+Reactome	UniProtKB:Q96QI5	HS3ST6	Reactome:R-HSA-2076611		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	TAS		UniProtKB:Q96QI5	PANTHER:PTHR10605	20240525		NCBITaxon:9606
+UniProt	FB:FBgn0261445	sgl	PMID:10806213|FB:FBrf0128668		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	IMP			PANTHER:PTHR11374	20240828		NCBITaxon:7227
+UniProt	FB:FBgn0020251	sfl	PMID:10806213|FB:FBrf0128668		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	IMP			PANTHER:PTHR10605	20240828		NCBITaxon:7227
+UniProt	UniProtKB:Q8IZT8	HS3ST5	PMID:12138164		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	IDA		UniProtKB:Q8IZT8	PANTHER:PTHR10605	20031216		NCBITaxon:9606
+WB	WB:WBGene00002029	hst-2	PMID:15671174|WB_REF:WBPaper00024916		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	IDA			PANTHER:PTHR12129	20140818		NCBITaxon:6239
+WB	WB:WBGene00002029	hst-2	PMID:15671174|WB_REF:WBPaper00024916		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	IMP			PANTHER:PTHR12129	20140818		NCBITaxon:6239
+WB	WB:WBGene00002031	hst-6	PMID:21454666|WB_REF:WBPaper00038286		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	IMP	WB:WBVar00091572		PANTHER:PTHR12812	20110405		NCBITaxon:6239
+WB	WB:WBGene00002029	hst-2	PMID:21454666|WB_REF:WBPaper00038286		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	IMP	WB:WBVar00091881		PANTHER:PTHR12129	20110405		NCBITaxon:6239
+WB	WB:WBGene00002003	hse-5	PMID:21454666|WB_REF:WBPaper00038286		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	IMP	WB:WBVar00249516		PANTHER:PTHR13174	20110405		NCBITaxon:6239
+WB	WB:WBGene00006308	sul-1	PMID:21454666|WB_REF:WBPaper00038286		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	IMP	WB:WBVar00145558		PANTHER:PTHR43108	20110405		NCBITaxon:6239
+WB	WB:WBGene00002031	hst-6	PMID:27703236|WB_REF:WBPaper00050258		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	IGI	WB:WBGene00002029		PANTHER:PTHR12812	20161208		NCBITaxon:6239
+WB	WB:WBGene00002029	hst-2	PMID:27703236|WB_REF:WBPaper00050258		GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	IGI	WB:WBGene00002031		PANTHER:PTHR12129	20161208		NCBITaxon:6239
+FlyBase	FB:FBgn0015360	oxt	PMID:25940448|FB:FBrf0228609		GO:0030204	chondroitin sulfate metabolic process	IMP			PANTHER:PTHR46025	20150730		NCBITaxon:7227
+MGI	MGI:MGI:1927166	Chst11	PMID:16079159		GO:0030204	chondroitin sulfate metabolic process	IMP	MGI:MGI:3768254		PANTHER:PTHR12137	20080509	EMAPA:32730	NCBITaxon:10090
+MGI	MGI:MGI:1915720	Bpnt2	PMID:18539921		GO:0030204	chondroitin sulfate metabolic process	IMP	MGI:MGI:3806990		PANTHER:PTHR43028	20091016		NCBITaxon:10090
+MGI	MGI:MGI:1915720	Bpnt2	PMID:18695242		GO:0030204	chondroitin sulfate metabolic process	IMP	MGI:MGI:3810994		PANTHER:PTHR43028	20091016		NCBITaxon:10090
+MGI	MGI:MGI:2442354	Csgalnact1	PMID:20812917		GO:0030204	chondroitin sulfate metabolic process	IMP	MGI:MGI:4868209		PANTHER:PTHR12369	20120312		NCBITaxon:10090
+MGI	MGI:MGI:2442354	Csgalnact1	PMID:21148564		GO:0030204	chondroitin sulfate metabolic process	IMP	MGI:MGI:4947395		PANTHER:PTHR12369	20120312	EMAPA:32730	NCBITaxon:10090
+MGI	MGI:MGI:2442948	Dsel	PMID:22496542		GO:0030204	chondroitin sulfate metabolic process	IMP	MGI:MGI:5583872		PANTHER:PTHR15532	20141001	EMAPA:16894	NCBITaxon:10090
+MGI	MGI:MGI:2442948	Dsel	PMID:22496542		GO:0030204	chondroitin sulfate metabolic process	IMP	MGI:MGI:5583872		PANTHER:PTHR15532	20141001	EMAPA:17373	NCBITaxon:10090
+MGI	MGI:MGI:894663	Ext1	PMID:32201365		GO:0030204	chondroitin sulfate metabolic process	IMP			PANTHER:PTHR11062	20200519	GO:0008543|GO:0030509	NCBITaxon:10090
+MGI	MGI:MGI:2442948	Dsel	PMID:22496542		GO:0030205	dermatan sulfate metabolic process	IMP	MGI:MGI:5583872		PANTHER:PTHR15532	20141001	EMAPA:16894	NCBITaxon:10090
+MGI	MGI:MGI:2442948	Dsel	PMID:22496542		GO:0030205	dermatan sulfate metabolic process	IMP	MGI:MGI:5583872		PANTHER:PTHR15532	20141001	EMAPA:17373	NCBITaxon:10090
+FlyBase	UniProtKB:Q8IZ52	CHPF	PMID:12761225		GO:0030206	chondroitin sulfate biosynthetic process	IDA		UniProtKB:Q8IZ52	PANTHER:PTHR12369	20200925		NCBITaxon:9606
+FlyBase	FB:FBgn0030662	Chsy	PMID:37694610|FB:FBrf0257543		GO:0030206	chondroitin sulfate biosynthetic process	IMP			PANTHER:PTHR12369	20240723		NCBITaxon:7227
+MGI	MGI:MGI:1927166	Chst11	PMID:10722746		GO:0030206	chondroitin sulfate biosynthetic process	IDA			PANTHER:PTHR12137	20010920		NCBITaxon:10090
+MGI	UniProtKB:Q86X52	CHSY1	PMID:11514575		GO:0030206	chondroitin sulfate biosynthetic process	IDA		UniProtKB:Q86X52	PANTHER:PTHR12369	20091020		NCBITaxon:9606
+MGI	MGI:MGI:1858224	Chst3	PMID:11696535		GO:0030206	chondroitin sulfate biosynthetic process	IMP	MGI:MGI:2176247		PANTHER:PTHR10704	20101206	EMAPA:18767	NCBITaxon:10090
+MGI	MGI:MGI:1858224	Chst3	PMID:11696535		GO:0030206	chondroitin sulfate biosynthetic process	IMP	MGI:MGI:2176247		PANTHER:PTHR10704	20101206	EMAPA:16894	NCBITaxon:10090
+MGI	MGI:MGI:2442354	Csgalnact1	PMID:17145758		GO:0030206	chondroitin sulfate biosynthetic process	IMP			PANTHER:PTHR12369	20220420		NCBITaxon:10090
+MGI	MGI:MGI:1926173	Chsy3	PMID:17253960		GO:0030206	chondroitin sulfate biosynthetic process	IGI	MGI:MGI:106576		PANTHER:PTHR12369	20220421		NCBITaxon:10090
+MGI	MGI:MGI:106576	Chpf	PMID:17253960		GO:0030206	chondroitin sulfate biosynthetic process	IGI	MGI:MGI:1926173		PANTHER:PTHR12369	20220421		NCBITaxon:10090
+MGI	MGI:MGI:2140361	Slc35d1	PMID:17952091		GO:0030206	chondroitin sulfate biosynthetic process	IMP	MGI:MGI:3774133		PANTHER:PTHR11132	20120828		NCBITaxon:10090
+MGI	MGI:MGI:1927166	Chst11	PMID:21138417		GO:0030206	chondroitin sulfate biosynthetic process	IGI	MGI:MGI:1926002		PANTHER:PTHR12137	20120312		NCBITaxon:10090
+MGI	MGI:MGI:2681120	Chsy1	PMID:22952769		GO:0030206	chondroitin sulfate biosynthetic process	IGI	MGI:MGI:106576		PANTHER:PTHR12369	20220426		NCBITaxon:10090
+MGI	MGI:MGI:2681120	Chsy1	PMID:22952769		GO:0030206	chondroitin sulfate biosynthetic process	IGI	MGI:MGI:106576		PANTHER:PTHR12369	20220421		NCBITaxon:10090
+MGI	MGI:MGI:2681120	Chsy1	PMID:22952769		GO:0030206	chondroitin sulfate biosynthetic process	IGI	MGI:MGI:106576		PANTHER:PTHR12369	20140623		NCBITaxon:10090
+MGI	MGI:MGI:106576	Chpf	PMID:22952769		GO:0030206	chondroitin sulfate biosynthetic process	IGI	MGI:MGI:2681120		PANTHER:PTHR12369	20220421		NCBITaxon:10090
+MGI	MGI:MGI:106576	Chpf	PMID:22952769		GO:0030206	chondroitin sulfate biosynthetic process	IMP	MGI:MGI:5464019		PANTHER:PTHR12369	20140623		NCBITaxon:10090
+MGI	MGI:MGI:106576	Chpf	PMID:22952873		GO:0030206	chondroitin sulfate biosynthetic process	IGI	MGI:MGI:2681120		PANTHER:PTHR12369	20140623		NCBITaxon:10090
+MGI	MGI:MGI:894695	Galnt3	PMID:25107907		GO:0030206	chondroitin sulfate biosynthetic process	IMP			PANTHER:PTHR11675	20241008		NCBITaxon:10090
+MGI	MGI:MGI:2442354	Csgalnact1	PMID:25568321		GO:0030206	chondroitin sulfate biosynthetic process	IMP	MGI:MGI:4868209		PANTHER:PTHR12369	20220420		NCBITaxon:10090
+MGI	MGI:MGI:1926002	Csgalnact2	PMID:25568321		GO:0030206	chondroitin sulfate biosynthetic process	IMP			PANTHER:PTHR12369	20220420		NCBITaxon:10090
+MGI	MGI:MGI:2442354	Csgalnact1	PMID:29287114		GO:0030206	chondroitin sulfate biosynthetic process	IGI	MGI:MGI:1926002		PANTHER:PTHR12369	20220420		NCBITaxon:10090
+MGI	MGI:MGI:1858224	Chst3	PMID:9597547		GO:0030206	chondroitin sulfate biosynthetic process	IDA			PANTHER:PTHR10704	20220421		NCBITaxon:10090
+MGI	MGI:MGI:1858224	Chst3	PMID:9597547		GO:0030206	chondroitin sulfate biosynthetic process	IDA			PANTHER:PTHR10704	20101206		NCBITaxon:10090
+MTBBASE	UniProtKB:P9WIM5	Rv2959c	PMID:15292265		GO:0030206	chondroitin sulfate biosynthetic process	IMP			PANTHER:PTHR40048	20100319		NCBITaxon:83332
+RGD	RGD:620355	Chst3	PMID:16495484|RGD:1600854		GO:0030206	chondroitin sulfate biosynthetic process	IDA			PANTHER:PTHR10704	20070328		NCBITaxon:10116
+Reactome	UniProtKB:Q8N6G5	CSGALNACT2	Reactome:R-HSA-2022870		GO:0030206	chondroitin sulfate biosynthetic process	TAS		UniProtKB:Q8N6G5	PANTHER:PTHR12369	20240525		NCBITaxon:9606
+Reactome	UniProtKB:Q9NS84	CHST7	Reactome:R-HSA-2022870		GO:0030206	chondroitin sulfate biosynthetic process	TAS		UniProtKB:Q9NS84	PANTHER:PTHR10704	20240525		NCBITaxon:9606
+Reactome	UniProtKB:Q8NET6	CHST13	Reactome:R-HSA-2022870		GO:0030206	chondroitin sulfate biosynthetic process	TAS		UniProtKB:Q8NET6	PANTHER:PTHR12137	20240525		NCBITaxon:9606
+Reactome	UniProtKB:Q7L1S5	CHST9	Reactome:R-HSA-2022870		GO:0030206	chondroitin sulfate biosynthetic process	TAS		UniProtKB:Q7L1S5	PANTHER:PTHR12137	20240525		NCBITaxon:9606
+Reactome	UniProtKB:Q9NPF2	CHST11	Reactome:R-HSA-2022870		GO:0030206	chondroitin sulfate biosynthetic process	TAS		UniProtKB:Q9NPF2	PANTHER:PTHR12137	20240525		NCBITaxon:9606
+Reactome	UniProtKB:Q7LGC8	CHST3	Reactome:R-HSA-2022870		GO:0030206	chondroitin sulfate biosynthetic process	TAS		UniProtKB:Q7LGC8	PANTHER:PTHR10704	20240525		NCBITaxon:9606
+Reactome	UniProtKB:Q7LFX5	CHST15	Reactome:R-HSA-2022870		GO:0030206	chondroitin sulfate biosynthetic process	TAS		UniProtKB:Q7LFX5	PANTHER:PTHR15723	20240525		NCBITaxon:9606
+Reactome	UniProtKB:Q9NRB3	CHST12	Reactome:R-HSA-2022870		GO:0030206	chondroitin sulfate biosynthetic process	TAS		UniProtKB:Q9NRB3	PANTHER:PTHR12137	20240525		NCBITaxon:9606
+Reactome	UniProtKB:Q86X52	CHSY1	Reactome:R-HSA-2022870		GO:0030206	chondroitin sulfate biosynthetic process	TAS		UniProtKB:Q86X52	PANTHER:PTHR12369	20240525		NCBITaxon:9606
+Reactome	UniProtKB:Q70JA7	CHSY3	Reactome:R-HSA-2022870		GO:0030206	chondroitin sulfate biosynthetic process	TAS		UniProtKB:Q70JA7	PANTHER:PTHR12369	20240525		NCBITaxon:9606
+Reactome	UniProtKB:Q9P2E5	CHPF2	Reactome:R-HSA-2022870		GO:0030206	chondroitin sulfate biosynthetic process	TAS		UniProtKB:Q9P2E5	PANTHER:PTHR12369	20240525		NCBITaxon:9606
+Reactome	UniProtKB:Q8IZ52	CHPF	Reactome:R-HSA-2022870		GO:0030206	chondroitin sulfate biosynthetic process	TAS		UniProtKB:Q8IZ52	PANTHER:PTHR12369	20240525		NCBITaxon:9606
+Reactome	UniProtKB:Q8TDX6	CSGALNACT1	Reactome:R-HSA-2022870		GO:0030206	chondroitin sulfate biosynthetic process	TAS		UniProtKB:Q8TDX6	PANTHER:PTHR12369	20240525		NCBITaxon:9606
+UniProt	UniProtKB:Q9NS84	CHST7	PMID:10781596		GO:0030206	chondroitin sulfate biosynthetic process	IDA		UniProtKB:Q9NS84	PANTHER:PTHR10704	20050331		NCBITaxon:9606
+UniProt	UniProtKB:Q9NRB3	CHST12	PMID:10781601		GO:0030206	chondroitin sulfate biosynthetic process	IDA		UniProtKB:Q9NRB3	PANTHER:PTHR12137	20031216		NCBITaxon:9606
+UniProt	FB:FBgn0261445	sgl	PMID:10806213|FB:FBrf0128668		GO:0030206	chondroitin sulfate biosynthetic process	IMP			PANTHER:PTHR11374	20050610		NCBITaxon:7227
+UniProt	WB:WBGene00005025	sqv-7	PMID:11005858|WB_REF:WBPaper00004348		GO:0030206	chondroitin sulfate biosynthetic process	IMP			PANTHER:PTHR11132	20170126		NCBITaxon:6239
+UniProt	UniProtKB:Q9NPF2	CHST11	PMID:11056388		GO:0030206	chondroitin sulfate biosynthetic process	IDA		UniProtKB:Q9NPF2	PANTHER:PTHR12137	20050408		NCBITaxon:9606
+UniProt	UniProtKB:Q8TDX6	CSGALNACT1	PMID:11514575		GO:0030206	chondroitin sulfate biosynthetic process	IDA		UniProtKB:Q8TDX6	PANTHER:PTHR12369	20031216		NCBITaxon:9606
+UniProt	UniProtKB:Q8NET6	CHST13	PMID:12080076		GO:0030206	chondroitin sulfate biosynthetic process	IDA		UniProtKB:Q8NET6	PANTHER:PTHR12137	20050408		NCBITaxon:9606
+UniProt	UniProtKB:Q8TDX6	CSGALNACT1	PMID:12163485		GO:0030206	chondroitin sulfate biosynthetic process	IDA		UniProtKB:Q8TDX6	PANTHER:PTHR12369	20061120		NCBITaxon:9606
+UniProt	MGI:MGI:1306785	Ugdh	PMID:14505572		GO:0030206	chondroitin sulfate biosynthetic process	IMP			PANTHER:PTHR11374	20181127		NCBITaxon:10090
+UniProt	UniProtKB:Q7LGC8	CHST3	PMID:15215498		GO:0030206	chondroitin sulfate biosynthetic process	IMP		UniProtKB:Q7LGC8	PANTHER:PTHR10704	20210503		NCBITaxon:9606
+UniProt	MGI:MGI:2451073	Xylt1	PMID:24161523		GO:0030206	chondroitin sulfate biosynthetic process	IMP			PANTHER:PTHR46025	20180601		NCBITaxon:10090
+UniProt	WB:WBGene00008050	chst-1	PMID:27645998|WB_REF:WBPaper00050159		GO:0030206	chondroitin sulfate biosynthetic process	IDA			PANTHER:PTHR22900	20170327		NCBITaxon:6239
+UniProt	UniProtKB:Q8TB61	SLC35B2	PMID:35325049		GO:0030206	chondroitin sulfate biosynthetic process	IMP		UniProtKB:Q8TB61	PANTHER:PTHR10778	20230427		NCBITaxon:9606
+UniProt	UniProtKB:Q7LGC8	CHST3	PMID:9883891		GO:0030206	chondroitin sulfate biosynthetic process	IDA		UniProtKB:Q7LGC8	PANTHER:PTHR10704	20050609		NCBITaxon:9606
+WB	WB:WBGene00005026	sqv-8	PMID:11005858|WB_REF:WBPaper00004348		GO:0030206	chondroitin sulfate biosynthetic process	IMP	WB:WBVar00089016		PANTHER:PTHR10896	20110207		NCBITaxon:6239
+WB	WB:WBGene00005021	sqv-3	PMID:11005858|WB_REF:WBPaper00004348		GO:0030206	chondroitin sulfate biosynthetic process	IMP			PANTHER:PTHR19300	20110207		NCBITaxon:6239
+WB	WB:WBGene00005024	sqv-6	PMID:12584198|WB_REF:WBPaper00005800		GO:0030206	chondroitin sulfate biosynthetic process	IGI	UniProtKB:Q811B1		PANTHER:PTHR46025	20111202		NCBITaxon:6239
+WB	WB:WBGene00008050	chst-1	PMID:27703236|WB_REF:WBPaper00050258		GO:0030206	chondroitin sulfate biosynthetic process	IMP			PANTHER:PTHR22900	20161208		NCBITaxon:6239
+ZFIN	ZFIN:ZDB-GENE-040315-1	chst11	PMID:19125692		GO:0030206	chondroitin sulfate biosynthetic process	IMP	ZFIN:ZDB-MRPHLNO-090417-2		PANTHER:PTHR12137	20090803		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-020419-37	uxs1	PMID:20226781		GO:0030206	chondroitin sulfate biosynthetic process	IMP	ZFIN:ZDB-GENO-100709-2|ZFIN:ZDB-GENO-100709-3		PANTHER:PTHR43078	20100729		NCBITaxon:7955
+MGI	UniProtKB:Q8NCH0	CHST14	PMID:11470797		GO:0030208	dermatan sulfate biosynthetic process	IDA		UniProtKB:Q8NCH0	PANTHER:PTHR12137	20191113		NCBITaxon:9606
+Reactome	UniProtKB:Q8IZU8	DSEL	Reactome:R-HSA-2022923		GO:0030208	dermatan sulfate biosynthetic process	TAS		UniProtKB:Q8IZU8	PANTHER:PTHR15532	20240525		NCBITaxon:9606
+Reactome	UniProtKB:Q8NCH0	CHST14	Reactome:R-HSA-2022923		GO:0030208	dermatan sulfate biosynthetic process	TAS		UniProtKB:Q8NCH0	PANTHER:PTHR12137	20240525		NCBITaxon:9606
+Reactome	UniProtKB:Q9UL01	DSE	Reactome:R-HSA-2022923		GO:0030208	dermatan sulfate biosynthetic process	TAS		UniProtKB:Q9UL01	PANTHER:PTHR15532	20240525		NCBITaxon:9606
+Reactome	UniProtKB:Q9Y2C2	UST	Reactome:R-HSA-2022923		GO:0030208	dermatan sulfate biosynthetic process	TAS		UniProtKB:Q9Y2C2	PANTHER:PTHR12129	20240525		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y2C2	UST	PMID:10187838		GO:0030208	dermatan sulfate biosynthetic process	IDA		UniProtKB:Q9Y2C2	PANTHER:PTHR12129	20240916		NCBITaxon:9606
+UniProt	UniProtKB:Q9NRB3	CHST12	PMID:10781601		GO:0030208	dermatan sulfate biosynthetic process	IDA		UniProtKB:Q9NRB3	PANTHER:PTHR12137	20031216		NCBITaxon:9606
+UniProt	UniProtKB:Q9UL01	DSE	PMID:16505484		GO:0030208	dermatan sulfate biosynthetic process	IDA		UniProtKB:Q9UL01	PANTHER:PTHR15532	20080121		NCBITaxon:9606
+UniProt	UniProtKB:Q8N6G5	CSGALNACT2	PMID:11788602		GO:0050652	dermatan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	TAS		UniProtKB:Q8N6G5	PANTHER:PTHR12369	20031216		NCBITaxon:9606
+FlyBase	UniProtKB:Q86X52	CHSY1	PMID:12716890		GO:0050653	chondroitin sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	IDA		UniProtKB:Q86X52	PANTHER:PTHR12369	20240912		NCBITaxon:9606
+FlyBase	UniProtKB:Q8IZ52	CHPF	PMID:12716890		GO:0050653	chondroitin sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	IDA		UniProtKB:Q8IZ52	PANTHER:PTHR12369	20240912		NCBITaxon:9606
+UniProt	UniProtKB:Q8N6G5	CSGALNACT2	PMID:11788602		GO:0050653	chondroitin sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	TAS		UniProtKB:Q8N6G5	PANTHER:PTHR12369	20031216		NCBITaxon:9606
+UniProt	UniProtKB:Q8TDX6	CSGALNACT1	PMID:12163485		GO:0050653	chondroitin sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	IDA		UniProtKB:Q8TDX6	PANTHER:PTHR12369	20061120		NCBITaxon:9606

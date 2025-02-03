@@ -1,0 +1,7 @@
+term	file	line
+GO:0030204	reactome2go	Reactome:R-HSA-1793185 > GO:chondroitin sulfate metabolic process ; GO:0030204
+GO:0030206	reactome2go	Reactome:R-HSA-2022870 > GO:chondroitin sulfate biosynthetic process ; GO:0030206
+GO:0030206	metacyc2go	MetaCyc:PWY-6567 > GO:chondroitin sulfate biosynthetic process ; GO:0030206
+GO:0030206	interpro2go	InterPro:IPR007669 Carbohydrate sulfotransferase Chst-1 > GO:chondroitin sulfate biosynthetic process ; GO:0030206
+GO:0030208	reactome2go	Reactome:R-HSA-2022923 > GO:dermatan sulfate biosynthetic process ; GO:0030208
+GO:0030208	metacyc2go	MetaCyc:PWY-6568 > GO:dermatan sulfate biosynthetic process ; GO:0030208

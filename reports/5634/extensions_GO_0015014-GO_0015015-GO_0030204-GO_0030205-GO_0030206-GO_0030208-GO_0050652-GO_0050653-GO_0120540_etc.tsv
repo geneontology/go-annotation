@@ -1,0 +1,14 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:2442354	Csgalnact1	PMID:17145758		GO:0047238	glucuronosyl-N-acetylgalactosaminyl-proteoglycan 4-beta-N-acetylgalactosaminyltransferase activity	IMP			PANTHER:PTHR12369	20220420	GO:0030206	NCBITaxon:10090
+MGI	MGI:MGI:1926173	Chsy3	PMID:17253960		GO:0050510	N-acetylgalactosaminyl-proteoglycan 3-beta-glucuronosyltransferase activity	IGI	MGI:MGI:106576		PANTHER:PTHR12369	20220421	GO:0030206	NCBITaxon:10090
+MGI	MGI:MGI:1926173	Chsy3	PMID:17253960		GO:0047238	glucuronosyl-N-acetylgalactosaminyl-proteoglycan 4-beta-N-acetylgalactosaminyltransferase activity	IGI	MGI:MGI:106576		PANTHER:PTHR12369	20220421	GO:0030206	NCBITaxon:10090
+MGI	MGI:MGI:106576	Chpf	PMID:17253960		GO:0050510	N-acetylgalactosaminyl-proteoglycan 3-beta-glucuronosyltransferase activity	IGI	MGI:MGI:1926173		PANTHER:PTHR12369	20220421	GO:0030206	NCBITaxon:10090
+MGI	MGI:MGI:106576	Chpf	PMID:17253960		GO:0047238	glucuronosyl-N-acetylgalactosaminyl-proteoglycan 4-beta-N-acetylgalactosaminyltransferase activity	IGI	MGI:MGI:1926173		PANTHER:PTHR12369	20220421	GO:0030206	NCBITaxon:10090
+MGI	MGI:MGI:2681120	Chsy1	PMID:22952769		GO:0047238	glucuronosyl-N-acetylgalactosaminyl-proteoglycan 4-beta-N-acetylgalactosaminyltransferase activity	IGI	MGI:MGI:106576		PANTHER:PTHR12369	20220421	GO:0030206	NCBITaxon:10090
+MGI	MGI:MGI:2681120	Chsy1	PMID:22952769		GO:0050510	N-acetylgalactosaminyl-proteoglycan 3-beta-glucuronosyltransferase activity	IGI	MGI:MGI:106576		PANTHER:PTHR12369	20220421	GO:0030206	NCBITaxon:10090
+MGI	MGI:MGI:106576	Chpf	PMID:22952769		GO:0050510	N-acetylgalactosaminyl-proteoglycan 3-beta-glucuronosyltransferase activity	IGI	MGI:MGI:2681120		PANTHER:PTHR12369	20220421	GO:0030206	NCBITaxon:10090
+MGI	MGI:MGI:106576	Chpf	PMID:22952769		GO:0047238	glucuronosyl-N-acetylgalactosaminyl-proteoglycan 4-beta-N-acetylgalactosaminyltransferase activity	IGI	MGI:MGI:2681120		PANTHER:PTHR12369	20220421	GO:0030206	NCBITaxon:10090
+MGI	MGI:MGI:2442354	Csgalnact1	PMID:25568321		GO:0047238	glucuronosyl-N-acetylgalactosaminyl-proteoglycan 4-beta-N-acetylgalactosaminyltransferase activity	IMP	MGI:MGI:4868209		PANTHER:PTHR12369	20220420	GO:0030206	NCBITaxon:10090
+MGI	MGI:MGI:1926002	Csgalnact2	PMID:25568321		GO:0047238	glucuronosyl-N-acetylgalactosaminyl-proteoglycan 4-beta-N-acetylgalactosaminyltransferase activity	IMP			PANTHER:PTHR12369	20220420	GO:0030206	NCBITaxon:10090
+MGI	MGI:MGI:2442354	Csgalnact1	PMID:29287114		GO:0047238	glucuronosyl-N-acetylgalactosaminyl-proteoglycan 4-beta-N-acetylgalactosaminyltransferase activity	IGI	MGI:MGI:1926002		PANTHER:PTHR12369	20220420	GO:0030206	NCBITaxon:10090
+MGI	MGI:MGI:1858224	Chst3	PMID:9597547		GO:0008459	chondroitin 6-sulfotransferase activity	IDA			PANTHER:PTHR10704	20220421	GO:0030206|CHEBI:26349	NCBITaxon:10090
