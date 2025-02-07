@@ -1,0 +1,89 @@
+term	file	line
+GO:0000079	interpro2go	InterPro:IPR012104 PHO85 cyclin 1/2/9 > GO:regulation of cyclin-dependent protein serine/threonine kinase activity ; GO:0000079
+GO:0000079	interpro2go	InterPro:IPR012399 Cyclin Y > GO:regulation of cyclin-dependent protein serine/threonine kinase activity ; GO:0000079
+GO:0000079	interpro2go	InterPro:IPR013922 Cyclin PHO80-like > GO:regulation of cyclin-dependent protein serine/threonine kinase activity ; GO:0000079
+GO:0000079	interpro2go	InterPro:IPR014399 Cyclin CLN > GO:regulation of cyclin-dependent protein serine/threonine kinase activity ; GO:0000079
+GO:0007175	interpro2go	InterPro:IPR037342 SOCS4, SOCS box domain > GO:negative regulation of epidermal growth factor-activated receptor activity ; GO:0007175
+GO:0007176	interpro2go	InterPro:IPR011170 Growth factor, vaccinia C11R type > GO:regulation of epidermal growth factor-activated receptor activity ; GO:0007176
+GO:0007194	interpro2go	InterPro:IPR003906 Galanin receptor 1 > GO:negative regulation of adenylate cyclase activity ; GO:0007194
+GO:0007194	interpro2go	InterPro:IPR003907 Galanin receptor 2 > GO:negative regulation of adenylate cyclase activity ; GO:0007194
+GO:0007194	interpro2go	InterPro:IPR003908 Galanin receptor 3 > GO:negative regulation of adenylate cyclase activity ; GO:0007194
+GO:0007194	interpro2go	InterPro:IPR008109 P2Y13 purinoceptor > GO:negative regulation of adenylate cyclase activity ; GO:0007194
+GO:0007194	interpro2go	InterPro:IPR026919 Adhesion G-protein coupled receptor V1 > GO:negative regulation of adenylate cyclase activity ; GO:0007194
+GO:0010466	uniprotkb_kw2go	UniProtKB-KW:KW-0082 Bait region > GO:negative regulation of peptidase activity ; GO:0010466
+GO:0010466	uniprotkb_kw2go	UniProtKB-KW:KW-0646 Protease inhibitor > GO:negative regulation of peptidase activity ; GO:0010466
+GO:0010466	interpro2go	InterPro:IPR008296 Tissue factor pathway inhibitor-like > GO:negative regulation of peptidase activity ; GO:0010466
+GO:0010466	interpro2go	InterPro:IPR021066 Fungal protease inhibitor-1 > GO:negative regulation of peptidase activity ; GO:0010466
+GO:0010921	interpro2go	InterPro:IPR033242 Protein phosphatase 1 regulatory subunit 17 > GO:regulation of phosphatase activity ; GO:0010921
+GO:0010923	interpro2go	InterPro:IPR026130 Protein phosphatase 1 regulatory subunit 26 > GO:negative regulation of phosphatase activity ; GO:0010923
+GO:0010923	interpro2go	InterPro:IPR026142 Protein phosphatase 1 regulatory subunit 36 > GO:negative regulation of phosphatase activity ; GO:0010923
+GO:0010923	interpro2go	InterPro:IPR033542 Transmembrane protein 225 > GO:negative regulation of phosphatase activity ; GO:0010923
+GO:0010923	interpro2go	InterPro:IPR033590 Protein phosphatase 1 regulatory subunit 35 > GO:negative regulation of phosphatase activity ; GO:0010923
+GO:0010951	interpro2go	InterPro:IPR010832 ProSAAS > GO:negative regulation of endopeptidase activity ; GO:0010951
+GO:0010951	interpro2go	InterPro:IPR019507 Protease A inhibitor IA3 > GO:negative regulation of endopeptidase activity ; GO:0010951
+GO:0010951	interpro2go	InterPro:IPR019509 Carboxypeptidase inhibitor I68 > GO:negative regulation of endopeptidase activity ; GO:0010951
+GO:0010951	interpro2go	InterPro:IPR022815 Protease inhibitor > GO:negative regulation of endopeptidase activity ; GO:0010951
+GO:0010952	uniprotkb_kw2go	UniProtKB-KW:KW-0655 Prothrombin activator > GO:positive regulation of peptidase activity ; GO:0010952
+GO:0032088	interpro2go	InterPro:IPR027128 TNF receptor-associated factor 3, C3HC3D-type RING zinc finger > GO:negative regulation of NF-kappaB transcription factor activity ; GO:0032088
+GO:0032088	interpro2go	InterPro:IPR037304 TNF receptor-associated factor 3, MATH domain > GO:negative regulation of NF-kappaB transcription factor activity ; GO:0032088
+GO:0032088	interpro2go	InterPro:IPR038840 RWD domain-containing protein 3 > GO:negative regulation of NF-kappaB transcription factor activity ; GO:0032088
+GO:0032414	hamap2go	HAMAP:MF_01414 > GO:positive regulation of ion transmembrane transporter activity ; GO:0032414
+GO:0032414	hamap2go	HAMAP:MF_01415 > GO:positive regulation of ion transmembrane transporter activity ; GO:0032414
+GO:0032414	unirule2go	UniRule:UR000034429 > GO:positive regulation of ion transmembrane transporter activity ; GO:0032414
+GO:0032414	unirule2go	UniRule:UR000037486 > GO:positive regulation of ion transmembrane transporter activity ; GO:0032414
+GO:0032429	interpro2go	InterPro:IPR016338 Phospholipase A2 inhibitor, gamma type > GO:regulation of phospholipase A2 activity ; GO:0032429
+GO:0032780	interpro2go	InterPro:IPR007648 Mitochondrial ATPase inhibitor > GO:negative regulation of ATP-dependent activity ; GO:0032780
+GO:0032793	interpro2go	InterPro:IPR024786 CREB-regulated transcription coactivator > GO:positive regulation of CREB transcription factor activity ; GO:0032793
+GO:0032793	interpro2go	InterPro:IPR047908 Testis-specific serine/threonine kinase 4, catalytic domain > GO:positive regulation of CREB transcription factor activity ; GO:0032793
+GO:0043085	interpro2go	InterPro:IPR009294 Gamma-secretase subunit Aph-1 > GO:positive regulation of catalytic activity ; GO:0043085
+GO:0043085	interpro2go	InterPro:IPR010334 mRNA-decapping enzyme subunit 1 > GO:positive regulation of catalytic activity ; GO:0043085
+GO:0043085	interpro2go	InterPro:IPR047576 Colipase, chordates > GO:positive regulation of catalytic activity ; GO:0043085
+GO:0043085	unirule2go	UniRule:UR001453775 > GO:positive regulation of catalytic activity ; GO:0043085
+GO:0043086	interpro2go	InterPro:IPR014453 Inhibitor of vertebrate lysozyme > GO:negative regulation of catalytic activity ; GO:0043086
+GO:0043086	interpro2go	InterPro:IPR034086 Pectinesterase inhibitor, plant > GO:negative regulation of catalytic activity ; GO:0043086
+GO:0043086	interpro2go	InterPro:IPR034087 Cell wall/vacuolar inhibitor of fructosidase > GO:negative regulation of catalytic activity ; GO:0043086
+GO:0043087	interpro2go	InterPro:IPR001936 Ras GTPase-activating domain > GO:regulation of GTPase activity ; GO:0043087
+GO:0043087	interpro2go	InterPro:IPR023152 Ras GTPase-activating protein, conserved site > GO:regulation of GTPase activity ; GO:0043087
+GO:0043087	interpro2go	InterPro:IPR026059 Rab3GAP regulatory subunit > GO:regulation of GTPase activity ; GO:0043087
+GO:0043087	interpro2go	InterPro:IPR028057 DrrA phosphatidylinositol 4-phosphate binding domain > GO:regulation of GTPase activity ; GO:0043087
+GO:0043087	interpro2go	InterPro:IPR037743 FGD6, N-terminal PH domain > GO:regulation of GTPase activity ; GO:0043087
+GO:0043087	interpro2go	InterPro:IPR037992 TRAPP complex, Trs33 subunit > GO:regulation of GTPase activity ; GO:0043087
+GO:0043407	interpro2go	InterPro:IPR044212 Protein-tyrosine-phosphatase IBR5-like > GO:negative regulation of MAP kinase activity ; GO:0043407
+GO:0043462	interpro2go	InterPro:IPR011726 K+ transporting P-type ATPase, F subunit > GO:regulation of ATP-dependent activity ; GO:0043462
+GO:0043507	unirule2go	UniRule:UR000734760 > GO:positive regulation of JUN kinase activity ; GO:0043507
+GO:0045736	interpro2go	InterPro:IPR044275 Cyclin-dependent kinase inhibitor, plant > GO:negative regulation of cyclin-dependent protein serine/threonine kinase activity ; GO:0045736
+GO:0045737	interpro2go	InterPro:IPR004575 Cdk-activating kinase assembly factor MAT1/Tfb3 > GO:positive regulation of cyclin-dependent protein serine/threonine kinase activity ; GO:0045737
+GO:0045737	interpro2go	InterPro:IPR020984 Cell cycle regulatory protein Speedy > GO:positive regulation of cyclin-dependent protein serine/threonine kinase activity ; GO:0045737
+GO:0045761	interpro2go	InterPro:IPR005397 Neuropeptide FF receptor, type 2 > GO:regulation of adenylate cyclase activity ; GO:0045761
+GO:0045859	hamap2go	HAMAP:MF_00904 > GO:regulation of protein kinase activity ; GO:0045859
+GO:0045859	unirule2go	UniRule:UR000067674 > GO:regulation of protein kinase activity ; GO:0045859
+GO:0050790	interpro2go	InterPro:IPR012589 Plasma membrane ATPase proteolipid > GO:regulation of catalytic activity ; GO:0050790
+GO:0050790	interpro2go	InterPro:IPR012599 Peptidase C1A, propeptide > GO:regulation of catalytic activity ; GO:0050790
+GO:0050803	hamap2go	HAMAP:MF_03021 > GO:regulation of synapse structure or activity ; GO:0050803
+GO:0050803	unirule2go	UniRule:UR000107246 > GO:regulation of synapse structure or activity ; GO:0050803
+GO:0051092	interpro2go	InterPro:IPR027258 Mitogen-activated protein kinase kinase kinase 13 > GO:positive regulation of NF-kappaB transcription factor activity ; GO:0051092
+GO:0051092	interpro2go	InterPro:IPR033238 B-cell lymphoma/leukemia 10/E10 > GO:positive regulation of NF-kappaB transcription factor activity ; GO:0051092
+GO:0051097	interpro2go	InterPro:IPR033808 Burkholderia lethal factor 1 > GO:negative regulation of helicase activity ; GO:0051097
+GO:0052547	interpro2go	InterPro:IPR010200 HflC > GO:regulation of peptidase activity ; GO:0052547
+GO:0060315	interpro2go	InterPro:IPR030253 Chloride intracellular channel protein 2, C-terminal domain > GO:negative regulation of ryanodine-sensitive calcium-release channel activity ; GO:0060315
+GO:0060699	hamap2go	HAMAP:MF_00471 > GO:regulation of endoribonuclease activity ; GO:0060699
+GO:0060699	hamap2go	HAMAP:MF_01888 > GO:regulation of endoribonuclease activity ; GO:0060699
+GO:0060699	unirule2go	UniRule:UR000001297 > GO:regulation of endoribonuclease activity ; GO:0060699
+GO:0060699	unirule2go	UniRule:UR000031316 > GO:regulation of endoribonuclease activity ; GO:0060699
+GO:0061098	interpro2go	InterPro:IPR037746 Protein Dok-7 > GO:positive regulation of protein tyrosine kinase activity ; GO:0061098
+GO:0061098	interpro2go	InterPro:IPR037747 Dok-7, PH domain > GO:positive regulation of protein tyrosine kinase activity ; GO:0061098
+GO:0099635	reactome2go	Reactome:R-HSA-9659515 > GO:voltage-gated calcium channel activity involved in positive regulation of presynaptic cytosolic calcium levels ; GO:0099635
+GO:1900137	interpro2go	InterPro:IPR045797 Evasins Class A > GO:negative regulation of chemokine activity ; GO:1900137
+GO:1901386	interpro2go	InterPro:IPR037658 Voltage-dependent calcium channel beta subunit-associated regulatory protein > GO:negative regulation of voltage-gated calcium channel activity ; GO:1901386
+GO:1901671	interpro2go	InterPro:IPR017416 Chaperonin Cpn20 > GO:positive regulation of superoxide dismutase activity ; GO:1901671
+GO:1901842	interpro2go	InterPro:IPR017358 Ras-related small G protein, RGK family > GO:negative regulation of high voltage-gated calcium channel activity ; GO:1901842
+GO:1901894	interpro2go	InterPro:IPR005984 Phospholamban > GO:regulation of ATPase-coupled calcium transmembrane transporter activity ; GO:1901894
+GO:1901894	interpro2go	InterPro:IPR044529 Sarcoplasmic/endoplasmic reticulum calcium ATPase regulator DWORF > GO:regulation of ATPase-coupled calcium transmembrane transporter activity ; GO:1901894
+GO:1903818	interpro2go	InterPro:IPR031424 UPAR/Ly6 domain-containing protein Quiver-like > GO:positive regulation of voltage-gated potassium channel activity ; GO:1903818
+GO:1904667	interpro2go	InterPro:IPR034590 POLYCHOME/GIGAS CELL1 > GO:negative regulation of ubiquitin protein ligase activity ; GO:1904667
+GO:1904668	interpro2go	InterPro:IPR033010 WD repeat Cdc20/Fizzy > GO:positive regulation of ubiquitin protein ligase activity ; GO:1904668
+GO:1904684	interpro2go	InterPro:IPR039016 Reversion-inducing cysteine-rich protein with Kazal motifs > GO:negative regulation of metalloendopeptidase activity ; GO:1904684
+GO:2000310	reactome2go	Reactome:R-HSA-438066 > GO:regulation of NMDA receptor activity ; GO:2000310
+GO:2000312	interpro2go	InterPro:IPR030596 Kelch-like protein 24, BTB/POZ domain > GO:regulation of kainate selective glutamate receptor activity ; GO:2000312
+GO:2000479	interpro2go	InterPro:IPR005397 Neuropeptide FF receptor, type 2 > GO:regulation of cAMP-dependent protein kinase activity ; GO:2000479
+GO:2000969	interpro2go	InterPro:IPR023263 Activity-regulated cytoskeleton-associated protein > GO:positive regulation of AMPA receptor activity ; GO:2000969
