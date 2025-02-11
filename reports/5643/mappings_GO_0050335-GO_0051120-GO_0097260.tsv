@@ -1,0 +1,8 @@
+term	file	line
+GO:0050335	kegg_reaction2go	KEGG_REACTION:R04010 > GO:thiocyanate isomerase activity ; GO:0050335
+GO:0050335	ec2go	EC:5.99.1.1 > GO:thiocyanate isomerase activity ; GO:0050335
+GO:0050335	rhea2go	RHEA:10004 > GO:thiocyanate isomerase activity ; GO:0050335
+GO:0050335	metacyc2go	MetaCyc:THIOCYANATE-ISOMERASE-RXN > GO:thiocyanate isomerase activity ; GO:0050335
+GO:0051120	reactome2go	Reactome:R-HSA-2161794 > GO:hepoxilin A3 synthase activity ; GO:0051120
+GO:0051120	reactome2go	Reactome:R-HSA-8942208 > GO:hepoxilin A3 synthase activity ; GO:0051120
+GO:0097260	reactome2go	Reactome:R-HSA-2162019 > GO:eoxin A4 synthase activity ; GO:0097260
