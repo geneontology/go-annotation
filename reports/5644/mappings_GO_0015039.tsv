@@ -1,0 +1,4 @@
+term	file	line
+GO:0015039	ec2go	EC:1.18.1.6 > GO:NADPH-adrenodoxin reductase activity ; GO:0015039
+GO:0015039	rhea2go	RHEA:42312 > GO:NADPH-adrenodoxin reductase activity ; GO:0015039
+GO:0015039	metacyc2go	MetaCyc:RXN-13685 > GO:NADPH-adrenodoxin reductase activity ; GO:0015039

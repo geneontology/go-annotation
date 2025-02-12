@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+RGD	RGD:621648	Fdxr	PMID:10525147|RGD:727285		GO:0015039	NADPH-adrenodoxin reductase activity	IDA			PANTHER:PTHR11938	20050217		NCBITaxon:10116
+RGD	RGD:62036	Fdx1	PMID:8789462|RGD:2326068	contributes_to	GO:0015039	NADPH-adrenodoxin reductase activity	IDA			PANTHER:PTHR23426	20101115		NCBITaxon:10116
+SGD	SGD:S000002784	ARH1	PMID:9727014		GO:0015039	NADPH-adrenodoxin reductase activity	IDA		UniProtKB:P48360	PANTHER:PTHR11938	20130807		NCBITaxon:559292
+UniProt	UniProtKB:P08165	FDXR	PMID:15110249		GO:0015039	NADPH-adrenodoxin reductase activity	IDA		UniProtKB:P08165	PANTHER:PTHR11938	20210125		NCBITaxon:9913
