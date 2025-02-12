@@ -1,0 +1,16 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+GeneDB	TriTrypDB:LmjF.35.3230	LmjF.35.3230	PMID:17196271		GO:0019510	S-adenosylhomocysteine catabolic process	TAS				20091229		NCBITaxon:347515
+MGI	MGI:MGI:87968	Ahcy	PMID:12023972		GO:0019510	S-adenosylhomocysteine catabolic process	IDA			PANTHER:PTHR23420	20031010		NCBITaxon:10090
+RGD	RGD:69260	Ahcy	PMID:11741948|RGD:730275		GO:0019510	S-adenosylhomocysteine catabolic process	IDA			PANTHER:PTHR23420	20050217		NCBITaxon:10116
+SGD	SGD:S000000845	SAH1	PMID:18591246		GO:0019510	S-adenosylhomocysteine catabolic process	IMP		UniProtKB:P39954	PANTHER:PTHR23420	20130912		NCBITaxon:559292
+UniProt	FB:FBgn0014455	Ahcy	PMID:27313316|FB:FBrf0232710		GO:0019510	S-adenosylhomocysteine catabolic process	IMP			PANTHER:PTHR23420	20181120		NCBITaxon:7227
+UniProt	FB:FBgn0035371	AhcyL1	PMID:27313316|FB:FBrf0232710		GO:0019510	S-adenosylhomocysteine catabolic process	IMP			PANTHER:PTHR23420	20181120		NCBITaxon:7227
+CAFA	RGD:2719	Gnmt	PMID:10756111|RGD:12793006		GO:0046498	S-adenosylhomocysteine metabolic process	IMP			PANTHER:PTHR16458	20160920		NCBITaxon:10116
+RGD	RGD:3361	Pnmt	PMID:12438084|RGD:1359087		GO:0046498	S-adenosylhomocysteine metabolic process	TAS			PANTHER:PTHR10867	20050730		NCBITaxon:10116
+RGD	RGD:2379	Comt	PMID:12584150|RGD:1359089		GO:0046498	S-adenosylhomocysteine metabolic process	TAS			PANTHER:PTHR43836	20050730		NCBITaxon:10116
+RGD	RGD:2719	Gnmt	PMID:15347642|RGD:1359070		GO:0046498	S-adenosylhomocysteine metabolic process	IDA			PANTHER:PTHR16458	20050725		NCBITaxon:10116
+RGD	RGD:2659	Gamt	PMID:15533043|RGD:1359081		GO:0046498	S-adenosylhomocysteine metabolic process	IDA			PANTHER:PTHR32379	20050725		NCBITaxon:10116
+RGD	RGD:3268	Pcmt1	PMID:8263531|RGD:729481		GO:0046498	S-adenosylhomocysteine metabolic process	IDA			PANTHER:PTHR11579	20050730		NCBITaxon:10116
+RGD	RGD:3297	Pemt	PMID:8344945|RGD:729486		GO:0046498	S-adenosylhomocysteine metabolic process	IDA			PANTHER:PTHR15458	20050730		NCBITaxon:10116
+RGD	RGD:621618	Icmt	PMID:9192075|RGD:2289655		GO:0046498	S-adenosylhomocysteine metabolic process	IMP			PANTHER:PTHR12714	20080204		NCBITaxon:10116
+SGD	SGD:S000006194	SAM4	PMID:14189892		GO:0046498	S-adenosylhomocysteine metabolic process	IDA		UniProtKB:Q08985	PANTHER:PTHR11103	20130807		NCBITaxon:559292
