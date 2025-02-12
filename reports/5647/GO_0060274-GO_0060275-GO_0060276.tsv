@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	UniProtKB:A0A0H3C7D5	cspD	PMID:20607520		GO:0060274	maintenance of stationary phase	IGI	UniProtKB:D9HP82			20160301		NCBITaxon:565050
+CACAO	UniProtKB:D9HP82	cspC	PMID:20607520		GO:0060274	maintenance of stationary phase	IMP				20160222		NCBITaxon:565050
+EcoliWiki	UniProtKB:P0ABZ6	surA	PMID:2165476		GO:0060274	maintenance of stationary phase	IMP			PANTHER:PTHR47637	20091009		NCBITaxon:83333
