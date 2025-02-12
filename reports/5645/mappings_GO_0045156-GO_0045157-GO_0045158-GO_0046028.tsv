@@ -1,0 +1,29 @@
+term	file	line
+GO:0045156	interpro2go	InterPro:IPR000066 Antenna complex, alpha/beta subunit > GO:electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity ; GO:0045156
+GO:0045156	interpro2go	InterPro:IPR000484 Photosynthetic reaction centre, L/M > GO:electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity ; GO:0045156
+GO:0045156	interpro2go	InterPro:IPR002361 Antenna complex, alpha subunit conserved site > GO:electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity ; GO:0045156
+GO:0045156	interpro2go	InterPro:IPR002362 Light-harvesting protein B beta chain > GO:electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity ; GO:0045156
+GO:0045156	interpro2go	InterPro:IPR005652 Photosynthetic reaction centre, H subunit > GO:electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity ; GO:0045156
+GO:0045156	interpro2go	InterPro:IPR005781 Photosynthetic reaction centre, M subunit > GO:electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity ; GO:0045156
+GO:0045156	interpro2go	InterPro:IPR005868 Photosystem II D2 protein > GO:electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity ; GO:0045156
+GO:0045156	interpro2go	InterPro:IPR005869 Photosystem II CP43 reaction centre protein > GO:electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity ; GO:0045156
+GO:0045156	interpro2go	InterPro:IPR005870 Cytochrome b6/f complex, subunit IV > GO:electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity ; GO:0045156
+GO:0045156	interpro2go	InterPro:IPR005871 Photosynthetic reaction centre, L subunit > GO:electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity ; GO:0045156
+GO:0045156	interpro2go	InterPro:IPR014747 Bacterial photosynthetic reaction centre, H-chain, C-terminal > GO:electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity ; GO:0045156
+GO:0045156	interpro2go	InterPro:IPR015810 Photosynthetic reaction centre, H subunit, N-terminal > GO:electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity ; GO:0045156
+GO:0045156	interpro2go	InterPro:IPR017486 Photosystem II CP47 reaction centre protein > GO:electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity ; GO:0045156
+GO:0045156	interpro2go	InterPro:IPR036854 Photosystem II protein D1/D2 superfamily > GO:electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity ; GO:0045156
+GO:0045156	interpro2go	InterPro:IPR037097 Photosynthetic reaction centre, H subunit, N-terminal domain superfamily > GO:electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity ; GO:0045156
+GO:0045158	hamap2go	HAMAP:MF_00432 > GO:electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity ; GO:0045158
+GO:0045158	hamap2go	HAMAP:MF_00433 > GO:electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity ; GO:0045158
+GO:0045158	hamap2go	HAMAP:MF_00633 > GO:electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity ; GO:0045158
+GO:0045158	hamap2go	HAMAP:MF_01335 > GO:electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity ; GO:0045158
+GO:0045158	hamap2go	HAMAP:MF_01344 > GO:electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity ; GO:0045158
+GO:0045158	interpro2go	InterPro:IPR005497 Cytochrome b6-f complex, subunit 8 > GO:electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity ; GO:0045158
+GO:0045158	interpro2go	InterPro:IPR023960 Cytochrome b6-f complex iron-sulfur subunit > GO:electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity ; GO:0045158
+GO:0045158	interpro2go	InterPro:IPR036143 Cytochrome b6-f complex, subunit 8 superfamily > GO:electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity ; GO:0045158
+GO:0045158	unirule2go	UniRule:UR000060618 > GO:electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity ; GO:0045158
+GO:0045158	unirule2go	UniRule:UR000068915 > GO:electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity ; GO:0045158
+GO:0045158	unirule2go	UniRule:UR000087079 > GO:electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity ; GO:0045158
+GO:0045158	unirule2go	UniRule:UR000098239 > GO:electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity ; GO:0045158
+GO:0045158	unirule2go	UniRule:UR000106962 > GO:electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity ; GO:0045158
