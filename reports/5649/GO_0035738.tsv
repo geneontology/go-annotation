@@ -1,0 +1,195 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	UniProtKB:P84777	P84777	PMID:21322750		GO:0044477	envenomation resulting in negative regulation of platelet aggregation in another organism	IDA				20130210		NCBITaxon:57059
+GO_Central	UniProtKB:N0A5N4	N0A5N4	PMID:28579355		GO:0044470	envenomation resulting in negative regulation of blood coagulation in another organism	IDA				20241220		NCBITaxon:8714
+RGD	RGD:2603	Fga	PMID:6896326|RGD:11040912		GO:0044468	envenomation resulting in modulation of blood coagulation in another organism	IEP			PANTHER:PTHR47221	20160316		NCBITaxon:10116
+UniProt	UniProtKB:B3A0N3	B3A0N3	DOI:10.1590/S1678-91992012000100008		GO:0044487	envenomation resulting in modulation of transmission of nerve impulse in another organism	IDA				20180518		NCBITaxon:157554
+UniProt	UniProtKB:P83644	P83644	DOI:10.2174/0929866013409256		GO:0035738	envenomation resulting in modulation of process in another organism	IDA				20241217		NCBITaxon:2899558
+UniProt	UniProtKB:P81428	P81428	PMID:10397729		GO:0044469	envenomation resulting in positive regulation of blood coagulation in another organism	IDA				20130222		NCBITaxon:100989
+UniProt	UniProtKB:P22796	P22796	PMID:10400290		GO:0044358	envenomation resulting in hemorrhagic damage in another organism	IDA				20231127		NCBITaxon:8753
+UniProt	UniProtKB:P22796	P22796	PMID:10400290		GO:0044398	envenomation resulting in induction of edema in another organism	IDA				20231127		NCBITaxon:8753
+UniProt	UniProtKB:P22796	P22796	PMID:10400290		GO:0044522	envenomation resulting in myocyte killing in another organism	IDA				20231127		NCBITaxon:8753
+UniProt	UniProtKB:P0CC16	P0CC16	PMID:10441379		GO:0044358	envenomation resulting in hemorrhagic damage in another organism	IDA				20171117		NCBITaxon:2782196
+UniProt	UniProtKB:Q9PSN0	Q9PSN0	PMID:10484740		GO:0140548	envenomation resulting in blood agglutination in another organism	IDA				20201117		NCBITaxon:8692
+UniProt	UniProtKB:Q9PSN0	Q9PSN0	PMID:10484740		GO:0035738	envenomation resulting in modulation of process in another organism	IDA				20200226		NCBITaxon:8692
+UniProt	UniProtKB:P84787	P84787	PMID:10708800		GO:0044470	envenomation resulting in negative regulation of blood coagulation in another organism	IDA				20201117		NCBITaxon:88086
+UniProt	UniProtKB:P84787	P84787	PMID:10708800		GO:0044485	envenomation resulting in fibrinogenolysis in another organism	IDA				20201117		NCBITaxon:88086
+UniProt	UniProtKB:P83257	P83257	PMID:10971590		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20241217		NCBITaxon:185217
+UniProt	UniProtKB:P83258	P83258	PMID:10971590		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20241217		NCBITaxon:185217
+UniProt	UniProtKB:P83259	P83259	PMID:10971590		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20241217		NCBITaxon:185217
+UniProt	UniProtKB:P83243	P83243	PMID:11113450		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241217		NCBITaxon:1221240
+UniProt	UniProtKB:C0HL97	C0HL97	PMID:11451438		GO:0044358	envenomation resulting in hemorrhagic damage in another organism	IDA				20180420		NCBITaxon:184545
+UniProt	UniProtKB:P83244	P83244	PMID:11527374		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241217		NCBITaxon:6892
+UniProt	UniProtKB:P0DJ44	P0DJ44	PMID:11602279		GO:0044358	envenomation resulting in hemorrhagic damage in another organism	IDA				20120612		NCBITaxon:8705
+UniProt	UniProtKB:P0DJ44	P0DJ44	PMID:11602279		GO:0044485	envenomation resulting in fibrinogenolysis in another organism	IDA				20120612		NCBITaxon:8705
+UniProt	UniProtKB:P0DJ42	P0DJ42	PMID:11776320		GO:0044358	envenomation resulting in hemorrhagic damage in another organism	IDA				20120424		NCBITaxon:8730
+UniProt	UniProtKB:P0DJ42	P0DJ42	PMID:11776320		GO:0044477	envenomation resulting in negative regulation of platelet aggregation in another organism	IDA				20120424		NCBITaxon:8730
+UniProt	UniProtKB:P0DJ42	P0DJ42	PMID:11776320		GO:0044485	envenomation resulting in fibrinogenolysis in another organism	IDA				20120424		NCBITaxon:8730
+UniProt	UniProtKB:P81761	P81761	PMID:11782289		GO:0035738	envenomation resulting in modulation of process in another organism	IDA				20241217		NCBITaxon:34647
+UniProt	UniProtKB:P60214	P60214	PMID:11821128		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20241217		NCBITaxon:1221240
+UniProt	UniProtKB:P0DJL1	P0DJL1	PMID:12008953		GO:0044478	envenomation resulting in positive regulation of platelet aggregation in another organism	IDA				20171016		NCBITaxon:8765
+UniProt	UniProtKB:Q56VR3	Q56VR3	PMID:12362232		GO:0044469	envenomation resulting in positive regulation of blood coagulation in another organism	IDA				20130222		NCBITaxon:8673
+UniProt	UniProtKB:Q7SZN0	Q7SZN0	PMID:12362232		GO:0044469	envenomation resulting in positive regulation of blood coagulation in another organism	IDA				20130222		NCBITaxon:8673
+UniProt	UniProtKB:P82807	P82807	PMID:12403650		GO:0044469	envenomation resulting in positive regulation of blood coagulation in another organism	IDA				20130222		NCBITaxon:70142
+UniProt	UniProtKB:Q58L94	Q58L94	PMID:12403650		GO:0044469	envenomation resulting in positive regulation of blood coagulation in another organism	IDA				20130222		NCBITaxon:70142
+UniProt	UniProtKB:P83370	P83370	PMID:12403650		GO:0044469	envenomation resulting in positive regulation of blood coagulation in another organism	IDA				20130222		NCBITaxon:196418
+UniProt	UniProtKB:P60211	P60211	PMID:12445473		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241217		NCBITaxon:1221240
+UniProt	UniProtKB:P60210	P60210	PMID:12445473		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241217		NCBITaxon:1221240
+UniProt	UniProtKB:P02852	P02852	PMID:1248464		GO:0035738	envenomation resulting in modulation of process in another organism	IDA				20241219		NCBITaxon:7460
+UniProt	UniProtKB:P01500	P01500	PMID:1248464		GO:0035738	envenomation resulting in modulation of process in another organism	IDA				20241219		NCBITaxon:7460
+UniProt	UniProtKB:P0DJ43	P0DJ43	PMID:12485606		GO:0044469	envenomation resulting in positive regulation of blood coagulation in another organism	IDA				20241219		NCBITaxon:66188
+UniProt	UniProtKB:P84788	P84788	PMID:12676434		GO:0044470	envenomation resulting in negative regulation of blood coagulation in another organism	IDA				20201109		NCBITaxon:88086
+UniProt	UniProtKB:P84788	P84788	PMID:12676434		GO:0044485	envenomation resulting in fibrinogenolysis in another organism	IDA				20201113		NCBITaxon:88086
+UniProt	UniProtKB:Q86LR2	Hln-1	PMID:12885226		GO:0044616	envenomation resulting in paralysis in another organism	IDA				20201112		NCBITaxon:6082
+UniProt	UniProtKB:Q6WGI9	Q6WGI9	PMID:14561751		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:242110
+UniProt	UniProtKB:P60165	P60165	PMID:14561751		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:252780
+UniProt	UniProtKB:P60164	P60164	PMID:14561751		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:252780
+UniProt	UniProtKB:P82972	P82972	PMID:14741349		GO:0044514	envenomation resulting in positive regulation of G protein-coupled receptor activity in another organism	IDA				20241220		NCBITaxon:47769
+UniProt	UniProtKB:P0DJL3	P0DJL3	PMID:15019836		GO:0044478	envenomation resulting in positive regulation of platelet aggregation in another organism	IDA				20171016		NCBITaxon:101163
+UniProt	UniProtKB:P0DJL2	P0DJL2	PMID:15019836		GO:0044478	envenomation resulting in positive regulation of platelet aggregation in another organism	IDA				20171016		NCBITaxon:101163
+UniProt	UniProtKB:P60212	P60212	PMID:15025998		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20241219		NCBITaxon:1221240
+UniProt	UniProtKB:P83406	P83406	PMID:15067003		GO:0044472	envenomation resulting in modulation of calcium channel activity in another organism	IDA				20241219		NCBITaxon:6863
+UniProt	UniProtKB:P83405	P83405	PMID:15067003		GO:0044472	envenomation resulting in modulation of calcium channel activity in another organism	IDA				20241219		NCBITaxon:6863
+UniProt	UniProtKB:P84713	P84713	PMID:15081394		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:351660
+UniProt	UniProtKB:O61705	O61705	PMID:15200476		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20241219		NCBITaxon:34649
+UniProt	UniProtKB:P84777	P84777	PMID:15369825		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:57059
+UniProt	UniProtKB:P84510	P84510	PMID:16267209		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20241219		NCBITaxon:269635
+UniProt	UniProtKB:P84508	P84508	PMID:16267209		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20241219		NCBITaxon:316287
+UniProt	UniProtKB:P84507	P84507	PMID:16267209		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20241219		NCBITaxon:316287
+UniProt	UniProtKB:P84509	P84509	PMID:16267209		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20241219		NCBITaxon:316287
+UniProt	UniProtKB:P85024	P85024	PMID:16277978		GO:0044498	envenomation resulting in modulation of blood pressure in another organism	IDA				20201113		NCBITaxon:8742
+UniProt	UniProtKB:P0CC12	P0CC12	PMID:17070524		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:342590
+UniProt	UniProtKB:P86453	P86453	PMID:17270350		GO:0044522	envenomation resulting in myocyte killing in another organism	IDA				20231116		NCBITaxon:64174
+UniProt	UniProtKB:P86453	P86453	PMID:17270350		GO:0044398	envenomation resulting in induction of edema in another organism	IDA				20201110		NCBITaxon:64174
+UniProt	UniProtKB:P86453	P86453	PMID:17270350		GO:0044521	envenomation resulting in muscle damage in another organism	IDA				20201110		NCBITaxon:64174
+UniProt	UniProtKB:Q1W695	Q1W695	PMID:17296256		GO:0044398	envenomation resulting in induction of edema in another organism	IDA				20201111		NCBITaxon:58218
+UniProt	UniProtKB:Q1W695	Q1W695	PMID:17296256		GO:0044478	envenomation resulting in positive regulation of platelet aggregation in another organism	IDA				20201111		NCBITaxon:58218
+UniProt	UniProtKB:Q1W694	Q1W694	PMID:17296256		GO:0044398	envenomation resulting in induction of edema in another organism	IDA				20201111		NCBITaxon:58218
+UniProt	UniProtKB:A3R0T9	A3R0T9	PMID:17337026		GO:0044358	envenomation resulting in hemorrhagic damage in another organism	IDA				20120424		NCBITaxon:8665
+UniProt	UniProtKB:A3R0T9	A3R0T9	PMID:17337026		GO:0044477	envenomation resulting in negative regulation of platelet aggregation in another organism	IDA				20120424		NCBITaxon:8665
+UniProt	UniProtKB:A3R0T9	A3R0T9	PMID:17337026		GO:0044485	envenomation resulting in fibrinogenolysis in another organism	IDA				20120424		NCBITaxon:8665
+UniProt	UniProtKB:Q6PQK2	Q6PQK2	PMID:17428677		GO:0035738	envenomation resulting in modulation of process in another organism	IMP				20241220		NCBITaxon:13249
+UniProt	UniProtKB:C0HLT7	C0HLT7	PMID:17533426		GO:0044514	envenomation resulting in positive regulation of G protein-coupled receptor activity in another organism	IDA				20201125		NCBITaxon:91432
+UniProt	UniProtKB:P85975	P85975	PMID:17555860		GO:0044523	envenomation resulting in damage of muscle extracellular matrix in another organism	IDA				20231109		NCBITaxon:547193
+UniProt	UniProtKB:P85975	P85975	PMID:17555860		GO:0044482	envenomation resulting in blood vessel extracellular matrix damage, causing hemorrhagic damage in another organism	IDA				20201109		NCBITaxon:547193
+UniProt	UniProtKB:P86194	P86194	PMID:17828447		GO:0044522	envenomation resulting in myocyte killing in another organism	IDA				20231116		NCBITaxon:184542
+UniProt	UniProtKB:P86194	P86194	PMID:17828447		GO:0044521	envenomation resulting in muscle damage in another organism	IDA				20201110		NCBITaxon:184542
+UniProt	UniProtKB:P86193	P86193	PMID:17828447		GO:0044522	envenomation resulting in myocyte killing in another organism	IDA				20231116		NCBITaxon:184542
+UniProt	UniProtKB:P86193	P86193	PMID:17828447		GO:0044521	envenomation resulting in muscle damage in another organism	IDA				20201110		NCBITaxon:184542
+UniProt	UniProtKB:Q1A3R1	Q1A3R1	PMID:17961831		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20241219		NCBITaxon:89445
+UniProt	UniProtKB:P86092	P86092	PMID:17963685		GO:0044485	envenomation resulting in fibrinogenolysis in another organism	IDA				20201109		NCBITaxon:157295
+UniProt	UniProtKB:P85871	P85871	PMID:18201803		GO:0044616	envenomation resulting in paralysis in another organism	IDA				20201109		NCBITaxon:192919
+UniProt	UniProtKB:B2G331	B2G331	PMID:18579526		GO:0044741	envenomation resulting in negative regulation of sensory perception of pain in another organism	IDA				20241219		NCBITaxon:3122430
+UniProt	UniProtKB:P85528	P85528	PMID:18699777		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:520031
+UniProt	UniProtKB:P0CC17	P0CC17	PMID:18804547		GO:0044478	envenomation resulting in positive regulation of platelet aggregation in another organism	IDA				20120823		NCBITaxon:8725
+UniProt	UniProtKB:P86170	P86170	PMID:18942691		GO:0044480	envenomation resulting in positive regulation of mast cell degranulation in another organism	IDA				20240827		NCBITaxon:582867
+UniProt	UniProtKB:Q4F867	Q4F867	PMID:19523971		GO:0044477	envenomation resulting in negative regulation of platelet aggregation in another organism	IDA				20241220		NCBITaxon:343250
+UniProt	UniProtKB:Q2I2Q5	Q2I2Q5	PMID:19562324		GO:0044494	envenomation resulting in positive regulation of voltage-gated sodium channel activity in another organism	IDA				20241219		NCBITaxon:89445
+UniProt	UniProtKB:P86805	P86805	PMID:19747981		GO:0044522	envenomation resulting in myocyte killing in another organism	IDA				20231116		NCBITaxon:184542
+UniProt	UniProtKB:P86805	P86805	PMID:19747981		GO:0044398	envenomation resulting in induction of edema in another organism	IDA				20201111		NCBITaxon:184542
+UniProt	UniProtKB:P86806	P86806	PMID:19747981		GO:0044522	envenomation resulting in myocyte killing in another organism	IDA				20231116		NCBITaxon:184542
+UniProt	UniProtKB:P86806	P86806	PMID:19747981		GO:0044398	envenomation resulting in induction of edema in another organism	IDA				20201111		NCBITaxon:184542
+UniProt	UniProtKB:P0DJE9	P0DJE9	PMID:19931298		GO:0044478	envenomation resulting in positive regulation of platelet aggregation in another organism	IDA				20120612		NCBITaxon:157554
+UniProt	UniProtKB:P0DJE9	P0DJE9	PMID:19931298		GO:0044485	envenomation resulting in fibrinogenolysis in another organism	IDA				20120612		NCBITaxon:157554
+UniProt	UniProtKB:P85420	P85420	PMID:20102699		GO:0044482	envenomation resulting in blood vessel extracellular matrix damage, causing hemorrhagic damage in another organism	IDA				20201109		NCBITaxon:8725
+UniProt	UniProtKB:P85420	P85420	PMID:20102699		GO:0044484	envenomation resulting in fibrinolysis in another organism	IDA				20201109		NCBITaxon:8725
+UniProt	UniProtKB:P86804	P86804	PMID:20195718		GO:0044521	envenomation resulting in muscle damage in another organism	IDA				20201112		NCBITaxon:157554
+UniProt	UniProtKB:P86803	P86803	PMID:20195718		GO:0044398	envenomation resulting in induction of edema in another organism	IDA				20201111		NCBITaxon:157554
+UniProt	UniProtKB:P86803	P86803	PMID:20195718		GO:0044521	envenomation resulting in muscle damage in another organism	IDA				20201112		NCBITaxon:157554
+UniProt	UniProtKB:E3PQQ8	conoCAP	PMID:20385188		GO:0044556	envenomation resulting in negative regulation of heart rate in another organism	IDA				20241220		NCBITaxon:257347
+UniProt	UniProtKB:P0DRC8	P0DRC8	PMID:20398688		GO:0044523	envenomation resulting in damage of muscle extracellular matrix in another organism	IDA				20231116		NCBITaxon:384075
+UniProt	UniProtKB:D2X8K2	D2X8K2	PMID:20562011		GO:0044398	envenomation resulting in induction of edema in another organism	IDA				20120823		NCBITaxon:47073
+UniProt	UniProtKB:D2X8K2	D2X8K2	PMID:20562011		GO:0044522	envenomation resulting in myocyte killing in another organism	IDA				20120823		NCBITaxon:47073
+UniProt	UniProtKB:E3PQQ8	conoCAP	PMID:20923766		GO:0044556	envenomation resulting in negative regulation of heart rate in another organism	IDA				20241220		NCBITaxon:257347
+UniProt	UniProtKB:E7CAU3	AGP-SYPU1	PMID:20945457		GO:0044741	envenomation resulting in negative regulation of sensory perception of pain in another organism	IDA				20241219		NCBITaxon:34649
+UniProt	UniProtKB:D9IX97	D9IX97	PMID:21050868		GO:0044551	envenomation resulting in vasodilation in another organism	IDA				20120612		NCBITaxon:8656
+UniProt	UniProtKB:P0DJJ6	P0DJJ6	PMID:21130897		GO:0044398	envenomation resulting in induction of edema in another organism	IDA				20120612		NCBITaxon:157295
+UniProt	UniProtKB:P0DJJ6	P0DJJ6	PMID:21130897		GO:0044484	envenomation resulting in fibrinolysis in another organism	IDA				20120612		NCBITaxon:157295
+UniProt	UniProtKB:P0DJJ6	P0DJJ6	PMID:21130897		GO:0044485	envenomation resulting in fibrinogenolysis in another organism	IDA				20120612		NCBITaxon:157295
+UniProt	UniProtKB:D1MGU1	D1MGU1	PMID:21256857		GO:0044477	envenomation resulting in negative regulation of platelet aggregation in another organism	IDA				20171016		NCBITaxon:242841
+UniProt	UniProtKB:D1MGU0	D1MGU0	PMID:21256857		GO:0044477	envenomation resulting in negative regulation of platelet aggregation in another organism	IDA				20171016		NCBITaxon:242841
+UniProt	UniProtKB:E7CLP2	E7CLP2	PMID:21605585		GO:0044492	envenomation resulting in modulation of voltage-gated sodium channel activity in another organism	IDA				20241219		NCBITaxon:419285
+UniProt	UniProtKB:E7CLP2	E7CLP2	PMID:21605585		GO:0044559	envenomation resulting in modulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:419285
+UniProt	UniProtKB:G8XQX1	G8XQX1	PMID:21802487		GO:0044398	envenomation resulting in induction of edema in another organism	IDA				20120612		NCBITaxon:8707
+UniProt	UniProtKB:G8XQX1	G8XQX1	PMID:21802487		GO:0044477	envenomation resulting in negative regulation of platelet aggregation in another organism	IDA				20120612		NCBITaxon:8707
+UniProt	UniProtKB:A8E2V8	A8E2V8	PMID:22115990		GO:0044477	envenomation resulting in negative regulation of platelet aggregation in another organism	IDA				20120621		NCBITaxon:109781
+UniProt	UniProtKB:P0DJ48	P0DJ48	PMID:22354971		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20120612		NCBITaxon:172552
+UniProt	UniProtKB:P0C8W3	P0C8W3	PMID:22354971		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20120612		NCBITaxon:380989
+UniProt	UniProtKB:P0DJ46	P0DJ46	PMID:22354971		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20120612		NCBITaxon:172552
+UniProt	UniProtKB:P0DJ50	P0DJ50	PMID:22354971		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20120612		NCBITaxon:34649
+UniProt	UniProtKB:P0DJ49	P0DJ49	PMID:22354971		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20120612		NCBITaxon:34649
+UniProt	UniProtKB:P0DJ47	P0DJ47	PMID:22354971		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20120612		NCBITaxon:34649
+UniProt	UniProtKB:P0DJ45	P0DJ45	PMID:22354971		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20120612		NCBITaxon:172552
+UniProt	UniProtKB:Q9PWF3	CRO2	PMID:22498659		GO:0044564	envenomation resulting in occlusion of the pore of voltage-gated potassium channel in another organism	IDA				20130924		NCBITaxon:8732
+UniProt	UniProtKB:B3EWF8	B3EWF8	PMID:22677806		GO:0044487	envenomation resulting in modulation of transmission of nerve impulse in another organism	IDA				20241217		NCBITaxon:430902
+UniProt	UniProtKB:B3EWF8	B3EWF8	PMID:22677806		GO:0044513	envenomation resulting in modulation of G protein-coupled receptor activity in another organism	IDA				20241217		NCBITaxon:430902
+UniProt	UniProtKB:C0HJC3	C0HJC3	PMID:23466933		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:31165
+UniProt	UniProtKB:C0HJC2	C0HJC2	PMID:23466933		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:31165
+UniProt	UniProtKB:P49268	P49268	PMID:23473802		GO:0044475	envenomation resulting in negative regulation of high voltage-gated calcium channel activity in another organism	IDA				20130319		NCBITaxon:12944
+UniProt	UniProtKB:P49268	P49268	PMID:23473802		GO:0044476	envenomation resulting in negative regulation of low voltage-gated calcium channel activity in another organism	IDA				20130319		NCBITaxon:12944
+UniProt	UniProtKB:P49268	P49268	PMID:23473802		GO:0044487	envenomation resulting in modulation of transmission of nerve impulse in another organism	IDA				20130319		NCBITaxon:12944
+UniProt	UniProtKB:P49268	P49268	PMID:23473802		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20130319		NCBITaxon:12944
+UniProt	UniProtKB:P49268	P49268	PMID:23473802	not	GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20130319		NCBITaxon:12944
+UniProt	UniProtKB:C0HJC4	C0HJC4	PMID:23895459		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:31165
+UniProt	UniProtKB:I1VC85	I1VC85	PMID:25017240		GO:0044742	envenomation resulting in modulation of sensory perception of pain in another organism	IDA				20210316		NCBITaxon:7460
+UniProt	UniProtKB:C0HJM5	C0HJM5	PMID:25457103		GO:0044477	envenomation resulting in negative regulation of platelet aggregation in another organism	IDA				20241220		NCBITaxon:1200835
+UniProt	UniProtKB:Q072L5	Q072L5	PMID:25457103		GO:0044477	envenomation resulting in negative regulation of platelet aggregation in another organism	IDA				20241220		NCBITaxon:8722
+UniProt	UniProtKB:C0HJM4	C0HJM4	PMID:25457103		GO:0044477	envenomation resulting in negative regulation of platelet aggregation in another organism	IDA				20241220		NCBITaxon:1043007
+UniProt	UniProtKB:A0A0B4U9L8	A0A0B4U9L8	PMID:25549999	not	GO:0044358	envenomation resulting in hemorrhagic damage in another organism	IDA				20230311		NCBITaxon:8705
+UniProt	UniProtKB:A0A0B4U9L8	A0A0B4U9L8	PMID:25549999		GO:0044468	envenomation resulting in modulation of blood coagulation in another organism	IDA				20230311		NCBITaxon:8705
+UniProt	UniProtKB:A0A0B4U9L8	A0A0B4U9L8	PMID:25549999		GO:0035738	envenomation resulting in modulation of process in another organism	IDA				20230311		NCBITaxon:8705
+UniProt	UniProtKB:C0HJM9	C0HJM9	PMID:26083731		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20170411		NCBITaxon:203543
+UniProt	UniProtKB:B3EWP6	B3EWP6	PMID:26145564		GO:0044398	envenomation resulting in induction of edema in another organism	IDA				20180612	UBERON:0002387	NCBITaxon:60219
+UniProt	UniProtKB:B3EWP6	B3EWP6	PMID:26145564		GO:0044478	envenomation resulting in positive regulation of platelet aggregation in another organism	IDA				20180612		NCBITaxon:60219
+UniProt	UniProtKB:P62022	P62022	PMID:26145564		GO:0044522	envenomation resulting in myocyte killing in another organism	IDA				20231116		NCBITaxon:8732
+UniProt	UniProtKB:P62022	P62022	PMID:26145564		GO:0044398	envenomation resulting in induction of edema in another organism	IDA				20180612	UBERON:0002387	NCBITaxon:8732
+UniProt	UniProtKB:P62022	P62022	PMID:26145564		GO:0044478	envenomation resulting in positive regulation of platelet aggregation in another organism	IDA				20180612		NCBITaxon:8732
+UniProt	UniProtKB:P62022	P62022	PMID:26145564		GO:0044521	envenomation resulting in muscle damage in another organism	IDA				20180612		NCBITaxon:8732
+UniProt	UniProtKB:C0HJQ2	C0HJQ2	PMID:26398235		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:6871
+UniProt	UniProtKB:P86976	P86976	PMID:26723171		GO:0044477	envenomation resulting in negative regulation of platelet aggregation in another organism	IDA				20190929		NCBITaxon:1051630
+UniProt	UniProtKB:P86976	P86976	PMID:26723171		GO:0044484	envenomation resulting in fibrinolysis in another organism	IDA				20190929		NCBITaxon:1051630
+UniProt	UniProtKB:P86976	P86976	PMID:26723171		GO:0044485	envenomation resulting in fibrinogenolysis in another organism	IDA				20190929		NCBITaxon:1051630
+UniProt	UniProtKB:P85420	P85420	PMID:26723171		GO:0044358	envenomation resulting in hemorrhagic damage in another organism	IDA				20190929		NCBITaxon:8725
+UniProt	UniProtKB:C0HJT5	C0HJT5	PMID:27173146		GO:0044470	envenomation resulting in negative regulation of blood coagulation in another organism	IDA				20171212		NCBITaxon:8626
+UniProt	UniProtKB:P0DOC5	P0DOC5	PMID:27281198		GO:0044494	envenomation resulting in positive regulation of voltage-gated sodium channel activity in another organism	IDA				20241219		NCBITaxon:268413
+UniProt	UniProtKB:P60992	P60992	PMID:27281198		GO:0044494	envenomation resulting in positive regulation of voltage-gated sodium channel activity in another organism	IDA				20241219		NCBITaxon:268413
+UniProt	UniProtKB:N0A5N4	N0A5N4	PMID:27666486		GO:0044468	envenomation resulting in modulation of blood coagulation in another organism	IDA				20230304		NCBITaxon:8714
+UniProt	UniProtKB:A0A1L2FZD4	A0A1L2FZD4	PMID:28179135		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:6892
+UniProt	UniProtKB:N0A5N4	N0A5N4	PMID:28579355		GO:0044468	envenomation resulting in modulation of blood coagulation in another organism	IDA				20230304		NCBITaxon:8714
+UniProt	UniProtKB:A0A2L0ART2	A0A2L0ART2	PMID:29358396		GO:0044499	envenomation resulting in positive regulation of blood pressure in another organism	IDA				20180518		NCBITaxon:2836329
+UniProt	UniProtKB:A4PBQ9	A4PBQ9	PMID:30695027		GO:0044358	envenomation resulting in hemorrhagic damage in another organism	IDA				20231123		NCBITaxon:8730
+UniProt	UniProtKB:A4PBQ9	A4PBQ9	PMID:30695027		GO:0044477	envenomation resulting in negative regulation of platelet aggregation in another organism	IDA				20231123		NCBITaxon:8730
+UniProt	UniProtKB:A4PBQ9	A4PBQ9	PMID:30695027		GO:0044523	envenomation resulting in damage of muscle extracellular matrix in another organism	IDA				20231120		NCBITaxon:8730
+UniProt	UniProtKB:A0A5H1ZR48	A0A5H1ZR48	PMID:31226259	not	GO:0044492	envenomation resulting in modulation of voltage-gated sodium channel activity in another organism	IDA				20220209		NCBITaxon:6878
+UniProt	UniProtKB:A0A5H1ZR48	A0A5H1ZR48	PMID:31226259	not	GO:0044559	envenomation resulting in modulation of voltage-gated potassium channel activity in another organism	IDA				20220209		NCBITaxon:6878
+UniProt	UniProtKB:C0HLM1	C0HLM1	PMID:31402191	not	GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20210315		NCBITaxon:2599738
+UniProt	UniProtKB:C0HLM1	C0HLM1	PMID:31402191		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20210315		NCBITaxon:2599738
+UniProt	UniProtKB:C0HLM0	C0HLM0	PMID:31402191	not	GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20210315		NCBITaxon:2599738
+UniProt	UniProtKB:C0HLM0	C0HLM0	PMID:31402191		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20210315		NCBITaxon:2599738
+UniProt	UniProtKB:C0HLL9	C0HLL9	PMID:31402191		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20210216		NCBITaxon:2599738
+UniProt	UniProtKB:P0DSL0	P0DSL0	PMID:31557881		GO:0035738	envenomation resulting in modulation of process in another organism	IDA				20210310		NCBITaxon:106198
+UniProt	UniProtKB:A0A6G9KHD3	A0A6G9KHD3	PMID:31557881		GO:0044468	envenomation resulting in modulation of blood coagulation in another organism	IDA				20210310		NCBITaxon:219785
+UniProt	UniProtKB:C0HLF2	C0HLF2	PMID:31734253		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20200226		NCBITaxon:2338500
+UniProt	UniProtKB:C0HLF4	C0HLF4	PMID:31734253		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20200226		NCBITaxon:2338500
+UniProt	UniProtKB:C0HLF3	C0HLF3	PMID:31734253		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20200226		NCBITaxon:2338500
+UniProt	UniProtKB:A0A6G9KIT6	A0A6G9KIT6	PMID:32182430		GO:0044616	envenomation resulting in paralysis in another organism	IDA				20210310		NCBITaxon:219785
+UniProt	UniProtKB:A0A6G9KIR5	A0A6G9KIR5	PMID:32182430		GO:0044616	envenomation resulting in paralysis in another organism	IDA				20210310		NCBITaxon:219785
+UniProt	UniProtKB:A0A6G9KJV6	A0A6G9KJV6	PMID:32182430		GO:0044616	envenomation resulting in paralysis in another organism	IDA				20210310		NCBITaxon:219785
+UniProt	UniProtKB:A0A6G9KJK9	A0A6G9KJK9	PMID:32182430		GO:0044616	envenomation resulting in paralysis in another organism	IDA				20210310		NCBITaxon:219785
+UniProt	UniProtKB:A0A6G9KHD6	A0A6G9KHD6	PMID:32182430		GO:0044616	envenomation resulting in paralysis in another organism	IDA				20210310		NCBITaxon:219785
+UniProt	UniProtKB:C0HLR5	C0HLR5	PMID:32479835		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20200611		NCBITaxon:329350
+UniProt	UniProtKB:C0HLR4	C0HLR4	PMID:32479835		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20200611		NCBITaxon:329350
+UniProt	UniProtKB:C0HLR3	C0HLR3	PMID:32479835		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20200611		NCBITaxon:329350
+UniProt	UniProtKB:C0HLR6	C0HLR6	PMID:32973807		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20210216		NCBITaxon:2718978
+UniProt	UniProtKB:C0HLS3	C0HLS3	PMID:33344898		GO:0035738	envenomation resulting in modulation of process in another organism	IDA				20210216		NCBITaxon:621823
+UniProt	UniProtKB:C0HLS2	C0HLS2	PMID:33344898		GO:0035738	envenomation resulting in modulation of process in another organism	IDA				20210216		NCBITaxon:621823
+UniProt	UniProtKB:C0HLM3	C0HLM3	PMID:34201318		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20210805		NCBITaxon:29018
+UniProt	UniProtKB:Q58L91	Q58L91	PMID:3531198		GO:0044469	envenomation resulting in positive regulation of blood coagulation in another organism	IDA				20130222		NCBITaxon:8668
+UniProt	UniProtKB:Q58L96	Q58L96	PMID:3531198		GO:0044469	envenomation resulting in positive regulation of blood coagulation in another organism	IDA				20130222		NCBITaxon:8668
+UniProt	UniProtKB:Q53B58	Q53B58	PMID:35341214		GO:0044511	envenomation resulting in modulation of receptor activity in another organism	IDA				20220616		NCBITaxon:8665
+UniProt	UniProtKB:C0HM65	C0HM65	PMID:36668861		GO:0044564	envenomation resulting in occlusion of the pore of voltage-gated potassium channel in another organism	IDA				20230223		NCBITaxon:29018
+UniProt	UniProtKB:P81508	P81508	PMID:8823201		GO:0044477	envenomation resulting in negative regulation of platelet aggregation in another organism	IDA				20130416		NCBITaxon:35024
+UniProt	UniProtKB:P81509	P81509	PMID:8823201		GO:0044477	envenomation resulting in negative regulation of platelet aggregation in another organism	IDA				20130416		NCBITaxon:35024
+UniProt	UniProtKB:P84715	P84715	PMID:9663691		GO:0044398	envenomation resulting in induction of edema in another organism	IDA			PANTHER:PTHR12167	20171117		NCBITaxon:9258
+UniProt	UniProtKB:P84715	P84715	PMID:9663691		GO:0044480	envenomation resulting in positive regulation of mast cell degranulation in another organism	IDA			PANTHER:PTHR12167	20241220	CHEBI:18295	NCBITaxon:9258
+UniProt	UniProtKB:P84715	P84715	PMID:9663691		GO:0044619	envenomation resulting in uterine smooth muscle relaxation in another organism	IDA			PANTHER:PTHR12167	20171117		NCBITaxon:9258
+UniProt	UniProtKB:Q9PW35	Q9PW35	PMID:9784374		GO:0044358	envenomation resulting in hemorrhagic damage in another organism	TAS				20210416		NCBITaxon:36307
