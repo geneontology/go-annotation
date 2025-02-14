@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+TAIR	AGI_LocusCode:AT5G18660	PCB2	PMID:15632054|TAIR:Publication:501714422		GO:0051744	3,8-divinyl protochlorophyllide a 8-vinyl reductase activity	IDA		TAIR:locus:2180019		20060109		NCBITaxon:3702
