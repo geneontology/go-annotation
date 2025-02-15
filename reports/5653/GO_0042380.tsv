@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P62623	ispH	PMID:12571359		GO:0042380	hydroxymethylbutenyl pyrophosphate reductase activity	IDA			PANTHER:PTHR30426	20070514		NCBITaxon:83333
