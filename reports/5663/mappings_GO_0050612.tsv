@@ -1,0 +1,5 @@
+term	file	line
+GO:0050612	kegg_reaction2go	KEGG_REACTION:R05752 > GO:arsenate reductase (donor) activity ; GO:0050612
+GO:0050612	ec2go	EC:1.20.99.1 > GO:arsenate reductase (donor) activity ; GO:0050612
+GO:0050612	rhea2go	RHEA:18449 > GO:arsenate reductase (donor) activity ; GO:0050612
+GO:0050612	metacyc2go	MetaCyc:1.20.99.1-RXN > GO:arsenate reductase (donor) activity ; GO:0050612
