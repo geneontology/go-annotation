@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:P06736	hlyC	PMID:11695909		GO:0018030	peptidyl-lysine N6-myristoyltransferase activity	IDA				20220221	UniProtKB:P08715|GO:0044179	NCBITaxon:562
+UniProt	UniProtKB:P06736	hlyC	PMID:32461253		GO:0018030	peptidyl-lysine N6-myristoyltransferase activity	IDA				20220221	UniProtKB:P08715|GO:0044179	NCBITaxon:562
+UniProt	UniProtKB:P0A3I5	cyaC	PMID:32461253		GO:0018031	peptidyl-lysine N6-palmitoyltransferase activity	IDA				20220221	UniProtKB:P0DKX7|GO:0044179	NCBITaxon:257313
+UniProt	UniProtKB:P0A3I5	cyaC	PMID:33011179		GO:0018031	peptidyl-lysine N6-palmitoyltransferase activity	IDA				20220221	UniProtKB:P0DKX7|GO:0044179	NCBITaxon:257313

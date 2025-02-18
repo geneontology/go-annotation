@@ -1,0 +1,76 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	UniProtKB:P0DKX7	cya	PMID:17148436		GO:0044179	hemolysis in another organism	IDA				20120414		NCBITaxon:257313
+CACAO	UniProtKB:P0C2E9	pfo	PMID:18078439		GO:0044179	hemolysis in another organism	IMP				20120414		NCBITaxon:195102
+CACAO	UniProtKB:Q0TV31	plc	PMID:21300155		GO:0044179	hemolysis in another organism	IDA				20111201		NCBITaxon:195103
+CACAO	UniProtKB:A8ULG6	netB	PMID:23386432		GO:0044179	hemolysis in another organism	IMP				20130410		NCBITaxon:1502
+CAFA	UniProtKB:Q07932	Q07932	PMID:15639237		GO:0044179	hemolysis in another organism	IMP				20161111		NCBITaxon:13618
+CGD	CGD:CAL0000199701	ECE1	PMID:36548771|CGD_REF:CAL0000245667		GO:0044179	hemolysis in another organism	IMP				20230208		NCBITaxon:237561
+DisProt	UniProtKB:P57104	P57104	PMID:12133008		GO:0044179	hemolysis in another organism	EXP				20220228		NCBITaxon:8407
+GeneDB	PlasmoDB:PF3D7_1455400	HlyIII	PMID:25148832		GO:0044179	hemolysis in another organism	IDA				20140916		NCBITaxon:36329
+PseudoCAP	PseudoCAP:PA0844	plcH	PMID:12410824		GO:0044179	hemolysis in another organism	IDA				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA0844	plcH	PMID:23667230		GO:0044179	hemolysis in another organism	IMP				20190311		NCBITaxon:208964
+UniProt	UniProtKB:P85231	P85231	DOI:10.1071/CH10007		GO:0044179	hemolysis in another organism	IDA				20110428		NCBITaxon:180952
+UniProt	UniProtKB:Q868M7	cel3	PMID:10101284		GO:0044179	hemolysis in another organism	IDA				20210924		NCBITaxon:40245
+UniProt	UniProtKB:Q868M7	cel3	PMID:10923802		GO:0044179	hemolysis in another organism	IDA				20210924		NCBITaxon:40245
+UniProt	UniProtKB:Q868M7	cel3	PMID:11471734		GO:0044179	hemolysis in another organism	IDA				20210924		NCBITaxon:40245
+UniProt	UniProtKB:Q8T0Z3	Q8T0Z3	PMID:11751887		GO:0044179	hemolysis in another organism	IDA				20210723		NCBITaxon:30076
+UniProt	UniProtKB:P83547	P83547	PMID:12581207		GO:0044179	hemolysis in another organism	IDA				20180228		NCBITaxon:143350
+UniProt	UniProtKB:P83546	P83546	PMID:12581207		GO:0044179	hemolysis in another organism	IDA				20180228		NCBITaxon:143350
+UniProt	UniProtKB:P83545	P83545	PMID:12581207		GO:0044179	hemolysis in another organism	IDA				20180228		NCBITaxon:143350
+UniProt	UniProtKB:Q6PXP0	Q6PXP0	PMID:15066171		GO:0044179	hemolysis in another organism	IDA				20201112	CL:0000232	NCBITaxon:246982
+UniProt	UniProtKB:P84915	P84915	PMID:15150833		GO:0044179	hemolysis in another organism	IDA				20220923		NCBITaxon:291283
+UniProt	UniProtKB:P84914	P84914	PMID:15150833		GO:0044179	hemolysis in another organism	IDA				20220923		NCBITaxon:291283
+UniProt	UniProtKB:P0CJ32	P0CJ32	PMID:15207717		GO:0044179	hemolysis in another organism	IDA				20110330		NCBITaxon:8439
+UniProt	UniProtKB:P84002	P84002	PMID:15638808		GO:0044179	hemolysis in another organism	IDA				20180228		NCBITaxon:2517092
+UniProt	UniProtKB:P84003	P84003	PMID:15638808		GO:0044179	hemolysis in another organism	IDA				20180228		NCBITaxon:2517092
+UniProt	UniProtKB:Q564A5	Hln-2	PMID:15824108		GO:0044179	hemolysis in another organism	IDA				20201112	CL:0000232	NCBITaxon:6082
+UniProt	UniProtKB:P85071	P85071	PMID:16487561	not	GO:0044179	hemolysis in another organism	IDA				20180228		NCBITaxon:167935
+UniProt	UniProtKB:P85070	P85070	PMID:16487561		GO:0044179	hemolysis in another organism	IDA				20180228		NCBITaxon:167935
+UniProt	UniProtKB:Q868M7	cel3	PMID:18159942		GO:0044179	hemolysis in another organism	IDA				20210924		NCBITaxon:40245
+UniProt	UniProtKB:A0A0H3PEK7	tlyA	PMID:18389311	not	GO:0044179	hemolysis in another organism	IMP				20211122		NCBITaxon:354242
+UniProt	UniProtKB:P86147	P86147	PMID:18695936		GO:0044179	hemolysis in another organism	IDA				20120612		NCBITaxon:529024
+UniProt	UniProtKB:P86146	P86146	PMID:18695936		GO:0044179	hemolysis in another organism	IDA				20201110		NCBITaxon:529024
+UniProt	UniProtKB:P86170	P86170	PMID:18942691		GO:0044179	hemolysis in another organism	IDA				20171120		NCBITaxon:582867
+UniProt	UniProtKB:P86415	P86415	PMID:19085906		GO:0044179	hemolysis in another organism	IDA				20101005		NCBITaxon:201963
+UniProt	UniProtKB:Q868M7	cel3	PMID:19356139		GO:0044179	hemolysis in another organism	IDA				20210924		NCBITaxon:40245
+UniProt	UniProtKB:Q868M7	cel3	PMID:19420692		GO:0044179	hemolysis in another organism	IDA				20210924		NCBITaxon:40245
+UniProt	UniProtKB:B3VZU4	B3VZU4	PMID:19539775		GO:0044179	hemolysis in another organism	IDA				20101006		NCBITaxon:71582
+UniProt	UniProtKB:B3VZU0	B3VZU0	PMID:19539775		GO:0044179	hemolysis in another organism	IDA				20101006		NCBITaxon:71582
+UniProt	UniProtKB:P08715	hlyA	PMID:2121650		GO:0044179	hemolysis in another organism	IDA				20220221		NCBITaxon:562
+UniProt	UniProtKB:P09983	hlyA	PMID:2121650		GO:0044179	hemolysis in another organism	IDA				20220221		NCBITaxon:562
+UniProt	UniProtKB:Q51817	kgp	PMID:21812842		GO:0044179	hemolysis in another organism	IMP				20160512		NCBITaxon:837
+UniProt	UniProtKB:G3ETQ3	G3ETQ3	PMID:21816202		GO:0044179	hemolysis in another organism	IDA				20120207		NCBITaxon:1077530
+UniProt	UniProtKB:G3ETQ2	G3ETQ2	PMID:21816202		GO:0044179	hemolysis in another organism	IDA				20120207		NCBITaxon:1077530
+UniProt	UniProtKB:F8J4S0	F8J4S0	PMID:21933345		GO:0044179	hemolysis in another organism	IDA				20111003		NCBITaxon:666126
+UniProt	UniProtKB:Q1I8U1	mnl	PMID:21980286		GO:0044179	hemolysis in another organism	IDA				20170320		NCBITaxon:384676
+UniProt	UniProtKB:Q868M7	cel3	PMID:22313748		GO:0044179	hemolysis in another organism	IDA				20210924		NCBITaxon:40245
+UniProt	UniProtKB:B3A0M6	B3A0M6	PMID:22917879		GO:0044179	hemolysis in another organism	IDA				20120904		NCBITaxon:431936
+UniProt	UniProtKB:B3A0M3	B3A0M3	PMID:22917879		GO:0044179	hemolysis in another organism	IDA				20120904		NCBITaxon:431936
+UniProt	UniProtKB:B3A0M7	B3A0M7	PMID:22917879		GO:0044179	hemolysis in another organism	IDA				20120904		NCBITaxon:431936
+UniProt	UniProtKB:Q868M7	cel3	PMID:23583369		GO:0044179	hemolysis in another organism	IDA				20210924		NCBITaxon:40245
+UniProt	UniProtKB:E7EKM1	E7EKM1	PMID:24055160		GO:0044179	hemolysis in another organism	IDA				20170317		NCBITaxon:369515
+UniProt	UniProtKB:E7EKI0	E7EKI0	PMID:24055160		GO:0044179	hemolysis in another organism	IDA				20170317		NCBITaxon:369515
+UniProt	UniProtKB:E7EKH5	E7EKH5	PMID:24055160		GO:0044179	hemolysis in another organism	IDA				20170317		NCBITaxon:369515
+UniProt	UniProtKB:E7EKH1	E7EKH1	PMID:24055160		GO:0044179	hemolysis in another organism	IDA				20170317		NCBITaxon:369515
+UniProt	UniProtKB:E7EKH2	E7EKH2	PMID:24055160		GO:0044179	hemolysis in another organism	IDA				20170317		NCBITaxon:369515
+UniProt	UniProtKB:E7EKH3	E7EKH3	PMID:24055160		GO:0044179	hemolysis in another organism	IDA				20170317		NCBITaxon:369515
+UniProt	UniProtKB:E7EKH4	E7EKH4	PMID:24055160		GO:0044179	hemolysis in another organism	IDA				20170317		NCBITaxon:369515
+UniProt	UniProtKB:E7EKH6	E7EKH6	PMID:24055160		GO:0044179	hemolysis in another organism	IDA				20170317		NCBITaxon:369515
+UniProt	UniProtKB:E7EKI9	E7EKI9	PMID:24055160		GO:0044179	hemolysis in another organism	IDA				20170317		NCBITaxon:369515
+UniProt	UniProtKB:E7EKJ5	E7EKJ5	PMID:24055160		GO:0044179	hemolysis in another organism	IDA				20170317		NCBITaxon:369515
+UniProt	UniProtKB:E7EKH7	E7EKH7	PMID:24055160		GO:0044179	hemolysis in another organism	IDA				20170317		NCBITaxon:369515
+UniProt	UniProtKB:P9WKQ1	spmT	PMID:26036301		GO:0044179	hemolysis in another organism	IMP				20160804		NCBITaxon:83332
+UniProt	UniProtKB:A0A144LVL3	A0A144LVL3	PMID:27007817		GO:0044179	hemolysis in another organism	IDA		UniProtKB:A0A144LVL3-PRO_0000438843		20170221		NCBITaxon:7648
+UniProt	UniProtKB:Q868M7	cel3	PMID:27101707		GO:0044179	hemolysis in another organism	IDA				20210924		NCBITaxon:40245
+UniProt	UniProtKB:C0HLN8	C0HLN8	PMID:32414842		GO:0044179	hemolysis in another organism	IDA				20210210		NCBITaxon:212266
+UniProt	UniProtKB:A0A2L2DDD0	A0A2L2DDD0	PMID:32443921		GO:0044179	hemolysis in another organism	IDA				20211210		NCBITaxon:192750
+UniProt	UniProtKB:A0A2L2DDE6	A0A2L2DDE6	PMID:32967114		GO:0044179	hemolysis in another organism	IDA				20211210		NCBITaxon:192750
+UniProt	UniProtKB:J7QLC0	cya	PMID:7525549		GO:0044179	hemolysis in another organism	IDA				20220218		NCBITaxon:568706
+UniProt	UniProtKB:Q868M7	cel3	PMID:7798179		GO:0044179	hemolysis in another organism	IDA				20210924		NCBITaxon:40245
+UniProt	UniProtKB:P0DKX7	cya	PMID:8077197		GO:0044179	hemolysis in another organism	IDA				20220218		NCBITaxon:257313
+UniProt	UniProtKB:P32412	P32412	PMID:8163497		GO:0044179	hemolysis in another organism	IDA				20101006		NCBITaxon:45623
+UniProt	UniProtKB:P32414	P32414	PMID:8508915		GO:0044179	hemolysis in another organism	IDA				20180228		NCBITaxon:45623
+UniProt	UniProtKB:Q868M7	cel3	PMID:8663224		GO:0044179	hemolysis in another organism	IDA				20210924		NCBITaxon:40245
+UniProt	UniProtKB:Q868M7	cel3	PMID:9058193		GO:0044179	hemolysis in another organism	IDA				20210924		NCBITaxon:40245
+UniProt	UniProtKB:Q868M7	cel3	PMID:9692203		GO:0044179	hemolysis in another organism	IDA				20210924		NCBITaxon:40245
+UniProt	UniProtKB:Q868M7	cel3	PMID:9805377		GO:0044179	hemolysis in another organism	IDA				20210924		NCBITaxon:40245
