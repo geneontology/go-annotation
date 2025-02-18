@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AspGD	UniProtKB:Q00050	AFUA_3G00590	PMID:16196		GO:0019836	hemolysis by symbiont of host erythrocytes	IDA				20100910		NCBITaxon:330879
+CACAO	UniProtKB:Q8Z727	hlyE	PMID:12228306		GO:0019836	hemolysis by symbiont of host erythrocytes	IMP				20150203		NCBITaxon:90370
+CACAO	UniProtKB:D7FF05	tlyA	PMID:24434145		GO:0019836	hemolysis by symbiont of host erythrocytes	IDA				20140401		NCBITaxon:693745
+MTBBASE	UniProtKB:P9WJ63	tlyA	PMID:20854656		GO:0019836	hemolysis by symbiont of host erythrocytes	IDA			PANTHER:PTHR32319	20120701		NCBITaxon:83332
+TIGR	UniProtKB:O87079	tdh	PMID:12101305		GO:0019836	hemolysis by symbiont of host erythrocytes	IDA				20210719		NCBITaxon:666
+UniProt	UniProtKB:O06695	vllY	PMID:16394536		GO:0019836	hemolysis by symbiont of host erythrocytes	IDA				20180228		NCBITaxon:216895
