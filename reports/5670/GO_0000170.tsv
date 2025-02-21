@@ -1,0 +1,11 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+GR	UniProtKB:Q67WK8	Os06g0226950	PMID:17609219		GO:0000170	sphingosine hydroxylase activity	IDA			PANTHER:PTHR11863	20080218		NCBITaxon:39947
+MGI	PR:Q8R2F2-1	mDEGS2/iso:1	PMID:15474011		GO:0000170	sphingosine hydroxylase activity	IDA				20100202		NCBITaxon:10090
+MGI	PR:Q8R2F2-1	mDEGS2/iso:1	PMID:16571104		GO:0000170	sphingosine hydroxylase activity	IDA				20100202		NCBITaxon:10090
+PomBase	PomBase:SPBC887.15c	sur2	PMID:22542487		GO:0000170	sphingosine hydroxylase activity	IGI	SGD:S000002705		PANTHER:PTHR11863	20131121		NCBITaxon:4896
+PomBase	PomBase:SPBC887.15c	sur2	PMID:22542487		GO:0000170	sphingosine hydroxylase activity	IMP			PANTHER:PTHR11863	20131121		NCBITaxon:4896
+Reactome	UniProtKB:Q6QHC5	DEGS2	Reactome:R-HSA-428260		GO:0000170	sphingosine hydroxylase activity	TAS		UniProtKB:Q6QHC5	PANTHER:PTHR12879	20200515		NCBITaxon:9606
+SGD	SGD:S000004885	SCS7	PMID:9353282		GO:0000170	sphingosine hydroxylase activity	IMP		UniProtKB:Q03529	PANTHER:PTHR12863	20200728	GO:0000038|GO:0016020	NCBITaxon:559292
+SGD	SGD:S000002705	SUR2	PMID:9556590		GO:0000170	sphingosine hydroxylase activity	IMP		UniProtKB:P38992	PANTHER:PTHR11863	20130807		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT1G14290	SBH2	PMID:11297741|TAIR:Publication:501679462		GO:0000170	sphingosine hydroxylase activity	IGI		TAIR:locus:2012512		20080818		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G69640	SBH1	PMID:11297741|TAIR:Publication:501679462		GO:0000170	sphingosine hydroxylase activity	IGI		TAIR:locus:2026756		20080818		NCBITaxon:3702
