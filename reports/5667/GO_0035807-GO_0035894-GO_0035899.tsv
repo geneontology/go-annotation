@@ -1,0 +1,20 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:P86163	P86163	PMID:10758276		GO:0035807	induction of blood coagulation in another organism	IDA				20230614		NCBITaxon:144766
+UniProt	UniProtKB:N0A5N4	N0A5N4	PMID:27666486		GO:0035894	induction of platelet aggregation in another organism	IDA				20230304		NCBITaxon:8714
+UniProt	UniProtKB:N0A5N4	N0A5N4	PMID:28579355		GO:0035894	induction of platelet aggregation in another organism	IDA				20230304		NCBITaxon:8714
+AgBase	UniProtKB:Q2FZB8	SAOUHSC_01114	PMID:26627825		GO:0035899	suppression of blood coagulation in another organism	IMP				20160128		NCBITaxon:93061
+CACAO	UniProtKB:Q90WA1	Q90WA1	PMID:19236611		GO:0035899	suppression of blood coagulation in another organism	IDA				20130315		NCBITaxon:169397
+UniProt	UniProtKB:P86681	P86681	PMID:10595640		GO:0035899	suppression of blood coagulation in another organism	IDA				20110721		NCBITaxon:279730
+UniProt	UniProtKB:Q95V94	Q95V94	PMID:12011093		GO:0035899	suppression of blood coagulation in another organism	IDA				20240827		NCBITaxon:30069
+UniProt	UniProtKB:P85975	P85975	PMID:17555860		GO:0035899	suppression of blood coagulation in another organism	IDA				20201109		NCBITaxon:547193
+UniProt	UniProtKB:P86805	P86805	PMID:19747981		GO:0035899	suppression of blood coagulation in another organism	IDA				20201111		NCBITaxon:184542
+UniProt	UniProtKB:P86806	P86806	PMID:19747981		GO:0035899	suppression of blood coagulation in another organism	IDA				20201111		NCBITaxon:184542
+UniProt	UniProtKB:D2X8K2	D2X8K2	PMID:20562011		GO:0035899	suppression of blood coagulation in another organism	IDA				20120612		NCBITaxon:47073
+UniProt	UniProtKB:D1MWE7	D1MWE7	PMID:22771751		GO:0035899	suppression of blood coagulation in another organism	IDA				20241022		NCBITaxon:72491
+UniProt	UniProtKB:Q06KA5	M02	PMID:24092749		GO:0035899	suppression of blood coagulation in another organism	IDA				20240827		NCBITaxon:37738
+UniProt	UniProtKB:Q06K46	K03	PMID:24092749		GO:0035899	suppression of blood coagulation in another organism	IDA				20240827		NCBITaxon:37738
+UniProt	UniProtKB:Q7Q3J5	AgaP_AGAP007907	PMID:25211214		GO:0035899	suppression of blood coagulation in another organism	IDA			PANTHER:PTHR21131	20240828		NCBITaxon:7165
+UniProt	UniProtKB:L0MZ46	L0MZ46	PMID:25724270		GO:0035899	suppression of blood coagulation in another organism	IDA				20240829		NCBITaxon:252632
+UniProt	UniProtKB:A0A0K1YW63	A0A0K1YW63	PMID:27208884		GO:0035899	suppression of blood coagulation in another organism	IDA				20210316		NCBITaxon:7461
+UniProt	UniProtKB:Q5MIT9	Q5MIT9	PMID:33612723		GO:0035899	suppression of blood coagulation in another organism	IDA				20240912		NCBITaxon:7160
+UniProt	UniProtKB:L0MZ37	L0MZ37	PMID:35817195		GO:0035899	suppression of blood coagulation in another organism	IDA				20240829		NCBITaxon:252632
