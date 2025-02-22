@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+SGD	SGD:S000004716	HFD1	PMID:33862086		GO:0018484	4-hydroxybenzaldehyde dehydrogenase (NAD+) activity	IMP		UniProtKB:Q04458	PANTHER:PTHR43570	20210610	GO:0032180	NCBITaxon:559292

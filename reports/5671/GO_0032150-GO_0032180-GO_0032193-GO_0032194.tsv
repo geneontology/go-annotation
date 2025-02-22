@@ -1,0 +1,11 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P0ADP7	ubiJ	PMID:24142253		GO:0032150	ubiquinone biosynthetic process from chorismate	IMP			PANTHER:PTHR38693	20220110		NCBITaxon:83333
+EcoCyc	UniProtKB:P45527	ubiU	PMID:31289180		GO:0032150	ubiquinone biosynthetic process from chorismate	IMP			PANTHER:PTHR30217	20190729		NCBITaxon:83333
+EcoCyc	UniProtKB:P64599	ubiT	PMID:31289180		GO:0032150	ubiquinone biosynthetic process from chorismate	IMP			PANTHER:PTHR10094	20190729		NCBITaxon:83333
+EcoCyc	UniProtKB:P45475	ubiV	PMID:31289180		GO:0032150	ubiquinone biosynthetic process from chorismate	IMP			PANTHER:PTHR30217	20190729		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AAB4	ubiD	PMID:4897112		GO:0032150	ubiquinone biosynthetic process from chorismate	IMP			PANTHER:PTHR30108	20180809		NCBITaxon:83333
+SGD	SGD:S000004716	HFD1	PMID:27693056		GO:0032180	ubiquinone biosynthetic process from tyrosine	IMP		UniProtKB:Q04458	PANTHER:PTHR43570	20161111		NCBITaxon:559292
+SGD	SGD:S000004716	HFD1	PMID:33862086		GO:0032180	ubiquinone biosynthetic process from tyrosine	IMP		UniProtKB:Q04458	PANTHER:PTHR43570	20210610		NCBITaxon:559292
+PomBase	PomBase:SPBC2D10.18	coq8	PMID:14695938		GO:0032194	ubiquinone biosynthetic process via 3,4-dihydroxy-5-polyprenylbenzoate	IMP			PANTHER:PTHR43851	20130502		NCBITaxon:4896
+RGD	RGD:2380	Coq3	PMID:8125303|RGD:69814		GO:0032194	ubiquinone biosynthetic process via 3,4-dihydroxy-5-polyprenylbenzoate	IGI	SGD:S000005456		PANTHER:PTHR43464	20060322		NCBITaxon:10116
+ZFIN	ZFIN:ZDB-GENE-030131-3205	ubiad1	PMID:24177291		GO:0032194	ubiquinone biosynthetic process via 3,4-dihydroxy-5-polyprenylbenzoate	IMP	ZFIN:ZDB-GENO-130327-4		PANTHER:PTHR13929	20140918		NCBITaxon:7955
