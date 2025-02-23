@@ -1,0 +1,15 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	MGI:MGI:97613	Plcb1	PMID:15849202		GO:2000560	positive regulation of CD24 production	IDA			PANTHER:PTHR10336	20120404		NCBITaxon:10090
+ARUK-UCL	MGI:MGI:1924375	Il33	PMID:26936882		GO:0150145	positive regulation of CD80 production	IDA			PANTHER:PTHR21114	20200526	CL:0002476	NCBITaxon:10090
+UniProt	MGI:MGI:1922056	Tmem106a	PMID:26215746		GO:0035780	CD80 biosynthetic process	IDA			PANTHER:PTHR28556	20190314		NCBITaxon:10090
+ARUK-UCL	MGI:MGI:1924375	Il33	PMID:26936882		GO:0150142	positive regulation of CD86 production	IDA			PANTHER:PTHR21114	20200526	CL:0002476	NCBITaxon:10090
+MGI	MGI:MGI:1328317	Trex1	PMID:24218451		GO:0035781	CD86 biosynthetic process	IMP	MGI:MGI:3052754		PANTHER:PTHR13058	20181017		NCBITaxon:10090
+UniProt	MGI:MGI:1922056	Tmem106a	PMID:26215746		GO:0035781	CD86 biosynthetic process	IDA			PANTHER:PTHR28556	20190314		NCBITaxon:10090
+BHF-UCL	MGI:MGI:99928	Jak3	PMID:9498750		GO:0045221	negative regulation of FasL production	IMP			PANTHER:PTHR45807	20110331		NCBITaxon:10090
+MGI	MGI:MGI:1096880	Phlda1	PMID:8673705		GO:0045210	FasL biosynthetic process	IDA			PANTHER:PTHR15478	20030813		NCBITaxon:10090
+UniProt	UniProtKB:P03406	nef	PMID:8095017		GO:0045225	negative regulation of CD4 production	IDA				20060112		NCBITaxon:11686
+UniProt	UniProtKB:O14734	ACOT8	PMID:9153233		GO:0045225	negative regulation of CD4 production	IDA		UniProtKB:O14734	PANTHER:PTHR11066	20151127		NCBITaxon:9606
+MGI	MGI:MGI:99400	Atp7a	PMID:8096378		GO:0051542	elastin biosynthetic process	IMP	MGI:MGI:1856101		PANTHER:PTHR43520	20061101	CL:0000057	NCBITaxon:10090
+PseudoCAP	PseudoCAP:PA3724	lasB	PMID:1902216		GO:0051542	elastin biosynthetic process	IGI				20190311		NCBITaxon:208964
+PseudoCAP	PseudoCAP:PA1430	lasR	PMID:1902216		GO:0051544	positive regulation of elastin biosynthetic process	IMP				20190311		NCBITaxon:208964
+UniProt	RGD:2526	Hbegf	PMID:12882762|RGD:8554842		GO:0051545	negative regulation of elastin biosynthetic process	IDA			PANTHER:PTHR10740	20050816		NCBITaxon:10116
