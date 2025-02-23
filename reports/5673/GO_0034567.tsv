@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P0AGE6	chrR	PMID:14766567		GO:0034567	chromate reductase activity	IDA			PANTHER:PTHR30543	20210226		NCBITaxon:83333
+EcoCyc	UniProtKB:P17117	nfsA	PMID:15250887		GO:0034567	chromate reductase activity	IDA			PANTHER:PTHR43425	20120530		NCBITaxon:83333
+EcoCyc	UniProtKB:P77258	nemA	PMID:23527133		GO:0034567	chromate reductase activity	IDA			PANTHER:PTHR22893	20130328		NCBITaxon:83333
