@@ -1,0 +1,18 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+Reactome	UniProtKB:Q53GL7	PARP10	Reactome:R-HSA-197264		GO:0034356	NAD biosynthesis via nicotinamide riboside salvage pathway	TAS		UniProtKB:Q53GL7	PANTHER:PTHR14453	20240830		NCBITaxon:9606
+Reactome	UniProtKB:Q16647	PTGIS	Reactome:R-HSA-197264		GO:0034356	NAD biosynthesis via nicotinamide riboside salvage pathway	TAS		UniProtKB:Q16647	PANTHER:PTHR24306	20240829		NCBITaxon:9606
+Reactome	UniProtKB:Q8IW45	NAXD	Reactome:R-HSA-197264		GO:0034356	NAD biosynthesis via nicotinamide riboside salvage pathway	TAS		UniProtKB:Q8IW45	PANTHER:PTHR12592	20240830		NCBITaxon:9606
+Reactome	UniProtKB:P40261	NNMT	Reactome:R-HSA-197264		GO:0034356	NAD biosynthesis via nicotinamide riboside salvage pathway	TAS		UniProtKB:P40261	PANTHER:PTHR10867	20240830		NCBITaxon:9606
+Reactome	UniProtKB:Q9BQG2	NUDT12	Reactome:R-HSA-197264		GO:0034356	NAD biosynthesis via nicotinamide riboside salvage pathway	TAS		UniProtKB:Q9BQG2	PANTHER:PTHR42904	20240830		NCBITaxon:9606
+Reactome	UniProtKB:P43490	NAMPT	Reactome:R-HSA-197264		GO:0034356	NAD biosynthesis via nicotinamide riboside salvage pathway	TAS		UniProtKB:P43490	PANTHER:PTHR43816	20240829		NCBITaxon:9606
+Reactome	UniProtKB:Q8IXQ6	PARP9	Reactome:R-HSA-197264		GO:0034356	NAD biosynthesis via nicotinamide riboside salvage pathway	TAS		UniProtKB:Q8IXQ6	PANTHER:PTHR14453	20240830		NCBITaxon:9606
+Reactome	UniProtKB:Q8N5Y8	PARP16	Reactome:R-HSA-197264		GO:0034356	NAD biosynthesis via nicotinamide riboside salvage pathway	TAS		UniProtKB:Q8N5Y8	PANTHER:PTHR21328	20240830		NCBITaxon:9606
+Reactome	UniProtKB:Q8N695	SLC5A8	Reactome:R-HSA-197264		GO:0034356	NAD biosynthesis via nicotinamide riboside salvage pathway	TAS		UniProtKB:Q8N695	PANTHER:PTHR42985	20240830		NCBITaxon:9606
+Reactome	UniProtKB:Q9Y226	SLC22A13	Reactome:R-HSA-197264		GO:0034356	NAD biosynthesis via nicotinamide riboside salvage pathway	TAS		UniProtKB:Q9Y226	PANTHER:PTHR24064	20240830		NCBITaxon:9606
+SGD	SGD:S000005073	NRK1	PMID:15137942		GO:0034356	NAD biosynthesis via nicotinamide riboside salvage pathway	IGI	SGD:S000001116	UniProtKB:P53915	PANTHER:PTHR10285	20130807		NCBITaxon:559292
+SGD	SGD:S000004199	PNP1	PMID:19001417		GO:0034356	NAD biosynthesis via nicotinamide riboside salvage pathway	IGI	SGD:S000004199	UniProtKB:Q05788	PANTHER:PTHR11904	20130807		NCBITaxon:559292
+SGD	SGD:S000004199	PNP1	PMID:19001417		GO:0034356	NAD biosynthesis via nicotinamide riboside salvage pathway	IGI	SGD:S000005073	UniProtKB:Q05788	PANTHER:PTHR11904	20130807		NCBITaxon:559292
+SGD	SGD:S000002808	URH1	PMID:19001417		GO:0034356	NAD biosynthesis via nicotinamide riboside salvage pathway	IGI	SGD:S000005073	UniProtKB:Q04179	PANTHER:PTHR12304	20130807		NCBITaxon:559292
+SGD	SGD:S000000552	POF1	PMID:24759102		GO:0034356	NAD biosynthesis via nicotinamide riboside salvage pathway	IGI	SGD:S000001116	UniProtKB:P25576	PANTHER:PTHR31285	20140607		NCBITaxon:559292
+SGD	SGD:S000000552	POF1	PMID:24759102		GO:0034356	NAD biosynthesis via nicotinamide riboside salvage pathway	IGI	SGD:S000004320	UniProtKB:P25576	PANTHER:PTHR31285	20140607		NCBITaxon:559292
+SGD	SGD:S000000552	POF1	PMID:24759102		GO:0034356	NAD biosynthesis via nicotinamide riboside salvage pathway	IGI	SGD:S000003242	UniProtKB:P25576	PANTHER:PTHR31285	20140607		NCBITaxon:559292
