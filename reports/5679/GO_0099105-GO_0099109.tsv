@@ -1,0 +1,17 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:88031	Anxa7	PMID:10570150		GO:0099105	ion channel modulating, G protein-coupled receptor signaling pathway	IMP	MGI:MGI:2159005		PANTHER:PTHR10502	20220830		NCBITaxon:10090
+MGI	MGI:MGI:96623	Itpr1	PMID:10570150		GO:0099105	ion channel modulating, G protein-coupled receptor signaling pathway	IGI	MGI:MGI:88031		PANTHER:PTHR13715	20220830		NCBITaxon:10090
+MGI	MGI:MGI:107476	Stim1	PMID:18452988		GO:0099105	ion channel modulating, G protein-coupled receptor signaling pathway	IDA			PANTHER:PTHR15136	20220830		NCBITaxon:10090
+MGI	MGI:MGI:88398	Chrm3	PMID:20440069		GO:0099105	ion channel modulating, G protein-coupled receptor signaling pathway	IDA			PANTHER:PTHR24247	20220826	CL:0000169|GO:0030073|GO:0051649	NCBITaxon:10090
+MGI	MGI:MGI:95766	Gna11	PMID:20440069		GO:0099105	ion channel modulating, G protein-coupled receptor signaling pathway	IGI	MGI:MGI:95776		PANTHER:PTHR10218	20220826		NCBITaxon:10090
+MGI	MGI:MGI:95766	Gna11	PMID:20440069		GO:0099105	ion channel modulating, G protein-coupled receptor signaling pathway	IGI	MGI:MGI:95776		PANTHER:PTHR10218	20220826	CL:0000169|GO:0030073|GO:0051649	NCBITaxon:10090
+MGI	MGI:MGI:95776	Gnaq	PMID:20440069		GO:0099105	ion channel modulating, G protein-coupled receptor signaling pathway	IGI	MGI:MGI:95766		PANTHER:PTHR10218	20220826		NCBITaxon:10090
+MGI	MGI:MGI:95776	Gnaq	PMID:20440069		GO:0099105	ion channel modulating, G protein-coupled receptor signaling pathway	IGI	MGI:MGI:95766		PANTHER:PTHR10218	20220826	CL:0000169|GO:0030073|GO:0051649	NCBITaxon:10090
+MGI	MGI:MGI:107476	Stim1	PMID:30131394		GO:0099105	ion channel modulating, G protein-coupled receptor signaling pathway	IMP			PANTHER:PTHR15136	20220825		NCBITaxon:10090
+MGI	MGI:MGI:97613	Plcb1	PMID:31268747		GO:0099105	ion channel modulating, G protein-coupled receptor signaling pathway	IMP	MGI:MGI:6460327		PANTHER:PTHR10336	20220826		NCBITaxon:10090
+MGI	MGI:MGI:2684079	Ffar1	PMID:31664108		GO:0099105	ion channel modulating, G protein-coupled receptor signaling pathway	IDA			PANTHER:PTHR45822	20220825		NCBITaxon:10090
+MGI	MGI:MGI:1925542	Orai1	PMID:31664108		GO:0099105	ion channel modulating, G protein-coupled receptor signaling pathway	IMP			PANTHER:PTHR31501	20220825		NCBITaxon:10090
+MGI	MGI:MGI:96623	Itpr1	PMID:31664108		GO:0099105	ion channel modulating, G protein-coupled receptor signaling pathway	IMP			PANTHER:PTHR13715	20220825		NCBITaxon:10090
+MGI	MGI:MGI:107476	Stim1	PMID:31664108		GO:0099105	ion channel modulating, G protein-coupled receptor signaling pathway	IMP	MGI:MGI:5008476		PANTHER:PTHR15136	20220825		NCBITaxon:10090
+MGI	MGI:MGI:107476	Stim1	PMID:31664108		GO:0099105	ion channel modulating, G protein-coupled receptor signaling pathway	IMP			PANTHER:PTHR15136	20220825		NCBITaxon:10090
+MGI	MGI:MGI:101910	F2rl1	PMID:17992256		GO:0099109	potassium channel activating, G protein-coupled receptor signaling pathway	IMP	MGI:MGI:2179844		PANTHER:PTHR24232	20220920	CL:0000169|GO:0030073|GO:0051649	NCBITaxon:10090
