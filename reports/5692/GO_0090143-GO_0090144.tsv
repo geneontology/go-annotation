@@ -1,0 +1,15 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	UniProtKB:L7N5I3	MT3967	PMID:23396914		GO:0090143	nucleoid organization	IMP				20130408		NCBITaxon:83331
+EcoCyc	UniProtKB:P0AFY8	seqA	PMID:10540294		GO:0090143	nucleoid organization	IGI	UniProtKB:P22523			20140610		NCBITaxon:83333
+EcoCyc	UniProtKB:P39394	symE	PMID:34964191		GO:0090143	nucleoid organization	IMP				20220119		NCBITaxon:83333
+MTBBASE	UniProtKB:P9WPE9	groEL1	PMID:19528065		GO:0090143	nucleoid organization	IDA			PANTHER:PTHR45633	20110608		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WMK7	hupB	PMID:20824060		GO:0090143	nucleoid organization	IDA			PANTHER:PTHR33175	20110705		NCBITaxon:83332
+SGD	SGD:S000005239	MRX6	PMID:31532710		GO:0090144	mitochondrial nucleoid organization	IMP		UniProtKB:P48564		20200505		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT3G07430	YLMG1-1	PMID:20359373|TAIR:Publication:501736845		GO:0090143	nucleoid organization	IMP		TAIR:locus:2079656		20100519		NCBITaxon:3702
+UniProt	UniProtKB:Q8WYQ3	CHCHD10	PMID:26666268		GO:0090144	mitochondrial nucleoid organization	IMP		UniProtKB:Q8WYQ3	PANTHER:PTHR13523	20180914		NCBITaxon:9606
+UniProt	UniProtKB:A8ITB0	MOC1	PMID:28495749		GO:0090143	nucleoid organization	IMP				20170724		NCBITaxon:3055
+UniProt	AGI_LocusCode:AT2G26840	MOC1	PMID:28495749|TAIR:Publication:501775386		GO:0090143	nucleoid organization	IMP		TAIR:locus:2039508		20210331		NCBITaxon:3702
+UniProt	UniProtKB:Q8DQ15	rocS	PMID:31182798		GO:0090143	nucleoid organization	IMP				20220729		NCBITaxon:171101
+UniProt	UniProtKB:A0A0H2ZKY7	rocS	PMID:31182798		GO:0090143	nucleoid organization	IMP				20220730		NCBITaxon:373153
+SGD	SGD:S000005239	MRX6	PMID:31532710		GO:0090144	mitochondrial nucleoid organization	IMP		UniProtKB:P48564		20200505		NCBITaxon:559292
+UniProt	UniProtKB:Q8WYQ3	CHCHD10	PMID:26666268		GO:0090144	mitochondrial nucleoid organization	IMP		UniProtKB:Q8WYQ3	PANTHER:PTHR13523	20180914		NCBITaxon:9606
