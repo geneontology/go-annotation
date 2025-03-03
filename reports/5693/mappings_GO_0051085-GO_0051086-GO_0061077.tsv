@@ -1,0 +1,10 @@
+term	file	line
+GO:0051085	unirule2go	UniRule:UR000667787 > GO:chaperone cofactor-dependent protein refolding ; GO:0051085
+GO:0051085	interpro2go	InterPro:IPR017378 Torsin 1/2 > GO:chaperone cofactor-dependent protein refolding ; GO:0051085
+GO:0051086	reactome2go	Reactome:R-HSA-390450 > GO:chaperone mediated protein folding independent of cofactor ; GO:0051086
+GO:0061077	unirule2go	UniRule:UR000165448 > GO:chaperone-mediated protein folding ; GO:0061077
+GO:0061077	interpro2go	InterPro:IPR001829 Pili assembly chaperone, bacterial > GO:chaperone-mediated protein folding ; GO:0061077
+GO:0061077	interpro2go	InterPro:IPR030873 Beta-barrel assembly-enhancing protease > GO:chaperone-mediated protein folding ; GO:0061077
+GO:0061077	interpro2go	InterPro:IPR043183 DnaJ homolog subfamily B member 2/6-like > GO:chaperone-mediated protein folding ; GO:0061077
+GO:0061077	interpro2go	InterPro:IPR044609 Peptidyl-prolyl cis-trans isomerase FKBP2/11 > GO:chaperone-mediated protein folding ; GO:0061077
+GO:0061077	hamap2go	HAMAP:MF_00940 > GO:chaperone-mediated protein folding ; GO:0061077
