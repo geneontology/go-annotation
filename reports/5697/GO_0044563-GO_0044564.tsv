@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:Q9PWF3	CRO2	PMID:22498659		GO:0044564	envenomation resulting in occlusion of the pore of voltage-gated potassium channel in another organism	IDA				20130924		NCBITaxon:8732
+UniProt	UniProtKB:C0HM65	C0HM65	PMID:36668861		GO:0044564	envenomation resulting in occlusion of the pore of voltage-gated potassium channel in another organism	IDA				20230223		NCBITaxon:29018
