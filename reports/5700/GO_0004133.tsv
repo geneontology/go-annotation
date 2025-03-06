@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CGD	CGD:CAL0000189511	GDB1	PMID:12397174|CGD_REF:CAL0082137		GO:0004133	glycogen debranching enzyme activity	NAS			PANTHER:PTHR10569	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000189511	GDB1	PMID:36840583|CGD_REF:CAL0000245780		GO:0004133	glycogen debranching enzyme activity	IMP			PANTHER:PTHR10569	20230327		NCBITaxon:237561
+EcoCyc	UniProtKB:P15067	glgX	PMID:8576033		GO:0004133	glycogen debranching enzyme activity	IMP			PANTHER:PTHR43002	20110527		NCBITaxon:83333
+FlyBase	FB:FBgn0034618	Agl	PMID:30918052|FB:FBrf0241988		GO:0004133	glycogen debranching enzyme activity	NAS			PANTHER:PTHR10569	20240111	GO:0005980	NCBITaxon:7227
+MGI	MGI:MGI:1924809	Agl	PMID:11785984		GO:0004133	glycogen debranching enzyme activity	IDA			PANTHER:PTHR10569	20030821	EMAPA:32716	NCBITaxon:10090

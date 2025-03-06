@@ -1,0 +1,4 @@
+term	file	line
+GO:0004133	unirule2go	UniRule:UR000101438 > GO:glycogen debranching enzyme activity ; GO:0004133
+GO:0004133	hamap2go	HAMAP:MF_01248 > GO:glycogen debranching enzyme activity ; GO:0004133
+GO:0004133	interpro2go	InterPro:IPR011837 Glycogen debranching enzyme, GlgX type > GO:glycogen debranching enzyme activity ; GO:0004133
