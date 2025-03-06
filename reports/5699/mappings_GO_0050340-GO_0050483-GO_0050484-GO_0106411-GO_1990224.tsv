@@ -1,0 +1,12 @@
+term	file	line
+GO:0050340	ec2go	EC:3.1.3.35 > GO:thymidylate 5'-phosphatase activity ; GO:0050340
+GO:0050340	rhea2go	RHEA:11080 > GO:thymidylate 5'-phosphatase activity ; GO:0050340
+GO:0050340	metacyc2go	MetaCyc:THYMIDYLATE-5-PHOSPHATASE-RXN > GO:thymidylate 5'-phosphatase activity ; GO:0050340
+GO:0050483	rhea2go	RHEA:27718 > GO:IMP 5'-nucleotidase activity ; GO:0050483
+GO:0050483	interpro2go	InterPro:IPR009453 IMP-specific 5-nucleotidase > GO:IMP 5'-nucleotidase activity ; GO:0050483
+GO:0050483	metacyc2go	MetaCyc:RXN-7607 > GO:IMP 5'-nucleotidase activity ; GO:0050483
+GO:0050484	rhea2go	RHEA:27714 > GO:GMP 5'-nucleotidase activity ; GO:0050484
+GO:0050484	metacyc2go	MetaCyc:RXN-7609 > GO:GMP 5'-nucleotidase activity ; GO:0050484
+GO:0106411	rhea2go	RHEA:28530 > GO:XMP 5'-nucleosidase activity ; GO:0106411
+GO:0106411	metacyc2go	MetaCyc:XMPXAN-RXN > GO:XMP 5'-nucleosidase activity ; GO:0106411
+GO:1990224	rhea2go	RHEA:30815 > GO:NMN phosphatase activity ; GO:1990224

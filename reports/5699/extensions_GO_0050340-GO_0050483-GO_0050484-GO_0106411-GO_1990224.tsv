@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:2178563	Nt5c2	PMID:5560407		GO:0046038	GMP catabolic process	IDA			PANTHER:PTHR12103	20201110	GO:0050484	NCBITaxon:10090
+MGI	MGI:MGI:2178563	Nt5c2	PMID:5560407		GO:0006202	GMP catabolic process to guanine	IDA			PANTHER:PTHR12103	20210317	GO:0050484	NCBITaxon:10090
