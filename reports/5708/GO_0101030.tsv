@@ -1,0 +1,17 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ComplexPortal	ComplexPortal:CPX-6662	tgt_human-1	PMID:20354154		GO:0101030	tRNA-guanine transglycosylation	IDA				20240823		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9BXR0	QTRT1	PMID:20354154		GO:0101030	tRNA-guanine transglycosylation	IDA		UniProtKB:Q9BXR0	PANTHER:PTHR43530	20240823		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9H974	QTRT2	PMID:20354154		GO:0101030	tRNA-guanine transglycosylation	IDA		UniProtKB:Q9H974	PANTHER:PTHR46064	20240823		NCBITaxon:9606
+PomBase	PomBase:SPAC589.05c	qng1	PMID:24911101		GO:0101030	tRNA-guanine transglycosylation	IMP			PANTHER:PTHR21314	20140610		NCBITaxon:4896
+PomBase	PomBase:SPAC1687.19c	qtr1	PMID:24911101		GO:0101030	tRNA-guanine transglycosylation	IMP			PANTHER:PTHR43530	20140610		NCBITaxon:4896
+PomBase	PomBase:SPAC2F3.13c	qtr2	PMID:26424849		GO:0101030	tRNA-guanine transglycosylation	EXP			PANTHER:PTHR21148	20160712		NCBITaxon:4896
+UniProt	UniProtKB:Q9BXR0	QTRT1	PMID:11255023		GO:0101030	tRNA-guanine transglycosylation	NAS		UniProtKB:Q9BXR0	PANTHER:PTHR43530	20170303		NCBITaxon:9606
+UniProt	MGI:MGI:1931441	Qtrt1	PMID:19414587		GO:0101030	tRNA-guanine transglycosylation	IDA			PANTHER:PTHR43530	20170602		NCBITaxon:10090
+UniProt	MGI:MGI:1922194	Qtrt2	PMID:19414587		GO:0101030	tRNA-guanine transglycosylation	IDA			PANTHER:PTHR46064	20170602		NCBITaxon:10090
+UniProt	UniProtKB:Q9BXR0	QTRT1	PMID:20354154		GO:0101030	tRNA-guanine transglycosylation	IDA		UniProtKB:Q9BXR0	PANTHER:PTHR43530	20170602		NCBITaxon:9606
+UniProt	UniProtKB:Q9H974	QTRT2	PMID:20354154		GO:0101030	tRNA-guanine transglycosylation	IDA		UniProtKB:Q9H974	PANTHER:PTHR46064	20170602		NCBITaxon:9606
+UniProt	UniProtKB:Q9BXR0	QTRT1	PMID:34241577		GO:0101030	tRNA-guanine transglycosylation	IDA		UniProtKB:Q9BXR0	PANTHER:PTHR43530	20231128		NCBITaxon:9606
+UniProt	UniProtKB:Q9H974	QTRT2	PMID:34241577		GO:0101030	tRNA-guanine transglycosylation	IDA		UniProtKB:Q9H974	PANTHER:PTHR46064	20231128		NCBITaxon:9606
+UniProt	MGI:MGI:1931441	Qtrt1	PMID:35815944		GO:0101030	tRNA-guanine transglycosylation	IDA			PANTHER:PTHR43530	20231128		NCBITaxon:10090
+UniProt	MGI:MGI:1922194	Qtrt2	PMID:35815944		GO:0101030	tRNA-guanine transglycosylation	IDA			PANTHER:PTHR46064	20231128		NCBITaxon:10090
+dictyBase	dictyBase:DDB_G0291802	qtrt1	PMID:26424849		GO:0101030	tRNA-guanine transglycosylation	IMP			PANTHER:PTHR43530	20240626		NCBITaxon:44689

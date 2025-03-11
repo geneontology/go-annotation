@@ -1,0 +1,7 @@
+term	file	line
+GO:0101030	unirule2go	UniRule:UR000106225 > GO:tRNA-guanine transglycosylation ; GO:0101030
+GO:0101030	unirule2go	UniRule:UR000370983 > GO:tRNA-guanine transglycosylation ; GO:0101030
+GO:0101030	unirule2go	UniRule:UR000592763 > GO:tRNA-guanine transglycosylation ; GO:0101030
+GO:0101030	hamap2go	HAMAP:MF_03043 > GO:tRNA-guanine transglycosylation ; GO:0101030
+GO:0101030	hamap2go	HAMAP:MF_03218 > GO:tRNA-guanine transglycosylation ; GO:0101030
+GO:0101030	interpro2go	InterPro:IPR004803 tRNA-guanine transglycosylase > GO:tRNA-guanine transglycosylation ; GO:0101030
