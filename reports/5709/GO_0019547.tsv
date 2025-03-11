@@ -1,0 +1,14 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CGD	CGD:CAL0000174553	CAR1	PMID:32788384|CGD_REF:CAL0000228537		GO:0019547	arginine catabolic process to ornithine	IMP			PANTHER:PTHR43782	20200908		NCBITaxon:237561
+PomBase	PomBase:SPAC3H1.07	aru1	PMID:20435771		GO:0019547	arginine catabolic process to ornithine	IMP			PANTHER:PTHR43782	20091016		NCBITaxon:4896
+PomBase	PomBase:SPBP26C9.02c	car1	PMID:7985419		GO:0019547	arginine catabolic process to ornithine	IGI	SGD:S000006032		PANTHER:PTHR43782	20050414		NCBITaxon:4896
+RGD	RGD:2151	Arg2	PMID:14871882|RGD:1358311		GO:0019547	arginine catabolic process to ornithine	TAS			PANTHER:PTHR43782	20050629		NCBITaxon:10116
+RGD	RGD:2150	Arg1	PMID:15753084|RGD:8693655		GO:0019547	arginine catabolic process to ornithine	IDA			PANTHER:PTHR43782	20100920		NCBITaxon:10116
+RGD	RGD:2151	Arg2	PMID:15753084|RGD:8693655		GO:0019547	arginine catabolic process to ornithine	IDA			PANTHER:PTHR43782	20100920		NCBITaxon:10116
+SGD	SGD:S000006032	CAR1	PMID:14582193		GO:0019547	arginine catabolic process to ornithine	IMP		UniProtKB:P00812	PANTHER:PTHR43782	20130807		NCBITaxon:559292
+SGD	SGD:S000006032	CAR1	PMID:2404017		GO:0019547	arginine catabolic process to ornithine	IDA		UniProtKB:P00812	PANTHER:PTHR43782	20130807		NCBITaxon:559292
+UniProt	UniProtKB:C4LSS0	ARG	PMID:15053781		GO:0019547	arginine catabolic process to ornithine	IDA			PANTHER:PTHR43782	20220907		NCBITaxon:294381
+UniProt	UniProtKB:A0A509AF89	ARG	PMID:19218089		GO:0019547	arginine catabolic process to ornithine	IMP				20220907		NCBITaxon:5823
+UniProt	UniProtKB:C4LSS0	ARG	PMID:29691540		GO:0019547	arginine catabolic process to ornithine	IDA			PANTHER:PTHR43782	20220907		NCBITaxon:294381
+UniProt	UniProtKB:C4LSS0	ARG	PMID:31199070		GO:0019547	arginine catabolic process to ornithine	IDA			PANTHER:PTHR43782	20220907		NCBITaxon:294381
+UniProt	UniProtKB:G7JFU5	ARGAH	PMID:32754173		GO:0019547	arginine catabolic process to ornithine	IDA			PANTHER:PTHR11358	20201023		NCBITaxon:3880
