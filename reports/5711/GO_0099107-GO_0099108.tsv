@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:107476	Stim1	PMID:18452988		GO:0099107	ion channel regulator activity involved in G protein-coupled receptor signaling pathway	IDA			PANTHER:PTHR15136	20220830	GO:0007207|GO:0032024|GO:0099105|GO:1990806|GO:0005886	NCBITaxon:10090
+MGI	MGI:MGI:107476	Stim1	PMID:31664108		GO:0099107	ion channel regulator activity involved in G protein-coupled receptor signaling pathway	IMP	MGI:MGI:5008476		PANTHER:PTHR15136	20220825	GO:0007200|GO:0032024|GO:0099105|GO:1990806	NCBITaxon:10090
