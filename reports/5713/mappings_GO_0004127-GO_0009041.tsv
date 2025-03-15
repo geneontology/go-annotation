@@ -1,0 +1,22 @@
+term	file	line
+GO:0004127	unirule2go	UniRule:UR000082072 > GO:cytidylate kinase activity ; GO:0004127
+GO:0004127	unirule2go	UniRule:UR000082073 > GO:cytidylate kinase activity ; GO:0004127
+GO:0004127	unirule2go	UniRule:UR000101872 > GO:cytidylate kinase activity ; GO:0004127
+GO:0004127	unirule2go	UniRule:UR000111469 > GO:cytidylate kinase activity ; GO:0004127
+GO:0004127	ec2go	EC:2.7.4.25 > GO:(d)CMP kinase activity ; GO:0004127
+GO:0004127	hamap2go	HAMAP:MF_00238 > GO:cytidylate kinase activity ; GO:0004127
+GO:0004127	hamap2go	HAMAP:MF_00239 > GO:cytidylate kinase activity ; GO:0004127
+GO:0004127	hamap2go	HAMAP:MF_01349 > GO:cytidylate kinase activity ; GO:0004127
+GO:0004127	hamap2go	HAMAP:MF_03172 > GO:cytidylate kinase activity ; GO:0004127
+GO:0004127	interpro2go	InterPro:IPR003136 Cytidylate kinase > GO:cytidylate kinase activity ; GO:0004127
+GO:0004127	interpro2go	InterPro:IPR006266 UMP-CMP kinase > GO:cytidylate kinase activity ; GO:0004127
+GO:0004127	interpro2go	InterPro:IPR011892 Cytidylate kinase, putative > GO:cytidylate kinase activity ; GO:0004127
+GO:0004127	interpro2go	InterPro:IPR011994 Cytidylate kinase domain > GO:cytidylate kinase activity ; GO:0004127
+GO:0004127	interpro2go	InterPro:IPR024894 Bifunctional pantoate ligase/cytidylate kinase > GO:cytidylate kinase activity ; GO:0004127
+GO:0009041	unirule2go	UniRule:UR000111469 > GO:UMP/dUMP kinase activity ; GO:0009041
+GO:0009041	unirule2go	UniRule:UR000337822 > GO:UMP/dUMP kinase activity ; GO:0009041
+GO:0009041	hamap2go	HAMAP:MF_01220 > GO:UMP/dUMP kinase activity ; GO:0009041
+GO:0009041	hamap2go	HAMAP:MF_03172 > GO:UMP/dUMP kinase activity ; GO:0009041
+GO:0009041	interpro2go	InterPro:IPR006266 UMP-CMP kinase > GO:UMP/dUMP kinase activity ; GO:0009041
+GO:0009041	interpro2go	InterPro:IPR011817 Uridylate kinase > GO:UMP/dUMP kinase activity ; GO:0009041
+GO:0009041	interpro2go	InterPro:IPR011818 Uridylate kinase, archaeal/spirochete, putative > GO:UMP/dUMP kinase activity ; GO:0009041
