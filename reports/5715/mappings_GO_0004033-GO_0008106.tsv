@@ -1,0 +1,26 @@
+term	file	line
+GO:0004033	reactome2go	Reactome:R-HSA-192033 > GO:aldo-keto reductase (NADPH) activity ; GO:0004033
+GO:0004033	reactome2go	Reactome:R-HSA-192036 > GO:aldo-keto reductase (NADPH) activity ; GO:0004033
+GO:0004033	reactome2go	Reactome:R-HSA-192067 > GO:aldo-keto reductase (NADPH) activity ; GO:0004033
+GO:0004033	reactome2go	Reactome:R-HSA-192160 > GO:aldo-keto reductase (NADPH) activity ; GO:0004033
+GO:0004033	reactome2go	Reactome:R-HSA-193746 > GO:aldo-keto reductase (NADPH) activity ; GO:0004033
+GO:0004033	reactome2go	Reactome:R-HSA-193755 > GO:aldo-keto reductase (NADPH) activity ; GO:0004033
+GO:0004033	reactome2go	Reactome:R-HSA-193758 > GO:aldo-keto reductase (NADPH) activity ; GO:0004033
+GO:0004033	reactome2go	Reactome:R-HSA-193781 > GO:aldo-keto reductase (NADPH) activity ; GO:0004033
+GO:0004033	reactome2go	Reactome:R-HSA-193800 > GO:aldo-keto reductase (NADPH) activity ; GO:0004033
+GO:0004033	reactome2go	Reactome:R-HSA-193821 > GO:aldo-keto reductase (NADPH) activity ; GO:0004033
+GO:0004033	reactome2go	Reactome:R-HSA-193824 > GO:aldo-keto reductase (NADPH) activity ; GO:0004033
+GO:0004033	reactome2go	Reactome:R-HSA-193841 > GO:aldo-keto reductase (NADPH) activity ; GO:0004033
+GO:0004033	reactome2go	Reactome:R-HSA-198845 > GO:aldo-keto reductase (NADPH) activity ; GO:0004033
+GO:0004033	reactome2go	Reactome:R-HSA-2855252 > GO:aldo-keto reductase (NADPH) activity ; GO:0004033
+GO:0004033	reactome2go	Reactome:R-HSA-5423637 > GO:aldo-keto reductase (NADPH) activity ; GO:0004033
+GO:0004033	reactome2go	Reactome:R-HSA-5692232 > GO:aldo-keto reductase (NADPH) activity ; GO:0004033
+GO:0004033	reactome2go	Reactome:R-HSA-9027531 > GO:aldo-keto reductase (NADPH) activity ; GO:0004033
+GO:0004033	reactome2go	Reactome:R-HSA-9027562 > GO:aldo-keto reductase (NADPH) activity ; GO:0004033
+GO:0004033	reactome2go	Reactome:R-HSA-9027598 > GO:aldo-keto reductase (NADPH) activity ; GO:0004033
+GO:0004033	reactome2go	Reactome:R-HSA-9027600 > GO:aldo-keto reductase (NADPH) activity ; GO:0004033
+GO:0004033	interpro2go	InterPro:IPR044496 Aldo-keto reductase family 3G > GO:aldo-keto reductase (NADPH) activity ; GO:0004033
+GO:0008106	rhea2go	RHEA:15937 > GO:alcohol dehydrogenase (NADP+) activity ; GO:0008106
+GO:0008106	metacyc2go	MetaCyc:ALCOHOL-DEHYDROGENASE-NADPORNOP+-RXN > GO:alcohol dehydrogenase (NADP+) activity ; GO:0008106
+GO:0008106	ec2go	EC:1.1.1.2 > GO:alcohol dehydrogenase (NADP+) activity ; GO:0008106
+GO:0008106	interpro2go	InterPro:IPR044481 Aldo-keto reductase family 1 member A1 > GO:alcohol dehydrogenase (NADP+) activity ; GO:0008106
