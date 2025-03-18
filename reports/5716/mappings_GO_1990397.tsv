@@ -1,0 +1,4 @@
+term	file	line
+GO:1990397	unirule2go	UniRule:UR000497466 > GO:queuosine salvage ; GO:1990397
+GO:1990397	hamap2go	HAMAP:MF_02088 > GO:queuosine salvage ; GO:1990397
+GO:1990397	interpro2go	InterPro:IPR003744 Queuosine precursor transporter > GO:queuosine salvage ; GO:1990397

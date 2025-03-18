@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P37619	yhhQ	PMID:28208705		GO:1990397	queuosine salvage	IDA			PANTHER:PTHR34300	20170307		NCBITaxon:83333
