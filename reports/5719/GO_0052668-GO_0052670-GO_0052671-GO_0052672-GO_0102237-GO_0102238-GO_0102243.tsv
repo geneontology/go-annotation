@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+TAIR	AGI_LocusCode:AT5G58560	FOLK	PMID:21395888|TAIR:Publication:501742174		GO:0052668	CTP:farnesol kinase activity	IDA		TAIR:locus:2178768		20110630		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G58560	FOLK	PMID:21395888|TAIR:Publication:501742174		GO:0052670	geraniol kinase activity	IDA		TAIR:locus:2178768		20110429		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G58560	FOLK	PMID:21395888|TAIR:Publication:501742174		GO:0052671	geranylgeraniol kinase activity	IDA		TAIR:locus:2178768		20110429		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G58560	FOLK	PMID:38124486|TAIR:Publication:501806074		GO:0052671	geranylgeraniol kinase activity	IDA		TAIR:locus:2178768		20240124		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G58560	FOLK	PMID:38124486|TAIR:Publication:501806074		GO:0102237	ATP:farnesol kinase activity	IDA		TAIR:locus:2178768		20240124		NCBITaxon:3702

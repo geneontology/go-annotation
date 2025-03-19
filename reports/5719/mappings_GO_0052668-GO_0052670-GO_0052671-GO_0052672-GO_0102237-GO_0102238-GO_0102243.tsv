@@ -1,0 +1,11 @@
+term	file	line
+GO:0052668	rhea2go	RHEA:51680 > GO:CTP:farnesol kinase activity ; GO:0052668
+GO:0052668	metacyc2go	MetaCyc:RXN-11625 > GO:CTP:farnesol kinase activity ; GO:0052668
+GO:0052672	rhea2go	RHEA:63456 > GO:CTP:geranylgeraniol kinase activity ; GO:0052672
+GO:0052672	metacyc2go	MetaCyc:RXN-11629 > GO:CTP:geranylgeraniol kinase activity ; GO:0052672
+GO:0102237	rhea2go	RHEA:61656 > GO:ATP:farnesol kinase activity ; GO:0102237
+GO:0102237	metacyc2go	MetaCyc:RXN-12304 > GO:ATP:farnesol kinase activity ; GO:0102237
+GO:0102238	rhea2go	RHEA:61660 > GO:ATP:geraniol kinase activity ; GO:0102238
+GO:0102238	metacyc2go	MetaCyc:RXN-12307 > GO:ATP:geraniol kinase activity ; GO:0102238
+GO:0102243	rhea2go	RHEA:61664 > GO:ATP:geranylgeraniol kinase activity ; GO:0102243
+GO:0102243	metacyc2go	MetaCyc:RXN-12325 > GO:ATP:geranylgeraniol kinase activity ; GO:0102243
