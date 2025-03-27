@@ -1,0 +1,5 @@
+term	file	line
+GO:0016796	ec2go	EC:3.1.15.- > GO:exonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters ; GO:0016796
+GO:0016797	ec2go	EC:3.1.16.- > GO:exonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 3'-phosphomonoesters ; GO:0016797
+GO:0016893	ec2go	EC:3.1.30.- > GO:endonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters ; GO:0016893
+GO:0016894	ec2go	EC:3.1.31.1 > GO:endonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 3'-phosphomonoesters ; GO:0016894
