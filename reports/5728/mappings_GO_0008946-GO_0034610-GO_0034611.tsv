@@ -1,0 +1,5 @@
+term	file	line
+GO:0008946	metacyc2go	MetaCyc:3.1.13.3-RXN > GO:oligonucleotidase activity ; GO:0008946
+GO:0008946	ec2go	EC:3.1.13.3 > GO:oligonucleotidase activity ; GO:0008946
+GO:0034611	reactome2go	Reactome:R-HSA-9009950 > GO:oligoribonucleotidase activity ; GO:0034611
+GO:0034611	reactome2go	Reactome:R-HSA-9615042 > GO:oligoribonucleotidase activity ; GO:0034611

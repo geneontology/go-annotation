@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P0A784	orn	PMID:170260		GO:0034611	oligoribonucleotidase activity	IDA			PANTHER:PTHR11046	20080820		NCBITaxon:83333
+Reactome	UniProtKB:B1NKT1	B1NKT1	PMID:23878220		GO:0034611	oligoribonucleotidase activity	EXP				20200515		NCBITaxon:10957
+Reactome	UniProtKB:Q6L8Q7	PDE12	Reactome:R-HSA-9009950		GO:0034611	oligoribonucleotidase activity	TAS		UniProtKB:Q6L8Q7	PANTHER:PTHR12121	20200515		NCBITaxon:9606
