@@ -1,0 +1,6 @@
+term	file	line
+GO:0009972	interpro2go	InterPro:IPR006262 Cytidine deaminase, homotetrameric > GO:cytidine deamination ; GO:0009972
+GO:0009972	interpro2go	InterPro:IPR006263 Cytidine deaminase, homodimeric > GO:cytidine deamination ; GO:0009972
+GO:0009972	interpro2go	InterPro:IPR013171 Cytidine/deoxycytidylate deaminase, zinc-binding domain > GO:cytidine deamination ; GO:0009972
+GO:0009972	interpro2go	InterPro:IPR020797 Cytidine deaminase, bacteria > GO:cytidine deamination ; GO:0009972
+GO:0009972	unirule2go	UniRule:UR001376779 > GO:cytidine deamination ; GO:0009972
