@@ -1,0 +1,10 @@
+term	file	line
+GO:0006086	reactome2go	Reactome:R-HSA-9861559 > GO:pyruvate decarboxylation to acetyl-CoA ; GO:0006086
+GO:0006086	interpro2go	InterPro:IPR017597 Pyruvate dehydrogenase (acetyl-transferring) E1 component, alpha subunit, subgroup y > GO:acetyl-CoA biosynthetic process from pyruvate ; GO:0006086
+GO:0006086	interpro2go	InterPro:IPR027110 Pyruvate dehydrogenase E1 component subunit beta > GO:acetyl-CoA biosynthetic process from pyruvate ; GO:0006086
+GO:0006086	interpro2go	InterPro:IPR045257 Dihydrolipoamide acetyltransferase/Pyruvate dehydrogenase protein X component > GO:acetyl-CoA biosynthetic process from pyruvate ; GO:0006086
+GO:0006086	metacyc2go	MetaCyc:PYRUVDEHYD-PWY > GO:pyruvate decarboxylation to acetyl-CoA ; GO:0006086
+GO:0034604	rhea2go	RHEA:28042 > GO:pyruvate dehydrogenase (NAD+) activity ; GO:0034604
+GO:0034604	ec2go	EC:1.2.1.104 > GO:pyruvate dehydrogenase (NAD+) activity ; GO:0034604
+GO:0034604	kegg_reaction2go	KEGG_REACTION:R00209 > GO:pyruvate dehydrogenase (NAD+) activity ; GO:0034604
+GO:0034604	metacyc2go	MetaCyc:PYRUVDEH-RXN > GO:pyruvate dehydrogenase (NAD+) activity ; GO:0034604
