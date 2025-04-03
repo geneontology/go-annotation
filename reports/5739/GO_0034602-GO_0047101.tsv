@@ -1,0 +1,12 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	UniProtKB:Q9FEN7	lpd2	PMID:18842826		GO:0034602	oxoglutarate dehydrogenase (NAD+) activity	IDA				20130224		NCBITaxon:4113
+FlyBase	FB:FBgn0010352	Ogdh1	PMID:37272588|FB:FBrf0256925	contributes_to	GO:0034602	oxoglutarate dehydrogenase (NAD+) activity	NAS			PANTHER:PTHR23152	20230912		NCBITaxon:7227
+FlyBase	FB:FBgn0289579	Dld	PMID:37272588|FB:FBrf0256925	contributes_to	GO:0034602	oxoglutarate dehydrogenase (NAD+) activity	NAS				20230912		NCBITaxon:7227
+FlyBase	FB:FBgn0037891	Dlst	PMID:37272588|FB:FBrf0256925	contributes_to	GO:0034602	oxoglutarate dehydrogenase (NAD+) activity	NAS			PANTHER:PTHR43416	20230912		NCBITaxon:7227
+MGI	MGI:MGI:1098267	Ogdh	PMID:17322295		GO:0034602	oxoglutarate dehydrogenase (NAD+) activity	IDA			PANTHER:PTHR23152	20080722		NCBITaxon:10090
+ComplexPortal	ComplexPortal:CPX-2216	bckdc_human	PMID:3593587		GO:0047101	branched-chain alpha-keto acid dehydrogenase activity	IDA				20241128		NCBITaxon:9606
+FlyBase	UniProtKB:P09622	DLD	PMID:3593587	contributes_to	GO:0047101	branched-chain alpha-keto acid dehydrogenase activity	IDA		UniProtKB:P09622	PANTHER:PTHR22912	20240108		NCBITaxon:9606
+FlyBase	UniProtKB:P21953	BCKDHB	PMID:3593587	contributes_to	GO:0047101	branched-chain alpha-keto acid dehydrogenase activity	IDA		UniProtKB:P21953	PANTHER:PTHR42980	20240108		NCBITaxon:9606
+FlyBase	UniProtKB:P11182	DBT	PMID:3593587	contributes_to	GO:0047101	branched-chain alpha-keto acid dehydrogenase activity	IDA		UniProtKB:P11182	PANTHER:PTHR43178	20240108		NCBITaxon:9606
+FlyBase	UniProtKB:P12694	BCKDHA	PMID:3593587	contributes_to	GO:0047101	branched-chain alpha-keto acid dehydrogenase activity	IDA		UniProtKB:P12694	PANTHER:PTHR43380	20240108		NCBITaxon:9606
+RGD	RGD:2196	Bckdha	PMID:2822716|RGD:631719		GO:0047101	branched-chain alpha-keto acid dehydrogenase activity	TAS			PANTHER:PTHR43380	20050217		NCBITaxon:10116

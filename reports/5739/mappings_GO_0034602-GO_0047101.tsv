@@ -1,0 +1,11 @@
+term	file	line
+GO:0034602	kegg_reaction2go	KEGG_REACTION:R08549 > GO:oxoglutarate dehydrogenase (NAD+) activity ; GO:0034602
+GO:0034602	rhea2go	RHEA:27786 > GO:oxoglutarate dehydrogenase (NAD+) activity ; GO:0034602
+GO:0034602	metacyc2go	MetaCyc:2OXOGLUTARATEDEH-RXN > GO:oxoglutarate dehydrogenase (NAD+) activity ; GO:0034602
+GO:0034602	ec2go	EC:1.2.1.105 > GO:oxoglutarate dehydrogenase (NAD+) activity ; GO:0034602
+GO:0047101	rhea2go	RHEA:13997 > GO:branched-chain alpha-keto acid dehydrogenase activity ; GO:0047101
+GO:0047101	rhea2go	RHEA:25177 > GO:branched-chain alpha-keto acid dehydrogenase activity ; GO:0047101
+GO:0047101	rhea2go	RHEA:30907 > GO:branched-chain alpha-keto acid dehydrogenase activity ; GO:0047101
+GO:0047101	metacyc2go	MetaCyc:1.2.1.25-RXN > GO:branched-chain alpha-keto acid dehydrogenase activity ; GO:0047101
+GO:0047101	metacyc2go	MetaCyc:2KETO-4METHYL-PENTANOATE-DEHYDROG-RXN > GO:branched-chain alpha-keto acid dehydrogenase activity ; GO:0047101
+GO:0047101	ec2go	EC:1.2.1.25 > GO:branched-chain alpha-keto acid dehydrogenase activity ; GO:0047101
