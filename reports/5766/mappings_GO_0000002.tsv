@@ -1,0 +1,23 @@
+term	file	line
+GO:0000002	interpro2go	InterPro:IPR009446 Mitochondrial genome maintenance protein Mgm101 > GO:mitochondrial genome maintenance ; GO:0000002
+GO:0000002	interpro2go	InterPro:IPR016610 Exonuclease V, Saccharomyces > GO:mitochondrial genome maintenance ; GO:0000002
+GO:0000002	interpro2go	InterPro:IPR024629 Large ribosomal subunit protein mL67 > GO:mitochondrial genome maintenance ; GO:0000002
+GO:0000002	interpro2go	InterPro:IPR031415 Required for respiratory growth protein 8, mitochondrial > GO:mitochondrial genome maintenance ; GO:0000002
+GO:0000002	interpro2go	InterPro:IPR031455 Genetic interactor of prohibitin 5 > GO:mitochondrial genome maintenance ; GO:0000002
+GO:0000002	interpro2go	InterPro:IPR039627 Mitochondrial escape protein 2 > GO:mitochondrial genome maintenance ; GO:0000002
+GO:0000002	hamap2go	HAMAP:MF_03030 > GO:mitochondrial genome maintenance ; GO:0000002
+GO:0000002	hamap2go	HAMAP:MF_03102 > GO:mitochondrial genome maintenance ; GO:0000002
+GO:0000002	hamap2go	HAMAP:MF_03103 > GO:mitochondrial genome maintenance ; GO:0000002
+GO:0000002	hamap2go	HAMAP:MF_03104 > GO:mitochondrial genome maintenance ; GO:0000002
+GO:0000002	hamap2go	HAMAP:MF_03105 > GO:mitochondrial genome maintenance ; GO:0000002
+GO:0000002	hamap2go	HAMAP:MF_03176 > GO:mitochondrial genome maintenance ; GO:0000002
+GO:0000002	hamap2go	HAMAP:MF_03177 > GO:mitochondrial genome maintenance ; GO:0000002
+GO:0000002	unirule2go	UniRule:UR000106107 > GO:mitochondrial genome maintenance ; GO:0000002
+GO:0000002	unirule2go	UniRule:UR000106116 > GO:mitochondrial genome maintenance ; GO:0000002
+GO:0000002	unirule2go	UniRule:UR000106136 > GO:mitochondrial genome maintenance ; GO:0000002
+GO:0000002	unirule2go	UniRule:UR000106401 > GO:mitochondrial genome maintenance ; GO:0000002
+GO:0000002	unirule2go	UniRule:UR000112749 > GO:mitochondrial genome maintenance ; GO:0000002
+GO:0000002	unirule2go	UniRule:UR000112754 > GO:mitochondrial genome maintenance ; GO:0000002
+GO:0000002	unirule2go	UniRule:UR000369133 > GO:mitochondrial genome maintenance ; GO:0000002
+GO:0000002	unirule2go	UniRule:UR000483751 > GO:mitochondrial genome maintenance ; GO:0000002
+GO:0000002	unirule2go	UniRule:UR001426760 > GO:mitochondrial genome maintenance ; GO:0000002
