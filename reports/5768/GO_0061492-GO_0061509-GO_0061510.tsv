@@ -1,0 +1,15 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPBC1773.01	csc3	PMID:22119525		GO:0061509	asymmetric protein localization to old mitotic spindle pole body	IMP			PANTHER:PTHR15653	20130321		NCBITaxon:4896
+PomBase	PomBase:SPAC2C4.10c	csc4	PMID:22119525		GO:0061509	asymmetric protein localization to old mitotic spindle pole body	IMP				20130321		NCBITaxon:4896
+PomBase	PomBase:SPBC3H7.13	csc1	PMID:22119525		GO:0061509	asymmetric protein localization to old mitotic spindle pole body	IMP				20130321		NCBITaxon:4896
+PomBase	PomBase:SPAP8A3.09c	paa1	PMID:22119525		GO:0061509	asymmetric protein localization to old mitotic spindle pole body	IMP			PANTHER:PTHR10648	20130321		NCBITaxon:4896
+PomBase	PomBase:SPAC22H10.04	ppa3	PMID:22119525		GO:0061509	asymmetric protein localization to old mitotic spindle pole body	IMP			PANTHER:PTHR45619	20130321		NCBITaxon:4896
+PomBase	PomBase:SPBC27B12.04c	csc2	PMID:22119525		GO:0061509	asymmetric protein localization to old mitotic spindle pole body	IMP			PANTHER:PTHR13239	20130321		NCBITaxon:4896
+SGD	SGD:S000000022	LTE1	PMID:19948498		GO:0061510	asymmetric protein localization to new mitotic spindle pole body	IMP		UniProtKB:P07866	PANTHER:PTHR23113	20200520	SGD:S000003814	NCBITaxon:559292
+PomBase	PomBase:SPBC1773.01	csc3	PMID:22119525		GO:0061509	asymmetric protein localization to old mitotic spindle pole body	IMP			PANTHER:PTHR15653	20130321		NCBITaxon:4896
+PomBase	PomBase:SPAC2C4.10c	csc4	PMID:22119525		GO:0061509	asymmetric protein localization to old mitotic spindle pole body	IMP				20130321		NCBITaxon:4896
+PomBase	PomBase:SPBC3H7.13	csc1	PMID:22119525		GO:0061509	asymmetric protein localization to old mitotic spindle pole body	IMP				20130321		NCBITaxon:4896
+PomBase	PomBase:SPAP8A3.09c	paa1	PMID:22119525		GO:0061509	asymmetric protein localization to old mitotic spindle pole body	IMP			PANTHER:PTHR10648	20130321		NCBITaxon:4896
+PomBase	PomBase:SPAC22H10.04	ppa3	PMID:22119525		GO:0061509	asymmetric protein localization to old mitotic spindle pole body	IMP			PANTHER:PTHR45619	20130321		NCBITaxon:4896
+PomBase	PomBase:SPBC27B12.04c	csc2	PMID:22119525		GO:0061509	asymmetric protein localization to old mitotic spindle pole body	IMP			PANTHER:PTHR13239	20130321		NCBITaxon:4896
+SGD	SGD:S000000022	LTE1	PMID:19948498		GO:0061510	asymmetric protein localization to new mitotic spindle pole body	IMP		UniProtKB:P07866	PANTHER:PTHR23113	20200520	SGD:S000003814	NCBITaxon:559292
