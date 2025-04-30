@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:P46977	STT3A	PMID:31296534		GO:0004579	dolichyl-diphosphooligosaccharide-protein glycotransferase activity	IDA		UniProtKB:P46977	PANTHER:PTHR13872	20241125	UniProtKB:P14625|GO:0043686	NCBITaxon:9606
+UniProt	UniProtKB:P46977	STT3A	PMID:38670073		GO:0004579	dolichyl-diphosphooligosaccharide-protein glycotransferase activity	IDA		UniProtKB:P46977	PANTHER:PTHR13872	20241125	UniProtKB:O00206|GO:0043686|GO:0018279|GO:0034126	NCBITaxon:9606
+UniProt	UniProtKB:P46977	STT3A	PMID:39509507		GO:0004579	dolichyl-diphosphooligosaccharide-protein glycotransferase activity	IDA		UniProtKB:P46977	PANTHER:PTHR13872	20241125	UniProtKB:P14625|GO:0043686|GO:0018279|GO:0030177	NCBITaxon:9606

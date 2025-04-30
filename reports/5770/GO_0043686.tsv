@@ -1,0 +1,10 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:P0A6K3	def	PMID:18288106		GO:0043686	co-translational protein modification	IPI	UniProtKB:P61175		PANTHER:PTHR10458	20211103		NCBITaxon:83333
+GeneDB	PlasmoDB:PF3D7_0907900	PDF	PMID:11747293		GO:0043686	co-translational protein modification	IDA				20090625		NCBITaxon:36329
+TAIR	AGI_LocusCode:AT1G15390	PDF1A	PMID:11733990|TAIR:Publication:1546245		GO:0043686	co-translational protein modification	IDA		TAIR:locus:2037733		20080315		NCBITaxon:3702
+UniProt	UniProtKB:O32230	smpB	PMID:11395451		GO:0070930	trans-translation-dependent protein tagging	IMP			PANTHER:PTHR30308	20150602		NCBITaxon:224308
+UniProt	UniProtKB:P46977	STT3A	PMID:19167329		GO:0043686	co-translational protein modification	IMP		UniProtKB:P46977	PANTHER:PTHR13872	20120920		NCBITaxon:9606
+UniProt	UniProtKB:Q8TCJ2	STT3B	PMID:19167329		GO:0043686	co-translational protein modification	IMP		UniProtKB:Q8TCJ2	PANTHER:PTHR13872	20120920		NCBITaxon:9606
+UniProt	UniProtKB:Q9NRP0	OSTC	PMID:28860277		GO:0043686	co-translational protein modification	IDA		UniProtKB:Q9NRP0	PANTHER:PTHR13160	20241121		NCBITaxon:9606
+UniProt	UniProtKB:P46977	STT3A	PMID:31296534		GO:0043686	co-translational protein modification	IDA		UniProtKB:P46977	PANTHER:PTHR13872	20241125		NCBITaxon:9606
+UniProt	UniProtKB:P46977	STT3A	PMID:38670073		GO:0043686	co-translational protein modification	IDA		UniProtKB:P46977	PANTHER:PTHR13872	20241125		NCBITaxon:9606
