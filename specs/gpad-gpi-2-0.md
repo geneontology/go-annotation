@@ -166,12 +166,12 @@ Property | Allowed usages per annotation | Value Grammar | Example | Comment
 
 Entity type value must be provided as an ontology term identifier from Sequence Ontology, Protein Ontology, or GO, and must correspond to one of the permitted GPI entity types or a more granular child term. Common entries include:
 
-    protein PR:000000001
-    protein-coding gene SO:0001217
-    gene SO:0000704
-    ncRNA SO:0000655
-        any subtype of ncRNA in the Sequence Ontology, including ncRNA-coding gene SO:0001263
-    protein-containing complex GO:0032991
+* PR:000000001: protein
+* GO:0032991: protein-containing complex
+* SO:0001217: protein-coding gene
+* SO:0000655: ncRNA or any SO child term
+* SO:0001263: ncRNA-coding gene or any SO child term
+* SO:0000336: pseudogene
 
 ### Required and Optional DB xrefs
 #### Required:
