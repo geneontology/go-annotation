@@ -1,0 +1,16 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CGD	CGD:CAL0000191889	CAK1	PMID:12084729|CGD_REF:CAL0080853		GO:0019912	cyclin-dependent protein kinase activating kinase activity	IGI	SGD:S000001865		PANTHER:PTHR24055	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000191889	CAK1	PMID:12084729|CGD_REF:CAL0080853		GO:0019912	cyclin-dependent protein kinase activating kinase activity	IDA			PANTHER:PTHR24055	20140625		NCBITaxon:237561
+ComplexPortal	ComplexPortal:CPX-2395	tfiih_human	PMID:22572993		GO:0019912	cyclin-dependent protein kinase activating kinase activity	NAS				20241111		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-578	cak_human	PMID:23622515		GO:0019912	cyclin-dependent protein kinase activating kinase activity	IDA				20241031		NCBITaxon:9606
+PomBase	PomBase:SPAC1D4.06c	csk1	PMID:16428435		GO:0019912	cyclin-dependent protein kinase activating kinase activity	IDA			PANTHER:PTHR24056	20240322	PomBase:SPBC32H8.10	NCBITaxon:4896
+SGD	SGD:S000001865	CAK1	PMID:10373527		GO:0019912	cyclin-dependent protein kinase activating kinase activity	IDA		UniProtKB:P43568	PANTHER:PTHR24056	20130807		NCBITaxon:559292
+SGD	SGD:S000001865	CAK1	PMID:10373527		GO:0019912	cyclin-dependent protein kinase activating kinase activity	IMP		UniProtKB:P43568	PANTHER:PTHR24056	20130807		NCBITaxon:559292
+SGD	SGD:S000001865	CAK1	PMID:8752210		GO:0019912	cyclin-dependent protein kinase activating kinase activity	IMP		UniProtKB:P43568	PANTHER:PTHR24056	20130807		NCBITaxon:559292
+SGD	SGD:S000001865	CAK1	PMID:8752210		GO:0019912	cyclin-dependent protein kinase activating kinase activity	IDA		UniProtKB:P43568	PANTHER:PTHR24056	20130807		NCBITaxon:559292
+SGD	SGD:S000001865	CAK1	PMID:8752211		GO:0019912	cyclin-dependent protein kinase activating kinase activity	IDA		UniProtKB:P43568	PANTHER:PTHR24056	20130807		NCBITaxon:559292
+SGD	SGD:S000001865	CAK1	PMID:8752211		GO:0019912	cyclin-dependent protein kinase activating kinase activity	IMP		UniProtKB:P43568	PANTHER:PTHR24056	20130807		NCBITaxon:559292
+SGD	SGD:S000001865	CAK1	PMID:8781234		GO:0019912	cyclin-dependent protein kinase activating kinase activity	IMP		UniProtKB:P43568	PANTHER:PTHR24056	20130807		NCBITaxon:559292
+SGD	SGD:S000001865	CAK1	PMID:8781234		GO:0019912	cyclin-dependent protein kinase activating kinase activity	IDA		UniProtKB:P43568	PANTHER:PTHR24056	20130807		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT4G28980	CAK1AT	PMID:9560221|TAIR:Publication:2565		GO:0019912	cyclin-dependent protein kinase activating kinase activity	IGI		TAIR:locus:2119961		20040325		NCBITaxon:3702
+UniProt	UniProtKB:P38936	CDKN1A	PMID:9106657		GO:0019912	cyclin-dependent protein kinase activating kinase activity	IDA		UniProtKB:P38936	PANTHER:PTHR46778	20110419		NCBITaxon:9606
