@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:P11586	MTHFD1	PMID:1881876		GO:0004486	methylenetetrahydrofolate dehydrogenase [NAD(P)+] activity	IDA		UniProtKB:P11586	PANTHER:PTHR48099	20180612		NCBITaxon:9606
+PINC	UniProtKB:P11586	MTHFD1	PMID:3053686		GO:0004486	methylenetetrahydrofolate dehydrogenase [NAD(P)+] activity	TAS		UniProtKB:P11586	PANTHER:PTHR48099	20030904		NCBITaxon:9606
+RGD	RGD:708531	Mthfd1	PMID:2186031|RGD:1299513		GO:0004486	methylenetetrahydrofolate dehydrogenase [NAD(P)+] activity	TAS			PANTHER:PTHR48099	20050217		NCBITaxon:10116
+SGD	SGD:S000005646	GCY1	PMID:22979944		GO:1990042	glycerol dehydrogenase [NAD(P)+] activity	IMP		UniProtKB:P14065	PANTHER:PTHR11732	20130807		NCBITaxon:559292
