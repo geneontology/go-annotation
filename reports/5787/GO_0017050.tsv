@@ -1,0 +1,30 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	FB:FBgn0030300	Sk1	PMID:14722126|FB:FBrf0174774		GO:0017050	D-erythro-sphingosine kinase activity	IDA			PANTHER:PTHR12358	20081016		NCBITaxon:7227
+FlyBase	FB:FBgn0052484	Sk2	PMID:14722126|FB:FBrf0174774		GO:0017050	D-erythro-sphingosine kinase activity	IDA			PANTHER:PTHR12358	20081016		NCBITaxon:7227
+MGI	MGI:MGI:1861380	Sphk2	PMID:10751414		GO:0017050	D-erythro-sphingosine kinase activity	IDA			PANTHER:PTHR12358	20010502		NCBITaxon:10090
+MGI	MGI:MGI:1861380	Sphk2	PMID:16093248		GO:0017050	D-erythro-sphingosine kinase activity	IMP	MGI:MGI:3580701		PANTHER:PTHR12358	20060301	EMAPA:17373	NCBITaxon:10090
+RGD	RGD:620048	Sphk1	PMID:15715670|RGD:2311352		GO:0017050	D-erythro-sphingosine kinase activity	IDA			PANTHER:PTHR12358	20090708		NCBITaxon:10116
+Reactome	UniProtKB:Q9NYA1	SPHK1	Reactome:R-HSA-5218845		GO:0017050	D-erythro-sphingosine kinase activity	TAS		UniProtKB:Q9NYA1	PANTHER:PTHR12358	20241103		NCBITaxon:9606
+Reactome	UniProtKB:Q9NYA1	SPHK1	Reactome:R-HSA-9625814		GO:0017050	D-erythro-sphingosine kinase activity	TAS		UniProtKB:Q9NYA1	PANTHER:PTHR12358	20241103		NCBITaxon:9606
+SGD	SGD:S000004250	LCB5	PMID:9677363		GO:0017050	D-erythro-sphingosine kinase activity	IDA		UniProtKB:Q06147	PANTHER:PTHR12358	20130807		NCBITaxon:559292
+SGD	SGD:S000005697	LCB4	PMID:9677363		GO:0017050	D-erythro-sphingosine kinase activity	IDA		UniProtKB:Q12246	PANTHER:PTHR12358	20130807		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT2G46090	LCBK2	PMID:15665242|TAIR:Publication:501714495		GO:0017050	D-erythro-sphingosine kinase activity	TAS		TAIR:locus:2063004		20050406		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G21540	SPHK1	PMID:15665242|TAIR:Publication:501714495		GO:0017050	D-erythro-sphingosine kinase activity	TAS		TAIR:locus:2119642		20050406		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G23450	LCBK1	PMID:15695468|TAIR:Publication:501714631		GO:0017050	D-erythro-sphingosine kinase activity	IDA		TAIR:locus:2154448		20050406		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G21540	SPHK1	PMID:18557834|TAIR:Publication:501725127		GO:0017050	D-erythro-sphingosine kinase activity	IDA		TAIR:locus:2119642		20080811		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G21540	SPHK1	PMID:22275366|TAIR:Publication:501747041		GO:0017050	D-erythro-sphingosine kinase activity	IDA		TAIR:locus:2119642		20121114		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G21534	SPHK2	PMID:22275366|TAIR:Publication:501747041		GO:0017050	D-erythro-sphingosine kinase activity	IDA		TAIR:locus:6530298214		20121114		NCBITaxon:3702
+UniProt	MGI:MGI:1861380	Sphk2	PMID:10751414		GO:0017050	D-erythro-sphingosine kinase activity	IDA			PANTHER:PTHR12358	20190322		NCBITaxon:10090
+UniProt	UniProtKB:Q9NRA0	SPHK2	PMID:10751414		GO:0017050	D-erythro-sphingosine kinase activity	IDA		UniProtKB:Q9NRA0	PANTHER:PTHR12358	20190322		NCBITaxon:9606
+UniProt	UniProtKB:Q9NYA1	SPHK1	PMID:10863092		GO:0017050	D-erythro-sphingosine kinase activity	IDA		UniProtKB:Q9NYA1	PANTHER:PTHR12358	20030813		NCBITaxon:9606
+UniProt	UniProtKB:Q9NYA1	SPHK1	PMID:11923095		GO:0017050	D-erythro-sphingosine kinase activity	IDA		UniProtKB:Q9NYA1	PANTHER:PTHR12358	20190322		NCBITaxon:9606
+UniProt	AGI_LocusCode:AT5G23450	LCBK1	PMID:15695468|TAIR:Publication:501714631		GO:0017050	D-erythro-sphingosine kinase activity	IDA		TAIR:locus:2154448		20240419		NCBITaxon:3702
+UniProt	MGI:MGI:1861380	Sphk2	PMID:17346996		GO:0017050	D-erythro-sphingosine kinase activity	IMP			PANTHER:PTHR12358	20190326		NCBITaxon:10090
+UniProt	UniProtKB:Q9NYA1	SPHK1	PMID:20577214		GO:0017050	D-erythro-sphingosine kinase activity	IDA		UniProtKB:Q9NYA1	PANTHER:PTHR12358	20100702		NCBITaxon:9606
+UniProt	MGI:MGI:1861380	Sphk2	PMID:21084291		GO:0017050	D-erythro-sphingosine kinase activity	IDA			PANTHER:PTHR12358	20190212		NCBITaxon:10090
+UniProt	MGI:MGI:1316649	Sphk1	PMID:21084291		GO:0017050	D-erythro-sphingosine kinase activity	IDA			PANTHER:PTHR12358	20190212		NCBITaxon:10090
+UniProt	MGI:MGI:1316649	Sphk1	PMID:9726979		GO:0017050	D-erythro-sphingosine kinase activity	IDA			PANTHER:PTHR12358	20190322		NCBITaxon:10090
+dictyBase	dictyBase:DDB_G0272522	sgkA	PMID:15643073		GO:0017050	D-erythro-sphingosine kinase activity	IDA			PANTHER:PTHR12358	20050328		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0272522	sgkA	PMID:15643073		GO:0017050	D-erythro-sphingosine kinase activity	IGI	UniProtKB:Q6B516		PANTHER:PTHR12358	20050328		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0284545	sgkB	PMID:15643073		GO:0017050	D-erythro-sphingosine kinase activity	IDA			PANTHER:PTHR12358	20050328		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0284545	sgkB	PMID:15643073		GO:0017050	D-erythro-sphingosine kinase activity	IGI	UniProtKB:Q6B516		PANTHER:PTHR12358	20050328		NCBITaxon:44689
