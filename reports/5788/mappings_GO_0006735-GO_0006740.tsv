@@ -1,0 +1,3 @@
+term	file	line
+GO:0006740	interpro2go	InterPro:IPR010185 NADPH-dependent F420 reductase > GO:NADPH regeneration ; GO:0006740
+GO:0006740	reactome2go	Reactome:R-HSA-389542 > GO:NADPH regeneration ; GO:0006740
