@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AspGD	UniProtKB:Q4WV46	AFUA_5G10780	PMID:24257745		GO:0042125	protein galactosylation	IMP			PANTHER:PTHR43725	20131125		NCBITaxon:330879
+UniProt	UniProtKB:P08037	B4GALT1	PMID:23754284		GO:0042125	protein galactosylation	IDA		UniProtKB:P08037	PANTHER:PTHR19300	20161101		NCBITaxon:9913
+UniProt	WB:WBGene00019763	galt-1	PMID:23754284|WB_REF:WBPaper00042476		GO:0042125	protein galactosylation	IDA			PANTHER:PTHR21461	20161101		NCBITaxon:6239
