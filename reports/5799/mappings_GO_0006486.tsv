@@ -1,0 +1,21 @@
+term	file	line
+GO:0006486	interpro2go	InterPro:IPR001503 Glycosyl transferase family 10 > GO:protein glycosylation ; GO:0006486
+GO:0006486	interpro2go	InterPro:IPR001675 Glycosyl transferase family 29 > GO:protein glycosylation ; GO:0006486
+GO:0006486	interpro2go	InterPro:IPR002659 Glycosyl transferase, family 31 > GO:protein glycosylation ; GO:0006486
+GO:0006486	interpro2go	InterPro:IPR002685 Glycosyl transferase, family 15 > GO:protein glycosylation ; GO:0006486
+GO:0006486	interpro2go	InterPro:IPR003674 Oligosaccharyl transferase, STT3 subunit > GO:protein glycosylation ; GO:0006486
+GO:0006486	interpro2go	InterPro:IPR004139 Glycosyl transferase, family 13 > GO:protein glycosylation ; GO:0006486
+GO:0006486	interpro2go	InterPro:IPR004263 Exostosin-like > GO:protein glycosylation ; GO:0006486
+GO:0006486	interpro2go	InterPro:IPR007676 Ribophorin I > GO:protein glycosylation ; GO:0006486
+GO:0006486	interpro2go	InterPro:IPR009448 UDP-glucose:Glycoprotein Glucosyltransferase > GO:protein glycosylation ; GO:0006486
+GO:0006486	interpro2go	InterPro:IPR012163 Sialyltransferase > GO:protein glycosylation ; GO:0006486
+GO:0006486	interpro2go	InterPro:IPR013174 Dolichol-phosphate mannosyltransferase subunit 3 > GO:protein glycosylation ; GO:0006486
+GO:0006486	interpro2go	InterPro:IPR015827 Alpha-(1,6)-fucosyltransferase > GO:protein glycosylation ; GO:0006486
+GO:0006486	interpro2go	InterPro:IPR017176 Alpha-(1, 3)-fucosyltransferase, metazoan > GO:protein glycosylation ; GO:0006486
+GO:0006486	interpro2go	InterPro:IPR022751 Alpha-mannosyltransferase > GO:protein glycosylation ; GO:0006486
+GO:0006486	interpro2go	InterPro:IPR027054 Mannosyltransferase ALG2 > GO:protein glycosylation ; GO:0006486
+GO:0006486	interpro2go	InterPro:IPR042416 Oligosaccharyltransferase complex subunit OSTC > GO:protein glycosylation ; GO:0006486
+GO:0006486	interpro2go	InterPro:IPR043189 Beta-1,4-glucuronyltransferase 1 > GO:protein glycosylation ; GO:0006486
+GO:0006486	interpro2go	InterPro:IPR043676 Glucosyltransferase 3 > GO:protein glycosylation ; GO:0006486
+GO:0006486	unirule2go	UniRule:UR000640752 > GO:protein glycosylation ; GO:0006486
+GO:0006486	unirule2go	UniRule:UR001591753 > GO:protein glycosylation ; GO:0006486

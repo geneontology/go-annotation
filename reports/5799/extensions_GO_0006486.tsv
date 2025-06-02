@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:Q11206	ST3GAL4	PMID:8288606		GO:0003836	beta-galactoside (CMP) alpha-2,3-sialyltransferase activity	IDA		UniProtKB:Q11206	PANTHER:PTHR13713	20170803	GO:0009101|GO:0006486|GO:1990743|CHEBI:17089	NCBITaxon:9606
+BHF-UCL	UniProtKB:Q11206	ST3GAL4	PMID:8288606		GO:1990743	protein sialylation	IDA		UniProtKB:Q11206	PANTHER:PTHR13713	20170803	CHEBI:17089|GO:0009101|GO:0006486	NCBITaxon:9606
+BHF-UCL	UniProtKB:Q16842	ST3GAL2	PMID:9266697		GO:0003836	beta-galactoside (CMP) alpha-2,3-sialyltransferase activity	IDA		UniProtKB:Q16842	PANTHER:PTHR46032	20170803	GO:1990743|CHEBI:17089|GO:0009101|GO:0006486	NCBITaxon:9606
+BHF-UCL	UniProtKB:Q16842	ST3GAL2	PMID:9266697		GO:1990743	protein sialylation	IDA		UniProtKB:Q16842	PANTHER:PTHR46032	20170803	CHEBI:17089|GO:0009101|GO:0006486	NCBITaxon:9606
+UniProt	UniProtKB:Q9NSC7	ST6GALNAC1	PMID:35303419		GO:0001665	alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase activity	IDA		UniProtKB:Q9NSC7	PANTHER:PTHR45941	20220426	UBERON:0000160|GO:0051851|GO:0006486	NCBITaxon:9606
