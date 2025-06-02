@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+HGNC-UCL	UniProtKB:Q9Y570	PPME1	PMID:10318862		GO:0051722	protein C-terminal methylesterase activity	IDA		UniProtKB:Q9Y570	PANTHER:PTHR14189	20250119	UniProtKB:P67775	NCBITaxon:9606
+Reactome	UniProtKB:Q9Y570	PPME1	Reactome:R-HSA-8856951		GO:0051722	protein C-terminal methylesterase activity	TAS		UniProtKB:Q9Y570	PANTHER:PTHR14189	20241103		NCBITaxon:9606
+SGD	SGD:S000001117	PPE1	PMID:11060018		GO:0051722	protein C-terminal methylesterase activity	IMP		UniProtKB:P38796	PANTHER:PTHR14189	20221021	SGD:S000002347|SGD:S000002292|GO:1990577	NCBITaxon:559292
+UniProt	AGI_LocusCode:AT1G53840	PME1	PMID:28741704|TAIR:Publication:501776369		GO:0051722	protein C-terminal methylesterase activity	IDA		TAIR:locus:2197061		20240419		NCBITaxon:3702
