@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	WB:WBGene00001078	dpy-19	PMID:23562325|WB_REF:WBPaper00042218		GO:0018406	protein C-linked glycosylation via 2'-alpha-mannosyl-L-tryptophan	IDA			PANTHER:PTHR31488	20130423		NCBITaxon:6239
