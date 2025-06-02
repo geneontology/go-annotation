@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+SGD	SGD:S000004615	SEC59	PMID:12213788		GO:0043048	dolichyl monophosphate biosynthetic process	IMP		UniProtKB:P20048	PANTHER:PTHR13205	20151106		NCBITaxon:559292
+SGD	SGD:S000004615	SEC59	PMID:12213788		GO:0043048	dolichyl monophosphate biosynthetic process	IGI	UniProtKB:Q9UPQ8	UniProtKB:P20048	PANTHER:PTHR13205	20151106		NCBITaxon:559292
+SGD	SGD:S000004615	SEC59	PMID:1323123		GO:0043048	dolichyl monophosphate biosynthetic process	IMP		UniProtKB:P20048	PANTHER:PTHR13205	20151014		NCBITaxon:559292
+UniProt	UniProtKB:Q9UPQ8	DOLK	PMID:12213788		GO:0043048	dolichyl monophosphate biosynthetic process	IDA		UniProtKB:Q9UPQ8	PANTHER:PTHR13205	20090803		NCBITaxon:9606
+UniProt	UniProtKB:Q9UPQ8	DOLK	PMID:16923818		GO:0043048	dolichyl monophosphate biosynthetic process	IDA		UniProtKB:Q9UPQ8	PANTHER:PTHR13205	20090803		NCBITaxon:9606
+UniProt	UniProtKB:Q9UPQ8	DOLK	PMID:22242004		GO:0043048	dolichyl monophosphate biosynthetic process	IMP		UniProtKB:Q9UPQ8	PANTHER:PTHR13205	20240603		NCBITaxon:9606
