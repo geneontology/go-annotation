@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ComplexPortal	SGD:S000218059	CPX-1672	PMID:24026536		GO:0097502	mannosylation	IDA				20141016		NCBITaxon:559292
+GOC	AGI_LocusCode:AT2G47760	ALG3	PMID:26822404|TAIR:Publication:501767962		GO:0097502	mannosylation	IGI	AGI_LocusCode:S000000178	TAIR:locus:2043343		20240420		NCBITaxon:3702
+GeneDB	PlasmoDB:PF3D7_0806200	DPY19	PMID:35906227		GO:0097502	mannosylation	IMP				20220801		NCBITaxon:36329
+UniProt	AGI_LocusCode:AT1G51630	MSR2	PMID:22966747|TAIR:Publication:501751182		GO:0097502	mannosylation	IMP		TAIR:locus:2017652		20210331		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT3G21190	MSR1	PMID:22966747|TAIR:Publication:501751182		GO:0097502	mannosylation	IMP		TAIR:locus:2094731		20210331		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT3G55830	EPC1	PMID:27895225|TAIR:Publication:501773527		GO:0097502	mannosylation	IMP		TAIR:locus:2081983		20210331		NCBITaxon:3702
