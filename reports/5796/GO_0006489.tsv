@@ -1,0 +1,13 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ComplexPortal	UniProtKB:Q96E22	NUS1	PMID:32817466		GO:0006489	dolichyl diphosphate biosynthetic process	IDA		UniProtKB:Q96E22	PANTHER:PTHR21528	20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-6701	dds_human	PMID:32817466		GO:0006489	dolichyl diphosphate biosynthetic process	IDA				20240823		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q86SQ9	DHDDS	PMID:32817466		GO:0006489	dolichyl diphosphate biosynthetic process	IDA		UniProtKB:Q86SQ9	PANTHER:PTHR10291	20240823		NCBITaxon:9606
+Reactome	UniProtKB:Q9UPQ8	DOLK	Reactome:R-HSA-446199		GO:0006489	dolichyl diphosphate biosynthetic process	TAS		UniProtKB:Q9UPQ8	PANTHER:PTHR13205	20241117		NCBITaxon:9606
+Reactome	UniProtKB:Q86YN1	DOLPP1	Reactome:R-HSA-446199		GO:0006489	dolichyl diphosphate biosynthetic process	TAS		UniProtKB:Q86YN1	PANTHER:PTHR11247	20241117		NCBITaxon:9606
+Reactome	UniProtKB:Q9H8P0	SRD5A3	Reactome:R-HSA-446199		GO:0006489	dolichyl diphosphate biosynthetic process	TAS		UniProtKB:Q9H8P0	PANTHER:PTHR14624	20241117		NCBITaxon:9606
+UniProt	UniProtKB:Q8THV9	MA_4402	PMID:28842490		GO:0006489	dolichyl diphosphate biosynthetic process	IDA			PANTHER:PTHR10291	20181221		NCBITaxon:188937
+UniProt	UniProtKB:Q8TJQ7	uppS	PMID:28842490		GO:0006489	dolichyl diphosphate biosynthetic process	IDA			PANTHER:PTHR10291	20181221		NCBITaxon:188937
+UniProt	UniProtKB:A8B1Z2	UPPS	PMID:28842490		GO:0006489	dolichyl diphosphate biosynthetic process	IDA				20180703		NCBITaxon:184922
+UniProt	UniProtKB:Q96E22	NUS1	PMID:28842490		GO:0006489	dolichyl diphosphate biosynthetic process	IDA		UniProtKB:Q96E22	PANTHER:PTHR21528	20180703		NCBITaxon:9606
+UniProt	UniProtKB:Q86SQ9	DHDDS	PMID:28842490		GO:0006489	dolichyl diphosphate biosynthetic process	IDA		UniProtKB:Q86SQ9	PANTHER:PTHR10291	20180703		NCBITaxon:9606
+UniProt	UniProtKB:Q86SQ9	DHDDS	PMID:33077723		GO:0006489	dolichyl diphosphate biosynthetic process	IDA		UniProtKB:Q86SQ9	PANTHER:PTHR10291	20240605		NCBITaxon:9606
