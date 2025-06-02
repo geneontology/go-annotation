@@ -1,0 +1,5 @@
+term	file	line
+GO:0018240	interpro2go	InterPro:IPR026499 Peptide S-glycosyltransferase, SunS family > GO:protein S-linked glycosylation via cysteine ; GO:0018240
+GO:0018240	resid2go	RESID:AA0152 > GO:protein S-linked glycosylation via cysteine ; GO:0018240
+GO:0018241	resid2go	RESID:AA0153 > GO:protein O-linked glycosylation via hydroxylysine ; GO:0018241
+GO:0018245	resid2go	RESID:AA0157 > GO:protein O-linked glycosylation via tyrosine ; GO:0018245
