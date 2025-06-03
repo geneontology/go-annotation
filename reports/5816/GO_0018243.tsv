@@ -1,0 +1,37 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:Q10471	GALNT2	PMID:12438318		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:Q10471	PANTHER:PTHR11675	20241027	PR:000050032|GO:0051604	NCBITaxon:9606
+BHF-UCL	UniProtKB:Q14435	GALNT3	PMID:9295285		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:Q14435	PANTHER:PTHR11675	20080306		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q10472	GALNT1	PMID:9295285		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:Q10472	PANTHER:PTHR11675	20080306		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q10471	GALNT2	PMID:9295285		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:Q10471	PANTHER:PTHR11675	20080306		NCBITaxon:9606
+FlyBase	FB:FBgn0031530	Pgant2	PMID:34523671|FB:FBrf0251536		GO:0018243	protein O-linked glycosylation via threonine	IDA			PANTHER:PTHR11675	20211018		NCBITaxon:7227
+GO_Central	UniProtKB:Q10471	GALNT2	PMID:18562306		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:Q10471	PANTHER:PTHR11675	20141114		NCBITaxon:9606
+UniProt	UniProtKB:Q46149	tcdA	PMID:16157585		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:Q46149-PRO_0000451193		20200807		NCBITaxon:1542
+UniProt	UniProtKB:P18177	tcdB	PMID:16157585		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:P18177-PRO_0000451194		20200807		NCBITaxon:1496
+UniProt	UniProtKB:Q14435	GALNT3	PMID:16638743		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:Q14435	PANTHER:PTHR11675	20090914		NCBITaxon:9606
+UniProt	UniProtKB:Q46342	tcsL	PMID:17901056		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:Q46342-PRO_0000451198		20200807		NCBITaxon:1505
+UniProt	UniProtKB:P18177	tcdB	PMID:17901056		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:P18177-PRO_0000451194		20200807		NCBITaxon:1496
+UniProt	UniProtKB:Q49A17	GALNTL6	PMID:22186971		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:Q49A17	PANTHER:PTHR11675	20170728		NCBITaxon:9606
+UniProt	UniProtKB:Q8N428	GALNT16	PMID:22186971		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:Q8N428	PANTHER:PTHR11675	20170728		NCBITaxon:9606
+UniProt	UniProtKB:Q8IUC8	GALNT13	PMID:22186971		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:Q8IUC8	PANTHER:PTHR11675	20170728		NCBITaxon:9606
+UniProt	UniProtKB:P16154	tcdA	PMID:22267739		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:P16154-PRO_0000451191		20200807		NCBITaxon:1496
+UniProt	UniProtKB:P16154	tcdA	PMID:22747490		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:P16154-PRO_0000451191		20200807		NCBITaxon:1496
+UniProt	UniProtKB:S5S833	S5S833	PMID:23877648		GO:0018243	protein O-linked glycosylation via threonine	IDA				20230513		NCBITaxon:6526
+UniProt	Xenbase:XB-GENE-981830	galnt11	PMID:24226769		GO:0018243	protein O-linked glycosylation via threonine	IDA			PANTHER:PTHR11675	20131202		NCBITaxon:8364
+UniProt	UniProtKB:Q8NCW6	GALNT11	PMID:24226769		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:Q8NCW6	PANTHER:PTHR11675	20131202		NCBITaxon:9606
+UniProt	UniProtKB:S5S833	S5S833	PMID:25338825		GO:0018243	protein O-linked glycosylation via threonine	IDA				20230513		NCBITaxon:6526
+UniProt	UniProtKB:Q46342	tcsL	PMID:27023605		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:Q46342-PRO_0000451198		20200807		NCBITaxon:1505
+UniProt	UniProtKB:Q46342	tcsL	PMID:27303685		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:Q46342-PRO_0000451198		20200807		NCBITaxon:1505
+UniProt	UniProtKB:Q8N4A0	GALNT4	PMID:29208955		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:Q8N4A0	PANTHER:PTHR11675	20180926		NCBITaxon:9606
+UniProt	UniProtKB:S5S833	S5S833	PMID:31396754		GO:0018243	protein O-linked glycosylation via threonine	IDA				20230513		NCBITaxon:6526
+UniProt	UniProtKB:H0ZAB5	GALNT3	PMID:31932717		GO:0018243	protein O-linked glycosylation via threonine	IDA				20220802		NCBITaxon:59729
+UniProt	UniProtKB:Q14435	GALNT3	PMID:31932717		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:Q14435	PANTHER:PTHR11675	20220802		NCBITaxon:9606
+UniProt	UniProtKB:Q8NCL4	GALNT6	PMID:31932717		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:Q8NCL4	PANTHER:PTHR11675	20220802		NCBITaxon:9606
+UniProt	UniProtKB:P16154	tcdA	PMID:7775453		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:P16154-PRO_0000451191		20200807		NCBITaxon:1496
+UniProt	UniProtKB:P18177	tcdB	PMID:7777059		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:P18177-PRO_0000451194		20200807		NCBITaxon:1496
+UniProt	UniProtKB:Q46342	tcsL	PMID:8626586		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:Q46342-PRO_0000451198		20200807		NCBITaxon:1505
+UniProt	UniProtKB:Q46149	tcdA	PMID:8810274		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:Q46149-PRO_0000451193		20200807		NCBITaxon:1542
+UniProt	UniProtKB:Q46342	tcsL	PMID:9632667		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:Q46342-PRO_0000451198		20200807		NCBITaxon:1505
+UniProt	UniProtKB:Q8N4A0	GALNT4	PMID:9804815		GO:0018243	protein O-linked glycosylation via threonine	IDA		UniProtKB:Q8N4A0	PANTHER:PTHR11675	20180926		NCBITaxon:9606
+WB	WB:WBGene00001629	gly-4	PMID:9525933|WB_REF:WBPaper00003042		GO:0018243	protein O-linked glycosylation via threonine	IDA			PANTHER:PTHR11675	20120411		NCBITaxon:6239
+WB	WB:WBGene00001630	gly-5	PMID:9525933|WB_REF:WBPaper00003042		GO:0018243	protein O-linked glycosylation via threonine	IDA			PANTHER:PTHR11675	20120411		NCBITaxon:6239
+WB	WB:WBGene00001628	gly-3	PMID:9525933|WB_REF:WBPaper00003042		GO:0018243	protein O-linked glycosylation via threonine	IDA			PANTHER:PTHR11675	20120411		NCBITaxon:6239
