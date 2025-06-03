@@ -1,0 +1,10 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+TAIR	AGI_LocusCode:AT4G21060	GALT2	PMID:23430255|TAIR:Publication:501753608		GO:0018258	protein O-linked glycosylation via hydroxyproline	IDA		TAIR:locus:2133094		20130321		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT4G32120	HPGT2	PMID:25600942|TAIR:Publication:501762786		GO:0018258	protein O-linked glycosylation via hydroxyproline	IDA		TAIR:locus:2116627		20210331		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT5G53340	HPGT1	PMID:25600942|TAIR:Publication:501762786		GO:0018258	protein O-linked glycosylation via hydroxyproline	IDA		TAIR:locus:2154247		20210331		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT2G25300	HPGT3	PMID:25600942|TAIR:Publication:501762786		GO:0018258	protein O-linked glycosylation via hydroxyproline	IDA		TAIR:locus:2059531		20210331		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT3G06440	GALT3	PMID:26690932|TAIR:Publication:501767599		GO:0018258	protein O-linked glycosylation via hydroxyproline	IDA		TAIR:locus:2081071		20210331		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT4G21060	GALT2	PMID:26690932|TAIR:Publication:501767599		GO:0018258	protein O-linked glycosylation via hydroxyproline	IDA		TAIR:locus:2133094		20210331		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT1G74800	GALT5	PMID:26690932|TAIR:Publication:501767599		GO:0018258	protein O-linked glycosylation via hydroxyproline	IDA		TAIR:locus:2027290		20210331		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT1G27120	GALT4	PMID:26690932|TAIR:Publication:501767599		GO:0018258	protein O-linked glycosylation via hydroxyproline	IDA		TAIR:locus:2205774		20210331		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT5G62620	GALT6	PMID:26690932|TAIR:Publication:501767599		GO:0018258	protein O-linked glycosylation via hydroxyproline	IDA		TAIR:locus:2172219		20210331		NCBITaxon:3702
