@@ -1,0 +1,21 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:Q10471	GALNT2	PMID:12438318		GO:0018242	protein O-linked glycosylation via serine	IDA		UniProtKB:Q10471	PANTHER:PTHR11675	20241027	PR:000050032|GO:0051604	NCBITaxon:9606
+BHF-UCL	UniProtKB:Q14435	GALNT3	PMID:9295285		GO:0018242	protein O-linked glycosylation via serine	IDA		UniProtKB:Q14435	PANTHER:PTHR11675	20080306		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q10472	GALNT1	PMID:9295285		GO:0018242	protein O-linked glycosylation via serine	IDA		UniProtKB:Q10472	PANTHER:PTHR11675	20080306		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q10471	GALNT2	PMID:9295285		GO:0018242	protein O-linked glycosylation via serine	IDA		UniProtKB:Q10471	PANTHER:PTHR11675	20080306		NCBITaxon:9606
+FlyBase	FB:FBgn0086253	rumi	PMID:22117070|FB:FBrf0248862		GO:0018242	protein O-linked glycosylation via serine	IDA			PANTHER:PTHR12203	20201218		NCBITaxon:7227
+UniProt	UniProtKB:Q3V5L5	MGAT5B	PMID:19846580		GO:0018242	protein O-linked glycosylation via serine	IDA		UniProtKB:Q3V5L5	PANTHER:PTHR15075	20180925		NCBITaxon:9606
+UniProt	UniProtKB:Q8N428	GALNT16	PMID:22186971		GO:0018242	protein O-linked glycosylation via serine	IDA		UniProtKB:Q8N428	PANTHER:PTHR11675	20170728		NCBITaxon:9606
+UniProt	UniProtKB:Q8IUC8	GALNT13	PMID:22186971		GO:0018242	protein O-linked glycosylation via serine	IDA		UniProtKB:Q8IUC8	PANTHER:PTHR11675	20170728		NCBITaxon:9606
+UniProt	UniProtKB:S5S833	S5S833	PMID:23877648		GO:0018242	protein O-linked glycosylation via serine	IDA				20230513		NCBITaxon:6526
+UniProt	UniProtKB:A0A0H2URG7	gtfA	PMID:24936067		GO:0018242	protein O-linked glycosylation via serine	IDA				20190215		NCBITaxon:170187
+UniProt	UniProtKB:S5S833	S5S833	PMID:25338825		GO:0018242	protein O-linked glycosylation via serine	IDA				20230513		NCBITaxon:6526
+UniProt	MGI:MGI:2444232	Poglut1	PMID:26496195		GO:0018242	protein O-linked glycosylation via serine	IMP			PANTHER:PTHR12203	20180420		NCBITaxon:10090
+UniProt	FB:FBgn0086253	rumi	PMID:27428513|FB:FBrf0233215		GO:0018242	protein O-linked glycosylation via serine	IDA			PANTHER:PTHR12203	20180813		NCBITaxon:7227
+UniProt	UniProtKB:Q8NBL1	POGLUT1	PMID:27807076		GO:0018242	protein O-linked glycosylation via serine	IMP		UniProtKB:Q8NBL1	PANTHER:PTHR12203	20170307		NCBITaxon:9606
+UniProt	UniProtKB:Q7Z4H8	POGLUT3	PMID:30127001		GO:0018242	protein O-linked glycosylation via serine	IDA		UniProtKB:Q7Z4H8	PANTHER:PTHR12203	20181102		NCBITaxon:9606
+UniProt	UniProtKB:Q6UW63	POGLUT2	PMID:30127001		GO:0018242	protein O-linked glycosylation via serine	IDA		UniProtKB:Q6UW63	PANTHER:PTHR12203	20181102		NCBITaxon:9606
+UniProt	UniProtKB:Q8NBL1	POGLUT1	PMID:30127001		GO:0018242	protein O-linked glycosylation via serine	IDA		UniProtKB:Q8NBL1	PANTHER:PTHR12203	20181102		NCBITaxon:9606
+UniProt	UniProtKB:Q7Z4H8	POGLUT3	PMID:34411563		GO:0018242	protein O-linked glycosylation via serine	IMP		UniProtKB:Q7Z4H8	PANTHER:PTHR12203	20211115		NCBITaxon:9606
+UniProt	UniProtKB:Q6UW63	POGLUT2	PMID:34411563		GO:0018242	protein O-linked glycosylation via serine	IMP		UniProtKB:Q6UW63	PANTHER:PTHR12203	20211115		NCBITaxon:9606
+UniProt	UniProtKB:Q8N4A0	GALNT4	PMID:9804815		GO:0018242	protein O-linked glycosylation via serine	IDA		UniProtKB:Q8N4A0	PANTHER:PTHR11675	20180926		NCBITaxon:9606

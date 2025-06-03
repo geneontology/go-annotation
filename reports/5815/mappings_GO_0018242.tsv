@@ -1,0 +1,4 @@
+term	file	line
+GO:0018242	unirule2go	UniRule:UR000165363 > GO:protein O-linked glycosylation via serine ; GO:0018242
+GO:0018242	hamap2go	HAMAP:MF_01472 > GO:protein O-linked glycosylation via serine ; GO:0018242
+GO:0018242	resid2go	RESID:AA0154 > GO:protein O-linked glycosylation via serine ; GO:0018242
