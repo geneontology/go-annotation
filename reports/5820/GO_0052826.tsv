@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+Reactome	UniProtKB:Q9UNW1	MINPP1	Reactome:R-HSA-1855225		GO:0052826	inositol hexakisphosphate 2-phosphatase activity	TAS		UniProtKB:Q9UNW1	PANTHER:PTHR20963	20240809		NCBITaxon:9606
