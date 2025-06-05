@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+RGD	RGD:619757	Acox1	PMID:1400324|RGD:2299949		GO:0016401	palmitoyl-CoA oxidase activity	IDA			PANTHER:PTHR10909	20080821		NCBITaxon:10116
+UniProt	UniProtKB:Q15067	ACOX1	PMID:17603022		GO:0016401	palmitoyl-CoA oxidase activity	IDA		UniProtKB:Q15067-1	PANTHER:PTHR10909	20121023		NCBITaxon:9606
+UniProt	UniProtKB:Q15067	ACOX1	PMID:17603022		GO:0016401	palmitoyl-CoA oxidase activity	IDA		UniProtKB:Q15067-2	PANTHER:PTHR10909	20121023		NCBITaxon:9606
+UniProt	UniProtKB:P09110	ACAA1	PMID:2882519		GO:0016401	palmitoyl-CoA oxidase activity	IMP		UniProtKB:P09110	PANTHER:PTHR43853	20120305		NCBITaxon:9606
+UniProt	RGD:67379	Acaa1a	PMID:2882519|RGD:8554082		GO:0016401	palmitoyl-CoA oxidase activity	IGI	UniProtKB:P09110		PANTHER:PTHR43853	20120307		NCBITaxon:10116
