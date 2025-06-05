@@ -1,0 +1,4 @@
+term	file	line
+GO:0106340	ec2go	EC:2.1.1.205 > GO:tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase activity ; GO:0106340
+GO:0106340	reactome2go	Reactome:R-HSA-9024161 > GO:tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase activity ; GO:0106340
+GO:0106340	rhea2go	RHEA:42396 > GO:tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase activity ; GO:0106340

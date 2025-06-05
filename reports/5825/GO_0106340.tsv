@@ -1,0 +1,8 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	FB:FBgn0038471	Trm7-32	PMID:31943105|FB:FBrf0244923		GO:0106340	tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase activity	IMP			PANTHER:PTHR10920	20230911		NCBITaxon:7227
+FlyBase	FB:FBgn0038861	Trm7-34	PMID:31943105|FB:FBrf0244923		GO:0106340	tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase activity	IMP			PANTHER:PTHR10920	20230911		NCBITaxon:7227
+PomBase	PomBase:SPAC4F10.03c	trm7	PMID:25404562		GO:0106340	tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase activity	IMP			PANTHER:PTHR10920	20190730	PomBase:SPATRNAPHE.01	NCBITaxon:4896
+Reactome	UniProtKB:Q9UET6	FTSJ1	PMID:25404562		GO:0106340	tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase activity	EXP		UniProtKB:Q9UET6	PANTHER:PTHR10920	20241103		NCBITaxon:9606
+Reactome	UniProtKB:Q9UET6	FTSJ1	PMID:26310293		GO:0106340	tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase activity	EXP		UniProtKB:Q9UET6	PANTHER:PTHR10920	20241103		NCBITaxon:9606
+UniProt	UniProtKB:Q9UET6	FTSJ1	PMID:26310293		GO:0106340	tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase activity	IMP		UniProtKB:Q9UET6	PANTHER:PTHR10920	20230912		NCBITaxon:9606
+UniProt	UniProtKB:Q9UET6	FTSJ1	PMID:36720500		GO:0106340	tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase activity	IMP		UniProtKB:Q9UET6	PANTHER:PTHR10920	20230406		NCBITaxon:9606
