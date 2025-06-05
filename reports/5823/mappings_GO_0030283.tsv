@@ -1,0 +1,4 @@
+term	file	line
+GO:0030283	ec2go	EC:1.1.1.51 > GO:testosterone dehydrogenase [NAD(P)+] activity ; GO:0030283
+GO:0030283	metacyc2go	MetaCyc:1.1.1.51-RXN > GO:testosterone dehydrogenase [NAD(P)+] activity ; GO:0030283
+GO:0030283	reactome2go	Reactome:R-HSA-193064 > GO:testosterone dehydrogenase [NAD(P)+] activity ; GO:0030283

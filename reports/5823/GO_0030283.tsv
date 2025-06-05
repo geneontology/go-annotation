@@ -1,0 +1,12 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:107177	Hsd17b3	PMID:32557858		GO:0030283	testosterone dehydrogenase [NAD(P)+] activity	IMP			PANTHER:PTHR43899	20240710	GO:0006702	NCBITaxon:10090
+MGI	MGI:MGI:107177	Hsd17b3	PMID:32557858		GO:0030283	testosterone dehydrogenase [NAD(P)+] activity	IMP			PANTHER:PTHR43899	20240703	GO:0006702	NCBITaxon:10090
+RGD	RGD:67377	Hsd3b2	PMID:7690038|RGD:632869		GO:0030283	testosterone dehydrogenase [NAD(P)+] activity	TAS			PANTHER:PTHR10366	20050217		NCBITaxon:10116
+RGD	RGD:621806	Hsd17b4	PMID:8913347|RGD:632889		GO:0030283	testosterone dehydrogenase [NAD(P)+] activity	TAS			PANTHER:PTHR13078	20050217		NCBITaxon:10116
+Reactome	UniProtKB:P37058	HSD17B3	Reactome:R-HSA-193064		GO:0030283	testosterone dehydrogenase [NAD(P)+] activity	TAS		UniProtKB:P37058	PANTHER:PTHR43899	20241103		NCBITaxon:9606
+UniProt	UniProtKB:P31213	SRD5A2	PMID:10898110		GO:0030283	testosterone dehydrogenase [NAD(P)+] activity	IDA		UniProtKB:P31213	PANTHER:PTHR10556	20161122		NCBITaxon:9606
+UniProt	UniProtKB:P42330	AKR1C3	PMID:16983398		GO:0030283	testosterone dehydrogenase [NAD(P)+] activity	IDA		UniProtKB:P42330	PANTHER:PTHR11732	20120120		NCBITaxon:9606
+UniProt	UniProtKB:P9WQP7	Rv1106c	PMID:17630785		GO:0030283	testosterone dehydrogenase [NAD(P)+] activity	IDA			PANTHER:PTHR10366	20170221		NCBITaxon:83332
+UniProt	UniProtKB:Q99714	HSD17B10	PMID:28888424		GO:0030283	testosterone dehydrogenase [NAD(P)+] activity	IDA		UniProtKB:Q99714	PANTHER:PTHR43658	20171114		NCBITaxon:9606
+UniProt	MGI:MGI:105077	Hsd17b1	PMID:9658408		GO:0030283	testosterone dehydrogenase [NAD(P)+] activity	IDA			PANTHER:PTHR43391	20200803		NCBITaxon:10090
+WB	WB:WBGene00002891	let-767	PMID:17951538|WB_REF:WBPaper00031125		GO:0030283	testosterone dehydrogenase [NAD(P)+] activity	IDA			PANTHER:PTHR43086	20100719		NCBITaxon:6239
