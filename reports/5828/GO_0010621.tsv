@@ -1,0 +1,9 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:P41134	ID1	PMID:14522471		GO:0010621	negative regulation of transcription by transcription factor localization	TAS		UniProtKB:P41134	PANTHER:PTHR11723	20090114		NCBITaxon:9606
+PomBase	PomBase:SPACUNK12.02c	cmk1	PMID:25081204		GO:0010621	negative regulation of transcription by transcription factor localization	IMP			PANTHER:PTHR24347	20150218	PomBase:SPAC4G8.13c	NCBITaxon:4896
+SGD	SGD:S000005173	URE2	PMID:10748041		GO:0010621	negative regulation of transcription by transcription factor localization	IMP		UniProtKB:P23202	PANTHER:PTHR44051	20230224	SGD:S000000842	NCBITaxon:559292
+SGD	SGD:S000005173	URE2	PMID:10799523		GO:0010621	negative regulation of transcription by transcription factor localization	IMP		UniProtKB:P23202	PANTHER:PTHR44051	20230224	SGD:S000001873	NCBITaxon:559292
+SGD	SGD:S000004966	HDA1	PMID:17974563		GO:0010621	negative regulation of transcription by transcription factor localization	IGI	SGD:S000005274	UniProtKB:P53973	PANTHER:PTHR10625	20130807		NCBITaxon:559292
+UniProt	UniProtKB:P63165	SUMO1	PMID:17264123		GO:0010621	negative regulation of transcription by transcription factor localization	IDA		UniProtKB:P63165	PANTHER:PTHR10562	20210422		NCBITaxon:9606
+UniProt	WB:WBGene00001827	hcf-1	PMID:22568582|WB_REF:WBPaper00041075		GO:0010621	negative regulation of transcription by transcription factor localization	IMP			PANTHER:PTHR46003	20211202		NCBITaxon:6239
+WB	WB:WBGene00001827	hcf-1	PMID:18828672|WB_REF:WBPaper00032232		GO:0010621	negative regulation of transcription by transcription factor localization	IMP	WB:WBVar00239352		PANTHER:PTHR46003	20090824		NCBITaxon:6239
