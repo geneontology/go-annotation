@@ -1,0 +1,9 @@
+term	file	line
+GO:0030259	interpro2go	InterPro:IPR004276 Glycosyltransferase family 28, N-terminal domain > GO:lipid glycosylation ; GO:0030259
+GO:0030259	interpro2go	InterPro:IPR011143 Ganglioside GM2 synthase > GO:lipid glycosylation ; GO:0030259
+GO:0030259	unirule2go	UniRule:UR000036431 > GO:lipid glycosylation ; GO:0030259
+GO:0030259	unirule2go	UniRule:UR000359778 > GO:lipid glycosylation ; GO:0030259
+GO:0030259	hamap2go	HAMAP:MF_00033 > GO:lipid glycosylation ; GO:0030259
+GO:0036065	interpro2go	InterPro:IPR009993 TDP-N-acetylfucosamine:lipid II N-acetylfucosaminyltransferase > GO:fucosylation ; GO:0036065
+GO:0036065	unirule2go	UniRule:UR000617775 > GO:fucosylation ; GO:0036065
+GO:0070085	wikipedia2go	Wikipedia:Glycosylation > GO:glycosylation ; GO:0070085
