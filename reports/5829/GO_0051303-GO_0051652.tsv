@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	RNAcentral:URS0000DB8B87_9606	URS0000DB8B87_9606	PMID:31048766		GO:0051303	establishment of chromosome localization	TAS				20230530		NCBITaxon:9606
+UniProt	WB:WBGene00003864	oma-1	PMID:11702779|WB_REF:WBPaper00005198		GO:0051303	establishment of chromosome localization	IGI	WB:WBGene00003865		PANTHER:PTHR12547	20161118		NCBITaxon:6239
+UniProt	WB:WBGene00003865	oma-2	PMID:11702779|WB_REF:WBPaper00005198		GO:0051303	establishment of chromosome localization	IGI	WB:WBGene00003864		PANTHER:PTHR12547	20161118		NCBITaxon:6239
+UniProt	UniProtKB:O15392	BIRC5	PMID:12805209		GO:0051303	establishment of chromosome localization	IMP		UniProtKB:O15392-1	PANTHER:PTHR46771	20060731		NCBITaxon:9606
+UniProt	UniProtKB:Q9NXR1	NDE1	PMID:17600710		GO:0051303	establishment of chromosome localization	IMP		UniProtKB:Q9NXR1	PANTHER:PTHR10921	20090324		NCBITaxon:9606
