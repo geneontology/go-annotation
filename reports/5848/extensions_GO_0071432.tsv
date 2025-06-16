@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPAC10F6.12c	mam4	PMID:9032282		GO:0004671	protein C-terminal S-isoprenylcysteine carboxyl O-methyltransferase activity	IMP			PANTHER:PTHR12714	20111020	PomBase:SPAC513.03|CL:0002674|GO:0071432	NCBITaxon:4896
+PomBase	PomBase:SPAC10F6.12c	mam4	PMID:9032282		GO:0004671	protein C-terminal S-isoprenylcysteine carboxyl O-methyltransferase activity	IMP			PANTHER:PTHR12714	20111020	PomBase:SPAPB8E5.05|CL:0002674|GO:0071432	NCBITaxon:4896
+PomBase	PomBase:SPAC10F6.12c	mam4	PMID:9032282		GO:0004671	protein C-terminal S-isoprenylcysteine carboxyl O-methyltransferase activity	IMP			PANTHER:PTHR12714	20111020	PomBase:SPBPJ4664.03|CL:0002674|GO:0071432	NCBITaxon:4896
