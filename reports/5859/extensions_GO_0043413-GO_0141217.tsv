@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:Q8NBA8	DTWD2	PMID:39173631		GO:0016432	tRNA-uridine aminocarboxypropyltransferase activity	IDA		UniProtKB:Q8NBA8	PANTHER:PTHR21392	20240925	GO:0006400|GO:0141217	NCBITaxon:9606
