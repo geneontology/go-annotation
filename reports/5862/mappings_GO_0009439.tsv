@@ -1,0 +1,9 @@
+term	file	line
+GO:0009439	unirule2go	UniRule:UR000094089 > GO:cyanate metabolic process ; GO:0009439
+GO:0009439	unirule2go	UniRule:UR000106984 > GO:cyanate metabolic process ; GO:0009439
+GO:0009439	interpro2go	InterPro:IPR003712 Cyanate lyase, C-terminal > GO:cyanate metabolic process ; GO:0009439
+GO:0009439	interpro2go	InterPro:IPR008076 Cyanate hydratase > GO:cyanate metabolic process ; GO:0009439
+GO:0009439	interpro2go	InterPro:IPR036581 Cyanate lyase, C-terminal domain superfamily > GO:cyanate metabolic process ; GO:0009439
+GO:0009439	metacyc2go	MetaCyc:CYANCAT-PWY > GO:cyanate metabolic process ; GO:0009439
+GO:0009439	hamap2go	HAMAP:MF_00535 > GO:cyanate metabolic process ; GO:0009439
+GO:0009439	hamap2go	HAMAP:MF_03139 > GO:cyanate metabolic process ; GO:0009439
