@@ -1,0 +1,13 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CGD	CGD:CAL0131558	CBF1	PMID:11438645|CGD_REF:CAL0121671		GO:0034508	centromere complex assembly	IDA				20110203		NCBITaxon:284593
+CGD	CGD:CAL0000196848	SGO1	PMID:34407255|CGD_REF:CAL0000229041		GO:0034508	centromere complex assembly	IMP				20220427		NCBITaxon:237561
+SGD	SGD:S000005599	SGO1	PMID:22365852		GO:0034508	centromere complex assembly	IMP		UniProtKB:Q08490		20130807		NCBITaxon:559292
+SGD	SGD:S000003420	BUB1	PMID:22365852		GO:0034508	centromere complex assembly	IMP		UniProtKB:P41695	PANTHER:PTHR14030	20130807		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT5G15540	EMB2773	PMID:19228337|TAIR:Publication:501729816		GO:0034508	centromere complex assembly	IMP		TAIR:locus:2180942		20090325		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G09550	GIP1	PMID:26124146|TAIR:Publication:501765650		GO:0034508	centromere complex assembly	IGI	AGI_LocusCode:AT1G73790	TAIR:locus:2133687		20151118		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G73790	GIP2	PMID:26124146|TAIR:Publication:501765650		GO:0034508	centromere complex assembly	IGI	AGI_LocusCode:AT4G09550	TAIR:locus:2027859		20151118		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G01370	HTR12	PMID:26294252|TAIR:Publication:501766014		GO:0034508	centromere complex assembly	IMP		TAIR:locus:2035252		20151210		NCBITaxon:3702
+UniProt	UniProtKB:Q7Z7K6	CENPV	PMID:18772885		GO:0034508	centromere complex assembly	IMP		UniProtKB:Q7Z7K6	PANTHER:PTHR28620	20081216		NCBITaxon:9606
+dictyBase	dictyBase:DDB_G0272869	sun1	PMID:19632001		GO:0034508	centromere complex assembly	IMP			PANTHER:PTHR12911	20191107		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0278809	DDB_G0278809	PMID:22223109		GO:0034508	centromere complex assembly	IMP			PANTHER:PTHR34491	20220516		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0282851	DDB_G0282851	PMID:29690637		GO:0034508	centromere complex assembly	IMP			PANTHER:PTHR45888	20190212		NCBITaxon:44689
