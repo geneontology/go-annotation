@@ -1,0 +1,54 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	FB:FBgn0013763	Idgf6	PMID:32770153		GO:0032882	regulation of chitin metabolic process	IMP			PANTHER:PTHR11177	20240530		NCBITaxon:7227
+FlyBase	FB:FBgn0020414	Idgf3	PMID:32770153		GO:0032882	regulation of chitin metabolic process	IMP			PANTHER:PTHR11177	20240530		NCBITaxon:7227
+CGD	UniProtKB:A0A2H0ZKP0	B9J08_002788	PMID:37671881		GO:0070873	regulation of glycogen metabolic process	IMP				20230921		NCBITaxon:498019
+CGD	UniProtKB:A0A2H0ZNU3	B9J08_003924	PMID:37671881		GO:0070873	regulation of glycogen metabolic process	IMP				20230921		NCBITaxon:498019
+CGD	UniProtKB:A0A2H0ZVW7	B9J08_002549	PMID:37671881		GO:0070873	regulation of glycogen metabolic process	IMP				20230921		NCBITaxon:498019
+CGD	UniProtKB:A0A2H0ZVL9	B9J08_004030	PMID:37671881		GO:0070873	regulation of glycogen metabolic process	IMP				20230921		NCBITaxon:498019
+CGD	UniProtKB:A0A2H0ZSR6	B9J08_002818	PMID:37671881		GO:0070873	regulation of glycogen metabolic process	IMP				20230921		NCBITaxon:498019
+CGD	UniProtKB:A0A2H0ZMI1	B9J08_003446	PMID:37671881		GO:0070873	regulation of glycogen metabolic process	IMP				20230921		NCBITaxon:498019
+CGD	UniProtKB:A0A2H0ZFS7	B9J08_004540	PMID:37671881		GO:0070873	regulation of glycogen metabolic process	IMP				20230921		NCBITaxon:498019
+CGD	CGD:CAL0000226265	TPK1	PMID:37671881|CGD_REF:CAL0000246140		GO:0070873	regulation of glycogen metabolic process	IMP				20230921		NCBITaxon:498019
+CGD	CGD:CAL0000217579	PDE2	PMID:37671881|CGD_REF:CAL0000246140		GO:0070873	regulation of glycogen metabolic process	IMP				20230921		NCBITaxon:498019
+CGD	CGD:CAL0000222309	BCY1	PMID:37671881|CGD_REF:CAL0000246140		GO:0070873	regulation of glycogen metabolic process	IMP				20230921		NCBITaxon:498019
+CGD	CGD:CAL0000220377	TPK2	PMID:37671881|CGD_REF:CAL0000246140		GO:0070873	regulation of glycogen metabolic process	IMP				20230921		NCBITaxon:498019
+CGD	CGD:CAL0000218765	IRA2	PMID:37671881|CGD_REF:CAL0000246140		GO:0070873	regulation of glycogen metabolic process	IMP				20230921		NCBITaxon:498019
+CGD	CGD:CAL0000225353	RAS1	PMID:37671881|CGD_REF:CAL0000246140		GO:0070873	regulation of glycogen metabolic process	IMP				20230921		NCBITaxon:498019
+CGD	CGD:CAL0000218097	CYR1	PMID:37671881|CGD_REF:CAL0000246140		GO:0070873	regulation of glycogen metabolic process	IMP				20230921		NCBITaxon:498019
+CGD	CGD:CAL0000227543	PDE1	PMID:37671881|CGD_REF:CAL0000246140		GO:0070873	regulation of glycogen metabolic process	IMP				20230921		NCBITaxon:498019
+FlyBase	FB:FBgn0036428	Gbs-70E	PMID:24727027		GO:0070873	regulation of glycogen metabolic process	IMP			PANTHER:PTHR12307	20140529		NCBITaxon:7227
+MGI	MGI:MGI:1202307	Phlda2	PMID:19884348		GO:0070873	regulation of glycogen metabolic process	IDA			PANTHER:PTHR15478	20130813	GO:0005977	NCBITaxon:10090
+MGI	MGI:MGI:97742	Pomc	PMID:21184805		GO:0070873	regulation of glycogen metabolic process	IMP	MGI:MGI:2687084		PANTHER:PTHR11416	20131217	GO:0005977	NCBITaxon:10090
+MGI	MGI:MGI:1096353	Khk	PMID:22371574		GO:0070873	regulation of glycogen metabolic process	IMP	MGI:MGI:4398729		PANTHER:PTHR43085	20131220	GO:0005977	NCBITaxon:10090
+SGD	SGD:S000000935	GLC7	PMID:1660885		GO:0070873	regulation of glycogen metabolic process	IMP		UniProtKB:P32598	PANTHER:PTHR11668	20190627		NCBITaxon:559292
+SGD	SGD:S000002506	BMH2	PMID:9215628		GO:0070873	regulation of glycogen metabolic process	IGI	SGD:S000000979	UniProtKB:P34730	PANTHER:PTHR18860	20190703		NCBITaxon:559292
+SGD	SGD:S000000979	BMH1	PMID:9215628		GO:0070873	regulation of glycogen metabolic process	IGI	SGD:S000002506	UniProtKB:P29311	PANTHER:PTHR18860	20190627		NCBITaxon:559292
+UniProt	MGI:MGI:99572	Gcgr	PMID:12552113		GO:0070873	regulation of glycogen metabolic process	IMP			PANTHER:PTHR45620	20130805		NCBITaxon:10090
+UniProt	MGI:MGI:2685590	Rubcnl	PMID:30704899		GO:0070873	regulation of glycogen metabolic process	IMP			PANTHER:PTHR45971	20190321		NCBITaxon:10090
+ZFIN	ZFIN:ZDB-GENE-100922-143	epm2a	PMID:35743315		GO:0070873	regulation of glycogen metabolic process	IMP	ZFIN:ZDB-GENO-240606-2			20240606		NCBITaxon:7955
+TAIR	AGI_LocusCode:AT5G65590	SCAP1	PMID:23453954|TAIR:Publication:501754173		GO:1902066	regulation of cell wall pectin metabolic process	IMP		TAIR:locus:2155755		20130417		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G04920	SFR6	PMID:26655738|TAIR:Publication:501767528		GO:1902066	regulation of cell wall pectin metabolic process	IGI	AGI_LocusCode:AT5G60920	TAIR:locus:2135383		20160406		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G41800	TEB	PMID:27968989|TAIR:Publication:501773639		GO:1902066	regulation of cell wall pectin metabolic process	IMP		TAIR:locus:2054336		20161221		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G32700	LUH	PMID:28181322|TAIR:Publication:501774296		GO:1902066	regulation of cell wall pectin metabolic process	IMP		TAIR:locus:2046437		20171227		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G04960	PME46	PMID:28181322|TAIR:Publication:501774296		GO:1902066	regulation of cell wall pectin metabolic process	IMP		TAIR:locus:2175319		20171227		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT4G32460	BDX	PMID:25442819|TAIR:Publication:501762547		GO:1902066	regulation of cell wall pectin metabolic process	IMP		TAIR:locus:2127831		20230714		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT5G11420	AT5G11420	PMID:25442819|TAIR:Publication:501762547		GO:1902066	regulation of cell wall pectin metabolic process	IMP		TAIR:locus:2144206		20230714		NCBITaxon:3702
+CACAO	UniProtKB:Q7XX84	ETR2	PMID:19417056		GO:2000904	regulation of starch metabolic process	IMP			PANTHER:PTHR24423	20121031		NCBITaxon:39947
+TAIR	AGI_LocusCode:AT2G01940	SGR5	PMID:18259878|TAIR:Publication:501724184		GO:2000904	regulation of starch metabolic process	IMP		TAIR:locus:2041105		20110729		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G68130	IDD14	PMID:21556057|TAIR:Publication:501742809		GO:2000904	regulation of starch metabolic process	IMP		TAIR:gene:4010712085		20110803		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G68130	IDD14	PMID:21556057|TAIR:Publication:501742809		GO:2000904	regulation of starch metabolic process	IMP		TAIR:gene:2200195		20110803		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G40870	UK/UPRT1	PMID:21828290|TAIR:Publication:501744867		GO:2000904	regulation of starch metabolic process	IMP		TAIR:locus:2164516		20120719		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G27190	UKL2	PMID:21828290|TAIR:Publication:501744867		GO:2000904	regulation of starch metabolic process	IMP		TAIR:locus:2086523		20120719		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G42430	ESV1	PMID:27207856|TAIR:Publication:501770004		GO:2000904	regulation of starch metabolic process	IMP		TAIR:locus:2035898		20160613		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G15690	AVP1	PMID:29691313|TAIR:Publication:501779607		GO:2000904	regulation of starch metabolic process	IMP		TAIR:locus:2036134		20190912		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G01050	PPa1	PMID:29691313|TAIR:Publication:501779607		GO:2000904	regulation of starch metabolic process	IGI	AGI_LocusCode:AT1G15690	TAIR:locus:2200965		20190912		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G01050	PPa1	PMID:29691313|TAIR:Publication:501779607		GO:2000904	regulation of starch metabolic process	IMP		TAIR:locus:2200965		20190912		NCBITaxon:3702
+UniProt	UniProtKB:A0A1D6F7U7	SE1	PMID:31548423		GO:2000904	regulation of starch metabolic process	IMP			PANTHER:PTHR33155	20220630		NCBITaxon:4577
+UniProt	AGI_LocusCode:AT1G32070	NSI	PMID:33806011|TAIR:Publication:501793973		GO:2000904	regulation of starch metabolic process	IMP		TAIR:locus:2195361		20240419		NCBITaxon:3702
+UniProt	UniProtKB:A0A2R6W1B1	ESV1	PMID:34367195		GO:2000904	regulation of starch metabolic process	IMP			PANTHER:PTHR34113	20221102		NCBITaxon:3197
+UniProt	UniProtKB:Q8H8C6	ESV1	PMID:34367195		GO:2000904	regulation of starch metabolic process	IMP			PANTHER:PTHR34113	20221102		NCBITaxon:39947
+UniProt	AGI_LocusCode:AT1G42430	ESV1	PMID:34367195|TAIR:Publication:501795599		GO:2000904	regulation of starch metabolic process	IMP		TAIR:locus:2035898		20221122		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT3G55760	LESV	PMID:35665549|TAIR:Publication:501799313		GO:2000904	regulation of starch metabolic process	IDA		TAIR:locus:2079001		20221122		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT1G42430	ESV1	PMID:35665549|TAIR:Publication:501799313		GO:2000904	regulation of starch metabolic process	IDA		TAIR:locus:2035898		20221122		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G63470	NF-YC4	PMID:26554020|TAIR:Publication:501767189		GO:2000905	negative regulation of starch metabolic process	IMP		TAIR:locus:2167306		20160129		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G30720	QQS	PMID:26554020|TAIR:Publication:501767189		GO:2000905	negative regulation of starch metabolic process	IMP		TAIR:locus:2079466		20160127		NCBITaxon:3702
