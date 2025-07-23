@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	UniProtKB:Q86X55	CARM1	PMID:23980157		GO:0008469	histone arginine N-methyltransferase activity	IDA		UniProtKB:Q86X55	PANTHER:PTHR11006	20130915		NCBITaxon:9606
+CACAO	UniProtKB:Q96LA8	PRMT6	PMID:23980157		GO:0008469	histone arginine N-methyltransferase activity	IDA		UniProtKB:Q96LA8	PANTHER:PTHR11006	20130915		NCBITaxon:9606
+GO_Central	SGD:S000000337	HSL7	PMID:18515076		GO:0008469	histone arginine N-methyltransferase activity	IDA		UniProtKB:P38274	PANTHER:PTHR10738	20250411	SGD:S000000214|GO:0000785	NCBITaxon:559292
+GeneDB	TriTrypDB:Tb927.10.640	PRMT5	PMID:17601874		GO:0008469	histone arginine N-methyltransferase activity	IDA				20100521		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.5.3960	PRMT6	PMID:20418380		GO:0008469	histone arginine N-methyltransferase activity	IDA				20100521		NCBITaxon:185431
+WB	WB:WBGene00016408	prmt-5	PMID:25713080|WB_REF:WBPaper00046502		GO:0008469	histone arginine N-methyltransferase activity	IDA			PANTHER:PTHR10738	20210719		NCBITaxon:6239
