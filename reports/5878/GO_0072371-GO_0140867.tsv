@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPCC1322.12c	bub1	PMID:19965387		GO:0072371	histone H2AS121 kinase activity	IDA			PANTHER:PTHR14030	20180322	GO:0098764|PomBase:SPAC19G12.06c|GO:0045143	NCBITaxon:4896
+PomBase	PomBase:SPCC1322.12c	bub1	PMID:19965387		GO:0072371	histone H2AS121 kinase activity	IDA			PANTHER:PTHR14030	20211020	GO:0098764|PomBase:SPCC622.08c|GO:0045143	NCBITaxon:4896
