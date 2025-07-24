@@ -1,0 +1,12 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	MGI:MGI:99427	St3gal2	PMID:22735313		GO:0010706	ganglioside biosynthetic process via lactosylceramide	IMP			PANTHER:PTHR46032	20200904		NCBITaxon:10090
+UniProt	MGI:MGI:1316659	St3gal3	PMID:22735313		GO:0010706	ganglioside biosynthetic process via lactosylceramide	IMP			PANTHER:PTHR13713	20200904		NCBITaxon:10090
+UniProt	MGI:MGI:1928380	B4galt6	PMID:30114188		GO:0010706	ganglioside biosynthetic process via lactosylceramide	IMP			PANTHER:PTHR19300	20181118		NCBITaxon:10090
+UniProt	MGI:MGI:1927169	B4galt5	PMID:30114188		GO:0010706	ganglioside biosynthetic process via lactosylceramide	IMP			PANTHER:PTHR19300	20181118		NCBITaxon:10090
+UniProt	UniProtKB:Q11201	ST3GAL1	PMID:8027041		GO:0010706	ganglioside biosynthetic process via lactosylceramide	IDA		UniProtKB:Q11201	PANTHER:PTHR46032	20200911		NCBITaxon:9606
+UniProt	MGI:MGI:98304	St3gal1	PMID:8144500		GO:0010706	ganglioside biosynthetic process via lactosylceramide	IDA			PANTHER:PTHR46032	20200907		NCBITaxon:10090
+UniProt	MGI:MGI:99427	St3gal2	PMID:8144500		GO:0010706	ganglioside biosynthetic process via lactosylceramide	IDA			PANTHER:PTHR46032	20200904		NCBITaxon:10090
+UniProt	RGD:68413	St3gal2	PMID:8144500|RGD:68307		GO:0010706	ganglioside biosynthetic process via lactosylceramide	IDA			PANTHER:PTHR46032	20200904		NCBITaxon:10116
+UniProt	UniProtKB:Q16842	ST3GAL2	PMID:8920913		GO:0010706	ganglioside biosynthetic process via lactosylceramide	IDA		UniProtKB:Q16842	PANTHER:PTHR46032	20200904		NCBITaxon:9606
+UniProt	UniProtKB:Q16842	ST3GAL2	PMID:12716912		GO:0010707	globoside biosynthetic process via lactosylceramide	IDA		UniProtKB:Q16842	PANTHER:PTHR46032	20200911		NCBITaxon:9606
+CGD	CGD:CAL0000190688	LAC1	PMID:22211636|CGD_REF:CAL0000143845		GO:0046476	glycosylceramide biosynthetic process	IMP			PANTHER:PTHR12560	20140625		NCBITaxon:237561
