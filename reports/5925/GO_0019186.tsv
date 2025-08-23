@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	FB:FBgn0031791	AANATL2	PMID:24444601		GO:0019186	acyl-CoA N-acyltransferase activity	IDA			PANTHER:PTHR20905	20140619		NCBITaxon:7227
