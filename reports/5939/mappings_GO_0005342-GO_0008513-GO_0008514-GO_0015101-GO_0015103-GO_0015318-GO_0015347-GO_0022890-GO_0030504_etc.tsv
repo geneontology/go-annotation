@@ -1,0 +1,35 @@
+term	file	line
+GO:0008513	reactome2go	Reactome:R-HSA-549241 > GO:secondary active organic cation transmembrane transporter activity ; GO:0008513
+GO:0008514	reactome2go	Reactome:R-HSA-2142859 > GO:organic anion transmembrane transporter activity ; GO:0008514
+GO:0008514	reactome2go	Reactome:R-HSA-561041 > GO:organic anion transmembrane transporter activity ; GO:0008514
+GO:0008514	reactome2go	Reactome:R-HSA-9794830 > GO:organic anion transmembrane transporter activity ; GO:0008514
+GO:0008514	interpro2go	InterPro:IPR004679 2-hydroxycarboxylate transporter > GO:organic anion transmembrane transporter activity ; GO:0008514
+GO:0008514	interpro2go	InterPro:IPR046329 Solute carrier organic anion transporter family member 4A1-like > GO:organic anion transmembrane transporter activity ; GO:0008514
+GO:0015101	reactome2go	Reactome:R-HSA-2161500 > GO:organic cation transmembrane transporter activity ; GO:0015101
+GO:0015101	reactome2go	Reactome:R-HSA-549129 > GO:organic cation transmembrane transporter activity ; GO:0015101
+GO:0015101	reactome2go	Reactome:R-HSA-549279 > GO:organic cation transmembrane transporter activity ; GO:0015101
+GO:0015101	reactome2go	Reactome:R-HSA-549304 > GO:organic cation transmembrane transporter activity ; GO:0015101
+GO:0015101	reactome2go	Reactome:R-HSA-549322 > GO:organic cation transmembrane transporter activity ; GO:0015101
+GO:0015101	reactome2go	Reactome:R-HSA-561054 > GO:organic cation transmembrane transporter activity ; GO:0015101
+GO:0015101	reactome2go	Reactome:R-HSA-561072 > GO:organic cation transmembrane transporter activity ; GO:0015101
+GO:0015101	reactome2go	Reactome:R-HSA-9794270 > GO:organic cation transmembrane transporter activity ; GO:0015101
+GO:0015101	reactome2go	Reactome:R-HSA-9794523 > GO:organic cation transmembrane transporter activity ; GO:0015101
+GO:0015101	reactome2go	Reactome:R-HSA-9795207 > GO:organic cation transmembrane transporter activity ; GO:0015101
+GO:0015103	interpro2go	InterPro:IPR004706 Arsenical-resistance protein Acr3 > GO:inorganic anion transmembrane transporter activity ; GO:0015103
+GO:0015347	reactome2go	Reactome:R-HSA-561059 > GO:sodium-independent organic anion transmembrane transporter activity ; GO:0015347
+GO:0015347	reactome2go	Reactome:R-HSA-879562 > GO:sodium-independent organic anion transmembrane transporter activity ; GO:0015347
+GO:0015347	reactome2go	Reactome:R-HSA-879584 > GO:sodium-independent organic anion transmembrane transporter activity ; GO:0015347
+GO:0015347	reactome2go	Reactome:R-HSA-879594 > GO:sodium-independent organic anion transmembrane transporter activity ; GO:0015347
+GO:0015347	reactome2go	Reactome:R-HSA-9661397 > GO:sodium-independent organic anion transmembrane transporter activity ; GO:0015347
+GO:0015347	reactome2go	Reactome:R-HSA-9661446 > GO:sodium-independent organic anion transmembrane transporter activity ; GO:0015347
+GO:0015347	reactome2go	Reactome:R-HSA-9661723 > GO:sodium-independent organic anion transmembrane transporter activity ; GO:0015347
+GO:0015347	reactome2go	Reactome:R-HSA-9661799 > GO:sodium-independent organic anion transmembrane transporter activity ; GO:0015347
+GO:0015347	reactome2go	Reactome:R-HSA-9749583 > GO:sodium-independent organic anion transmembrane transporter activity ; GO:0015347
+GO:0015347	reactome2go	Reactome:R-HSA-9749607 > GO:sodium-independent organic anion transmembrane transporter activity ; GO:0015347
+GO:0015347	reactome2go	Reactome:R-HSA-9757010 > GO:sodium-independent organic anion transmembrane transporter activity ; GO:0015347
+GO:0022890	unirule2go	UniRule:UR001627763 > GO:inorganic cation transmembrane transporter activity ; GO:0022890
+GO:0030504	reactome2go	Reactome:R-HSA-5226964 > GO:inorganic diphosphate transmembrane transporter activity ; GO:0030504
+GO:0043225	reactome2go	Reactome:R-HSA-1454916 > GO:ATPase-coupled inorganic anion transmembrane transporter activity ; GO:0043225
+GO:0043225	reactome2go	Reactome:R-HSA-5690340 > GO:ATPase-coupled inorganic anion transmembrane transporter activity ; GO:0043225
+GO:0098662	interpro2go	InterPro:IPR005133 Na+/H+ antiporter subunit G > GO:inorganic cation transmembrane transport ; GO:0098662
+GO:0098662	interpro2go	InterPro:IPR005663 Monovalent cation proton antiporter subunit A > GO:inorganic cation transmembrane transport ; GO:0098662

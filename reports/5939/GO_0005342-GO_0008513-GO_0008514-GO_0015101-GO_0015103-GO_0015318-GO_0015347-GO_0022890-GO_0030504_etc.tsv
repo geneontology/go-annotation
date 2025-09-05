@@ -1,0 +1,313 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	UniProtKB:Q7RTT9	SLC29A4	PMID:26376205		GO:0005342	organic acid transmembrane transporter activity	IDA		UniProtKB:Q7RTT9	PANTHER:PTHR10332	20200422	GO:0009897|GO:0009898|CHEBI:88955	NCBITaxon:9606
+SGD	SGD:S000005979	PDR12	PMID:10419965		GO:0005342	organic acid transmembrane transporter activity	IDA			PANTHER:PTHR19241	20130807		NCBITaxon:559292
+SGD	SGD:S000000308	YMC2	PMID:16140254		GO:0005342	organic acid transmembrane transporter activity	IGI	SGD:S000005748		PANTHER:PTHR45624	20130807		NCBITaxon:559292
+SGD	SGD:S000000308	YMC2	PMID:16140254		GO:0005342	organic acid transmembrane transporter activity	IGI	SGD:S000006055		PANTHER:PTHR45624	20130807		NCBITaxon:559292
+SGD	SGD:S000006262	YMC1	PMID:16140254		GO:0005342	organic acid transmembrane transporter activity	IGI	SGD:S000005748		PANTHER:PTHR45624	20130807		NCBITaxon:559292
+SGD	SGD:S000006262	YMC1	PMID:16140254		GO:0005342	organic acid transmembrane transporter activity	IGI	SGD:S000006055		PANTHER:PTHR45624	20130807		NCBITaxon:559292
+SGD	SGD:S000001428	SOA1	PMID:28165463		GO:0005342	organic acid transmembrane transporter activity	IMP			PANTHER:PTHR43791	20170913		NCBITaxon:559292
+UniProt	UniProtKB:Q8YSQ6	all3028	PMID:20851902		GO:0005342	organic acid transmembrane transporter activity	IMP				20130821		NCBITaxon:103690
+Reactome	UniProtKB:Q9H015	SLC22A4	Reactome:R-HSA-549241		GO:0008513	secondary active organic cation transmembrane transporter activity	TAS		UniProtKB:Q9H015	PANTHER:PTHR24064	20200515		NCBITaxon:9606
+ARUK-UCL	UniProtKB:O94956	SLCO2B1	PMID:12724351		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:O94956	PANTHER:PTHR11388	20191202	CHEBI:17474	NCBITaxon:9606
+ARUK-UCL	RGD:631345	Abcg2	PMID:15773906		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR48041	20201124	CHEBI:50729|GO:1990962	NCBITaxon:10116
+ARUK-UCL	RGD:3695	Slc19a1	PMID:18762716		GO:0008514	organic anion transmembrane transporter activity	IMP			PANTHER:PTHR10686	20200421	CHEBI:25345|CL:0002585|GO:0009897|GO:0009898	NCBITaxon:10116
+ARUK-UCL	RGD:3701	Slc22a3	PMID:20924140		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24064	20200429	GO:0009897|GO:0009898|CHEBI:64703	NCBITaxon:10116
+ARUK-UCL	UniProtKB:O94956	SLCO2B1	PMID:22021325		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:O94956	PANTHER:PTHR11388	20191129		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-9078	catsper_mouse	PMID:34225353		GO:0008514	organic anion transmembrane transporter activity	NAS				20240827		NCBITaxon:10090
+ComplexPortal	ComplexPortal:CPX-9165	catsper_human	PMID:34225353		GO:0008514	organic anion transmembrane transporter activity	NAS				20240823		NCBITaxon:9606
+FlyBase	FB:FBgn0032123	Oatp30B	PMID:15347816		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR11388	20240402		NCBITaxon:7227
+FlyBase	FB:FBgn0034715	Oatp58Db	PMID:15347816		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR11388	20240402		NCBITaxon:7227
+FlyBase	FB:FBgn0032435	Oatp33Eb	PMID:15347816		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR11388	20240402		NCBITaxon:7227
+FlyBase	FB:FBgn0010549	l(2)03659	PMID:28176814		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24223	20170509		NCBITaxon:7227
+MGI	MGI:MGI:1351891	Slco1a1	PMID:10600646		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR11388	20020718		NCBITaxon:10090
+MGI	MGI:MGI:892001	Slc22a6	PMID:10751225		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24064	20000813		NCBITaxon:10090
+MGI	MGI:MGI:1859559	Slc22a7	PMID:10751225		GO:0008514	organic anion transmembrane transporter activity	TAS			PANTHER:PTHR24064	20020718		NCBITaxon:10090
+MGI	MGI:MGI:1336884	Slc22a18	PMID:10751225		GO:0008514	organic anion transmembrane transporter activity	TAS			PANTHER:PTHR24002	20000813		NCBITaxon:10090
+MGI	MGI:MGI:1859559	Slc22a7	PMID:12034823		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24064	20020904		NCBITaxon:10090
+MGI	MGI:MGI:1351896	Slco1a4	PMID:12101011		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR11388	20020830		NCBITaxon:10090
+MGI	RGD:69338	Slc22a6	PMID:15068970		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24064	20081007		NCBITaxon:10116
+MGI	MGI:MGI:2442751	Slc22a19	PMID:15068970		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24064	20081007		NCBITaxon:10090
+MGI	UniProtKB:Q4U2R8	SLC22A6	PMID:16024787		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q4U2R8	PANTHER:PTHR24064	20091111		NCBITaxon:9606
+MGI	UniProtKB:Q14728	MFSD10	PMID:18638446		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q14728	PANTHER:PTHR23504	20150819		NCBITaxon:9606
+PINC	UniProtKB:Q9NPD5	SLCO1B3	PMID:10779507		GO:0008514	organic anion transmembrane transporter activity	TAS		UniProtKB:Q9NPD5	PANTHER:PTHR11388	20030904		NCBITaxon:9606
+PINC	UniProtKB:Q92887	ABCC2	PMID:7559771		GO:0008514	organic anion transmembrane transporter activity	TAS		UniProtKB:Q92887	PANTHER:PTHR24223	20030904		NCBITaxon:9606
+PINC	UniProtKB:P46721	SLCO1A2	PMID:9007731		GO:0008514	organic anion transmembrane transporter activity	TAS		UniProtKB:P46721	PANTHER:PTHR11388	20030904		NCBITaxon:9606
+PINC	UniProtKB:O15440	ABCC5	PMID:9827529		GO:0008514	organic anion transmembrane transporter activity	TAS		UniProtKB:O15440	PANTHER:PTHR24223	20030904		NCBITaxon:9606
+RGD	RGD:69300	Slco1b2	PMID:10838093		GO:0008514	organic anion transmembrane transporter activity	TAS			PANTHER:PTHR11388	20050217		NCBITaxon:10116
+RGD	RGD:70985	Slco1a5	PMID:11867608		GO:0008514	organic anion transmembrane transporter activity	TAS			PANTHER:PTHR11388	20050217		NCBITaxon:10116
+RGD	RGD:3700	Slco1a1	PMID:11867608		GO:0008514	organic anion transmembrane transporter activity	TAS			PANTHER:PTHR11388	20050217		NCBITaxon:10116
+RGD	RGD:708431	Slco6c1	PMID:12677006		GO:0008514	organic anion transmembrane transporter activity	IMP			PANTHER:PTHR11388	20050217		NCBITaxon:10116
+RGD	RGD:632286	Slc22a8	PMID:12679720		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24064	20100406		NCBITaxon:10116
+RGD	RGD:70985	Slco1a5	PMID:12751626		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR11388	20090130		NCBITaxon:10116
+RGD	RGD:628885	Slc22a19	PMID:16079298		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24064	20100406		NCBITaxon:10116
+RGD	RGD:621699	Slc22a7	PMID:8056831		GO:0008514	organic anion transmembrane transporter activity	TAS			PANTHER:PTHR24064	20050217		NCBITaxon:10116
+RGD	RGD:2366	Abcc2	PMID:8599091		GO:0008514	organic anion transmembrane transporter activity	TAS			PANTHER:PTHR24223	20050217		NCBITaxon:10116
+RGD	RGD:621387	Slco1a8	PMID:8702823		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR11388	20050217		NCBITaxon:10116
+RGD	RGD:621389	Slco1a4	PMID:9294213		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR11388	20050217		NCBITaxon:10116
+RGD	RGD:621699	Slc22a7	PMID:9650585		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24064	20050217		NCBITaxon:10116
+Reactome	UniProtKB:O15440	ABCC5	Reactome:R-HSA-2142859		GO:0008514	organic anion transmembrane transporter activity	TAS		UniProtKB:O15440	PANTHER:PTHR24223	20200515		NCBITaxon:9606
+Reactome	UniProtKB:Q4U2R8	SLC22A6	Reactome:R-HSA-561041		GO:0008514	organic anion transmembrane transporter activity	TAS		UniProtKB:Q4U2R8	PANTHER:PTHR24064	20220816		NCBITaxon:9606
+Reactome	UniProtKB:Q8TCC7	SLC22A8	Reactome:R-HSA-561041		GO:0008514	organic anion transmembrane transporter activity	TAS		UniProtKB:Q8TCC7	PANTHER:PTHR24064	20220816		NCBITaxon:9606
+Reactome	UniProtKB:Q9Y694	SLC22A7	Reactome:R-HSA-561041		GO:0008514	organic anion transmembrane transporter activity	TAS		UniProtKB:Q9Y694	PANTHER:PTHR24064	20220816		NCBITaxon:9606
+Reactome	MGI:MGI:1336187	Slc22a8	Reactome:R-MMU-9794643		GO:0008514	organic anion transmembrane transporter activity	TAS			PANTHER:PTHR24064	20220719		NCBITaxon:10090
+SGD	SGD:S000001428	SOA1	PMID:28165463		GO:0008514	organic anion transmembrane transporter activity	IMP			PANTHER:PTHR43791	20170913		NCBITaxon:559292
+UniProt	UniProtKB:Q4U2R8	SLC22A6	PMID:10049739		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q4U2R8	PANTHER:PTHR24064	20120224		NCBITaxon:9606
+UniProt	UniProtKB:O94956	SLCO2B1	PMID:10873595		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:O94956	PANTHER:PTHR11388	20220712		NCBITaxon:9606
+UniProt	UniProtKB:P46721	SLCO1A2	PMID:10873595		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:P46721	PANTHER:PTHR11388	20220712		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y6L6	SLCO1B1	PMID:10873595		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q9Y6L6	PANTHER:PTHR11388	20220712		NCBITaxon:9606
+UniProt	UniProtKB:Q9UIG8	SLCO3A1	PMID:10873595		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q9UIG8	PANTHER:PTHR11388	20220712		NCBITaxon:9606
+UniProt	UniProtKB:Q96BD0	SLCO4A1	PMID:10873595		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q96BD0	PANTHER:PTHR11388	20220712		NCBITaxon:9606
+UniProt	RGD:621391	Slco2b1	PMID:10973807		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR11388	20220708		NCBITaxon:10116
+UniProt	UniProtKB:O94956	SLCO2B1	PMID:11159893		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:O94956	PANTHER:PTHR11388	20220708		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y694	SLC22A7	PMID:11327718		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q9Y694	PANTHER:PTHR24064	20230425		NCBITaxon:9606
+UniProt	RGD:621699	Slc22a7	PMID:11504818		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24064	20230425		NCBITaxon:10116
+UniProt	UniProtKB:O15244	SLC22A2	PMID:11907186		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:O15244	PANTHER:PTHR24064	20220713		NCBITaxon:9606
+UniProt	UniProtKB:Q4U2R8	SLC22A6	PMID:11907186		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q4U2R8	PANTHER:PTHR24064	20220712		NCBITaxon:9606
+UniProt	UniProtKB:Q8TCC7	SLC22A8	PMID:11907186		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q8TCC7	PANTHER:PTHR24064	20220712		NCBITaxon:9606
+UniProt	UniProtKB:O15245	SLC22A1	PMID:11907186		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:O15245	PANTHER:PTHR24064	20220712		NCBITaxon:9606
+UniProt	UniProtKB:Q9NSA0	SLC22A11	PMID:11907186		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q9NSA0	PANTHER:PTHR24064	20220712		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y694	SLC22A7	PMID:11907186		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q9Y694	PANTHER:PTHR24064	20220712		NCBITaxon:9606
+UniProt	UniProtKB:O94956	SLCO2B1	PMID:11932330		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:O94956	PANTHER:PTHR11388	20220708		NCBITaxon:9606
+UniProt	MGI:MGI:1859559	Slc22a7	PMID:12065749		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24064	20230425		NCBITaxon:10090
+UniProt	UniProtKB:O94956	SLCO2B1	PMID:12409283		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:O94956	PANTHER:PTHR11388	20220708		NCBITaxon:9606
+UniProt	UniProtKB:O94956	SLCO2B1	PMID:12724351		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:O94956	PANTHER:PTHR11388	20220708		NCBITaxon:9606
+UniProt	UniProtKB:O94956	SLCO2B1	PMID:14610227		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:O94956	PANTHER:PTHR11388	20220708		NCBITaxon:9606
+UniProt	RGD:632286	Slc22a8	PMID:14675047		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24064	20230405		NCBITaxon:10116
+UniProt	RGD:69338	Slc22a6	PMID:14675047		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24064	20230405		NCBITaxon:10116
+UniProt	UniProtKB:Q4U2R8	SLC22A6	PMID:14675047		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q4U2R8	PANTHER:PTHR24064	20230405		NCBITaxon:9606
+UniProt	UniProtKB:Q8TCC7	SLC22A8	PMID:14675047		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q8TCC7	PANTHER:PTHR24064	20230405		NCBITaxon:9606
+UniProt	UniProtKB:Q9NSA0	SLC22A11	PMID:15102942		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q9NSA0	PANTHER:PTHR24064	20080723		NCBITaxon:9606
+UniProt	UniProtKB:Q9NSA0	SLC22A11	PMID:15291761		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q9NSA0	PANTHER:PTHR24064	20080723		NCBITaxon:9606
+UniProt	MGI:MGI:2685809	Slc22a20	PMID:15369770		GO:0008514	organic anion transmembrane transporter activity	NAS			PANTHER:PTHR24064	20041116		NCBITaxon:10090
+UniProt	UniProtKB:Q96J66	ABCC11	PMID:15537867		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q96J66	PANTHER:PTHR24223	20130902		NCBITaxon:9606
+UniProt	UniProtKB:Q4W8A3	SLC22A6	PMID:15846473		GO:0008514	organic anion transmembrane transporter activity	IDA				20230405		NCBITaxon:9541
+UniProt	MGI:MGI:892001	Slc22a6	PMID:15944205		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24064	20230405		NCBITaxon:10090
+UniProt	MGI:MGI:1336187	Slc22a8	PMID:15944205		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24064	20230405		NCBITaxon:10090
+UniProt	UniProtKB:O94956	SLCO2B1	PMID:16908597		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:O94956	PANTHER:PTHR11388	20220708		NCBITaxon:9606
+UniProt	UniProtKB:Q8IVM8	SLC22A9	PMID:17393504		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q8IVM8	PANTHER:PTHR24064	20220524		NCBITaxon:9606
+UniProt	UniProtKB:O94956	SLCO2B1	PMID:18501590		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:O94956	PANTHER:PTHR11388	20080707		NCBITaxon:9606
+UniProt	UniProtKB:Q9NSA0	SLC22A11	PMID:18501590		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q9NSA0	PANTHER:PTHR24064	20080707		NCBITaxon:9606
+UniProt	RGD:70985	Slco1a5	PMID:19129463		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR11388	20220805		NCBITaxon:10116
+UniProt	RGD:69300	Slco1b2	PMID:19129463		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR11388	20220805		NCBITaxon:10116
+UniProt	RGD:621389	Slco1a4	PMID:19129463		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR11388	20220805		NCBITaxon:10116
+UniProt	RGD:3700	Slco1a1	PMID:19129463		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR11388	20220805		NCBITaxon:10116
+UniProt	UniProtKB:O94956	SLCO2B1	PMID:19129463		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:O94956	PANTHER:PTHR11388	20220805		NCBITaxon:9606
+UniProt	UniProtKB:Q6ZQN7	SLCO4C1	PMID:19129463		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q6ZQN7	PANTHER:PTHR11388	20220805		NCBITaxon:9606
+UniProt	UniProtKB:P46721	SLCO1A2	PMID:19129463		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:P46721	PANTHER:PTHR11388	20220805		NCBITaxon:9606
+UniProt	UniProtKB:Q9NYB5	SLCO1C1	PMID:19129463		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q9NYB5	PANTHER:PTHR11388	20220805		NCBITaxon:9606
+UniProt	UniProtKB:Q9NPD5	SLCO1B3	PMID:19129463		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q9NPD5	PANTHER:PTHR11388	20220805		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y6L6	SLCO1B1	PMID:19129463		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q9Y6L6	PANTHER:PTHR11388	20220805		NCBITaxon:9606
+UniProt	UniProtKB:Q9UIG8	SLCO3A1	PMID:19129463		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q9UIG8	PANTHER:PTHR11388	20220805		NCBITaxon:9606
+UniProt	UniProtKB:Q96BD0	SLCO4A1	PMID:19129463		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q96BD0	PANTHER:PTHR11388	20220805		NCBITaxon:9606
+UniProt	UniProtKB:O00476	SLC17A3	PMID:20810651		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:O00476	PANTHER:PTHR11662	20101203		NCBITaxon:9606
+UniProt	RGD:621699	Slc22a7	PMID:21446918		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24064	20230425		NCBITaxon:10116
+UniProt	UniProtKB:Q9Y694	SLC22A7	PMID:21446918		GO:0008514	organic anion transmembrane transporter activity	IMP		UniProtKB:Q9Y694	PANTHER:PTHR24064	20230425		NCBITaxon:9606
+UniProt	UniProtKB:Q4U2R8	SLC22A6	PMID:22108572		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q4U2R8	PANTHER:PTHR24064	20230405		NCBITaxon:9606
+UniProt	UniProtKB:Q8TCC7	SLC22A8	PMID:22108572		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q8TCC7	PANTHER:PTHR24064	20230405		NCBITaxon:9606
+UniProt	MGI:MGI:892001	Slc22a6	PMID:22169006		GO:0008514	organic anion transmembrane transporter activity	IMP			PANTHER:PTHR24064	20120229	UBERON:0004134	NCBITaxon:10090
+UniProt	UniProtKB:Q4U2R8	SLC22A6	PMID:22169006		GO:0008514	organic anion transmembrane transporter activity	IMP		UniProtKB:Q4U2R8	PANTHER:PTHR24064	20120229	UBERON:0004134	NCBITaxon:9606
+UniProt	UniProtKB:O94956	SLCO2B1	PMID:22201122		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:O94956	PANTHER:PTHR11388	20220708		NCBITaxon:9606
+UniProt	RGD:632286	Slc22a8	PMID:23832370		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24064	20230405		NCBITaxon:10116
+UniProt	RGD:69338	Slc22a6	PMID:23832370		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24064	20230405		NCBITaxon:10116
+UniProt	UniProtKB:Q4U2R8	SLC22A6	PMID:23832370		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q4U2R8	PANTHER:PTHR24064	20230405		NCBITaxon:9606
+UniProt	UniProtKB:Q8TCC7	SLC22A8	PMID:23832370		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q8TCC7	PANTHER:PTHR24064	20230405		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y694	SLC22A7	PMID:25904762		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q9Y694	PANTHER:PTHR24064	20230425		NCBITaxon:9606
+UniProt	UniProtKB:Q4U2R8	SLC22A6	PMID:26377792		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q4U2R8	PANTHER:PTHR24064	20230425		NCBITaxon:9606
+UniProt	UniProtKB:Q8TCC7	SLC22A8	PMID:26377792		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q8TCC7	PANTHER:PTHR24064	20230425		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y694	SLC22A7	PMID:26377792		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q9Y694	PANTHER:PTHR24064	20230425		NCBITaxon:9606
+UniProt	UniProtKB:O94956	SLCO2B1	PMID:26383540		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:O94956	PANTHER:PTHR11388	20220708		NCBITaxon:9606
+UniProt	UniProtKB:Q9NPD5	SLCO1B3	PMID:26383540		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q9NPD5	PANTHER:PTHR11388	20220712		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y6L6	SLCO1B1	PMID:26383540		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q9Y6L6	PANTHER:PTHR11388	20220712		NCBITaxon:9606
+UniProt	UniProtKB:O94956	SLCO2B1	PMID:27576593		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:O94956	PANTHER:PTHR11388	20220708		NCBITaxon:9606
+UniProt	UniProtKB:Q4U2R8	SLC22A6	PMID:28534121		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q4U2R8	PANTHER:PTHR24064	20230405		NCBITaxon:9606
+UniProt	UniProtKB:Q8TCC7	SLC22A8	PMID:28534121		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q8TCC7	PANTHER:PTHR24064	20230405		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y694	SLC22A7	PMID:28945155		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q9Y694	PANTHER:PTHR24064	20230425		NCBITaxon:9606
+UniProt	UniProtKB:O94956	SLCO2B1	PMID:29871943		GO:0008514	organic anion transmembrane transporter activity	IMP		UniProtKB:O94956	PANTHER:PTHR11388	20220708		NCBITaxon:9606
+UniProt	MGI:MGI:1351872	Slco2b1	PMID:31123035		GO:0008514	organic anion transmembrane transporter activity	IMP			PANTHER:PTHR11388	20220708		NCBITaxon:10090
+UniProt	UniProtKB:O94956	SLCO2B1	PMID:34628357		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:O94956	PANTHER:PTHR11388	20220708		NCBITaxon:9606
+UniProt	RGD:69338	Slc22a6	PMID:9228014		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24064	20230405		NCBITaxon:10116
+UniProt	RGD:621699	Slc22a7	PMID:9650585		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24064	20230425		NCBITaxon:10116
+UniProt	UniProtKB:Q4U2R8	SLC22A6	PMID:9950961		GO:0008514	organic anion transmembrane transporter activity	IDA		UniProtKB:Q4U2R8	PANTHER:PTHR24064	20120223		NCBITaxon:9606
+WB	UniProtKB:A0A089G2A6	slcold1	PMID:25218291		GO:0008514	organic anion transmembrane transporter activity	IDA				20220311	CHEBI:6925	NCBITaxon:8022
+WB	UniProtKB:A0A060XXK3	slco1d1	PMID:25218291		GO:0008514	organic anion transmembrane transporter activity	IDA				20220311	CHEBI:6925	NCBITaxon:8022
+ZFIN	ZFIN:ZDB-GENE-030131-5044	slco1d1	PMID:24126916		GO:0008514	organic anion transmembrane transporter activity	IDA				20140207		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-070115-1	oatx	PMID:31255699		GO:0008514	organic anion transmembrane transporter activity	IDA				20200312		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-040426-2249	slc22a6l	PMID:31255699		GO:0008514	organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24064	20200312		NCBITaxon:7955
+ARUK-UCL	RGD:61936	Slc22a2	PMID:20924140		GO:0015101	organic cation transmembrane transporter activity	IDA			PANTHER:PTHR24064	20240117	GO:0009897|GO:0009898|CHEBI:641|GO:1990748	NCBITaxon:10116
+ARUK-UCL	UniProtKB:O15244	SLC22A2	PMID:22806583		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:O15244	PANTHER:PTHR24064	20240117	GO:0009897|GO:0009898|CHEBI:641|GO:1990748	NCBITaxon:9606
+ARUK-UCL	UniProtKB:O15245	SLC22A1	PMID:22806583		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:O15245	PANTHER:PTHR24064	20240117	GO:0009897|GO:0009898|CHEBI:641|GO:1990748	NCBITaxon:9606
+ARUK-UCL	UniProtKB:O75751	SLC22A3	PMID:22806583		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:O75751	PANTHER:PTHR24064	20240117	GO:0009897|GO:0009898|CHEBI:641|GO:1990748	NCBITaxon:9606
+ARUK-UCL	UniProtKB:O15244	SLC22A2	PMID:23864433		GO:0015101	organic cation transmembrane transporter activity	IMP		UniProtKB:O15244	PANTHER:PTHR24064	20200529	CHEBI:641|GO:0009897|GO:0009898	NCBITaxon:9606
+ARUK-UCL	UniProtKB:O15244	SLC22A2	PMID:24291757		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:O15244	PANTHER:PTHR24064	20240117	GO:0009897|GO:0009898|CHEBI:641|GO:1990748|GO:0042908	NCBITaxon:9606
+ARUK-UCL	UniProtKB:O15245	SLC22A1	PMID:24291757		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:O15245	PANTHER:PTHR24064	20240117	GO:0009897|GO:0009898|CHEBI:641|GO:1990748|GO:0042908	NCBITaxon:9606
+ARUK-UCL	UniProtKB:O75751	SLC22A3	PMID:24291757		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:O75751	PANTHER:PTHR24064	20240117	GO:0009897|GO:0009898|CHEBI:641|GO:1990748|GO:0042908	NCBITaxon:9606
+ARUK-UCL	UniProtKB:Q7RTT9	SLC29A4	PMID:26376205		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:Q7RTT9	PANTHER:PTHR10332	20200604	GO:0009897|GO:0009898|CHEBI:641	NCBITaxon:9606
+ARUK-UCL	UniProtKB:O15244	SLC22A2	PMID:9687576		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:O15244	PANTHER:PTHR24064	20240117	GO:0009898|GO:0009897|CHEBI:641|GO:0042908|GO:1990748|GO:0009897|GO:0009898|CHEBI:641|GO:1990748|GO:0042908	NCBITaxon:9606
+MGI	UniProtKB:O75751	SLC22A3	PMID:10966924		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:O75751	PANTHER:PTHR24064	20071224		NCBITaxon:9606
+MGI	MGI:MGI:1333817	Slc22a3	PMID:10966924		GO:0015101	organic cation transmembrane transporter activity	IDA			PANTHER:PTHR24064	20071224		NCBITaxon:10090
+MGI	MGI:MGI:1335072	Slc22a2	PMID:12176030		GO:0015101	organic cation transmembrane transporter activity	IDA			PANTHER:PTHR24064	20021217		NCBITaxon:10090
+MGI	MGI:MGI:108111	Slc22a1	PMID:12176030		GO:0015101	organic cation transmembrane transporter activity	IDA			PANTHER:PTHR24064	20110307		NCBITaxon:10090
+MGI	UniProtKB:Q86VW1	SLC22A16	PMID:15963465		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:Q86VW1	PANTHER:PTHR24064	20091020		NCBITaxon:9606
+MGI	UniProtKB:O15244	SLC22A2	PMID:16024787		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:O15244	PANTHER:PTHR24064	20051223		NCBITaxon:9606
+MGI	UniProtKB:O75751	SLC22A3	PMID:16024787		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:O75751	PANTHER:PTHR24064	20051223		NCBITaxon:9606
+PINC	UniProtKB:O15244	SLC22A2	PMID:9260930		GO:0015101	organic cation transmembrane transporter activity	TAS		UniProtKB:O15244	PANTHER:PTHR24064	20030904		NCBITaxon:9606
+PINC	UniProtKB:O75751	SLC22A3	PMID:9933568		GO:0015101	organic cation transmembrane transporter activity	TAS		UniProtKB:O75751	PANTHER:PTHR24064	20030904		NCBITaxon:9606
+RGD	RGD:621149	Slc22a4	PMID:10825452		GO:0015101	organic cation transmembrane transporter activity	IDA			PANTHER:PTHR24064	20050217		NCBITaxon:10116
+RGD	RGD:61936	Slc22a2	PMID:18361503		GO:0015101	organic cation transmembrane transporter activity	IDA			PANTHER:PTHR24064	20130520		NCBITaxon:10116
+RGD	RGD:3224	Slc22a1	PMID:18361503		GO:0015101	organic cation transmembrane transporter activity	IDA			PANTHER:PTHR24064	20130520		NCBITaxon:10116
+RGD	RGD:3224	Slc22a1	PMID:7990927		GO:0015101	organic cation transmembrane transporter activity	IDA			PANTHER:PTHR24064	20050217		NCBITaxon:10116
+RGD	RGD:3701	Slc22a3	PMID:9632645		GO:0015101	organic cation transmembrane transporter activity	IDA			PANTHER:PTHR24064	20050217		NCBITaxon:10116
+Reactome	UniProtKB:O15244	SLC22A2	PMID:19141712		GO:0015101	organic cation transmembrane transporter activity	EXP		UniProtKB:O15244	PANTHER:PTHR24064	20200515		NCBITaxon:9606
+Reactome	UniProtKB:O15245	SLC22A1	PMID:19141712		GO:0015101	organic cation transmembrane transporter activity	EXP		UniProtKB:O15245	PANTHER:PTHR24064	20200515		NCBITaxon:9606
+Reactome	UniProtKB:O75751	SLC22A3	PMID:19141712		GO:0015101	organic cation transmembrane transporter activity	EXP		UniProtKB:O75751	PANTHER:PTHR24064	20200515		NCBITaxon:9606
+Reactome	UniProtKB:O15245	SLC22A1	Reactome:R-HSA-549129		GO:0015101	organic cation transmembrane transporter activity	TAS		UniProtKB:O15245	PANTHER:PTHR24064	20200515		NCBITaxon:9606
+Reactome	UniProtKB:O15244	SLC22A2	Reactome:R-HSA-549279		GO:0015101	organic cation transmembrane transporter activity	TAS		UniProtKB:O15244	PANTHER:PTHR24064	20200515		NCBITaxon:9606
+Reactome	UniProtKB:O75751	SLC22A3	Reactome:R-HSA-549304		GO:0015101	organic cation transmembrane transporter activity	TAS		UniProtKB:O75751	PANTHER:PTHR24064	20200515		NCBITaxon:9606
+Reactome	UniProtKB:O15245	SLC22A1	Reactome:R-HSA-549322		GO:0015101	organic cation transmembrane transporter activity	TAS		UniProtKB:O15245	PANTHER:PTHR24064	20200515		NCBITaxon:9606
+Reactome	UniProtKB:O15244	SLC22A2	Reactome:R-HSA-561054		GO:0015101	organic cation transmembrane transporter activity	TAS		UniProtKB:O15244	PANTHER:PTHR24064	20200515		NCBITaxon:9606
+Reactome	UniProtKB:O75751	SLC22A3	Reactome:R-HSA-561072		GO:0015101	organic cation transmembrane transporter activity	TAS		UniProtKB:O75751	PANTHER:PTHR24064	20200515		NCBITaxon:9606
+Reactome	UniProtKB:P46721	SLCO1A2	Reactome:R-HSA-9794270		GO:0015101	organic cation transmembrane transporter activity	TAS		UniProtKB:P46721	PANTHER:PTHR11388	20220707		NCBITaxon:9606
+Reactome	UniProtKB:O15245	SLC22A1	Reactome:R-HSA-9794523		GO:0015101	organic cation transmembrane transporter activity	TAS		UniProtKB:O15245	PANTHER:PTHR24064	20220713		NCBITaxon:9606
+Reactome	UniProtKB:O15245	SLC22A1	Reactome:R-HSA-9795207		GO:0015101	organic cation transmembrane transporter activity	TAS		UniProtKB:O15245	PANTHER:PTHR24064	20220713		NCBITaxon:9606
+UniProt	WB:WBGene00003842	oct-1	PMID:10209228		GO:0015101	organic cation transmembrane transporter activity	IMP			PANTHER:PTHR24064	20040729		NCBITaxon:6239
+UniProt	RGD:3224	Slc22a1	PMID:10570053		GO:0015101	organic cation transmembrane transporter activity	IDA			PANTHER:PTHR24064	20221004		NCBITaxon:10116
+UniProt	RGD:61936	Slc22a2	PMID:10889205		GO:0015101	organic cation transmembrane transporter activity	IDA			PANTHER:PTHR24064	20221122		NCBITaxon:10116
+UniProt	RGD:3224	Slc22a1	PMID:11502595		GO:0015101	organic cation transmembrane transporter activity	IDA			PANTHER:PTHR24064	20221004		NCBITaxon:10116
+UniProt	RGD:61936	Slc22a2	PMID:11758759		GO:0015101	organic cation transmembrane transporter activity	IDA			PANTHER:PTHR24064	20221121		NCBITaxon:10116
+UniProt	UniProtKB:Q86VW1	SLC22A16	PMID:12089149		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:Q86VW1	PANTHER:PTHR24064	20230427		NCBITaxon:9606
+UniProt	UniProtKB:O15244	SLC22A2	PMID:12089365		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:O15244	PANTHER:PTHR24064	20221121		NCBITaxon:9606
+UniProt	UniProtKB:Q9UHI5	SLC7A8	PMID:12117417		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:Q9UHI5	PANTHER:PTHR11785	20090612		NCBITaxon:9606
+UniProt	RGD:61936	Slc22a2	PMID:12538837		GO:0015101	organic cation transmembrane transporter activity	IDA			PANTHER:PTHR24064	20221121		NCBITaxon:10116
+UniProt	UniProtKB:O15244	SLC22A2	PMID:12538837		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:O15244	PANTHER:PTHR24064	20221121		NCBITaxon:9606
+UniProt	UniProtKB:Q7RTT9	SLC29A4	PMID:16099839		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:Q7RTT9	PANTHER:PTHR10332	20230125		NCBITaxon:9606
+UniProt	UniProtKB:Q96FL8	SLC47A1	PMID:16330770		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:Q96FL8	PANTHER:PTHR11206	20220802		NCBITaxon:9606
+UniProt	UniProtKB:Q86VL8	SLC47A2	PMID:16807400		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:Q86VL8	PANTHER:PTHR11206	20220719		NCBITaxon:9606
+UniProt	UniProtKB:A7KAU3	SLC47A2	PMID:17442726		GO:0015101	organic cation transmembrane transporter activity	IDA				20220719		NCBITaxon:9986
+UniProt	UniProtKB:A7KAU2	SLC47A1	PMID:17442726		GO:0015101	organic cation transmembrane transporter activity	IDA				20220802		NCBITaxon:9986
+UniProt	UniProtKB:O15244	SLC22A2	PMID:17460754		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:O15244	PANTHER:PTHR24064	20221122		NCBITaxon:9606
+UniProt	UniProtKB:O15245	SLC22A1	PMID:17460754		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:O15245	PANTHER:PTHR24064	20221122		NCBITaxon:9606
+UniProt	UniProtKB:O75751	SLC22A3	PMID:17460754		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:O75751	PANTHER:PTHR24064	20221122		NCBITaxon:9606
+UniProt	UniProtKB:Q96FL8	SLC47A1	PMID:17509534		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:Q96FL8	PANTHER:PTHR11206	20220802		NCBITaxon:9606
+UniProt	MGI:MGI:3588190	Slc47a2	PMID:17715386		GO:0015101	organic cation transmembrane transporter activity	IDA			PANTHER:PTHR11206	20220719		NCBITaxon:10090
+UniProt	UniProtKB:Q9BZD2	SLC29A3	PMID:19164483		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:Q9BZD2	PANTHER:PTHR10332	20230223		NCBITaxon:9606
+UniProt	UniProtKB:Q86VW1	SLC22A16	PMID:20037140		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:Q86VW1	PANTHER:PTHR24064	20230427		NCBITaxon:9606
+UniProt	UniProtKB:O15244	SLC22A2	PMID:21128598		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:O15244	PANTHER:PTHR24064	20221005		NCBITaxon:9606
+UniProt	UniProtKB:Q96FL8	SLC47A1	PMID:21128598		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:Q96FL8	PANTHER:PTHR11206	20221005		NCBITaxon:9606
+UniProt	RGD:3224	Slc22a1	PMID:8955087		GO:0015101	organic cation transmembrane transporter activity	IDA			PANTHER:PTHR24064	20221004		NCBITaxon:10116
+UniProt	UniProtKB:O15245	SLC22A1	PMID:9187257		GO:0015101	organic cation transmembrane transporter activity	TAS		UniProtKB:O15245	PANTHER:PTHR24064	20080606		NCBITaxon:9606
+UniProt	UniProtKB:O15244	SLC22A2	PMID:9260930		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:O15244	PANTHER:PTHR24064	20221122		NCBITaxon:9606
+UniProt	UniProtKB:O15245	SLC22A1	PMID:9260930		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:O15245	PANTHER:PTHR24064	20221004		NCBITaxon:9606
+UniProt	UniProtKB:O15244	SLC22A2	PMID:9687576		GO:0015101	organic cation transmembrane transporter activity	IDA		UniProtKB:O15244	PANTHER:PTHR24064	20221122		NCBITaxon:9606
+PINC	UniProtKB:Q9Y6L6	SLCO1B1	PMID:10358072		GO:0015347	sodium-independent organic anion transmembrane transporter activity	TAS		UniProtKB:Q9Y6L6	PANTHER:PTHR11388	20030904		NCBITaxon:9606
+PINC	UniProtKB:Q9Y694	SLC22A7	PMID:9650585		GO:0015347	sodium-independent organic anion transmembrane transporter activity	TAS		UniProtKB:Q9Y694	PANTHER:PTHR24064	20030904		NCBITaxon:9606
+RGD	RGD:621391	Slco2b1	PMID:15345472		GO:0015347	sodium-independent organic anion transmembrane transporter activity	IDA			PANTHER:PTHR11388	20100309		NCBITaxon:10116
+RGD	RGD:69338	Slc22a6	PMID:9228014		GO:0015347	sodium-independent organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24064	20050630		NCBITaxon:10116
+Reactome	UniProtKB:Q9NSA0	SLC22A11	Reactome:R-HSA-561059		GO:0015347	sodium-independent organic anion transmembrane transporter activity	TAS		UniProtKB:Q9NSA0	PANTHER:PTHR24064	20200515		NCBITaxon:9606
+Reactome	UniProtKB:Q9Y694	SLC22A7	Reactome:R-HSA-561059		GO:0015347	sodium-independent organic anion transmembrane transporter activity	TAS		UniProtKB:Q9Y694	PANTHER:PTHR24064	20200515		NCBITaxon:9606
+Reactome	UniProtKB:O94956	SLCO2B1	Reactome:R-HSA-879562		GO:0015347	sodium-independent organic anion transmembrane transporter activity	TAS		UniProtKB:O94956	PANTHER:PTHR11388	20200515		NCBITaxon:9606
+Reactome	UniProtKB:Q9UIG8	SLCO3A1	Reactome:R-HSA-879584		GO:0015347	sodium-independent organic anion transmembrane transporter activity	TAS		UniProtKB:Q9UIG8	PANTHER:PTHR11388	20200515		NCBITaxon:9606
+Reactome	UniProtKB:Q6ZQN7	SLCO4C1	Reactome:R-HSA-879594		GO:0015347	sodium-independent organic anion transmembrane transporter activity	TAS		UniProtKB:Q6ZQN7	PANTHER:PTHR11388	20200515		NCBITaxon:9606
+Reactome	UniProtKB:Q9Y6L6	SLCO1B1	Reactome:R-HSA-9661397		GO:0015347	sodium-independent organic anion transmembrane transporter activity	TAS		UniProtKB:Q9Y6L6	PANTHER:PTHR11388	20200515		NCBITaxon:9606
+Reactome	UniProtKB:O94956	SLCO2B1	Reactome:R-HSA-9661723		GO:0015347	sodium-independent organic anion transmembrane transporter activity	TAS		UniProtKB:O94956	PANTHER:PTHR11388	20200515		NCBITaxon:9606
+Reactome	UniProtKB:Q9NPD5	SLCO1B3	Reactome:R-HSA-9661799		GO:0015347	sodium-independent organic anion transmembrane transporter activity	TAS		UniProtKB:Q9NPD5	PANTHER:PTHR11388	20200515		NCBITaxon:9606
+Reactome	UniProtKB:Q9Y694	SLC22A7	Reactome:R-HSA-9749583		GO:0015347	sodium-independent organic anion transmembrane transporter activity	TAS		UniProtKB:Q9Y694	PANTHER:PTHR24064	20210804		NCBITaxon:9606
+Reactome	UniProtKB:O94956	SLCO2B1	Reactome:R-HSA-9749607		GO:0015347	sodium-independent organic anion transmembrane transporter activity	TAS		UniProtKB:O94956	PANTHER:PTHR11388	20210804		NCBITaxon:9606
+Reactome	UniProtKB:O94956	SLCO2B1	Reactome:R-HSA-9757010		GO:0015347	sodium-independent organic anion transmembrane transporter activity	TAS		UniProtKB:O94956	PANTHER:PTHR11388	20211022		NCBITaxon:9606
+Reactome	UniProtKB:Q9NPD5	SLCO1B3	Reactome:R-HSA-9757010		GO:0015347	sodium-independent organic anion transmembrane transporter activity	TAS		UniProtKB:Q9NPD5	PANTHER:PTHR11388	20211022		NCBITaxon:9606
+Reactome	UniProtKB:Q9Y6L6	SLCO1B1	Reactome:R-HSA-9757010		GO:0015347	sodium-independent organic anion transmembrane transporter activity	TAS		UniProtKB:Q9Y6L6	PANTHER:PTHR11388	20211022		NCBITaxon:9606
+UniProt	UniProtKB:Q9NSA0	SLC22A11	PMID:10660625		GO:0015347	sodium-independent organic anion transmembrane transporter activity	IDA		UniProtKB:Q9NSA0	PANTHER:PTHR24064	20080707		NCBITaxon:9606
+UniProt	RGD:621699	Slc22a7	PMID:11504818		GO:0015347	sodium-independent organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24064	20230425		NCBITaxon:10116
+UniProt	UniProtKB:Q4W8A3	SLC22A6	PMID:15846473		GO:0015347	sodium-independent organic anion transmembrane transporter activity	IDA				20230405		NCBITaxon:9541
+UniProt	RGD:621699	Slc22a7	PMID:15900017		GO:0015347	sodium-independent organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24064	20230425		NCBITaxon:10116
+UniProt	UniProtKB:Q8IVM8	SLC22A9	PMID:17393504		GO:0015347	sodium-independent organic anion transmembrane transporter activity	IDA		UniProtKB:Q8IVM8	PANTHER:PTHR24064	20140711		NCBITaxon:9606
+UniProt	UniProtKB:O94956	SLCO2B1	PMID:18501590		GO:0015347	sodium-independent organic anion transmembrane transporter activity	IDA		UniProtKB:O94956	PANTHER:PTHR11388	20080707		NCBITaxon:9606
+UniProt	RGD:621699	Slc22a7	PMID:9650585		GO:0015347	sodium-independent organic anion transmembrane transporter activity	IDA			PANTHER:PTHR24064	20230425		NCBITaxon:10116
+UniProt	UniProtKB:Q4U2R8	SLC22A6	PMID:9887087		GO:0015347	sodium-independent organic anion transmembrane transporter activity	IDA		UniProtKB:Q4U2R8-1	PANTHER:PTHR24064	20120223		NCBITaxon:9606
+UniProt	UniProtKB:Q4U2R8	SLC22A6	PMID:9887087		GO:0015347	sodium-independent organic anion transmembrane transporter activity	IDA		UniProtKB:Q4U2R8-2	PANTHER:PTHR24064	20120223		NCBITaxon:9606
+CGD	CGD:CAL0000197900	CNH1	PMID:11932466|CGD_REF:CAL0081048		GO:0022890	inorganic cation transmembrane transporter activity	IDA			PANTHER:PTHR32507	20140625		NCBITaxon:237561
+FlyBase	FB:FBgn0265194	Trpm	PMID:20889130		GO:0022890	inorganic cation transmembrane transporter activity	IDA			PANTHER:PTHR13800	20180221		NCBITaxon:7227
+MGI	RGD:71062	Asic1	PMID:11448963		GO:0022890	inorganic cation transmembrane transporter activity	IDA			PANTHER:PTHR11690	20191112		NCBITaxon:10116
+MGI	MGI:MGI:2442940	Slc41a2	PMID:15809054		GO:0022890	inorganic cation transmembrane transporter activity	IDA			PANTHER:PTHR16228	20160309		NCBITaxon:10090
+MGI	MGI:MGI:2384305	Mmgt1	PMID:18057121		GO:0022890	inorganic cation transmembrane transporter activity	IDA			PANTHER:PTHR21181	20090116		NCBITaxon:10090
+MGI	MGI:MGI:2448491	Mmgt2	PMID:18057121		GO:0022890	inorganic cation transmembrane transporter activity	IDA			PANTHER:PTHR21181	20090116		NCBITaxon:10090
+PINC	UniProtKB:Q9UN42	ATP1B4	PMID:10456317		GO:0022890	inorganic cation transmembrane transporter activity	TAS		UniProtKB:Q9UN42	PANTHER:PTHR11523	20030904		NCBITaxon:9606
+PINC	UniProtKB:Q9NY26	SLC39A1	PMID:10610721		GO:0022890	inorganic cation transmembrane transporter activity	TAS		UniProtKB:Q9NY26	PANTHER:PTHR11040	20050308		NCBITaxon:9606
+ParkinsonsUK-UCL	MGI:MGI:2444823	Slc41a1	PMID:15713785		GO:0022890	inorganic cation transmembrane transporter activity	IDA			PANTHER:PTHR16228	20160419		NCBITaxon:10090
+SGD	SGD:S000001092	SMF2	PMID:10574989		GO:0022890	inorganic cation transmembrane transporter activity	IDA			PANTHER:PTHR11706	20130807		NCBITaxon:559292
+SGD	SGD:S000005482	SMF1	PMID:10574989		GO:0022890	inorganic cation transmembrane transporter activity	IDA			PANTHER:PTHR11706	20130807		NCBITaxon:559292
+SGD	SGD:S000005338	HOL1	PMID:8955402		GO:0022890	inorganic cation transmembrane transporter activity	IMP			PANTHER:PTHR23502	20130807		NCBITaxon:559292
+SGD	SGD:S000001844	ALR2	PMID:9430719		GO:0022890	inorganic cation transmembrane transporter activity	IMP			PANTHER:PTHR21535	20130807		NCBITaxon:559292
+SGD	SGD:S000005490	ALR1	PMID:9430719		GO:0022890	inorganic cation transmembrane transporter activity	IMP			PANTHER:PTHR21535	20130807		NCBITaxon:559292
+UniProt	UniProtKB:P49281	SLC11A2	PMID:12475959		GO:0022890	inorganic cation transmembrane transporter activity	IGI	UniProtKB:Q10177	UniProtKB:P49281-1	PANTHER:PTHR11706	20090722		NCBITaxon:9606
+UniProt	UniProtKB:P49281	SLC11A2	PMID:12475959		GO:0022890	inorganic cation transmembrane transporter activity	IGI	UniProtKB:Q10177	UniProtKB:P49281-2	PANTHER:PTHR11706	20090722		NCBITaxon:9606
+Reactome	UniProtKB:Q9HCJ1	ANKH	Reactome:R-HSA-5226964		GO:0030504	inorganic diphosphate transmembrane transporter activity	TAS		UniProtKB:Q9HCJ1	PANTHER:PTHR28384	20200515		NCBITaxon:9606
+TAIR	AGI_LocusCode:AT2G29650	PHT4;1	PMID:18353780|TAIR:Publication:501724310		GO:0030504	inorganic diphosphate transmembrane transporter activity	IGI		TAIR:locus:2060694		20080422		NCBITaxon:3702
+UniProt	MGI:MGI:3045421	Ank	PMID:10894769		GO:0030504	inorganic diphosphate transmembrane transporter activity	IDA			PANTHER:PTHR28384	20020111		NCBITaxon:10090
+UniProt	UniProtKB:Q9HCJ1	ANKH	PMID:11326272		GO:0030504	inorganic diphosphate transmembrane transporter activity	IDA		UniProtKB:Q9HCJ1	PANTHER:PTHR28384	20020111		NCBITaxon:9606
+UniProt	RGD:620268	Abcc6	PMID:28111129		GO:0030504	inorganic diphosphate transmembrane transporter activity	IDA			PANTHER:PTHR24223	20201126		NCBITaxon:10116
+FlyBase	FB:FBgn0032456	MRP	PMID:15373810		GO:0043225	ATPase-coupled inorganic anion transmembrane transporter activity	IDA			PANTHER:PTHR24223	20171124		NCBITaxon:7227
+Reactome	UniProtKB:P33527	ABCC1	Reactome:R-HSA-1454916		GO:0043225	ATPase-coupled inorganic anion transmembrane transporter activity	TAS		UniProtKB:P33527	PANTHER:PTHR24223	20200515		NCBITaxon:9606
+Reactome	UniProtKB:Q5T3U5	ABCC10	Reactome:R-HSA-1454916		GO:0043225	ATPase-coupled inorganic anion transmembrane transporter activity	TAS		UniProtKB:Q5T3U5	PANTHER:PTHR24223	20200515		NCBITaxon:9606
+Reactome	UniProtKB:O60706	ABCC9	Reactome:R-HSA-1454916		GO:0043225	ATPase-coupled inorganic anion transmembrane transporter activity	TAS		UniProtKB:O60706	PANTHER:PTHR24223	20200515		NCBITaxon:9606
+Reactome	UniProtKB:P13569	CFTR	Reactome:R-HSA-1454916		GO:0043225	ATPase-coupled inorganic anion transmembrane transporter activity	TAS		UniProtKB:P13569	PANTHER:PTHR24223	20200515		NCBITaxon:9606
+Reactome	UniProtKB:Q92887	ABCC2	Reactome:R-HSA-1454916		GO:0043225	ATPase-coupled inorganic anion transmembrane transporter activity	TAS		UniProtKB:Q92887	PANTHER:PTHR24223	20200515		NCBITaxon:9606
+Reactome	UniProtKB:O15440	ABCC5	Reactome:R-HSA-1454916		GO:0043225	ATPase-coupled inorganic anion transmembrane transporter activity	TAS		UniProtKB:O15440	PANTHER:PTHR24223	20200515		NCBITaxon:9606
+Reactome	UniProtKB:O15439	ABCC4	Reactome:R-HSA-1454916		GO:0043225	ATPase-coupled inorganic anion transmembrane transporter activity	TAS		UniProtKB:O15439	PANTHER:PTHR24223	20200515		NCBITaxon:9606
+Reactome	UniProtKB:O15438	ABCC3	Reactome:R-HSA-1454916		GO:0043225	ATPase-coupled inorganic anion transmembrane transporter activity	TAS		UniProtKB:O15438	PANTHER:PTHR24223	20200515		NCBITaxon:9606
+Reactome	UniProtKB:Q96J66	ABCC11	Reactome:R-HSA-1454916		GO:0043225	ATPase-coupled inorganic anion transmembrane transporter activity	TAS		UniProtKB:Q96J66	PANTHER:PTHR24223	20200515		NCBITaxon:9606
+Reactome	UniProtKB:O95255	ABCC6	Reactome:R-HSA-1454916		GO:0043225	ATPase-coupled inorganic anion transmembrane transporter activity	TAS		UniProtKB:O95255	PANTHER:PTHR24223	20200515		NCBITaxon:9606
+Reactome	UniProtKB:O95255	ABCC6	Reactome:R-HSA-5690340		GO:0043225	ATPase-coupled inorganic anion transmembrane transporter activity	TAS		UniProtKB:O95255	PANTHER:PTHR24223	20200515		NCBITaxon:9606
+RGD	RGD:727800	Slc10a6	PMID:15020217		GO:0043250	sodium-dependent organic anion transmembrane transporter activity	IDA			PANTHER:PTHR10361	20050217		NCBITaxon:10116
+ARUK-UCL	ComplexPortal:CPX-181	kcnj11-sur2a_rat	PMID:28842488		GO:0098662	inorganic cation transmembrane transport	IMP				20191009	CHEBI:49847	NCBITaxon:10116
+ARUK-UCL	RGD:2960	Kcnj8	PMID:28842488		GO:0098662	inorganic cation transmembrane transport	IGI	UniProtKB:A0A1S4NYG1|UniProtKB:A0A1U7R319		PANTHER:PTHR11767	20191009	CHEBI:49847	NCBITaxon:10116
+ARUK-UCL	RGD:2960	Kcnj8	PMID:28842488		GO:0098662	inorganic cation transmembrane transport	IGI	UniProtKB:Q63563		PANTHER:PTHR11767	20191009	CHEBI:49847	NCBITaxon:10116
+ARUK-UCL	RGD:69247	Kcnj11	PMID:28842488		GO:0098662	inorganic cation transmembrane transport	IGI	UniProtKB:A0A1S4NYG1|UniProtKB:A0A1U7R319		PANTHER:PTHR11767	20191009	CHEBI:49847	NCBITaxon:10116
+ARUK-UCL	RGD:69247	Kcnj11	PMID:28842488		GO:0098662	inorganic cation transmembrane transport	IGI	UniProtKB:Q63563		PANTHER:PTHR11767	20191009	CHEBI:49847	NCBITaxon:10116
+ARUK-UCL	RGD:3787	Abcc9	PMID:28842488		GO:0098662	inorganic cation transmembrane transport	IGI	UniProtKB:P70673		PANTHER:PTHR24223	20191009	CHEBI:49847	NCBITaxon:10116
+ARUK-UCL	UniProtKB:A0A1S4NYG1	A0A1S4NYG1	PMID:28842488		GO:0098662	inorganic cation transmembrane transport	IGI	UniProtKB:A0A1U7R319|UniProtKB:P70673			20191009	CHEBI:49847	NCBITaxon:10036
+ARUK-UCL	UniProtKB:A0A1U7R319	Abcc8	PMID:28842488		GO:0098662	inorganic cation transmembrane transport	IGI	UniProtKB:A0A1S4NYG1|UniProtKB:P70673			20191009	CHEBI:49847	NCBITaxon:10036
+CGD	CGD:CAL0000197900	CNH1	PMID:11932466|CGD_REF:CAL0081048		GO:0098662	inorganic cation transmembrane transport	IDA			PANTHER:PTHR32507	20210202		NCBITaxon:237561
+ComplexPortal	ComplexPortal:CPX-6095	3a_cvhsa	PMID:16894145		GO:0098662	inorganic cation transmembrane transport	IDA				20240827		NCBITaxon:694009
+ComplexPortal	UniProtKB:P59632	3a	PMID:16894145		GO:0098662	inorganic cation transmembrane transport	IDA				20240827		NCBITaxon:694009
+ComplexPortal	UniProtKB:Q8WXA8	HTR3C	PMID:17392525		GO:0098662	inorganic cation transmembrane transport	IDA		UniProtKB:Q8WXA8	PANTHER:PTHR18945	20240904		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-2175	htr3a-pentamer_human	PMID:17392525		GO:0098662	inorganic cation transmembrane transport	IDA				20240904		NCBITaxon:9606
+ComplexPortal	UniProtKB:P46098	HTR3A	PMID:17392525		GO:0098662	inorganic cation transmembrane transport	IDA		UniProtKB:P46098	PANTHER:PTHR18945	20240904		NCBITaxon:9606
+ComplexPortal	UniProtKB:O95264	HTR3B	PMID:17392525		GO:0098662	inorganic cation transmembrane transport	IDA		UniProtKB:O95264	PANTHER:PTHR18945	20240904		NCBITaxon:9606
+ComplexPortal	UniProtKB:A5X5Y0	HTR3E	PMID:17392525		GO:0098662	inorganic cation transmembrane transport	IDA		UniProtKB:A5X5Y0	PANTHER:PTHR18945	20240904		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-276	htr3a-htr3c_human	PMID:17392525		GO:0098662	inorganic cation transmembrane transport	IDA				20240904		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-273	htr3a-htr3e_human	PMID:17392525		GO:0098662	inorganic cation transmembrane transport	IDA				20240904		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-272	htr3a-htr3d_human	PMID:17392525		GO:0098662	inorganic cation transmembrane transport	IDA				20240904		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-271	htr3a-htr3b_human	PMID:17392525		GO:0098662	inorganic cation transmembrane transport	IDA				20240904		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q70Z44	HTR3D	PMID:17392525		GO:0098662	inorganic cation transmembrane transport	IDA		UniProtKB:Q70Z44	PANTHER:PTHR18945	20240904		NCBITaxon:9606
+ComplexPortal	UniProtKB:P0DTC3	3a	PMID:32587976		GO:0098662	inorganic cation transmembrane transport	IDA				20241113		NCBITaxon:2697049
+ComplexPortal	ComplexPortal:CPX-6098	3a_sars2	PMID:32587976		GO:0098662	inorganic cation transmembrane transport	IDA				20241113		NCBITaxon:2697049
+ComplexPortal	MGI:MGI:96282	Htr3a	PMID:38177669		GO:0098662	inorganic cation transmembrane transport	IDA			PANTHER:PTHR18945	20241128		NCBITaxon:10090
+ComplexPortal	ComplexPortal:CPX-274	htr3a-pentamer_mouse	PMID:38177669		GO:0098662	inorganic cation transmembrane transport	IDA				20241128		NCBITaxon:10090
+FlyBase	FB:FBgn0003861	trp	PMID:17234592		GO:0098662	inorganic cation transmembrane transport	IDA			PANTHER:PTHR10117	20170810		NCBITaxon:7227
+MGI	RGD:71062	Asic1	PMID:11448963		GO:0098662	inorganic cation transmembrane transport	IDA			PANTHER:PTHR11690	20191112		NCBITaxon:10116
+MGI	MGI:MGI:1921416	Tmem38a	PMID:17611541		GO:0098662	inorganic cation transmembrane transport	IDA			PANTHER:PTHR12454	20181206	EMAPA:35988	NCBITaxon:10090
+MGI	MGI:MGI:88024	Ank1	PMID:7492791		GO:0098662	inorganic cation transmembrane transport	IMP	MGI:MGI:1856298		PANTHER:PTHR24133	20051219		NCBITaxon:10090
+RGD	RGD:70998	Fxyd4	PMID:12626497		GO:0098662	inorganic cation transmembrane transport	IDA			PANTHER:PTHR14132	20180629		NCBITaxon:10116
+RGD	RGD:2173	Fxyd2	PMID:12626497		GO:0098662	inorganic cation transmembrane transport	IDA			PANTHER:PTHR14132	20180629		NCBITaxon:10116
+RGD	RGD:62073	P2rx4	PMID:16282518		GO:0098662	inorganic cation transmembrane transport	IDA			PANTHER:PTHR10125	20200720		NCBITaxon:10116
+SGD	SGD:S000003630	KHA1	PMID:9811642		GO:0098662	inorganic cation transmembrane transport	IMP			PANTHER:PTHR32468	20201217		NCBITaxon:559292
+UniProt	UniProtKB:Q9UN42	ATP1B4	PMID:17592128	not	GO:0098662	inorganic cation transmembrane transport	IDA		UniProtKB:Q9UN42	PANTHER:PTHR11523	20100325		NCBITaxon:9606
+UniProt	MGI:MGI:2384851	Slc39a14	PMID:18270315		GO:0098662	inorganic cation transmembrane transport	IDA			PANTHER:PTHR12191	20210615		NCBITaxon:10090
+UniProt	UniProtKB:Q02094	RHAG	PMID:18931342		GO:0098662	inorganic cation transmembrane transport	IDA		UniProtKB:Q02094	PANTHER:PTHR11730	20160613		NCBITaxon:9606
+UniProt	MGI:MGI:2384851	Slc39a14	PMID:21653899		GO:0098662	inorganic cation transmembrane transport	IDA			PANTHER:PTHR12191	20210615		NCBITaxon:10090
+UniProt	UniProtKB:O95180	CACNA1H	PMID:27149520		GO:0098662	inorganic cation transmembrane transport	IDA		UniProtKB:O95180	PANTHER:PTHR45628	20171213		NCBITaxon:9606
+UniProt	UniProtKB:P56373	P2RX3	PMID:27626375		GO:0098662	inorganic cation transmembrane transport	IDA		UniProtKB:P56373	PANTHER:PTHR10125	20180427		NCBITaxon:9606
+UniProt	MGI:MGI:1352448	Pkd2l1	PMID:28904867		GO:0098662	inorganic cation transmembrane transport	IDA			PANTHER:PTHR10877	20181009		NCBITaxon:10090
+UniProt	MGI:MGI:1915917	Trpm4	PMID:29211714		GO:0098662	inorganic cation transmembrane transport	IDA			PANTHER:PTHR13800	20180131		NCBITaxon:10090
+UniProt	UniProtKB:Q8TD43	TRPM4	PMID:29211723		GO:0098662	inorganic cation transmembrane transport	IDA		UniProtKB:Q8TD43	PANTHER:PTHR13800	20180131		NCBITaxon:9606
+UniProt	UniProtKB:Q13563	PKD2	PMID:29899465		GO:0098662	inorganic cation transmembrane transport	IMP		UniProtKB:Q13563	PANTHER:PTHR10877	20181010		NCBITaxon:9606
+UniProt	UniProtKB:Q9P0L9	PKD2L1	PMID:30004384		GO:0098662	inorganic cation transmembrane transport	IDA		UniProtKB:Q9P0L9	PANTHER:PTHR10877	20181002		NCBITaxon:9606
+WB	WB:WBGene00002974	lev-1	PMID:15280391		GO:0098662	inorganic cation transmembrane transport	IMP	WB:WBVar00143038		PANTHER:PTHR18945	20150729		NCBITaxon:6239
+WB	WB:WBGene00006774	unc-38	PMID:8581398		GO:0098662	inorganic cation transmembrane transport	IDA			PANTHER:PTHR18945	20150729		NCBITaxon:6239
+WB	WB:WBGene00000042	acr-2	PMID:8581398		GO:0098662	inorganic cation transmembrane transport	IDA			PANTHER:PTHR18945	20150729		NCBITaxon:6239
+WB	WB:WBGene00006774	unc-38	PMID:9606719		GO:0098662	inorganic cation transmembrane transport	IDA			PANTHER:PTHR18945	20150729		NCBITaxon:6239
+WB	WB:WBGene00000043	acr-3	PMID:9606719		GO:0098662	inorganic cation transmembrane transport	IDA			PANTHER:PTHR18945	20150729		NCBITaxon:6239
+RGD	RGD:69306	Fxyd1	PMID:11336802		GO:1903797	positive regulation of inorganic anion transmembrane transport	IMP			PANTHER:PTHR14132	20150202		NCBITaxon:10116
+ARUK-UCL	UniProtKB:Q7RTT9	SLC29A4	PMID:26376205		GO:1903825	organic acid transmembrane transport	IDA		UniProtKB:Q7RTT9	PANTHER:PTHR10332	20200422	GO:0009897|GO:0009898|CHEBI:88955|GO:0009897|GO:0009898|CHEBI:16804	NCBITaxon:9606
+TAIR	AGI_LocusCode:AT3G53510	ABCG20	PMID:32889174|TAIR:Publication:501791120		GO:1903825	organic acid transmembrane transport	IDA		TAIR:locus:2083946		20200912		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G13580	ABCG6	PMID:32889174|TAIR:Publication:501791120		GO:1903825	organic acid transmembrane transport	IDA		TAIR:locus:2173184		20200912		NCBITaxon:3702
