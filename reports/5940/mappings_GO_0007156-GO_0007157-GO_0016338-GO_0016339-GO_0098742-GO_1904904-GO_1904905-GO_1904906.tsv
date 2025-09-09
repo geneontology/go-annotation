@@ -1,0 +1,4 @@
+term	file	line
+GO:0007156	interpro2go	InterPro:IPR000233 Cadherin, Y-type LIR-motif > GO:homophilic cell adhesion via plasma membrane adhesion molecules ; GO:0007156
+GO:0007156	interpro2go	InterPro:IPR002126 Cadherin-like > GO:homophilic cell adhesion via plasma membrane adhesion molecules ; GO:0007156
+GO:0016339	unirule2go	UniRule:UR000001380 > GO:calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules ; GO:0016339

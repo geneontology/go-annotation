@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:Q15223	NECTIN1	PMID:21325282		GO:0098631	cell adhesion mediator activity	IDA		UniProtKB:Q15223	PANTHER:PTHR23277	20240808	GO:0007156|GO:0005886	NCBITaxon:9606
+FlyBase	FB:FBgn0000071	Ama	PMID:10970840		GO:0048018	receptor ligand activity	IDA			PANTHER:PTHR42757	20201014	FB:FBgn0004108|GO:0007157	NCBITaxon:7227
+FlyBase	FB:FBgn0004108	Nrt	PMID:10970840		GO:0004895	cell adhesion receptor activity	IDA			PANTHER:PTHR11559	20201014	FB:FBgn0000071|GO:0007157	NCBITaxon:7227
+UniProt	MGI:MGI:1926483	Nectin1	PMID:21798896		GO:0098631	cell adhesion mediator activity	IDA			PANTHER:PTHR23277	20240808	UniProtKB:Q9JLB9|GO:0007157|GO:0005886|CL:0000202	NCBITaxon:10090
+UniProt	MGI:MGI:1930171	Nectin3	PMID:21798896		GO:0098631	cell adhesion mediator activity	IDA			PANTHER:PTHR23277	20240808	UniProtKB:Q9JKF6|GO:0007157|GO:0005886|CL:0005014	NCBITaxon:10090

@@ -1,0 +1,327 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AgBase	UniProtKB:P35331	P35331	PMID:1527169		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA		UniProtKB:P35331	PANTHER:PTHR44170	20060206		NCBITaxon:9031
+AgBase	UniProtKB:P42292	ALCAM	PMID:1931049		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA		UniProtKB:P42292	PANTHER:PTHR11973	20160928		NCBITaxon:9031
+AgBase	UniProtKB:A0A0K0LT60	LOC106571935	PMID:27153052		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA				20160518		NCBITaxon:8030
+AgBase	UniProtKB:A0A0K0LTP0	A0A0K0LTP0	PMID:27153052		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA				20160518		NCBITaxon:8030
+AgBase	UniProtKB:A0A0K0LT76	LOC106567007	PMID:27153052		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA				20160518		NCBITaxon:8030
+BHF-UCL	UniProtKB:P55290	CDH13	PMID:10601632		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA		UniProtKB:P55290	PANTHER:PTHR24027	20071114		NCBITaxon:9606
+BHF-UCL	MGI:MGI:1858235	Celsr2	PMID:15296717		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR24026	20071123		NCBITaxon:10090
+BHF-UCL	UniProtKB:P12830	CDH1	PMID:16338932		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	NAS		UniProtKB:P12830	PANTHER:PTHR24027	20080107		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q14126	DSG2	PMID:17559062		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA		UniProtKB:Q14126	PANTHER:PTHR24025	20150205		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q92692	NECTIN2	PMID:9845526		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA		UniProtKB:Q92692	PANTHER:PTHR47387	20081128		NCBITaxon:9606
+FlyBase	FB:FBgn0005775	Con	PMID:10218152		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	TAS			PANTHER:PTHR45617	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0000636	Fas3	PMID:10218152		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	TAS			PANTHER:PTHR23277	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0001085	fz	PMID:10490098		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IMP			PANTHER:PTHR11309	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0024836	stan	PMID:10490098		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR24026	20100617		NCBITaxon:7227
+FlyBase	FB:FBgn0003285	rst	PMID:12006672		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	TAS			PANTHER:PTHR11640	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0003285	rst	PMID:12547518		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	TAS			PANTHER:PTHR11640	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0000547	ed	PMID:14627723		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR11640	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0000547	ed	PMID:14627723		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IMP			PANTHER:PTHR11640	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0010238	Lac	PMID:14681183		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR12231	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0005775	Con	PMID:1505024		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR45617	20120126		NCBITaxon:7227
+FlyBase	FB:FBgn0028369	kirre	PMID:15955848		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IMP			PANTHER:PTHR11640	20070523		NCBITaxon:7227
+FlyBase	FB:FBgn0023095	caps	PMID:16423695		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR45617	20121213		NCBITaxon:7227
+FlyBase	FB:FBgn0003391	shg	PMID:17113384		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR24026	20130207		NCBITaxon:7227
+FlyBase	FB:FBgn0036715	Cad74A	PMID:17113384		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR24026	20130207		NCBITaxon:7227
+FlyBase	FB:FBgn0265296	Dscam2	PMID:17241278		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR10075	20111006		NCBITaxon:7227
+FlyBase	FB:FBgn0015609	CadN	PMID:17320070		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR24025	20120830		NCBITaxon:7227
+FlyBase	FB:FBgn0265296	Dscam2	PMID:17554308		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR10075	20110630		NCBITaxon:7227
+FlyBase	FB:FBgn0000635	Fas2	PMID:1913818		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR10075	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0024189	sns	PMID:19515699		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IGI	FB:FBgn0028369		PANTHER:PTHR11640	20120126		NCBITaxon:7227
+FlyBase	FB:FBgn0028369	kirre	PMID:19515699		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IGI	FB:FBgn0024189		PANTHER:PTHR11640	20120126		NCBITaxon:7227
+FlyBase	FB:FBgn0003285	rst	PMID:19515699		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IGI	FB:FBgn0287864		PANTHER:PTHR11640	20210223		NCBITaxon:7227
+FlyBase	FB:FBgn0287864	hbs	PMID:19515699		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IGI	FB:FBgn0003285		PANTHER:PTHR11640	20120126		NCBITaxon:7227
+FlyBase	FB:FBgn0267435	chp	PMID:2189727		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR24369	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0285925	Fas1	PMID:2335571		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR10900	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0001083	fw	PMID:23973164		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR19325	20140320		NCBITaxon:7227
+FlyBase	FB:FBgn0028482	bdl	PMID:24174674		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IMP			PANTHER:PTHR10075	20150108		NCBITaxon:7227
+FlyBase	FB:FBgn0021764	sdk	PMID:29361567		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR44170	20210629		NCBITaxon:7227
+FlyBase	FB:FBgn0003391	shg	PMID:7958432		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR24026	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0017590	klg	PMID:9043060		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR45080	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0015609	CadN	PMID:9247265		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR24025	20060803		NCBITaxon:7227
+HGNC-UCL	RGD:620296	Nptn	PMID:10759566		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR10075	20060131		NCBITaxon:10116
+HGNC-UCL	MGI:MGI:1926483	Nectin1	PMID:12826663		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR23277	20060628		NCBITaxon:10090
+HGNC-UCL	MGI:MGI:97822	Nectin2	PMID:12826663		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR47387	20060628		NCBITaxon:10090
+HGNC-UCL	MGI:MGI:2137858	Cadm3	PMID:12826663		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR45889	20060628		NCBITaxon:10090
+HGNC-UCL	MGI:MGI:1930171	Nectin3	PMID:12826663		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR23277	20060628		NCBITaxon:10090
+MGI	MGI:MGI:1347245	Ceacam1	PMID:10491101		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR44427	20210304		NCBITaxon:10090
+MGI	MGI:MGI:1095414	Cdh17	PMID:10906147		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR24027	20010411		NCBITaxon:10090
+MGI	MGI:MGI:1916774	Esam	PMID:11847224		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR44549	20110407		NCBITaxon:10090
+MGI	MGI:MGI:88355	Cdh2	PMID:14561752		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR24027	20041105		NCBITaxon:10090
+MGI	MGI:MGI:1922019	Pik3cb	PMID:15834429		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IMP			PANTHER:PTHR10048	20060724		NCBITaxon:10090
+MGI	MGI:MGI:2685354	Igsf9b	PMID:23751499		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR12231	20140507		NCBITaxon:10090
+MGI	MGI:MGI:2135283	Igsf9	PMID:24647940		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR44170	20140613		NCBITaxon:10090
+MGI	MGI:MGI:96721	L1cam	PMID:7669058		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IMP			PANTHER:PTHR45080	20071012		NCBITaxon:10090
+MGI	MGI:MGI:99218	Cdh4	PMID:8270638		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR24027	20080425		NCBITaxon:10090
+MGI	MGI:MGI:88355	Cdh2	PMID:8270638		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR24027	20080425		NCBITaxon:10090
+MGI	MGI:MGI:1935201	Pcdhgc3	PMID:8575755		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	TAS			PANTHER:PTHR24028	20000811		NCBITaxon:10090
+MGI	MGI:MGI:104692	Pcdh1	PMID:8575755		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	TAS			PANTHER:PTHR24028	20000811		NCBITaxon:10090
+MGI	MGI:MGI:1855700	Pcdh12	PMID:9651350		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR24028	20000811		NCBITaxon:10090
+MGI	MGI:MGI:1338042	Pcdh10	PMID:9920663		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR24028	20000811		NCBITaxon:10090
+PINC	UniProtKB:P05556	ITGB1	PMID:10201960		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	TAS		UniProtKB:P05556	PANTHER:PTHR10082	20030904		NCBITaxon:9606
+PINC	UniProtKB:P98161	PKD1	PMID:10861291		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	TAS		UniProtKB:P98161	PANTHER:PTHR46730	20030904		NCBITaxon:9606
+PINC	UniProtKB:Q12816	TRO	PMID:7758945		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	TAS		UniProtKB:Q12816	PANTHER:PTHR11736	20030904		NCBITaxon:9606
+PINC	UniProtKB:Q9UIB8	CD84	PMID:7797269		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	TAS		UniProtKB:Q9UIB8	PANTHER:PTHR12080	20061106		NCBITaxon:9606
+PINC	UniProtKB:P33151	CDH5	PMID:9219219		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	TAS		UniProtKB:P33151	PANTHER:PTHR24027	20030904		NCBITaxon:9606
+PINC	UniProtKB:O60487	MPZL2	PMID:9585423		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	TAS		UniProtKB:O60487	PANTHER:PTHR13869	20030904		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O15031	PLXNB2	PMID:16122393		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA		UniProtKB:O15031	PANTHER:PTHR22625	20160614		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9ULL4	PLXNB3	PMID:16122393		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA		UniProtKB:Q9ULL4	PANTHER:PTHR22625	20160614		NCBITaxon:9606
+RGD	RGD:3453	Ptprf	PMID:12716943		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR19134	20050217		NCBITaxon:10116
+UniProt	UniProtKB:Q8TD84	DSCAML1	PMID:11453658		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA		UniProtKB:Q8TD84	PANTHER:PTHR10075	20090505		NCBITaxon:9606
+UniProt	UniProtKB:P40199	CEACAM6	PMID:11590190		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IMP		UniProtKB:P40199	PANTHER:PTHR44337	20180413		NCBITaxon:9606
+UniProt	MGI:MGI:1920423	Pcdh18	PMID:11716507		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	NAS			PANTHER:PTHR24028	20040802		NCBITaxon:10090
+UniProt	RGD:620656	Fat2	PMID:12213440		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR24026	20110211		NCBITaxon:10116
+UniProt	UniProtKB:Q8AV57	SDK2	PMID:12230981		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA		UniProtKB:Q8AV57	PANTHER:PTHR13817	20151008		NCBITaxon:9031
+UniProt	UniProtKB:Q8AV58	SDK1	PMID:12230981		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA		UniProtKB:Q8AV58	PANTHER:PTHR13817	20151008		NCBITaxon:9031
+UniProt	UniProtKB:Q9Y6N7	ROBO1	PMID:12504588		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA		UniProtKB:Q9Y6N7	PANTHER:PTHR12231	20040802		NCBITaxon:9606
+UniProt	UniProtKB:Q9HCK4	ROBO2	PMID:12504588		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA		UniProtKB:Q9HCK4	PANTHER:PTHR44170	20040802		NCBITaxon:9606
+UniProt	RGD:727911	Amigo2	PMID:12629050		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IPI	UniProtKB:Q7TNJ4		PANTHER:PTHR24368	20050609		NCBITaxon:10116
+UniProt	RGD:1303079	Amigo1	PMID:12629050		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IPI	UniProtKB:Q80ZD7		PANTHER:PTHR24368	20050609		NCBITaxon:10116
+UniProt	MGI:MGI:1889272	Cadm1	PMID:12826663		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR45889	20070912		NCBITaxon:10090
+UniProt	UniProtKB:P13688	CEACAM1	PMID:15687237		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	NAS		UniProtKB:P13688	PANTHER:PTHR44427	20050520		NCBITaxon:9606
+UniProt	UniProtKB:Q5DX21	IGSF11	PMID:15795899		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IMP		UniProtKB:Q5DX21	PANTHER:PTHR44699	20181130		NCBITaxon:9606
+UniProt	MGI:MGI:1345183	Tenm3	PMID:17478416		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR11219	20121012		NCBITaxon:10090
+UniProt	UniProtKB:Q8AV57	SDK2	PMID:18216854		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA		UniProtKB:Q8AV57	PANTHER:PTHR13817	20151008		NCBITaxon:9031
+UniProt	UniProtKB:E1C8P7	DSCAML1	PMID:18216854		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA		UniProtKB:E1C8P7	PANTHER:PTHR13817	20151008		NCBITaxon:9031
+UniProt	UniProtKB:F1NY98	DSCAM	PMID:18216854		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA		UniProtKB:F1NY98	PANTHER:PTHR13817	20151008		NCBITaxon:9031
+UniProt	UniProtKB:Q8AV58	SDK1	PMID:18216854		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA		UniProtKB:Q8AV58	PANTHER:PTHR13817	20151008		NCBITaxon:9031
+UniProt	UniProtKB:O14522	PTPRT	PMID:18644975		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA		UniProtKB:O14522	PANTHER:PTHR19134	20081211		NCBITaxon:9606
+UniProt	RGD:67396	Ceacam1	PMID:19948503		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR44427	20160324		NCBITaxon:10116
+UniProt	UniProtKB:Q15223	NECTIN1	PMID:21325282		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA		UniProtKB:Q15223	PANTHER:PTHR23277	20240808		NCBITaxon:9606
+UniProt	RGD:67396	Ceacam1	PMID:2373740		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR44427	20160321		NCBITaxon:10116
+UniProt	MGI:MGI:2443847	Sdk2	PMID:26287463		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR13817	20151008		NCBITaxon:10090
+UniProt	MGI:MGI:1914953	Kirrel3	PMID:26575286		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR11640	20160209		NCBITaxon:10090
+UniProt	MGI:MGI:2136740	Pcdhb6	PMID:27161523		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR24028	20161019		NCBITaxon:10090
+UniProt	MGI:MGI:1298369	Pcdha7	PMID:27161523		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR24028	20161019		NCBITaxon:10090
+UniProt	UniProtKB:P16284	PECAM1	PMID:27958302		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IMP		UniProtKB:P16284	PANTHER:PTHR11481	20171115		NCBITaxon:9606
+UniProt	UniProtKB:P06731	CEACAM5	PMID:2803308		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IMP		UniProtKB:P06731	PANTHER:PTHR44337	20180412		NCBITaxon:9606
+UniProt	UniProtKB:P40199	CEACAM6	PMID:2803308		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IMP		UniProtKB:P40199	PANTHER:PTHR44337	20180412		NCBITaxon:9606
+UniProt	UniProtKB:P12830	CDH1	PMID:8033105		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	NAS		UniProtKB:P12830	PANTHER:PTHR24027	20021105		NCBITaxon:9606
+UniProt	UniProtKB:P28827	PTPRM	PMID:8393854		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA		UniProtKB:P28827	PANTHER:PTHR19134	20081217		NCBITaxon:9606
+UniProt	RGD:67396	Ceacam1	PMID:8536699		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR44427	20160318		NCBITaxon:10116
+ZFIN	ZFIN:ZDB-GENE-041221-3	prnprs3	PMID:19278297		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA				20110103		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-041221-2	prnpb	PMID:19278297		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR10502	20110103		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-060612-1	crb2a	PMID:22579223		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IPI	ZFIN:ZDB-GENE-060612-1		PANTHER:PTHR24049	20131118		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-060610-1	crb2b	PMID:22579223		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IPI	ZFIN:ZDB-GENE-060610-1		PANTHER:PTHR24049	20131118		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-040426-1064	clstn1	PMID:25463516		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR14139	20150429		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-100921-73	clstn3	PMID:25463516		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR14139	20150429		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-070911-2	clstn2a	PMID:25463516		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR14139	20150429		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-050706-86	mipb	PMID:34440774		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR19139	20240216		NCBITaxon:7955
+dictyBase	dictyBase:DDB_G0289073	csaA	PMID:3320049		GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	IDA			PANTHER:PTHR31341	20240209	GO:0031152	NCBITaxon:44689
+AgBase	UniProtKB:A0A0K0LT60	LOC106571935	PMID:27153052		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA				20160518		NCBITaxon:8030
+AgBase	UniProtKB:A0A0K0LTP0	A0A0K0LTP0	PMID:27153052		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA				20160518		NCBITaxon:8030
+AgBase	UniProtKB:A0A0K0LT76	LOC106567007	PMID:27153052		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA				20160518		NCBITaxon:8030
+BHF-UCL	MGI:MGI:2179435	Nlgn1	PMID:12796785		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR43903	20110704		NCBITaxon:10090
+BHF-UCL	UniProtKB:P19320	VCAM1	PMID:1715889		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA		UniProtKB:P19320	PANTHER:PTHR13771	20080623		NCBITaxon:9606
+BHF-UCL	UniProtKB:P16581	SELE	PMID:18029551		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP		UniProtKB:P16581	PANTHER:PTHR19325	20090306		NCBITaxon:9606
+BHF-UCL	MGI:MGI:95813	Grid2	PMID:20537373		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IGI	UniProtKB:Q9R171		PANTHER:PTHR18966	20131127		NCBITaxon:10090
+BHF-UCL	MGI:MGI:88281	Cbln1	PMID:20537373		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IGI	UniProtKB:Q61625		PANTHER:PTHR22923	20131127		NCBITaxon:10090
+BHF-UCL	UniProtKB:P07911	UMOD	PMID:20798515		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA		UniProtKB:P07911	PANTHER:PTHR14002	20140415		NCBITaxon:9606
+BHF-UCL	UniProtKB:P20701	ITGAL	PMID:2477710		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP		UniProtKB:P20701	PANTHER:PTHR23220	20081128		NCBITaxon:9606
+BHF-UCL	UniProtKB:P05362	ICAM1	PMID:2477710		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	TAS		UniProtKB:P05362	PANTHER:PTHR13771	20081128		NCBITaxon:9606
+CACAO	MGI:MGI:2687319	Il1rapl1	PMID:21940441		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR11890	20111009		NCBITaxon:10090
+CACAO	MGI:MGI:97812	Ptprd	PMID:21940441		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR19134	20111009		NCBITaxon:10090
+FlyBase	FB:FBgn0010395	Itgbn	PMID:10908592		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	TAS			PANTHER:PTHR10082	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0004657	mys	PMID:10908592		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	TAS			PANTHER:PTHR10082	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0001250	if	PMID:10908592		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	TAS			PANTHER:PTHR23220	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0034005	ItgaPS4	PMID:10908592		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	TAS			PANTHER:PTHR23220	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0004456	mew	PMID:10908592		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	TAS			PANTHER:PTHR23220	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0034880	ItgaPS5	PMID:10908592		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	TAS			PANTHER:PTHR23220	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0286785	scb	PMID:10908592		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	TAS			PANTHER:PTHR23220	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0000071	Ama	PMID:10970840		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IPI	FB:FBgn0004108		PANTHER:PTHR42757	20201014		NCBITaxon:7227
+FlyBase	FB:FBgn0004108	Nrt	PMID:10970840		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IPI	FB:FBgn0000071		PANTHER:PTHR11559	20201014		NCBITaxon:7227
+FlyBase	FB:FBgn0028644	beat-Ic	PMID:11714679		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IGI	FB:FBgn0013433		PANTHER:PTHR21261	20130214		NCBITaxon:7227
+FlyBase	FB:FBgn0013433	beat-Ia	PMID:11714679		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IGI	FB:FBgn0028644		PANTHER:PTHR21261	20160915		NCBITaxon:7227
+FlyBase	FB:FBgn0001075	ft	PMID:15240556		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IPI	FB:FBgn0284247		PANTHER:PTHR24026	20140320		NCBITaxon:7227
+FlyBase	FB:FBgn0284247	ds	PMID:15240556		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IPI	FB:FBgn0001075		PANTHER:PTHR24026	20140320		NCBITaxon:7227
+FlyBase	FB:FBgn0024189	sns	PMID:15955848		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP			PANTHER:PTHR11640	20070523		NCBITaxon:7227
+FlyBase	FB:FBgn0028369	kirre	PMID:15955848		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP			PANTHER:PTHR11640	20070523		NCBITaxon:7227
+FlyBase	FB:FBgn0024189	sns	PMID:19270174		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR11640	20130321		NCBITaxon:7227
+FlyBase	FB:FBgn0287864	hbs	PMID:19270174		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR11640	20130321		NCBITaxon:7227
+FlyBase	FB:FBgn0015229	glec	PMID:8631270		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP				20060803		NCBITaxon:7227
+HGNC-UCL	MGI:MGI:1926483	Nectin1	PMID:12826663		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR23277	20060628		NCBITaxon:10090
+HGNC-UCL	MGI:MGI:2137858	Cadm3	PMID:12826663		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR45889	20060628		NCBITaxon:10090
+MGI	UniProtKB:Q04900	CD164	PMID:10491205		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA		UniProtKB:Q04900	PANTHER:PTHR11337	20000627		NCBITaxon:9606
+MGI	MGI:MGI:1858430	Scarf2	PMID:12154095		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR24043	20030211		NCBITaxon:10090
+MGI	MGI:MGI:96603	Itga4	PMID:8145052		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP			PANTHER:PTHR23220	20071022		NCBITaxon:10090
+MGI	MGI:MGI:88323	Cd24a	PMID:8145052		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR16676	20071022		NCBITaxon:10090
+MGI	MGI:MGI:98926	Vcam1	PMID:8145052		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP			PANTHER:PTHR13771	20071022		NCBITaxon:10090
+MGI	MGI:MGI:99218	Cdh4	PMID:8270638		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR24027	20080425		NCBITaxon:10090
+MGI	MGI:MGI:88355	Cdh2	PMID:8270638		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR24027	20080425		NCBITaxon:10090
+MGI	MGI:MGI:96721	L1cam	PMID:8557754		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP			PANTHER:PTHR45080	20071023		NCBITaxon:10090
+MGI	MGI:MGI:96604	Itga5	PMID:8557754		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP			PANTHER:PTHR23220	20071023		NCBITaxon:10090
+MGI	MGI:MGI:98280	Selp	PMID:8557754		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP			PANTHER:PTHR19325	20071023		NCBITaxon:10090
+MGI	MGI:MGI:88323	Cd24a	PMID:8562500		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR16676	20071025		NCBITaxon:10090
+MGI	MGI:MGI:98280	Selp	PMID:8562500		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP			PANTHER:PTHR19325	20071025		NCBITaxon:10090
+MTBBASE	UniProtKB:Q79FZ9	mce1A	PMID:12438361		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP			PANTHER:PTHR33371	20100426		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WIP9	hbhA	PMID:9064359		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA				20100426		NCBITaxon:83332
+PINC	UniProtKB:P47929	LGALS7	PMID:7534301		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	TAS		UniProtKB:P47929	PANTHER:PTHR11346	20031119		NCBITaxon:9606
+PINC	UniProtKB:Q06141	REG3A	PMID:8997243		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	TAS		UniProtKB:Q06141	PANTHER:PTHR22803	20031119		NCBITaxon:9606
+PseudoCAP	UniProtKB:Q05097	lecA	PMID:16689730		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA		UniProtKB:Q05097		20190311		NCBITaxon:208964
+UniProt	UniProtKB:Q9PSN0	Q9PSN0	PMID:10484740		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA				20200227		NCBITaxon:8692
+UniProt	UniProtKB:P83304	P83304	PMID:11065272		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA				20200225		NCBITaxon:185447
+UniProt	UniProtKB:P40199	CEACAM6	PMID:11590190		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP		UniProtKB:P40199	PANTHER:PTHR44337	20180413		NCBITaxon:9606
+UniProt	UniProtKB:P31997	CEACAM8	PMID:11590190		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP		UniProtKB:P31997	PANTHER:PTHR44337	20180413		NCBITaxon:9606
+UniProt	MGI:MGI:3606482	Colec10	PMID:12450124		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	NAS			PANTHER:PTHR24024	20040407		NCBITaxon:10090
+UniProt	RGD:727911	Amigo2	PMID:12629050		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IPI	UniProtKB:Q80ZD5		PANTHER:PTHR24368	20050517		NCBITaxon:10116
+UniProt	RGD:727911	Amigo2	PMID:12629050		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IPI	UniProtKB:Q80ZD7		PANTHER:PTHR24368	20050517		NCBITaxon:10116
+UniProt	RGD:631413	Amigo3	PMID:12629050		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IPI	UniProtKB:Q7TNJ4		PANTHER:PTHR24368	20050517		NCBITaxon:10116
+UniProt	RGD:631413	Amigo3	PMID:12629050		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IPI	UniProtKB:Q80ZD7		PANTHER:PTHR24368	20050517		NCBITaxon:10116
+UniProt	RGD:1303079	Amigo1	PMID:12629050		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IPI	UniProtKB:Q7TNJ4		PANTHER:PTHR24368	20050517		NCBITaxon:10116
+UniProt	RGD:1303079	Amigo1	PMID:12629050		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IPI	UniProtKB:Q80ZD5		PANTHER:PTHR24368	20050517		NCBITaxon:10116
+UniProt	MGI:MGI:1889272	Cadm1	PMID:12826663		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR45889	20070912		NCBITaxon:10090
+UniProt	UniProtKB:P78310	CXADR	PMID:12869515		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA		UniProtKB:P78310	PANTHER:PTHR44468	20131204		NCBITaxon:9606
+UniProt	UniProtKB:Q86YT9	JAML	PMID:12869515		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA		UniProtKB:Q86YT9	PANTHER:PTHR13869	20131204		NCBITaxon:9606
+UniProt	UniProtKB:Q9NNX6	CD209	PMID:1518869		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	TAS		UniProtKB:Q9NNX6	PANTHER:PTHR22802	20030404		NCBITaxon:9606
+UniProt	MGI:MGI:1926483	Nectin1	PMID:15328010		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP			PANTHER:PTHR23277	20240808		NCBITaxon:10090
+UniProt	MGI:MGI:1930171	Nectin3	PMID:15328010		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP			PANTHER:PTHR23277	20240808		NCBITaxon:10090
+UniProt	UniProtKB:Q9M6E9	AAG	PMID:15474989		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	NAS				20060718		NCBITaxon:3816
+UniProt	UniProtKB:P78310	CXADR	PMID:15800062		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA		UniProtKB:P78310	PANTHER:PTHR44468	20110927		NCBITaxon:9606
+UniProt	UniProtKB:Q86YT9	JAML	PMID:15800062		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA		UniProtKB:Q86YT9	PANTHER:PTHR13869	20110927		NCBITaxon:9606
+UniProt	UniProtKB:P30203	CD6	PMID:16352806		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP		UniProtKB:P30203	PANTHER:PTHR19331	20151028		NCBITaxon:9606
+UniProt	UniProtKB:Q13740	ALCAM	PMID:16352806		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP		UniProtKB:Q13740	PANTHER:PTHR11973	20151028		NCBITaxon:9606
+UniProt	UniProtKB:Q86YT9	JAML	PMID:18948633		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP		UniProtKB:Q86YT9	PANTHER:PTHR13869	20131205		NCBITaxon:9606
+UniProt	MGI:MGI:3045256	Fat4	PMID:19506035		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR24026	20140321		NCBITaxon:10090
+UniProt	MGI:MGI:2685011	Dchs1	PMID:19506035		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR24027	20140324		NCBITaxon:10090
+UniProt	MGI:MGI:1859822	Crtam	PMID:19752223		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP			PANTHER:PTHR47118	20200116		NCBITaxon:10090
+UniProt	UniProtKB:Q15223	NECTIN1	PMID:21325282		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA		UniProtKB:Q15223	PANTHER:PTHR23277	20240808		NCBITaxon:9606
+UniProt	MGI:MGI:1926483	Nectin1	PMID:21798896		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR23277	20240808		NCBITaxon:10090
+UniProt	MGI:MGI:1930171	Nectin3	PMID:21798896		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR23277	20240808		NCBITaxon:10090
+UniProt	MGI:MGI:1859822	Crtam	PMID:24687959		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP			PANTHER:PTHR47118	20200116		NCBITaxon:10090
+UniProt	MGI:MGI:1889272	Cadm1	PMID:24687959		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP			PANTHER:PTHR45889	20200116		NCBITaxon:10090
+UniProt	UniProtKB:P06731	CEACAM5	PMID:2803308		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP		UniProtKB:P06731	PANTHER:PTHR44337	20180412		NCBITaxon:9606
+UniProt	UniProtKB:P40199	CEACAM6	PMID:2803308		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP		UniProtKB:P40199	PANTHER:PTHR44337	20180412		NCBITaxon:9606
+UniProt	MGI:MGI:96777	Lgals1	PMID:3020551		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	NAS			PANTHER:PTHR11346	20030404		NCBITaxon:10090
+UniProt	UniProtKB:Q9PSM4	Q9PSM4	PMID:3671807		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA				20200225		NCBITaxon:88085
+UniProt	UniProtKB:Q9PSN0	Q9PSN0	PMID:8593494		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA				20200225		NCBITaxon:8692
+UniProt	UniProtKB:P40199	CEACAM6	PMID:8776764		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP		UniProtKB:P40199	PANTHER:PTHR44337	20180412		NCBITaxon:9606
+UniProt	UniProtKB:P31997	CEACAM8	PMID:8776764		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP		UniProtKB:P31997	PANTHER:PTHR44337	20180412		NCBITaxon:9606
+UniProt	UniProtKB:P93114	P93114	PMID:9111143		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA				20200501		NCBITaxon:47519
+UniProt	UniProtKB:Q9PSM4	Q9PSM4	PMID:9700367		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA				20200225		NCBITaxon:88085
+UniProt	UniProtKB:P82859	P82859	PMID:9779592		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA				20200501		NCBITaxon:103480
+ZFIN	ZFIN:ZDB-GENE-060612-1	crb2a	PMID:22579223		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IPI	ZFIN:ZDB-GENE-060610-1		PANTHER:PTHR24049	20131118		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-060610-1	crb2b	PMID:22579223		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IPI	ZFIN:ZDB-GENE-060612-1		PANTHER:PTHR24049	20131118		NCBITaxon:7955
+dictyBase	dictyBase:DDB_G0280531	tgrC1	PMID:11071787		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IMP			PANTHER:PTHR31341	20190717		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0280531	tgrC1	PMID:23477311		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR31341	20220719	UniProtKB:Q54V07	NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0280689	tgrB1	PMID:23477311		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR31341	20240209	UniProtKB:P42523|GO:0030587	NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0285793	cadA	PMID:31355329		GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR38083	20190925	GO:0051702	NCBITaxon:44689
+AgBase	UniProtKB:P35331	P35331	PMID:1527169		GO:0016338	calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules	IDA		UniProtKB:P35331	PANTHER:PTHR44170	20060206		NCBITaxon:9031
+FlyBase	FB:FBgn0285925	Fas1	PMID:2335571		GO:0016338	calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules	IDA			PANTHER:PTHR10900	20060803		NCBITaxon:7227
+MGI	MGI:MGI:1916774	Esam	PMID:11847224		GO:0016338	calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules	TAS			PANTHER:PTHR44549	20110407		NCBITaxon:10090
+MGI	MGI:MGI:1889272	Cadm1	PMID:12202822		GO:0016338	calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules	IDA			PANTHER:PTHR45889	20050505		NCBITaxon:10090
+RGD	RGD:67378	Ncam1	PMID:15865439		GO:0016338	calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules	TAS			PANTHER:PTHR12231	20060418		NCBITaxon:10116
+UniProt	MGI:MGI:1276110	Cldn2	PMID:10508613		GO:0016338	calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules	IDA			PANTHER:PTHR12002	20050322		NCBITaxon:10090
+UniProt	MGI:MGI:1276109	Cldn1	PMID:10508613		GO:0016338	calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules	IDA			PANTHER:PTHR12002	20050322		NCBITaxon:10090
+UniProt	MGI:MGI:1329044	Cldn3	PMID:10508613		GO:0016338	calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules	IDA			PANTHER:PTHR12002	20050322		NCBITaxon:10090
+ZFIN	ZFIN:ZDB-GENE-041221-2	prnpb	PMID:19278297		GO:0016338	calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules	IMP	ZFIN:ZDB-MRPHLNO-100423-4		PANTHER:PTHR10502	20101230		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-041221-2	prnpb	PMID:19278297		GO:0016338	calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules	IMP	ZFIN:ZDB-MRPHLNO-100423-5		PANTHER:PTHR10502	20101230		NCBITaxon:7955
+dictyBase	dictyBase:DDB_G0280531	tgrC1	PMID:11071787		GO:0016338	calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules	IGI	UniProtKB:P08796		PANTHER:PTHR31341	20190717		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0292436	triA	PMID:17177856		GO:0016338	calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules	IMP			PANTHER:PTHR24410	20071213		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0274741	gnt15	PMID:17588537		GO:0016338	calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules	IMP			PANTHER:PTHR12270	20070727		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0289073	csaA	PMID:2515990		GO:0016338	calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules	IMP			PANTHER:PTHR31341	20240209	GO:0071320	NCBITaxon:44689
+AgBase	UniProtKB:P35331	P35331	PMID:1527169		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IDA		UniProtKB:P35331	PANTHER:PTHR44170	20060206		NCBITaxon:9031
+AgBase	UniProtKB:Q01107	DSC1	PMID:2277091		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	TAS		UniProtKB:Q01107	PANTHER:PTHR24027	20060308		NCBITaxon:9913
+BHF-UCL	UniProtKB:P55290	CDH13	PMID:10601632		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IDA		UniProtKB:P55290	PANTHER:PTHR24027	20071114		NCBITaxon:9606
+BHF-UCL	MGI:MGI:2179435	Nlgn1	PMID:12796785		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR43903	20110704		NCBITaxon:10090
+ComplexPortal	RGD:621117	Nlgn1	PMID:18084303		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS			PANTHER:PTHR43903	20240827		NCBITaxon:10116
+ComplexPortal	ComplexPortal:CPX-4083	nlgn1-a-b-nrxn1beta-ss4_mouse	PMID:18084303		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS				20240827		NCBITaxon:10090
+ComplexPortal	ComplexPortal:CPX-4123	nlgn1+a+b-nrxn1beta-ss4_rat	PMID:18084303		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS				20240827		NCBITaxon:10116
+ComplexPortal	ComplexPortal:CPX-4061	nlgn1-a-b-nrxn1beta-ss4_rat	PMID:18084303		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS				20240827		NCBITaxon:10116
+ComplexPortal	ComplexPortal:CPX-4122	nlgn1+a+b-nrxn1beta-ss4_mouse	PMID:18084303		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS				20240827		NCBITaxon:10090
+ComplexPortal	MGI:MGI:2179435	Nlgn1	PMID:18084303		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS			PANTHER:PTHR43903	20240827		NCBITaxon:10090
+ComplexPortal	UniProtKB:Q8N2Q7	NLGN1	PMID:18084303		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS		UniProtKB:Q8N2Q7	PANTHER:PTHR43903	20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-909	nlgn1-a-b-nrxn1beta-ss4_human	PMID:18084303		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS				20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-4101	nlgn1+a+b-nrxn1beta-ss4_human	PMID:18084303		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS				20240823		NCBITaxon:9606
+ComplexPortal	UniProtKB:P58400	NRXN1	PMID:18084303		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS		UniProtKB:P58400-1		20240823		NCBITaxon:9606
+FlyBase	FB:FBgn0024836	stan	PMID:10556066		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IMP			PANTHER:PTHR24026	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0004657	mys	PMID:10908592		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	TAS			PANTHER:PTHR10082	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0001075	ft	PMID:15240556		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR24026	20140320		NCBITaxon:7227
+FlyBase	FB:FBgn0284247	ds	PMID:15240556		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR24026	20140320		NCBITaxon:7227
+FlyBase	FB:FBgn0053533	lectin-37Db	PMID:16475980		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR22802	20120719		NCBITaxon:7227
+FlyBase	FB:FBgn0053532	lectin-37Da	PMID:16475980		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR22802	20120719		NCBITaxon:7227
+FlyBase	FB:FBgn0016675	Lectin-galC1	PMID:16475980		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR22802	20120719		NCBITaxon:7227
+FlyBase	FB:FBgn0003391	shg	PMID:17113384		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR24026	20130207		NCBITaxon:7227
+FlyBase	FB:FBgn0036715	Cad74A	PMID:17113384		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR24026	20130207		NCBITaxon:7227
+FlyBase	FB:FBgn0015609	CadN	PMID:9247265		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IPI	FB:FBgn0010215		PANTHER:PTHR24025	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0015609	CadN	PMID:9247265		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IPI	FB:FBgn0000117		PANTHER:PTHR24025	20060803		NCBITaxon:7227
+MGI	MGI:MGI:1095414	Cdh17	PMID:10906147		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR24027	20040211		NCBITaxon:10090
+MGI	MGI:MGI:109620	Arvcf	PMID:11058098		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	TAS			PANTHER:PTHR10372	20011221		NCBITaxon:10090
+MGI	MGI:MGI:1341886	Ajuba	PMID:12417594		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IMP	MGI:MGI:3578221		PANTHER:PTHR24219	20110107	EMAPA:17525	NCBITaxon:10090
+MGI	MGI:MGI:88355	Cdh2	PMID:14561752		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR24027	20041105		NCBITaxon:10090
+MGI	MGI:MGI:1095414	Cdh17	PMID:15023525		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR24027	20140521		NCBITaxon:10090
+MGI	MGI:MGI:88354	Cdh1	PMID:15023525		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR24027	20140521		NCBITaxon:10090
+MGI	MGI:MGI:106671	Cdh16	PMID:15023525		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR24028	20140521		NCBITaxon:10090
+MGI	MGI:MGI:106671	Cdh16	PMID:15023525		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IMP			PANTHER:PTHR24028	20140521		NCBITaxon:10090
+MGI	MGI:MGI:1935201	Pcdhgc3	PMID:8575755		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	TAS			PANTHER:PTHR24028	20040211		NCBITaxon:10090
+MGI	MGI:MGI:104692	Pcdh1	PMID:8575755		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	TAS			PANTHER:PTHR24028	20040211		NCBITaxon:10090
+MGI	MGI:MGI:1855700	Pcdh12	PMID:9651350		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR24028	20040211		NCBITaxon:10090
+RGD	RGD:69280	Cdh2	PMID:11414796		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IMP			PANTHER:PTHR24027	20070730		NCBITaxon:10116
+RGD	RGD:2322	Cdh6	PMID:11803548		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	TAS			PANTHER:PTHR24027	20050217		NCBITaxon:10116
+RGD	RGD:2321	Cdh22	PMID:8626716		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR24027	20050217		NCBITaxon:10116
+UniProt	UniProtKB:Q9PSN0	Q9PSN0	PMID:10484740		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IDA				20200225		NCBITaxon:8692
+UniProt	UniProtKB:Q9H251	CDH23	PMID:11138009		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS		UniProtKB:Q9H251	PANTHER:PTHR24027	20010903		NCBITaxon:9606
+UniProt	FB:FBgn0039709	Cad99C	PMID:11162110		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS			PANTHER:PTHR24026	20030408		NCBITaxon:7227
+UniProt	MGI:MGI:2136752	Pcdhb16	PMID:11322959		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS			PANTHER:PTHR24028	20040202		NCBITaxon:10090
+UniProt	UniProtKB:Q9UN67	PCDHB10	PMID:11322959		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS		UniProtKB:Q9UN67	PANTHER:PTHR24028	20040202		NCBITaxon:9606
+UniProt	UniProtKB:Q9NRJ7	PCDHB16	PMID:11322959		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS		UniProtKB:Q9NRJ7	PANTHER:PTHR24028	20040202		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y5F2	PCDHB11	PMID:11322959		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS		UniProtKB:Q9Y5F2	PANTHER:PTHR24028	20040202		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y5F0	PCDHB13	PMID:11322959		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS		UniProtKB:Q9Y5F0	PANTHER:PTHR24028	20040202		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y5E9	PCDHB14	PMID:11322959		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS		UniProtKB:Q9Y5E9	PANTHER:PTHR24028	20040202		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y5E5	PCDHB4	PMID:11322959		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS		UniProtKB:Q9Y5E5	PANTHER:PTHR24028	20040202		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y5E4	PCDHB5	PMID:11322959		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS		UniProtKB:Q9Y5E4	PANTHER:PTHR24028	20040202		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y5E1	PCDHB9	PMID:11322959		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS		UniProtKB:Q9Y5E1	PANTHER:PTHR24028	20040202		NCBITaxon:9606
+UniProt	UniProtKB:Q95F11	rbcL	PMID:11322959		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS				20040202		NCBITaxon:123678
+UniProt	UniProtKB:Q9Y5E3	PCDHB6	PMID:11322959		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS		UniProtKB:Q9Y5E3	PANTHER:PTHR24028	20040202		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y5E6	PCDHB3	PMID:11322959		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS		UniProtKB:Q9Y5E6	PANTHER:PTHR24028	20040202		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y5E7	PCDHB2	PMID:11322959		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS		UniProtKB:Q9Y5E7	PANTHER:PTHR24028	20040202		NCBITaxon:9606
+UniProt	UniProtKB:P98194	ATP2C1	PMID:14632182		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IMP		UniProtKB:P98194	PANTHER:PTHR42861	20061127		NCBITaxon:9606
+UniProt	UniProtKB:Q02413	DSG1	PMID:1770008		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS		UniProtKB:Q02413	PANTHER:PTHR24025	20040921		NCBITaxon:9606
+UniProt	UniProtKB:P16109	SELP	PMID:28011641		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IMP		UniProtKB:P16109	PANTHER:PTHR19325	20171124		NCBITaxon:9606
+UniProt	UniProtKB:P14151	SELL	PMID:28011641		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IMP		UniProtKB:P14151	PANTHER:PTHR19325	20171124		NCBITaxon:9606
+UniProt	UniProtKB:Q9UN70	PCDHGC3	PMID:8508762		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS		UniProtKB:Q9UN70	PANTHER:PTHR24028	20050308		NCBITaxon:9606
+UniProt	UniProtKB:Q96JQ0	DCHS1	PMID:9199196		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS		UniProtKB:Q96JQ0	PANTHER:PTHR24027	20021105		NCBITaxon:9606
+UniProt	UniProtKB:Q9UN71	PCDHGB4	PMID:9199196		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NAS		UniProtKB:Q9UN71	PANTHER:PTHR24028	20050308		NCBITaxon:9606
+UniProt	RGD:621117	Nlgn1	PMID:9325340		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR43903	20030815		NCBITaxon:10116
+ZFIN	ZFIN:ZDB-GENE-000607-1	pcdh18a	PMID:18468594		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IMP	ZFIN:ZDB-MRPHLNO-080804-5		PANTHER:PTHR24028	20080805		NCBITaxon:7955
+dictyBase	dictyBase:DDB_G0285793	cadA	PMID:12135922		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IMP			PANTHER:PTHR38083	20191107		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0276399	rab8B	PMID:15289548		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IMP			PANTHER:PTHR47980	20050125		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0280043	rab8A	PMID:15289548		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IMP			PANTHER:PTHR47980	20050125		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0285793	cadA	PMID:16622066		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IGI	UniProtKB:P15064		PANTHER:PTHR38083	20190925		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0285793	cadA	PMID:17057715		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IDA			PANTHER:PTHR38083	20070514		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0274109	paxB	PMID:19213599		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IMP			PANTHER:PTHR24216	20090527		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0272344	htt	PMID:21552328		GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	IMP			PANTHER:PTHR10170	20230216		NCBITaxon:44689
+ARUK-UCL	UniProtKB:P11215	ITGAM	PMID:20199584		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	NAS		UniProtKB:P11215	PANTHER:PTHR23220	20170605		NCBITaxon:9606
+ARUK-UCL	UniProtKB:P05107	ITGB2	PMID:20199584		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	NAS		UniProtKB:P05107	PANTHER:PTHR10082	20170605		NCBITaxon:9606
+ARUK-UCL	ComplexPortal:CPX-1826	intg_am_b2_human	PMID:20199584		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	NAS				20170605		NCBITaxon:9606
+AgBase	UniProtKB:P10288	CDH2	PMID:3553211		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IMP		UniProtKB:P10288	PANTHER:PTHR24027	20170203	UBERON:0002329	NCBITaxon:9031
+RGD	RGD:621365	Epcam	PMID:19276185		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IDA			PANTHER:PTHR14168	20141216		NCBITaxon:10116
+RGD	RGD:1565355	Cd36l1	PMID:24317495		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IEP				20160322		NCBITaxon:10116
+RGD	RGD:402072544	LOC134486712	PMID:24317495		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IEP				20160322		NCBITaxon:10116
+RGD	RGD:2301	Cd36	PMID:24317495		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IEP			PANTHER:PTHR11923	20160322		NCBITaxon:10116
+UniProt	UniProtKB:Q8N6Q3	CD177	PMID:17580308		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IMP		UniProtKB:Q8N6Q3	PANTHER:PTHR16529	20170905		NCBITaxon:9606
+UniProt	UniProtKB:P16284	PECAM1	PMID:17580308		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IMP		UniProtKB:P16284	PANTHER:PTHR11481	20170905		NCBITaxon:9606
+UniProt	UniProtKB:Q8N441	FGFRL1	PMID:18061161		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IMP		UniProtKB:Q8N441	PANTHER:PTHR19890	20141208		NCBITaxon:9606
+UniProt	UniProtKB:P25189	MPZ	PMID:18337304		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IMP		UniProtKB:P25189	PANTHER:PTHR13869	20170217		NCBITaxon:9606
+UniProt	MGI:MGI:1341867	Mmp24	PMID:19805319		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IMP			PANTHER:PTHR10201	20170202		NCBITaxon:10090
+UniProt	MGI:MGI:2441950	Adgrl3	PMID:22405201		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IMP			PANTHER:PTHR12011	20170202		NCBITaxon:10090
+UniProt	MGI:MGI:1918686	Flrt3	PMID:22405201		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IMP			PANTHER:PTHR45712	20170202		NCBITaxon:10090
+UniProt	MGI:MGI:2441950	Adgrl3	PMID:25728924		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IMP			PANTHER:PTHR12011	20170202		NCBITaxon:10090
+UniProt	UniProtKB:Q9NZU0	FLRT3	PMID:26235030		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IDA		UniProtKB:Q9NZU0	PANTHER:PTHR45712	20170202		NCBITaxon:9606
+UniProt	UniProtKB:Q6UXZ4	UNC5D	PMID:26235030		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IDA		UniProtKB:Q6UXZ4	PANTHER:PTHR12582	20170202		NCBITaxon:9606
+UniProt	UniProtKB:Q9HAR2	ADGRL3	PMID:26235030		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IDA		UniProtKB:Q9HAR2	PANTHER:PTHR12011	20170202		NCBITaxon:9606
+UniProt	RGD:67396	Ceacam1	PMID:7774714		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IDA			PANTHER:PTHR44427	20170202		NCBITaxon:10116
+UniProt	RGD:3035	Mag	PMID:9298990		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IMP			PANTHER:PTHR12035	20170202		NCBITaxon:10116
+ZFIN	ZFIN:ZDB-GENE-990415-171	cdh2	PMID:12091300		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IMP	ZFIN:ZDB-GENO-070516-5		PANTHER:PTHR24027	20150904		NCBITaxon:7955
+dictyBase	dictyBase:DDB_G0267412	pspA	PMID:12468387		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IDA				20231108	GO:0031153	NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0289073	csaA	PMID:3934167		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IDA			PANTHER:PTHR31341	20190830	GO:0031152	NCBITaxon:44689
+ARUK-UCL	UniProtKB:P39900	MMP12	PMID:29101312		GO:1904905	negative regulation of endothelial cell-matrix adhesion via fibronectin	IDA		UniProtKB:P39900	PANTHER:PTHR10201	20180719	UBERON:0003729|UniProtKB:P02751	NCBITaxon:9606
+BHF-UCL	RNAcentral:URS00003768C5_9606	URS00003768C5_9606	PMID:19460962		GO:1904905	negative regulation of endothelial cell-matrix adhesion via fibronectin	IDA				20160129	GO:1903671	NCBITaxon:9606
+BHF-UCL	MGI:MGI:1915166	Plpp3	PMID:20123964		GO:1904906	positive regulation of endothelial cell-matrix adhesion via fibronectin	IDA			PANTHER:PTHR10165	20241217	CL:0000115	NCBITaxon:10090
+BHF-UCL	UniProtKB:O14495	PLPP3	PMID:20123964		GO:1904906	positive regulation of endothelial cell-matrix adhesion via fibronectin	IDA		UniProtKB:O14495	PANTHER:PTHR10165	20241217	CL:0000115	NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9UJU2	LEF1	PMID:20123964		GO:1904906	positive regulation of endothelial cell-matrix adhesion via fibronectin	TAS		UniProtKB:Q9UJU2	PANTHER:PTHR10373	20241217	CL:0000115	NCBITaxon:9606
+CACAO	UniProtKB:Q8WYP3	RIN2	PMID:22825554		GO:1904906	positive regulation of endothelial cell-matrix adhesion via fibronectin	IMP		UniProtKB:Q8WYP3	PANTHER:PTHR23101	20160411		NCBITaxon:9606
+CACAO	UniProtKB:P10301	RRAS	PMID:22825554		GO:1904906	positive regulation of endothelial cell-matrix adhesion via fibronectin	IMP		UniProtKB:P10301	PANTHER:PTHR24070	20160411		NCBITaxon:9606
+RGD	RGD:1309381	Dicer1	PMID:23239824		GO:1904906	positive regulation of endothelial cell-matrix adhesion via fibronectin	IMP			PANTHER:PTHR14950	20210802		NCBITaxon:10116
+UniProt	UniProtKB:P40199	CEACAM6	PMID:16204051		GO:1904906	positive regulation of endothelial cell-matrix adhesion via fibronectin	IMP		UniProtKB:P40199	PANTHER:PTHR44337	20180412		NCBITaxon:9606
+UniProt	UniProtKB:P19526	FUT1	PMID:18205178		GO:1904906	positive regulation of endothelial cell-matrix adhesion via fibronectin	IMP		UniProtKB:P19526	PANTHER:PTHR11927	20200117		NCBITaxon:9606
+UniProt	UniProtKB:Q13630	GFUS	PMID:18205178		GO:1904906	positive regulation of endothelial cell-matrix adhesion via fibronectin	IMP		UniProtKB:Q13630	PANTHER:PTHR43238	20200117		NCBITaxon:9606
