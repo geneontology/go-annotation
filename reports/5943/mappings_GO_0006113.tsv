@@ -1,0 +1,9 @@
+term	file	line
+GO:0006113	rfam2go	Rfam:RF02750 ES003 > GO:fermentation ; GO:0006113
+GO:0006113	rfam2go	Rfam:RF02752 ES056 > GO:fermentation ; GO:0006113
+GO:0006113	rfam2go	Rfam:RF02754 ES205 > GO:fermentation ; GO:0006113
+GO:0006113	rfam2go	Rfam:RF02755 ES222 > GO:fermentation ; GO:0006113
+GO:0006113	rfam2go	Rfam:RF02756 ES239 > GO:fermentation ; GO:0006113
+GO:0006113	metacyc2go	MetaCyc:Fermentation > GO:fermentation ; GO:0006113
+GO:0006113	interpro2go	InterPro:IPR029636 Protein Csf1 > GO:fermentation ; GO:0006113
+GO:0006113	wikipedia2go	Wikipedia:Fermentation_(biochemistry) > GO:fermentation ; GO:0006113
