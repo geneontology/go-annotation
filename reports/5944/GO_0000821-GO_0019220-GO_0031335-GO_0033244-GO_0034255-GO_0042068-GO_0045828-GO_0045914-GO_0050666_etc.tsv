@@ -1,0 +1,65 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AspGD	UniProtKB:G5EAX1	ANIA_00202	PMID:11810230		GO:0000821	regulation of arginine metabolic process	IMP			PANTHER:PTHR37534	20090807		NCBITaxon:227321
+AspGD	UniProtKB:P17429	areA	PMID:62492		GO:0000821	regulation of arginine metabolic process	IMP			PANTHER:PTHR10071	20100114		NCBITaxon:227321
+ComplexPortal	SGD:S000002580	ARG82	PMID:10632874		GO:0000821	regulation of arginine metabolic process	NAS			PANTHER:PTHR12400	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000004565	ARG81	PMID:10632874		GO:0000821	regulation of arginine metabolic process	NAS			PANTHER:PTHR31069	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000004646	MCM1	PMID:10632874		GO:0000821	regulation of arginine metabolic process	NAS			PANTHER:PTHR48019	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000004645	ARG80	PMID:10632874		GO:0000821	regulation of arginine metabolic process	NAS			PANTHER:PTHR48019	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000217598	CPX-1152	PMID:10632874		GO:0000821	regulation of arginine metabolic process	NAS				20240827		NCBITaxon:559292
+MGI	MGI:MGI:1337120	Slc7a7	PMID:17376816		GO:0000821	regulation of arginine metabolic process	IMP	MGI:MGI:3530880		PANTHER:PTHR11785	20150204		NCBITaxon:10090
+SGD	SGD:S000004565	ARG81	PMID:10688655		GO:0000821	regulation of arginine metabolic process	IMP			PANTHER:PTHR31069	20130807		NCBITaxon:559292
+SGD	SGD:S000002580	ARG82	PMID:11119723		GO:0000821	regulation of arginine metabolic process	IMP			PANTHER:PTHR12400	20130807		NCBITaxon:559292
+SGD	SGD:S000002580	ARG82	PMID:2274024		GO:0000821	regulation of arginine metabolic process	IMP			PANTHER:PTHR12400	20130807		NCBITaxon:559292
+SGD	SGD:S000002580	ARG82	PMID:8043104		GO:0000821	regulation of arginine metabolic process	IMP			PANTHER:PTHR12400	20130807		NCBITaxon:559292
+UniProt	MGI:MGI:95530	Fh1	PMID:23643539		GO:0000821	regulation of arginine metabolic process	IMP			PANTHER:PTHR11444	20190319		NCBITaxon:10090
+AspGD	UniProtKB:C8VKG6	ANIA_01867	PMID:14668368	not	GO:0019220	regulation of phosphate metabolic process	IMP			PANTHER:PTHR24056	20090911		NCBITaxon:227321
+MTBBASE	UniProtKB:P9WGL9	regX3	PMID:19686042		GO:0019220	regulation of phosphate metabolic process	IDA			PANTHER:PTHR48111	20110613		NCBITaxon:83332
+SGD	SGD:S000000927	RSP5	PMID:18165238		GO:0019220	regulation of phosphate metabolic process	IGI	SGD:S000001930		PANTHER:PTHR11254	20130807		NCBITaxon:559292
+SGD	SGD:S000002782	PHO92	PMID:24206186		GO:0019220	regulation of phosphate metabolic process	IMP			PANTHER:PTHR12357	20140219		NCBITaxon:559292
+UniProt	UniProtKB:Q83WB2	phoU	PMID:21953460		GO:0019220	regulation of phosphate metabolic process	IEP				20121217		NCBITaxon:636
+ComplexPortal	SGD:S000002736	SKP1	PMID:12150908		GO:0031335	regulation of sulfur amino acid metabolic process	NAS			PANTHER:PTHR11165	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000002290	CDC53	PMID:12150908		GO:0031335	regulation of sulfur amino acid metabolic process	NAS			PANTHER:PTHR11932	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000002461	CDC34	PMID:12150908		GO:0031335	regulation of sulfur amino acid metabolic process	NAS			PANTHER:PTHR24067	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000217844	CPX-3249	PMID:12150908		GO:0031335	regulation of sulfur amino acid metabolic process	NAS				20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000005493	HRT1	PMID:12150908		GO:0031335	regulation of sulfur amino acid metabolic process	NAS			PANTHER:PTHR11210	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000001308	MET30	PMID:12150908		GO:0031335	regulation of sulfur amino acid metabolic process	NAS			PANTHER:PTHR22847	20240827		NCBITaxon:559292
+MGI	MGI:MGI:109482	Cacna1a	PMID:1485534		GO:0031335	regulation of sulfur amino acid metabolic process	IMP	MGI:MGI:1856211		PANTHER:PTHR45628	20170227	EMAPA:17544	NCBITaxon:10090
+MGI	MGI:MGI:109482	Cacna1a	PMID:1485534		GO:0031335	regulation of sulfur amino acid metabolic process	IMP	MGI:MGI:1856211		PANTHER:PTHR45628	20170227	EMAPA:17787	NCBITaxon:10090
+MGI	MGI:MGI:109482	Cacna1a	PMID:1485534		GO:0031335	regulation of sulfur amino acid metabolic process	IMP	MGI:MGI:1856211		PANTHER:PTHR45628	20170227	EMAPA:18207	NCBITaxon:10090
+MGI	MGI:MGI:109482	Cacna1a	PMID:1485534		GO:0031335	regulation of sulfur amino acid metabolic process	IMP	MGI:MGI:1856211		PANTHER:PTHR45628	20170227	EMAPA:32845	NCBITaxon:10090
+SGD	SGD:S000005255	SKP2	PMID:20936605		GO:0031335	regulation of sulfur amino acid metabolic process	IMP				20130807		NCBITaxon:559292
+SGD	SGD:S000001456	MET28	PMID:8665859		GO:0031335	regulation of sulfur amino acid metabolic process	IMP			PANTHER:PTHR13044	20130807		NCBITaxon:559292
+SGD	SGD:S000002661	MET32	PMID:9199298		GO:0031335	regulation of sulfur amino acid metabolic process	IDA				20130807		NCBITaxon:559292
+SGD	SGD:S000002661	MET32	PMID:9199298		GO:0031335	regulation of sulfur amino acid metabolic process	IGI	SGD:S000005959			20130807		NCBITaxon:559292
+SGD	SGD:S000002661	MET32	PMID:9199298		GO:0031335	regulation of sulfur amino acid metabolic process	IMP				20130807		NCBITaxon:559292
+SGD	SGD:S000005959	MET31	PMID:9199298		GO:0031335	regulation of sulfur amino acid metabolic process	IDA				20130807		NCBITaxon:559292
+SGD	SGD:S000005959	MET31	PMID:9199298		GO:0031335	regulation of sulfur amino acid metabolic process	IGI	SGD:S000002661			20130807		NCBITaxon:559292
+SGD	SGD:S000005959	MET31	PMID:9199298		GO:0031335	regulation of sulfur amino acid metabolic process	IMP				20130807		NCBITaxon:559292
+AspGD	UniProtKB:C8VHD4	lreA	PMID:20816830		GO:0033244	regulation of penicillin metabolic process	IMP			PANTHER:PTHR47429	20101015		NCBITaxon:227321
+BHF-UCL	MGI:MGI:1352464	Nr1h4	PMID:21757002		GO:0034255	regulation of urea metabolic process	IMP			PANTHER:PTHR24082	20111201		NCBITaxon:10090
+ZFIN	ZFIN:ZDB-GENE-030616-132	mycbp2	PMID:15617681		GO:0042068	regulation of pteridine metabolic process	IMP	ZFIN:ZDB-GENO-050829-2		PANTHER:PTHR45943	20050204		NCBITaxon:7955
+EcoliWiki	EcoCyc:EG11383-MONOMER	ElbB	PMID:9603997		GO:0045828	positive regulation of isoprenoid metabolic process	IMP				20110815		NCBITaxon:83333
+MGI	MGI:MGI:99400	Atp7a	PMID:17511		GO:0045914	negative regulation of catecholamine metabolic process	IMP	MGI:MGI:1856098		PANTHER:PTHR43520	20191206	GO:0006584	NCBITaxon:10090
+UniProt	RGD:1305524	Nt5dc2	PMID:31279527		GO:0045914	negative regulation of catecholamine metabolic process	IMP			PANTHER:PTHR12103	20240909		NCBITaxon:10116
+UniProt	UniProtKB:Q93088	BHMT	PMID:10075673		GO:0050666	regulation of homocysteine metabolic process	NAS		UniProtKB:Q93088	PANTHER:PTHR46120	20041206		NCBITaxon:9606
+ZFIN	ZFIN:ZDB-GENE-021030-3	cbsb	PMID:29503817		GO:0050666	regulation of homocysteine metabolic process	IMP	ZFIN:ZDB-MRPHLNO-180727-2			20180808		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-021030-3	cbsb	PMID:29503817		GO:0050666	regulation of homocysteine metabolic process	IMP	ZFIN:ZDB-GENO-180808-2			20180808		NCBITaxon:7955
+RGD	RGD:2379	Comt	PMID:15779086		GO:0050668	positive regulation of homocysteine metabolic process	IMP			PANTHER:PTHR43836	20080211		NCBITaxon:10116
+TAIR	AGI_LocusCode:AT1G67810	SUFE2	PMID:17452319|TAIR:Publication:501721345		GO:0051176	positive regulation of sulfur metabolic process	IDA		TAIR:locus:2824065		20090124		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G50210	QS	PMID:17452319|TAIR:Publication:501721345		GO:0051176	positive regulation of sulfur metabolic process	IDA		TAIR:locus:2157747		20090124		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G08910	PIAL1	PMID:25415977|TAIR:Publication:501761967		GO:0051176	positive regulation of sulfur metabolic process	IGI	AGI_LocusCode:AT5G41580	TAIR:locus:2035999		20141218		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G41580	PIAL2	PMID:25415977|TAIR:Publication:501761967		GO:0051176	positive regulation of sulfur metabolic process	IGI	AGI_LocusCode:AT1G08910	TAIR:locus:2160417		20141218		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT1G08910	PIAL1	PMID:25415977|TAIR:Publication:501761967		GO:0051176	positive regulation of sulfur metabolic process	IGI	AGI_LocusCode:AT1G08910	TAIR:locus:2035999		20210331		NCBITaxon:3702
+ARUK-UCL	MGI:MGI:1923824	Mfsd2a	PMID:30074985		GO:0150178	regulation of phosphatidylserine metabolic process	IMP			PANTHER:PTHR11328	20200210	UBERON:0007221|GO:0007420|UBERON:0000201	NCBITaxon:10090
+ParkinsonsUK-UCL	UniProtKB:Q9BZ23	PANK2	PMID:22221393		GO:1904251	regulation of bile acid metabolic process	IMP		UniProtKB:Q9BZ23	PANTHER:PTHR12280	20150520		NCBITaxon:9606
+RGD	RGD:620568	Kit	PMID:7542218		GO:1904251	regulation of bile acid metabolic process	IMP			PANTHER:PTHR24416	20170623		NCBITaxon:10116
+UniProt	MGI:MGI:1351619	Abcb11	PMID:23764895		GO:1904251	regulation of bile acid metabolic process	IMP			PANTHER:PTHR24221	20200430		NCBITaxon:10090
+BHF-UCL	UniProtKB:Q16665	HIF1A	PMID:18254728		GO:1904407	positive regulation of nitric oxide metabolic process	TAS		UniProtKB:Q16665	PANTHER:PTHR23043	20250216		NCBITaxon:9606
+RGD	RGD:3197	Npy	PMID:18805447		GO:1904407	positive regulation of nitric oxide metabolic process	IDA			PANTHER:PTHR10533	20151208		NCBITaxon:10116
+UniProt	MGI:MGI:1922056	Tmem106a	PMID:26215746		GO:1904407	positive regulation of nitric oxide metabolic process	IDA			PANTHER:PTHR28556	20190314		NCBITaxon:10090
+BHF-UCL	MGI:MGI:1352464	Nr1h4	PMID:21757002		GO:2000213	positive regulation of glutamate metabolic process	IMP			PANTHER:PTHR24082	20111201		NCBITaxon:10090
+UniProt	WB:WBGene00020146	got-1.2	PMID:29649217		GO:2000213	positive regulation of glutamate metabolic process	IMP			PANTHER:PTHR11879	20180927		NCBITaxon:6239
+AgBase	UniProtKB:P09538	gh1	PMID:24197496		GO:2000376	positive regulation of oxygen metabolic process	IDA				20150522		NCBITaxon:8022
+AgBase	UniProtKB:P20332	gh2	PMID:24197496		GO:2000376	positive regulation of oxygen metabolic process	IDA				20150522		NCBITaxon:8022
+UniProt	MGI:MGI:97173	Mt3	PMID:21726645		GO:2000376	positive regulation of oxygen metabolic process	IMP			PANTHER:PTHR23299	20120110		NCBITaxon:10090
+UniProt	UniProtKB:A6NK58	LIPT2	PMID:28757203		GO:2000376	positive regulation of oxygen metabolic process	IMP		UniProtKB:A6NK58	PANTHER:PTHR10993	20171025		NCBITaxon:9606
