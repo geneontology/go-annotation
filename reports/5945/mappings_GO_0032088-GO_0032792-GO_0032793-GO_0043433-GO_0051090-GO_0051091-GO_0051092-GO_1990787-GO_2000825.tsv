@@ -1,0 +1,11 @@
+term	file	line
+GO:0032088	interpro2go	InterPro:IPR027128 TNF receptor-associated factor 3, C3HC3D-type RING zinc finger > GO:negative regulation of NF-kappaB transcription factor activity ; GO:0032088
+GO:0032088	interpro2go	InterPro:IPR037304 TNF receptor-associated factor 3, MATH domain > GO:negative regulation of NF-kappaB transcription factor activity ; GO:0032088
+GO:0032088	interpro2go	InterPro:IPR038840 RWD domain-containing protein 3 > GO:negative regulation of NF-kappaB transcription factor activity ; GO:0032088
+GO:0032793	interpro2go	InterPro:IPR024786 CREB-regulated transcription coactivator > GO:positive regulation of CREB transcription factor activity ; GO:0032793
+GO:0032793	interpro2go	InterPro:IPR047908 Testis-specific serine/threonine kinase 4, catalytic domain > GO:positive regulation of CREB transcription factor activity ; GO:0032793
+GO:0051090	rfam2go	Rfam:RF03532 SQ2397 > GO:regulation of DNA-binding transcription factor activity ; GO:0051090
+GO:0051090	reactome2go	Reactome:R-HSA-9708530 > GO:regulation of DNA-binding transcription factor activity ; GO:0051090
+GO:0051091	interpro2go	InterPro:IPR039335 Sigma factor binding protein 1/2 > GO:positive regulation of DNA-binding transcription factor activity ; GO:0051091
+GO:0051092	interpro2go	InterPro:IPR027258 Mitogen-activated protein kinase kinase kinase 13 > GO:positive regulation of NF-kappaB transcription factor activity ; GO:0051092
+GO:0051092	interpro2go	InterPro:IPR033238 B-cell lymphoma/leukemia 10/E10 > GO:positive regulation of NF-kappaB transcription factor activity ; GO:0051092
