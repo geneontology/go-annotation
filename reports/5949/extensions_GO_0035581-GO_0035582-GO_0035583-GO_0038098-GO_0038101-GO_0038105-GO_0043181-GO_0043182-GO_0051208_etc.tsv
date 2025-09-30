@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	FB:FBgn0003463	sog	PMID:12925593		GO:0140311	protein sequestering activity	IDA			PANTHER:PTHR46526	20240423	FB:FBgn0000490|GO:0038098	NCBITaxon:7227
