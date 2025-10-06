@@ -3,7 +3,7 @@ name: ARBA issue
 about: Report incorrect ARBA annotation
 title: ''
 labels: ARBA
-assignees: PedroRaposo
+assignees: PedroRaposo, nadya-urakova
 
 ---
 
