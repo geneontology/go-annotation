@@ -1,0 +1,99 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	UniProtKB:P39656	DDOST	PMID:22467853		GO:0018279	protein N-linked glycosylation via asparagine	IMP		UniProtKB:P39656	PANTHER:PTHR10830	20230221		NCBITaxon:9606
+ARUK-UCL	UniProtKB:P61803	DAD1	PMID:22467853		GO:0018279	protein N-linked glycosylation via asparagine	IMP		UniProtKB:P61803	PANTHER:PTHR10705	20230221		NCBITaxon:9606
+CGD	CGD:CAL0000182900	VRG4	PMID:11741841|CGD_REF:CAL0081527		GO:0018279	protein N-linked glycosylation via asparagine	IMP			PANTHER:PTHR11132	20240807		NCBITaxon:237561
+CGD	CGD:CAL0000179131	KTR4	PMID:20164191|CGD_REF:CAL0124956		GO:0018279	protein N-linked glycosylation via asparagine	IGI	CGD:CAL0000183851|SGD:KTR6		PANTHER:PTHR31121	20240807		NCBITaxon:237561
+CGD	CGD:CAL0000188769	MNT3	PMID:20164191|CGD_REF:CAL0124956		GO:0018279	protein N-linked glycosylation via asparagine	IGI	SGD:KTR6		PANTHER:PTHR31121	20240807		NCBITaxon:237561
+CGD	CGD:CAL0000183851	KTR2	PMID:20164191|CGD_REF:CAL0124956		GO:0018279	protein N-linked glycosylation via asparagine	IGI	CGD:CAL0000179131|SGD:KTR6		PANTHER:PTHR31121	20240807		NCBITaxon:237561
+CGD	CGD:CAL0000183221	CWH41	PMID:20358285|CGD_REF:CAL0125149		GO:0018279	protein N-linked glycosylation via asparagine	IDA			PANTHER:PTHR10412	20240807		NCBITaxon:237561
+CGD	CGD:CAL0000183851	KTR2	PMID:22326920|CGD_REF:CAL0000144006		GO:0018279	protein N-linked glycosylation via asparagine	IDA			PANTHER:PTHR31121	20240807		NCBITaxon:237561
+CGD	CGD:CAL0000181174	SPF1	PMID:23731904|CGD_REF:CAL0000172373		GO:0018279	protein N-linked glycosylation via asparagine	IMP			PANTHER:PTHR45630	20240807		NCBITaxon:237561
+CGD	CGD:CAL0000175581	DPM2	PMID:26299246|CGD_REF:CAL0000212764		GO:0018279	protein N-linked glycosylation via asparagine	IMP			PANTHER:PTHR15039	20240807		NCBITaxon:237561
+CGD	CGD:CAL0000175946	DPM3	PMID:26299246|CGD_REF:CAL0000212764		GO:0018279	protein N-linked glycosylation via asparagine	IMP			PANTHER:PTHR16433	20240807		NCBITaxon:237561
+CGD	CGD:CAL0000190463	DPM1	PMID:26299246|CGD_REF:CAL0000212764		GO:0018279	protein N-linked glycosylation via asparagine	IMP			PANTHER:PTHR43398	20240807		NCBITaxon:237561
+CGD	CGD:CAL0000176261	GFA1	PMID:8636033|CGD_REF:CAL0081343		GO:0018279	protein N-linked glycosylation via asparagine	IGI	SGD:GFA1		PANTHER:PTHR10937	20240807		NCBITaxon:237561
+FlyBase	FB:FBgn0036485	FucTA	PMID:16314421		GO:0018279	protein N-linked glycosylation via asparagine	IMP			PANTHER:PTHR11929	20250113		NCBITaxon:7227
+FlyBase	FB:FBgn0034521	Mgat1	PMID:16522637		GO:0018279	protein N-linked glycosylation via asparagine	IDA			PANTHER:PTHR10468	20071012		NCBITaxon:7227
+FlyBase	FB:FBgn0263852	Dad1	PMID:27693235		GO:0018279	protein N-linked glycosylation via asparagine	IMP			PANTHER:PTHR10705	20250407		NCBITaxon:7227
+FlyBase	FB:FBgn0011297	Alg3	PMID:29870719		GO:0018279	protein N-linked glycosylation via asparagine	IMP			PANTHER:PTHR12646	20250306		NCBITaxon:7227
+FlyBase	UniProtKB:Q9H0U3	MAGT1	PMID:31337704		GO:0018279	protein N-linked glycosylation via asparagine	IMP		UniProtKB:Q9H0U3	PANTHER:PTHR12692	20250408		NCBITaxon:9606
+FlyBase	FB:FBgn0030289	GCS1	PMID:34544850		GO:0018279	protein N-linked glycosylation via asparagine	IMP			PANTHER:PTHR10412	20250409		NCBITaxon:7227
+FlyBase	FB:FBgn0029906	xit	PMID:39191750		GO:0018279	protein N-linked glycosylation via asparagine	IMP			PANTHER:PTHR12413	20250307		NCBITaxon:7227
+FlyBase	FB:FBgn0052076	Alg10	PMID:39191750		GO:0018279	protein N-linked glycosylation via asparagine	IMP			PANTHER:PTHR12989	20250307		NCBITaxon:7227
+MGI	MGI:MGI:2384966	Mgat2	PMID:12417412		GO:0018279	protein N-linked glycosylation via asparagine	IMP	MGI:MGI:2667740		PANTHER:PTHR12871	20060531		NCBITaxon:10090
+PomBase	PomBase:SPAC824.08	gda1	PMID:14612233		GO:0018279	protein N-linked glycosylation via asparagine	IMP			PANTHER:PTHR11782	20170124		NCBITaxon:4896
+PomBase	PomBase:SPAC7D4.06c	alg3	PMID:20854854		GO:0018279	protein N-linked glycosylation via asparagine	IMP			PANTHER:PTHR12646	20191030		NCBITaxon:4896
+PomBase	PomBase:SPAC1006.05c	och1	PMID:20854854		GO:0018279	protein N-linked glycosylation via asparagine	IMP			PANTHER:PTHR31834	20191030		NCBITaxon:4896
+PomBase	PomBase:SPBC342.01c	alg6	PMID:27587357		GO:0018279	protein N-linked glycosylation via asparagine	EXP			PANTHER:PTHR12413	20171020		NCBITaxon:4896
+PomBase	PomBase:SPBC56F2.10c	alg5	PMID:27587357		GO:0018279	protein N-linked glycosylation via asparagine	EXP			PANTHER:PTHR10859	20171020		NCBITaxon:4896
+PomBase	PomBase:SPAC1006.05c	och1	PMID:32650974		GO:0018279	protein N-linked glycosylation via asparagine	IMP			PANTHER:PTHR31834	20200722		NCBITaxon:4896
+PomBase	PomBase:SPBC1734.04	anp1	PMID:32650974		GO:0018279	protein N-linked glycosylation via asparagine	IMP			PANTHER:PTHR43083	20200722		NCBITaxon:4896
+PomBase	PomBase:SPAC4F10.10c	mnn9	PMID:32650974		GO:0018279	protein N-linked glycosylation via asparagine	IMP			PANTHER:PTHR43083	20200722		NCBITaxon:4896
+PomBase	PomBase:SPAC22E12.06c	gmh3	PMID:33909078		GO:0018279	protein N-linked glycosylation via asparagine	EXP			PANTHER:PTHR31306	20210518		NCBITaxon:4896
+PomBase	PomBase:SPAC5H10.13c	gmh2	PMID:33909078		GO:0018279	protein N-linked glycosylation via asparagine	EXP			PANTHER:PTHR31306	20210518		NCBITaxon:4896
+PomBase	PomBase:SPCC736.04c	gma12	PMID:33909078		GO:0018279	protein N-linked glycosylation via asparagine	EXP			PANTHER:PTHR31306	20210518		NCBITaxon:4896
+PomBase	PomBase:SPAC5H10.11	gmh1	PMID:33909078		GO:0018279	protein N-linked glycosylation via asparagine	EXP			PANTHER:PTHR31306	20210518		NCBITaxon:4896
+PomBase	PomBase:SPBC342.01c	alg6	PMID:9813085		GO:0018279	protein N-linked glycosylation via asparagine	IMP			PANTHER:PTHR12413	20171030		NCBITaxon:4896
+PomBase	PomBase:SPAC22E12.06c	gmh3	PMID:9839953		GO:0018279	protein N-linked glycosylation via asparagine	IDA			PANTHER:PTHR31306	20190109		NCBITaxon:4896
+PomBase	PomBase:SPCC736.04c	gma12	PMID:9839953		GO:0018279	protein N-linked glycosylation via asparagine	IDA			PANTHER:PTHR31306	20190109		NCBITaxon:4896
+Reactome	UniProtKB:O60762	DPM1	Reactome:R-HSA-162699		GO:0018279	protein N-linked glycosylation via asparagine	TAS		UniProtKB:O60762	PANTHER:PTHR43398	20241117		NCBITaxon:9606
+Reactome	UniProtKB:Q8NHY0	B4GALNT2	Reactome:R-HSA-446203		GO:0018279	protein N-linked glycosylation via asparagine	TAS		UniProtKB:Q8NHY0	PANTHER:PTHR15046	20241117		NCBITaxon:9606
+Reactome	UniProtKB:Q9Y673	ALG5	Reactome:R-HSA-480985		GO:0018279	protein N-linked glycosylation via asparagine	TAS		UniProtKB:Q9Y673	PANTHER:PTHR10859	20241117		NCBITaxon:9606
+Reactome	UniProtKB:O95848	NUDT14	Reactome:R-HSA-480985		GO:0018279	protein N-linked glycosylation via asparagine	TAS		UniProtKB:O95848	PANTHER:PTHR11839	20241117		NCBITaxon:9606
+SGD	SGD:S000003539	OST1	PMID:9988747		GO:0018279	protein N-linked glycosylation via asparagine	IDA			PANTHER:PTHR21049	20190822		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT5G55500	XYLT	PMID:10781814|TAIR:Publication:501		GO:0018279	protein N-linked glycosylation via asparagine	IDA		TAIR:locus:2173892		20240828		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G19280	FUT11	PMID:12770780|TAIR:Publication:501707072		GO:0018279	protein N-linked glycosylation via asparagine	IDA		TAIR:locus:2094078		20240828		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G66680	DGL1	PMID:15860005|TAIR:Publication:501715242		GO:0018279	protein N-linked glycosylation via asparagine	IMP		TAIR:locus:2173659		20050728		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G14950	GMII	PMID:16460512|TAIR:Publication:501718588		GO:0018279	protein N-linked glycosylation via asparagine	IDA		TAIR:locus:2147855		20240828		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G11755	LEW1	PMID:18612099|TAIR:Publication:501727383		GO:0018279	protein N-linked glycosylation via asparagine	IMP		TAIR:locus:4010713435		20240828		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G40190	LEW3	PMID:19732381|TAIR:Publication:501734878		GO:0018279	protein N-linked glycosylation via asparagine	IMP		TAIR:locus:2065080		20240828		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G02145	ALG12	PMID:20023196|TAIR:Publication:501735637		GO:0018279	protein N-linked glycosylation via asparagine	IMP		TAIR:locus:4010713407		20240828		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G02410	ALG10	PMID:21707802|TAIR:Publication:501743018		GO:0018279	protein N-linked glycosylation via asparagine	IMP		TAIR:locus:2180162		20240828		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G61790	OST3/6	PMID:23493405|TAIR:Publication:501753854		GO:0018279	protein N-linked glycosylation via asparagine	IMP		TAIR:locus:2195743		20240828		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G16530	PPRD2	PMID:26628744|TAIR:Publication:501767307		GO:0018279	protein N-linked glycosylation via asparagine	IMP		TAIR:locus:2045126		20240828		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G01720	OST1a	PMID:29385647|TAIR:Publication:501778606		GO:0018279	protein N-linked glycosylation via asparagine	IMP		TAIR:locus:2065378		20240828		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G76400	OST1b	PMID:29385647|TAIR:Publication:501778606		GO:0018279	protein N-linked glycosylation via asparagine	IMP		TAIR:locus:2014579		20240828		NCBITaxon:3702
+UniProt	UniProtKB:Q09328	MGAT5	PMID:10395745		GO:0018279	protein N-linked glycosylation via asparagine	IDA		UniProtKB:Q09328	PANTHER:PTHR15075	20180919		NCBITaxon:9606
+UniProt	FB:FBgn0036485	FucTA	PMID:11382750		GO:0018279	protein N-linked glycosylation via asparagine	IDA			PANTHER:PTHR11929	20250113		NCBITaxon:7227
+UniProt	UniProtKB:E2RG47	STT3B	PMID:12887896		GO:0018279	protein N-linked glycosylation via asparagine	IDA		UniProtKB:E2RG47	PANTHER:PTHR13872	20111007		NCBITaxon:9615
+UniProt	UniProtKB:F1PJP5	STT3A	PMID:12887896		GO:0018279	protein N-linked glycosylation via asparagine	IDA		UniProtKB:F1PJP5	PANTHER:PTHR13872	20111007		NCBITaxon:9615
+UniProt	UniProtKB:A0A8I3NJ18	TUSC3	PMID:12887896		GO:0018279	protein N-linked glycosylation via asparagine	IDA		UniProtKB:A0A8I3NJ18		20250115		NCBITaxon:9615
+UniProt	UniProtKB:Q0P9C7	pglJ	PMID:16186480		GO:0018279	protein N-linked glycosylation via asparagine	IDA				20130423		NCBITaxon:192222
+UniProt	UniProtKB:Q0P9C9	pglA	PMID:16186480		GO:0018279	protein N-linked glycosylation via asparagine	IDA				20130423		NCBITaxon:192222
+UniProt	UniProtKB:Q0P9C6	pglI	PMID:16186480		GO:0018279	protein N-linked glycosylation via asparagine	IDA				20130423		NCBITaxon:192222
+UniProt	UniProtKB:Q0P9C5	pglH	PMID:16186480		GO:0018279	protein N-linked glycosylation via asparagine	IDA				20130423		NCBITaxon:192222
+UniProt	UniProtKB:Q0P9C8	pglB	PMID:16356848		GO:0018279	protein N-linked glycosylation via asparagine	IDA				20130423		NCBITaxon:192222
+UniProt	UniProtKB:Q0P9C4	pglK	PMID:16498400		GO:0018279	protein N-linked glycosylation via asparagine	IDA				20130423		NCBITaxon:192222
+UniProt	UniProtKB:Q0P9C4	pglK	PMID:16547029		GO:0018279	protein N-linked glycosylation via asparagine	IDA				20130423		NCBITaxon:192222
+UniProt	UniProtKB:Q0P9D0	pglC	PMID:16618123		GO:0018279	protein N-linked glycosylation via asparagine	IDA				20130423		NCBITaxon:192222
+UniProt	UniProtKB:P26572	MGAT1	PMID:1702225		GO:0018279	protein N-linked glycosylation via asparagine	IDA		UniProtKB:P26572	PANTHER:PTHR10468	20180918		NCBITaxon:9606
+UniProt	UniProtKB:Q0P9D1	pglD	PMID:17087520		GO:0018279	protein N-linked glycosylation via asparagine	IDA				20130423		NCBITaxon:192222
+UniProt	UniProtKB:Q9BYC5	FUT8	PMID:17172260		GO:0018279	protein N-linked glycosylation via asparagine	IDA		UniProtKB:Q9BYC5	PANTHER:PTHR13132	20131120		NCBITaxon:9606
+UniProt	UniProtKB:P04843	RPN1	PMID:17264154		GO:0018279	protein N-linked glycosylation via asparagine	IMP		UniProtKB:P04843	PANTHER:PTHR21049	20130902		NCBITaxon:9606
+UniProt	UniProtKB:P46977	STT3A	PMID:19167329		GO:0018279	protein N-linked glycosylation via asparagine	IMP		UniProtKB:P46977	PANTHER:PTHR13872	20120920		NCBITaxon:9606
+UniProt	UniProtKB:Q8TCJ2	STT3B	PMID:19167329		GO:0018279	protein N-linked glycosylation via asparagine	IMP		UniProtKB:Q8TCJ2	PANTHER:PTHR13872	20120920		NCBITaxon:9606
+UniProt	UniProtKB:B9KDD4	pglB	PMID:21677752		GO:0018279	protein N-linked glycosylation via asparagine	IDA				20130423		NCBITaxon:306263
+UniProt	UniProtKB:B3H2N2	APP7_1697	PMID:21852240		GO:0018279	protein N-linked glycosylation via asparagine	IDA				20140707		NCBITaxon:537457
+UniProt	UniProtKB:B3H2N1	APP7_1696	PMID:21852240		GO:0018279	protein N-linked glycosylation via asparagine	IDA				20140707		NCBITaxon:537457
+UniProt	MGI:MGI:108470	St6gal1	PMID:22039275		GO:0018279	protein N-linked glycosylation via asparagine	IDA			PANTHER:PTHR46059	20180917		NCBITaxon:10090
+UniProt	UniProtKB:Q8TCJ2	STT3B	PMID:22607976		GO:0018279	protein N-linked glycosylation via asparagine	IMP		UniProtKB:Q8TCJ2	PANTHER:PTHR13872	20120920		NCBITaxon:9606
+UniProt	UniProtKB:Q96Q80	DERL3	PMID:22607976		GO:0018279	protein N-linked glycosylation via asparagine	IMP		UniProtKB:Q96Q80	PANTHER:PTHR11009	20120920		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y385	UBE2J1	PMID:22607976		GO:0018279	protein N-linked glycosylation via asparagine	IMP		UniProtKB:Q9Y385	PANTHER:PTHR24068	20120920		NCBITaxon:9606
+UniProt	UniProtKB:P0C6T2	OST4	PMID:23606741		GO:0018279	protein N-linked glycosylation via asparagine	IMP		UniProtKB:P0C6T2	PANTHER:PTHR48164	20170228		NCBITaxon:9606
+UniProt	UniProtKB:P15907	ST6GAL1	PMID:23999306		GO:0018279	protein N-linked glycosylation via asparagine	IDA		UniProtKB:P15907	PANTHER:PTHR46059	20131121		NCBITaxon:9606
+UniProt	UniProtKB:Q9H0U3	MAGT1	PMID:25135935		GO:0018279	protein N-linked glycosylation via asparagine	IMP		UniProtKB:Q9H0U3	PANTHER:PTHR12692	20170228		NCBITaxon:9606
+UniProt	UniProtKB:Q13454	TUSC3	PMID:26864433		GO:0018279	protein N-linked glycosylation via asparagine	IMP		UniProtKB:Q13454	PANTHER:PTHR12692	20170228		NCBITaxon:9606
+UniProt	MGI:MGI:2141959	Alg8	PMID:28375157		GO:0018279	protein N-linked glycosylation via asparagine	IMP			PANTHER:PTHR12413	20181221		NCBITaxon:10090
+UniProt	UniProtKB:Q8N6L1	KRTCAP2	PMID:28860277		GO:0018279	protein N-linked glycosylation via asparagine	IDA		UniProtKB:Q8N6L1	PANTHER:PTHR32001	20241121		NCBITaxon:9606
+UniProt	UniProtKB:Q9NRP0	OSTC	PMID:28860277		GO:0018279	protein N-linked glycosylation via asparagine	IDA		UniProtKB:Q9NRP0	PANTHER:PTHR13160	20241121		NCBITaxon:9606
+UniProt	UniProtKB:Q10469	MGAT2	PMID:29666272		GO:0018279	protein N-linked glycosylation via asparagine	IDA		UniProtKB:Q10469	PANTHER:PTHR12871	20180917		NCBITaxon:9606
+UniProt	UniProtKB:Q09328	MGAT5	PMID:30140003		GO:0018279	protein N-linked glycosylation via asparagine	IDA		UniProtKB:Q09328	PANTHER:PTHR15075	20180919		NCBITaxon:9606
+UniProt	UniProtKB:P46977	STT3A	PMID:31296534		GO:0018279	protein N-linked glycosylation via asparagine	IDA		UniProtKB:P46977	PANTHER:PTHR13872	20241125		NCBITaxon:9606
+UniProt	UniProtKB:Q8TCJ2	STT3B	PMID:31296534		GO:0018279	protein N-linked glycosylation via asparagine	IDA		UniProtKB:Q8TCJ2	PANTHER:PTHR13872	20241125		NCBITaxon:9606
+UniProt	UniProtKB:P46977	STT3A	PMID:38670073		GO:0018279	protein N-linked glycosylation via asparagine	IDA		UniProtKB:P46977	PANTHER:PTHR13872	20241125		NCBITaxon:9606
+UniProt	UniProtKB:Q10469	MGAT2	PMID:7635144		GO:0018279	protein N-linked glycosylation via asparagine	IDA		UniProtKB:Q10469	PANTHER:PTHR12871	20180917		NCBITaxon:9606
+UniProt	UniProtKB:Q10469	MGAT2	PMID:8808595		GO:0018279	protein N-linked glycosylation via asparagine	IMP		UniProtKB:Q10469	PANTHER:PTHR12871	20180917		NCBITaxon:9606
+UniProt	UniProtKB:P97259	MGAT5	PMID:8910328		GO:0018279	protein N-linked glycosylation via asparagine	IDA				20180919		NCBITaxon:10029
+WB	WB:WBGene00018604	uggt-1	PMID:22073243		GO:0018279	protein N-linked glycosylation via asparagine	IGI	PomBase:SPBPJ4664.06		PANTHER:PTHR11226	20121005		NCBITaxon:6239
+WB	WB:WBGene00018604	uggt-1	PMID:22073243		GO:0018279	protein N-linked glycosylation via asparagine	IMP			PANTHER:PTHR11226	20111114		NCBITaxon:6239
+dictyBase	dictyBase:DDB_G0285815	gpt1	PMID:20170636		GO:0018279	protein N-linked glycosylation via asparagine	IMP			PANTHER:PTHR24045	20100702		NCBITaxon:44689

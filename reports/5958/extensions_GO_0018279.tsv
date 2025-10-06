@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPBC1734.04	anp1	PMID:32650974		GO:0000030	mannosyltransferase activity	IMP			PANTHER:PTHR43083	20200721	GO:0018279	NCBITaxon:4896
+PomBase	PomBase:SPAC4F10.10c	mnn9	PMID:32650974		GO:0000030	mannosyltransferase activity	IMP			PANTHER:PTHR43083	20200721	GO:0018279	NCBITaxon:4896
+UniProt	UniProtKB:Q8TCJ2	STT3B	PMID:39509507		GO:0004579	dolichyl-diphosphooligosaccharide-protein glycotransferase activity	IDA		UniProtKB:Q8TCJ2	PANTHER:PTHR13872	20241125	UniProtKB:P14625|GO:0043687|GO:0018279	NCBITaxon:9606
