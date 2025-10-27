@@ -1,0 +1,8 @@
+term	file	line
+GO:0043682	reactome2go	Reactome:R-HSA-3697838 > GO:P-type divalent copper transporter activity ; GO:0043682
+GO:0043682	reactome2go	Reactome:R-HSA-6803545 > GO:P-type divalent copper transporter activity ; GO:0043682
+GO:0043682	reactome2go	Reactome:R-HSA-936802 > GO:P-type divalent copper transporter activity ; GO:0043682
+GO:0043682	reactome2go	Reactome:R-HSA-936895 > GO:P-type divalent copper transporter activity ; GO:0043682
+GO:0043682	metacyc2go	MetaCyc:TRANS-RXN-178 > GO:P-type divalent copper transporter activity ; GO:0043682
+GO:0043682	rhea2go	RHEA:10376 > GO:P-type divalent copper transporter activity ; GO:0043682
+GO:0043682	ec2go	EC:7.2.2.9 > GO:P-type divalent copper transporter activity ; GO:0043682

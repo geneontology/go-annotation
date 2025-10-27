@@ -1,0 +1,11 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CGD	CGD:CAL0000174668	CRP1	PMID:10940034|CGD_REF:CAL0081081		GO:0043682	P-type divalent copper transporter activity	IMP			PANTHER:PTHR43520	20140625		NCBITaxon:237561
+MGI	MGI:MGI:103297	Atp7b	PMID:11237756		GO:0043682	P-type divalent copper transporter activity	IDA		MGI:MGI:103297	PANTHER:PTHR43520	20061130		NCBITaxon:10090
+MGI	MGI:MGI:103297	Atp7b	PMID:11237756		GO:0043682	P-type divalent copper transporter activity	IMP	MGI:MGI:1856220	MGI:MGI:103297	PANTHER:PTHR43520	20061130		NCBITaxon:10090
+MGI	MGI:MGI:103297	Atp7b	PMID:15634671		GO:0043682	P-type divalent copper transporter activity	IDA		MGI:MGI:103297	PANTHER:PTHR43520	20061018		NCBITaxon:10090
+MGI	MGI:MGI:99400	Atp7a	PMID:15634671		GO:0043682	P-type divalent copper transporter activity	IDA		MGI:MGI:99400	PANTHER:PTHR43520	20250930		NCBITaxon:10090
+MGI	MGI:MGI:103297	Atp7b	PMID:16436657		GO:0043682	P-type divalent copper transporter activity	IMP	MGI:MGI:2158253	MGI:MGI:103297	PANTHER:PTHR43520	20241105		NCBITaxon:10090
+Reactome	UniProtKB:P35670	ATP7B	Reactome:R-HSA-936895		GO:0043682	P-type divalent copper transporter activity	TAS		UniProtKB:P35670	PANTHER:PTHR43520	20250521		NCBITaxon:9606
+UniProt	UniProtKB:P35670	ATP7B	PMID:12763797		GO:0043682	P-type divalent copper transporter activity	NAS		UniProtKB:P35670	PANTHER:PTHR43520	20051118		NCBITaxon:9606
+UniProt	UniProtKB:P35670	ATP7B	PMID:16472602		GO:0043682	P-type divalent copper transporter activity	TAS		UniProtKB:P35670	PANTHER:PTHR43520	20061206		NCBITaxon:9606
+UniProt	UniProtKB:P35670	ATP7B	PMID:9837819		GO:0043682	P-type divalent copper transporter activity	IMP		UniProtKB:P35670	PANTHER:PTHR43520	20160121		NCBITaxon:9606
