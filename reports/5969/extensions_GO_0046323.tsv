@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:1315197	Hk2	PMID:17639019		GO:0046324	regulation of D-glucose import	IMP	MGI:MGI:3624862	MGI:MGI:1315197	PANTHER:PTHR19443	20101227	GO:0046323	NCBITaxon:10090
+MGI	MGI:MGI:1346865	Mapk14	PMID:19403598		GO:0046326	positive regulation of D-glucose import	IMP		MGI:MGI:1346865	PANTHER:PTHR24055	20141203	GO:0046323	NCBITaxon:10090
+MGI	MGI:MGI:107612	Rtn2	PMID:19720795		GO:0046324	regulation of D-glucose import	IMP	MGI:MGI:3528884	MGI:MGI:107612	PANTHER:PTHR45799	20130809	GO:0046323	NCBITaxon:10090
+MGI	MGI:MGI:1914639	C1qtnf12	PMID:22275362		GO:0046326	positive regulation of D-glucose import	IMP		MGI:MGI:1914639	PANTHER:PTHR24019	20120510	GO:0046323	NCBITaxon:10090
