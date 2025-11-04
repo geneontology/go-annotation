@@ -1,7 +1,7 @@
 ---
-name: Report UniRule issues
+name: UniRule issues
 about: UniRule issues
-title: 'Incorrect Unirule mapping: '
+title: 'UniRule2GO issue:'
 labels: UniRule
 assignees: PedroRaposo
 
