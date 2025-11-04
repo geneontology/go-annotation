@@ -1,7 +1,7 @@
 ---
 name: InterPro issue
 about: Report incorrect InterPro assignments
-title: ''
+title: 'InterPro2GO issue:'
 labels: InterPro mapping
 assignees: blazaropinto, sarach06, tony787
 
