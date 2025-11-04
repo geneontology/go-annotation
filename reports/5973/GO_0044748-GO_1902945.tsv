@@ -1,0 +1,9 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	FB:FBgn0032924	Nbr	PMID:22055292		GO:0044748	3'-5'-exoribonuclease activity involved in mature miRNA 3'-end processing	IMP		FB:FBgn0032924	PANTHER:PTHR13620	20121206		NCBITaxon:7227
+FlyBase	FB:FBgn0032924	Nbr	PMID:22055293		GO:0044748	3'-5'-exoribonuclease activity involved in mature miRNA 3'-end processing	IMP		FB:FBgn0032924	PANTHER:PTHR13620	20130207		NCBITaxon:7227
+TAIR	AGI_LocusCode:AT3G50100	SDN1	PMID:30181559|TAIR:Publication:501781195		GO:0044748	3'-5'-exoribonuclease activity involved in mature miRNA 3'-end processing	IDA		TAIR:locus:2083163		20180918		NCBITaxon:3702
+ARUK-UCL	UniProtKB:Q10741	ADAM10	PMID:10097139		GO:1902945	metalloendopeptidase activity involved in amyloid precursor protein catabolic process	IDA		UniProtKB:Q10741	PANTHER:PTHR45702	20201109	UniProtKB:A0A3Q1MLQ6	NCBITaxon:9913
+ARUK-UCL	UniProtKB:Q13443	ADAM9	PMID:12054541		GO:1902945	metalloendopeptidase activity involved in amyloid precursor protein catabolic process	IDA		UniProtKB:Q13443-2	PANTHER:PTHR11905	20201110		NCBITaxon:9606
+ARUK-UCL	UniProtKB:Q9H013	ADAM19	PMID:17112471		GO:1902945	metalloendopeptidase activity involved in amyloid precursor protein catabolic process	IMP		UniProtKB:Q9H013	PANTHER:PTHR11905	20201109		NCBITaxon:9606
+ARUK-UCL	UniProtKB:P78536	ADAM17	PMID:9774383		GO:1902945	metalloendopeptidase activity involved in amyloid precursor protein catabolic process	IDA		UniProtKB:P78536	PANTHER:PTHR45702	20201109		NCBITaxon:9606
+UniProt	UniProtKB:O14672	ADAM10	PMID:28164773		GO:1902945	metalloendopeptidase activity involved in amyloid precursor protein catabolic process	IMP		UniProtKB:O14672	PANTHER:PTHR45702	20190521		NCBITaxon:9606
