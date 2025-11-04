@@ -1,7 +1,7 @@
 ---
 name: ARBA issue
 about: Report incorrect ARBA annotation
-title: ''
+title: 'ARBA2GO issue:'
 labels: ARBA
 assignees: Antonialock
 
