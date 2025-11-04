@@ -1,7 +1,7 @@
 ---
 name: PAINT issue
 about: Report incorrect PAINT (IBA) annotations
-title: ''
+title: 'PAINT issue:'
 labels: PAINT annotation
 assignees: marcfeuermann, pgaudet
 
