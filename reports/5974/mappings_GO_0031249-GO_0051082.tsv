@@ -1,0 +1,60 @@
+term	file	line
+GO:0051082	hamap2go	HAMAP:MF_00117 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	hamap2go	HAMAP:MF_00175 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	hamap2go	HAMAP:MF_00307 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	hamap2go	HAMAP:MF_00308 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	hamap2go	HAMAP:MF_00505 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	hamap2go	HAMAP:MF_00600 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	hamap2go	HAMAP:MF_00790 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	hamap2go	HAMAP:MF_00822 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	hamap2go	HAMAP:MF_01152 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	hamap2go	HAMAP:MF_01183 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	reactome2go	Reactome:R-HSA-9683772 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	reactome2go	Reactome:R-HSA-9694337 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR000397 Heat shock protein Hsp33 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR001305 Heat shock protein DnaJ, cysteine-rich domain > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR001404 Heat shock protein Hsp90 family > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR001580 Calreticulin/calnexin > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR002194 Chaperonin TCP-1, conserved site > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR002777 Prefoldin beta-like > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR003708 Bacterial protein export chaperone SecB > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR003765 Nitrate reductase chaperone, NarJ > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR004487 Clp protease, ATP-binding subunit ClpX > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR004961 Lipase chaperone > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR005632 Chaperone protein Skp > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR008971 HSP40/DnaJ peptide-binding > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR009169 Calreticulin > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR010236 ISC system FeS cluster assembly, HscA chaperone > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR011599 Prefoldin alpha subunit, archaea-type > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR012713 Prefoldin subunit beta > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR012714 Thermosome, archaeal > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR012715 T-complex protein 1, alpha subunit > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR012716 T-complex protein 1, beta subunit > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR012717 T-complex protein 1, delta subunit > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR012718 T-complex protein 1, epsilon subunit > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR012719 T-complex protein 1, gamma subunit > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR012720 T-complex protein 1, eta subunit > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR012721 T-complex protein 1, theta subunit > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR012722 T-complex protein 1, zeta subunit > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR012724 Chaperone DnaJ > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR012725 Chaperone DnaK > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR016153 Heat shock protein Hsp33, N-terminal > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR016154 Heat shock protein Hsp33, C-terminal > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR019805 Heat shock protein Hsp90, conserved site > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR023034 Peptidyl-prolyl isomerase SurA > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR028623 HNS-dependent expression B > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR028790 Molecular chaperone MKKS > GO:unfolded protein binding ; GO:0051082
+GO:0051082	interpro2go	InterPro:IPR043183 DnaJ homolog subfamily B member 2/6-like > GO:unfolded protein binding ; GO:0051082
+GO:0051082	unirule2go	UniRule:UR000001443 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	unirule2go	UniRule:UR000001454 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	unirule2go	UniRule:UR000001461 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	unirule2go	UniRule:UR000031328 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	unirule2go	UniRule:UR000035365 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	unirule2go	UniRule:UR000066671 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	unirule2go	UniRule:UR000068663 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	unirule2go	UniRule:UR000098153 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	unirule2go	UniRule:UR000100773 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	unirule2go	UniRule:UR000103197 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	unirule2go	UniRule:UR001280037 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	unirule2go	UniRule:UR001903769 > GO:unfolded protein binding ; GO:0051082
+GO:0051082	unirule2go	UniRule:UR001995894 > GO:unfolded protein binding ; GO:0051082

@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CAFA	SGD:S000004490	TSA1	PMID:15163410		GO:0034605	cellular response to heat	IMP		SGD:S000004490	PANTHER:PTHR10681	20160526	GO:0050821|GO:0051082	NCBITaxon:559292
