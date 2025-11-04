@@ -1,5 +1,5 @@
 ---
-name: UniRule issues
+name: Report UniRule issues
 about: UniRule issues
 title: 'Incorrect Unirule mapping: '
 labels: UniRule
