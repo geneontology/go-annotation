@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:Q8TC71	SPATA18	PMID:38322995		GO:0140693	molecular condensate scaffold activity	IDA		UniProtKB:Q8TC71	PANTHER:PTHR21771	20250221	GO:1900210|GO:0004605|GO:0008374|GO:0008444|GO:0008962|GO:0043337|GO:0047499	NCBITaxon:9606
