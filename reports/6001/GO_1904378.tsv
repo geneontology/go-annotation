@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CGD	CGD:CAL0000182153	MSI3	PMID:37173314|CGD_REF:CAL0000245921		GO:1904378	maintenance of unfolded protein involved in ERAD pathway	IDA			PANTHER:PTHR45639	20230613		NCBITaxon:237561
