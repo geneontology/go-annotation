@@ -1,0 +1,6 @@
+term	file	line
+GO:0047498	reactome2go	Reactome:R-HSA-111881 > GO:calcium-dependent phospholipase A2 activity ; GO:0047498
+GO:0047498	reactome2go	Reactome:R-HSA-111883 > GO:calcium-dependent phospholipase A2 activity ; GO:0047498
+GO:0047499	reactome2go	Reactome:R-HSA-8952251 > GO:calcium-independent phospholipase A2 activity ; GO:0047499
+GO:0047499	interpro2go	InterPro:IPR047148 85/88 kDa calcium-independent phospholipase A2 > GO:calcium-independent phospholipase A2 activity ; GO:0047499
+GO:0050429	interpro2go	InterPro:IPR028392 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase eta-1, catalytic domain > GO:calcium-dependent phospholipase C activity ; GO:0050429
