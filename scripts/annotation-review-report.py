@@ -13,6 +13,7 @@ import re
 import requests
 import json
 import datetime
+import time
 import argparse
 from pytz import timezone
 
@@ -104,14 +105,21 @@ def collect_issues(issues, number: str, event_type: str, printed_ids: set):
 
     cis = []
 
+    LOG.info('Issue count: '+ str(len(issues)))
+
     for issue in issues:
+        LOG.info('Current issue state: '+ issue['state'])
+        LOG.info('Current issue reference number: '+ str(number))
+        LOG.info('Current issue number: '+ str(issue['number']))
         if (issue['state'] == 'open') and (int(number) == issue['number']):
             has_label_p = False
             if len(issue['labels']) > 0 :
                 for label in issue['labels']:
                     if label['name'] == args.label:
                         has_label_p = True
+            LOG.info('has_label_p: ' + (str(has_label_p)))
             matches = re.findall("GO:[0-9]+", issue['body'])
+            LOG.info('match count: ' + (str(len(matches))))
             if has_label_p and len(matches) > 0:
                 matches = re.findall("GO:[0-9]+", issue['body'])
                 for m in matches:
@@ -137,6 +145,7 @@ def get_issues(repo: str, event_type: str, start_date: str):
 ## Get Annotation TSV from GOlr.
 def get_term_annotation_data(fq: str, term: str):
     url = "http://golr-aux.geneontology.io/solr/select?defType=edismax&qt=standard&indent=on&wt=csv&rows=100000&start=0&fl={}&facet=true&facet.mincount=1&facet.sort=count&json.nl=arrarr&facet.limit=25&hl=true&hl.simple.pre=%3Cem%20class=%22hilite%22%3E&hl.snippets=1000&csv.encapsulator=&csv.separator=%09&csv.header=false&csv.mv.separator=%7C&fq={}:%22{}%22&fq=evidence_closure:%22ECO:0000006%22+OR+evidence_closure:%22ECO:0000204%22&fq=document_category:%22annotation%22&q=*:*".format(','.join(rfields), fq, term)
+    LOG.info('url: ' + url)
     resp = requests.get(url)
     if resp.status_code != 200:
         raise Exception("HTTP error status code: {} for url: {}".format(resp.status_code, url))
@@ -193,6 +202,9 @@ if __name__ == "__main__":
     today = today_time.strftime("%Y-%m-%d")
     yesterday = yesterday_time.strftime("%Y-%m-%d")
 
+    LOG.info('Sleep in seconds: '+ str(10))
+    time.sleep(10)
+
     ## Pull in created and updated issues.
     new_issues = get_issues(args.repo_name, "created", yesterday_time_str)
     #updated_issues = get_issues(args.repo_name, "updated", yesterday_time_str)
@@ -203,6 +215,7 @@ if __name__ == "__main__":
         repo_name = repo_name.rsplit("/", maxsplit=1)[-1]
     ids = set()
     collected_issues = collected_issues + collect_issues(new_issues, args.number, "New", ids)
+    LOG.info('Collected issues: ' + ", ".join(collected_issues))
 
     ## DEBUG:
     #collected_issues = ['GO:0030234', 'GO:0048478', 'GO:0031508']
