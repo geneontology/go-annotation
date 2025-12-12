@@ -1,0 +1,9 @@
+term	file	line
+GO:0006334	reactome2go	Reactome:R-HSA-774815 > GO:nucleosome assembly ; GO:0006334
+GO:0006334	interpro2go	InterPro:IPR002164 Nucleosome assembly protein (NAP) > GO:nucleosome assembly ; GO:0006334
+GO:0006334	interpro2go	InterPro:IPR005818 Linker histone H1/H5, domain H15 > GO:nucleosome assembly ; GO:0006334
+GO:0006334	interpro2go	InterPro:IPR005819 Linker histone H1/H5 > GO:nucleosome assembly ; GO:0006334
+GO:0006334	interpro2go	InterPro:IPR017282 Histone deposition protein Asf1 > GO:nucleosome assembly ; GO:0006334
+GO:0006334	interpro2go	InterPro:IPR021171 Core histone macro-H2A > GO:nucleosome assembly ; GO:0006334
+GO:0006334	unirule2go	UniRule:UR000141801 > GO:nucleosome assembly ; GO:0006334
+GO:0006337	interpro2go	InterPro:IPR017282 Histone deposition protein Asf1 > GO:nucleosome disassembly ; GO:0006337
