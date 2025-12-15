@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:P83944	P83944	PMID:12431412		GO:0018366	chiral amino acid racemization	IDA				20090828		NCBITaxon:6687
