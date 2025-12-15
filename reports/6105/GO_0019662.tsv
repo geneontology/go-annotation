@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	UniProtKB:Q93NB6	glpD	PMID:25220241		GO:0019662	non-glycolytic fermentation	IMP				20190308		NCBITaxon:632
