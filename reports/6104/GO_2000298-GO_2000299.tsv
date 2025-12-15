@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+RGD	RGD:621007	Dab2	PMID:9681506		GO:2000298	regulation of Rho-dependent protein serine/threonine kinase activity	IDA		RGD:621007	PANTHER:PTHR47695	20130514		NCBITaxon:10116
+UniProt	UniProtKB:Q9UMS6	SYNPO2	PMID:22915763		GO:2000298	regulation of Rho-dependent protein serine/threonine kinase activity	IDA		UniProtKB:Q9UMS6-5	PANTHER:PTHR24217	20170223		NCBITaxon:9606
+UniProt	MGI:MGI:1914167	Chordc1	PMID:20230755		GO:2000299	negative regulation of Rho-dependent protein serine/threonine kinase activity	IDA		MGI:MGI:1914167	PANTHER:PTHR12621	20110110		NCBITaxon:10090
+UniProt	UniProtKB:Q5U651	RASIP1	PMID:26780829		GO:2000299	negative regulation of Rho-dependent protein serine/threonine kinase activity	IMP		UniProtKB:Q5U651	PANTHER:PTHR16027	20180913	CL:0002618	NCBITaxon:9606
+UniProt	UniProtKB:Q9ULI3	HEG1	PMID:26780829		GO:2000299	negative regulation of Rho-dependent protein serine/threonine kinase activity	IDA		UniProtKB:Q9ULI3	PANTHER:PTHR24037	20180913	CL:0002618|GO:0043149	NCBITaxon:9606
