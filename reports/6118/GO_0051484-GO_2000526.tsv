@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ComplexPortal	ComplexPortal:CPX-1930	dxr_ecoli-1	PMID:10787409		GO:0051484	isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway involved in terpenoid biosynthetic process	IDA				20240827		NCBITaxon:83333
+ComplexPortal	EcoCyc:DXPREDISOM-MONOMER	Dxr	PMID:10787409		GO:0051484	isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway involved in terpenoid biosynthetic process	IDA		EcoCyc:DXPREDISOM-MONOMER		20240827		NCBITaxon:83333
+MTBBASE	UniProtKB:P9WNS1	dxr	PMID:15065882		GO:0051484	isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway involved in terpenoid biosynthetic process	IDA			PANTHER:PTHR30525	20100320		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WKG9	ispD	PMID:17921290		GO:0051484	isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway involved in terpenoid biosynthetic process	IDA			PANTHER:PTHR32125	20110603		NCBITaxon:83332
+BHF-UCL	MGI:MGI:103011	Ccr7	PMID:15845453		GO:2000526	positive regulation of glycoprotein biosynthetic process involved in immunological synapse formation	IMP		MGI:MGI:103011	PANTHER:PTHR10489	20120404		NCBITaxon:10090
