@@ -1,0 +1,100 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	UniProtKB:Q99538	LGMN	PMID:18377911		GO:0051603	proteolysis involved in protein catabolic process	TAS		UniProtKB:Q99538	PANTHER:PTHR12000	20180306	GO:0005764|GO:0005770	NCBITaxon:9606
+AspGD	UniProtKB:A2QWD1	papA	PMID:15654623		GO:0051603	proteolysis involved in protein catabolic process	IDA				20110912		NCBITaxon:425011
+AspGD	UniProtKB:Q4WPW5	dscC	PMID:23104569		GO:0051603	proteolysis involved in protein catabolic process	IMP			PANTHER:PTHR28049	20121115		NCBITaxon:330879
+AspGD	UniProtKB:E9QSG0	dscA	PMID:23104569		GO:0051603	proteolysis involved in protein catabolic process	IMP			PANTHER:PTHR22763	20121115		NCBITaxon:330879
+AspGD	UniProtKB:Q2UH35	dpp4	PMID:9835566		GO:0051603	proteolysis involved in protein catabolic process	IDA				20111123		NCBITaxon:510516
+AspGD	UniProtKB:Q2UH35	dpp4	PMID:9835566		GO:0051603	proteolysis involved in protein catabolic process	IMP				20111123		NCBITaxon:510516
+BHF-UCL	UniProtKB:Q14790	CASP8	PMID:10521396		GO:0051603	proteolysis involved in protein catabolic process	IMP		UniProtKB:Q14790	PANTHER:PTHR10454	20090323		NCBITaxon:9606
+BHF-UCL	UniProtKB:P17655	CAPN2	PMID:12150984		GO:0051603	proteolysis involved in protein catabolic process	IDA		UniProtKB:P17655	PANTHER:PTHR10183	20151112	CL:0000084	NCBITaxon:9606
+BHF-UCL	UniProtKB:P58397	ADAMTS12	PMID:16611630		GO:0051603	proteolysis involved in protein catabolic process	IDA		UniProtKB:P58397	PANTHER:PTHR13723	20131206		NCBITaxon:9606
+BHF-UCL	UniProtKB:P60900	PSMA6	PMID:16845397		GO:0051603	proteolysis involved in protein catabolic process	IMP		UniProtKB:P60900	PANTHER:PTHR11599	20110117		NCBITaxon:9606
+BHF-UCL	UniProtKB:P58397	ADAMTS12	PMID:18485748		GO:0051603	proteolysis involved in protein catabolic process	IMP		UniProtKB:P58397	PANTHER:PTHR13723	20140704	UniProtKB:P49747|GO:0071347|UBERON:0000313|UniProtKB:P49747|GO:0071356|UBERON:0000313|UniProtKB:P01023	NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9UKP4	ADAMTS7	PMID:18485748		GO:0051603	proteolysis involved in protein catabolic process	IMP		UniProtKB:Q9UKP4	PANTHER:PTHR13723	20140704	UniProtKB:P49747|GO:0071347|UBERON:0000313|UniProtKB:P49747|GO:0071356|UBERON:0000313|UniProtKB:P01023	NCBITaxon:9606
+BHF-UCL	MGI:MGI:107373	Dnajc3	PMID:18923430		GO:0051603	proteolysis involved in protein catabolic process	IDA		MGI:MGI:107373	PANTHER:PTHR44140	20100304		NCBITaxon:10090
+BHF-UCL	MGI:MGI:95835	Hspa5	PMID:18923430		GO:0051603	proteolysis involved in protein catabolic process	IDA		MGI:MGI:95835	PANTHER:PTHR19375	20100304		NCBITaxon:10090
+BHF-UCL	UniProtKB:P07711	CTSL	PMID:22952693		GO:0051603	proteolysis involved in protein catabolic process	IDA		UniProtKB:P07711	PANTHER:PTHR12411	20140219	UniProtKB:P02751	NCBITaxon:9606
+BHF-UCL	MGI:MGI:107341	Ctss	PMID:22952693		GO:0051603	proteolysis involved in protein catabolic process	IMP		MGI:MGI:107341	PANTHER:PTHR12411	20140219		NCBITaxon:10090
+BHF-UCL	UniProtKB:P07858	CTSB	PMID:22952693		GO:0051603	proteolysis involved in protein catabolic process	IDA		UniProtKB:P07858	PANTHER:PTHR12411	20140219	UniProtKB:Q05793	NCBITaxon:9606
+BHF-UCL	UniProtKB:P25774	CTSS	PMID:22952693		GO:0051603	proteolysis involved in protein catabolic process	IDA		UniProtKB:P25774	PANTHER:PTHR12411	20140219	UniProtKB:P98160|UniProtKB:P02751	NCBITaxon:9606
+BHF-UCL	UniProtKB:P43235	CTSK	PMID:22952693		GO:0051603	proteolysis involved in protein catabolic process	IDA		UniProtKB:P43235	PANTHER:PTHR12411	20140219	UniProtKB:P02751	NCBITaxon:9606
+CAFA	UniProtKB:Q00987	MDM2	PMID:25417702		GO:0051603	proteolysis involved in protein catabolic process	IMP		UniProtKB:Q00987	PANTHER:PTHR46858	20161216		NCBITaxon:9606
+EcoCyc	EcoCyc:G7311-MONOMER	BepA	PMID:24003122		GO:0051603	proteolysis involved in protein catabolic process	IDA		EcoCyc:G7311-MONOMER		20170912		NCBITaxon:83333
+EcoCyc	EcoCyc:G7311-MONOMER	BepA	PMID:28784813		GO:0051603	proteolysis involved in protein catabolic process	EXP		EcoCyc:G7311-MONOMER		20170912		NCBITaxon:83333
+EcoCyc	EcoCyc:G6470-MONOMER	YcaL	PMID:28784813		GO:0051603	proteolysis involved in protein catabolic process	EXP		EcoCyc:G6470-MONOMER		20170912		NCBITaxon:83333
+EcoCyc	EcoCyc:EG11676-MONOMER	HslV	PMID:9003766		GO:0051603	proteolysis involved in protein catabolic process	IMP	UniProtKB:P0A6H5	EcoCyc:EG11676-MONOMER		20150805		NCBITaxon:83333
+FlyBase	FB:FBgn0038745	ClpX	PMID:28814717		GO:0051603	proteolysis involved in protein catabolic process	IMP		FB:FBgn0038745	PANTHER:PTHR48102	20200305		NCBITaxon:7227
+FlyBase	FB:FBgn0032229	ClpP	PMID:28814717		GO:0051603	proteolysis involved in protein catabolic process	IMP		FB:FBgn0032229	PANTHER:PTHR10381	20200305		NCBITaxon:7227
+FlyBase	FB:FBgn0013770	CtsL1	PMID:33112206		GO:0051603	proteolysis involved in protein catabolic process	IMP		FB:FBgn0013770	PANTHER:PTHR12411	20230908	GO:0044754	NCBITaxon:7227
+MGI	MGI:MGI:1926790	Fzr1	PMID:23541922		GO:0051603	proteolysis involved in protein catabolic process	IMP		MGI:MGI:1926790	PANTHER:PTHR19918	20200429	MGI:MGI:88311	NCBITaxon:10090
+MTBBASE	UniProtKB:P9WHU1	prcA	PMID:16468985		GO:0051603	proteolysis involved in protein catabolic process	IDA			PANTHER:PTHR11599	20100403		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WHT9	prcB	PMID:16468985		GO:0051603	proteolysis involved in protein catabolic process	IDA			PANTHER:PTHR11599	20100403		NCBITaxon:83332
+PomBase	PomBase:SPCC1919.12c	erm2	GO_REF:0000051		GO:0051603	proteolysis involved in protein catabolic process	NAS		PomBase:SPCC1919.12c	PANTHER:PTHR12147	20170819		NCBITaxon:4896
+PomBase	PomBase:SPAC1296.03c	sxa2	PMID:10792724		GO:0051603	proteolysis involved in protein catabolic process	IMP		PomBase:SPAC1296.03c	PANTHER:PTHR11802	20121126		NCBITaxon:4896
+RGD	RGD:619893	Plg	PMID:12928439		GO:0051603	proteolysis involved in protein catabolic process	IDA		RGD:619893	PANTHER:PTHR24261	20070419		NCBITaxon:10116
+RGD	RGD:2861	Ide	PMID:15749695		GO:0051603	proteolysis involved in protein catabolic process	IMP		RGD:2861	PANTHER:PTHR43690	20070821		NCBITaxon:10116
+RGD	RGD:2388	Cpa1	PMID:15865404		GO:0051603	proteolysis involved in protein catabolic process	IDA		RGD:2388	PANTHER:PTHR11705	20060322		NCBITaxon:10116
+RGD	RGD:619893	Plg	PMID:7864083		GO:0051603	proteolysis involved in protein catabolic process	IDA		RGD:619893	PANTHER:PTHR24261	20080926		NCBITaxon:10116
+SGD	SGD:S000002838	CYM1	PMID:15772085		GO:0051603	proteolysis involved in protein catabolic process	IMP		SGD:S000002838	PANTHER:PTHR43016	20130807		NCBITaxon:559292
+SGD	SGD:S000006075	PEP4	PMID:16183335		GO:0051603	proteolysis involved in protein catabolic process	IMP		SGD:S000006075	PANTHER:PTHR47966	20130807		NCBITaxon:559292
+SGD	SGD:S000004360	MDM30	PMID:16735578		GO:0051603	proteolysis involved in protein catabolic process	IDA		SGD:S000004360		20130807		NCBITaxon:559292
+SGD	SGD:S000004360	MDM30	PMID:16735578		GO:0051603	proteolysis involved in protein catabolic process	IMP		SGD:S000004360		20130807		NCBITaxon:559292
+SGD	SGD:S000003708	CPS1	PMID:2026161		GO:0051603	proteolysis involved in protein catabolic process	IMP		SGD:S000003708	PANTHER:PTHR45962	20130807		NCBITaxon:559292
+SGD	SGD:S000001583	YPF1	PMID:25454947		GO:0051603	proteolysis involved in protein catabolic process	IMP		SGD:S000001583	PANTHER:PTHR12174	20141209		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT2G22010	RKP	PMID:18005227|TAIR:Publication:501723557		GO:0051603	proteolysis involved in protein catabolic process	IMP		TAIR:locus:2052581		20080425		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G77000	SKP2B	PMID:18005227|TAIR:Publication:501723557		GO:0051603	proteolysis involved in protein catabolic process	IMP		TAIR:locus:2025222		20080423		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G22000	RHF2A	PMID:18552199|TAIR:Publication:501725143		GO:0051603	proteolysis involved in protein catabolic process	IGI	AGI_LocusCode:At4g14220	TAIR:locus:505006626		20080730		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G27660	DEG14	PMID:24719325|TAIR:Publication:501759857		GO:0051603	proteolysis involved in protein catabolic process	IDA		TAIR:locus:2143641		20141125		NCBITaxon:3702
+UniProt	UniProtKB:Q12884	FAP	PMID:10593948		GO:0051603	proteolysis involved in protein catabolic process	IDA		UniProtKB:Q12884	PANTHER:PTHR11731	20140806		NCBITaxon:9606
+UniProt	UniProtKB:P43235	CTSK	PMID:11082042		GO:0051603	proteolysis involved in protein catabolic process	IDA		UniProtKB:P43235	PANTHER:PTHR12411	20191108		NCBITaxon:9606
+UniProt	UniProtKB:Q16740	CLPP	PMID:11923310		GO:0051603	proteolysis involved in protein catabolic process	IDA		UniProtKB:Q16740	PANTHER:PTHR10381	20140314		NCBITaxon:9606
+UniProt	UniProtKB:P12544	GZMA	PMID:12524539		GO:0051603	proteolysis involved in protein catabolic process	IDA		UniProtKB:P12544	PANTHER:PTHR24271	20101021		NCBITaxon:9606
+UniProt	MGI:MGI:107823	Ctsk	PMID:12782676		GO:0051603	proteolysis involved in protein catabolic process	IMP		MGI:MGI:107823	PANTHER:PTHR12411	20191107		NCBITaxon:10090
+UniProt	MGI:MGI:88564	Ctsl	PMID:12782676		GO:0051603	proteolysis involved in protein catabolic process	IMP		MGI:MGI:88564	PANTHER:PTHR12411	20191107		NCBITaxon:10090
+UniProt	MGI:MGI:88561	Ctsb	PMID:12782676		GO:0051603	proteolysis involved in protein catabolic process	IMP		MGI:MGI:88561	PANTHER:PTHR12411	20191107		NCBITaxon:10090
+UniProt	UniProtKB:Q6F3I7	dap4	PMID:15866709		GO:0051603	proteolysis involved in protein catabolic process	IDA				20150615		NCBITaxon:128785
+UniProt	UniProtKB:O76031	CLPX	PMID:16115876		GO:0051603	proteolysis involved in protein catabolic process	IDA		UniProtKB:O76031	PANTHER:PTHR48102	20090226		NCBITaxon:9606
+UniProt	UniProtKB:Q9GK11	CYM	PMID:16488399		GO:0051603	proteolysis involved in protein catabolic process	IDA				20161021		NCBITaxon:9838
+UniProt	MGI:MGI:1330838	Lgmn	PMID:17350006		GO:0051603	proteolysis involved in protein catabolic process	IMP		MGI:MGI:1330838	PANTHER:PTHR12000	20130918		NCBITaxon:10090
+UniProt	UniProtKB:P36776	LONP1	PMID:17420247		GO:0051603	proteolysis involved in protein catabolic process	IDA		UniProtKB:P36776	PANTHER:PTHR43718	20090226		NCBITaxon:9606
+UniProt	EcoCyc:G7682-MONOMER	DegQ	PMID:21685389		GO:0051603	proteolysis involved in protein catabolic process	IDA		EcoCyc:G7682-MONOMER		20110912		NCBITaxon:83333
+UniProt	UniProtKB:Q9GK11	CYM	PMID:23633601		GO:0051603	proteolysis involved in protein catabolic process	IDA				20161021		NCBITaxon:9838
+UniProt	UniProtKB:V5YM14	dapb2	PMID:24598890		GO:0051603	proteolysis involved in protein catabolic process	IDA				20150615		NCBITaxon:128785
+UniProt	UniProtKB:V5YM14	dapb2	PMID:24637761		GO:0051603	proteolysis involved in protein catabolic process	IDA				20150615		NCBITaxon:128785
+UniProt	UniProtKB:V5YM14	dapb2	PMID:24827749		GO:0051603	proteolysis involved in protein catabolic process	IDA				20150615		NCBITaxon:128785
+UniProt	UniProtKB:Q9GK11	CYM	PMID:25726113		GO:0051603	proteolysis involved in protein catabolic process	IDA				20161021		NCBITaxon:9838
+UniProt	UniProtKB:Q9GK11	CYM	PMID:25837439		GO:0051603	proteolysis involved in protein catabolic process	IDA				20161021		NCBITaxon:9838
+UniProt	WB:WBGene00000784	cpr-4	PMID:28723894		GO:0051603	proteolysis involved in protein catabolic process	IDA		WB:WBGene00000784	PANTHER:PTHR12411	20171102		NCBITaxon:6239
+UniProt	AGI_LocusCode:AT5G51740	Oma1	PMID:28936218|TAIR:Publication:501776975		GO:0051603	proteolysis involved in protein catabolic process	IDA		TAIR:locus:2165356		20230207		NCBITaxon:3702
+UniProt	UniProtKB:Q9UDY8	MALT1	PMID:31133753		GO:0051603	proteolysis involved in protein catabolic process	IDA		UniProtKB:Q9UDY8	PANTHER:PTHR22576	20201204		NCBITaxon:9606
+UniProt	UniProtKB:P10144	GZMB	PMID:31953257		GO:0051603	proteolysis involved in protein catabolic process	IDA		UniProtKB:P10144	PANTHER:PTHR24271	20200916		NCBITaxon:9606
+UniProt	UniProtKB:P10144	GZMB	PMID:32188940		GO:0051603	proteolysis involved in protein catabolic process	IDA		UniProtKB:P10144	PANTHER:PTHR24271	20200916		NCBITaxon:9606
+UniProt	UniProtKB:P12544	GZMA	PMID:32299851		GO:0051603	proteolysis involved in protein catabolic process	IDA		UniProtKB:P12544	PANTHER:PTHR24271	20200916		NCBITaxon:9606
+UniProt	MGI:MGI:1261423	Casp8	PMID:32971525		GO:0051603	proteolysis involved in protein catabolic process	IDA		MGI:MGI:1261423	PANTHER:PTHR10454	20201204		NCBITaxon:10090
+UniProt	UniProtKB:P36776	LONP1	PMID:8248235		GO:0051603	proteolysis involved in protein catabolic process	IDA		UniProtKB:P36776	PANTHER:PTHR43718	20090226		NCBITaxon:9606
+UniProt	UniProtKB:O07834	dapb1	PMID:8631703		GO:0051603	proteolysis involved in protein catabolic process	IDA				20150615		NCBITaxon:128785
+UniProt	UniProtKB:Q7F3A8	REP1	PMID:8706734		GO:0051603	proteolysis involved in protein catabolic process	IDA			PANTHER:PTHR12411	20220928		NCBITaxon:39947
+UniProt	UniProtKB:V5YMB3	dapb3	PMID:8892831		GO:0051603	proteolysis involved in protein catabolic process	IDA				20150615		NCBITaxon:128785
+UniProt	UniProtKB:V5YM14	dapb2	PMID:8892831		GO:0051603	proteolysis involved in protein catabolic process	IDA				20150615		NCBITaxon:128785
+UniProt	UniProtKB:Q6F3I7	dap4	PMID:8988635		GO:0051603	proteolysis involved in protein catabolic process	IDA				20150615		NCBITaxon:128785
+UniProt	UniProtKB:O07834	dapb1	PMID:9469937		GO:0051603	proteolysis involved in protein catabolic process	IDA				20150615		NCBITaxon:128785
+UniProt	UniProtKB:P14735	IDE	PMID:9830016		GO:0051603	proteolysis involved in protein catabolic process	IDA		UniProtKB:P14735	PANTHER:PTHR43690	20191112	UniProtKB:P05067|UniProtKB:P01308	NCBITaxon:9606
+WB	WB:WBGene00000155	app-1	PMID:25905034		GO:0051603	proteolysis involved in protein catabolic process	IDA		WB:WBGene00000155	PANTHER:PTHR43763	20210713		NCBITaxon:6239
+ARUK-UCL	UniProtKB:P20827	EFNA1	PMID:24217950		GO:1903051	negative regulation of proteolysis involved in protein catabolic process	IGI	UniProtKB:P54764	UniProtKB:P20827	PANTHER:PTHR11304	20170621	UniProtKB:P05067-PRO_0000000091	NCBITaxon:9606
+ARUK-UCL	UniProtKB:P54764	EPHA4	PMID:24217950		GO:1903051	negative regulation of proteolysis involved in protein catabolic process	IGI	UniProtKB:P20827	UniProtKB:P54764	PANTHER:PTHR46877	20170621	UniProtKB:P05067-PRO_0000000091	NCBITaxon:9606
+FlyBase	FB:FBgn0033738	DUBAI	PMID:24362437		GO:1903051	negative regulation of proteolysis involved in protein catabolic process	IMP		FB:FBgn0033738	PANTHER:PTHR24006	20141016		NCBITaxon:7227
+MGI	MGI:MGI:104738	Cdkn2a	PMID:23277542		GO:1903051	negative regulation of proteolysis involved in protein catabolic process	IDA		MGI:MGI:104738		20141104		NCBITaxon:10090
+ParkinsonsUK-UCL	UniProtKB:Q8N726	CDKN2A	PMID:25217637		GO:1903051	negative regulation of proteolysis involved in protein catabolic process	IMP	UniProtKB:Q9BXM7	UniProtKB:Q8N726-2		20150216	UniProtKB:Q9BXM7	NCBITaxon:9606
+UniProt	UniProtKB:Q9NUQ7	UFSP2	PMID:36543799		GO:1903051	negative regulation of proteolysis involved in protein catabolic process	IDA		UniProtKB:Q9NUQ7	PANTHER:PTHR48153	20240320		NCBITaxon:9606
+ARUK-UCL	MGI:MGI:95665	Gba1	PMID:21700325		GO:1903052	positive regulation of proteolysis involved in protein catabolic process	IMP		MGI:MGI:95665	PANTHER:PTHR11069	20230704	CL:0010012	NCBITaxon:10090
+ARUK-UCL	MGI:MGI:108046	Laptm5	PMID:22949502		GO:1903052	positive regulation of proteolysis involved in protein catabolic process	IMP		MGI:MGI:108046	PANTHER:PTHR12479	20201013	UniProtKB:P11911|GO:0002330|GO:0005764|UniProtKB:P01872|GO:0002330|GO:0005764	NCBITaxon:10090
+DisProt	EcoCyc:EG10978-MONOMER	SspB	PMID:14536075		GO:1903052	positive regulation of proteolysis involved in protein catabolic process	IDA		EcoCyc:EG10978-MONOMER		20220228		NCBITaxon:83333
+DisProt	SGD:S000002550	SAN1	PMID:21211726		GO:1903052	positive regulation of proteolysis involved in protein catabolic process	IEP		SGD:S000002550	PANTHER:PTHR22765	20220228		NCBITaxon:559292
+FlyBase	FB:FBgn0003371	sgg	PMID:21951762		GO:1903052	positive regulation of proteolysis involved in protein catabolic process	IDA		FB:FBgn0003371	PANTHER:PTHR24057	20191210		NCBITaxon:7227
+ParkinsonsUK-UCL	RGD:2445	Ctsc	PMID:18307834		GO:1903052	positive regulation of proteolysis involved in protein catabolic process	IDA		RGD:2445	PANTHER:PTHR12411	20140527		NCBITaxon:10116
+ParkinsonsUK-UCL	UniProtKB:Q9UII2	ATP5IF1	PMID:24005319		GO:1903052	positive regulation of proteolysis involved in protein catabolic process	IMP		UniProtKB:Q9UII2	PANTHER:PTHR23407	20150210	GO:0000422|UniProtKB:Q9BXM7	NCBITaxon:9606
+RGD	RGD:3560	Rgn	PMID:1513338		GO:1903052	positive regulation of proteolysis involved in protein catabolic process	IDA		RGD:3560	PANTHER:PTHR10907	20141118		NCBITaxon:10116
+TAIR	AGI_LocusCode:AT1G68660	ClpS1	PMID:29401302|TAIR:Publication:501778705		GO:1903052	positive regulation of proteolysis involved in protein catabolic process	IDA		TAIR:locus:2026869		20180310		NCBITaxon:3702
+UniProt	UniProtKB:O94874	UFL1	PMID:36543799		GO:1903052	positive regulation of proteolysis involved in protein catabolic process	IDA		UniProtKB:O94874	PANTHER:PTHR31057	20240320		NCBITaxon:9606
+UniProt	UniProtKB:Q96HY6	DDRGK1	PMID:36543799		GO:1903052	positive regulation of proteolysis involved in protein catabolic process	IDA		UniProtKB:Q96HY6	PANTHER:PTHR48176	20240320		NCBITaxon:9606
+UniProt	UniProtKB:Q96HY6	DDRGK1	PMID:36543799		GO:1903052	positive regulation of proteolysis involved in protein catabolic process	IDA		UniProtKB:Q96HY6	PANTHER:PTHR48176	20240320	GO:1903052	NCBITaxon:9606

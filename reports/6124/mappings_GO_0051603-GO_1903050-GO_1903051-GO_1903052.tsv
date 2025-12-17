@@ -1,0 +1,8 @@
+term	file	line
+GO:0051603	interpro2go	InterPro:IPR000243 Peptidase T1A, proteasome beta-subunit > GO:proteolysis involved in protein catabolic process ; GO:0051603
+GO:0051603	interpro2go	InterPro:IPR001353 Proteasome, subunit alpha/beta > GO:proteolysis involved in protein catabolic process ; GO:0051603
+GO:0051603	interpro2go	InterPro:IPR016050 Proteasome beta-type subunit, conserved site > GO:proteolysis involved in protein catabolic process ; GO:0051603
+GO:0051603	interpro2go	InterPro:IPR019982 Proteasome alpha subunit, archaeal > GO:proteolysis involved in protein catabolic process ; GO:0051603
+GO:0051603	interpro2go	InterPro:IPR019983 Peptidase T1A, proteasome beta-subunit, archaeal > GO:proteolysis involved in protein catabolic process ; GO:0051603
+GO:0051603	interpro2go	InterPro:IPR022296 Proteasome, alpha subunit, bacterial > GO:proteolysis involved in protein catabolic process ; GO:0051603
+GO:0051603	interpro2go	InterPro:IPR043577 Asparaginyl endopeptidase > GO:proteolysis involved in protein catabolic process ; GO:0051603
