@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+RGD	RGD:621791	Exoc4	PMID:16478790		GO:0055108	Golgi to transport vesicle transport	IDA		RGD:621791	PANTHER:PTHR14146	20091113		NCBITaxon:10116
+RGD	RGD:621270	Arf1	PMID:8978816		GO:0055108	Golgi to transport vesicle transport	IDA		RGD:621270	PANTHER:PTHR11711	20141209		NCBITaxon:10116
