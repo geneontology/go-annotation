@@ -1,0 +1,8 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ComplexPortal	ComplexPortal:CPX-4862	ahpr_ecoli	PMID:28270505		GO:0032843	hydroperoxide reductase activity	IDA				20250805		NCBITaxon:83333
+EcoCyc	EcoCyc:EG10108-MONOMER	Bcp	PMID:10644761		GO:0032843	hydroperoxide reductase activity	IDA		EcoCyc:EG10108-MONOMER		20081211		NCBITaxon:83333
+EcoCyc	EcoCyc:G6660-MONOMER	Tpx	PMID:12514184		GO:0032843	hydroperoxide reductase activity	IDA		EcoCyc:G6660-MONOMER		20081209		NCBITaxon:83333
+EcoCyc	EcoCyc:EG10456-MONOMER	Hmp	PMID:12663656		GO:0032843	hydroperoxide reductase activity	IDA		EcoCyc:EG10456-MONOMER		20111025		NCBITaxon:83333
+EcoliWiki	EcoCyc:EG11384-MONOMER	AhpC	PMID:7644465		GO:0032843	hydroperoxide reductase activity	IDA		EcoCyc:EG11384-MONOMER		20110815		NCBITaxon:83333
+MTBBASE	UniProtKB:P9WQB7	ahpC	PMID:10766746		GO:0032843	hydroperoxide reductase activity	IDA			PANTHER:PTHR10681	20100306		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WQB5	ahpD	PMID:10766746		GO:0032843	hydroperoxide reductase activity	IDA			PANTHER:PTHR33930	20100306		NCBITaxon:83332
