@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:1923407	Slc35d3	PMID:24550737		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	IMP	MGI:MGI:3802578	MGI:MGI:1923407	PANTHER:PTHR11132	20160302	GO:0032527	NCBITaxon:10090
+UniProt	UniProtKB:Q9H5V9	STEEP1	PMID:32690950		GO:0030674	protein-macromolecule adaptor activity	IDA		UniProtKB:Q9H5V9	PANTHER:PTHR46355	20231024	GO:0032527|GO:0005789|UniProtKB:Q86WV6|UniProtKB:Q8NEB9|GO:0035591	NCBITaxon:9606
+UniProt	UniProtKB:Q9H5V9	STEEP1	PMID:37832545		GO:0030674	protein-macromolecule adaptor activity	IDA		UniProtKB:Q9H5V9	PANTHER:PTHR46355	20231024	GO:0032527|UniProtKB:Q86WV6|GO:0035591	NCBITaxon:9606

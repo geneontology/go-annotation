@@ -1,0 +1,65 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:Q9HD47	RANGRF	PMID:23420830		GO:0032527	protein exit from endoplasmic reticulum	IMP		UniProtKB:Q9HD47	PANTHER:PTHR15837	20130722		NCBITaxon:9606
+CACAO	UniProtKB:Q9BXW4	MAP1LC3C	PMID:26431026		GO:0032527	protein exit from endoplasmic reticulum	IMP		UniProtKB:Q9BXW4	PANTHER:PTHR10969	20180214		NCBITaxon:9606
+CACAO	UniProtKB:O15040	TECPR2	PMID:26431026		GO:0032527	protein exit from endoplasmic reticulum	IMP		UniProtKB:O15040	PANTHER:PTHR23287	20180227		NCBITaxon:9606
+SGD	SGD:S000002223	PEX19	PMID:16009135		GO:0032527	protein exit from endoplasmic reticulum	IMP		SGD:S000002223	PANTHER:PTHR12774	20130829	SGD:S000002737	NCBITaxon:559292
+SGD	SGD:S000005378	TLG2	PMID:18753406		GO:0032527	protein exit from endoplasmic reticulum	IGI	SGD:S000004684	SGD:S000005378	PANTHER:PTHR19957	20130807		NCBITaxon:559292
+SGD	SGD:S000000021	PMT2	PMID:21147851		GO:0032527	protein exit from endoplasmic reticulum	IGI	SGD:S000002253	SGD:S000000021	PANTHER:PTHR10050	20130807		NCBITaxon:559292
+SGD	SGD:S000002253	PMT1	PMID:21147851		GO:0032527	protein exit from endoplasmic reticulum	IGI	SGD:S000000021	SGD:S000002253	PANTHER:PTHR10050	20130807		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT4G03510	RMA1	PMID:19234086|TAIR:Publication:501729805		GO:0032527	protein exit from endoplasmic reticulum	IMP		TAIR:locus:2128746		20090330		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G54030	MVP1	PMID:20626647|TAIR:Publication:501742272		GO:0032527	protein exit from endoplasmic reticulum	IMP		TAIR:locus:2014385		20110907		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G27530	GC6	PMID:20837504|TAIR:Publication:501739913		GO:0032527	protein exit from endoplasmic reticulum	IMP		TAIR:locus:2091438		20110131		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G32900	ATZW10	PMID:24118572|TAIR:Publication:501756753		GO:0032527	protein exit from endoplasmic reticulum	IMP		TAIR:locus:2059412		20180628		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G42700	MIP3	PMID:24118572|TAIR:Publication:501756753		GO:0032527	protein exit from endoplasmic reticulum	IMP		TAIR:locus:2041594		20180628		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G24350	MIP2	PMID:24118572|TAIR:Publication:501756753		GO:0032527	protein exit from endoplasmic reticulum	IMP		TAIR:locus:2152881		20180628		NCBITaxon:3702
+UniProt	UniProtKB:Q9BVK6	TMED9	PMID:18287528	not	GO:0032527	protein exit from endoplasmic reticulum	IMP		UniProtKB:Q9BVK6	PANTHER:PTHR22811	20110728		NCBITaxon:9606
+UniProt	UniProtKB:P49257	LMAN1	PMID:18287528	not	GO:0032527	protein exit from endoplasmic reticulum	IMP		UniProtKB:P49257	PANTHER:PTHR12223	20110728		NCBITaxon:9606
+UniProt	UniProtKB:O15260	SURF4	PMID:18287528	not	GO:0032527	protein exit from endoplasmic reticulum	IMP		UniProtKB:O15260	PANTHER:PTHR23427	20110728		NCBITaxon:9606
+UniProt	UniProtKB:Q96PC5	MIA2	PMID:21525241		GO:0032527	protein exit from endoplasmic reticulum	IMP		UniProtKB:Q96PC5-7	PANTHER:PTHR23158	20181217		NCBITaxon:9606
+UniProt	UniProtKB:Q96PC5	MIA2	PMID:25202031		GO:0032527	protein exit from endoplasmic reticulum	IMP		UniProtKB:Q96PC5-7	PANTHER:PTHR23158	20181217		NCBITaxon:9606
+UniProt	MGI:MGI:99832	Sec13	PMID:27354378		GO:0032527	protein exit from endoplasmic reticulum	IMP		MGI:MGI:99832	PANTHER:PTHR11024	20180913		NCBITaxon:10090
+UniProt	MGI:MGI:2139207	Sec16a	PMID:27354378		GO:0032527	protein exit from endoplasmic reticulum	IMP		MGI:MGI:2139207	PANTHER:PTHR13402	20180913		NCBITaxon:10090
+UniProt	WB:WBGene00004788	sft-4	PMID:29643117		GO:0032527	protein exit from endoplasmic reticulum	IDA		WB:WBGene00004788	PANTHER:PTHR23427	20210701		NCBITaxon:6239
+UniProt	UniProtKB:W7JPD9	PMV	PMID:31851913		GO:0032527	protein exit from endoplasmic reticulum	IMP				20210623		NCBITaxon:5843
+UniProt	UniProtKB:W7JPD9	PMV	PMID:32069391		GO:0032527	protein exit from endoplasmic reticulum	IMP				20210623		NCBITaxon:5843
+UniProt	UniProtKB:Q9H5V9	STEEP1	PMID:32690950		GO:0032527	protein exit from endoplasmic reticulum	IDA		UniProtKB:Q9H5V9	PANTHER:PTHR46355	20231024		NCBITaxon:9606
+UniProt	UniProtKB:Q9H5V9	STEEP1	PMID:37832545		GO:0032527	protein exit from endoplasmic reticulum	IDA		UniProtKB:Q9H5V9	PANTHER:PTHR46355	20231024		NCBITaxon:9606
+WB	WB:WBGene00007119	calf-1	PMID:19718034		GO:0032527	protein exit from endoplasmic reticulum	IMP		WB:WBGene00007119		20100713		NCBITaxon:6239
+FlyBase	FB:FBgn0000115	Arl1	PMID:21693198		GO:0070861	regulation of protein exit from endoplasmic reticulum	IMP		FB:FBgn0000115	PANTHER:PTHR11711	20110825		NCBITaxon:7227
+UniProt	UniProtKB:Q8IWJ2	GCC2	PMID:17488291		GO:0070861	regulation of protein exit from endoplasmic reticulum	IMP		UniProtKB:Q8IWJ2	PANTHER:PTHR18902	20101007		NCBITaxon:9606
+UniProt	UniProtKB:O15503	INSIG1	PMID:12202038		GO:0070862	negative regulation of protein exit from endoplasmic reticulum	IDA		UniProtKB:O15503	PANTHER:PTHR15301	20171120	UniProtKB:P97260|GO:0036315|UniProtKB:Q12772	NCBITaxon:9606
+Alzheimers_University_of_Toronto	UniProtKB:Q92673	SORL1	PMID:17855360		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	IMP		UniProtKB:Q92673	PANTHER:PTHR12106	20140508		NCBITaxon:9606
+ComplexPortal	FB:FBgn0033460	Sec24AB	PMID:23902691		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	NAS		FB:FBgn0033460	PANTHER:PTHR13803	20240827		NCBITaxon:7227
+ComplexPortal	FB:FBgn0038947	Sar1	PMID:23902691		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	NAS		FB:FBgn0038947	PANTHER:PTHR45684	20240827		NCBITaxon:7227
+ComplexPortal	ComplexPortal:CPX-2400	copii_drome	PMID:23902691		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	NAS				20240827		NCBITaxon:7227
+ComplexPortal	FB:FBgn0033339	Sec31	PMID:23902691		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	NAS		FB:FBgn0033339	PANTHER:PTHR13923	20240827		NCBITaxon:7227
+ComplexPortal	FB:FBgn0262125	Sec23	PMID:23902691		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	NAS		FB:FBgn0262125	PANTHER:PTHR11141	20240827		NCBITaxon:7227
+ComplexPortal	FB:FBgn0262126	Sec24CD	PMID:23902691		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	NAS		FB:FBgn0262126	PANTHER:PTHR13803	20240827		NCBITaxon:7227
+ComplexPortal	FB:FBgn0024509	Sec13	PMID:23902691		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	NAS		FB:FBgn0024509	PANTHER:PTHR11024	20240827		NCBITaxon:7227
+ComplexPortal	UniProtKB:O94979	SEC31A	PMID:36594468		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	NAS		UniProtKB:O94979	PANTHER:PTHR13923	20250731		NCBITaxon:9606
+ComplexPortal	UniProtKB:P53992	SEC24C	PMID:36594468		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	NAS		UniProtKB:P53992	PANTHER:PTHR13803	20250731		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-2360	copii_human	PMID:36594468		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	NAS				20250731		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9Y6B6	SAR1B	PMID:36594468		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	NAS		UniProtKB:Q9Y6B6	PANTHER:PTHR45684	20250731		NCBITaxon:9606
+ComplexPortal	UniProtKB:O95487	SEC24B	PMID:36594468		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	NAS		UniProtKB:O95487	PANTHER:PTHR13803	20250731		NCBITaxon:9606
+ComplexPortal	UniProtKB:O95486	SEC24A	PMID:36594468		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	NAS		UniProtKB:O95486	PANTHER:PTHR13803	20250731		NCBITaxon:9606
+ComplexPortal	UniProtKB:O94855	SEC24D	PMID:36594468		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	NAS		UniProtKB:O94855	PANTHER:PTHR13803	20250731		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9NR31	SAR1A	PMID:36594468		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	NAS		UniProtKB:Q9NR31	PANTHER:PTHR45684	20250731		NCBITaxon:9606
+ComplexPortal	UniProtKB:P55735	SEC13	PMID:36594468		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	NAS		UniProtKB:P55735	PANTHER:PTHR11024	20250731		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9NQW1	SEC31B	PMID:36594468		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	NAS		UniProtKB:Q9NQW1	PANTHER:PTHR13923	20250731		NCBITaxon:9606
+ComplexPortal	SGD:S000002354	SEC31	PMID:9568718		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	IDA		SGD:S000002354	PANTHER:PTHR13923	20250808		NCBITaxon:559292
+ComplexPortal	SGD:S000004198	SEC13	PMID:9568718		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	IDA		SGD:S000004198	PANTHER:PTHR11024	20250808		NCBITaxon:559292
+ComplexPortal	SGD:S000006139	SAR1	PMID:9568718		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	IDA		SGD:S000006139	PANTHER:PTHR45684	20250808		NCBITaxon:559292
+ComplexPortal	SGD:S000006385	SEC23	PMID:9568718		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	IDA		SGD:S000006385	PANTHER:PTHR11141	20250808		NCBITaxon:559292
+ComplexPortal	SGD:S000001371	SEC24	PMID:9568718		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	IDA		SGD:S000001371	PANTHER:PTHR13803	20250808		NCBITaxon:559292
+ComplexPortal	ComplexPortal:CPX-2523	copii_yeast	PMID:9568718		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	IDA				20250808		NCBITaxon:559292
+MGI	MGI:MGI:1923407	Slc35d3	PMID:24550737		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	IMP	MGI:MGI:3802578	MGI:MGI:1923407	PANTHER:PTHR11132	20160302	GO:0032527	NCBITaxon:10090
+UniProt	UniProtKB:P60033	CD81	PMID:16449649		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	IMP		UniProtKB:P60033	PANTHER:PTHR19282	20190124		NCBITaxon:9606
+UniProt	MGI:MGI:3582052	Slc51b	PMID:17650074		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	IDA		MGI:MGI:3582052	PANTHER:PTHR36129	20120815		NCBITaxon:10090
+UniProt	UniProtKB:Q96JE7	SEC16B	PMID:21768384		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	IMP		UniProtKB:Q96JE7	PANTHER:PTHR13402	20121015	UniProtKB:Q9Y5Y5	NCBITaxon:9606
+UniProt	UniProtKB:Q3MIR4	TMEM30B	PMID:21914794		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	IDA		UniProtKB:Q3MIR4	PANTHER:PTHR10926	20110922		NCBITaxon:9606
+UniProt	UniProtKB:Q9NV96	TMEM30A	PMID:21914794		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	IDA		UniProtKB:Q9NV96	PANTHER:PTHR10926	20110922		NCBITaxon:9606
+UniProt	MGI:MGI:3582052	Slc51b	PMID:22535958		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	IDA		MGI:MGI:3582052	PANTHER:PTHR36129	20120815		NCBITaxon:10090
+UniProt	UniProtKB:Q92544	TM9SF4	PMID:25999474		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	IMP		UniProtKB:Q92544	PANTHER:PTHR10766	20160807		NCBITaxon:9606
+UniProt	dictyBase:DDB_G0267444	phg1a	PMID:25999474		GO:0070863	positive regulation of protein exit from endoplasmic reticulum	IMP		dictyBase:DDB_G0267444	PANTHER:PTHR10766	20160807		NCBITaxon:44689
+ParkinsonsUK-UCL	MGI:MGI:1924117	Rhbdd1	PMID:22795130		GO:1904211	membrane protein proteolysis involved in retrograde protein transport, ER to cytosol	IDA		MGI:MGI:1924117	PANTHER:PTHR43066	20150514		NCBITaxon:10090
+ParkinsonsUK-UCL	UniProtKB:Q8TCT9	HM13	PMID:25239945		GO:1904211	membrane protein proteolysis involved in retrograde protein transport, ER to cytosol	IMP		UniProtKB:Q8TCT9	PANTHER:PTHR12174	20150604	UniProtKB:P17861	NCBITaxon:9606
