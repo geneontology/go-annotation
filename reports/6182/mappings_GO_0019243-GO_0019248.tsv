@@ -1,0 +1,5 @@
+term	file	line
+GO:0019243	interpro2go	InterPro:IPR017782 Hydroxyacylglutathione hydrolase > GO:methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione ; GO:0019243
+GO:0019243	unirule2go	UniRule:UR001996788 > GO:methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione ; GO:0019243
+GO:0019243	metacyc2go	MetaCyc:PWY-5386 > GO:methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione ; GO:0019243
+GO:0019248	metacyc2go	MetaCyc:MGLDLCTANA-PWY > GO:D-lactate biosynthetic process from methylglyoxal via (R)-lactaldehyde ; GO:0019248

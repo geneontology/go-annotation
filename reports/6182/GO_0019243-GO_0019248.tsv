@@ -1,0 +1,24 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CGD	CGD:CAL0000194072	GLX3	PMID:24302734|CGD_REF:CAL0000173716		GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	IDA			PANTHER:PTHR48094	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000194072	GLX3	PMID:24302734|CGD_REF:CAL0000173716		GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	IMP			PANTHER:PTHR48094	20140625		NCBITaxon:237561
+EcoCyc	EcoCyc:GLYOXII-MONOMER	GloB	PMID:17196158		GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	IDA		EcoCyc:GLYOXII-MONOMER		20070124		NCBITaxon:83333
+EcoCyc	EcoCyc:G7055-MONOMER	HchA	PMID:21696459		GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	IMP		EcoCyc:G7055-MONOMER		20110628		NCBITaxon:83333
+EcoCyc	EcoCyc:G6475-MONOMER	GloC	PMID:25670698		GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	IMP		EcoCyc:G6475-MONOMER		20150326		NCBITaxon:83333
+EcoCyc	EcoCyc:GLYOXI-MONOMER	GloA	PMID:9489668		GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	IMP		EcoCyc:GLYOXI-MONOMER		20070123		NCBITaxon:83333
+FlyBase	FB:FBgn0283450	Glo1	PMID:29551588		GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	IMP		FB:FBgn0283450	PANTHER:PTHR10374	20240513		NCBITaxon:7227
+PomBase	PomBase:SPBC12C2.12c	glo1	PMID:15042280		GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	IMP		PomBase:SPBC12C2.12c	PANTHER:PTHR10374	20050412		NCBITaxon:4896
+PseudoCAP	UniProtKB:Q9HU72	gloA	PMID:17513180		GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	IDA		UniProtKB:Q9HU72	PANTHER:PTHR10374	20190311		NCBITaxon:208964
+SGD	SGD:S000002941	HSP31	PMID:24302734		GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	IDA		SGD:S000002941	PANTHER:PTHR48094	20131216		NCBITaxon:559292
+SGD	SGD:S000004463	GLO1	PMID:8824231		GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	IDA		SGD:S000004463	PANTHER:PTHR10374	20130807		NCBITaxon:559292
+SGD	SGD:S000005566	GLO4	PMID:9261170		GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	IDA		SGD:S000005566	PANTHER:PTHR11935	20130807		NCBITaxon:559292
+SGD	SGD:S000005566	GLO4	PMID:9261170		GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	IGI	SGD:S000002680	SGD:S000005566	PANTHER:PTHR11935	20140204		NCBITaxon:559292
+SGD	SGD:S000005566	GLO4	PMID:9261170		GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	IMP		SGD:S000005566	PANTHER:PTHR11935	20140204		NCBITaxon:559292
+SGD	SGD:S000002680	GLO2	PMID:9261170		GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	IDA		SGD:S000002680	PANTHER:PTHR11935	20130807		NCBITaxon:559292
+SGD	SGD:S000002680	GLO2	PMID:9261170		GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	IGI	SGD:S000005566	SGD:S000002680	PANTHER:PTHR11935	20140204		NCBITaxon:559292
+SGD	SGD:S000002680	GLO2	PMID:9261170		GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	IMP		SGD:S000002680	PANTHER:PTHR11935	20140204		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT1G11840	GLX1	PMID:27415831|TAIR:Publication:501770878		GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	IGI	SGD:S000004463	TAIR:locus:2008930		20160808		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G08110	AtGLYI2	PMID:27415831|TAIR:Publication:501770878		GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	IGI	SGD:S000004463	TAIR:locus:2205110		20160805		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G67280	AtGLYI6	PMID:27415831|TAIR:Publication:501770878		GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	IGI	SGD:S000004463	TAIR:locus:2019574		20160808		NCBITaxon:3702
+TIGR	AGI_LocusCode:AT3G10850	GLY2	PMID:9065762|TAIR:Publication:3409		GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	TAS		TAIR:locus:2103232		20070529		NCBITaxon:3702
+TIGR	AGI_LocusCode:AT2G43430	GLX2-1	PMID:9349270|TAIR:Publication:2836		GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	TAS		TAIR:locus:2058239		20030417		NCBITaxon:3702
+UniProt	UniProtKB:Q948T6	GLYI-11	PMID:24661284		GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	IMP			PANTHER:PTHR46036	20161118		NCBITaxon:39947
