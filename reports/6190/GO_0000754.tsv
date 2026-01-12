@@ -1,0 +1,8 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ComplexPortal	SGD:S000002375	RRI1	PMID:12446563		GO:0000754	adaptation of signaling pathway by response to pheromone involved in conjugation with cellular fusion	NAS		SGD:S000002375	PANTHER:PTHR10410	20250519		NCBITaxon:559292
+ComplexPortal	SGD:S000004627	CSI1	PMID:12446563		GO:0000754	adaptation of signaling pathway by response to pheromone involved in conjugation with cellular fusion	NAS		SGD:S000004627		20250519		NCBITaxon:559292
+ComplexPortal	SGD:S000003844	YJR084W	PMID:12446563		GO:0000754	adaptation of signaling pathway by response to pheromone involved in conjugation with cellular fusion	NAS		SGD:S000003844	PANTHER:PTHR12732	20250519		NCBITaxon:559292
+ComplexPortal	SGD:S000005477	RRI2	PMID:12446563		GO:0000754	adaptation of signaling pathway by response to pheromone involved in conjugation with cellular fusion	NAS		SGD:S000005477		20250519		NCBITaxon:559292
+ComplexPortal	SGD:S000002586	CSN9	PMID:12446563		GO:0000754	adaptation of signaling pathway by response to pheromone involved in conjugation with cellular fusion	NAS		SGD:S000002586	PANTHER:PTHR15350	20250519		NCBITaxon:559292
+ComplexPortal	SGD:S000001333	PCI8	PMID:12446563		GO:0000754	adaptation of signaling pathway by response to pheromone involved in conjugation with cellular fusion	NAS		SGD:S000001333	PANTHER:PTHR14145	20250519		NCBITaxon:559292
+ComplexPortal	ComplexPortal:CPX-1894	cop9_yeast	PMID:12446563		GO:0000754	adaptation of signaling pathway by response to pheromone involved in conjugation with cellular fusion	NAS				20250519		NCBITaxon:559292
