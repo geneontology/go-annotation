@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:Q9BSA9	TMEM175	PMID:35750034		GO:0050544	arachidonate binding	IDA		UniProtKB:Q9BSA9	PANTHER:PTHR31462	20220726	GO:0035751|GO:0015252	NCBITaxon:9606

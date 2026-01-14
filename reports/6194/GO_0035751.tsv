@@ -1,0 +1,9 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	FB:FBgn0033692	wash	PMID:27884932		GO:0035751	regulation of lysosomal lumen pH	IMP		FB:FBgn0033692	PANTHER:PTHR23331	20170623		NCBITaxon:7227
+MGI	MGI:MGI:1920908	Spns1	PMID:36161949		GO:0035751	regulation of lysosomal lumen pH	IMP		MGI:MGI:1920908	PANTHER:PTHR23505	20221012		NCBITaxon:10090
+ParkinsonsUK-UCL	UniProtKB:Q5S007	LRRK2	PMID:22012985		GO:0035751	regulation of lysosomal lumen pH	IMP		UniProtKB:Q5S007	PANTHER:PTHR45752	20151207		NCBITaxon:9606
+UniProt	UniProtKB:Q9HC07	TMEM165	PMID:23569283		GO:0035751	regulation of lysosomal lumen pH	IMP		UniProtKB:Q9HC07	PANTHER:PTHR12608	20130424		NCBITaxon:9606
+UniProt	MGI:MGI:1919642	Tmem175	PMID:26317472		GO:0035751	regulation of lysosomal lumen pH	IMP		MGI:MGI:1919642	PANTHER:PTHR31462	20150902		NCBITaxon:10090
+UniProt	UniProtKB:Q96AX1	VPS33A	PMID:28013294		GO:0035751	regulation of lysosomal lumen pH	IMP		UniProtKB:Q96AX1	PANTHER:PTHR11679	20170310		NCBITaxon:9606
+UniProt	UniProtKB:Q9HAI6	TASL	PMID:31001245		GO:0035751	regulation of lysosomal lumen pH	IDA		UniProtKB:Q9HAI6	PANTHER:PTHR14889	20190709		NCBITaxon:9606
+UniProt	UniProtKB:Q9BSA9	TMEM175	PMID:35750034		GO:0035751	regulation of lysosomal lumen pH	IDA		UniProtKB:Q9BSA9	PANTHER:PTHR31462	20220726		NCBITaxon:9606
