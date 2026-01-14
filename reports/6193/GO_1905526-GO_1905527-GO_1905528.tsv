@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:Q9Y2E8	SLC9A8	PMID:15522866		GO:1905526	regulation of Golgi lumen acidification	IDA		UniProtKB:Q9Y2E8	PANTHER:PTHR10110	20221007		NCBITaxon:9606
+UniProt	UniProtKB:Q96T83	SLC9A7	PMID:30335141		GO:1905526	regulation of Golgi lumen acidification	IMP		UniProtKB:Q96T83	PANTHER:PTHR10110	20190722		NCBITaxon:9606
+CACAO	MGI:MGI:105098	Ube3a	PMID:23447592		GO:1905528	positive regulation of Golgi lumen acidification	IMP		MGI:MGI:105098	PANTHER:PTHR45622	20160927		NCBITaxon:10090
+CACAO	RGD:1306361	Ube3a	PMID:23447592		GO:1905528	positive regulation of Golgi lumen acidification	IMP		RGD:1306361	PANTHER:PTHR45622	20161025		NCBITaxon:10116
