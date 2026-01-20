@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+GeneDB	TriTrypDB:Tb927.1.4690	PRMT1-ENZ	PMID:30563898		GO:2001157	negative regulation of L-proline catabolic process to L-glutamate	IMP				20200412		NCBITaxon:185431
+CGD	CGD:CAL0000196161	PUT3	PMID:29242833|CGD_REF:CAL0000215270		GO:2001158	positive regulation of L-proline catabolic process to L-glutamate	IMP			PANTHER:PTHR47782	20180116		NCBITaxon:237561
+PseudoCAP	UniProtKB:Q9HV73	cbrB	PMID:11401699		GO:2001158	positive regulation of L-proline catabolic process to L-glutamate	IMP		UniProtKB:Q9HV73	PANTHER:PTHR32071	20190311		NCBITaxon:208964
+PseudoCAP	UniProtKB:Q9I5F8	pruR	PMID:12270821		GO:2001158	positive regulation of L-proline catabolic process to L-glutamate	IMP		UniProtKB:Q9I5F8	PANTHER:PTHR46796	20190311		NCBITaxon:208964
+SGD	SGD:S000001498	PUT3	PMID:2689862		GO:2001158	positive regulation of L-proline catabolic process to L-glutamate	IMP		SGD:S000001498	PANTHER:PTHR47424	20130807		NCBITaxon:559292
