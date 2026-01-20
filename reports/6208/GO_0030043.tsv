@@ -1,0 +1,9 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:Q7JQD3	AM	DOI:10.1007/BF00700982		GO:0030043	actin filament fragmentation	IDA				20110201		NCBITaxon:6398
+UniProt	Xenbase:XB-GENE-6251934	wdr1.L	PMID:10212149		GO:0030043	actin filament fragmentation	IDA				20070503		NCBITaxon:8355
+UniProt	MGI:MGI:101763	Cfl2	PMID:11809832		GO:0030043	actin filament fragmentation	IDA		MGI:MGI:101763	PANTHER:PTHR11913	20160523		NCBITaxon:10090
+UniProt	MGI:MGI:101757	Cfl1	PMID:11809832		GO:0030043	actin filament fragmentation	IDA		MGI:MGI:101757	PANTHER:PTHR11913	20160523		NCBITaxon:10090
+UniProt	MGI:MGI:1929270	Dstn	PMID:11809832		GO:0030043	actin filament fragmentation	IDA		MGI:MGI:1929270	PANTHER:PTHR11913	20160523		NCBITaxon:10090
+UniProt	Xenbase:XB-GENE-6251934	wdr1.L	PMID:12055192		GO:0030043	actin filament fragmentation	IDA				20070503		NCBITaxon:8355
+UniProt	MGI:MGI:1337100	Wdr1	PMID:25915128		GO:0030043	actin filament fragmentation	IMP		MGI:MGI:1337100	PANTHER:PTHR19856	20160524		NCBITaxon:10090
+dictyBase	dictyBase:DDB_G0289327	sevA	PMID:6897549		GO:0030043	actin filament fragmentation	IDA		dictyBase:DDB_G0289327	PANTHER:PTHR11977	20040513		NCBITaxon:44689
