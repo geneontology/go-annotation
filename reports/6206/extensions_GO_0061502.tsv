@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:O75154	RAB11FIP3	PMID:20026645		GO:0030674	protein-macromolecule adaptor activity	IMP		UniProtKB:O75154	PANTHER:PTHR15726	20231130	GO:0016192|GO:0061502|GO:0030666|UniProtKB:P62491|UniProtKB:Q9Y6G9|GO:0030674	NCBITaxon:9606
+UniProt	UniProtKB:Q9Y6G9	DYNC1LI1	PMID:20026645		GO:0007018	microtubule-based movement	IDA		UniProtKB:Q9Y6G9	PANTHER:PTHR12688	20231130	GO:0061502	NCBITaxon:9606

@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:1345961	Coro1a	PMID:24270184		GO:0061502	early endosome to recycling endosome transport	IMP	MGI:MGI:3778894	MGI:MGI:1345961	PANTHER:PTHR10856	20140820	CL:0011103	NCBITaxon:10090
+UniProt	UniProtKB:F1PRN2	MYO1D	PMID:11208135		GO:0061502	early endosome to recycling endosome transport	IDA		UniProtKB:F1PRN2	PANTHER:PTHR13140	20190916		NCBITaxon:9615
+UniProt	UniProtKB:O75154	RAB11FIP3	PMID:20026645		GO:0061502	early endosome to recycling endosome transport	IMP		UniProtKB:O75154	PANTHER:PTHR15726	20231130	GO:0016192	NCBITaxon:9606
+UniProt	UniProtKB:Q9Y6G9	DYNC1LI1	PMID:20026645		GO:0061502	early endosome to recycling endosome transport	IDA		UniProtKB:Q9Y6G9	PANTHER:PTHR12688	20231130		NCBITaxon:9606
+UniProt	UniProtKB:P62491	RAB11A	PMID:20026645		GO:0061502	early endosome to recycling endosome transport	IMP		UniProtKB:P62491	PANTHER:PTHR47979	20231130	GO:0016192	NCBITaxon:9606
