@@ -1,0 +1,17 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ComplexPortal	ComplexPortal:CPX-26413	mis18_schpo-1	PMID:31371524		GO:0140462	pericentric heterochromatin organization	NAS				20250404		NCBITaxon:284812
+ComplexPortal	PomBase:SPBC27B12.02	mis19	PMID:31371524		GO:0140462	pericentric heterochromatin organization	NAS		PomBase:SPBC27B12.02		20250404		NCBITaxon:4896
+ComplexPortal	PomBase:SPCC970.12	mis18	PMID:31371524		GO:0140462	pericentric heterochromatin organization	NAS		PomBase:SPCC970.12	PANTHER:PTHR16431	20250404		NCBITaxon:4896
+ComplexPortal	PomBase:SPCC1672.10	mis16	PMID:31371524		GO:0140462	pericentric heterochromatin organization	NAS		PomBase:SPCC1672.10	PANTHER:PTHR22850	20250404		NCBITaxon:4896
+ComplexPortal	PomBase:SPBC776.16	mis20	PMID:31371524		GO:0140462	pericentric heterochromatin organization	NAS		PomBase:SPBC776.16		20250404		NCBITaxon:4896
+ComplexPortal	MGI:MGI:1913828	Mis18a	PMID:38951710		GO:0140462	pericentric heterochromatin organization	NAS		MGI:MGI:1913828	PANTHER:PTHR16431	20250328		NCBITaxon:10090
+ComplexPortal	MGI:MGI:2145099	Mis18bp1	PMID:38951710		GO:0140462	pericentric heterochromatin organization	NAS		MGI:MGI:2145099	PANTHER:PTHR16124	20250328		NCBITaxon:10090
+ComplexPortal	MGI:MGI:1917895	Oip5	PMID:38951710		GO:0140462	pericentric heterochromatin organization	NAS		MGI:MGI:1917895	PANTHER:PTHR16431	20250328		NCBITaxon:10090
+ComplexPortal	ComplexPortal:CPX-3273	mis18_mouse	PMID:38951710		GO:0140462	pericentric heterochromatin organization	NAS				20250328		NCBITaxon:10090
+ComplexPortal	ComplexPortal:CPX-3272	mis18_human	PMID:38951710		GO:0140462	pericentric heterochromatin organization	NAS				20250328		NCBITaxon:9606
+ComplexPortal	UniProtKB:O43482	OIP5	PMID:38951710		GO:0140462	pericentric heterochromatin organization	NAS		UniProtKB:O43482	PANTHER:PTHR16431	20250328		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q6P0N0	MIS18BP1	PMID:38951710		GO:0140462	pericentric heterochromatin organization	NAS		UniProtKB:Q6P0N0	PANTHER:PTHR16124	20250328		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9NYP9	MIS18A	PMID:38951710		GO:0140462	pericentric heterochromatin organization	NAS		UniProtKB:Q9NYP9	PANTHER:PTHR16431	20250328		NCBITaxon:9606
+MGI	MGI:MGI:2443514	Wdhd1	PMID:21266480		GO:0140462	pericentric heterochromatin organization	IMP		MGI:MGI:2443514	PANTHER:PTHR19932	20210824		NCBITaxon:10090
+MGI	MGI:MGI:1913828	Mis18a	PMID:22516971		GO:0140462	pericentric heterochromatin organization	IMP	MGI:MGI:5441069	MGI:MGI:1913828	PANTHER:PTHR16431	20130610		NCBITaxon:10090
+PomBase	PomBase:SPAC18G6.10	lem2	PMID:26744419		GO:0140462	pericentric heterochromatin organization	IMP		PomBase:SPAC18G6.10	PANTHER:PTHR47808	20190128		NCBITaxon:4896
