@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:P10415	BCL2	PMID:10506221		GO:0032848	negative regulation of cellular pH reduction	IDA		UniProtKB:P10415	PANTHER:PTHR11256	20070305		NCBITaxon:9606
+RGD	RGD:6502812	Avpr1b	PMID:17762181		GO:0032849	positive regulation of cellular pH reduction	IMP		RGD:6502812	PANTHER:PTHR24241	20210701		NCBITaxon:10116
+RGD	RGD:2185	Avpr1a	PMID:17762181		GO:0032849	positive regulation of cellular pH reduction	IMP		RGD:2185	PANTHER:PTHR24241	20080912		NCBITaxon:10116
+RGD	RGD:2184	Avp	PMID:17762181		GO:0032849	positive regulation of cellular pH reduction	IMP		RGD:2184	PANTHER:PTHR11681	20081110		NCBITaxon:10116
+RGD	RGD:2240	Car2	PMID:9665810		GO:0032849	positive regulation of cellular pH reduction	IMP		RGD:2240	PANTHER:PTHR18952	20070323		NCBITaxon:10116
