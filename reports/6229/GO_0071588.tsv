@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+TAIR	AGI_LocusCode:AT1G77490	TAPX	PMID:22334687|TAIR:Publication:501754663		GO:0071588	hydrogen peroxide mediated signaling pathway	IMP		TAIR:locus:2204735		20130624		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G18790	PHYB	PMID:36401805|TAIR:Publication:501801269		GO:0071588	hydrogen peroxide mediated signaling pathway	IMP		TAIR:locus:2005515		20221130		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT1G08320	TGA9	PMID:27717447|TAIR:Publication:501771795		GO:0071588	hydrogen peroxide mediated signaling pathway	IMP		TAIR:locus:2199968		20210331		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT5G06839	TGA10	PMID:27717447|TAIR:Publication:501771795		GO:0071588	hydrogen peroxide mediated signaling pathway	IMP		TAIR:locus:1005716824		20210331		NCBITaxon:3702
