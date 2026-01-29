@@ -1,0 +1,26 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:P00480	OTC	PMID:2556444		GO:0006593	L-ornithine catabolic process	IDA		UniProtKB:P00480	PANTHER:PTHR45753	20140117		NCBITaxon:9606
+BHF-UCL	UniProtKB:P00480	OTC	PMID:8112735		GO:0006593	L-ornithine catabolic process	IDA		UniProtKB:P00480	PANTHER:PTHR45753	20140117		NCBITaxon:9606
+EcoCyc	EcoCyc:SUCCORNTRANSAM-MONOMER	AstC	PMID:9696780		GO:0006593	L-ornithine catabolic process	IMP		EcoCyc:SUCCORNTRANSAM-MONOMER		20111014		NCBITaxon:83333
+EcoliWiki	EcoCyc:SUCCORNTRANSAM-MONOMER	AstC	PMID:9696779		GO:0006593	L-ornithine catabolic process	IMP		EcoCyc:SUCCORNTRANSAM-MONOMER		20090219		NCBITaxon:83333
+PseudoCAP	UniProtKB:P72171	oruR	PMID:9401045		GO:0006593	L-ornithine catabolic process	IMP		UniProtKB:P72171	PANTHER:PTHR47894	20190311		NCBITaxon:208964
+TAIR	AGI_LocusCode:AT5G46180	DELTA-OAT	PMID:18419821|TAIR:Publication:501724521		GO:0006593	L-ornithine catabolic process	IMP		TAIR:locus:2161398		20090912		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT5G46180	DELTA-OAT	PMID:9576796|TAIR:Publication:2609		GO:0006593	L-ornithine catabolic process	IDA		TAIR:locus:2161398		20210331		NCBITaxon:3702
+CAFA	RGD:1359514	Scly	PMID:20164179		GO:0016261	selenocysteine catabolic process	IMP		RGD:1359514	PANTHER:PTHR11601	20161117		NCBITaxon:10116
+ComplexPortal	EcoCyc:G7325-MONOMER	IscS	PMID:10739946		GO:0016261	selenocysteine catabolic process	IDA		EcoCyc:G7325-MONOMER		20250724		NCBITaxon:83333
+ComplexPortal	ComplexPortal:CPX-2136	iscs-dimer_ecoli	PMID:10739946		GO:0016261	selenocysteine catabolic process	IDA				20250724		NCBITaxon:83333
+ComplexPortal	EcoCyc:G7454-MONOMER	CsdA	PMID:9278392		GO:0016261	selenocysteine catabolic process	IDA		EcoCyc:G7454-MONOMER		20250724		NCBITaxon:83333
+ComplexPortal	ComplexPortal:CPX-2137	csda-dimer_ecoli	PMID:9278392		GO:0016261	selenocysteine catabolic process	IDA				20250724		NCBITaxon:83333
+GeneDB	TriTrypDB:LmjF.35.3230	LmjF.35.3230	PMID:17196271		GO:0019510	S-adenosylhomocysteine catabolic process	TAS				20091229		NCBITaxon:347515
+RGD	RGD:69260	Ahcy	PMID:11741948		GO:0019510	S-adenosylhomocysteine catabolic process	IDA		RGD:69260	PANTHER:PTHR23420	20050217		NCBITaxon:10116
+FlyBase	FB:FBgn0263864	Dark	PMID:24746817		GO:1901053	sarcosine catabolic process	IMP		FB:FBgn0263864	PANTHER:PTHR22845	20140529		NCBITaxon:7227
+FlyBase	FB:FBgn0034276	Sardh	PMID:24746817		GO:1901053	sarcosine catabolic process	IMP		FB:FBgn0034276	PANTHER:PTHR13847	20140529		NCBITaxon:7227
+PseudoCAP	UniProtKB:Q9HTE8	soxB	PMID:17951379		GO:1901053	sarcosine catabolic process	IMP		UniProtKB:Q9HTE8	PANTHER:PTHR13847	20190311		NCBITaxon:208964
+PseudoCAP	UniProtKB:Q9HTE7	soxD	PMID:17951379		GO:1901053	sarcosine catabolic process	IMP		UniProtKB:Q9HTE7		20190311		NCBITaxon:208964
+PseudoCAP	UniProtKB:Q9HTE6	soxA	PMID:17951379		GO:1901053	sarcosine catabolic process	IMP		UniProtKB:Q9HTE6	PANTHER:PTHR43104	20190311		NCBITaxon:208964
+PseudoCAP	UniProtKB:Q9HTE5	soxG	PMID:17951379		GO:1901053	sarcosine catabolic process	IMP		UniProtKB:Q9HTE5		20190311		NCBITaxon:208964
+PseudoCAP	UniProtKB:Q9HTE7	soxD	PMID:17951381		GO:1901053	sarcosine catabolic process	IMP		UniProtKB:Q9HTE7		20190311		NCBITaxon:208964
+PseudoCAP	UniProtKB:Q9HTE6	soxA	PMID:17951383		GO:1901053	sarcosine catabolic process	IMP		UniProtKB:Q9HTE6	PANTHER:PTHR43104	20190311		NCBITaxon:208964
+PseudoCAP	UniProtKB:Q9HTE5	soxG	PMID:17951385		GO:1901053	sarcosine catabolic process	IMP		UniProtKB:Q9HTE5		20190311		NCBITaxon:208964
+PseudoCAP	UniProtKB:Q9I082	PA2761	PMID:24097953		GO:1901053	sarcosine catabolic process	IDA		UniProtKB:Q9I082		20190311		NCBITaxon:208964
+PseudoCAP	UniProtKB:Q9HWJ7	PA4184	PMID:26503852		GO:1901053	sarcosine catabolic process	IMP		UniProtKB:Q9HWJ7	PANTHER:PTHR43130	20190311		NCBITaxon:208964
