@@ -1,0 +1,19 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	MGI:MGI:1930704	Bhlhe41	PMID:12657651		GO:0010944	negative regulation of transcription by competitive promoter binding	IDA		MGI:MGI:1930704	PANTHER:PTHR10985	20111105		NCBITaxon:10090
+BHF-UCL	UniProtKB:P15941	MUC1	PMID:15710329		GO:0010944	negative regulation of transcription by competitive promoter binding	IDA		UniProtKB:P15941	PANTHER:PTHR10006	20111212		NCBITaxon:9606
+BHF-UCL	UniProtKB:O15105	SMAD7	PMID:17438144		GO:0010944	negative regulation of transcription by competitive promoter binding	IDA		UniProtKB:O15105	PANTHER:PTHR13703	20090423		NCBITaxon:9606
+BHF-UCL	UniProtKB:P35232	PHB1	PMID:18487222		GO:0010944	negative regulation of transcription by competitive promoter binding	IDA		UniProtKB:P35232	PANTHER:PTHR23222	20110213		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q92769	HDAC2	PMID:19276356		GO:0010944	negative regulation of transcription by competitive promoter binding	IMP		UniProtKB:Q92769	PANTHER:PTHR10625	20230614		NCBITaxon:9606
+BHF-UCL	UniProtKB:P56524	HDAC4	PMID:19276356		GO:0010944	negative regulation of transcription by competitive promoter binding	IMP		UniProtKB:P56524	PANTHER:PTHR10625	20230614		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q03014	HHEX	PMID:19324893		GO:0010944	negative regulation of transcription by competitive promoter binding	TAS		UniProtKB:Q03014	PANTHER:PTHR24324	20100218		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9UI95	MAD2L2	PMID:19443654		GO:0010944	negative regulation of transcription by competitive promoter binding	IMP		UniProtKB:Q9UI95	PANTHER:PTHR11842	20121203		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9BRP0	OVOL2	PMID:19700410		GO:0010944	negative regulation of transcription by competitive promoter binding	IDA		UniProtKB:Q9BRP0-1	PANTHER:PTHR10032	20090825		NCBITaxon:9606
+BHF-UCL	UniProtKB:P16220	CREB1	PMID:19861239		GO:0010944	negative regulation of transcription by competitive promoter binding	IDA		UniProtKB:P16220	PANTHER:PTHR45879	20111201		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9UI36	DACH1	PMID:20956529		GO:0010944	negative regulation of transcription by competitive promoter binding	IMP		UniProtKB:Q9UI36	PANTHER:PTHR12577	20111213		NCBITaxon:9606
+CACAO	UniProtKB:A0A0H2ZQ65	ccpA	PMID:17496092		GO:0010944	negative regulation of transcription by competitive promoter binding	IMP				20170323		NCBITaxon:373153
+CAFA	UniProtKB:P03040	cro	PMID:17908932		GO:0010944	negative regulation of transcription by competitive promoter binding	IMP				20161018		NCBITaxon:2681611
+CAFA	UniProtKB:P03034	cI	PMID:17908932		GO:0010944	negative regulation of transcription by competitive promoter binding	IDA				20161018	UniProtKB:P03034	NCBITaxon:2681611
+SGD	SGD:S000002718	SUM1	PMID:12832469		GO:0010944	negative regulation of transcription by competitive promoter binding	IDA		SGD:S000002718		20130807		NCBITaxon:559292
+UniProt	UniProtKB:P05549	TFAP2A	PMID:11278550		GO:0010944	negative regulation of transcription by competitive promoter binding	IMP		UniProtKB:P05549	PANTHER:PTHR10812	20110712		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y2K7	KDM2A	PMID:26037310		GO:0010944	negative regulation of transcription by competitive promoter binding	IMP		UniProtKB:Q9Y2K7	PANTHER:PTHR23123	20190219		NCBITaxon:9606
+UniProt	UniProtKB:P05549	TFAP2A	PMID:8321221		GO:0010944	negative regulation of transcription by competitive promoter binding	IDA		UniProtKB:P05549-2	PANTHER:PTHR10812	20110712		NCBITaxon:9606
