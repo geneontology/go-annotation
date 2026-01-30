@@ -1,0 +1,10 @@
+term	file	line
+GO:0005548	interpro2go	InterPro:IPR001666 Phosphatidylinositol transfer protein > GO:phospholipid transporter activity ; GO:0005548
+GO:0005548	interpro2go	InterPro:IPR039988 Microsomal triglyceride transfer protein large subunit > GO:phospholipid transporter activity ; GO:0005548
+GO:0005548	reactome2go	Reactome:R-HSA-216757 > GO:phospholipid transporter activity ; GO:0005548
+GO:0005548	reactome2go	Reactome:R-HSA-382553 > GO:phospholipid transporter activity ; GO:0005548
+GO:0005548	reactome2go	Reactome:R-HSA-5678706 > GO:phospholipid transporter activity ; GO:0005548
+GO:0005548	reactome2go	Reactome:R-HSA-5678749 > GO:phospholipid transporter activity ; GO:0005548
+GO:0005548	reactome2go	Reactome:R-HSA-8857662 > GO:phospholipid transporter activity ; GO:0005548
+GO:0005548	reactome2go	Reactome:R-HSA-8865637 > GO:phospholipid transporter activity ; GO:0005548
+GO:0005548	reactome2go	Reactome:R-HSA-8867876 > GO:phospholipid transporter activity ; GO:0005548
