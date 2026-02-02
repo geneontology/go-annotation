@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:A7XRY8	tdiD	PMID:17704773		GO:0070529	L-tryptophan aminotransferase activity	IDA			PANTHER:PTHR42790	20220707	GO:1900796|CHEBI:16828|CHEBI:17640	NCBITaxon:227321
+GeneDB	TriTrypDB:Tb927.10.11970	GlnAT	PMID:19443056		GO:0070548	L-glutamine aminotransferase activity	IDA				20130524		NCBITaxon:185431

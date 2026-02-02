@@ -1,0 +1,5 @@
+term	file	line
+GO:0047299	kegg_reaction2go	KEGG_REACTION:R01376 > GO:tryptophan-phenylpyruvate transaminase activity ; GO:0047299
+GO:0047299	rhea2go	RHEA:13741 > GO:tryptophan-phenylpyruvate transaminase activity ; GO:0047299
+GO:0047299	metacyc2go	MetaCyc:2.6.1.28-RXN > GO:tryptophan-phenylpyruvate transaminase activity ; GO:0047299
+GO:0047299	ec2go	EC:2.6.1.28 > GO:tryptophan-phenylpyruvate transaminase activity ; GO:0047299
