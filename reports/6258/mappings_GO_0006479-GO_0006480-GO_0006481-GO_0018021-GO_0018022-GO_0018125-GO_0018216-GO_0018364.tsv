@@ -1,0 +1,30 @@
+term	file	line
+GO:0006479	interpro2go	InterPro:IPR004498 Ribosomal protein L11 methyltransferase > GO:protein methylation ; GO:0006479
+GO:0006479	interpro2go	InterPro:IPR004556 Methyltransferase HemK-like > GO:protein methylation ; GO:0006479
+GO:0006479	interpro2go	InterPro:IPR007857 Protein arginine N-methyltransferase PRMT5 > GO:protein methylation ; GO:0006479
+GO:0006479	interpro2go	InterPro:IPR014644 Protein arginine N-methyltransferase PRMT7 > GO:protein methylation ; GO:0006479
+GO:0006479	interpro2go	InterPro:IPR017127 Ribosomal protein uL3 glutamine methyltransferase > GO:protein methylation ; GO:0006479
+GO:0006479	interpro2go	InterPro:IPR038899 Methyltransferase-like protein 22 > GO:protein methylation ; GO:0006479
+GO:0006479	reactome2go	Reactome:R-HSA-8876725 > GO:protein methylation ; GO:0006479
+GO:0006480	interpro2go	InterPro:IPR008576 Alpha-N-methyltransferase NTM1 > GO:N-terminal protein amino acid methylation ; GO:0006480
+GO:0006481	interpro2go	InterPro:IPR007269 Isoprenylcysteine carboxyl methyltransferase > GO:C-terminal protein methylation ; GO:0006481
+GO:0006481	interpro2go	InterPro:IPR025770 Protein-S-isoprenylcysteine O-methyltransferase > GO:C-terminal protein methylation ; GO:0006481
+GO:0018021	resid2go	RESID:AA0073 > GO:peptidyl-histidine methylation ; GO:0018021
+GO:0018021	resid2go	RESID:AA0317 > GO:peptidyl-histidine methylation ; GO:0018021
+GO:0018021	unirule2go	UniRule:UR000400697 > GO:peptidyl-histidine methylation ; GO:0018021
+GO:0018022	hamap2go	HAMAP:MF_03187 > GO:peptidyl-lysine methylation ; GO:0018022
+GO:0018022	hamap2go	HAMAP:MF_03188 > GO:peptidyl-lysine methylation ; GO:0018022
+GO:0018022	hamap2go	HAMAP:MF_03198 > GO:peptidyl-lysine methylation ; GO:0018022
+GO:0018022	interpro2go	InterPro:IPR025815 Cytochrome c lysine N-methyltransferase 1 > GO:peptidyl-lysine methylation ; GO:0018022
+GO:0018022	interpro2go	InterPro:IPR044430 SETD6, SET domain > GO:peptidyl-lysine methylation ; GO:0018022
+GO:0018022	interpro2go	InterPro:IPR044431 RBCMT, SET domain > GO:peptidyl-lysine methylation ; GO:0018022
+GO:0018022	interpro2go	InterPro:IPR044432 Set10/Efm1, SET domain > GO:peptidyl-lysine methylation ; GO:0018022
+GO:0018022	unirule2go	UniRule:UR000165985 > GO:peptidyl-lysine methylation ; GO:0018022
+GO:0018022	unirule2go	UniRule:UR000166233 > GO:peptidyl-lysine methylation ; GO:0018022
+GO:0018022	unirule2go	UniRule:UR000209829 > GO:peptidyl-lysine methylation ; GO:0018022
+GO:0018125	resid2go	RESID:AA0234 > GO:peptidyl-cysteine methylation ; GO:0018125
+GO:0018216	interpro2go	InterPro:IPR025799 Protein arginine N-methyltransferase > GO:peptidyl-arginine methylation ; GO:0018216
+GO:0018364	hamap2go	HAMAP:MF_02125 > GO:peptidyl-glutamine methylation ; GO:0018364
+GO:0018364	hamap2go	HAMAP:MF_02126 > GO:peptidyl-glutamine methylation ; GO:0018364
+GO:0018364	unirule2go	UniRule:UR000030784 > GO:peptidyl-glutamine methylation ; GO:0018364
+GO:0018364	unirule2go	UniRule:UR000120762 > GO:peptidyl-glutamine methylation ; GO:0018364

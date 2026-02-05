@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:1920501	Setd7	PMID:27292644		GO:0016279	protein-lysine N-methyltransferase activity	IDA		MGI:MGI:1920501	PANTHER:PTHR46820	20170418	GO:0006479|PR:000049802|PR:000049801	NCBITaxon:10090
+MGI	MGI:MGI:3611450	Mettl21c	PMID:32611769		GO:0016279	protein-lysine N-methyltransferase activity	IDA		MGI:MGI:3611450	PANTHER:PTHR14614	20210226	GO:0006479|PR:000050487|PR:000050486	NCBITaxon:10090
