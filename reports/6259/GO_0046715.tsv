@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+HGNC-UCL	UniProtKB:Q8NBS3	SLC4A11	PMID:15525507		GO:0046715	active borate transmembrane transporter activity	IDA		UniProtKB:Q8NBS3	PANTHER:PTHR11453	20071017		NCBITaxon:9606
+UniProt	AGI_LocusCode:AT2G47160	BOR1	PMID:12447444|TAIR:Publication:501682462		GO:0046715	active borate transmembrane transporter activity	IMP		TAIR:locus:2041319		20240419		NCBITaxon:3702
