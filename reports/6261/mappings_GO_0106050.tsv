@@ -1,0 +1,6 @@
+term	file	line
+GO:0106050	interpro2go	InterPro:IPR039044 tRNA:m(4)X modification enzyme Trm13 > GO:tRNA 2'-O-methyltransferase activity ; GO:0106050
+GO:0106050	reactome2go	Reactome:R-HSA-6788668 > GO:tRNA 2'-O-methyltransferase activity ; GO:0106050
+GO:0106050	reactome2go	Reactome:R-HSA-6788684 > GO:tRNA 2'-O-methyltransferase activity ; GO:0106050
+GO:0106050	reactome2go	Reactome:R-HSA-9024159 > GO:tRNA 2'-O-methyltransferase activity ; GO:0106050
+GO:0106050	unirule2go	UniRule:UR001426778 > GO:tRNA 2'-O-methyltransferase activity ; GO:0106050

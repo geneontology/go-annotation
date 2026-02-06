@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+Reactome	SGD:S000005485	TRM13	PMID:17242307		GO:0106050	tRNA 2'-O-methyltransferase activity	EXP		SGD:S000005485	PANTHER:PTHR12998	20231002		NCBITaxon:559292
+Reactome	UniProtKB:Q9UET6	FTSJ1	PMID:25404562		GO:0106050	tRNA 2'-O-methyltransferase activity	EXP		UniProtKB:Q9UET6	PANTHER:PTHR10920	20231002		NCBITaxon:9606
+Reactome	UniProtKB:Q9UET6	FTSJ1	PMID:26310293		GO:0106050	tRNA 2'-O-methyltransferase activity	EXP		UniProtKB:Q9UET6	PANTHER:PTHR10920	20231002		NCBITaxon:9606
+SGD	SGD:S000000265	TRM7	PMID:11927565		GO:0106050	tRNA 2'-O-methyltransferase activity	IDA		SGD:S000000265	PANTHER:PTHR10920	20190624		NCBITaxon:559292
+SGD	SGD:S000005485	TRM13	PMID:17242307		GO:0106050	tRNA 2'-O-methyltransferase activity	IDA		SGD:S000005485	PANTHER:PTHR12998	20170814		NCBITaxon:559292
+SGD	SGD:S000005485	TRM13	PMID:17242307		GO:0106050	tRNA 2'-O-methyltransferase activity	IMP		SGD:S000005485	PANTHER:PTHR12998	20170814		NCBITaxon:559292
