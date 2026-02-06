@@ -1,0 +1,8 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	UniProtKB:Q9ADG1	SCO6102	PMID:22659143		GO:0016002	sulfite reductase activity	IMP			PANTHER:PTHR32439	20130410		NCBITaxon:100226
+MTBBASE	UniProtKB:P9WJ03	sir	PMID:15917234		GO:0016002	sulfite reductase activity	IDA			PANTHER:PTHR32439	20100320		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WJ03	sir	PMID:17644602		GO:0016002	sulfite reductase activity	IDA			PANTHER:PTHR32439	20100419		NCBITaxon:83332
+TAIR	AGI_LocusCode:AT5G04590	SIR	PMID:23221833|TAIR:Publication:501753022		GO:0016002	sulfite reductase activity	IDA		TAIR:locus:2184457		20130114		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G04590	SIR	PMID:9661674|TAIR:Publication:2585		GO:0016002	sulfite reductase activity	IDA		TAIR:locus:2184457		20040210		NCBITaxon:3702
+UniProt	UniProtKB:Q8EJI6	sirA	PMID:21199252		GO:0016002	sulfite reductase activity	IMP			PANTHER:PTHR35038	20150312		NCBITaxon:211586
+UniProt	UniProtKB:Q7MSJ8	mccA	PMID:25642962		GO:0016002	sulfite reductase activity	IDA				20150312		NCBITaxon:273121

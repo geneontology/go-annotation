@@ -1,0 +1,4 @@
+term	file	line
+GO:0016002	hamap2go	HAMAP:MF_02023 > GO:sulfite reductase activity ; GO:0016002
+GO:0016002	interpro2go	InterPro:IPR032897 Dissimilatory sulfite reductase > GO:sulfite reductase activity ; GO:0016002
+GO:0016002	unirule2go	UniRule:UR000165756 > GO:sulfite reductase activity ; GO:0016002
