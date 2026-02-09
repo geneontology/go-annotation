@@ -1,0 +1,31 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:97171	Mt1	PMID:11792622		GO:0007263	nitric oxide mediated signal transduction	IMP	MGI:MGI:2668454	MGI:MGI:97171	PANTHER:PTHR23299	20030918		NCBITaxon:10090
+MGI	MGI:MGI:97172	Mt2	PMID:11792622		GO:0007263	nitric oxide mediated signal transduction	IMP	MGI:MGI:2668455	MGI:MGI:97172	PANTHER:PTHR23299	20030918		NCBITaxon:10090
+PINC	UniProtKB:P21462	FPR1	PMID:10861041		GO:0007263	nitric oxide mediated signal transduction	TAS		UniProtKB:P21462	PANTHER:PTHR24225	20030904		NCBITaxon:9606
+PINC	UniProtKB:Q02153	GUCY1B1	PMID:9742212		GO:0007263	nitric oxide mediated signal transduction	TAS		UniProtKB:Q02153	PANTHER:PTHR45655	20030904		NCBITaxon:9606
+PINC	UniProtKB:Q02108	GUCY1A1	PMID:9742212		GO:0007263	nitric oxide mediated signal transduction	TAS		UniProtKB:Q02108	PANTHER:PTHR45655	20030904		NCBITaxon:9606
+PINC	UniProtKB:O94760	DDAH1	PMID:9874257		GO:0007263	nitric oxide mediated signal transduction	TAS		UniProtKB:O94760	PANTHER:PTHR12737	20030904		NCBITaxon:9606
+RGD	RGD:619727	Rasd1	PMID:11086993		GO:0007263	nitric oxide mediated signal transduction	IDA		RGD:619727	PANTHER:PTHR46149	20050217		NCBITaxon:10116
+RGD	RGD:620475	Npy2r	PMID:11711887		GO:0007263	nitric oxide mediated signal transduction	IMP		RGD:620475		20071002		NCBITaxon:10116
+TAIR	AGI_LocusCode:AT5G15410	DND1	PMID:17384171|TAIR:Publication:501721208		GO:0007263	nitric oxide mediated signal transduction	IMP		TAIR:locus:2180867		20070503		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G52830	WRKY27	PMID:18702671|TAIR:Publication:501727497		GO:0007263	nitric oxide mediated signal transduction	IMP		TAIR:locus:2176907		20081029		NCBITaxon:3702
+UniProt	RGD:2661	Gapdh	PMID:19607794		GO:0007263	nitric oxide mediated signal transduction	IDA		RGD:2661	PANTHER:PTHR10836	20230309		NCBITaxon:10116
+UniProt	RGD:1307973	Rilpl1	PMID:19607794		GO:0007263	nitric oxide mediated signal transduction	IDA		RGD:1307973	PANTHER:PTHR21502	20230309		NCBITaxon:10116
+UniProt	UniProtKB:Q8TB73	NDNF	PMID:24706764		GO:0007263	nitric oxide mediated signal transduction	IDA		UniProtKB:Q8TB73	PANTHER:PTHR14619	20150918		NCBITaxon:9606
+ZFIN	ZFIN:ZDB-GENE-001101-1	nos1	PMID:19450519|ZFIN:ZDB-PUB-090526-18		GO:0007263	nitric oxide mediated signal transduction	IMP	ZFIN:ZDB-MRPHLNO-100503-12		PANTHER:PTHR19384	20111202		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-001101-1	nos1	PMID:28951000|ZFIN:ZDB-PUB-170928-4		GO:0007263	nitric oxide mediated signal transduction	IMP	ZFIN:ZDB-GENO-190218-5		PANTHER:PTHR19384	20181202		NCBITaxon:7955
+MGI	MGI:MGI:88285	Cbs	PMID:10953023		GO:0010749	regulation of nitric oxide mediated signal transduction	IMP	MGI:MGI:1857139	MGI:MGI:88285	PANTHER:PTHR10314	20180529		NCBITaxon:10090
+MGI	MGI:MGI:2651499	Pde5a	PMID:16150726		GO:0010749	regulation of nitric oxide mediated signal transduction	IGI	MGI:MGI:2446107	MGI:MGI:2651499	PANTHER:PTHR11347	20180529		NCBITaxon:10090
+MGI	MGI:MGI:2446107	Pde2a	PMID:16150726		GO:0010749	regulation of nitric oxide mediated signal transduction	IGI	MGI:MGI:2651499	MGI:MGI:2446107	PANTHER:PTHR11347	20180529		NCBITaxon:10090
+MGI	UniProtKB:P15692	VEGFA	PMID:16150726		GO:0010749	regulation of nitric oxide mediated signal transduction	IDA		UniProtKB:P15692	PANTHER:PTHR12025	20180529		NCBITaxon:9606
+MGI	RGD:3579	Rln1	PMID:19073841		GO:0010749	regulation of nitric oxide mediated signal transduction	IDA		RGD:3579	PANTHER:PTHR12004	20090728		NCBITaxon:10116
+MGI	MGI:MGI:97931	Rln1	PMID:19073841		GO:0010749	regulation of nitric oxide mediated signal transduction	IMP	MGI:MGI:2668458	MGI:MGI:97931	PANTHER:PTHR12004	20090728		NCBITaxon:10090
+ZFIN	ZFIN:ZDB-GENE-000626-1	tnnt2a	PMID:19450519|ZFIN:ZDB-PUB-090526-18		GO:0010749	regulation of nitric oxide mediated signal transduction	IDA			PANTHER:PTHR11521	20111202		NCBITaxon:7955
+BHF-UCL	UniProtKB:Q8WTV0	SCARB1	PMID:11792700		GO:0010750	positive regulation of nitric oxide mediated signal transduction	IDA		UniProtKB:Q8WTV0	PANTHER:PTHR11923	20250111		NCBITaxon:9606
+MGI	MGI:MGI:1926562	Gucy1a1	PMID:16614755		GO:0010750	positive regulation of nitric oxide mediated signal transduction	IMP	MGI:MGI:3640802	MGI:MGI:1926562	PANTHER:PTHR45655	20180529	GO:0007263	NCBITaxon:10090
+MGI	MGI:MGI:2660877	Gucy1a2	PMID:16614755		GO:0010750	positive regulation of nitric oxide mediated signal transduction	IMP	MGI:MGI:3640794	MGI:MGI:2660877	PANTHER:PTHR45655	20180529	GO:0007263	NCBITaxon:10090
+UniProt	UniProtKB:P01308	INS	PMID:14615391		GO:0010750	positive regulation of nitric oxide mediated signal transduction	IMP		UniProtKB:P01308	PANTHER:PTHR11454	20180213		NCBITaxon:9606
+UniProt	UniProtKB:P01308	INS	PMID:15792832		GO:0010750	positive regulation of nitric oxide mediated signal transduction	IDA		UniProtKB:P01308	PANTHER:PTHR11454	20180914		NCBITaxon:9606
+ZFIN	ZFIN:ZDB-GENE-030605-1	smarca4a	PMID:32738093|ZFIN:ZDB-PUB-200802-8		GO:0010750	positive regulation of nitric oxide mediated signal transduction	IMP	ZFIN:ZDB-GENO-230711-2		PANTHER:PTHR10799	20221207		NCBITaxon:7955
+MGI	UniProtKB:P07996	THBS1	PMID:16150726		GO:0010751	negative regulation of nitric oxide mediated signal transduction	IDA		UniProtKB:P07996	PANTHER:PTHR10199	20140916		NCBITaxon:9606
+MGI	MGI:MGI:106202	Spink1	PMID:22228629		GO:0010751	negative regulation of nitric oxide mediated signal transduction	IDA		MGI:MGI:106202	PANTHER:PTHR21312	20130129	GO:0007263	NCBITaxon:10090

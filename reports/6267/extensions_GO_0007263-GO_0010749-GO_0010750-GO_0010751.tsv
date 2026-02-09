@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:1926562	Gucy1a1	PMID:16614755		GO:0010750	positive regulation of nitric oxide mediated signal transduction	IMP	MGI:MGI:3640802	MGI:MGI:1926562	PANTHER:PTHR45655	20180529	GO:0007263	NCBITaxon:10090
+MGI	MGI:MGI:2660877	Gucy1a2	PMID:16614755		GO:0010750	positive regulation of nitric oxide mediated signal transduction	IMP	MGI:MGI:3640794	MGI:MGI:2660877	PANTHER:PTHR45655	20180529	GO:0007263	NCBITaxon:10090
+MGI	MGI:MGI:106202	Spink1	PMID:22228629		GO:0010751	negative regulation of nitric oxide mediated signal transduction	IDA		MGI:MGI:106202	PANTHER:PTHR21312	20130129	GO:0007263	NCBITaxon:10090
