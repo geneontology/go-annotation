@@ -1,0 +1,26 @@
+term	file	line
+GO:0006534	wikipedia2go	Wikipedia:Cysteine_metabolism > GO:cysteine metabolic process ; GO:0006534
+GO:0006534	interpro2go	InterPro:IPR010970 Cysteine desulfurase, SufS > GO:cysteine metabolic process ; GO:0006534
+GO:0006534	interpro2go	InterPro:IPR017773 Cysteine desulfurase NifS, proteobacteria > GO:cysteine metabolic process ; GO:0006534
+GO:0006534	unirule2go	UniRule:UR000001146 > GO:cysteine metabolic process ; GO:0006534
+GO:0006535	metacyc2go	MetaCyc:CYSTSYN-PWY > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0006535	hamap2go	HAMAP:MF_00295 > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0006535	hamap2go	HAMAP:MF_00296 > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0006535	interpro2go	InterPro:IPR001216 Cysteine synthase/cystathionine beta-synthase, pyridoxal-phosphate attachment site > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0006535	interpro2go	InterPro:IPR005856 Cysteine synthase > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0006535	interpro2go	InterPro:IPR005858 Cysteine synthase CysM > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0006535	interpro2go	InterPro:IPR005859 Cysteine synthase CysK > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0006535	interpro2go	InterPro:IPR005881 Serine O-acetyltransferase > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0006535	interpro2go	InterPro:IPR010493 Serine acetyltransferase, N-terminal > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0006535	unirule2go	UniRule:UR000042766 > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0006535	unirule2go	UniRule:UR000083172 > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0006535	unirule2go	UniRule:UR000083175 > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0006535	unirule2go	UniRule:UR000130756 > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0019267	metacyc2go	MetaCyc:ASPSYNII-PWY > GO:L-asparagine biosynthetic process from L-cysteine ; GO:0019267
+GO:0019343	metacyc2go	MetaCyc:HOMOCYSDEGR-PWY > GO:L-cysteine biosynthetic process via L-cystathionine ; GO:0019343
+GO:0019343	interpro2go	InterPro:IPR005857 Cystathionine beta-synthase > GO:L-cysteine biosynthetic process via L-cystathionine ; GO:0019343
+GO:0019343	unirule2go	UniRule:UR000130756 > GO:L-cysteine biosynthetic process via L-cystathionine ; GO:0019343
+GO:0019345	metacyc2go	MetaCyc:PWY-7289 > GO:L-cysteine biosynthetic process via S-sulfo-L-cysteine ; GO:0019345
+GO:0019452	metacyc2go	MetaCyc:PWY-5331 > GO:taurine biosynthetic process from L-cysteine ; GO:0019452
+GO:0019452	metacyc2go	MetaCyc:PWY-7850 > GO:taurine biosynthetic process from L-cysteine ; GO:0019452
+GO:0019452	metacyc2go	MetaCyc:PWY-8359 > GO:taurine biosynthetic process from L-cysteine ; GO:0019452
