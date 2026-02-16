@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:O43933	PEX1	PMID:19208625		GO:0140036	ubiquitin-modified protein reader activity	IDA		UniProtKB:O43933	PANTHER:PTHR23077	20220825	GO:0016562|UniProtKB:P50542|GO:0140318	NCBITaxon:9606
+UniProt	UniProtKB:Q13608	PEX6	PMID:19208625		GO:0140036	ubiquitin-modified protein reader activity	IDA		UniProtKB:Q13608	PANTHER:PTHR23077	20220825	GO:0016562|UniProtKB:P50542|GO:0140318	NCBITaxon:9606
