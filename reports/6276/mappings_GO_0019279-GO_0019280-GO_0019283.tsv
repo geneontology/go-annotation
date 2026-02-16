@@ -1,0 +1,4 @@
+term	file	line
+GO:0019279	metacyc2go	MetaCyc:HOMOSER-METSYN-PWY > GO:L-methionine biosynthetic process from L-homoserine via cystathionine ; GO:0019279
+GO:0019280	metacyc2go	MetaCyc:HSERMETANA-PWY > GO:L-methionine biosynthetic process from L-homoserine via O-acetyl-L-homoserine ; GO:0019280
+GO:0019283	metacyc2go	MetaCyc:PWY-702 > GO:L-methionine biosynthetic process from L-homoserine via O-phospho-L-homoserine and cystathionine ; GO:0019283

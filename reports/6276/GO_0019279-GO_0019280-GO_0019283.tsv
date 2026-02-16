@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MTBBASE	UniProtKB:P9WGB7	metB	PMID:15576367		GO:0019279	L-methionine biosynthetic process from L-homoserine via cystathionine	IMP			PANTHER:PTHR11808	20100620		NCBITaxon:83332
+AspGD	UniProtKB:B2LXT5	mecA	PMID:19685245		GO:0019280	L-methionine biosynthetic process from L-homoserine via O-acetyl-L-homoserine	IMP				20091109		NCBITaxon:162425
+PomBase	PomBase:SPAC9.09	met26	PMID:16436428		GO:0019280	L-methionine biosynthetic process from L-homoserine via O-acetyl-L-homoserine	IMP		PomBase:SPAC9.09	PANTHER:PTHR30519	20140619		NCBITaxon:4896
