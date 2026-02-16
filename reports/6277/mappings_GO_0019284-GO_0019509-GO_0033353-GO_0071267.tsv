@@ -1,0 +1,50 @@
+term	file	line
+GO:0019284	interpro2go	InterPro:IPR023956 Acireductone dioxygenase ARD, bacteria > GO:L-methionine salvage from S-adenosylmethionine ; GO:0019284
+GO:0019509	metacyc2go	MetaCyc:PWY-4361 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	metacyc2go	MetaCyc:PWY-6753 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	metacyc2go	MetaCyc:PWY-6754 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	metacyc2go	MetaCyc:PWY-6756 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	hamap2go	HAMAP:MF_01677 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	hamap2go	HAMAP:MF_01678 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	hamap2go	HAMAP:MF_01679 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	hamap2go	HAMAP:MF_01680 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	hamap2go	HAMAP:MF_01681 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	hamap2go	HAMAP:MF_01682 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	hamap2go	HAMAP:MF_01683 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	hamap2go	HAMAP:MF_01684 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	hamap2go	HAMAP:MF_01963 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	hamap2go	HAMAP:MF_03116 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	hamap2go	HAMAP:MF_03117 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	hamap2go	HAMAP:MF_03118 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	hamap2go	HAMAP:MF_03119 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	hamap2go	HAMAP:MF_03154 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	hamap2go	HAMAP:MF_03155 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	interpro2go	InterPro:IPR010049 MTA/SAH nucleosidase > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	interpro2go	InterPro:IPR017714 Methylthioribulose-1-phosphate dehydratase > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	interpro2go	InterPro:IPR017717 2,3-diketo-5-methylthiopentyl-1-phosphate enolase > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	interpro2go	InterPro:IPR023943 Enolase-phosphatase E1 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	interpro2go	InterPro:IPR027496 Acireductone dioxygenase, eukaryotes > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	interpro2go	InterPro:IPR027511 Enolase-phosphatase E1, eukaryotes > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	interpro2go	InterPro:IPR027514 Methylthioribulose-1-phosphate dehydratase, eukaryotes > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	interpro2go	InterPro:IPR044580 5'-Methylthioadenosine/S-adenosylhomocysteine nucleosidase > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	reactome2go	Reactome:R-HSA-1237112 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	unirule2go	UniRule:UR000084075 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	unirule2go	UniRule:UR000084078 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	unirule2go	UniRule:UR000084085 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	unirule2go	UniRule:UR000084087 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	unirule2go	UniRule:UR000084101 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	unirule2go	UniRule:UR000084106 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	unirule2go	UniRule:UR000084107 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	unirule2go	UniRule:UR000084108 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	unirule2go	UniRule:UR000106743 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	unirule2go	UniRule:UR000106755 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	unirule2go	UniRule:UR000106802 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	unirule2go	UniRule:UR000106821 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	unirule2go	UniRule:UR000331190 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	unirule2go	UniRule:UR000336851 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	unirule2go	UniRule:UR000337064 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	unirule2go	UniRule:UR001995991 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	unirule2go	UniRule:UR001996785 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0019509	unirule2go	UniRule:UR001996786 > GO:L-methionine salvage from methylthioadenosine ; GO:0019509
+GO:0033353	metacyc2go	MetaCyc:PWY-5041 > GO:S-adenosylmethionine cycle ; GO:0033353
+GO:0071267	interpro2go	InterPro:IPR017718 2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase > GO:L-methionine salvage ; GO:0071267
