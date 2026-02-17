@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+GeneDB	TriTrypDB:LmjF.35.3230	LmjF.35.3230	PMID:17196271		GO:0019510	S-adenosylhomocysteine catabolic process	TAS				20091229		NCBITaxon:347515
+RGD	RGD:69260	Ahcy	PMID:11741948		GO:0019510	S-adenosylhomocysteine catabolic process	IDA		RGD:69260	PANTHER:PTHR23420	20050217		NCBITaxon:10116
+RGD	RGD:621618	Icmt	PMID:9192075		GO:0019510	S-adenosylhomocysteine catabolic process	IMP		RGD:621618	PANTHER:PTHR12714	20080204		NCBITaxon:10116
+RGD	RGD:2719	Gnmt	PMID:15347642		GO:0046498	S-adenosylhomocysteine metabolic process	IDA		RGD:2719	PANTHER:PTHR16458	20050725		NCBITaxon:10116
+UniProt	UniProtKB:P9WLL9	Rv2067c	PMID:38129415		GO:0046498	S-adenosylhomocysteine metabolic process	IDA			PANTHER:PTHR43464	20250627		NCBITaxon:83332
