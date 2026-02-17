@@ -1,0 +1,19 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	EcoCyc:MONOMER0-2001	DapD	PMID:4926684		GO:0019877	diaminopimelate biosynthetic process	IMP		EcoCyc:MONOMER0-2001		20130227		NCBITaxon:83333
+EcoCyc	EcoCyc:DIHYDROPICRED-MONOMER	DapB	PMID:4926684		GO:0019877	diaminopimelate biosynthetic process	IMP		EcoCyc:DIHYDROPICRED-MONOMER		20130227		NCBITaxon:83333
+EcoCyc	EcoCyc:DIHYDRODIPICSYN-MONOMER	DapA	PMID:4926684		GO:0019877	diaminopimelate biosynthetic process	IMP		EcoCyc:DIHYDRODIPICSYN-MONOMER		20130226		NCBITaxon:83333
+EcoliWiki	EcoCyc:DIHYDROPICRED-MONOMER	DapB	PMID:4151489		GO:0019877	diaminopimelate biosynthetic process	IDA		EcoCyc:DIHYDROPICRED-MONOMER		20100503		NCBITaxon:83333
+EcoliWiki	EcoCyc:DIHYDRODIPICSYN-MONOMER	DapA	PMID:4910051		GO:0019877	diaminopimelate biosynthetic process	IDA		EcoCyc:DIHYDRODIPICSYN-MONOMER		20110815		NCBITaxon:83333
+MTBBASE	UniProtKB:P9WPX3	ask	PMID:7910936		GO:0019877	diaminopimelate biosynthetic process	IDA			PANTHER:PTHR21499	20110309		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WNX5	asd	PMID:7910936		GO:0019877	diaminopimelate biosynthetic process	IDA			PANTHER:PTHR46278	20110309		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WP23	dapB	PMID:9098082		GO:0019877	diaminopimelate biosynthetic process	IDA			PANTHER:PTHR20836	20100605		NCBITaxon:83332
+UniProt	UniProtKB:D5E0A1	BMQ_1331	PMID:4962540		GO:0019877	diaminopimelate biosynthetic process	IDA				20111004		NCBITaxon:545693
+UniProt	UniProtKB:O34916	ykuR	PMID:5411754		GO:0019877	diaminopimelate biosynthetic process	IDA			PANTHER:PTHR11014	20110322		NCBITaxon:224308
+UniProt	UniProtKB:Q9UBR1	UPB1	PMID:22525402		GO:0033396	beta-alanine biosynthetic process via 3-ureidopropionate	IDA		UniProtKB:Q9UBR1	PANTHER:PTHR43674	20181116		NCBITaxon:9606
+UniProt	UniProtKB:Q9UBR1	UPB1	PMID:29976570		GO:0033396	beta-alanine biosynthetic process via 3-ureidopropionate	IDA		UniProtKB:Q9UBR1	PANTHER:PTHR43674	20181116		NCBITaxon:9606
+WB	WB:WBGene00017440	upb-1	PMID:20840592		GO:0033396	beta-alanine biosynthetic process via 3-ureidopropionate	IDA		WB:WBGene00017440	PANTHER:PTHR43674	20150316		NCBITaxon:6239
+GOC	AGI_LocusCode:AT2G22810	ACS4	PMID:7642574|TAIR:Publication:4315		GO:0042218	1-aminocyclopropane-1-carboxylate biosynthetic process	IDA		TAIR:locus:2059170		20240420		NCBITaxon:3702
+GOC	AGI_LocusCode:AT1G01480	ACS2	PMID:8566772|TAIR:Publication:4125		GO:0042218	1-aminocyclopropane-1-carboxylate biosynthetic process	IDA		TAIR:locus:2025361		20240420		NCBITaxon:3702
+GOC	AGI_LocusCode:AT5G65800	ACS5	PMID:9539813|TAIR:Publication:2629		GO:0042218	1-aminocyclopropane-1-carboxylate biosynthetic process	IMP		TAIR:locus:2169980		20240420		NCBITaxon:3702
+FlyBase	FB:FBgn0038074	Gnmt	PMID:24746817		GO:1901054	sarcosine biosynthetic process	IMP		FB:FBgn0038074	PANTHER:PTHR16458	20140529		NCBITaxon:7227
+RGD	RGD:2719	Gnmt	PMID:18501206		GO:1901054	sarcosine biosynthetic process	IMP		RGD:2719	PANTHER:PTHR16458	20130429		NCBITaxon:10116

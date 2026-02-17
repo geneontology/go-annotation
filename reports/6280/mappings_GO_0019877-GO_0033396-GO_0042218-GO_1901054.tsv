@@ -1,0 +1,21 @@
+term	file	line
+GO:0019877	hamap2go	HAMAP:MF_00102 > GO:diaminopimelate biosynthetic process ; GO:0019877
+GO:0019877	hamap2go	HAMAP:MF_00418 > GO:diaminopimelate biosynthetic process ; GO:0019877
+GO:0019877	hamap2go	HAMAP:MF_00811 > GO:diaminopimelate biosynthetic process ; GO:0019877
+GO:0019877	hamap2go	HAMAP:MF_01690 > GO:diaminopimelate biosynthetic process ; GO:0019877
+GO:0019877	hamap2go	HAMAP:MF_01691 > GO:diaminopimelate biosynthetic process ; GO:0019877
+GO:0019877	hamap2go	HAMAP:MF_01692 > GO:diaminopimelate biosynthetic process ; GO:0019877
+GO:0019877	hamap2go	HAMAP:MF_02121 > GO:diaminopimelate biosynthetic process ; GO:0019877
+GO:0019877	hamap2go	HAMAP:MF_02122 > GO:diaminopimelate biosynthetic process ; GO:0019877
+GO:0019877	interpro2go	InterPro:IPR012691 2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase variant > GO:diaminopimelate biosynthetic process ; GO:0019877
+GO:0019877	uniprotkb_kw2go	UniProtKB-KW:KW-0220 Diaminopimelate biosynthesis > GO:diaminopimelate biosynthetic process ; GO:0019877
+GO:0019877	unirule2go	UniRule:UR000034378 > GO:diaminopimelate biosynthetic process ; GO:0019877
+GO:0019877	unirule2go	UniRule:UR000084128 > GO:diaminopimelate biosynthetic process ; GO:0019877
+GO:0019877	unirule2go	UniRule:UR000084129 > GO:diaminopimelate biosynthetic process ; GO:0019877
+GO:0019877	unirule2go	UniRule:UR000084131 > GO:diaminopimelate biosynthetic process ; GO:0019877
+GO:0019877	unirule2go	UniRule:UR000085131 > GO:diaminopimelate biosynthetic process ; GO:0019877
+GO:0019877	unirule2go	UniRule:UR000100254 > GO:diaminopimelate biosynthetic process ; GO:0019877
+GO:0019877	unirule2go	UniRule:UR000160026 > GO:diaminopimelate biosynthetic process ; GO:0019877
+GO:0019877	unirule2go	UniRule:UR000160033 > GO:diaminopimelate biosynthetic process ; GO:0019877
+GO:0019877	unirule2go	UniRule:UR000189792 > GO:diaminopimelate biosynthetic process ; GO:0019877
+GO:0033396	metacyc2go	MetaCyc:PWY-3982 > GO:beta-alanine biosynthetic process via 3-ureidopropionate ; GO:0033396
