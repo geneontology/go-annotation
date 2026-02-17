@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:P41235	HNF4A	PMID:17827783		GO:0045944	positive regulation of transcription by RNA polymerase II	IMP		UniProtKB:P41235	PANTHER:PTHR24083	20240615	GO:0090368	NCBITaxon:9606
+BHF-UCL	MGI:MGI:1352464	Nr1h4	PMID:21757002		GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific	IDA		MGI:MGI:1352464	PANTHER:PTHR24082	20250924	UniProtKB:Q8R4H7|GO:0019627|GO:1903413|GO:2000211	NCBITaxon:10090
+BHF-UCL	UniProtKB:Q96RI1	NR1H4	PMID:21757002		GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific	IDA		UniProtKB:Q96RI1	PANTHER:PTHR24082	20250924	UniProtKB:Q8N159|GO:0019627|GO:1903413|GO:2000211	NCBITaxon:9606
