@@ -1,0 +1,123 @@
+term	file	line
+GO:0006535	metacyc2go	MetaCyc:CYSTSYN-PWY > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0006535	hamap2go	HAMAP:MF_00295 > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0006535	hamap2go	HAMAP:MF_00296 > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0006535	interpro2go	InterPro:IPR001216 Cysteine synthase/cystathionine beta-synthase, pyridoxal-phosphate attachment site > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0006535	interpro2go	InterPro:IPR005856 Cysteine synthase > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0006535	interpro2go	InterPro:IPR005858 Cysteine synthase CysM > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0006535	interpro2go	InterPro:IPR005859 Cysteine synthase CysK > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0006535	interpro2go	InterPro:IPR005881 Serine O-acetyltransferase > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0006535	interpro2go	InterPro:IPR010493 Serine acetyltransferase, N-terminal > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0006535	unirule2go	UniRule:UR000042766 > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0006535	unirule2go	UniRule:UR000083172 > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0006535	unirule2go	UniRule:UR000083175 > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0006535	unirule2go	UniRule:UR000130756 > GO:L-cysteine biosynthetic process from L-serine ; GO:0006535
+GO:0009089	hamap2go	HAMAP:MF_00102 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	hamap2go	HAMAP:MF_00197 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	hamap2go	HAMAP:MF_00418 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	hamap2go	HAMAP:MF_00811 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	hamap2go	HAMAP:MF_01107 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	hamap2go	HAMAP:MF_01690 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	hamap2go	HAMAP:MF_01691 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	hamap2go	HAMAP:MF_01692 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	hamap2go	HAMAP:MF_02120 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	hamap2go	HAMAP:MF_02121 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	hamap2go	HAMAP:MF_02122 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	interpro2go	InterPro:IPR000846 Dihydrodipicolinate reductase, N-terminal > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	interpro2go	InterPro:IPR001653 Diaminopimelate epimerase, DapF > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	interpro2go	InterPro:IPR002986 Diaminopimelate decarboxylase, LysA > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	interpro2go	InterPro:IPR005260 Aspartate kinase, monofunctional class > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	interpro2go	InterPro:IPR005263 4-hydroxy-tetrahydrodipicolinate synthase, DapA > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	interpro2go	InterPro:IPR005664 Tetrahydrodipicolinate N-succinyltransferase, transferase hexapeptide repeat family > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	interpro2go	InterPro:IPR005941 Succinyl-diaminopimelate desuccinylase, proteobacteria > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	interpro2go	InterPro:IPR005986 Aspartate-semialdehyde dehydrogenase, beta-type > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	interpro2go	InterPro:IPR010174 Succinyl-diaminopimelate desuccinylase, DapE > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	interpro2go	InterPro:IPR010190 Diaminopimelate dehydrogenase, Ddh > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	interpro2go	InterPro:IPR011534 Aspartate-semialdehyde dehydrogenase, gamma-type > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	interpro2go	InterPro:IPR011859 Dihydrodipicolinate reductase, plant-type > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	interpro2go	InterPro:IPR012080 Aspartate-semialdehyde dehydrogenase > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	interpro2go	InterPro:IPR018510 Diaminopimelate epimerase, active site > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	interpro2go	InterPro:IPR019873 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase, DapH > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	interpro2go	InterPro:IPR019878 Succinyldiaminopimelate transaminase, DapC, beta/gammaproteobacteria > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	interpro2go	InterPro:IPR019881 LL-diaminopimelate aminotransferase-like > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	interpro2go	InterPro:IPR022663 Dihydrodipicolinate reductase, C-terminal > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	interpro2go	InterPro:IPR022664 Dihydrodipicolinate reductase, conserved site > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	interpro2go	InterPro:IPR023905 Acetyldiaminopimelate deacetylase > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	interpro2go	InterPro:IPR023940 Dihydrodipicolinate reductase > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	interpro2go	InterPro:IPR037414 Transcriptional activator protein LysR, PBP2 domain > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	unirule2go	UniRule:UR000034378 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	unirule2go	UniRule:UR000080060 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	unirule2go	UniRule:UR000084128 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	unirule2go	UniRule:UR000084129 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	unirule2go	UniRule:UR000084131 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	unirule2go	UniRule:UR000085131 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	unirule2go	UniRule:UR000100254 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	unirule2go	UniRule:UR000100619 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	unirule2go	UniRule:UR000160026 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	unirule2go	UniRule:UR000160031 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	unirule2go	UniRule:UR000160033 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	unirule2go	UniRule:UR000189792 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	unirule2go	UniRule:UR000687773 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	unirule2go	UniRule:UR001995818 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	unirule2go	UniRule:UR001995903 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	unirule2go	UniRule:UR001995908 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	unirule2go	UniRule:UR001995974 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	unirule2go	UniRule:UR001995977 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	unirule2go	UniRule:UR001995980 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	unirule2go	UniRule:UR001996069 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	unirule2go	UniRule:UR001996105 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	unirule2go	UniRule:UR001996752 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0009089	unirule2go	UniRule:UR001996767 > GO:L-lysine biosynthetic process via diaminopimelate ; GO:0009089
+GO:0019264	metacyc2go	MetaCyc:GLYSYN-PWY > GO:glycine biosynthetic process from L-serine ; GO:0019264
+GO:0019264	hamap2go	HAMAP:MF_00051 > GO:glycine biosynthetic process from L-serine ; GO:0019264
+GO:0019264	interpro2go	InterPro:IPR001085 Serine hydroxymethyltransferase > GO:glycine biosynthetic process from L-serine ; GO:0019264
+GO:0019264	unirule2go	UniRule:UR000075954 > GO:glycine biosynthetic process from L-serine ; GO:0019264
+GO:0019265	metacyc2go	MetaCyc:GLYSYN-ALA-PWY > GO:glycine biosynthetic process, by transamination of glyoxylate ; GO:0019265
+GO:0019266	metacyc2go	MetaCyc:ASPARAGINE-BIOSYNTHESIS > GO:L-asparagine biosynthetic process from oxaloacetate ; GO:0019266
+GO:0019267	metacyc2go	MetaCyc:ASPSYNII-PWY > GO:L-asparagine biosynthetic process from L-cysteine ; GO:0019267
+GO:0019272	metacyc2go	MetaCyc:ALANINE-SYN2-PWY > GO:L-alanine biosynthetic process from pyruvate ; GO:0019272
+GO:0019292	metacyc2go	MetaCyc:TYRSYN > GO:L-tyrosine biosynthetic process from chorismate via 4-hydroxyphenylpyruvate ; GO:0019292
+GO:0019293	metacyc2go	MetaCyc:PWY-6134 > GO:L-tyrosine biosynthetic process, by oxidation of phenylalanine ; GO:0019293
+GO:0019343	metacyc2go	MetaCyc:HOMOCYSDEGR-PWY > GO:L-cysteine biosynthetic process via L-cystathionine ; GO:0019343
+GO:0019343	interpro2go	InterPro:IPR005857 Cystathionine beta-synthase > GO:L-cysteine biosynthetic process via L-cystathionine ; GO:0019343
+GO:0019343	unirule2go	UniRule:UR000130756 > GO:L-cysteine biosynthetic process via L-cystathionine ; GO:0019343
+GO:0019345	metacyc2go	MetaCyc:PWY-7289 > GO:L-cysteine biosynthetic process via S-sulfo-L-cysteine ; GO:0019345
+GO:0019878	hamap2go	HAMAP:MF_01120 > GO:L-lysine biosynthetic process via aminoadipic acid ; GO:0019878
+GO:0019878	hamap2go	HAMAP:MF_02082 > GO:L-lysine biosynthetic process via aminoadipic acid ; GO:0019878
+GO:0019878	hamap2go	HAMAP:MF_02083 > GO:L-lysine biosynthetic process via aminoadipic acid ; GO:0019878
+GO:0019878	hamap2go	HAMAP:MF_02084 > GO:L-lysine biosynthetic process via aminoadipic acid ; GO:0019878
+GO:0019878	hamap2go	HAMAP:MF_02222 > GO:L-lysine biosynthetic process via aminoadipic acid ; GO:0019878
+GO:0019878	interpro2go	InterPro:IPR011872 Homocitrate synthase > GO:L-lysine biosynthetic process via aminoadipic acid ; GO:0019878
+GO:0019878	unirule2go	UniRule:UR000100663 > GO:L-lysine biosynthetic process via aminoadipic acid ; GO:0019878
+GO:0019878	unirule2go	UniRule:UR000143751 > GO:L-lysine biosynthetic process via aminoadipic acid ; GO:0019878
+GO:0019878	unirule2go	UniRule:UR000452356 > GO:L-lysine biosynthetic process via aminoadipic acid ; GO:0019878
+GO:0019878	unirule2go	UniRule:UR000452454 > GO:L-lysine biosynthetic process via aminoadipic acid ; GO:0019878
+GO:0019878	unirule2go	UniRule:UR000452543 > GO:L-lysine biosynthetic process via aminoadipic acid ; GO:0019878
+GO:0019878	unirule2go	UniRule:UR001275016 > GO:L-lysine biosynthetic process via aminoadipic acid ; GO:0019878
+GO:0033359	metacyc2go	MetaCyc:DAPLYSINESYN-PWY > GO:L-lysine biosynthetic process via diaminopimelate and N-succinyl-2-amino-6-ketopimelate ; GO:0033359
+GO:0033360	metacyc2go	MetaCyc:PWY-2941 > GO:L-lysine biosynthetic process via diaminopimelate and L-2-acetamido-6-oxoheptanedioate ; GO:0033360
+GO:0033361	metacyc2go	MetaCyc:PWY-2942 > GO:L-lysine biosynthetic process via diaminopimelate, dehydrogenase pathway ; GO:0033361
+GO:0033362	metacyc2go	MetaCyc:PWY-5097 > GO:L-lysine biosynthetic process via diaminopimelate, diaminopimelate-aminotransferase pathway ; GO:0033362
+GO:0033362	hamap2go	HAMAP:MF_01642 > GO:L-lysine biosynthetic process via diaminopimelate, diaminopimelate-aminotransferase pathway ; GO:0033362
+GO:0033362	unirule2go	UniRule:UR000083108 > GO:L-lysine biosynthetic process via diaminopimelate, diaminopimelate-aminotransferase pathway ; GO:0033362
+GO:0033584	metacyc2go	MetaCyc:PWY-3461 > GO:L-tyrosine biosynthetic process from chorismate via L-arogenate ; GO:0033584
+GO:0033585	metacyc2go	MetaCyc:PHESYN > GO:L-phenylalanine biosynthetic process from chorismate via phenylpyruvate ; GO:0033585
+GO:0033586	metacyc2go	MetaCyc:PWY-3462 > GO:L-phenylalanine biosynthetic process from chorismate via L-arogenate ; GO:0033586
+GO:0042450	hamap2go	HAMAP:MF_00082 > GO:L-arginine biosynthetic process via ornithine ; GO:0042450
+GO:0042450	hamap2go	HAMAP:MF_01120 > GO:L-arginine biosynthetic process via ornithine ; GO:0042450
+GO:0042450	hamap2go	HAMAP:MF_02082 > GO:L-arginine biosynthetic process via ornithine ; GO:0042450
+GO:0042450	hamap2go	HAMAP:MF_02083 > GO:L-arginine biosynthetic process via ornithine ; GO:0042450
+GO:0042450	hamap2go	HAMAP:MF_02084 > GO:L-arginine biosynthetic process via ornithine ; GO:0042450
+GO:0042450	interpro2go	InterPro:IPR009049 Argininosuccinate lyase > GO:L-arginine biosynthetic process via ornithine ; GO:0042450
+GO:0042450	interpro2go	InterPro:IPR043695 N-acetylornithine carbamoyltransferase ArgF'-like > GO:L-arginine biosynthetic process via ornithine ; GO:0042450
+GO:0042450	unirule2go	UniRule:UR000076326 > GO:L-arginine biosynthetic process via ornithine ; GO:0042450
+GO:0042450	unirule2go	UniRule:UR000100663 > GO:L-arginine biosynthetic process via ornithine ; GO:0042450
+GO:0042450	unirule2go	UniRule:UR000452356 > GO:L-arginine biosynthetic process via ornithine ; GO:0042450
+GO:0042450	unirule2go	UniRule:UR000452454 > GO:L-arginine biosynthetic process via ornithine ; GO:0042450
+GO:0042450	unirule2go	UniRule:UR000452543 > GO:L-arginine biosynthetic process via ornithine ; GO:0042450
+GO:0042450	unirule2go	UniRule:UR000504785 > GO:L-arginine biosynthetic process via ornithine ; GO:0042450
+GO:0042450	unirule2go	UniRule:UR001996779 > GO:L-arginine biosynthetic process via ornithine ; GO:0042450
+GO:0042450	unirule2go	UniRule:UR002057762 > GO:L-arginine biosynthetic process via ornithine ; GO:0042450
+GO:0051975	metacyc2go	MetaCyc:LYSINE-AMINOAD-PWY > GO:L-lysine biosynthetic process via alpha-aminoadipate and saccharopine ; GO:0051975
+GO:0051976	metacyc2go	MetaCyc:PWY-3081 > GO:L-lysine biosynthetic process via alpha-aminoadipate and N2-acetyl-alpha-aminoadipate ; GO:0051976
+GO:0170067	metacyc2go	MetaCyc:PWY-5154 > GO:L-arginine biosynthetic process via N-acetyl-L-citrulline ; GO:0170067

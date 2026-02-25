@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPBC106.17c	cys2	PMID:27558664		GO:0160210	L-serine O-succinyltransferase activity	IMP		PomBase:SPBC106.17c	PANTHER:PTHR32268	20161017	GO:0006535	NCBITaxon:4896
+UniProt	MGI:MGI:1340024	Aldh1l1	PMID:31624291		GO:0016155	formyltetrahydrofolate dehydrogenase activity	IMP		MGI:MGI:1340024	PANTHER:PTHR11699	20210928	GO:0019264	NCBITaxon:10090
+PomBase	PomBase:SPBC1105.02c	lys4	PMID:20089861		GO:0004410	homocitrate synthase activity	IDA		PomBase:SPBC1105.02c	PANTHER:PTHR10277	20230705	GO:0019878	NCBITaxon:4896

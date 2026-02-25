@@ -1,0 +1,140 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CAFA	UniProtKB:P37887	cysK	PMID:17056751		GO:0006535	L-cysteine biosynthetic process from L-serine	IDA			PANTHER:PTHR10314	20170124		NCBITaxon:224308
+CAFA	UniProtKB:O05393	mccA	PMID:17056751		GO:0006535	L-cysteine biosynthetic process from L-serine	IDA			PANTHER:PTHR10314	20170124		NCBITaxon:224308
+ComplexPortal	ComplexPortal:CPX-3742	cysek_ecoli	PMID:22179612		GO:0006535	L-cysteine biosynthetic process from L-serine	IDA				20250724		NCBITaxon:83333
+ComplexPortal	EcoCyc:ACSERLYA-MONOMER	CysK	PMID:22179612		GO:0006535	L-cysteine biosynthetic process from L-serine	IDA		EcoCyc:ACSERLYA-MONOMER		20250724		NCBITaxon:83333
+ComplexPortal	EcoCyc:SERINE-O-ACETTRAN-MONOMER	CysE	PMID:22179612		GO:0006535	L-cysteine biosynthetic process from L-serine	IDA		EcoCyc:SERINE-O-ACETTRAN-MONOMER		20250724		NCBITaxon:83333
+EcoCyc	EcoCyc:ACSERLYB-MONOMER	CysM	PMID:16546401		GO:0006535	L-cysteine biosynthetic process from L-serine	IDA		EcoCyc:ACSERLYB-MONOMER		20070322		NCBITaxon:83333
+EcoCyc	EcoCyc:SERINE-O-ACETTRAN-MONOMER	CysE	PMID:5332668		GO:0006535	L-cysteine biosynthetic process from L-serine	IDA		EcoCyc:SERINE-O-ACETTRAN-MONOMER		20070322		NCBITaxon:83333
+EcoliWiki	EcoCyc:ACSERLYA-MONOMER	CysK	PMID:338862		GO:0006535	L-cysteine biosynthetic process from L-serine	IMP		EcoCyc:ACSERLYA-MONOMER		20090727		NCBITaxon:83333
+GeneDB	TriTrypDB:LmjF.34.2850	SAT	PMID:19296828		GO:0006535	L-cysteine biosynthetic process from L-serine	IDA				20090720		NCBITaxon:347515
+MTBBASE	UniProtKB:P9WP55	cysK1	PMID:17567578		GO:0006535	L-cysteine biosynthetic process from L-serine	IDA			PANTHER:PTHR10314	20110323		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WP53	cysM	PMID:18799456		GO:0006535	L-cysteine biosynthetic process from L-serine	IDA			PANTHER:PTHR10314	20110323		NCBITaxon:83332
+PomBase	PomBase:SPBC36.04	cys11	PMID:14981292		GO:0006535	L-cysteine biosynthetic process from L-serine	IMP		PomBase:SPBC36.04	PANTHER:PTHR10314	20140806		NCBITaxon:4896
+PomBase	PomBase:SPBC36.04	cys11	PMID:17482430		GO:0006535	L-cysteine biosynthetic process from L-serine	IMP		PomBase:SPBC36.04	PANTHER:PTHR10314	20130918		NCBITaxon:4896
+PomBase	PomBase:SPBC106.17c	cys2	PMID:27558664		GO:0006535	L-cysteine biosynthetic process from L-serine	IMP		PomBase:SPBC106.17c	PANTHER:PTHR32268	20161017		NCBITaxon:4896
+Reactome	UniProtKB:P9WMN7	moeZ	Reactome:R-MTU-936654		GO:0006535	L-cysteine biosynthetic process from L-serine	TAS			PANTHER:PTHR10953	20230308		NCBITaxon:83332
+Reactome	UniProtKB:Q79FV4	cysK2	Reactome:R-MTU-936721		GO:0006535	L-cysteine biosynthetic process from L-serine	TAS			PANTHER:PTHR10314	20230308		NCBITaxon:83332
+Reactome	UniProtKB:P95231	cysE	Reactome:R-MTU-936721		GO:0006535	L-cysteine biosynthetic process from L-serine	TAS			PANTHER:PTHR42811	20230308		NCBITaxon:83332
+TAIR	AGI_LocusCode:AT4G14880	OASA1	PMID:10940562|TAIR:Publication:126		GO:0006535	L-cysteine biosynthetic process from L-serine	TAS		TAIR:locus:2130419		20030226		NCBITaxon:3702
+UniProt	UniProtKB:A0A120HUS7	cysE	PMID:26790714		GO:0006535	L-cysteine biosynthetic process from L-serine	IGI	UniProtKB:P0A9D4			20160520		NCBITaxon:1582
+UniProt	UniProtKB:Q2V0C9	CBS	PMID:29275181		GO:0006535	L-cysteine biosynthetic process from L-serine	IDA				20200911		NCBITaxon:7460
+WB	WB:WBGene00010759	cysl-2	PMID:24100226		GO:0006535	L-cysteine biosynthetic process from L-serine	IDA		WB:WBGene00010759	PANTHER:PTHR10314	20141021		NCBITaxon:6239
+WB	WB:WBGene00007653	cysl-1	PMID:24100226		GO:0006535	L-cysteine biosynthetic process from L-serine	IDA		WB:WBGene00007653	PANTHER:PTHR10314	20141021		NCBITaxon:6239
+WB	WB:WBGene00019962	cysl-3	PMID:24100226		GO:0006535	L-cysteine biosynthetic process from L-serine	IDA		WB:WBGene00019962	PANTHER:PTHR10314	20141021		NCBITaxon:6239
+EcoCyc	EcoCyc:ASPKINIHOMOSERDEHYDROGI-MONOMER	ThrA	PMID:11368768		GO:0009089	L-lysine biosynthetic process via diaminopimelate	IDA		EcoCyc:ASPKINIHOMOSERDEHYDROGI-MONOMER		20070802		NCBITaxon:83333
+EcoCyc	EcoCyc:ASP-SEMIALDEHYDE-DEHYDROGENASE-MONOMER	Asd	PMID:14726201		GO:0009089	L-lysine biosynthetic process via diaminopimelate	IDA		EcoCyc:ASP-SEMIALDEHYDE-DEHYDROGENASE-MONOMER		20070815		NCBITaxon:83333
+EcoCyc	EcoCyc:ASPKINIIHOMOSERDEHYDROGII-MONOMER	MetL	PMID:4889171		GO:0009089	L-lysine biosynthetic process via diaminopimelate	IDA		EcoCyc:ASPKINIIHOMOSERDEHYDROGII-MONOMER		20070710		NCBITaxon:83333
+EcoCyc	EcoCyc:MONOMER0-1981	DapE	PMID:4926684		GO:0009089	L-lysine biosynthetic process via diaminopimelate	IMP		EcoCyc:MONOMER0-1981		20170614		NCBITaxon:83333
+EcoCyc	EcoCyc:DIAMINOPIMDECARB-MONOMER	LysA	PMID:4926684		GO:0009089	L-lysine biosynthetic process via diaminopimelate	IMP		EcoCyc:DIAMINOPIMDECARB-MONOMER		20160229		NCBITaxon:83333
+EcoCyc	EcoCyc:ASPKINIII-MONOMER	LysC	PMID:6249791		GO:0009089	L-lysine biosynthetic process via diaminopimelate	IDA		EcoCyc:ASPKINIII-MONOMER		20070710		NCBITaxon:83333
+EcoCyc	EcoCyc:PD00360	LysR	PMID:6417111		GO:0009089	L-lysine biosynthetic process via diaminopimelate	IDA		EcoCyc:PD00360		20120530		NCBITaxon:83333
+MTBBASE	UniProtKB:P9WP23	dapB	PMID:12962488		GO:0009089	L-lysine biosynthetic process via diaminopimelate	IDA			PANTHER:PTHR20836	20110326		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WNX5	asd	PMID:15752328		GO:0009089	L-lysine biosynthetic process via diaminopimelate	IDA			PANTHER:PTHR46278	20110324		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WP19	dapF	PMID:16907737		GO:0009089	L-lysine biosynthetic process via diaminopimelate	IDA			PANTHER:PTHR31689	20110324		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WP25	dapA	PMID:18054225		GO:0009089	L-lysine biosynthetic process via diaminopimelate	IDA			PANTHER:PTHR12128	20110326		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WP19	dapF	PMID:18269631		GO:0009089	L-lysine biosynthetic process via diaminopimelate	IDA			PANTHER:PTHR31689	20110326		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WNX5	asd	PMID:18323599		GO:0009089	L-lysine biosynthetic process via diaminopimelate	IDA			PANTHER:PTHR46278	20100621		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WPX3	ask	PMID:7910936		GO:0009089	L-lysine biosynthetic process via diaminopimelate	IDA			PANTHER:PTHR21499	20110309		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WNX5	asd	PMID:7910936		GO:0009089	L-lysine biosynthetic process via diaminopimelate	IDA			PANTHER:PTHR46278	20110309		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WIU7	lysA	PMID:8440471		GO:0009089	L-lysine biosynthetic process via diaminopimelate	IDA			PANTHER:PTHR43727	20110309		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WP23	dapB	PMID:9098082		GO:0009089	L-lysine biosynthetic process via diaminopimelate	IDA			PANTHER:PTHR20836	20110324		NCBITaxon:83332
+TAIR	AGI_LocusCode:AT4G33680	AGD2	PMID:16361515|TAIR:Publication:501718210		GO:0009089	L-lysine biosynthetic process via diaminopimelate	IGI		TAIR:locus:2134243		20060118		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT1G31230	AK-HSDH I	PMID:16216875|TAIR:Publication:501717923		GO:0009089	L-lysine biosynthetic process via diaminopimelate	IDA		TAIR:locus:2029564		20240419		NCBITaxon:3702
+UniProt	UniProtKB:D5E0A1	BMQ_1331	PMID:4962540		GO:0009089	L-lysine biosynthetic process via diaminopimelate	IDA				20111004		NCBITaxon:545693
+EcoCyc	EcoCyc:GLYOHMETRANS-MONOMER	GlyA	PMID:14276110		GO:0019264	glycine biosynthetic process from L-serine	IMP		EcoCyc:GLYOHMETRANS-MONOMER		20110824		NCBITaxon:83333
+EcoCyc	EcoCyc:GLYOHMETRANS-MONOMER	GlyA	PMID:3891721		GO:0019264	glycine biosynthetic process from L-serine	IDA		EcoCyc:GLYOHMETRANS-MONOMER		20070614		NCBITaxon:83333
+FlyBase	FB:FBgn0029823	Shmt	PMID:28515048		GO:0019264	glycine biosynthetic process from L-serine	IMP		FB:FBgn0029823	PANTHER:PTHR11680	20171101		NCBITaxon:7227
+RGD	RGD:1308582	Shmt2	PMID:3110140		GO:0019264	glycine biosynthetic process from L-serine	IDA		RGD:1308582	PANTHER:PTHR11680	20080916		NCBITaxon:10116
+RGD	RGD:1312011	Shmt1	PMID:3110140		GO:0019264	glycine biosynthetic process from L-serine	IDA		RGD:1312011	PANTHER:PTHR11680	20080916		NCBITaxon:10116
+UniProt	UniProtKB:Q60V73	mel-32	PMID:10216251		GO:0019264	glycine biosynthetic process from L-serine	TAS			PANTHER:PTHR11680	20250212		NCBITaxon:6238
+UniProt	UniProtKB:Q2F5L3	692975	PMID:31298425		GO:0019264	glycine biosynthetic process from L-serine	IDA				20200926		NCBITaxon:7091
+UniProt	WB:WBGene00003214	mel-32	PMID:9497323		GO:0019264	glycine biosynthetic process from L-serine	TAS		WB:WBGene00003214	PANTHER:PTHR11680	20250212		NCBITaxon:6239
+BHF-UCL	UniProtKB:Q9BYV1	AGXT2	PMID:20018850		GO:0019265	glycine biosynthetic process, by transamination of glyoxylate	IDA		UniProtKB:Q9BYV1	PANTHER:PTHR45688	20120523		NCBITaxon:9606
+RGD	RGD:2073	Agxt	PMID:12383475		GO:0019265	glycine biosynthetic process, by transamination of glyoxylate	IDA		RGD:2073	PANTHER:PTHR21152	20070205		NCBITaxon:10116
+SGD	SGD:S000001864	AGX1	PMID:16226833		GO:0019265	glycine biosynthetic process, by transamination of glyoxylate	IDA		SGD:S000001864	PANTHER:PTHR21152	20130807		NCBITaxon:559292
+UniProt	UniProtKB:P21549	AGXT	PMID:22198249		GO:0019265	glycine biosynthetic process, by transamination of glyoxylate	IDA		UniProtKB:P21549	PANTHER:PTHR21152	20120207		NCBITaxon:9606
+WB	WB:WBGene00011767	agxt-1	PMID:27179589		GO:0019265	glycine biosynthetic process, by transamination of glyoxylate	IDA		WB:WBGene00011767	PANTHER:PTHR21152	20210617		NCBITaxon:6239
+EcoCyc	EcoCyc:G7242-MONOMER	AlaC	PMID:20729367		GO:0019272	L-alanine biosynthetic process from pyruvate	IMP		EcoCyc:G7242-MONOMER		20100831		NCBITaxon:83333
+EcoCyc	EcoCyc:G7184-MONOMER	AlaA	PMID:20729367		GO:0019272	L-alanine biosynthetic process from pyruvate	IMP		EcoCyc:G7184-MONOMER		20100831		NCBITaxon:83333
+EcoCyc	EcoCyc:G7242-MONOMER	AlaC	PMID:21597182		GO:0019272	L-alanine biosynthetic process from pyruvate	IGI	EcoCyc:G7184	EcoCyc:G7242-MONOMER		20130827		NCBITaxon:83333
+EcoCyc	EcoCyc:G7184-MONOMER	AlaA	PMID:21597182		GO:0019272	L-alanine biosynthetic process from pyruvate	IGI	EcoCyc:G7242	EcoCyc:G7184-MONOMER		20130827		NCBITaxon:83333
+EcoCyc	EcoCyc:TYRB-MONOMER	TyrB	PMID:236311		GO:0019292	L-tyrosine biosynthetic process from chorismate via 4-hydroxyphenylpyruvate	IDA		EcoCyc:TYRB-MONOMER		20070213		NCBITaxon:83333
+RGD	RGD:3248	Pah	PMID:10839989		GO:0019293	L-tyrosine biosynthetic process, by oxidation of phenylalanine	IDA		RGD:3248	PANTHER:PTHR11473	20070424		NCBITaxon:10116
+AspGD	UniProtKB:B2LXT5	mecA	PMID:19685245		GO:0019343	L-cysteine biosynthetic process via L-cystathionine	IMP				20091109		NCBITaxon:162425
+AspGD	UniProtKB:C8VM61	ANIA_01446	PMID:19685245		GO:0019343	L-cysteine biosynthetic process via L-cystathionine	IMP			PANTHER:PTHR11808	20091109		NCBITaxon:227321
+BHF-UCL	UniProtKB:P32929	CTH	PMID:19428278		GO:0019343	L-cysteine biosynthetic process via L-cystathionine	IDA		UniProtKB:P32929	PANTHER:PTHR11808	20150730		NCBITaxon:9606
+GeneDB	TriTrypDB:LmjF.05.0970	MST	PMID:12419809		GO:0019343	L-cysteine biosynthetic process via L-cystathionine	IDA				20091009		NCBITaxon:347515
+MTBBASE	UniProtKB:P9WGB7	metB	PMID:15576367		GO:0019343	L-cysteine biosynthetic process via L-cystathionine	IMP			PANTHER:PTHR11808	20100620		NCBITaxon:83332
+SGD	SGD:S000000010	CYS3	PMID:10509018		GO:0019343	L-cysteine biosynthetic process via L-cystathionine	IMP		SGD:S000000010	PANTHER:PTHR11808	20130807		NCBITaxon:559292
+SGD	SGD:S000003387	CYS4	PMID:10509018		GO:0019343	L-cysteine biosynthetic process via L-cystathionine	IMP		SGD:S000003387	PANTHER:PTHR10314	20130807		NCBITaxon:559292
+SGD	SGD:S000003387	CYS4	PMID:8366024		GO:0019343	L-cysteine biosynthetic process via L-cystathionine	IMP		SGD:S000003387	PANTHER:PTHR10314	20130807		NCBITaxon:559292
+UniProt	UniProtKB:Q2V0C9	CBS	PMID:29275181		GO:0019343	L-cysteine biosynthetic process via L-cystathionine	IDA				20200911		NCBITaxon:7460
+EcoCyc	EcoCyc:RED-GLUTAREDOXIN	GrxA	PMID:22607201		GO:0019345	L-cysteine biosynthetic process via S-sulfo-L-cysteine	IGI	UniProtKB:P16703	EcoCyc:RED-GLUTAREDOXIN		20201214		NCBITaxon:83333
+EcoCyc	EcoCyc:RED-GLUTAREDOXIN	GrxA	PMID:22607201		GO:0019345	L-cysteine biosynthetic process via S-sulfo-L-cysteine	IMP		EcoCyc:RED-GLUTAREDOXIN		20201214		NCBITaxon:83333
+EcoCyc	EcoCyc:ACSERLYB-MONOMER	CysM	PMID:22607201		GO:0019345	L-cysteine biosynthetic process via S-sulfo-L-cysteine	IMP		EcoCyc:ACSERLYB-MONOMER		20191107		NCBITaxon:83333
+EcoCyc	EcoCyc:ACSERLYB-MONOMER	CysM	PMID:3329675		GO:0019345	L-cysteine biosynthetic process via S-sulfo-L-cysteine	IMP		EcoCyc:ACSERLYB-MONOMER		20191106		NCBITaxon:83333
+UniProt	UniProtKB:A0A031WDE4	pflD	PMID:28183913		GO:0019492	L-proline salvage	IDA				20180625		NCBITaxon:1496
+AspGD	UniProtKB:Q4WPU2	AFUA_4G10460	PMID:20363898		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IMP			PANTHER:PTHR10277	20100902		NCBITaxon:330879
+CGD	CGD:CAL0000179135	LYS1	PMID:1429460|CGD_REF:CAL0081490		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IGI	SGD:S000001473			20140625		NCBITaxon:237561
+CGD	CGD:CAL0000179135	LYS1	PMID:1429460|CGD_REF:CAL0081490		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IMP				20140625		NCBITaxon:237561
+CGD	CGD:CAL0000179135	LYS1	PMID:16292576|CGD_REF:CAL0115364		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IDA				20140625		NCBITaxon:237561
+CGD	CGD:CAL0000187633	ARO8	PMID:29199101|CGD_REF:CAL0000215260		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IMP			PANTHER:PTHR42790	20180116		NCBITaxon:237561
+CGD	CGD:CAL0000197694	ARO9	PMID:29199101|CGD_REF:CAL0000215260		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IMP			PANTHER:PTHR42790	20180116		NCBITaxon:237561
+CGD	CGD:CAL0000183678	LYS2	PMID:3062368|CGD_REF:CAL0094038		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IGI	SGD:S000000319		PANTHER:PTHR44845	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000179135	LYS1	PMID:7927784|CGD_REF:CAL0081344		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IGI	SGD:S000001473			20140625		NCBITaxon:237561
+CGD	CGD:CAL0000183678	LYS2	PMID:9560434|CGD_REF:CAL0081345		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IGI	SGD:S000000319		PANTHER:PTHR44845	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000183678	LYS2	PMID:9560434|CGD_REF:CAL0081345		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IMP			PANTHER:PTHR44845	20140625		NCBITaxon:237561
+PomBase	PomBase:SPBC1105.02c	lys4	PMID:16299000		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IMP		PomBase:SPBC1105.02c	PANTHER:PTHR10277	20050429		NCBITaxon:4896
+PomBase	PomBase:SPAC31G5.04	lys12	PMID:17622533		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IMP		PomBase:SPAC31G5.04	PANTHER:PTHR11835	20130920		NCBITaxon:4896
+PomBase	PomBase:SPAC227.18	lys3	PMID:17622533		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IMP		PomBase:SPAC227.18	PANTHER:PTHR11133	20130920		NCBITaxon:4896
+PomBase	PomBase:SPAC343.16	lys2	PMID:17622533		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IMP		PomBase:SPAC343.16	PANTHER:PTHR43822	20130920		NCBITaxon:4896
+PomBase	PomBase:SPBC1105.02c	lys4	PMID:17622533		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IMP		PomBase:SPBC1105.02c	PANTHER:PTHR10277	20130920		NCBITaxon:4896
+PomBase	PomBase:SPBC1105.02c	lys4	PMID:20089861		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	EXP		PomBase:SPBC1105.02c	PANTHER:PTHR10277	20230705		NCBITaxon:4896
+PomBase	PomBase:SPAC227.18	lys3	PMID:3142867		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IMP		PomBase:SPAC227.18	PANTHER:PTHR11133	20050509		NCBITaxon:4896
+PomBase	PomBase:SPAP7G5.04c	lys1	PMID:3142867		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IMP		PomBase:SPAP7G5.04c	PANTHER:PTHR44845	20130924		NCBITaxon:4896
+PomBase	PomBase:SPAC17C9.02c	lys7	PMID:3142867		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IMP		PomBase:SPAC17C9.02c	PANTHER:PTHR12215	20130924		NCBITaxon:4896
+PomBase	PomBase:SPAC343.16	lys2	PMID:3142867		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IMP		PomBase:SPAC343.16	PANTHER:PTHR43822	20130924		NCBITaxon:4896
+PomBase	PomBase:SPBC1105.02c	lys4	PMID:3142867		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IMP		PomBase:SPBC1105.02c	PANTHER:PTHR10277	20130924		NCBITaxon:4896
+PomBase	PomBase:SPAP7G5.04c	lys1	PMID:8590464		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IMP		PomBase:SPAP7G5.04c	PANTHER:PTHR44845	20121004		NCBITaxon:4896
+SGD	SGD:S000000319	LYS2	PMID:10320345		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IDA		SGD:S000000319	PANTHER:PTHR44845	20130807		NCBITaxon:559292
+SGD	SGD:S000002289	LYS21	PMID:18524920		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IGI	SGD:S000002341	SGD:S000002289	PANTHER:PTHR10277	20130807		NCBITaxon:559292
+SGD	SGD:S000002289	LYS21	PMID:18524920		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IMP		SGD:S000002289	PANTHER:PTHR10277	20130807		NCBITaxon:559292
+SGD	SGD:S000002341	LYS20	PMID:18524920		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IGI	SGD:S000002289	SGD:S000002341	PANTHER:PTHR10277	20130807		NCBITaxon:559292
+SGD	SGD:S000002642	LYS4	PMID:2507177		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IMP		SGD:S000002642	PANTHER:PTHR43822	20130807		NCBITaxon:559292
+SGD	SGD:S000000319	LYS2	PMID:3023949		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IMP		SGD:S000000319	PANTHER:PTHR44845	20130807		NCBITaxon:559292
+SGD	SGD:S000003122	LYS5	PMID:3921525		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IMP		SGD:S000003122	PANTHER:PTHR12215	20181213		NCBITaxon:559292
+SGD	SGD:S000000319	LYS2	PMID:4401608		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IMP		SGD:S000000319	PANTHER:PTHR44845	20130807		NCBITaxon:559292
+SGD	SGD:S000005333	LYS9	PMID:6429126		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IMP		SGD:S000005333	PANTHER:PTHR11133	20130807		NCBITaxon:559292
+UniProt	UniProtKB:Q72IW9	hicd	PMID:12427751		GO:0019878	L-lysine biosynthetic process via aminoadipic acid	IMP				20130319		NCBITaxon:262724
+EcoCyc	EcoCyc:ACETYLORNTRANSAM-MONOMER	ArgD	PMID:25243376		GO:0033359	L-lysine biosynthetic process via diaminopimelate and N-succinyl-2-amino-6-ketopimelate	IGI	UniProtKB:P23721	EcoCyc:ACETYLORNTRANSAM-MONOMER		20141015		NCBITaxon:83333
+EcoCyc	EcoCyc:PSERTRANSAM-MONOMER	SerC	PMID:25243376		GO:0033359	L-lysine biosynthetic process via diaminopimelate and N-succinyl-2-amino-6-ketopimelate	IGI	UniProtKB:P18335	EcoCyc:PSERTRANSAM-MONOMER		20141015		NCBITaxon:83333
+UniProt	UniProtKB:Q6LX26	dapL	PMID:20418392		GO:0033362	L-lysine biosynthetic process via diaminopimelate, diaminopimelate-aminotransferase pathway	IDA				20120302		NCBITaxon:267377
+EcoCyc	EcoCyc:ASPAMINOTRANS-MONOMER	AspC	PMID:15983		GO:0033585	L-phenylalanine biosynthetic process from chorismate via phenylpyruvate	IMP		EcoCyc:ASPAMINOTRANS-MONOMER		20100122		NCBITaxon:83333
+EcoCyc	EcoCyc:TYRB-MONOMER	TyrB	PMID:236311		GO:0033585	L-phenylalanine biosynthetic process from chorismate via phenylpyruvate	IDA		EcoCyc:TYRB-MONOMER		20080117		NCBITaxon:83333
+MTBBASE	UniProtKB:P9WIC3	pheA	PMID:15753077		GO:0033585	L-phenylalanine biosynthetic process from chorismate via phenylpyruvate	IDA			PANTHER:PTHR21022	20100408		NCBITaxon:83332
+ComplexPortal	ComplexPortal:CPX-5627	otcase-fff_ecoli	PMID:4558857		GO:0042450	L-arginine biosynthetic process via ornithine	NAS				20240827		NCBITaxon:83333
+ComplexPortal	ComplexPortal:CPX-5626	otcase-ffi_ecoli	PMID:4558857		GO:0042450	L-arginine biosynthetic process via ornithine	NAS				20240827		NCBITaxon:83333
+ComplexPortal	ComplexPortal:CPX-5625	otcase-fii_ecoli	PMID:4558857		GO:0042450	L-arginine biosynthetic process via ornithine	NAS				20240827		NCBITaxon:83333
+ComplexPortal	ComplexPortal:CPX-5624	otcase-iii_ecoli	PMID:4558857		GO:0042450	L-arginine biosynthetic process via ornithine	NAS				20240827		NCBITaxon:83333
+ComplexPortal	EcoCyc:CHAINF-MONOMER	ArgF	PMID:4558857		GO:0042450	L-arginine biosynthetic process via ornithine	NAS		EcoCyc:CHAINF-MONOMER		20240827		NCBITaxon:83333
+ComplexPortal	EcoCyc:CHAINI-MONOMER	ArgI	PMID:4558857		GO:0042450	L-arginine biosynthetic process via ornithine	NAS		EcoCyc:CHAINI-MONOMER		20240827		NCBITaxon:83333
+EcoCyc	EcoCyc:SUCCORNTRANSAM-MONOMER	AstC	PMID:25243376		GO:0042450	L-arginine biosynthetic process via ornithine	IGI	UniProtKB:P18335|UniProtKB:P22256	EcoCyc:SUCCORNTRANSAM-MONOMER		20141014		NCBITaxon:83333
+EcoCyc	EcoCyc:ACETYLORNTRANSAM-MONOMER	ArgD	PMID:25243376		GO:0042450	L-arginine biosynthetic process via ornithine	IGI	UniProtKB:P22256|UniProtKB:P77581	EcoCyc:ACETYLORNTRANSAM-MONOMER		20141014		NCBITaxon:83333
+EcoCyc	EcoCyc:GABATRANSAM-MONOMER	GabT	PMID:25243376		GO:0042450	L-arginine biosynthetic process via ornithine	IGI	UniProtKB:P18335|UniProtKB:P77581	EcoCyc:GABATRANSAM-MONOMER		20141015		NCBITaxon:83333
+MTBBASE	UniProtKB:O33289	argA	PMID:15838030		GO:0042450	L-arginine biosynthetic process via ornithine	IDA			PANTHER:PTHR43626	20110323		NCBITaxon:83332
+PomBase	PomBase:SPAC4G9.10	arg3	PMID:1313366		GO:0042450	L-arginine biosynthetic process via ornithine	IMP		PomBase:SPAC4G9.10	PANTHER:PTHR45753	20040917		NCBITaxon:4896
+PomBase	PomBase:SPAC4G9.09c	arg11	PMID:1313366		GO:0042450	L-arginine biosynthetic process via ornithine	IMP		PomBase:SPAC4G9.09c	PANTHER:PTHR23342	20030613		NCBITaxon:4896
+PomBase	PomBase:SPAC4G9.10	arg3	PMID:18849471		GO:0042450	L-arginine biosynthetic process via ornithine	IMP		PomBase:SPAC4G9.10	PANTHER:PTHR45753	20140612		NCBITaxon:4896
+PomBase	PomBase:SPBC725.14	arg6	PMID:32896087		GO:0042450	L-arginine biosynthetic process via ornithine	EXP		PomBase:SPBC725.14	PANTHER:PTHR23342	20240717		NCBITaxon:4896
+PomBase	PomBase:SPAC4G9.10	arg3	PMID:32896087		GO:0042450	L-arginine biosynthetic process via ornithine	EXP		PomBase:SPAC4G9.10	PANTHER:PTHR45753	20240717		NCBITaxon:4896
+PomBase	PomBase:SPAC4G9.09c	arg11	PMID:32896087		GO:0042450	L-arginine biosynthetic process via ornithine	EXP		PomBase:SPAC4G9.09c	PANTHER:PTHR23342	20240717		NCBITaxon:4896
+PomBase	PomBase:SPBC56F2.09c	arg5	PMID:32896087		GO:0042450	L-arginine biosynthetic process via ornithine	EXP		PomBase:SPBC56F2.09c	PANTHER:PTHR11405	20240717		NCBITaxon:4896
+PomBase	PomBase:SPCC777.09c	arg1	PMID:32896087		GO:0042450	L-arginine biosynthetic process via ornithine	EXP		PomBase:SPCC777.09c	PANTHER:PTHR11986	20240717		NCBITaxon:4896
+PomBase	PomBase:SPBC428.05c	arg12	PMID:32896087		GO:0042450	L-arginine biosynthetic process via ornithine	EXP		PomBase:SPBC428.05c	PANTHER:PTHR11587	20240717		NCBITaxon:4896
+PomBase	PomBase:SPBC1539.03c	arg41	PMID:32896087		GO:0042450	L-arginine biosynthetic process via ornithine	EXP		PomBase:SPBC1539.03c	PANTHER:PTHR43814	20240717		NCBITaxon:4896
+PomBase	PomBase:SPBC215.08c	arg4	PMID:32896087		GO:0042450	L-arginine biosynthetic process via ornithine	EXP		PomBase:SPBC215.08c	PANTHER:PTHR11405	20240717		NCBITaxon:4896
+PomBase	PomBase:SPBC1271.14	aga1	PMID:32896087		GO:0042450	L-arginine biosynthetic process via ornithine	EXP		PomBase:SPBC1271.14	PANTHER:PTHR23100	20201219		NCBITaxon:4896
+SGD	SGD:S000001060	ARG4	PMID:4578972		GO:0042450	L-arginine biosynthetic process via ornithine	IDA		SGD:S000001060	PANTHER:PTHR43814	20130807		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT3G57560	NAGK	PMID:16377628|TAIR:Publication:501718165		GO:0042450	L-arginine biosynthetic process via ornithine	TAS		TAIR:locus:2103528		20060207		NCBITaxon:3702
+UniProt	UniProtKB:Q9YHY9	OTC	PMID:9792920		GO:0042450	L-arginine biosynthetic process via ornithine	NAS		UniProtKB:Q9YHY9	PANTHER:PTHR45753	20040504		NCBITaxon:9031
