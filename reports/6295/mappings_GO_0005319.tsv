@@ -1,0 +1,23 @@
+term	file	line
+GO:0005319	hamap2go	HAMAP:MF_01585 > GO:lipid transporter activity ; GO:0005319
+GO:0005319	interpro2go	InterPro:IPR001747 Vitellogenin, N-terminal > GO:lipid transporter activity ; GO:0005319
+GO:0005319	interpro2go	InterPro:IPR004765 NPC1-like > GO:lipid transporter activity ; GO:0005319
+GO:0005319	interpro2go	InterPro:IPR009454 Lipid transport, open beta-sheet > GO:lipid transporter activity ; GO:0005319
+GO:0005319	interpro2go	InterPro:IPR015255 Vitellinogen, open beta-sheet > GO:lipid transporter activity ; GO:0005319
+GO:0005319	interpro2go	InterPro:IPR015258 Vitellinogen, beta-sheet shell > GO:lipid transporter activity ; GO:0005319
+GO:0005319	interpro2go	InterPro:IPR015816 Vitellinogen, beta-sheet N-terminal > GO:lipid transporter activity ; GO:0005319
+GO:0005319	interpro2go	InterPro:IPR015817 Vitellinogen, open beta-sheet, subdomain 1 > GO:lipid transporter activity ; GO:0005319
+GO:0005319	interpro2go	InterPro:IPR015819 Lipid transport protein, beta-sheet shell > GO:lipid transporter activity ; GO:0005319
+GO:0005319	interpro2go	InterPro:IPR037088 Vitellinogen, beta-sheet shell domain superfamily > GO:lipid transporter activity ; GO:0005319
+GO:0005319	reactome2go	Reactome:R-HSA-1369028 > GO:lipid transporter activity ; GO:0005319
+GO:0005319	reactome2go	Reactome:R-HSA-1369052 > GO:lipid transporter activity ; GO:0005319
+GO:0005319	reactome2go	Reactome:R-HSA-174786 > GO:lipid transporter activity ; GO:0005319
+GO:0005319	reactome2go	Reactome:R-HSA-5682285 > GO:lipid transporter activity ; GO:0005319
+GO:0005319	reactome2go	Reactome:R-HSA-5682311 > GO:lipid transporter activity ; GO:0005319
+GO:0005319	reactome2go	Reactome:R-HSA-5683672 > GO:lipid transporter activity ; GO:0005319
+GO:0005319	reactome2go	Reactome:R-HSA-5683714 > GO:lipid transporter activity ; GO:0005319
+GO:0005319	reactome2go	Reactome:R-HSA-5688397 > GO:lipid transporter activity ; GO:0005319
+GO:0005319	reactome2go	Reactome:R-HSA-6801250 > GO:lipid transporter activity ; GO:0005319
+GO:0005319	reactome2go	Reactome:R-HSA-8848053 > GO:lipid transporter activity ; GO:0005319
+GO:0005319	reactome2go	Reactome:R-HSA-8866329 > GO:lipid transporter activity ; GO:0005319
+GO:0005319	unirule2go	UniRule:UR000079158 > GO:lipid transporter activity ; GO:0005319
