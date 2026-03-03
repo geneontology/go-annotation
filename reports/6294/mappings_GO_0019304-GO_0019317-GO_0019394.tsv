@@ -1,0 +1,7 @@
+term	file	line
+GO:0019317	metacyc2go	MetaCyc:FUCCAT-PWY > GO:fucose catabolic process ; GO:0019317
+GO:0019317	interpro2go	InterPro:IPR005763 L-fucose isomerase > GO:fucose catabolic process ; GO:0019317
+GO:0019394	metacyc2go	MetaCyc:GLUCARDEG-PWY > GO:glucarate catabolic process ; GO:0019394
+GO:0019394	interpro2go	InterPro:IPR017648 5-keto-4-deoxy-D-glucarate aldolase > GO:glucarate catabolic process ; GO:0019394
+GO:0019394	interpro2go	InterPro:IPR017653 Glucarate dehydratase > GO:glucarate catabolic process ; GO:0019394
+GO:0019394	unirule2go	UniRule:UR001995986 > GO:glucarate catabolic process ; GO:0019394
