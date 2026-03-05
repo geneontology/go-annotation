@@ -1,0 +1,503 @@
+term	file	line
+GO:0005576	uniprotkb_sl2go	UniProtKB-SubCell:SL-0112 Extracellular space > GO:extracellular region ; GO:0005576
+GO:0005576	uniprotkb_sl2go	UniProtKB-SubCell:SL-0243 Secreted > GO:extracellular region ; GO:0005576
+GO:0005576	wikipedia2go	Wikipedia:Extracellular > GO:extracellular region ; GO:0005576
+GO:0005576	hamap2go	HAMAP:MF_03060 > GO:extracellular region ; GO:0005576
+GO:0005576	hamap2go	HAMAP:MF_04079 > GO:extracellular region ; GO:0005576
+GO:0005576	hamap2go	HAMAP:MF_04091 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000013 Peptidase M7, snapalysin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000020 Anaphylatoxin/fibulin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000065 Leptin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000074 Apolipoprotein A/E > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000083 Fibronectin, type I > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000096 Serum amyloid A protein > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000098 Interleukin-10 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000117 Kappa casein > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000177 Apple domain > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000186 Interleukin-5 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000187 Corticotropin-releasing factor > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000254 Cellulose-binding domain > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000275 Coagulin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000294 Gamma-carboxyglutamic acid-rich (GLA) domain > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000346 Hyperglycemic hormone type 1 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000400 Glycoside hydrolase, family 46 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000443 Islet amyloid polypeptide > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000471 Interferon alpha/beta/delta > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000476 Glycoprotein hormone alpha chain > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000491 Inhibin, beta A subunit > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000532 Glucagon/GIP/secretin/VIP > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000663 Natriuretic peptide > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000693 Sea anemone toxin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000773 Granulocyte-macrophage colony-stimulating factor > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000779 Interleukin-2 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000827 CC chemokine, conserved site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000867 Insulin-like growth factor-binding protein, IGFBP > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000875 Cecropin-like > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000877 Proteinase inhibitor I12, Bowman-Birk > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000879 Guanylin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR000981 Neurohypophysial hormone > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001028 Glycoprotein phospholipase D > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001089 CXC chemokine > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001166 Hyperglycemic hormone > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001181 Interleukin-7 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001262 Hyperglycemic hormone type 2 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001299 Ependymin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001318 Inhibin, beta C subunit > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001323 Erythropoietin/thrombopoietin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001325 Interleukin-4/interleukin-13 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001400 Somatotropin/prolactin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001415 Parathyroid hormone/parathyroid hormone-related protein > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001483 Urotensin II > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001545 Gonadotropin, beta subunit > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001581 Leukemia inhibitory factor /oncostatin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001588 Casein, alpha/beta > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001615 Delta-endotoxin CytB > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001651 Gastrin/cholecystokinin peptide hormone > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001693 Calcitonin peptide-like > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001710 Pro-adrenomedullin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001729 Pulmonary surfactant-associated protein C > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001811 Chemokine interleukin-8-like domain > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001835 Heat-labile enterotoxin, B chain > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001840 Anaphylatoxin, complement system domain > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001855 Beta-defensin-like domain > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001894 Cathelicidin-like > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001928 Endothelin-like toxin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001941 Pro-opiomelanocortin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001947 Scorpion short chain toxin, potassium channel inhibitor > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001955 Pancreatic hormone-like > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR001981 Colipase > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR002012 Gonadotropin-releasing hormone > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR002047 Adipokinetic hormone, conserved site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR002061 Scorpion long chain toxin/defensin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR002069 Interferon gamma > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR002098 Seminal vesicle protein I > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR002116 Melittin/ Api allergen > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR002169 Peptidase M9A/M9B, collagenase, bacterial > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR002183 Interleukin-3 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR002200 Elicitin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR002336 Erythrocruorin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR002354 Interleukin-4 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR002384 Osteocalcin/matrix Gla protein > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR002406 Natriuretic peptide, C type > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR002407 Natriuretic peptide, atrial type > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR002408 Natriuretic peptide, brain type > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR002463 Ornatin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR002557 Chitin binding domain > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR002633 Bacteriocin, class IIa > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR002964 Adhesive plaque protein > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003013 Erythropoietin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003159 Polysaccharide lyase family 8, central domain > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003189 Shiga-like toxin, beta subunit > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003235 Nematode insulin-like peptide, beta type > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003295 Interleukin-1 alpha > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003424 Egg-laying hormone/atrial gland peptide > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003443 Interleukin-15/Interleukin-21 family > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003540 ADP ribosyltransferase > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003541 Anthrax toxin, lethal/endema factor > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003571 Snake three-finger toxin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003572 Snake cytotoxin, cobra-type > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003610 Carbohydrate binding module family 5/12 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003620 Urocortin/corticotropin-releasing factor > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003624 Leukemia inhibitory factor > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003625 Parathyroid hormone > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003626 Parathyroid hormone-related protein > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003842 Vacuolating cytotoxin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003895 Type III secretion system, SctE/BipB > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003896 Bacterial exotoxin B > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003897 Clostridium enterotoxin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003898 Bordetella pertussis toxin A > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003899 Bordetella pertussis toxin B > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003963 Bi-component toxin, staphylococci > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003978 Thrombopoietin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR003995 RTX toxin determinant A > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR004093 Staphylokinase > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR004103 Polysaccharide lyase family 8, C-terminal > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR004126 Phospholipase A2 inhibitor, N-terminal domain > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR004169 Spider toxin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR004214 Conotoxin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR004236 Peptidase S1A, alpha-lytic prodomain > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR004250 Somatostatin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR004281 Interleukin-12 alpha > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR004315 Male Drosophila accessory gland secretory protein > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR004825 Insulin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR004898 Pectate lyase PlyH/PlyE-like > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR004943 Lepidopteran low molecular weight lipoprotein > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR004978 Stanniocalcin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR005015 Thermostable direct haemolysin, vibrio > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR005165 Anthrax toxin, edema factor, central > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR005413 Low calcium response V antigen > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR005414 Guanine nucleotide exchange factor SopE > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR005441 Preproghrelin peptide > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR005453 Pollen allergen Lol p2 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR005520 Attacin, N-terminal > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR005521 Attacin, C-terminal > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR005575 Statherin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR005795 Major pollen allergen Lol pI > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR005817 Wnt > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR005830 Aerolysin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR005831 Aerolysin/haemolysin toxin, conserved site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR006079 Lantibiotic, Type A, Bacillales-type > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR006080 Beta/alpha-defensin, C-terminal > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR006081 Alpha-defensin, C-terminal > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR006123 Staphylococcal/Streptococcal toxin, beta-grasp domain > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR006126 Staphylococcal enterotoxin/Streptococcal pyrogenic exotoxin, conserved site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR006718 Dec-1 repeat > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR006719 DEC-1 protein, N-terminal > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR006720 Dec-1 protein, C-terminal > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR006737 Motilin/ghrelin-associated peptide > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR006738 Motilin/ghrelin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR006742 Mating factor alpha, C-terminal repeat > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR006781 Apolipoprotein C-I > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR006796 Dickkopf, N-terminal cysteine-rich > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR006801 Apolipoprotein A-II (ApoA-II) > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR007118 Expansin/Lol pI > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR007464 Bacteriocin, class IId > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR007682 Lantibiotic, type A, Lactobacillales-type > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR007733 Agouti > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR007958 Scorpion short chain toxin, chloride channel inhibitor > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR007962 Bombinin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR007988 Sperm-associated antigen 11 A/B > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR007990 Prolactin-inducible protein > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008017 Delta-hexatoxin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008034 Delta-hemolysin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008036 Conotoxin, mu-type > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008055 Neurotensin/neuromedin N > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008105 C chemokine > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008120 Dense granule Gra7 protein > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008124 Streptokinase > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008174 Galanin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008175 Galanin precursor > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008197 WAP-type 'four-disulfide core' domain > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008292 Haptoglobin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008296 Tissue factor pathway inhibitor-like > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008363 Paraoxonase1 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008364 Paraoxonase2 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008392 Drosophila accessory gland-specific peptide 26Ab > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008403 Apolipoprotein CIII > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008405 Apolipoprotein L > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008412 Integrin-binding sialoprotein > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008453 Clavanin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008605 Extracellular matrix protein 1 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008612 Mating pheromone, Euplotes octocarinatus > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008660 Fibroin light chain > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008675 Mating factor alpha precursor, N-terminal > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008836 Semenogelin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008857 Thyrotropin-releasing hormone > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008859 Thrombospondin, C-terminal > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008873 TraA > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR008911 Short scorpion toxin, potassium channel inhibitor alpha-KTx 8/9 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR009048 Alpha-macroglobulin, receptor-binding > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR009139 Wnt-1 protein > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR009140 Wnt-2 protein > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR009141 Wnt-3 protein > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR009142 Wnt-4 protein > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR009143 Wnt-6 protein > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR009382 Coleoptericin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR009396 Pigment-dispersing hormone > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR009415 Omega-atracotoxin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR009438 Phytosulfokine > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR009456 Moricin family > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR009458 Ectatomin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR009608 Bradykinin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR009714 Resistin-like molecule hormone family > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR009911 Fibroin P25 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR009958 Conotoxin, alpha-type > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR009990 Pardaxin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR010000 Caerin 1 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR010002 Poneritoxin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR010009 Apolipophorin-III > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR010012 Spasmodic peptide gm9a > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR010126 Esterase, PHB depolymerase > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR010345 Interleukin-17 family > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR010500 Hepcidin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR010503 Type II heat-labile enterotoxin, B subunit > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR010636 Class II hydrophobin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR010711 Group XII secretory phospholipase A2 precursor > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR010801 Fibronectin-attachment > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR010831 Interleukin-23 alpha > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR010857 Zona-pellucida-binding > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR010892 Secreted phosphoprotein 24 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR011099 Glycosyl hydrolase family 67, C-terminal > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR011100 Glycosyl hydrolase family 67, catalytic domain > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR011150 Cutinase, monofunctional > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR011175 Alpha-s2 casein > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR011329 Killer toxin Kp4/SMK > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR011360 Complement B/C2 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR011390 Insulin-like growth factor binding protein-related protein (IGFBP-rP), MAC25 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR011395 Alpha glucuronidase > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR011505 Peptidase M26, C-terminal domain > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR011696 Huwentoxin-1 family > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012210 Insulin-like growth factor binding protein 2 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012211 Insulin-like growth factor binding protein 3 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012213 Insulin-like growth factor binding protein 5 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012321 Conotoxin, omega-type, conserved site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012322 Conotoxin, delta-type, conserved site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012325 Assassin bug toxin-like > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012497 Neurotoxin B-IV-like > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012498 Alpha-A conotoxin PIVA-like > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012499 Janus-atracotoxin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012518 Ocellatin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012521 Frog antimicrobial peptide, brevinin-2/esculentin type > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012522 Spider antimicrobial peptide > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012523 Ant antimicrobial peptide > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012524 Abaecin, antimicrobial peptide > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012526 Scorpion antimicrobial peptide > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012527 Uperin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012528 Ponericin L > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012529 Attractin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012534 Bombolitin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012553 Defensin-like peptide > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012593 Pea-VEAacid > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012608 Sex peptide > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012619 Myoactive tetradecapeptides > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012622 Potassium channel toxin gamma/Ergtoxin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012625 Huwentoxin-II-like > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012626 Spider insecticidal peptide > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012627 Magi peptide toxin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012628 Magi 5 toxic peptide > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012629 Conotoxin TVIIAGS > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012630 Hefutoxin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012631 Conotoxin T-superfamily > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012632 Scorpion calcine > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012633 SFI toxin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012634 PhTx neurotoxin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012635 Parabutoxin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012636 Tamulustoxin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012637 Waglerin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR012928 Clostridium neurotoxin, receptor binding N-terminal > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR013300 Wnt-7 protein > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR013301 Wnt-8 protein > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR013302 Wnt-10 protein > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR013303 Wnt-9a protein > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR013304 Wnt-16 protein > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR014610 Globin, extracellular > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR015131 Killer toxin, Kp4 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR015290 Yeast killer toxin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR015476 Calcitonin gene-related peptide > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR015615 Transforming growth factor-beta-related > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR016091 Superantigen toxin, C-terminal > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR016179 Insulin-like > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR016183 Leukocidin/Hemolysin toxin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR016289 Endo-beta-N-acetylglucosaminidase > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR016326 Mating factor alpha > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR016329 Neurotoxin, TxP-I > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR017100 Insulin-like peptide 6 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR017227 Nucleoside-triphosphatase, alveolata > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR017273 Probable cell wall amidase LytH > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR017329 Peptidase S1A, HAT/DESC1 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR017760 L-ascorbate oxidase, plants > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR017766 Sphingomyelinase C/phospholipase C > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR017913 Colipase, N-terminal > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR017914 Colipase, C-terminal > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR017915 Colipase, conserved site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR018048 CXC chemokine, conserved site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR018049 Interleukin-7/Interleukin-9, conserved site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR018051 Surfactant-associated polypeptide, palmitoylation site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR018096 Interleukin-4/interleukin-13, conserved site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR018116 Somatotropin hormone, conserved site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR018142 Somatostatin/Cortistatin, C-terminal > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR018195 Transferrin family, iron binding site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR018216 Cathelicidin, conserved site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR018218 Scorpion long chain toxin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR018224 Ependymin, conserved site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR018244 Allergen V5/Tpx-1-related, conserved site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR018245 Gonadotropin, beta subunit, conserved site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR018251 Crustacean neurohormone, conserved site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR018354 Snake toxin, conserved site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR018360 Calcitonin, conserved site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR018504 RTX, pore-forming domain > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR018992 Thrombin light chain > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR019764 Endothelin-like toxin, conserved site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR019767 Erythropoietin/thrombopoeitin, conserved site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR019806 Heat-stable enterotoxin, conserved site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR019827 Leukemia inhibitory factor /oncostatin, conserved site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR020063 Bordetella pertussis toxin B, subunit 2/3, C-terminal > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR020400 Cecropin/Sarcotoxins/Aedesins > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR020432 Neurotrophin-4 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR020440 Interleukin-17, chordata > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR020453 Interleukin-22 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR020466 Interleukin-15, mammal > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR021116 Calcitonin/adrenomedullin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR021117 Calcitonin-like > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR021118 Calcitonin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR022321 Insulin-like growth factor-binding protein family 1-6, chordata > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR022322 Insulin-like growth factor-binding protein 1 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR022326 Insulin-like growth factor-binding protein 6 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR022327 Insulin-like growth factor-binding protein 4 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR022421 Relaxin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR022423 Neurohypophysial hormone, conserved site > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR022618 Defensin-like protein 20-28 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR024175 Peptidase S1A, complement C1r/C1S/mannan-binding > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR025933 Beta-defensin domain > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR026999 Alpha-s1 casein > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR028130 Dermcidin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR028138 Neuropeptide S > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR028196 Keratinocyte differentiation-associated protein > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR028507 Thrombospondin-3, coiled-coil domain > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR029094 Draxin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR029396 Tuberoinfundibular peptide of 39 residues > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR030474 Interleukin-6/GCSF/MGF > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR030684 Lactotransferrin > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR030773 Histatin/statherin family > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR032019 Frog antimicrobial peptide, ranacyclin-type, Ranidae > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR032021 Frog antimicrobial peptide, caerin-type, Litoria > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR035444 Fibroblast growth factor 15/19/21 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR035971 Cellulose-binding domain superfamily > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR035972 Gamma-carboxyglutamic acid-rich (GLA) domain superfamily > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR035995 Bowman-Birk type proteinase inhibitor > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR036048 Chemokine interleukin-8-like superfamily > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR036120 Staphylokinase/Streptokinase superfamily > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR036139 Virulence-associated V antigen superfamily > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR036172 Apolipoprotein A-II (ApoA-II) superfamily > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR036261 Ectatomin superfamily > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR036262 Resistin-like superfamily > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR036382 Guanylin superfamily > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR036387 Neurohypophysial hormone domain superfamily > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR036470 Elicitin superfamily > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR036573 Carbohydrate-binding module superfamily 5/12 > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR036585 Attractin superfamily > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR036586 Neurotoxin B-IV-like superfamily > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR036595 Alpha-macroglobulin, receptor-binding domain superfamily > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR036686 Class II Hydrophobin superfamily > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR037017 Anthrax toxin, edema factor, central domain superfamily > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR037043 Moricin domain superfamily > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR037054 Alpha-glucuronidase, C-terminal domain superfamily > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR037111 Thrombin light chain domain superfamily > GO:extracellular region ; GO:0005576
+GO:0005576	interpro2go	InterPro:IPR038903 Allergen Asp f 4 > GO:extracellular region ; GO:0005576
+GO:0005576	uniprotkb_kw2go	UniProtKB-KW:KW-0767 Surface film > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000001230 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000048414 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000101287 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000129108 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000133779 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000142757 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000143781 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000146907 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000150973 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000150976 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000150990 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000161221 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000189784 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000202760 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000261794 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000298973 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000342797 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000359794 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000397766 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000417761 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000481789 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000504780 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000573762 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000613387 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000617770 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000759754 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000811751 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000823064 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000904912 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR000955769 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001116778 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001230789 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001255762 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001302757 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001348786 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001350757 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001378782 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001419795 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001426769 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001426781 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001427760 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001453757 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001453759 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001478816 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001527781 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001528771 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001590758 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001590771 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001591761 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001591790 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001627762 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001775616 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001903766 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001903783 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001922975 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR001933751 > GO:extracellular region ; GO:0005576
+GO:0005576	unirule2go	UniRule:UR002136415 > GO:extracellular region ; GO:0005576
+GO:0005615	interpro2go	InterPro:IPR000213 Vitamin D-binding protein > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR000215 Serpin family > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR000264 ALB/AFP/VDB > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR000512 Diphtheria toxin (NAD+-dipthamide ADP-ribosyltransferase) > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR000975 Interleukin-1 family > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR001144 Heat-labile enterotoxin, A chain > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR001363 Proteinase inhibitor I25C, fetuin, conserved site > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR001489 Heat-stable enterotoxin, STa > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR001500 Alpha-1-acid glycoprotein > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR001842 Peptidase M36, fungalysin > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR001999 Osteonectin-like, conserved site > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR003064 Norrie disease protein > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR003574 Interleukin-6-like > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR006040 Allergen Ole e 1, conserved site > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR006331 Adenosine deaminase-related growth factor > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR008835 Sclerostin/Sclerostin domain-containing protein 1 > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR009106 CART satiety factor > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR011626 Alpha-macroglobulin-like, TED domain > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR013659 Adenosine/AMP deaminase N-terminal > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR013858 Peptidase M10 serralysin, C-terminal > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR014394 Coagulation factor XII/hepatocyte growth factor activator > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR014760 Serum albumin, N-terminal > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR015203 Secreted effector protein SptP, N-terminal domain > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR015250 MPT63-like > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR015332 Major allergen I polypeptide chain 2-like > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR016294 Peptidase M10B > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR016319 Transforming growth factor-beta > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR016327 Alpha-defensin > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR016356 Seminal plasma protein, PDC-109-like > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR016357 Transferrin > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR016582 D-(-)-3-hydroxybutyrate oligomer hydrolase, putative > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR017064 Acid sphingomyelinase-like phosphodiesterase, predicted > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR017097 Bombyxin > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR018581 Type III secretion system, pilus formation, HrpA > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR020415 Interleukin-34 > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR020858 Serum albumin-like > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR020877 Interleukin-1 conserved site > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR021033 Extracellular fibrinogen binding protein, C-terminal > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR021177 Serum albumin/Alpha-fetoprotein/Afamin > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR021193 BPI fold-containing family B member 1 > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR022334 Insulin-like growth factor II > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR022341 Insulin-like growth factor I > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR022350 Insulin-like growth factor IGF-1/2 > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR022354 Pheromone-binding protein Gp-9 > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR024270 Urocortin II/III > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR027881 SOGA, coiled-coil domain > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR030675 Lipid binding protein BPI/LBP > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR030685 Serotransferrin, mammalian > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR032253 Exocrine gland-secreted peptide Esp1/Esp22 > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR034975 Somatotropin > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR036722 CART, C-terminal domain superfamily > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR040301 Secretoglobin 3A > GO:extracellular space ; GO:0005615
+GO:0005615	uniprotkb_kw2go	UniProtKB-KW:KW-0202 Cytokine > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000042799 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000083251 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000136819 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000136830 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000141825 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000142760 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000142773 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000168466 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000483752 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000618760 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000638782 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000640755 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000736773 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000758760 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000954751 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000955753 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR001350759 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR001419794 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR001480757 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR001503762 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR001553775 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR001591783 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR001591784 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR001661757 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR001683789 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR001903776 > GO:extracellular space ; GO:0005615
