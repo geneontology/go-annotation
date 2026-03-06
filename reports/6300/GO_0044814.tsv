@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	EcoCyc:PYRUVFORMLY-MONOMER	PflB	PMID:35377165		GO:0044814	pyruvate fermentation via PFL	IMP		EcoCyc:PYRUVFORMLY-MONOMER		20240514		NCBITaxon:83333
+EcoCyc	EcoCyc:PYRUVFORMLY-MONOMER	PflB	PMID:6369325		GO:0044814	pyruvate fermentation via PFL	IDA		EcoCyc:PYRUVFORMLY-MONOMER		20240514		NCBITaxon:83333
