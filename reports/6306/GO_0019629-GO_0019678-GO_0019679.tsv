@@ -1,0 +1,49 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AspGD	UniProtKB:Q599M3	mclA	PMID:16151139		GO:0019629	propionate catabolic process, 2-methylcitrate cycle	IMP				20100928		NCBITaxon:162425
+AspGD	UniProtKB:A2R4X3	An15g01920	PMID:23832368		GO:0019629	propionate catabolic process, 2-methylcitrate cycle	IDA				20131007		NCBITaxon:425011
+AspGD	UniProtKB:A2R4X3	An15g01920	PMID:23832368		GO:0019629	propionate catabolic process, 2-methylcitrate cycle	IMP				20131007		NCBITaxon:425011
+EcoCyc	EcoCyc:G6196-MONOMER	PrpB	PMID:11422389		GO:0019629	propionate catabolic process, 2-methylcitrate cycle	IDA		EcoCyc:G6196-MONOMER		20120802		NCBITaxon:83333
+EcoCyc	EcoCyc:ACONITATEDEHYDRB-MONOMER	AcnB	PMID:12473114		GO:0019629	propionate catabolic process, 2-methylcitrate cycle	IDA		EcoCyc:ACONITATEDEHYDRB-MONOMER		20090223		NCBITaxon:83333
+MTBBASE	UniProtKB:O08395	gltA-3	PMID:18375549		GO:0019629	propionate catabolic process, 2-methylcitrate cycle	IMP				20100720		NCBITaxon:83331
+MTBBASE	UniProtKB:O06582	prpD	PMID:18375549		GO:0019629	propionate catabolic process, 2-methylcitrate cycle	IMP			PANTHER:PTHR16943	20100720		NCBITaxon:83332
+SGD	SGD:S000006210	ICL2	PMID:11092862		GO:0019629	propionate catabolic process, 2-methylcitrate cycle	IDA		SGD:S000006210	PANTHER:PTHR21631	20130807		NCBITaxon:559292
+SGD	SGD:S000006205	CIT3	PMID:17570335		GO:0019629	propionate catabolic process, 2-methylcitrate cycle	IGI	SGD:S000000598	SGD:S000006205	PANTHER:PTHR11739	20130807		NCBITaxon:559292
+UniProt	UniProtKB:Q56062	prpB	PMID:10482501		GO:0019629	propionate catabolic process, 2-methylcitrate cycle	IMP			PANTHER:PTHR42905	20150323		NCBITaxon:99287
+UniProt	UniProtKB:Q8ZRS8	acnB	PMID:11294638		GO:0019629	propionate catabolic process, 2-methylcitrate cycle	IMP			PANTHER:PTHR43160	20150323		NCBITaxon:99287
+UniProt	UniProtKB:P74840	prpD	PMID:11294638		GO:0019629	propionate catabolic process, 2-methylcitrate cycle	IDA			PANTHER:PTHR16943	20150216		NCBITaxon:99287
+UniProt	UniProtKB:Q937P0	prpB	PMID:11495997		GO:0019629	propionate catabolic process, 2-methylcitrate cycle	IMP				20150323		NCBITaxon:106590
+UniProt	UniProtKB:Q937N7	Q937N7	PMID:11495997		GO:0019629	propionate catabolic process, 2-methylcitrate cycle	IDA				20150323		NCBITaxon:106590
+UniProt	UniProtKB:Q8EJW4	prpF	PMID:14702315		GO:0019629	propionate catabolic process, 2-methylcitrate cycle	IDA			PANTHER:PTHR43709	20150323		NCBITaxon:211586
+UniProt	UniProtKB:Q8EJW3	acnD	PMID:14702315		GO:0019629	propionate catabolic process, 2-methylcitrate cycle	IDA			PANTHER:PTHR11670	20150323		NCBITaxon:211586
+UniProt	UniProtKB:Q8EJW4	prpF	PMID:17567742		GO:0019629	propionate catabolic process, 2-methylcitrate cycle	IDA			PANTHER:PTHR43709	20150323		NCBITaxon:211586
+UniProt	UniProtKB:Q56062	prpB	PMID:9006051		GO:0019629	propionate catabolic process, 2-methylcitrate cycle	IDA			PANTHER:PTHR42905	20150323		NCBITaxon:99287
+MTBBASE	UniProtKB:P9WJK5	mutB	PMID:18375549		GO:0019678	propionate metabolic process, methylmalonyl pathway	IMP			PANTHER:PTHR48101	20100720		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WJK7	mutA	PMID:18375549		GO:0019678	propionate metabolic process, methylmalonyl pathway	IMP			PANTHER:PTHR48101	20100720		NCBITaxon:83332
+AspGD	UniProtKB:Q9TEM3	mcsA	PMID:10712680		GO:0019679	propionate metabolic process, methylcitrate cycle	IMP			PANTHER:PTHR11739	20090821		NCBITaxon:227321
+AspGD	UniProtKB:Q9TEM3	mcsA	PMID:15066039		GO:0019679	propionate metabolic process, methylcitrate cycle	IEP			PANTHER:PTHR11739	20090826		NCBITaxon:227321
+AspGD	UniProtKB:Q5BD33	ANIA_01547	PMID:18331473		GO:0019679	propionate metabolic process, methylcitrate cycle	IDA			PANTHER:PTHR43609	20091110		NCBITaxon:227321
+AspGD	UniProtKB:Q5BD33	ANIA_01547	PMID:18331473		GO:0019679	propionate metabolic process, methylcitrate cycle	IGI	AspGD:ASPL0000001166		PANTHER:PTHR43609	20091110		NCBITaxon:227321
+AspGD	UniProtKB:Q5BD33	ANIA_01547	PMID:18331473		GO:0019679	propionate metabolic process, methylcitrate cycle	IMP			PANTHER:PTHR43609	20091110		NCBITaxon:227321
+EcoliWiki	EcoCyc:G6199-MONOMER	PrpD	PMID:12473114		GO:0019679	propionate metabolic process, methylcitrate cycle	IDA		EcoCyc:G6199-MONOMER		20100621		NCBITaxon:83333
+EcoliWiki	EcoCyc:G6198-MONOMER	PrpC	PMID:9325432		GO:0019679	propionate metabolic process, methylcitrate cycle	IDA		EcoCyc:G6198-MONOMER		20100621		NCBITaxon:83333
+MTBBASE	UniProtKB:O08395	gltA-3	PMID:16689789		GO:0019679	propionate metabolic process, methylcitrate cycle	IMP				20100707		NCBITaxon:83331
+UniProt	UniProtKB:Q56063	prpC	PMID:10482501		GO:0019679	propionate metabolic process, methylcitrate cycle	IDA			PANTHER:PTHR11739	20150210		NCBITaxon:99287
+UniProt	UniProtKB:Q9TEM3	mcsA	PMID:10712680		GO:0019679	propionate metabolic process, methylcitrate cycle	IDA			PANTHER:PTHR11739	20031001		NCBITaxon:227321
+UniProt	UniProtKB:Q8ZP52	acnA	PMID:11294638		GO:0019679	propionate metabolic process, methylcitrate cycle	IDA			PANTHER:PTHR11670	20150323		NCBITaxon:99287
+UniProt	UniProtKB:Q937N9	prpC	PMID:11495997		GO:0019679	propionate metabolic process, methylcitrate cycle	IDA				20150324		NCBITaxon:106590
+UniProt	UniProtKB:Q937N8	acnM	PMID:11495997		GO:0019679	propionate metabolic process, methylcitrate cycle	TAS				20150323		NCBITaxon:106590
+UniProt	UniProtKB:Q937N6	prpD	PMID:11495997		GO:0019679	propionate metabolic process, methylcitrate cycle	TAS				20150323		NCBITaxon:106590
+UniProt	UniProtKB:Q8NSL3	prpD2	PMID:11976302		GO:0019679	propionate metabolic process, methylcitrate cycle	IDA				20150213		NCBITaxon:196627
+UniProt	UniProtKB:Q8NSL1	prpC2	PMID:11976302		GO:0019679	propionate metabolic process, methylcitrate cycle	IDA				20150211		NCBITaxon:196627
+UniProt	UniProtKB:Q8EJW2	prpC	PMID:14702315		GO:0019679	propionate metabolic process, methylcitrate cycle	TAS			PANTHER:PTHR11739	20150324		NCBITaxon:211586
+UniProt	UniProtKB:H8F0D7	gltA1	PMID:16689789		GO:0019679	propionate metabolic process, methylcitrate cycle	IDA				20150211		NCBITaxon:652616
+UniProt	UniProtKB:H8F0D6	ERDMAN_1266	PMID:16689789		GO:0019679	propionate metabolic process, methylcitrate cycle	IDA				20150213		NCBITaxon:652616
+UniProt	UniProtKB:H8F0D6	ERDMAN_1266	PMID:16689789		GO:0019679	propionate metabolic process, methylcitrate cycle	IMP				20170214		NCBITaxon:652616
+UniProt	UniProtKB:O53166	acn	PMID:17384188		GO:0019679	propionate metabolic process, methylcitrate cycle	TAS			PANTHER:PTHR11670	20150323		NCBITaxon:83332
+UniProt	UniProtKB:I6Y9Q3	prpC	PMID:18375549		GO:0019679	propionate metabolic process, methylcitrate cycle	IMP			PANTHER:PTHR11739	20150216		NCBITaxon:83332
+UniProt	UniProtKB:Q8NQ98	acn	PMID:20647021		GO:0019679	propionate metabolic process, methylcitrate cycle	IDA				20150323		NCBITaxon:196627
+UniProt	UniProtKB:O06581	prpR	PMID:22916289		GO:0019679	propionate metabolic process, methylcitrate cycle	IMP			PANTHER:PTHR46797	20150324		NCBITaxon:83332
+UniProt	UniProtKB:Q5SMF6	acoA	PMID:23106124		GO:0019679	propionate metabolic process, methylcitrate cycle	TAS				20150323		NCBITaxon:300852
+UniProt	UniProtKB:P09339	citB	PMID:23354745		GO:0019679	propionate metabolic process, methylcitrate cycle	TAS			PANTHER:PTHR11670	20150323		NCBITaxon:224308
+UniProt	EcoCyc:G6198-MONOMER	PrpC	PMID:9579066		GO:0019679	propionate metabolic process, methylcitrate cycle	IDA		EcoCyc:G6198-MONOMER		20150210		NCBITaxon:83333
+UniProt	UniProtKB:O34002	gltA	PMID:9579066		GO:0019679	propionate metabolic process, methylcitrate cycle	IDA				20150210		NCBITaxon:56673

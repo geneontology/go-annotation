@@ -1,0 +1,11 @@
+term	file	line
+GO:0019629	hamap2go	HAMAP:MF_01939 > GO:propionate catabolic process, 2-methylcitrate cycle ; GO:0019629
+GO:0019629	interpro2go	InterPro:IPR012694 Propionate--CoA ligase > GO:propionate catabolic process, 2-methylcitrate cycle ; GO:0019629
+GO:0019629	interpro2go	InterPro:IPR012695 2-methylisocitrate lyase > GO:propionate catabolic process, 2-methylcitrate cycle ; GO:0019629
+GO:0019629	interpro2go	InterPro:IPR012704 Signal transduction response regulator, propionate catabolism, transcriptional regulator PrpR > GO:propionate catabolic process, 2-methylcitrate cycle ; GO:0019629
+GO:0019629	interpro2go	InterPro:IPR012709 2-methyl-aconitate isomerase PrpF > GO:propionate catabolic process, 2-methylcitrate cycle ; GO:0019629
+GO:0019629	unirule2go	UniRule:UR000161617 > GO:propionate catabolic process, 2-methylcitrate cycle ; GO:0019629
+GO:0019678	metacyc2go	MetaCyc:PROPIONMET-PWY > GO:propionate metabolic process, methylmalonyl pathway ; GO:0019678
+GO:0019679	metacyc2go	MetaCyc:PWY0-42 > GO:propionate metabolic process, methylcitrate cycle ; GO:0019679
+GO:0019679	interpro2go	InterPro:IPR012705 2-methylcitrate dehydratase PrpD > GO:propionate metabolic process, methylcitrate cycle ; GO:0019679
+GO:0019679	interpro2go	InterPro:IPR012708 2-methylisocitrate dehydratase AcnD, Fe/S-dependent > GO:propionate metabolic process, methylcitrate cycle ; GO:0019679
