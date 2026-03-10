@@ -1,0 +1,5 @@
+term	file	line
+GO:0019656	metacyc2go	MetaCyc:P122-PWY > GO:heterolactic fermentation ; GO:0019656
+GO:0019658	metacyc2go	MetaCyc:P124-PWY > GO:glucose fermentation to lactate and acetate ; GO:0019658
+GO:0019659	wikipedia2go	Wikipedia:Lactic_acid_fermentation > GO:glucose catabolic process to lactate ; GO:0019659
+GO:0019661	metacyc2go	MetaCyc:ANAEROFRUCAT-PWY > GO:homolactic fermentation ; GO:0019661

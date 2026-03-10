@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:2442752	Tigar	PMID:20935145		GO:1904024	negative regulation of glucose catabolic process to lactate via pyruvate	IMP		MGI:MGI:2442752	PANTHER:PTHR46517	20150316	CL:0000746|GO:0019661	NCBITaxon:10090
