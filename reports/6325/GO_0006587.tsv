@@ -1,0 +1,15 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	FB:FBgn0035187	Trhn	PMID:15822093		GO:0006587	serotonin biosynthetic process from L-tryptophan	IDA		FB:FBgn0035187	PANTHER:PTHR11473	20251110		NCBITaxon:7227
+FlyBase	FB:FBgn0035187	Trhn	PMID:17376153		GO:0006587	serotonin biosynthetic process from L-tryptophan	IEP		FB:FBgn0035187	PANTHER:PTHR11473	20220729		NCBITaxon:7227
+FlyBase	FB:FBgn0035187	Trhn	PMID:17376153		GO:0006587	serotonin biosynthetic process from L-tryptophan	IMP		FB:FBgn0035187	PANTHER:PTHR11473	20220729		NCBITaxon:7227
+FlyBase	FB:FBgn0001208	Hn	PMID:17376153		GO:0006587	serotonin biosynthetic process from L-tryptophan	IMP		FB:FBgn0001208	PANTHER:PTHR11473	20220729		NCBITaxon:7227
+FlyBase	FB:FBgn0000422	Ddc	PMID:6133219		GO:0006587	serotonin biosynthetic process from L-tryptophan	IMP		FB:FBgn0000422	PANTHER:PTHR11999	20060803		NCBITaxon:7227
+RGD	RGD:3895	Tph1	PMID:12153488		GO:0006587	serotonin biosynthetic process from L-tryptophan	TAS		RGD:3895	PANTHER:PTHR11473	20050217		NCBITaxon:10116
+RGD	RGD:620640	Cyp2d4	PMID:23098818		GO:0006587	serotonin biosynthetic process from L-tryptophan	IDA		RGD:620640	PANTHER:PTHR24300	20160721		NCBITaxon:10116
+UniProt	UniProtKB:Q6ZJK7	TDC1	PMID:17763868		GO:0006587	serotonin biosynthetic process from L-tryptophan	IDA			PANTHER:PTHR11999	20210430		NCBITaxon:39947
+UniProt	UniProtKB:Q7XHL3	TDC2	PMID:19439571		GO:0006587	serotonin biosynthetic process from L-tryptophan	IDA			PANTHER:PTHR11999	20180704		NCBITaxon:39947
+UniProt	UniProtKB:Q6ZJK7	TDC1	PMID:19439571		GO:0006587	serotonin biosynthetic process from L-tryptophan	IDA			PANTHER:PTHR11999	20180704		NCBITaxon:39947
+UniProt	UniProtKB:Q2QUC5	CYP71P1	PMID:20150424		GO:0006587	serotonin biosynthetic process from L-tryptophan	IDA			PANTHER:PTHR47952	20180704		NCBITaxon:39947
+UniProt	UniProtKB:Q2QUC5	CYP71P1	PMID:23521226		GO:0006587	serotonin biosynthetic process from L-tryptophan	IDA			PANTHER:PTHR47952	20180704		NCBITaxon:39947
+UniProt	UniProtKB:Q6ZJK7	TDC1	PMID:32595985		GO:0006587	serotonin biosynthetic process from L-tryptophan	IDA			PANTHER:PTHR11999	20210430		NCBITaxon:39947
+WB	WB:WBGene00006600	tph-1	PMID:10676966		GO:0006587	serotonin biosynthetic process from L-tryptophan	IMP	WB:WBVar00088923	WB:WBGene00006600	PANTHER:PTHR11473	20060209		NCBITaxon:6239
