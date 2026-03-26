@@ -1,0 +1,13 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+DisProt	UniProtKB:O95433	AHSA1	PMID:37486705		GO:0036506	maintenance of unfolded protein	EXP		UniProtKB:O95433	PANTHER:PTHR13009	20220228		NCBITaxon:9606
+DisProt	UniProtKB:O95433	AHSA1	PMID:37486705		GO:0036506	maintenance of unfolded protein	IDA		UniProtKB:O95433	PANTHER:PTHR13009	20220228		NCBITaxon:9606
+EcoCyc	EcoCyc:G7744-MONOMER	Hsp33	PMID:14685279		GO:0036506	maintenance of unfolded protein	IDA		EcoCyc:G7744-MONOMER		20160706		NCBITaxon:83333
+EcoCyc	EcoCyc:G7744-MONOMER	Hsp33	PMID:22385960		GO:0036506	maintenance of unfolded protein	IDA		EcoCyc:G7744-MONOMER		20160706		NCBITaxon:83333
+EcoCyc	EcoCyc:EG10985-MONOMER	SurA	PMID:26344570		GO:0036506	maintenance of unfolded protein	IDA		EcoCyc:EG10985-MONOMER		20241103		NCBITaxon:83333
+EcoCyc	EcoCyc:SECB	SecB	PMID:2834066		GO:0036506	maintenance of unfolded protein	IMP		EcoCyc:SECB		20211202		NCBITaxon:83333
+EcoCyc	EcoCyc:SECB	SecB	PMID:2848249		GO:0036506	maintenance of unfolded protein	IDA		EcoCyc:SECB		20211202		NCBITaxon:83333
+EcoCyc	EcoCyc:G6268-MONOMER	CnoX	PMID:29754824		GO:0036506	maintenance of unfolded protein	IDA		EcoCyc:G6268-MONOMER		20180620		NCBITaxon:83333
+ParkinsonsUK-UCL	UniProtKB:Q7L5D6	GET4	PMID:21636303		GO:0036506	maintenance of unfolded protein	IMP		UniProtKB:Q7L5D6	PANTHER:PTHR12875	20231121	GO:0036503	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P46379	BAG6	PMID:21636303		GO:0036506	maintenance of unfolded protein	IMP		UniProtKB:P46379	PANTHER:PTHR15204	20231121	GO:0036503	NCBITaxon:9606
+ParkinsonsUK-UCL	ComplexPortal:CPX-132	bag6-ubl4a-get4_human	PMID:21636303		GO:0036506	maintenance of unfolded protein	IMP				20231121	GO:0036503	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q92995	USP13	PMID:24424410		GO:0036506	maintenance of unfolded protein	IMP		UniProtKB:Q92995	PANTHER:PTHR24006	20231121	GO:0036503	NCBITaxon:9606

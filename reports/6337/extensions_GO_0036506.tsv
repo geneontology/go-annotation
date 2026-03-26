@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ParkinsonsUK-UCL	UniProtKB:P46379	BAG6	PMID:21636303		GO:0140597	protein carrier chaperone	IDA		UniProtKB:P46379	PANTHER:PTHR15204	20241101	GO:0036506	NCBITaxon:9606
