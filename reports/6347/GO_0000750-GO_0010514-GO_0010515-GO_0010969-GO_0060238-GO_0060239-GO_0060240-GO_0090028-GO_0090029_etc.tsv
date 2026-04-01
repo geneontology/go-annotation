@@ -1,0 +1,115 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CGD	CGD:CAL0000174954	CAG1	PMID:1569935|CGD_REF:CAL0082132		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IGI	SGD:S000001047		PANTHER:PTHR10218	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000201162	FAR1	PMID:18346117|CGD_REF:CAL0118920		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP				20140625		NCBITaxon:237561
+CGD	CGD:CAL0000180995	STE4	PMID:18658257|CGD_REF:CAL0119356		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP			PANTHER:PTHR19850	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000174954	CAG1	PMID:18658257|CGD_REF:CAL0119356		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP			PANTHER:PTHR10218	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000188496	CST5	PMID:21221248|CGD_REF:CAL0141177		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP				20140625		NCBITaxon:237561
+CGD	CGD:CAL0000188496	CST5	PMID:21221248|CGD_REF:CAL0141177		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IGI	CGD:CAL0005777|CGD:CAL0005756|CGD:CAL0005224			20140625		NCBITaxon:237561
+CGD	CGD:CAL0000188496	CST5	PMID:21221248|CGD_REF:CAL0141177		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IPI	CGD:CAL0005756|CGD:CAL0005777|CGD:CAL0005224			20140625		NCBITaxon:237561
+CGD	CGD:CAL0000188496	CST5	PMID:21249169|CGD_REF:CAL0141189		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP				20140625		NCBITaxon:237561
+CGD	CGD:CAL0000188496	CST5	PMID:21249169|CGD_REF:CAL0141189		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IGI	CGD:CAL0002805			20140625		NCBITaxon:237561
+CGD	CGD:CAL0000188496	CST5	PMID:21249169|CGD_REF:CAL0141189		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IPI	CGD:CAL0002805			20140625		NCBITaxon:237561
+CGD	CGD:CAL0000176630	STE2	PMID:21998194|CGD_REF:CAL0000143467		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP			PANTHER:PTHR28009	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000198617	STE18	PMID:24489040|CGD_REF:CAL0000173772		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP			PANTHER:PTHR28189	20140625		NCBITaxon:237561
+ComplexPortal	SGD:S000217968	CPX-1646	PMID:12960402		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IDA				20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000005738	STE4	PMID:12960402		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IDA		SGD:S000005738	PANTHER:PTHR19850	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000003846	STE18	PMID:12960402		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IDA		SGD:S000003846	PANTHER:PTHR28189	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000001047	GPA1	PMID:12960402		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IDA		SGD:S000001047	PANTHER:PTHR10218	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000217967	CPX-1645	PMID:8417317		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	NAS				20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000005738	STE4	PMID:8417317		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	NAS		SGD:S000005738	PANTHER:PTHR19850	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000003846	STE18	PMID:8417317		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	NAS		SGD:S000003846	PANTHER:PTHR28189	20240827		NCBITaxon:559292
+SGD	SGD:S000004219	CDC42	PMID:11003652		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP		SGD:S000004219	PANTHER:PTHR24072	20130807		NCBITaxon:559292
+SGD	SGD:S000003272	KSS1	PMID:11583629		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP		SGD:S000003272	PANTHER:PTHR24055	20130807		NCBITaxon:559292
+SGD	SGD:S000003616	SCP160	PMID:14536090		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IGI	SGD:S000001047	SGD:S000003616	PANTHER:PTHR10627	20130807		NCBITaxon:559292
+SGD	SGD:S000000999	STE20	PMID:1464311		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IGI	SGD:S000005738	SGD:S000000999	PANTHER:PTHR48015	20130807		NCBITaxon:559292
+SGD	SGD:S000000999	STE20	PMID:1464311		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP		SGD:S000000999	PANTHER:PTHR48015	20130807		NCBITaxon:559292
+SGD	SGD:S000000112	FUS3	PMID:15620357		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IDA		SGD:S000000112	PANTHER:PTHR24055	20141028		NCBITaxon:559292
+SGD	SGD:S000002258	GET3	PMID:18261907		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP		SGD:S000002258	PANTHER:PTHR10803	20130807		NCBITaxon:559292
+SGD	SGD:S000000563	FYV5	PMID:20195295		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP		SGD:S000000563		20130807		NCBITaxon:559292
+SGD	SGD:S000028518	ADF1	PMID:20195295		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP		SGD:S000028518		20130807		NCBITaxon:559292
+SGD	SGD:S000002164	PTC1	PMID:20400943		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP		SGD:S000002164	PANTHER:PTHR13832	20130807		NCBITaxon:559292
+SGD	SGD:S000005738	STE4	PMID:2107073		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IGI	SGD:S000001047	SGD:S000005738	PANTHER:PTHR19850	20170828		NCBITaxon:559292
+SGD	SGD:S000005738	STE4	PMID:2107073		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IGI	SGD:S000003846	SGD:S000005738	PANTHER:PTHR19850	20170828		NCBITaxon:559292
+SGD	SGD:S000005738	STE4	PMID:2107073		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP		SGD:S000005738	PANTHER:PTHR19850	20170828		NCBITaxon:559292
+SGD	SGD:S000003846	STE18	PMID:2107073		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IGI	SGD:S000005738	SGD:S000003846	PANTHER:PTHR28189	20170828		NCBITaxon:559292
+SGD	SGD:S000001047	GPA1	PMID:2107073		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IGI	SGD:S000005738	SGD:S000001047	PANTHER:PTHR10218	20170828		NCBITaxon:559292
+SGD	SGD:S000001661	STE3	PMID:3006051		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP		SGD:S000001661	PANTHER:PTHR28097	20130807		NCBITaxon:559292
+SGD	SGD:S000001868	STE2	PMID:3037311		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP		SGD:S000001868	PANTHER:PTHR28009	20130807		NCBITaxon:559292
+SGD	SGD:S000001047	GPA1	PMID:3113739		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP		SGD:S000001047	PANTHER:PTHR10218	20130807		NCBITaxon:559292
+SGD	SGD:S000003846	STE18	PMID:3151178		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP		SGD:S000003846	PANTHER:PTHR28189	20130807		NCBITaxon:559292
+SGD	SGD:S000005089	MFA2	PMID:3285180		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP		SGD:S000005089		20130807		NCBITaxon:559292
+SGD	SGD:S000002869	MFA1	PMID:3285180		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP		SGD:S000002869		20130807		NCBITaxon:559292
+SGD	SGD:S000003057	MF(ALPHA)2	PMID:3887136		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP		SGD:S000003057		20130807		NCBITaxon:559292
+SGD	SGD:S000006108	MF(ALPHA)1	PMID:3887136		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP		SGD:S000006108		20130807		NCBITaxon:559292
+SGD	SGD:S000005653	RGA1	PMID:7498791		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IGI	SGD:S000004219	SGD:S000005653	PANTHER:PTHR23176	20190509		NCBITaxon:559292
+SGD	SGD:S000000039	CDC24	PMID:7565673		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IGI	SGD:S000004219	SGD:S000000039	PANTHER:PTHR47339	20210408		NCBITaxon:559292
+SGD	SGD:S000000039	CDC24	PMID:7565673		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP		SGD:S000000039	PANTHER:PTHR47339	20210408		NCBITaxon:559292
+SGD	SGD:S000002510	STE5	PMID:8062390		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IDA		SGD:S000002510		20130807		NCBITaxon:559292
+SGD	SGD:S000000112	FUS3	PMID:8384702		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IDA		SGD:S000000112	PANTHER:PTHR24055	20191106		NCBITaxon:559292
+SGD	SGD:S000002318	STE7	PMID:8384702		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IDA		SGD:S000002318	PANTHER:PTHR48013	20191106		NCBITaxon:559292
+SGD	SGD:S000004354	STE11	PMID:8455599		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP		SGD:S000004354	PANTHER:PTHR11584	20130807		NCBITaxon:559292
+SGD	SGD:S000000537	STE50	PMID:8793874		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP		SGD:S000000537		20130807		NCBITaxon:559292
+SGD	SGD:S000005117	MDG1	PMID:8914522		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP		SGD:S000005117	PANTHER:PTHR10343	20130807		NCBITaxon:559292
+UniProt	UniProtKB:Q870J1	Q870J1	PMID:12909353		GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	NAS				20060606		NCBITaxon:4754
+PomBase	PomBase:SPAC6F12.02	rst2	PMID:10982411		GO:0010514	induction of conjugation with cellular fusion	IMP		PomBase:SPAC6F12.02	PANTHER:PTHR40626	20170728		NCBITaxon:4896
+PomBase	PomBase:SPBC1D7.05	byr2	PMID:1435723		GO:0010514	induction of conjugation with cellular fusion	IMP		PomBase:SPBC1D7.05	PANTHER:PTHR11584	20130219		NCBITaxon:4896
+PomBase	PomBase:SPBC32C12.02	ste11	PMID:15713656		GO:0010514	induction of conjugation with cellular fusion	IMP		PomBase:SPBC32C12.02	PANTHER:PTHR45803	20141202	GO:0006995	NCBITaxon:4896
+PomBase	PomBase:SPBC32C12.02	ste11	PMID:1657709		GO:0010514	induction of conjugation with cellular fusion	IMP		PomBase:SPBC32C12.02	PANTHER:PTHR45803	20130219		NCBITaxon:4896
+PomBase	PomBase:SPCC297.03	ssp1	PMID:22375066		GO:0010514	induction of conjugation with cellular fusion	EXP		PomBase:SPCC297.03	PANTHER:PTHR24343	20210512		NCBITaxon:4896
+PomBase	PomBase:SPCC74.03c	ssp2	PMID:22375066		GO:0010514	induction of conjugation with cellular fusion	EXP		PomBase:SPCC74.03c	PANTHER:PTHR24343	20210515		NCBITaxon:4896
+PomBase	PomBase:SPCC1919.03c	amk2	PMID:22375066		GO:0010514	induction of conjugation with cellular fusion	EXP		PomBase:SPCC1919.03c	PANTHER:PTHR10343	20210512		NCBITaxon:4896
+PomBase	PomBase:SPAC1556.08c	cbs2	PMID:22375066		GO:0010514	induction of conjugation with cellular fusion	EXP		PomBase:SPAC1556.08c	PANTHER:PTHR13780	20210512		NCBITaxon:4896
+PomBase	PomBase:SPAC11E3.06	map1	PMID:2328719		GO:0010514	induction of conjugation with cellular fusion	IMP		PomBase:SPAC11E3.06	PANTHER:PTHR48019	20120224		NCBITaxon:4896
+PomBase	PomBase:SPBC23G7.09	mat1-Mc	PMID:7651414		GO:0010514	induction of conjugation with cellular fusion	IMP		PomBase:SPBC23G7.09	PANTHER:PTHR10270	20160208		NCBITaxon:4896
+PomBase	PomBase:SPCC1795.06	map2	PMID:9034336		GO:0010514	induction of conjugation with cellular fusion	IDA		PomBase:SPCC1795.06		20161003		NCBITaxon:4896
+PomBase	PomBase:SPAC1296.03c	sxa2	PMID:10792724		GO:0010515	negative regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPAC1296.03c	PANTHER:PTHR11802	20121126		NCBITaxon:4896
+PomBase	PomBase:SPCC1753.02c	git3	PMID:11014802		GO:0010515	negative regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPCC1753.02c	PANTHER:PTHR23112	20180216		NCBITaxon:4896
+PomBase	PomBase:SPAC23H3.13c	gpa2	PMID:11014802		GO:0010515	negative regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPAC23H3.13c	PANTHER:PTHR10218	20180216		NCBITaxon:4896
+PomBase	PomBase:SPBC215.04	git11	PMID:11238401		GO:0010515	negative regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPBC215.04	PANTHER:PTHR28189	20180216		NCBITaxon:4896
+PomBase	PomBase:SPBC32H8.07	git5	PMID:11238401		GO:0010515	negative regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPBC32H8.07	PANTHER:PTHR19850	20180216		NCBITaxon:4896
+PomBase	PomBase:SPCC1322.08	srk1	PMID:12080074		GO:0010515	negative regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPCC1322.08	PANTHER:PTHR44167	20151021	GO:0034599	NCBITaxon:4896
+PomBase	PomBase:SPCC1322.08	srk1	PMID:12080074		GO:0010515	negative regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPCC1322.08	PANTHER:PTHR44167	20151021	GO:0071470	NCBITaxon:4896
+PomBase	PomBase:SPAC24B11.06c	sty1	PMID:12080074		GO:0010515	negative regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPAC24B11.06c	PANTHER:PTHR24055	20170908	GO:0034599	NCBITaxon:4896
+PomBase	PomBase:SPAC24B11.06c	sty1	PMID:12080074		GO:0010515	negative regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPAC24B11.06c	PANTHER:PTHR24055	20170908	GO:0071470	NCBITaxon:4896
+PomBase	PomBase:SPBC21C3.20c	git1	PMID:16489217		GO:0010515	negative regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPBC21C3.20c	PANTHER:PTHR47263	20180216		NCBITaxon:4896
+PomBase	PomBase:SPBC19C7.03	cyr1	PMID:1863602		GO:0010515	negative regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPBC19C7.03	PANTHER:PTHR45752	20180216		NCBITaxon:4896
+PomBase	PomBase:SPAC1952.05	gcn5	PMID:19056896		GO:0010515	negative regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPAC1952.05	PANTHER:PTHR45750	20120822		NCBITaxon:4896
+PomBase	PomBase:SPBC216.07c	tor2	PMID:20634885		GO:0010515	negative regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPBC216.07c	PANTHER:PTHR11139	20160114		NCBITaxon:4896
+PomBase	PomBase:SPCC1902.01	gaf1	PMID:22900017		GO:0010515	negative regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPCC1902.01	PANTHER:PTHR10071	20140731	PomBase:SPBC32C12.02	NCBITaxon:4896
+PomBase	PomBase:SPBC19C2.05	pat1	PMID:2328719		GO:0010515	negative regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPBC19C2.05	PANTHER:PTHR24343	20110826		NCBITaxon:4896
+PomBase	PomBase:SPBC16H5.07c	ppa2	PMID:29079657		GO:0010515	negative regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPBC16H5.07c	PANTHER:PTHR45619	20190207		NCBITaxon:4896
+PomBase	PomBase:SPBC216.07c	tor2	PMID:29079657		GO:0010515	negative regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPBC216.07c	PANTHER:PTHR11139	20190207		NCBITaxon:4896
+PomBase	PomBase:SPAC227.07c	pab1	PMID:29079657		GO:0010515	negative regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPAC227.07c	PANTHER:PTHR11871	20190207		NCBITaxon:4896
+PomBase	PomBase:SPAC1952.05	gcn5	PMID:29079657		GO:0010515	negative regulation of induction of conjugation with cellular fusion	IGI	PomBase:SPBC216.07c	PomBase:SPAC1952.05	PANTHER:PTHR45750	20190404		NCBITaxon:4896
+PomBase	PomBase:SPBC19C7.03	cyr1	PMID:8001162		GO:0010515	negative regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPBC19C7.03	PANTHER:PTHR45752	20111017		NCBITaxon:4896
+PomBase	PomBase:SPBC19C2.05	pat1	PMID:8001162		GO:0010515	negative regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPBC19C2.05	PANTHER:PTHR24343	20111017		NCBITaxon:4896
+PomBase	PomBase:SPBC32H8.07	git5	PMID:8804400		GO:0010515	negative regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPBC32H8.07	PANTHER:PTHR19850	20130201		NCBITaxon:4896
+PomBase	PomBase:SPBC19C2.05	pat1	PMID:8945514		GO:0010515	negative regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPBC19C2.05	PANTHER:PTHR24343	20141205		NCBITaxon:4896
+CGD	CGD:CAL0000197549	SAP30	PMID:19675652|CGD_REF:CAL0123947		GO:0010969	regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP			PANTHER:PTHR47966	20140625		NCBITaxon:237561
+ComplexPortal	SGD:S000218194	CPX-977	PMID:10087263		GO:0010969	regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion	NAS				20250501		NCBITaxon:559292
+ComplexPortal	SGD:S000000039	CDC24	PMID:10087263		GO:0010969	regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion	NAS		SGD:S000000039	PANTHER:PTHR47339	20250501		NCBITaxon:559292
+ComplexPortal	SGD:S000005738	STE4	PMID:10087263		GO:0010969	regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion	NAS		SGD:S000005738	PANTHER:PTHR19850	20250501		NCBITaxon:559292
+ComplexPortal	SGD:S000003846	STE18	PMID:10087263		GO:0010969	regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion	NAS		SGD:S000003846	PANTHER:PTHR28189	20250501		NCBITaxon:559292
+ComplexPortal	SGD:S000003693	FAR1	PMID:10087263		GO:0010969	regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion	NAS		SGD:S000003693		20250501		NCBITaxon:559292
+SGD	SGD:S000000926	DSE1	PMID:19820940		GO:0010969	regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP		SGD:S000000926	PANTHER:PTHR44489	20130807		NCBITaxon:559292
+CGD	CGD:CAL0000191382	CPP1	PMID:30787119|CGD_REF:CAL0000215701		GO:0090029	negative regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP			PANTHER:PTHR10159	20190401		NCBITaxon:237561
+SGD	SGD:S000006100	PPQ1	PMID:24309106		GO:0090029	negative regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP		SGD:S000006100	PANTHER:PTHR11668	20131216		NCBITaxon:559292
+SGD	SGD:S000001201	KEL1	PMID:34965431		GO:0090029	negative regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP		SGD:S000001201	PANTHER:PTHR23244	20220225		NCBITaxon:559292
+SGD	SGD:S000002672	AKR1	PMID:8524293		GO:0090029	negative regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion	IGI	SGD:S000001047	SGD:S000002672	PANTHER:PTHR24161	20180518		NCBITaxon:559292
+SGD	SGD:S000002672	AKR1	PMID:8649369		GO:0090029	negative regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion	IMP		SGD:S000002672	PANTHER:PTHR24161	20180518		NCBITaxon:559292
+PomBase	PomBase:SPAC8C9.14	prr1	PMID:11129048		GO:1900237	positive regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPAC8C9.14	PANTHER:PTHR10015	20170804		NCBITaxon:4896
+PomBase	PomBase:SPAC6F12.02	rst2	PMID:11739717		GO:1900237	positive regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPAC6F12.02	PANTHER:PTHR40626	20180216		NCBITaxon:4896
+PomBase	PomBase:SPAC8C9.14	prr1	PMID:12723602		GO:1900237	positive regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPAC8C9.14	PANTHER:PTHR10015	20170804		NCBITaxon:4896
+PomBase	PomBase:SPCC24B10.07	gad8	PMID:12805221		GO:1900237	positive regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPCC24B10.07	PANTHER:PTHR24351	20210413		NCBITaxon:4896
+PomBase	PomBase:SPBC16G5.15c	fkh2	PMID:18059475		GO:1900237	positive regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPBC16G5.15c	PANTHER:PTHR45881	20111019		NCBITaxon:4896
+PomBase	PomBase:SPBC14C8.17c	spt8	PMID:19056896		GO:1900237	positive regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPBC14C8.17c	PANTHER:PTHR44156	20120822		NCBITaxon:4896
+PomBase	PomBase:SPBC23G7.09	mat1-Mc	PMID:2900761		GO:1900237	positive regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPBC23G7.09	PANTHER:PTHR10270	20140618		NCBITaxon:4896
+PomBase	PomBase:SPAC10F6.16	igo1	PMID:29079657		GO:1900237	positive regulation of induction of conjugation with cellular fusion	IGI	PomBase:SPAC227.07c	PomBase:SPAC10F6.16	PANTHER:PTHR10358	20190207		NCBITaxon:4896
+PomBase	PomBase:SPAPB18E9.02c	ppk18	PMID:29079657		GO:1900237	positive regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPAPB18E9.02c	PANTHER:PTHR24356	20190207		NCBITaxon:4896
+PomBase	PomBase:SPCC24B10.07	gad8	PMID:29079657		GO:1900237	positive regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPCC24B10.07	PANTHER:PTHR24351	20190207		NCBITaxon:4896
+PomBase	PomBase:SPBC30D10.10c	tor1	PMID:29079657		GO:1900237	positive regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPBC30D10.10c	PANTHER:PTHR11139	20190207		NCBITaxon:4896
+PomBase	PomBase:SPBC23G7.09	mat1-Mc	PMID:8196631		GO:1900237	positive regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPBC23G7.09	PANTHER:PTHR10270	20180428		NCBITaxon:4896
+PomBase	PomBase:SPBC32C12.02	ste11	PMID:8196631		GO:1900237	positive regulation of induction of conjugation with cellular fusion	IMP		PomBase:SPBC32C12.02	PANTHER:PTHR45803	20180428		NCBITaxon:4896
+SGD	SGD:S000003130	SUT1	PMID:23872066		GO:1900237	positive regulation of induction of conjugation with cellular fusion	IGI	SGD:S000006213	SGD:S000003130		20220216		NCBITaxon:559292
+SGD	SGD:S000006213	SUT2	PMID:23872066		GO:1900237	positive regulation of induction of conjugation with cellular fusion	IGI	SGD:S000003130	SGD:S000006213		20220215		NCBITaxon:559292
+SGD	SGD:S000006213	SUT2	PMID:23872066		GO:1900237	positive regulation of induction of conjugation with cellular fusion	IMP		SGD:S000006213		20220215		NCBITaxon:559292

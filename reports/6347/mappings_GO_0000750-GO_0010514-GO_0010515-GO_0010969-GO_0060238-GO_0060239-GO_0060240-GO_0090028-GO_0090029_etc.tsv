@@ -1,0 +1,5 @@
+term	file	line
+GO:0000750	interpro2go	InterPro:IPR016326 Mating factor alpha > GO:pheromone-dependent signal transduction involved in conjugation with cellular fusion ; GO:0000750
+GO:0000750	interpro2go	InterPro:IPR035296 Mating hormone A-factor 1/2 > GO:pheromone-dependent signal transduction involved in conjugation with cellular fusion ; GO:0000750
+GO:0000750	interpro2go	InterPro:IPR041848 Guanine nucleotide-binding protein subunit gamma, fungal > GO:pheromone-dependent signal transduction involved in conjugation with cellular fusion ; GO:0000750
+GO:0000750	unirule2go	UniRule:UR000142757 > GO:pheromone-dependent signal transduction involved in conjugation with cellular fusion ; GO:0000750
