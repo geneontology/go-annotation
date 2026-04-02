@@ -1,0 +1,29 @@
+term	file	line
+GO:0008374	interpro2go	InterPro:IPR003386 Lecithin:cholesterol/phospholipid:diacylglycerol acyltransferase > GO:O-acyltransferase activity ; GO:0008374
+GO:0008374	interpro2go	InterPro:IPR007130 Diacylglycerol acyltransferase > GO:O-acyltransferase activity ; GO:0008374
+GO:0008374	interpro2go	InterPro:IPR014371 Sterol O-acyltransferase, ACAT/DAG/ARE types > GO:O-acyltransferase activity ; GO:0008374
+GO:0008374	interpro2go	InterPro:IPR017088 Wax synthase, Magnoliopsida > GO:O-acyltransferase activity ; GO:0008374
+GO:0008374	interpro2go	InterPro:IPR022284 Glycerol-3-phosphate O-acyltransferase/Dihydroxyacetone phosphate acyltransferase > GO:O-acyltransferase activity ; GO:0008374
+GO:0008374	interpro2go	InterPro:IPR044851 Wax synthase > GO:O-acyltransferase activity ; GO:0008374
+GO:0008374	interpro2go	InterPro:IPR045034 O-acyltransferase WSD1-like > GO:O-acyltransferase activity ; GO:0008374
+GO:0008374	interpro2go	InterPro:IPR045252 Lysophosphatidylcholine acyltransferase LPCAT1-like > GO:O-acyltransferase activity ; GO:0008374
+GO:0008374	reactome2go	Reactome:R-HSA-1482775 > GO:O-acyltransferase activity ; GO:0008374
+GO:0008374	reactome2go	Reactome:R-HSA-1482781 > GO:O-acyltransferase activity ; GO:0008374
+GO:0008374	reactome2go	Reactome:R-HSA-1482850 > GO:O-acyltransferase activity ; GO:0008374
+GO:0008374	reactome2go	Reactome:R-HSA-1482861 > GO:O-acyltransferase activity ; GO:0008374
+GO:0008374	reactome2go	Reactome:R-HSA-1482867 > GO:O-acyltransferase activity ; GO:0008374
+GO:0008374	reactome2go	Reactome:R-HSA-162683 > GO:O-acyltransferase activity ; GO:0008374
+GO:0008374	reactome2go	Reactome:R-HSA-3238694 > GO:O-acyltransferase activity ; GO:0008374
+GO:0008374	reactome2go	Reactome:R-HSA-422017 > GO:O-acyltransferase activity ; GO:0008374
+GO:0008374	reactome2go	Reactome:R-HSA-422104 > GO:O-acyltransferase activity ; GO:0008374
+GO:0008374	reactome2go	Reactome:R-HSA-5358343 > GO:O-acyltransferase activity ; GO:0008374
+GO:0008374	reactome2go	Reactome:R-HSA-5483229 > GO:O-acyltransferase activity ; GO:0008374
+GO:0016410	interpro2go	InterPro:IPR004563 Apolipoprotein N-acyltransferase > GO:N-acyltransferase activity ; GO:0016410
+GO:0016410	interpro2go	InterPro:IPR007691 UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase LpxD > GO:N-acyltransferase activity ; GO:0016410
+GO:0016410	interpro2go	InterPro:IPR059110 Apolipoprotein N-acyltransferase, campylobacterales > GO:N-acyltransferase activity ; GO:0016410
+GO:0016410	hamap2go	HAMAP:MF_01148 > GO:N-acyltransferase activity ; GO:0016410
+GO:0016410	reactome2go	Reactome:R-HSA-177160 > GO:N-acyltransferase activity ; GO:0016410
+GO:0016410	reactome2go	Reactome:R-HSA-6792572 > GO:N-acyltransferase activity ; GO:0016410
+GO:0016410	reactome2go	Reactome:R-HSA-9858752 > GO:N-acyltransferase activity ; GO:0016410
+GO:0016410	unirule2go	UniRule:UR000067738 > GO:N-acyltransferase activity ; GO:0016410
+GO:0016410	unirule2go	UniRule:UR001478815 > GO:N-acyltransferase activity ; GO:0016410
