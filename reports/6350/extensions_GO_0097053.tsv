@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:2138151	Kmo	PMID:24189070		GO:0004502	kynurenine 3-monooxygenase activity	IMP	MGI:MGI:5569396	MGI:MGI:2138151	PANTHER:PTHR46028	20260108	GO:0097053	NCBITaxon:10090
+MGI	MGI:MGI:1349444	Haao	PMID:28792876		GO:0000334	3-hydroxyanthranilate 3,4-dioxygenase activity	IMP	MGI:MGI:6285800	MGI:MGI:1349444	PANTHER:PTHR15497	20260121	GO:0097053	NCBITaxon:10090
+MGI	MGI:MGI:1918039	Kynu	PMID:28792876		GO:0030429	kynureninase activity	IMP	MGI:MGI:6285803	MGI:MGI:1918039	PANTHER:PTHR14084	20260121	GO:0097053	NCBITaxon:10090
+MGI	MGI:MGI:2386323	Acmsd	PMID:41389767		GO:0016831	carboxy-lyase activity	IMP		MGI:MGI:2386323	PANTHER:PTHR21240	20260119	GO:0097053	NCBITaxon:10090

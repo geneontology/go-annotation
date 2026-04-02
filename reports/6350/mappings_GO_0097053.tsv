@@ -1,0 +1,5 @@
+term	file	line
+GO:0097053	hamap2go	HAMAP:MF_01970 > GO:L-kynurenine catabolic process ; GO:0097053
+GO:0097053	hamap2go	HAMAP:MF_03017 > GO:L-kynurenine catabolic process ; GO:0097053
+GO:0097053	unirule2go	UniRule:UR000107193 > GO:L-kynurenine catabolic process ; GO:0097053
+GO:0097053	unirule2go	UniRule:UR000161614 > GO:L-kynurenine catabolic process ; GO:0097053
