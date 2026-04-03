@@ -1,0 +1,6 @@
+term	file	line
+GO:0006082	interpro2go	InterPro:IPR004372 Acetate/propionate kinase > GO:organic acid metabolic process ; GO:0006082
+GO:0031388	interpro2go	InterPro:IPR004381 Glycerate kinase > GO:organic acid phosphorylation ; GO:0031388
+GO:0031388	interpro2go	InterPro:IPR018193 Glycerate kinase, flavodoxin-like fold > GO:organic acid phosphorylation ; GO:0031388
+GO:0031388	interpro2go	InterPro:IPR036129 Glycerate kinase superfamily > GO:organic acid phosphorylation ; GO:0031388
+GO:0031388	unirule2go	UniRule:UR000129101 > GO:organic acid phosphorylation ; GO:0031388

@@ -1,0 +1,9 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:Q99518	FMO2	PMID:11744609		GO:0006082	organic acid metabolic process	IDA		UniProtKB:Q99518	PANTHER:PTHR23023	20091019		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q01740	FMO1	PMID:15144220		GO:0006082	organic acid metabolic process	IDA		UniProtKB:Q01740	PANTHER:PTHR23023	20091029		NCBITaxon:9606
+BHF-UCL	UniProtKB:P16549	FMO1	PMID:15144220		GO:0006082	organic acid metabolic process	IDA		UniProtKB:P16549	PANTHER:PTHR23023	20091029		NCBITaxon:9823
+BHF-UCL	UniProtKB:P10632	CYP2C8	PMID:19651758		GO:0006082	organic acid metabolic process	IDA		UniProtKB:P10632	PANTHER:PTHR24300	20091202		NCBITaxon:9606
+FlyBase	FB:FBgn0023507	D2hgdh	PMID:25398939		GO:0006082	organic acid metabolic process	IMP		FB:FBgn0023507	PANTHER:PTHR43716	20210117		NCBITaxon:7227
+MGI	MGI:MGI:87867	Acadm	PMID:16121256		GO:0006082	organic acid metabolic process	IMP	MGI:MGI:3692446	MGI:MGI:87867	PANTHER:PTHR48083	20101008		NCBITaxon:10090
+UniProt	UniProtKB:A0A291PQH4	UTG2	PMID:29215010		GO:0016053	organic acid biosynthetic process	IDA				20200428		NCBITaxon:765876
+SGD	SGD:S000004833	ERG8	PMID:200835		GO:0031388	organic acid phosphorylation	IMP		SGD:S000004833	PANTHER:PTHR31814	20130807		NCBITaxon:559292
