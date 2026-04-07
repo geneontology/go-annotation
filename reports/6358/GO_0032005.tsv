@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPAC513.03	mfm2	GO_REF:0000051		GO:0032005	signal transduction involved in positive regulation of conjugation with cellular fusion	NAS		PomBase:SPAC513.03		20050627		NCBITaxon:4896
+PomBase	PomBase:SPBPJ4664.03	mfm3	GO_REF:0000051		GO:0032005	signal transduction involved in positive regulation of conjugation with cellular fusion	NAS		PomBase:SPBPJ4664.03		20050627		NCBITaxon:4896
+PomBase	PomBase:SPAC17H9.09c	ras1	PMID:1563351		GO:0032005	signal transduction involved in positive regulation of conjugation with cellular fusion	IMP		PomBase:SPAC17H9.09c	PANTHER:PTHR24070	20120202		NCBITaxon:4896
+PomBase	PomBase:SPBC646.12c	gap1	PMID:1883874		GO:0032005	signal transduction involved in positive regulation of conjugation with cellular fusion	IMP		PomBase:SPBC646.12c	PANTHER:PTHR14149	20051014		NCBITaxon:4896
+PomBase	PomBase:SPBC21.05c	ral2	PMID:2586528		GO:0032005	signal transduction involved in positive regulation of conjugation with cellular fusion	IGI	PomBase:SPAC17H9.09c	PomBase:SPBC21.05c	PANTHER:PTHR43503	20050720		NCBITaxon:4896
+PomBase	PomBase:SPCC1795.06	map2	PMID:8314086		GO:0032005	signal transduction involved in positive regulation of conjugation with cellular fusion	TAS		PomBase:SPCC1795.06		20050627		NCBITaxon:4896
