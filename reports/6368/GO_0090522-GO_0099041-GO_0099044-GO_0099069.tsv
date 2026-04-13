@@ -1,0 +1,64 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ComplexPortal	ComplexPortal:CPX-4944	exocyst_human-1	PMID:22420621		GO:0090522	vesicle tethering involved in exocytosis	NAS				20251229		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-4943	exocyst_human	PMID:22420621		GO:0090522	vesicle tethering involved in exocytosis	NAS				20251229		NCBITaxon:9606
+ComplexPortal	MGI:MGI:2142527	Exoc8	PMID:22420621		GO:0090522	vesicle tethering involved in exocytosis	NAS		MGI:MGI:2142527	PANTHER:PTHR21426	20250305		NCBITaxon:10090
+ComplexPortal	MGI:MGI:1913732	Exoc2	PMID:22420621		GO:0090522	vesicle tethering involved in exocytosis	NAS		MGI:MGI:1913732	PANTHER:PTHR13043	20250305		NCBITaxon:10090
+ComplexPortal	MGI:MGI:2145645	Exoc5	PMID:22420621		GO:0090522	vesicle tethering involved in exocytosis	NAS		MGI:MGI:2145645	PANTHER:PTHR12100	20250305		NCBITaxon:10090
+ComplexPortal	MGI:MGI:1096376	Exoc4	PMID:22420621		GO:0090522	vesicle tethering involved in exocytosis	NAS		MGI:MGI:1096376	PANTHER:PTHR14146	20250305		NCBITaxon:10090
+ComplexPortal	MGI:MGI:1923164	Exoc6b	PMID:22420621		GO:0090522	vesicle tethering involved in exocytosis	NAS		MGI:MGI:1923164	PANTHER:PTHR12702	20250305		NCBITaxon:10090
+ComplexPortal	MGI:MGI:1351611	Exoc6	PMID:22420621		GO:0090522	vesicle tethering involved in exocytosis	NAS		MGI:MGI:1351611	PANTHER:PTHR12702	20250305		NCBITaxon:10090
+ComplexPortal	UniProtKB:Q96KP1	EXOC2	PMID:22420621		GO:0090522	vesicle tethering involved in exocytosis	NAS		UniProtKB:Q96KP1	PANTHER:PTHR13043	20251229		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9Y2D4	EXOC6B	PMID:22420621		GO:0090522	vesicle tethering involved in exocytosis	NAS		UniProtKB:Q9Y2D4	PANTHER:PTHR12702	20251229		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9NV70	EXOC1	PMID:22420621		GO:0090522	vesicle tethering involved in exocytosis	NAS		UniProtKB:Q9NV70	PANTHER:PTHR16092	20251229		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9UPT5	EXOC7	PMID:22420621		GO:0090522	vesicle tethering involved in exocytosis	NAS		UniProtKB:Q9UPT5	PANTHER:PTHR12542	20251229		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q96A65	EXOC4	PMID:22420621		GO:0090522	vesicle tethering involved in exocytosis	NAS		UniProtKB:Q96A65	PANTHER:PTHR14146	20251229		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q8IYI6	EXOC8	PMID:22420621		GO:0090522	vesicle tethering involved in exocytosis	NAS		UniProtKB:Q8IYI6	PANTHER:PTHR21426	20251229		NCBITaxon:9606
+ComplexPortal	MGI:MGI:2443972	Exoc3	PMID:22420621		GO:0090522	vesicle tethering involved in exocytosis	NAS		MGI:MGI:2443972	PANTHER:PTHR21292	20250305		NCBITaxon:10090
+ComplexPortal	MGI:MGI:1859270	Exoc7	PMID:22420621		GO:0090522	vesicle tethering involved in exocytosis	NAS		MGI:MGI:1859270	PANTHER:PTHR12542	20250305		NCBITaxon:10090
+ComplexPortal	ComplexPortal:CPX-4983	exocyst_mouse-1	PMID:22420621		GO:0090522	vesicle tethering involved in exocytosis	NAS				20250305		NCBITaxon:10090
+ComplexPortal	ComplexPortal:CPX-4982	exocyst_mouse	PMID:22420621		GO:0090522	vesicle tethering involved in exocytosis	NAS				20250305		NCBITaxon:10090
+ComplexPortal	MGI:MGI:2445020	Exoc1	PMID:22420621		GO:0090522	vesicle tethering involved in exocytosis	NAS		MGI:MGI:2445020	PANTHER:PTHR16092	20250305		NCBITaxon:10090
+ComplexPortal	UniProtKB:O60645	EXOC3	PMID:22420621		GO:0090522	vesicle tethering involved in exocytosis	NAS		UniProtKB:O60645	PANTHER:PTHR21292	20251229		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q8TAG9	EXOC6	PMID:22420621		GO:0090522	vesicle tethering involved in exocytosis	NAS		UniProtKB:Q8TAG9	PANTHER:PTHR12702	20251229		NCBITaxon:9606
+ComplexPortal	UniProtKB:O00471	EXOC5	PMID:22420621		GO:0090522	vesicle tethering involved in exocytosis	NAS		UniProtKB:O00471	PANTHER:PTHR12100	20251229		NCBITaxon:9606
+ComplexPortal	WB:WBGene00013687	exoc-8	PMID:24192838		GO:0090522	vesicle tethering involved in exocytosis	IMP		WB:WBGene00013687	PANTHER:PTHR21426	20240827		NCBITaxon:6239
+ComplexPortal	ComplexPortal:CPX-712	exocyst_caeel	PMID:24192838		GO:0090522	vesicle tethering involved in exocytosis	IMP				20240827		NCBITaxon:6239
+ComplexPortal	WB:WBGene00017284	sec-6	PMID:24192838		GO:0090522	vesicle tethering involved in exocytosis	IMP		WB:WBGene00017284	PANTHER:PTHR21292	20240827		NCBITaxon:6239
+ComplexPortal	WB:WBGene00016376	sec-10	PMID:24192838		GO:0090522	vesicle tethering involved in exocytosis	IMP		WB:WBGene00016376	PANTHER:PTHR12100	20240827		NCBITaxon:6239
+ComplexPortal	WB:WBGene00016188	sec-15	PMID:24192838		GO:0090522	vesicle tethering involved in exocytosis	IMP		WB:WBGene00016188	PANTHER:PTHR12702	20240827		NCBITaxon:6239
+ComplexPortal	WB:WBGene00004753	sec-8	PMID:24192838		GO:0090522	vesicle tethering involved in exocytosis	IMP		WB:WBGene00004753	PANTHER:PTHR14146	20240827		NCBITaxon:6239
+ComplexPortal	WB:WBGene00004752	sec-5	PMID:24192838		GO:0090522	vesicle tethering involved in exocytosis	IMP		WB:WBGene00004752	PANTHER:PTHR13043	20240827		NCBITaxon:6239
+ComplexPortal	WB:WBGene00018703	sec-3	PMID:24192838		GO:0090522	vesicle tethering involved in exocytosis	IMP		WB:WBGene00018703	PANTHER:PTHR16092	20240827		NCBITaxon:6239
+ComplexPortal	WB:WBGene00016606	exoc-7	PMID:24192838		GO:0090522	vesicle tethering involved in exocytosis	IMP		WB:WBGene00016606	PANTHER:PTHR12542	20240827		NCBITaxon:6239
+ComplexPortal	FB:FBgn0290418	Exo84	PMID:25453831		GO:0090522	vesicle tethering involved in exocytosis	NAS		FB:FBgn0290418		20240827		NCBITaxon:7227
+ComplexPortal	FB:FBgg0000107	EXOC	PMID:25453831		GO:0090522	vesicle tethering involved in exocytosis	NAS				20240827		NCBITaxon:7227
+ComplexPortal	FB:FBgn0266674	Sec15	PMID:25453831		GO:0090522	vesicle tethering involved in exocytosis	NAS		FB:FBgn0266674	PANTHER:PTHR12702	20240827		NCBITaxon:7227
+ComplexPortal	FB:FBgn0266673	Sec10	PMID:25453831		GO:0090522	vesicle tethering involved in exocytosis	NAS		FB:FBgn0266673	PANTHER:PTHR12100	20240827		NCBITaxon:7227
+ComplexPortal	FB:FBgn0266672	Sec8	PMID:25453831		GO:0090522	vesicle tethering involved in exocytosis	NAS		FB:FBgn0266672	PANTHER:PTHR14146	20240827		NCBITaxon:7227
+ComplexPortal	FB:FBgn0266671	Sec6	PMID:25453831		GO:0090522	vesicle tethering involved in exocytosis	NAS		FB:FBgn0266671	PANTHER:PTHR21292	20240827		NCBITaxon:7227
+ComplexPortal	FB:FBgn0266670	Sec5	PMID:25453831		GO:0090522	vesicle tethering involved in exocytosis	NAS		FB:FBgn0266670	PANTHER:PTHR13043	20240827		NCBITaxon:7227
+ComplexPortal	FB:FBgn0266669	Sec3	PMID:25453831		GO:0090522	vesicle tethering involved in exocytosis	NAS		FB:FBgn0266669	PANTHER:PTHR16092	20240827		NCBITaxon:7227
+ComplexPortal	FB:FBgn0266667	Exo70	PMID:25453831		GO:0090522	vesicle tethering involved in exocytosis	NAS		FB:FBgn0266667	PANTHER:PTHR12542	20240827		NCBITaxon:7227
+PomBase	PomBase:SPAC17G8.12	sec3	PMID:22768263		GO:0090522	vesicle tethering involved in exocytosis	IMP		PomBase:SPAC17G8.12		20120716		NCBITaxon:4896
+PomBase	PomBase:SPAC17G8.12	sec3	PMID:22891673		GO:0090522	vesicle tethering involved in exocytosis	IMP		PomBase:SPAC17G8.12		20130430		NCBITaxon:4896
+PomBase	PomBase:SPAC17G8.12	sec3	PMID:30726745		GO:0090522	vesicle tethering involved in exocytosis	EXP		PomBase:SPAC17G8.12		20190514		NCBITaxon:4896
+PomBase	PomBase:SPBC23G7.08c	rga7	PMID:41144523		GO:0090522	vesicle tethering involved in exocytosis	EXP		PomBase:SPBC23G7.08c	PANTHER:PTHR23176	20251210		NCBITaxon:4896
+PomBase	PomBase:SPAC688.07c	rng10	PMID:41144523		GO:0090522	vesicle tethering involved in exocytosis	EXP		PomBase:SPAC688.07c		20251210		NCBITaxon:4896
+WB	WB:WBGene00000089	aex-6	PMID:22527519		GO:0090522	vesicle tethering involved in exocytosis	IMP		WB:WBGene00000089	PANTHER:PTHR47977	20140821		NCBITaxon:6239
+FlyBase	FB:FBgn0039188	Golgin84	PMID:36103876		GO:0099041	vesicle tethering to Golgi	IMP		FB:FBgn0039188	PANTHER:PTHR13815	20221201		NCBITaxon:7227
+FlyBase	FB:FBgn0027287	Gmap	PMID:36103876		GO:0099041	vesicle tethering to Golgi	IMP		FB:FBgn0027287	PANTHER:PTHR18921	20221201		NCBITaxon:7227
+FlyBase	FB:FBgn0029912	Tmf	PMID:36103876		GO:0099041	vesicle tethering to Golgi	IMP		FB:FBgn0029912	PANTHER:PTHR46515	20221201		NCBITaxon:7227
+UniProt	UniProtKB:Q15643	TRIP11	PMID:25473115		GO:0099041	vesicle tethering to Golgi	IMP		UniProtKB:Q15643	PANTHER:PTHR18921	20190627		NCBITaxon:9606
+UniProt	UniProtKB:Q9NUY8	TBC1D23	PMID:29426865		GO:0099041	vesicle tethering to Golgi	IDA		UniProtKB:Q9NUY8	PANTHER:PTHR13297	20180816		NCBITaxon:9606
+UniProt	UniProtKB:Q9HAS0	C17orf75	PMID:29426865		GO:0099041	vesicle tethering to Golgi	IDA		UniProtKB:Q9HAS0	PANTHER:PTHR14416	20180816		NCBITaxon:9606
+UniProt	UniProtKB:Q9BZH6	WDR11	PMID:29426865		GO:0099041	vesicle tethering to Golgi	IDA		UniProtKB:Q9BZH6	PANTHER:PTHR14593	20180816		NCBITaxon:9606
+UniProt	UniProtKB:Q658Y4	FAM91A1	PMID:29426865		GO:0099041	vesicle tethering to Golgi	IDA		UniProtKB:Q658Y4	PANTHER:PTHR28441	20180816		NCBITaxon:9606
+UOS_MCB	UniProtKB:Q14849	STARD3	PMID:28377464		GO:0099044	vesicle tethering to endoplasmic reticulum	EXP		UniProtKB:Q14849	PANTHER:PTHR46121	20250826		NCBITaxon:9606
+UniProt	UniProtKB:Q14849	STARD3	PMID:24105263		GO:0099044	vesicle tethering to endoplasmic reticulum	IDA		UniProtKB:Q14849	PANTHER:PTHR46121	20170530		NCBITaxon:9606
+UniProt	UniProtKB:O95772	STARD3NL	PMID:24105263		GO:0099044	vesicle tethering to endoplasmic reticulum	IDA		UniProtKB:O95772	PANTHER:PTHR46121	20170530		NCBITaxon:9606
+UniProt	UniProtKB:Q14849	STARD3	PMID:28377464		GO:0099044	vesicle tethering to endoplasmic reticulum	IDA		UniProtKB:Q14849	PANTHER:PTHR46121	20170530		NCBITaxon:9606
+FlyBase	FB:FBgn0259246	brp	PMID:20980589		GO:0099069	synaptic vesicle tethering involved in synaptic vesicle exocytosis	IDA		FB:FBgn0259246	PANTHER:PTHR18861	20250609		NCBITaxon:7227
+FlyBase	FB:FBgn0025726	unc-13	PMID:27526206		GO:0099069	synaptic vesicle tethering involved in synaptic vesicle exocytosis	IMP		FB:FBgn0025726	PANTHER:PTHR10480	20180426		NCBITaxon:7227
+UniProt	MGI:MGI:2384571	Cplx3	PMID:30782781		GO:0099069	synaptic vesicle tethering involved in synaptic vesicle exocytosis	IMP		MGI:MGI:2384571	PANTHER:PTHR16705	20250616		NCBITaxon:10090
+UniProt	FB:FBgn0041605	cpx	PMID:30782781		GO:0099069	synaptic vesicle tethering involved in synaptic vesicle exocytosis	IMP		FB:FBgn0041605	PANTHER:PTHR16705	20250616		NCBITaxon:7227
+UniProt	FB:FBgn0259246	brp	PMID:30782781		GO:0099069	synaptic vesicle tethering involved in synaptic vesicle exocytosis	IMP		FB:FBgn0259246	PANTHER:PTHR18861	20250616		NCBITaxon:7227

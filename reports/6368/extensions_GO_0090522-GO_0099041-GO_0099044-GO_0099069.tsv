@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPBC106.20	exo70	PMID:28765280		GO:0005546	phosphatidylinositol-4,5-bisphosphate binding	TAS		PomBase:SPBC106.20	PANTHER:PTHR12542	20170814	GO:0005886|GO:0090522	NCBITaxon:4896
+PomBase	PomBase:SPAC17G8.12	sec3	PMID:28765280		GO:0005546	phosphatidylinositol-4,5-bisphosphate binding	TAS		PomBase:SPAC17G8.12		20170814	GO:0005886|GO:0090522	NCBITaxon:4896
+PomBase	PomBase:SPAC688.07c	rng10	PMID:41144523		GO:0030674	protein-macromolecule adaptor activity	EXP		PomBase:SPAC688.07c		20251206	GO:0000090|PomBase:SPAC6G10.05c|GO:0032154|GO:0090522	NCBITaxon:4896
+UOS_MCB	UniProtKB:Q14849	STARD3	PMID:28377464		GO:0120020	cholesterol transfer activity	IDA		UniProtKB:Q14849	PANTHER:PTHR46121	20250826	GO:0030301|GO:0099044|CHEBI:16113|CHEBI:16113	NCBITaxon:9606
+UOS_MCB	UniProtKB:Q14849	STARD3	PMID:28377464		GO:0030301	cholesterol transport	IDA		UniProtKB:Q14849	PANTHER:PTHR46121	20250826	GO:0099044	NCBITaxon:9606
