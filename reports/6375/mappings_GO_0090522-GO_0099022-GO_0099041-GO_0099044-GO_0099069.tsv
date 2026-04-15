@@ -1,0 +1,6 @@
+term	file	line
+GO:0090522	interpro2go	InterPro:IPR007225 Exocyst complex component EXOC6/Sec15 > GO:vesicle tethering involved in exocytosis ; GO:0090522
+GO:0090522	interpro2go	InterPro:IPR039682 Exocyst complex component Sec8/EXOC4 > GO:vesicle tethering involved in exocytosis ; GO:0090522
+GO:0090522	unirule2go	UniRule:UR000459766 > GO:vesicle tethering involved in exocytosis ; GO:0090522
+GO:0090522	unirule2go	UniRule:UR001419783 > GO:vesicle tethering involved in exocytosis ; GO:0090522
+GO:0099041	interpro2go	InterPro:IPR028280 Protein Njmu-R1 > GO:vesicle tethering to Golgi ; GO:0099041
