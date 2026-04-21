@@ -1,0 +1,17 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CGD	CGD:CAL0000183382	IST2	PMID:40415905|CGD_REF:CAL0000247309		GO:0061817	endoplasmic reticulum-plasma membrane tethering	IMP			PANTHER:PTHR12308	20250630		NCBITaxon:237561
+CGD	CGD:CAL0000196336	TCB1	PMID:40415905|CGD_REF:CAL0000247309		GO:0061817	endoplasmic reticulum-plasma membrane tethering	IMP			PANTHER:PTHR46980	20250630		NCBITaxon:237561
+CGD	CGD:CAL0000192091	TCB3	PMID:40415905|CGD_REF:CAL0000247309		GO:0061817	endoplasmic reticulum-plasma membrane tethering	IMP			PANTHER:PTHR46980	20250630		NCBITaxon:237561
+CGD	CGD:CAL0000181174	SPF1	PMID:40415905|CGD_REF:CAL0000247309		GO:0061817	endoplasmic reticulum-plasma membrane tethering	IMP			PANTHER:PTHR45630	20250630		NCBITaxon:237561
+PomBase	PomBase:SPBC16G5.05c	scs2	PMID:23041194		GO:0061817	endoplasmic reticulum-plasma membrane tethering	IMP		PomBase:SPBC16G5.05c	PANTHER:PTHR10809	20161218		NCBITaxon:4896
+PomBase	PomBase:SPAC17C9.12	scs22	PMID:23041194		GO:0061817	endoplasmic reticulum-plasma membrane tethering	IMP		PomBase:SPAC17C9.12	PANTHER:PTHR10809	20161218		NCBITaxon:4896
+PomBase	PomBase:SPBC16G5.05c	scs2	PMID:26877082		GO:0061817	endoplasmic reticulum-plasma membrane tethering	IMP		PomBase:SPBC16G5.05c	PANTHER:PTHR10809	20170417		NCBITaxon:4896
+PomBase	PomBase:SPAC17C9.12	scs22	PMID:26877082		GO:0061817	endoplasmic reticulum-plasma membrane tethering	IMP		PomBase:SPAC17C9.12	PANTHER:PTHR10809	20170417		NCBITaxon:4896
+PomBase	PomBase:SPCC736.15	pil1	PMID:32023460		GO:0061817	endoplasmic reticulum-plasma membrane tethering	IMP		PomBase:SPCC736.15	PANTHER:PTHR31962	20200319		NCBITaxon:4896
+PomBase	PomBase:SPBC16G5.05c	scs2	PMID:32023460		GO:0061817	endoplasmic reticulum-plasma membrane tethering	IMP		PomBase:SPBC16G5.05c	PANTHER:PTHR10809	20200319		NCBITaxon:4896
+PomBase	PomBase:SPAC3H5.09c	hob2	PMID:34415038		GO:0061817	endoplasmic reticulum-plasma membrane tethering	TAS		PomBase:SPAC3H5.09c	PANTHER:PTHR15678	20210823		NCBITaxon:4896
+PomBase	PomBase:SPAC17C9.12	scs22	PMID:39110593		GO:0061817	endoplasmic reticulum-plasma membrane tethering	EXP		PomBase:SPAC17C9.12	PANTHER:PTHR10809	20241101		NCBITaxon:4896
+TAIR	AGI_LocusCode:AT2G20990	SYT1	PMID:30126867		GO:0061817	endoplasmic reticulum-plasma membrane tethering	IMP		AGI_LocusCode:AT2G20990		20180828		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G04220	SYT3	PMID:33944955		GO:0061817	endoplasmic reticulum-plasma membrane tethering	IDA		AGI_LocusCode:AT5G04220		20220119		NCBITaxon:3702
+UniProt	UniProtKB:Q8IUY3	GRAMD2A	PMID:29469807		GO:0061817	endoplasmic reticulum-plasma membrane tethering	IDA		UniProtKB:Q8IUY3	PANTHER:PTHR46973	20180903		NCBITaxon:9606
+UniProt	UniProtKB:Q9P0L0	VAPA	PMID:33124732		GO:0061817	endoplasmic reticulum-plasma membrane tethering	IDA		UniProtKB:Q9P0L0	PANTHER:PTHR10809	20230601		NCBITaxon:9606

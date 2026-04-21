@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPBC16G5.05c	scs2	PMID:23041194		GO:0160214	endoplasmic reticulum-plasma membrane adaptor activity	IDA		PomBase:SPBC16G5.05c	PANTHER:PTHR10809	20240911	GO:0061817	NCBITaxon:4896
+PomBase	PomBase:SPAC17C9.12	scs22	PMID:23041194		GO:0160214	endoplasmic reticulum-plasma membrane adaptor activity	IDA		PomBase:SPAC17C9.12	PANTHER:PTHR10809	20240925	GO:0061817	NCBITaxon:4896
+PomBase	PomBase:SPCC736.15	pil1	PMID:32023460		GO:0005515	protein binding	IPI	PomBase:SPBC16G5.05c	PomBase:SPCC736.15	PANTHER:PTHR31962	20200228	GO:0061817	NCBITaxon:4896
+PomBase	PomBase:SPBC16G5.05c	scs2	PMID:32023460		GO:0005515	protein binding	IPI	PomBase:SPCC736.15	PomBase:SPBC16G5.05c	PANTHER:PTHR10809	20200228	GO:0061817	NCBITaxon:4896
+PomBase	PomBase:SPAC3H5.09c	hob2	PMID:34415038		GO:0043495	protein-membrane adaptor activity	TAS		PomBase:SPAC3H5.09c	PANTHER:PTHR15678	20210823	GO:0061817	NCBITaxon:4896
