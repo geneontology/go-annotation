@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+dictyBase	dictyBase:DDB_G0280043	rab8A	PMID:22323285		GO:0140025	contractile vacuole tethering involved in discharge	IMP		dictyBase:DDB_G0280043	PANTHER:PTHR47980	20170505		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0272004	p2xA	PMID:24335649		GO:0140025	contractile vacuole tethering involved in discharge	IMP		dictyBase:DDB_G0272004	PANTHER:PTHR10125	20220315		NCBITaxon:44689
