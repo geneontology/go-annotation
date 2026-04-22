@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+TAIR	AGI_LocusCode:AT2G26350	PEX10	PMID:17215364		GO:0010381	peroxisome-chloroplast membrane tethering	IMP		AGI_LocusCode:AT2G26350		20070620		NCBITaxon:3702
