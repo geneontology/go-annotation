@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	EcoCyc:KDPGALDOL-4OH2OXOGLUTARALDOL-MONOMER	Eda	PMID:9503620		GO:0009255	Entner-Doudoroff pathway through 6-phosphogluconate	EXP		EcoCyc:KDPGALDOL-4OH2OXOGLUTARALDOL-MONOMER		20170418		NCBITaxon:83333
+UniProt	UniProtKB:Q9HK01	Ta0809	PMID:16458304		GO:0009255	Entner-Doudoroff pathway through 6-phosphogluconate	IDA				20140904		NCBITaxon:273075
+UniProt	UniProtKB:Q6L285	PTO0332	PMID:16458304		GO:0009255	Entner-Doudoroff pathway through 6-phosphogluconate	IDA				20140904		NCBITaxon:1122961
+UniProt	UniProtKB:Q9HK01	Ta0809	PMID:16566751		GO:0009255	Entner-Doudoroff pathway through 6-phosphogluconate	IDA				20140903		NCBITaxon:273075

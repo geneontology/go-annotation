@@ -1,0 +1,8 @@
+term	file	line
+GO:0009255	metacyc2go	MetaCyc:PWY-8004 > GO:Entner-Doudoroff pathway through 6-phosphogluconate ; GO:0009255
+GO:0009255	interpro2go	InterPro:IPR004786 6-phosphogluconate dehydratase > GO:Entner-Doudoroff pathway through 6-phosphogluconate ; GO:0009255
+GO:0009255	hamap2go	HAMAP:MF_02094 > GO:Entner-Doudoroff pathway through 6-phosphogluconate ; GO:0009255
+GO:0009255	unirule2go	UniRule:UR000683091 > GO:Entner-Doudoroff pathway through 6-phosphogluconate ; GO:0009255
+GO:0009255	unirule2go	UniRule:UR001995752 > GO:Entner-Doudoroff pathway through 6-phosphogluconate ; GO:0009255
+GO:0061680	metacyc2go	MetaCyc:NPGLUCAT-PWY > GO:Entner-Doudoroff pathway through gluconate to D-glyceraldehyde ; GO:0061680
+GO:0061681	metacyc2go	MetaCyc:PWY-2221 > GO:Entner-Doudoroff pathway through gluconate to D-glyceraldehyde-3-phosphate ; GO:0061681
