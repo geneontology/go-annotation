@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MTBBASE	UniProtKB:P9WIC1	Rv0948c	PMID:18727669		GO:0009095	aromatic amino acid family biosynthetic process, prephenate pathway	IDA			PANTHER:PTHR38041	20110725		NCBITaxon:83332
+TAIR	AGI_LocusCode:AT2G22250	PAT	PMID:20883697		GO:0009095	aromatic amino acid family biosynthetic process, prephenate pathway	IDA		AGI_LocusCode:AT2G22250		20101122		NCBITaxon:3702
+UniProt	UniProtKB:E9L7A5	PPA-AT	PMID:21102469		GO:0009095	aromatic amino acid family biosynthetic process, prephenate pathway	IDA				20120531		NCBITaxon:4102
+UniProt	AGI_LocusCode:AT2G22250	PAT	PMID:21102469		GO:0009095	aromatic amino acid family biosynthetic process, prephenate pathway	IDA		AGI_LocusCode:AT2G22250		20120531		NCBITaxon:3702
