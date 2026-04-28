@@ -1,0 +1,5 @@
+term	file	line
+GO:0045550	unirule2go	UniRule:UR001995838 > GO:geranylgeranyl reductase activity ; GO:0045550
+GO:0045550	interpro2go	InterPro:IPR010253 Geranylgeranyl reductase, plant/prokaryotic > GO:geranylgeranyl reductase activity ; GO:0045550
+GO:0045550	interpro2go	InterPro:IPR011774 Geranylgeranyl reductase, plant/cyanobacteria > GO:geranylgeranyl reductase activity ; GO:0045550
+GO:0045550	interpro2go	InterPro:IPR023590 Digeranylgeranylglycerophospholipid reductase > GO:geranylgeranyl reductase activity ; GO:0045550

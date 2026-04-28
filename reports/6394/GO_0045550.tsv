@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+TIGR	AGI_LocusCode:AT1G74470	CHLP	PMID:9492312		GO:0045550	geranylgeranyl reductase activity	IDA		AGI_LocusCode:AT1G74470		20030417		NCBITaxon:3702
+UniProt	UniProtKB:Q9ZS34	CHLP	PMID:10398704		GO:0045550	geranylgeranyl reductase activity	NAS			PANTHER:PTHR42685	20091204		NCBITaxon:4097
+UniProt	UniProtKB:P42330	AKR1C3	PMID:21187079		GO:0045550	geranylgeranyl reductase activity	IDA		UniProtKB:P42330	PANTHER:PTHR11732	20120122		NCBITaxon:9606
+UniProt	UniProtKB:O60218	AKR1B10	PMID:21187079		GO:0045550	geranylgeranyl reductase activity	IDA		UniProtKB:O60218	PANTHER:PTHR11732	20120122		NCBITaxon:9606
