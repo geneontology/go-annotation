@@ -1,0 +1,4 @@
+term	file	line
+GO:1990456	interpro2go	InterPro:IPR039275 PDZ domain-containing protein 8 > GO:mitochondrion-endoplasmic reticulum membrane tethering ; GO:1990456
+GO:1990456	hamap2go	HAMAP:MF_03102 > GO:mitochondrion-endoplasmic reticulum membrane tethering ; GO:1990456
+GO:1990456	unirule2go	UniRule:UR000106107 > GO:mitochondrion-endoplasmic reticulum membrane tethering ; GO:1990456

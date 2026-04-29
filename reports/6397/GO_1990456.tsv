@@ -1,0 +1,31 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	UniProtKB:Q86VP3	PACS2	PMID:15692567		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	IMP		UniProtKB:Q86VP3	PANTHER:PTHR13280	20170228		NCBITaxon:9606
+ComplexPortal	SGD:S000003187	MDM34	PMID:21945531		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	NAS		SGD:S000003187	PANTHER:PTHR28185	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000000046	GEM1	PMID:21945531		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	NAS		SGD:S000000046	PANTHER:PTHR24072	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000000008	MDM10	PMID:21945531		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	NAS		SGD:S000000008	PANTHER:PTHR28035	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000217827	CPX-3196	PMID:21945531		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	NAS				20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000003929	MMM1	PMID:21945531		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	NAS		SGD:S000003929	PANTHER:PTHR13466	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000005369	MDM12	PMID:21945531		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	NAS		SGD:S000005369	PANTHER:PTHR28204	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000002557	NUM1	PMID:23341591		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	IDA		SGD:S000002557	PANTHER:PTHR28190	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000006287	MDM36	PMID:23341591		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	IDA		SGD:S000006287		20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000348575	CPX-8559	PMID:23341591		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	IDA				20240827		NCBITaxon:559292
+FlyBase	FB:FBgn0030358	Pdzd8	PMID:35831024		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	IMP		FB:FBgn0030358	PANTHER:PTHR21519	20220810		NCBITaxon:7227
+MGI	MGI:MGI:2151208	Selenon	PMID:32661288		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	IMP		MGI:MGI:2151208	PANTHER:PTHR16213	20240508		NCBITaxon:10090
+SGD	SGD:S000003187	MDM34	PMID:19556461		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	IMP		SGD:S000003187	PANTHER:PTHR28185	20140825		NCBITaxon:559292
+SGD	SGD:S000000008	MDM10	PMID:19556461		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	IMP		SGD:S000000008	PANTHER:PTHR28035	20140825		NCBITaxon:559292
+SGD	SGD:S000003929	MMM1	PMID:19556461		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	IMP		SGD:S000003929	PANTHER:PTHR13466	20140825		NCBITaxon:559292
+SGD	SGD:S000005369	MDM12	PMID:19556461		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	IMP		SGD:S000005369	PANTHER:PTHR28204	20140825		NCBITaxon:559292
+SGD	SGD:S000000046	GEM1	PMID:21825164		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	IMP		SGD:S000000046	PANTHER:PTHR24072	20140825		NCBITaxon:559292
+SGD	SGD:S000000046	GEM1	PMID:23682313		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	IMP		SGD:S000000046	PANTHER:PTHR24072	20160218		NCBITaxon:559292
+UniProt	UniProtKB:P49810	PSEN2	PMID:21285369		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	IMP		UniProtKB:P49810	PANTHER:PTHR10202	20181206		NCBITaxon:9606
+UniProt	UniProtKB:O43865	AHCYL1	PMID:27995898		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	IMP		UniProtKB:O43865	PANTHER:PTHR23420	20200615		NCBITaxon:9606
+UniProt	UniProtKB:P16615	ATP2A2	PMID:28890335		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	IDA		UniProtKB:P16615	PANTHER:PTHR42861	20201216		NCBITaxon:9606
+UniProt	UniProtKB:P0DP23	CALM1	PMID:28890335		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	IDA		UniProtKB:P0DP23	PANTHER:PTHR23050	20201216		NCBITaxon:9606
+UniProt	UniProtKB:Q96GC9	VMP1	PMID:28890335		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	IDA		UniProtKB:Q96GC9	PANTHER:PTHR10281	20201216		NCBITaxon:9606
+UniProt	MGI:MGI:2677270	Pdzd8	PMID:29097544		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	IDA		MGI:MGI:2677270	PANTHER:PTHR21519	20171114		NCBITaxon:10090
+UniProt	UniProtKB:Q8NEN9	PDZD8	PMID:29097544		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	IDA		UniProtKB:Q8NEN9	PANTHER:PTHR21519	20171114		NCBITaxon:9606
+dictyBase	dictyBase:DDB_G0278805	DDB_G0278805	PMID:26852331		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	TAS		dictyBase:DDB_G0278805		20161107		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0267830	gemA	PMID:26852331		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	TAS		dictyBase:DDB_G0267830	PANTHER:PTHR24072	20161107		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0274475	DDB_G0274475	PMID:26852331		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	TAS		dictyBase:DDB_G0274475	PANTHER:PTHR28185	20161107		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0285921	DDB_G0285921	PMID:26852331		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	TAS		dictyBase:DDB_G0285921	PANTHER:PTHR13466	20161107		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0278277	DDB_G0278277	PMID:26852331		GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering	TAS		dictyBase:DDB_G0278277	PANTHER:PTHR28204	20161107		NCBITaxon:44689
