@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:97137	Mpo	PMID:10085024		GO:0002149	hypochlorous acid biosynthetic process	IMP	MGI:MGI:2176344	MGI:MGI:97137	PANTHER:PTHR11475	20091018	CL:0000775	NCBITaxon:10090
