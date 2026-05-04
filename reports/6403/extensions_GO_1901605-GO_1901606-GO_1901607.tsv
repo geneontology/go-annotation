@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:2445096	Dhtkd1	PMID:28545977		GO:0016624	oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor	IMP	MGI:MGI:6268324	MGI:MGI:2445096	PANTHER:PTHR23152	20260211	GO:1901606|GO:0005759	NCBITaxon:10090
+MGI	MGI:MGI:108186	Aldh7a1	PMID:32969477		GO:0004043	L-aminoadipate-semialdehyde dehydrogenase [NAD(P)+] activity	IMP	MGI:MGI:6491215	MGI:MGI:108186	PANTHER:PTHR43521	20260211	GO:1901606	NCBITaxon:10090
