@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:A0R5N0	egtB	PMID:20420449		GO:0052704	ergothioneine biosynthesis from histidine via gamma-glutamyl-hercynylcysteine sulfoxide	IDA				20110902		NCBITaxon:246196
+UniProt	UniProtKB:A0R5M9	egtC	PMID:20420449		GO:0052704	ergothioneine biosynthesis from histidine via gamma-glutamyl-hercynylcysteine sulfoxide	IDA				20110902		NCBITaxon:246196
+UniProt	UniProtKB:A0R5M8	egtD	PMID:20420449		GO:0052704	ergothioneine biosynthesis from histidine via gamma-glutamyl-hercynylcysteine sulfoxide	IDA				20110902		NCBITaxon:246196
+UniProt	UniProtKB:A0R5M7	egtE	PMID:20420449		GO:0052704	ergothioneine biosynthesis from histidine via gamma-glutamyl-hercynylcysteine sulfoxide	IDA				20110902		NCBITaxon:246196
