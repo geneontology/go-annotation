@@ -1,0 +1,8 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	FB:FBgn0067317	Cby	PMID:27646273		GO:0097711	ciliary basal body-plasma membrane docking	IGI	FB:FBgn0033447	FB:FBgn0067317	PANTHER:PTHR21533	20170112		NCBITaxon:7227
+FlyBase	FB:FBgn0033447	dila	PMID:27646273		GO:0097711	ciliary basal body-plasma membrane docking	IGI	FB:FBgn0067317	FB:FBgn0033447	PANTHER:PTHR31540	20170112		NCBITaxon:7227
+MGI	MGI:MGI:2384917	Cep290	PMID:27002738		GO:0097711	ciliary basal body-plasma membrane docking	IMP	MGI:MGI:5437082	MGI:MGI:2384917	PANTHER:PTHR18879	20200602	CL:0002518	NCBITaxon:10090
+Reactome	UniProtKB:Q96QF0	RAB3IP	Reactome:R-HSA-5620912		GO:0097711	ciliary basal body-plasma membrane docking	TAS		UniProtKB:Q96QF0	PANTHER:PTHR14430	20251115		NCBITaxon:9606
+UniProt	FB:FBgn0035168	Cep290	PMID:30013109		GO:0097711	ciliary basal body-plasma membrane docking	IMP		FB:FBgn0035168	PANTHER:PTHR18879	20181003		NCBITaxon:7227
+Xenbase	Xenbase:XB-GENE-856300	foxj1.L	PMID:24048590		GO:0097711	ciliary basal body-plasma membrane docking	NAS				20220509		NCBITaxon:8355
+ZFIN	ZFIN:ZDB-GENE-090313-384	pam	PMID:29540787		GO:0097711	ciliary basal body-plasma membrane docking	IMP	ZFIN:ZDB-GENO-180807-2	ZFIN:ZDB-GENE-090313-384		20180807		NCBITaxon:7955
