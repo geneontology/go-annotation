@@ -78,6 +78,14 @@ collected_issues = []
 new_printed_count = 0
 updated_printed_count = 0
 
+## Stable, identifiable User-Agent so GO-side WAF rules can allowlist
+## this workflow narrowly without exempting all of python-requests/*.
+## See geneontology/go-annotation#6416.
+HTTP_HEADERS = {
+    'User-Agent': 'geneontology-go-annotation-action/1.0 '
+                  '(+https://github.com/geneontology/go-annotation)'
+}
+
 ## Return fields.
 rfields = [
            'assigned_by',
@@ -133,7 +141,7 @@ def collect_issues(issues, number: str, event_type: str, printed_ids: set):
 def get_issues(repo: str, event_type: str, start_date: str):
     url = "https://api.github.com/search/issues?q=repo:{}+{}:=>{}+is:issue&type=Issues&per_page=100".format(repo, event_type, start_date)
     #url = "https://api.github.com/repos/{}/issues/{}".format(repo, number)
-    resp = requests.get(url)
+    resp = requests.get(url, headers=HTTP_HEADERS)
     if resp.status_code == 200:
         resp_objs = json.loads(resp.content)
         issues = resp_objs.get("items", [])
@@ -146,7 +154,7 @@ def get_issues(repo: str, event_type: str, start_date: str):
 def get_term_annotation_data(fq: str, term: str):
     url = "http://golr-aux.geneontology.io/solr/select?defType=edismax&qt=standard&indent=on&wt=csv&rows=100000&start=0&fl={}&facet=true&facet.mincount=1&facet.sort=count&json.nl=arrarr&facet.limit=25&hl=true&hl.simple.pre=%3Cem%20class=%22hilite%22%3E&hl.snippets=1000&csv.encapsulator=&csv.separator=%09&csv.header=false&csv.mv.separator=%7C&fq={}:%22{}%22&fq=evidence_closure:%22ECO:0000006%22+OR+evidence_closure:%22ECO:0000204%22&fq=document_category:%22annotation%22&q=*:*".format(','.join(rfields), fq, term)
     LOG.info('url: ' + url)
-    resp = requests.get(url)
+    resp = requests.get(url, headers=HTTP_HEADERS)
     if resp.status_code != 200:
         raise Exception("HTTP error status code: {} for url: {}".format(resp.status_code, url))
     else:
