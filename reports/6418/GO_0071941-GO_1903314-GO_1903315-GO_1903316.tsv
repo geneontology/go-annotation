@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	UniProtKB:O88111	napA	PMID:10227138		GO:0071941	nitrogen cycle metabolic process	IMP				20111104		NCBITaxon:39723
+MGI	MGI:MGI:88039	Apc	PMID:16740478		GO:0071941	nitrogen cycle metabolic process	IMP	MGI:MGI:3521822	MGI:MGI:88039	PANTHER:PTHR12607	20081105	GO:0008152	NCBITaxon:10090
+MGI	MGI:MGI:2155302	Sec63	PMID:21685914		GO:0071941	nitrogen cycle metabolic process	IGI	MGI:MGI:97603	MGI:MGI:2155302	PANTHER:PTHR24075	20210402		NCBITaxon:10090
+MGI	MGI:MGI:97603	Pkd1	PMID:21685914		GO:0071941	nitrogen cycle metabolic process	IGI	MGI:MGI:107877	MGI:MGI:97603	PANTHER:PTHR46730	20210402		NCBITaxon:10090
+MGI	MGI:MGI:97603	Pkd1	PMID:21685914		GO:0071941	nitrogen cycle metabolic process	IGI	MGI:MGI:2155302	MGI:MGI:97603	PANTHER:PTHR46730	20210402		NCBITaxon:10090
+MGI	MGI:MGI:107877	Prkcsh	PMID:21685914		GO:0071941	nitrogen cycle metabolic process	IGI	MGI:MGI:97603	MGI:MGI:107877	PANTHER:PTHR12630	20210402		NCBITaxon:10090
