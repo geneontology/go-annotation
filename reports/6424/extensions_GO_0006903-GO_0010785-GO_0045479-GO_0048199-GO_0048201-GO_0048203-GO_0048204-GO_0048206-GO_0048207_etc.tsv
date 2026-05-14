@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:O75122	CLASP2	PMID:24859005		GO:0045921	positive regulation of exocytosis	IMP		UniProtKB:O75122	PANTHER:PTHR21567	20220204	CL:0000066|GO:0005925|GO:0006903	NCBITaxon:9606
