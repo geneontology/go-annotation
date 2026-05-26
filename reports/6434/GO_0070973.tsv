@@ -1,0 +1,13 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+GeneDB	TriTrypDB:Tb927.3.3850	sec16	PMID:24612401		GO:0070973	protein localization to endoplasmic reticulum exit site	IMP				20140425		NCBITaxon:185431
+MGI	MGI:MGI:101917	Bcap29	PMID:15187134		GO:0070973	protein localization to endoplasmic reticulum exit site	IGI	MGI:MGI:1350933	MGI:MGI:101917	PANTHER:PTHR12701	20140514		NCBITaxon:10090
+MGI	MGI:MGI:1350933	Bcap31	PMID:15187134		GO:0070973	protein localization to endoplasmic reticulum exit site	IGI	MGI:MGI:101917	MGI:MGI:1350933	PANTHER:PTHR12701	20140514		NCBITaxon:10090
+SGD	SGD:S000006006	SEC16	PMID:22675024		GO:0070973	protein localization to endoplasmic reticulum exit site	IMP		SGD:S000006006	PANTHER:PTHR13402	20130807		NCBITaxon:559292
+UniProt	UniProtKB:Q92538	GBF1	PMID:17956946		GO:0070973	protein localization to endoplasmic reticulum exit site	IMP		UniProtKB:Q92538	PANTHER:PTHR10663	20150203		NCBITaxon:9606
+UniProt	UniProtKB:Q5S007	LRRK2	PMID:25201882		GO:0070973	protein localization to endoplasmic reticulum exit site	IMP		UniProtKB:Q5S007	PANTHER:PTHR45752	20180913		NCBITaxon:9606
+UniProt	MGI:MGI:1913975	Lrrk2	PMID:25201882		GO:0070973	protein localization to endoplasmic reticulum exit site	IMP		MGI:MGI:1913975	PANTHER:PTHR45752	20180913		NCBITaxon:10090
+UniProt	UniProtKB:Q96PC5	MIA2	PMID:25202031		GO:0070973	protein localization to endoplasmic reticulum exit site	IMP		UniProtKB:Q96PC5-7	PANTHER:PTHR23158	20181217		NCBITaxon:9606
+UniProt	UniProtKB:Q96PC5	MIA2	PMID:27170179		GO:0070973	protein localization to endoplasmic reticulum exit site	IMP		UniProtKB:Q96PC5-7	PANTHER:PTHR23158	20181217		NCBITaxon:9606
+UniProt	UniProtKB:Q5JRA6	MIA3	PMID:28442536		GO:0070973	protein localization to endoplasmic reticulum exit site	IMP		UniProtKB:Q5JRA6	PANTHER:PTHR23158	20180917		NCBITaxon:9606
+UniProt	UniProtKB:O15027	SEC16A	PMID:28442536		GO:0070973	protein localization to endoplasmic reticulum exit site	IMP		UniProtKB:O15027	PANTHER:PTHR13402	20180917		NCBITaxon:9606
+WB	WB:WBGene00013985	sec-16A.1	PMID:21478858		GO:0070973	protein localization to endoplasmic reticulum exit site	IMP		WB:WBGene00013985	PANTHER:PTHR13402	20160603	UniProtKB:Q9U1W1	NCBITaxon:6239
