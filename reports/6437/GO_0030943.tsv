@@ -1,0 +1,19 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ComplexPortal	ComplexPortal:CPX-6130	tim23_human-2	PMID:10339406		GO:0030943	mitochondrion targeting sequence binding	NAS				20251229		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-6129	tim23_human-1	PMID:10339406		GO:0030943	mitochondrion targeting sequence binding	NAS				20251229		NCBITaxon:9606
+ComplexPortal	SGD:S000299194	CPX-6127	PMID:16107694		GO:0030943	mitochondrion targeting sequence binding	NAS				20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000218020	CPX-539	PMID:16107694		GO:0030943	mitochondrion targeting sequence binding	NAS				20240827		NCBITaxon:559292
+FlyBase	UniProtKB:Q9NS69	TOMM22	PMID:35733257		GO:0030943	mitochondrion targeting sequence binding	IDA		UniProtKB:Q9NS69	PANTHER:PTHR12504	20231218		NCBITaxon:9606
+FlyBase	UniProtKB:Q15388	TOMM20	PMID:35733257		GO:0030943	mitochondrion targeting sequence binding	IDA		UniProtKB:Q15388	PANTHER:PTHR12430	20231218		NCBITaxon:9606
+HGNC-UCL	UniProtKB:Q15388	TOMM20	PMID:14557246		GO:0030943	mitochondrion targeting sequence binding	IDA		UniProtKB:Q15388	PANTHER:PTHR12430	20260220		NCBITaxon:9606
+RGD	RGD:708467	Tomm20	PMID:16511083		GO:0030943	mitochondrion targeting sequence binding	IDA		RGD:708467	PANTHER:PTHR12430	20171220		NCBITaxon:10116
+RGD	RGD:1562006	Tomm40l	PMID:17437969		GO:0030943	mitochondrion targeting sequence binding	IDA		RGD:1562006	PANTHER:PTHR10802	20171221		NCBITaxon:10116
+SGD	SGD:S000005065	TOM70	PMID:11054285		GO:0030943	mitochondrion targeting sequence binding	IMP		SGD:S000005065	PANTHER:PTHR46208	20130807		NCBITaxon:559292
+SGD	SGD:S000002376	TIM22	PMID:11864609		GO:0030943	mitochondrion targeting sequence binding	IDA		SGD:S000002376	PANTHER:PTHR14110	20130807		NCBITaxon:559292
+SGD	SGD:S000005984	TIM50	PMID:18418384		GO:0030943	mitochondrion targeting sequence binding	IDA		SGD:S000005984	PANTHER:PTHR12210	20130807		NCBITaxon:559292
+SGD	SGD:S000005984	TIM50	PMID:19144822		GO:0030943	mitochondrion targeting sequence binding	IDA		SGD:S000005984	PANTHER:PTHR12210	20130807		NCBITaxon:559292
+SGD	SGD:S000005300	TIM23	PMID:8858146		GO:0030943	mitochondrion targeting sequence binding	IDA		SGD:S000005300	PANTHER:PTHR15371	20130807		NCBITaxon:559292
+SGD	SGD:S000005300	TIM23	PMID:8858146		GO:0030943	mitochondrion targeting sequence binding	IMP		SGD:S000005300	PANTHER:PTHR15371	20130807		NCBITaxon:559292
+SGD	SGD:S000003314	TOM20	PMID:9252394		GO:0030943	mitochondrion targeting sequence binding	IDA		SGD:S000003314	PANTHER:PTHR12430	20130807		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT1G13900	PAP2	PMID:26304849		GO:0030943	mitochondrion targeting sequence binding	IPI	AGI_LocusCode:AT1G32580|AGI_LocusCode:AT2G35240|AGI_LocusCode:AT3G06790	AGI_LocusCode:AT1G13900		20160114		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G13900	PAP2	PMID:26304849		GO:0030943	mitochondrion targeting sequence binding	IPI	AGI_LocusCode:AT3G06790	AGI_LocusCode:AT1G13900		20151113		NCBITaxon:3702
