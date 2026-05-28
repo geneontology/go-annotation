@@ -1,0 +1,23 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+GeneDB	TriTrypDB:LmjF.30.3190	HMGR	PMID:14699057		GO:0010142	farnesyl diphosphate biosynthetic process, mevalonate pathway	IMP				20090930		NCBITaxon:347515
+MGI	MGI:MGI:104888	Fdps	PMID:23180723		GO:0010142	farnesyl diphosphate biosynthetic process, mevalonate pathway	IDA		MGI:MGI:104888	PANTHER:PTHR11525	20250908	GO:0033490	NCBITaxon:10090
+MGI	MGI:MGI:104888	Fdps	PMID:23180723		GO:0010142	farnesyl diphosphate biosynthetic process, mevalonate pathway	IDA		MGI:MGI:104888	PANTHER:PTHR11525	20250909		NCBITaxon:10090
+MGI	MGI:MGI:104888	Fdps	PMID:3189812		GO:0010142	farnesyl diphosphate biosynthetic process, mevalonate pathway	IDA		MGI:MGI:104888	PANTHER:PTHR11525	20250908	GO:0033490	NCBITaxon:10090
+MGI	MGI:MGI:104888	Fdps	PMID:3189812		GO:0010142	farnesyl diphosphate biosynthetic process, mevalonate pathway	IDA		MGI:MGI:104888	PANTHER:PTHR11525	20250909		NCBITaxon:10090
+MGI	MGI:MGI:104888	Fdps	PMID:3189812		GO:0010142	farnesyl diphosphate biosynthetic process, mevalonate pathway	IDA		MGI:MGI:104888	PANTHER:PTHR11525	20250909	GO:0033386	NCBITaxon:10090
+MGI	MGI:MGI:2442264	Idi1	PMID:3189812		GO:0010142	farnesyl diphosphate biosynthetic process, mevalonate pathway	IDA		MGI:MGI:2442264	PANTHER:PTHR10885	20250908	GO:0033490	NCBITaxon:10090
+MGI	MGI:MGI:2442264	Idi1	PMID:3189812		GO:0010142	farnesyl diphosphate biosynthetic process, mevalonate pathway	IDA		MGI:MGI:2442264	PANTHER:PTHR10885	20250909	GO:0033386	NCBITaxon:10090
+MGI	MGI:MGI:2179327	Mvd	PMID:35671633		GO:0010142	farnesyl diphosphate biosynthetic process, mevalonate pathway	IMP		MGI:MGI:2179327	PANTHER:PTHR10977	20250908		NCBITaxon:10090
+MGI	MGI:MGI:87871	Acat2	PMID:35671633		GO:0010142	farnesyl diphosphate biosynthetic process, mevalonate pathway	IMP		MGI:MGI:87871	PANTHER:PTHR18919	20250908		NCBITaxon:10090
+MGI	MGI:MGI:107592	Hmgcs1	PMID:35671633		GO:0010142	farnesyl diphosphate biosynthetic process, mevalonate pathway	IMP		MGI:MGI:107592	PANTHER:PTHR43323	20250908		NCBITaxon:10090
+MGI	MGI:MGI:1915853	Pmvk	PMID:35671633		GO:0010142	farnesyl diphosphate biosynthetic process, mevalonate pathway	IMP		MGI:MGI:1915853	PANTHER:PTHR13101	20250908		NCBITaxon:10090
+MGI	MGI:MGI:107624	Mvk	PMID:35671633		GO:0010142	farnesyl diphosphate biosynthetic process, mevalonate pathway	IMP		MGI:MGI:107624	PANTHER:PTHR43290	20250908		NCBITaxon:10090
+MGI	MGI:MGI:96159	Hmgcr	PMID:35671633		GO:0010142	farnesyl diphosphate biosynthetic process, mevalonate pathway	IMP		MGI:MGI:96159	PANTHER:PTHR10572	20250908		NCBITaxon:10090
+PomBase	PomBase:SPBC36.06c	spo9	PMID:17596513		GO:0010142	farnesyl diphosphate biosynthetic process, mevalonate pathway	EXP		PomBase:SPBC36.06c	PANTHER:PTHR11525	20240501		NCBITaxon:4896
+PomBase	PomBase:SPAC6F12.13c	fps1	PMID:17596513		GO:0010142	farnesyl diphosphate biosynthetic process, mevalonate pathway	EXP		PomBase:SPAC6F12.13c	PANTHER:PTHR11525	20240619		NCBITaxon:4896
+PomBase	PomBase:SPAC4F8.14c	hcs1	PMID:8750242		GO:0010142	farnesyl diphosphate biosynthetic process, mevalonate pathway	IMP		PomBase:SPAC4F8.14c	PANTHER:PTHR43323	20040618		NCBITaxon:4896
+PomBase	PomBase:SPBPJ4664.01	dps1	PMID:9133618		GO:0010142	farnesyl diphosphate biosynthetic process, mevalonate pathway	IMP		PomBase:SPBPJ4664.01	PANTHER:PTHR12001	20170201		NCBITaxon:4896
+SGD	SGD:S000004833	ERG8	PMID:200835		GO:0010142	farnesyl diphosphate biosynthetic process, mevalonate pathway	IMP		SGD:S000004833	PANTHER:PTHR31814	20130807		NCBITaxon:559292
+SGD	SGD:S000004821	ERG12	PMID:200835		GO:0010142	farnesyl diphosphate biosynthetic process, mevalonate pathway	IMP		SGD:S000004821	PANTHER:PTHR43290	20130807		NCBITaxon:559292
+UniProt	RGD:1359366	Acat2	PMID:10806397		GO:0010142	farnesyl diphosphate biosynthetic process, mevalonate pathway	TAS		RGD:1359366	PANTHER:PTHR18919	20250603		NCBITaxon:10116
+UniProt	UniProtKB:Q9BWD1	ACAT2	PMID:7911016		GO:0010142	farnesyl diphosphate biosynthetic process, mevalonate pathway	IDA		UniProtKB:Q9BWD1	PANTHER:PTHR18919	20250603		NCBITaxon:9606
