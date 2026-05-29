@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:Q9H2X3	CLEC4M	PMID:11257134		GO:0030369	ICAM-3 receptor activity	NAS		UniProtKB:Q9H2X3	PANTHER:PTHR22802	20050308		NCBITaxon:9606
+UniProt	UniProtKB:P20701	ITGAL	PMID:19029120		GO:0030369	ICAM-3 receptor activity	IMP		UniProtKB:P20701	PANTHER:PTHR23220	20140806		NCBITaxon:9606
+UniProt	UniProtKB:P05107	ITGB2	PMID:19029120		GO:0030369	ICAM-3 receptor activity	IMP		UniProtKB:P05107	PANTHER:PTHR10082	20140806		NCBITaxon:9606
