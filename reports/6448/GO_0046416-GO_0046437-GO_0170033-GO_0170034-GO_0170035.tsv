@@ -1,0 +1,13 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoliWiki	EcoCyc:DCYSDESULF-MONOMER	DcyD	PMID:11527960		GO:0046416	D-amino acid metabolic process	IDA		EcoCyc:DCYSDESULF-MONOMER		20090724		NCBITaxon:83333
+UniProt	UniProtKB:P59103	DAOA	PMID:12364586		GO:0046416	D-amino acid metabolic process	IDA		UniProtKB:P59103		20231108	UniProtKB:P14920	NCBITaxon:9606
+UniProt	UniProtKB:C4R6B0	DDO	PMID:20550580		GO:0046416	D-amino acid metabolic process	IMP				20231020		NCBITaxon:644223
+UniProt	UniProtKB:C4R4G9	DAO1	PMID:20550580		GO:0046416	D-amino acid metabolic process	IMP				20231020		NCBITaxon:644223
+UniProt	UniProtKB:A0A499UB99	DAO1	PMID:31420577		GO:0046416	D-amino acid metabolic process	IDA				20231207		NCBITaxon:68825
+UniProt	UniProtKB:A0A499UB99	DAO1	PMID:33135670		GO:0046416	D-amino acid metabolic process	IDA				20231207		NCBITaxon:68825
+UniProt	UniProtKB:P80324	DAO1	PMID:8100225		GO:0046416	D-amino acid metabolic process	IDA				20231020		NCBITaxon:5286
+UniProt	UniProtKB:P19938	dat	PMID:2914916		GO:0046437	D-amino acid biosynthetic process	IDA				20060420		NCBITaxon:72579
+Reactome	UniProtKB:Q86U10	ASPG	Reactome:R-HSA-8963693		GO:0170033	L-amino acid metabolic process	TAS		UniProtKB:Q86U10	PANTHER:PTHR11707	20251115		NCBITaxon:9606
+Reactome	UniProtKB:Q8N9F0	NAT8L	Reactome:R-HSA-8963693		GO:0170033	L-amino acid metabolic process	TAS		UniProtKB:Q8N9F0	PANTHER:PTHR13947	20251115		NCBITaxon:9606
+Reactome	UniProtKB:Q9ULI2	RIMKLB	Reactome:R-HSA-8964539		GO:0170033	L-amino acid metabolic process	TAS		UniProtKB:Q9ULI2	PANTHER:PTHR21621	20251115		NCBITaxon:9606
+Reactome	UniProtKB:Q8IXN7	RIMKLA	Reactome:R-HSA-8964539		GO:0170033	L-amino acid metabolic process	TAS		UniProtKB:Q8IXN7	PANTHER:PTHR21621	20251115		NCBITaxon:9606

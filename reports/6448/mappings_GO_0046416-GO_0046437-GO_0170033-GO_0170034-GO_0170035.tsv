@@ -1,0 +1,10 @@
+term	file	line
+GO:0046416	hamap2go	HAMAP:MF_01030 > GO:D-amino acid metabolic process ; GO:0046416
+GO:0046416	hamap2go	HAMAP:MF_01045 > GO:D-amino acid metabolic process ; GO:0046416
+GO:0046416	unirule2go	UniRule:UR000100519 > GO:D-amino acid metabolic process ; GO:0046416
+GO:0046416	unirule2go	UniRule:UR000100551 > GO:D-amino acid metabolic process ; GO:0046416
+GO:0046416	interpro2go	InterPro:IPR005784 D-amino acid aminotransferase > GO:D-amino acid metabolic process ; GO:0046416
+GO:0046416	interpro2go	InterPro:IPR011780 D-serine ammonia-lyase > GO:D-amino acid metabolic process ; GO:0046416
+GO:0046416	interpro2go	InterPro:IPR023209 D-amino-acid oxidase > GO:D-amino acid metabolic process ; GO:0046416
+GO:0170033	reactome2go	Reactome:R-HSA-8963693 > GO:L-amino acid metabolic process ; GO:0170033
+GO:0170033	reactome2go	Reactome:R-HSA-8964539 > GO:L-amino acid metabolic process ; GO:0170033
