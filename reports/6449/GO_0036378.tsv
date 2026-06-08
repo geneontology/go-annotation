@@ -1,0 +1,10 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:O15528	CYP27B1	PMID:15795327		GO:0036378	calcitriol biosynthetic process from calciol	IDA		UniProtKB:O15528	PANTHER:PTHR24291	20130718	CL:0000359	NCBITaxon:9606
+BHF-UCL	UniProtKB:O15528	CYP27B1	PMID:16549446		GO:0036378	calcitriol biosynthetic process from calciol	IDA		UniProtKB:O15528	PANTHER:PTHR24291	20130718	CL:0002327	NCBITaxon:9606
+BHF-UCL	UniProtKB:O15528	CYP27B1	PMID:17023519		GO:0036378	calcitriol biosynthetic process from calciol	IDA		UniProtKB:O15528	PANTHER:PTHR24291	20130718	CL:0000062	NCBITaxon:9606
+BHF-UCL	UniProtKB:O15528	CYP27B1	PMID:9415400		GO:0036378	calcitriol biosynthetic process from calciol	IDA		UniProtKB:O15528	PANTHER:PTHR24291	20130718	CL:0000312	NCBITaxon:9606
+UniProt	UniProtKB:Q02318	CYP27A1	PMID:15465040		GO:0036378	calcitriol biosynthetic process from calciol	IDA		UniProtKB:Q02318	PANTHER:PTHR24291	20190108		NCBITaxon:9606
+UniProt	UniProtKB:Q6VVX0	CYP2R1	PMID:15465040		GO:0036378	calcitriol biosynthetic process from calciol	IDA		UniProtKB:Q6VVX0	PANTHER:PTHR24300	20190108		NCBITaxon:9606
+UniProt	MGI:MGI:1098274	Cyp27b1	PMID:15972816		GO:0036378	calcitriol biosynthetic process from calciol	IDA		MGI:MGI:1098274	PANTHER:PTHR24291	20191015		NCBITaxon:10090
+UniProt	UniProtKB:Q6VVX0	CYP2R1	PMID:18511070		GO:0036378	calcitriol biosynthetic process from calciol	IDA		UniProtKB:Q6VVX0	PANTHER:PTHR24300	20191220		NCBITaxon:9606
+UniProt	UniProtKB:O15528	CYP27B1	PMID:22862690		GO:0036378	calcitriol biosynthetic process from calciol	IDA		UniProtKB:O15528	PANTHER:PTHR24291	20191015		NCBITaxon:9606
