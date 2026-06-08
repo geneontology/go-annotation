@@ -1,0 +1,7 @@
+term	file	line
+GO:0017186	resid2go	RESID:AA0031 > GO:peptidyl-pyroglutamic acid biosynthetic process, using glutaminyl-peptide cyclotransferase ; GO:0017186
+GO:0017186	interpro2go	InterPro:IPR007788 Glutaminyl-peptide cyclotransferase > GO:peptidyl-pyroglutamic acid biosynthetic process, using glutaminyl-peptide cyclotransferase ; GO:0017186
+GO:0018061	resid2go	RESID:AA0128 > GO:peptidyl-L-3-phenyllactic acid biosynthetic process from peptidyl-phenylalanine ; GO:0018061
+GO:0018083	resid2go	RESID:AA0185 > GO:peptidyl-L-3-oxoalanine biosynthetic process from peptidyl-cysteine or peptidyl-serine ; GO:0018083
+GO:0018173	resid2go	RESID:AA0265 > GO:peptidyl-1-thioglycine biosynthetic process from peptidyl-glycine ; GO:0018173
+GO:0018231	resid2go	RESID:AA0107 > GO:peptidyl-S-diacylglycerol-L-cysteine biosynthetic process from peptidyl-cysteine ; GO:0018231

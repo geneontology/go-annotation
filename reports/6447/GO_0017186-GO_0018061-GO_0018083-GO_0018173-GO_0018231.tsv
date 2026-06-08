@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	UniProtKB:Q9NXS2	QPCTL	PMID:18486145		GO:0017186	peptidyl-pyroglutamic acid biosynthetic process, using glutaminyl-peptide cyclotransferase	IDA		UniProtKB:Q9NXS2	PANTHER:PTHR12283	20120315		NCBITaxon:9606
+UniProt	UniProtKB:Q16769	QPCT	PMID:21288892		GO:0017186	peptidyl-pyroglutamic acid biosynthetic process, using glutaminyl-peptide cyclotransferase	IDA		UniProtKB:Q16769	PANTHER:PTHR12283	20110322		NCBITaxon:9606
+UniProt	UniProtKB:Q9NXS2	QPCTL	PMID:21288892		GO:0017186	peptidyl-pyroglutamic acid biosynthetic process, using glutaminyl-peptide cyclotransferase	IDA		UniProtKB:Q9NXS2	PANTHER:PTHR12283	20110322		NCBITaxon:9606
+UniProt	UniProtKB:B7QK46	Qptc	PMID:23770496		GO:0017186	peptidyl-pyroglutamic acid biosynthetic process, using glutaminyl-peptide cyclotransferase	IDA			PANTHER:PTHR12283	20200623		NCBITaxon:6945
+UniProt	UniProtKB:B7QK46	Qptc	PMID:24598748		GO:0017186	peptidyl-pyroglutamic acid biosynthetic process, using glutaminyl-peptide cyclotransferase	IDA			PANTHER:PTHR12283	20200623		NCBITaxon:6945
