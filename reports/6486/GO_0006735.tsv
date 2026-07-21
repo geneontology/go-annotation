@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+SGD	SGD:S000002236	MDH3	PMID:7628449		GO:0006735	NADH regeneration	IMP		SGD:S000002236	PANTHER:PTHR11540	20140204		NCBITaxon:559292
