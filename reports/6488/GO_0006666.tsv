@@ -1,0 +1,9 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	UniProtKB:Q06136	KDSR	PMID:15364918		GO:0006666	3-keto-sphinganine metabolic process	IDA		UniProtKB:Q06136	PANTHER:PTHR43550	20091215		NCBITaxon:9606
+SGD	SGD:S000007521	TSC3	PMID:10713067		GO:0006666	3-keto-sphinganine metabolic process	IPI	SGD:S000002469|SGD:S000004911	SGD:S000007521		20190301		NCBITaxon:559292
+SGD	SGD:S000000469	TSC10	PMID:9804843		GO:0006666	3-keto-sphinganine metabolic process	IDA		SGD:S000000469	PANTHER:PTHR43550	20130807		NCBITaxon:559292
+UniProt	UniProtKB:Q4WSZ0	ksrA	PMID:16431155		GO:0006666	3-keto-sphinganine metabolic process	IDA		UniProtKB:Q4WSZ0	PANTHER:PTHR43550	20240220		NCBITaxon:330879
+UniProt	SGD:S000000469	TSC10	PMID:16431155		GO:0006666	3-keto-sphinganine metabolic process	IDA		SGD:S000000469	PANTHER:PTHR43550	20240220		NCBITaxon:559292
+UniProt	CGD:CAL0000189000	KSR1	PMID:16431155		GO:0006666	3-keto-sphinganine metabolic process	IDA		CGD:CAL0000189000	PANTHER:PTHR43550	20240220		NCBITaxon:237561
+UniProt	UniProtKB:Q2KIJ5	KDSR	PMID:17420465		GO:0006666	3-keto-sphinganine metabolic process	IDA		UniProtKB:Q2KIJ5	PANTHER:PTHR43550	20240223		NCBITaxon:9913
+UniProt	UniProtKB:Q06136	KDSR	PMID:19141869		GO:0006666	3-keto-sphinganine metabolic process	IMP		UniProtKB:Q06136	PANTHER:PTHR43550	20240223		NCBITaxon:9606
