@@ -1,0 +1,8 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:Q6UB35	MTHFD1L	PMID:12937168		GO:0009257	10-formyltetrahydrofolate biosynthetic process	IDA		UniProtKB:Q6UB35	PANTHER:PTHR48099	20180612		NCBITaxon:9606
+BHF-UCL	UniProtKB:P11586	MTHFD1	PMID:1881876		GO:0009257	10-formyltetrahydrofolate biosynthetic process	IDA		UniProtKB:P11586	PANTHER:PTHR48099	20180612		NCBITaxon:9606
+BHF-UCL	MGI:MGI:1342005	Mthfd1	PMID:23704330		GO:0009257	10-formyltetrahydrofolate biosynthetic process	IMP		MGI:MGI:1342005	PANTHER:PTHR48099	20150324		NCBITaxon:10090
+EcoCyc	EcoCyc:G6862-MONOMER	FolM	PMID:14617668		GO:0009257	10-formyltetrahydrofolate biosynthetic process	EXP		EcoCyc:G6862-MONOMER		20091118		NCBITaxon:83333
+EcoCyc	EcoCyc:FOLC-MONOMER	FolC	PMID:1939056		GO:0009257	10-formyltetrahydrofolate biosynthetic process	EXP		EcoCyc:FOLC-MONOMER		20120523		NCBITaxon:83333
+EcoCyc	EcoCyc:DIHYDROFOLATEREDUCT-MONOMER	FolA	PMID:2838456		GO:0009257	10-formyltetrahydrofolate biosynthetic process	EXP		EcoCyc:DIHYDROFOLATEREDUCT-MONOMER		20120530		NCBITaxon:83333
+PomBase	PomBase:SPBC839.16	thf1	PMID:8226914		GO:0009257	10-formyltetrahydrofolate biosynthetic process	IDA		PomBase:SPBC839.16	PANTHER:PTHR48099	20081211		NCBITaxon:4896
