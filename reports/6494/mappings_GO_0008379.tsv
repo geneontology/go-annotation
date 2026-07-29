@@ -1,0 +1,11 @@
+term	file	line
+GO:0008379	hamap2go	HAMAP:MF_00269 > GO:thioredoxin peroxidase activity ; GO:0008379
+GO:0008379	interpro2go	InterPro:IPR002065 Thiol peroxidase Tpx > GO:thioredoxin peroxidase activity ; GO:0008379
+GO:0008379	interpro2go	InterPro:IPR037944 Peroxiredoxin-5-like > GO:thioredoxin peroxidase activity ; GO:0008379
+GO:0008379	rhea2go	RHEA:63528 > GO:thioredoxin peroxidase activity ; GO:0008379
+GO:0008379	reactome2go	Reactome:R-HSA-3322995 > GO:thioredoxin peroxidase activity ; GO:0008379
+GO:0008379	reactome2go	Reactome:R-HSA-3341343 > GO:thioredoxin peroxidase activity ; GO:0008379
+GO:0008379	reactome2go	Reactome:R-HSA-3697882 > GO:thioredoxin peroxidase activity ; GO:0008379
+GO:0008379	reactome2go	Reactome:R-HSA-3697894 > GO:thioredoxin peroxidase activity ; GO:0008379
+GO:0008379	unirule2go	UniRule:UR000058574 > GO:thioredoxin peroxidase activity ; GO:0008379
+GO:0008379	metacyc2go	MetaCyc:RXN0-267 > GO:thioredoxin peroxidase activity ; GO:0008379
