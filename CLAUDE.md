@@ -52,8 +52,18 @@ The code surface is small. Most commits are issue-template nudges, spec tweaks, 
 ## External services
 
 - **GOlr Solr** — `https://golr-aux.geneontology.io/solr/select?...`. Existing scripts still use `http://` URLs; Cloudflare 301s them to HTTPS and `requests` follows silently, so they keep working. Prefer `https://` in new code. Canonical `fl` field list lives in `annotation-review-report.py`; add new fields there.
+  - **GOlr flattens with/from grouping.** `evidence_with` is a flat multi-valued field, and no value anywhere in the index contains a comma (`fq=evidence_with:*,*` → `numFound: 0`, checked 2026-08-05). So `A,B` (AND) and `A|B` (OR) are indistinguishable by the time a reporter here sees them — see [GPAD 2.0 with/from semantics](#gpad-20-withfrom-column-7-semantics). A report that needs the grouping must read the GPAD/GAF files, not GOlr.
 - **External2go snapshot** — `http://snapshot.geneontology.org/ontology/external2go/`; the `reg` workflow `wget -r`'s it and then prunes specific files (`pfam2go`, `pirsf2go`, …) — mirror that pattern if adding another mapping reporter.
 - **GitHub issue search** — plain REST, `api.github.com/search/issues`. No auth in scripts; rate limits apply, scripts `time.sleep(10)` before calling.
+
+## GPAD 2.0 with/from (column 7) semantics
+
+`specs/gpad-gpi-2-0.md` glosses column 7 in one line — "Pipe-separated entries represent independent evidence; comma-separated entries represent grouped evidence". That is a *compression*, not the whole rule, and the operative statement is not in the spec. Traced 2026-08-05; the sources below save re-digging it.
+
+- **Pipe = OR, comma = AND, precedence is OR-of-ANDs**: `A,B|C,D|E` parses as `(A,B)|(C,D)|E`, and pipe-separated entries are equivalent to separate annotations. Stated by the author of that spec line in [go-annotation#3031](https://github.com/geneontology/go-annotation/issues/3031) (2020-06), three months after writing it. The sentence itself compresses [go-annotation#2349](https://github.com/geneontology/go-annotation/pull/2349) ("The comma means AND, not OR", 2019-05), which is also where the "triply mutant" example comes from.
+- **The fullest published statement is on a superseded page** — [GAF 2.1](https://geneontology.org/docs/go-annotation-file-gaf-format-2.1/), still served but delisted from site nav. GAF 2.2 and the GPAD 2.0 docs page now carry the same short wording as the spec (verbatim identical to each other); the long OR/AND paragraph was narrowed to the annotation-extension column in Oct 2025 — no rationale traced yet in commit, PR, or issue history.
+- **Per-evidence-code operator limits are unstated and unenforced.** GAF 2.1 allowed commas only for IMP/IGI/IPI/IC/IGC. No current spec repeats it, no GORULE checks it (`go-site` `metadata/rules/*.md` contains zero "comma"), and the `with_structure: simple|compound` key in `go-site`'s `eco-usage-constraints.yaml` that encodes the same split is read by nothing. Released files still honour it in practice.
+- For behaviour rather than prose, `ontobio` is the reference parser: `ConjunctiveSet` splits on `|` then `,`, for both GAF and GPAD.
 
 ## Label → workflow wiring
 
