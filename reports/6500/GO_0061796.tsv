@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPAC6G10.05c	trs120	PMID:27082518		GO:0061796	membrane addition at site of mitotic cytokinesis	EXP		PomBase:SPAC6G10.05c	PANTHER:PTHR21512	20160703		NCBITaxon:4896
+PomBase	PomBase:SPAC18G6.03	ypt3	PMID:27082518		GO:0061796	membrane addition at site of mitotic cytokinesis	EXP		PomBase:SPAC18G6.03	PANTHER:PTHR47979	20160703		NCBITaxon:4896
+WB	WB:WBGene00004274	rab-11.1	PMID:11378383		GO:0061796	membrane addition at site of mitotic cytokinesis	IMP		WB:WBGene00004274	PANTHER:PTHR47979	20210701		NCBITaxon:6239
