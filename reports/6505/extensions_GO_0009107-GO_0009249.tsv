@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:1914414	Lipt2	PMID:29987032		GO:0033819	lipoyl(octanoyl) transferase activity	IDA		MGI:MGI:1914414	PANTHER:PTHR10993	20240926	GO:0009249	NCBITaxon:10090
+MGI	MGI:MGI:3645211	Lipt1	PMID:31042466		GO:0016747	acyltransferase activity, transferring groups other than amino-acyl groups	IMP	MGI:MGI:6448947	MGI:MGI:3645211	PANTHER:PTHR12561	20240926	GO:0009249|MGI:MGI:2385311	NCBITaxon:10090
+MGI	MGI:MGI:3645211	Lipt1	PMID:32804083		GO:0016747	acyltransferase activity, transferring groups other than amino-acyl groups	IMP		MGI:MGI:3645211	PANTHER:PTHR12561	20240926	GO:0009249	NCBITaxon:10090

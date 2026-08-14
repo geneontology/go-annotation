@@ -1,0 +1,41 @@
+term	file	line
+GO:0009107	interpro2go	InterPro:IPR003698 Lipoyl synthase > GO:lipoate biosynthetic process ; GO:0009107
+GO:0009107	interpro2go	InterPro:IPR024897 Octanoyltransferase LipL > GO:lipoate biosynthetic process ; GO:0009107
+GO:0009107	interpro2go	InterPro:IPR024898 Octanoyltransferase LipM > GO:lipoate biosynthetic process ; GO:0009107
+GO:0009107	interpro2go	InterPro:IPR027526 Lipoyl synthase, chloroplastic > GO:lipoate biosynthetic process ; GO:0009107
+GO:0009107	interpro2go	InterPro:IPR027527 Lipoyl synthase, mitochondrial > GO:lipoate biosynthetic process ; GO:0009107
+GO:0009107	unirule2go	UniRule:UR000080080 > GO:lipoate biosynthetic process ; GO:0009107
+GO:0009107	unirule2go	UniRule:UR000112906 > GO:lipoate biosynthetic process ; GO:0009107
+GO:0009107	unirule2go	UniRule:UR000159987 > GO:lipoate biosynthetic process ; GO:0009107
+GO:0009107	unirule2go	UniRule:UR000375959 > GO:lipoate biosynthetic process ; GO:0009107
+GO:0009107	unirule2go	UniRule:UR000376419 > GO:lipoate biosynthetic process ; GO:0009107
+GO:0009107	unirule2go	UniRule:UR000376665 > GO:lipoate biosynthetic process ; GO:0009107
+GO:0009107	hamap2go	HAMAP:MF_00206 > GO:lipoate biosynthetic process ; GO:0009107
+GO:0009107	hamap2go	HAMAP:MF_02118 > GO:lipoate biosynthetic process ; GO:0009107
+GO:0009107	hamap2go	HAMAP:MF_02119 > GO:lipoate biosynthetic process ; GO:0009107
+GO:0009107	hamap2go	HAMAP:MF_03123 > GO:lipoate biosynthetic process ; GO:0009107
+GO:0009107	hamap2go	HAMAP:MF_03128 > GO:lipoate biosynthetic process ; GO:0009107
+GO:0009107	hamap2go	HAMAP:MF_03129 > GO:lipoate biosynthetic process ; GO:0009107
+GO:0009249	interpro2go	InterPro:IPR000544 Octanoyltransferase > GO:protein lipoylation ; GO:0009249
+GO:0009249	interpro2go	InterPro:IPR004562 Lipoyltransferase/lipoate-protein ligase > GO:protein lipoylation ; GO:0009249
+GO:0009249	interpro2go	InterPro:IPR020605 Octanoyltransferase, conserved site > GO:protein lipoylation ; GO:0009249
+GO:0009249	interpro2go	InterPro:IPR023741 Lipoate-protein ligase A > GO:protein lipoylation ; GO:0009249
+GO:0009249	interpro2go	InterPro:IPR024897 Octanoyltransferase LipL > GO:protein lipoylation ; GO:0009249
+GO:0009249	interpro2go	InterPro:IPR024898 Octanoyltransferase LipM > GO:protein lipoylation ; GO:0009249
+GO:0009249	unirule2go	UniRule:UR000079207 > GO:protein lipoylation ; GO:0009249
+GO:0009249	unirule2go	UniRule:UR000080080 > GO:protein lipoylation ; GO:0009249
+GO:0009249	unirule2go	UniRule:UR000083076 > GO:protein lipoylation ; GO:0009249
+GO:0009249	unirule2go	UniRule:UR000112906 > GO:protein lipoylation ; GO:0009249
+GO:0009249	unirule2go	UniRule:UR000159987 > GO:protein lipoylation ; GO:0009249
+GO:0009249	unirule2go	UniRule:UR000375959 > GO:protein lipoylation ; GO:0009249
+GO:0009249	unirule2go	UniRule:UR000376419 > GO:protein lipoylation ; GO:0009249
+GO:0009249	unirule2go	UniRule:UR000376665 > GO:protein lipoylation ; GO:0009249
+GO:0009249	reactome2go	Reactome:R-HSA-9857492 > GO:protein lipoylation ; GO:0009249
+GO:0009249	hamap2go	HAMAP:MF_00206 > GO:protein lipoylation ; GO:0009249
+GO:0009249	hamap2go	HAMAP:MF_00272 > GO:protein lipoylation ; GO:0009249
+GO:0009249	hamap2go	HAMAP:MF_01602 > GO:protein lipoylation ; GO:0009249
+GO:0009249	hamap2go	HAMAP:MF_02118 > GO:protein lipoylation ; GO:0009249
+GO:0009249	hamap2go	HAMAP:MF_02119 > GO:protein lipoylation ; GO:0009249
+GO:0009249	hamap2go	HAMAP:MF_03123 > GO:protein lipoylation ; GO:0009249
+GO:0009249	hamap2go	HAMAP:MF_03128 > GO:protein lipoylation ; GO:0009249
+GO:0009249	hamap2go	HAMAP:MF_03129 > GO:protein lipoylation ; GO:0009249
