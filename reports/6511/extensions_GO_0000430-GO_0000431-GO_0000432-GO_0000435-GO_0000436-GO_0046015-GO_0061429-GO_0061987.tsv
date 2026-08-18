@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPBC106.10	pka1	PMID:11739717		GO:0004674	protein serine/threonine kinase activity	IDA		PomBase:SPBC106.10	PANTHER:PTHR24353	20170714	GO:0071333|PomBase:SPAC6F12.02|GO:0061987	NCBITaxon:4896

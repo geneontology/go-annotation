@@ -1,0 +1,26 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:P32728	ylxR	PMID:30355672		GO:0000430	regulation of transcription from RNA polymerase II promoter by glucose	IMP		UniProtKB:P32728	PANTHER:PTHR34215	20260224		NCBITaxon:224308
+ComplexPortal	SGD:S000004515	GAL80	PMID:20979343		GO:0000431	regulation of transcription from RNA polymerase II promoter by galactose	IMP		SGD:S000004515	PANTHER:PTHR43708	20241031		NCBITaxon:559292
+ComplexPortal	SGD:S000217651	CPX-1044	PMID:20979343		GO:0000431	regulation of transcription from RNA polymerase II promoter by galactose	IMP				20241031		NCBITaxon:559292
+ComplexPortal	SGD:S000006169	GAL4	PMID:20979343		GO:0000431	regulation of transcription from RNA polymerase II promoter by galactose	IMP		SGD:S000006169	PANTHER:PTHR47424	20241031		NCBITaxon:559292
+CGD	CGD:CAL0000194052	RTG3	PMID:27614020		GO:0000435	positive regulation of transcription from RNA polymerase II promoter by galactose	IMP		CGD:CAL0000194052	PANTHER:PTHR46117	20161003		NCBITaxon:237561
+CGD	CGD:CAL0000175785	RTG1	PMID:27614020		GO:0000435	positive regulation of transcription from RNA polymerase II promoter by galactose	IMP		CGD:CAL0000175785		20161003		NCBITaxon:237561
+CGD	CGD:CAL0000192709	REP1	PMID:36723430		GO:0000435	positive regulation of transcription from RNA polymerase II promoter by galactose	IDA		CGD:CAL0000192709	PANTHER:PTHR35144	20230309		NCBITaxon:237561
+CGD	CGD:CAL0000189598	CGA1	PMID:36723430		GO:0000435	positive regulation of transcription from RNA polymerase II promoter by galactose	IDA		CGD:CAL0000189598	PANTHER:PTHR13681	20230309		NCBITaxon:237561
+ComplexPortal	SGD:S000004515	GAL80	PMID:1317007		GO:0000435	positive regulation of transcription from RNA polymerase II promoter by galactose	NAS		SGD:S000004515	PANTHER:PTHR43708	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000000224	GAL1	PMID:1317007		GO:0000435	positive regulation of transcription from RNA polymerase II promoter by galactose	NAS		SGD:S000000224	PANTHER:PTHR10457	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000217650	CPX-1043	PMID:1317007		GO:0000435	positive regulation of transcription from RNA polymerase II promoter by galactose	NAS				20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000004515	GAL80	PMID:9111326		GO:0000435	positive regulation of transcription from RNA polymerase II promoter by galactose	IMP		SGD:S000004515	PANTHER:PTHR43708	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000217649	CPX-1042	PMID:9111326		GO:0000435	positive regulation of transcription from RNA polymerase II promoter by galactose	IMP				20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000002416	GAL3	PMID:9111326		GO:0000435	positive regulation of transcription from RNA polymerase II promoter by galactose	IMP		SGD:S000002416	PANTHER:PTHR10457	20240827		NCBITaxon:559292
+UniProt	UniProtKB:Q15788	NCOA1	PMID:10207113		GO:0000435	positive regulation of transcription from RNA polymerase II promoter by galactose	IDA		UniProtKB:Q15788	PANTHER:PTHR10684	20120119		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-467	kiaa0409-suv39h1_human	PMID:18485871		GO:0046015	regulation of transcription by glucose	IMP				20250905		NCBITaxon:9606
+ComplexPortal	UniProtKB:O43159	RRP8	PMID:18485871		GO:0046015	regulation of transcription by glucose	IMP		UniProtKB:O43159	PANTHER:PTHR12787	20250905		NCBITaxon:9606
+ComplexPortal	UniProtKB:O43463	SUV39H1	PMID:18485871		GO:0046015	regulation of transcription by glucose	IMP		UniProtKB:O43463	PANTHER:PTHR46223	20250905		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q96EB6	SIRT1	PMID:18485871		GO:0046015	regulation of transcription by glucose	IMP		UniProtKB:Q96EB6	PANTHER:PTHR11085	20250905		NCBITaxon:9606
+RGD	RGD:2325125	Kpna2l1	PMID:11988093		GO:0046015	regulation of transcription by glucose	IDA		RGD:2325125		20050217		NCBITaxon:10116
+RGD	RGD:621419	Kpna2	PMID:11988093		GO:0046015	regulation of transcription by glucose	IDA		RGD:621419	PANTHER:PTHR23316	20050217		NCBITaxon:10116
+SGD	SGD:S000003222	HXK2	PMID:11311123		GO:0046015	regulation of transcription by glucose	IDA		SGD:S000003222	PANTHER:PTHR19443	20130807		NCBITaxon:559292
+UniProt	UniProtKB:O43159	RRP8	PMID:21471221		GO:0046015	regulation of transcription by glucose	IMP		UniProtKB:O43159	PANTHER:PTHR12787	20110830		NCBITaxon:9606
+CGD	CGD:CAL0000184758	MIG1	PMID:31961865		GO:0061987	negative regulation of transcription from RNA polymerase II promoter by glucose	IGI	CGD:CAL0000190333	CGD:CAL0000184758	PANTHER:PTHR47428	20200225		NCBITaxon:237561
+CGD	CGD:CAL0000190333	MIG2	PMID:31961865		GO:0061987	negative regulation of transcription from RNA polymerase II promoter by glucose	IGI	CGD:CAL0000184758	CGD:CAL0000190333	PANTHER:PTHR47428	20200225		NCBITaxon:237561
