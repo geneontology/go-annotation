@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UOS_MCB	UniProtKB:Q9H300	PARL	PMID:29301859		GO:0004252	serine-type endopeptidase activity	IDA		UniProtKB:Q9H300	PANTHER:PTHR43731	20260409	GO:0034982|GO:1903747|GO:0005743|UniProtKB:Q9NQZ5-PRO_0000220674|GO:0120019	NCBITaxon:9606
+UOS_MCB	UniProtKB:Q9H300	PARL	PMID:29301859		GO:0034982	mitochondrial protein processing	IDA		UniProtKB:Q9H300	PANTHER:PTHR43731	20260218	GO:1903747	NCBITaxon:9606
+FlyBase	FB:FBgn0263987	spoon	PMID:27053724		GO:0140443	mitochondrion-plasma membrane adaptor activity	IGI	FB:FBgn0261618	FB:FBgn0263987	PANTHER:PTHR22948	20240502	GO:0005741|GO:1903749	NCBITaxon:7227
+MGI	MGI:MGI:2181667	Bbc3	PMID:16705087		GO:1903749	positive regulation of protein localization to mitochondrion	IMP	MGI:MGI:2681654	MGI:MGI:2181667	PANTHER:PTHR28639	20120903	GO:1903749|MGI:MGI:99702	NCBITaxon:10090

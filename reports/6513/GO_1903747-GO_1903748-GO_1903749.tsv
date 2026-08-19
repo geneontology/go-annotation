@@ -1,0 +1,69 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ParkinsonsUK-UCL	MGI:MGI:1332659	Bnip3l	PMID:20200478		GO:1903747	regulation of protein localization to mitochondrion	IGI	UniProtKB:Q9Z2F7	MGI:MGI:1332659	PANTHER:PTHR15186	20150121	UniProtKB:Q8R3R8	NCBITaxon:10090
+ParkinsonsUK-UCL	UniProtKB:O60260	PRKN	PMID:20890124		GO:1903747	regulation of protein localization to mitochondrion	NAS		UniProtKB:O60260	PANTHER:PTHR11685	20150215		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9H300	PARL	PMID:21355049		GO:1903747	regulation of protein localization to mitochondrion	IGI	UniProtKB:O60260|UniProtKB:Q9BXM7	UniProtKB:Q9H300	PANTHER:PTHR43731	20150209	UniProtKB:O60260|UniProtKB:Q9BXM7	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9BXM7	PINK1	PMID:21508222		GO:1903747	regulation of protein localization to mitochondrion	IGI	UniProtKB:Q9BXM7	UniProtKB:Q9BXM7	PANTHER:PTHR22972	20150310	CL:0000700|UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9BXM7	PINK1	PMID:23212910		GO:1903747	regulation of protein localization to mitochondrion	IMP		UniProtKB:Q9BXM7	PANTHER:PTHR22972	20150223	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9UII2	ATP5IF1	PMID:24005319		GO:1903747	regulation of protein localization to mitochondrion	IMP		UniProtKB:Q9UII2	PANTHER:PTHR23407	20150210	GO:1903146|UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O00165	HAX1	PMID:24522549		GO:1903747	regulation of protein localization to mitochondrion	TAS		UniProtKB:O00165	PANTHER:PTHR14938	20140828	UniProtKB:O43464	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9H300	PARL	PMID:24522549		GO:1903747	regulation of protein localization to mitochondrion	NAS		UniProtKB:Q9H300	PANTHER:PTHR43731	20140827	UniProtKB:Q9BXM7	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P36956	SREBF1	PMID:24912190		GO:1903747	regulation of protein localization to mitochondrion	IMP		UniProtKB:P36956	PANTHER:PTHR46062	20180310	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q8N726	CDKN2A	PMID:25217637		GO:1903747	regulation of protein localization to mitochondrion	IMP	UniProtKB:Q9BXM7	UniProtKB:Q8N726-2		20150216	UniProtKB:O60260	NCBITaxon:9606
+UniProt	UniProtKB:Q9H300	PARL	PMID:29301859		GO:1903747	regulation of protein localization to mitochondrion	IDA		UniProtKB:Q9H300	PANTHER:PTHR43731	20251030		NCBITaxon:9606
+MGI	MGI:MGI:105053	Hsph1	PMID:16857185		GO:1903748	negative regulation of protein localization to mitochondrion	IMP		PR:Q61699-1	PANTHER:PTHR45639	20141222		NCBITaxon:10090
+MGI	MGI:MGI:105053	Hsph1	PMID:16857185		GO:1903748	negative regulation of protein localization to mitochondrion	IMP		PR:Q61699-2	PANTHER:PTHR45639	20141222		NCBITaxon:10090
+ParkinsonsUK-UCL	UniProtKB:P31689	DNAJA1	PMID:14752510		GO:1903748	negative regulation of protein localization to mitochondrion	IDA		UniProtKB:P31689	PANTHER:PTHR43888	20160613	GO:1905259|UniProtKB:Q07812	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q5S007	LRRK2	PMID:21370995		GO:1903748	negative regulation of protein localization to mitochondrion	IDA		UniProtKB:Q5S007	PANTHER:PTHR45752	20140731	UniProtKB:P12532	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P10636	MAPT	PMID:22920254		GO:1903748	negative regulation of protein localization to mitochondrion	IMP		UniProtKB:P10636	PANTHER:PTHR11501	20161118	GO:0000266|UniProtKB:O00429	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q8IW03	SIAH3	PMID:24270810		GO:1903748	negative regulation of protein localization to mitochondrion	IDA		UniProtKB:Q8IW03	PANTHER:PTHR45877	20150422	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O95429	BAG4	PMID:24270810		GO:1903748	negative regulation of protein localization to mitochondrion	IMP		UniProtKB:O95429	PANTHER:PTHR12329	20150422	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P49257	LMAN1	PMID:24270810		GO:1903748	negative regulation of protein localization to mitochondrion	HMP		UniProtKB:P49257	PANTHER:PTHR12223	20180313		NCBITaxon:9606
+RGD	RGD:1307794	Bag3	PMID:21561597		GO:1903748	negative regulation of protein localization to mitochondrion	IMP		RGD:1307794	PANTHER:PTHR12329	20180320		NCBITaxon:10116
+RGD	RGD:1310413	Sirt4	PMID:24029877		GO:1903748	negative regulation of protein localization to mitochondrion	IMP		RGD:1310413	PANTHER:PTHR11085	20140926		NCBITaxon:10116
+UniProt	RGD:708558	Nol3	PMID:16639714		GO:1903748	negative regulation of protein localization to mitochondrion	IDA		RGD:708558	PANTHER:PTHR22797	20150115		NCBITaxon:10116
+UniProt	MGI:MGI:1922561	4930550C14Rik	PMID:30059978		GO:1903748	negative regulation of protein localization to mitochondrion	IMP		MGI:MGI:1922561	PANTHER:PTHR33504	20191219		NCBITaxon:10090
+FlyBase	FB:FBgn0263987	spoon	PMID:27053724		GO:1903749	positive regulation of protein localization to mitochondrion	IMP		FB:FBgn0263987	PANTHER:PTHR22948	20240502		NCBITaxon:7227
+FlyBase	FB:FBgn0261618	larp	PMID:27053724		GO:1903749	positive regulation of protein localization to mitochondrion	IMP		FB:FBgn0261618	PANTHER:PTHR22792	20240502		NCBITaxon:7227
+MGI	MGI:MGI:1930146	Pmaip1	PMID:12952892		GO:1903749	positive regulation of protein localization to mitochondrion	IMP	MGI:MGI:2678372	MGI:MGI:1930146	PANTHER:PTHR14299	20120531		NCBITaxon:10090
+MGI	MGI:MGI:1859730	Sh3glb1	PMID:16227588		GO:1903749	positive regulation of protein localization to mitochondrion	IMP		MGI:MGI:1859730	PANTHER:PTHR14167	20120531	MGI:MGI:99702	NCBITaxon:10090
+MGI	MGI:MGI:2181667	Bbc3	PMID:16705087		GO:1903749	positive regulation of protein localization to mitochondrion	IMP	MGI:MGI:2681654	MGI:MGI:2181667	PANTHER:PTHR28639	20120903	GO:1903749|MGI:MGI:99702	NCBITaxon:10090
+ParkinsonsUK-UCL	UniProtKB:Q9Y371	SH3GLB1	PMID:24270810		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:Q9Y371	PANTHER:PTHR14167	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O94929	ABLIM3	PMID:24270810		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:O94929	PANTHER:PTHR24213	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P15153	RAC2	PMID:24270810		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:P15153	PANTHER:PTHR24072	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O75143	ATG13	PMID:24270810		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:O75143	PANTHER:PTHR13430	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O95376	ARIH2	PMID:24270810		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:O95376	PANTHER:PTHR11685	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O15243	LEPROT	PMID:24270810		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:O15243	PANTHER:PTHR12050	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P34931	HSPA1L	PMID:24270810		GO:1903749	positive regulation of protein localization to mitochondrion	IMP		UniProtKB:P34931	PANTHER:PTHR19375	20150225	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9BXM7	PINK1	PMID:24270810		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:Q9BXM7	PANTHER:PTHR22972	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9BZL1	UBL5	PMID:24270810		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:Q9BZL1	PANTHER:PTHR13042	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q7L0Q8	RHOU	PMID:24270810		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:Q7L0Q8	PANTHER:PTHR24072	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q8IY33	MICALL2	PMID:24270810		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:Q8IY33	PANTHER:PTHR23167	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q92560	BAP1	PMID:24270810		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:Q92560	PANTHER:PTHR10589	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q8N2K1	UBE2J2	PMID:24270810		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:Q8N2K1	PANTHER:PTHR24068	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q8N7F7	UBL4B	PMID:24270810		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:Q8N7F7	PANTHER:PTHR47905	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9H270	VPS11	PMID:24270810		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:Q9H270	PANTHER:PTHR23323	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O43464	HTRA2	PMID:24270810		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:O43464	PANTHER:PTHR22939	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P55786	NPEPPS	PMID:24270810		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:P55786	PANTHER:PTHR11533	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9NQG7	HPS4	PMID:24270810		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:Q9NQG7	PANTHER:PTHR14407	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q7Z6Z7	HUWE1	PMID:24270810		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:Q7Z6Z7	PANTHER:PTHR11254	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P68036	UBE2L3	PMID:24270810		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:P68036	PANTHER:PTHR24068	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9P0U1	TOMM7	PMID:24270810		GO:1903749	positive regulation of protein localization to mitochondrion	IMP		UniProtKB:Q9P0U1	PANTHER:PTHR46722	20150422	UniProtKB:O60260|CL:0000540|UniProtKB:Q9BXM7|GO:0000422	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9UBE0	SAE1	PMID:24270810		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:Q9UBE0	PANTHER:PTHR10953	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q96EP0	RNF31	PMID:24270810		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:Q96EP0	PANTHER:PTHR16004	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P61077	UBE2D3	PMID:24270810		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:P61077	PANTHER:PTHR24068	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q969H0	FBXW7	PMID:24912190		GO:1903749	positive regulation of protein localization to mitochondrion	IMP		UniProtKB:Q969H0	PANTHER:PTHR19849	20150421	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P19784	CSNK2A2	PMID:24912190		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:P19784	PANTHER:PTHR24054	20180310	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P49840	GSK3A	PMID:24912190		GO:1903749	positive regulation of protein localization to mitochondrion	IMP		UniProtKB:P49840	PANTHER:PTHR24057	20180310	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q12772	SREBF2	PMID:24912190		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:Q12772	PANTHER:PTHR46062	20180310	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q13467	FZD5	PMID:24912190		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:Q13467	PANTHER:PTHR11309	20180310	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9P275	USP36	PMID:24912190		GO:1903749	positive regulation of protein localization to mitochondrion	HMP		UniProtKB:Q9P275	PANTHER:PTHR24006	20180310	UniProtKB:O60260	NCBITaxon:9606
+RGD	RGD:1303049	Tomm70	PMID:11956321		GO:1903749	positive regulation of protein localization to mitochondrion	IMP		RGD:1303049	PANTHER:PTHR46208	20060127		NCBITaxon:10116
+RGD	RGD:3448	Ptpn5	PMID:19625523		GO:1903749	positive regulation of protein localization to mitochondrion	IMP		RGD:3448	PANTHER:PTHR46198	20150312		NCBITaxon:10116
+RGD	RGD:708450	Adcy10	PMID:22106416		GO:1903749	positive regulation of protein localization to mitochondrion	IMP		RGD:708450	PANTHER:PTHR16305	20230428		NCBITaxon:10116
+Reactome	UniProtKB:P45983	MAPK8	Reactome:R-HSA-111446		GO:1903749	positive regulation of protein localization to mitochondrion	TAS		UniProtKB:P45983	PANTHER:PTHR24055	20260316		NCBITaxon:9606
+Reactome	UniProtKB:P45983	MAPK8	Reactome:R-HSA-139910		GO:1903749	positive regulation of protein localization to mitochondrion	TAS		UniProtKB:P45983	PANTHER:PTHR24055	20260316		NCBITaxon:9606
+Reactome	UniProtKB:P10144	GZMB	Reactome:R-HSA-75108		GO:1903749	positive regulation of protein localization to mitochondrion	TAS		UniProtKB:P10144	PANTHER:PTHR24271	20260316		NCBITaxon:9606
+Reactome	UniProtKB:P30419	NMT1	Reactome:R-HSA-75108		GO:1903749	positive regulation of protein localization to mitochondrion	TAS		UniProtKB:P30419	PANTHER:PTHR11377	20260316		NCBITaxon:9606
+UniProt	MGI:MGI:2145955	Prkaa1	PMID:23283301		GO:1903749	positive regulation of protein localization to mitochondrion	IMP		MGI:MGI:2145955	PANTHER:PTHR24343	20180222	UniProtKB:Q9WVH4|GO:0042149	NCBITaxon:10090
+UniProt	UniProtKB:P46196	MAPK1	PMID:26942675		GO:1903749	positive regulation of protein localization to mitochondrion	IMP		UniProtKB:P46196	PANTHER:PTHR24055	20240926	UniProtKB:P00558	NCBITaxon:9913
+UniProt	SGD:S000000203	MIX23	PMID:32826315		GO:1903749	positive regulation of protein localization to mitochondrion	IMP		SGD:S000000203	PANTHER:PTHR31905	20210211		NCBITaxon:559292
