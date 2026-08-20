@@ -1,0 +1,8 @@
+term	file	line
+GO:0061615	metacyc2go	MetaCyc:PWY-5484 > GO:glycolytic process through fructose-6-phosphate ; GO:0061615
+GO:0061621	metacyc2go	MetaCyc:ANAGLYCOLYSIS-PWY > GO:canonical glycolysis ; GO:0061621
+GO:0061621	reactome2go	Reactome:R-HSA-70171 > GO:canonical glycolysis ; GO:0061621
+GO:0061621	wikipedia2go	Wikipedia:Glycolysis > GO:canonical glycolysis ; GO:0061621
+GO:0061625	metacyc2go	MetaCyc:PWY-8404 > GO:glycolytic process through fructose-1-phosphate ; GO:0061625
+GO:0061633	metacyc2go	MetaCyc:GLYCOLYSIS > GO:transport-coupled glycolytic process through glucose-6-phosphate ; GO:0061633
+GO:0061706	metacyc2go	MetaCyc:PWY-1042 > GO:glycolytic process from sucrose through glucose and fructose ; GO:0061706
