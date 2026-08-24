@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+IntAct	MGI:MGI:1277186	Atg5	PMID:12665549		GO:0005515	protein binding	IPI	UniProtKB:Q8C0J2	MGI:MGI:1277186	PANTHER:PTHR13040	20260801	GO:0034045|GO:0016020	NCBITaxon:10090
+IntAct	MGI:MGI:1924290	Atg16l1	PMID:12665549		GO:0005515	protein binding	IPI	UniProtKB:Q99J83	MGI:MGI:1924290	PANTHER:PTHR19878	20260801	GO:0034045|GO:0016020	NCBITaxon:10090
+UniProt	UniProtKB:Q9H082	RAB33B	PMID:32960676		GO:0003925	G protein activity	IMP		UniProtKB:Q9H082	PANTHER:PTHR47978	20250130	GO:0034497|GO:0034045|UniProtKB:Q676U5	NCBITaxon:9606
