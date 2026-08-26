@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:P54577	YARS1	PMID:25533949		GO:0036094	small molecule binding	IDA		UniProtKB:P54577	PANTHER:PTHR11586	20220517	CHEBI:45713|GO:0005634|GO:0070212	NCBITaxon:9606
+UniProt	UniProtKB:P09874	PARP1	PMID:28190768		GO:0003950	NAD+ poly-ADP-ribosyltransferase activity	IDA		UniProtKB:P09874	PANTHER:PTHR10459	20220316	GO:0006302|GO:0070212	NCBITaxon:9606
+UniProt	MGI:MGI:1340806	Parp1	PMID:28991266		GO:0003950	NAD+ poly-ADP-ribosyltransferase activity	IDA		MGI:MGI:1340806	PANTHER:PTHR10459	20220525	GO:0070212|GO:0005634	NCBITaxon:10090
+UniProt	UniProtKB:P09874	PARP1	PMID:34625544		GO:1990404	NAD+-protein mono-ADP-ribosyltransferase activity	IDA		UniProtKB:P09874	PANTHER:PTHR10459	20220518	GO:0070213|UniProtKB:P09874|GO:0003682|GO:0003684	NCBITaxon:9606
