@@ -1,0 +1,5 @@
+term	file	line
+GO:0030701	interpro2go	InterPro:IPR009953 Dinitrogenase reductase ADP-ribosyltransferase > GO:NAD+-dinitrogen-reductase ADP-D-ribosyltransferase activity ; GO:0030701
+GO:0030701	metacyc2go	MetaCyc:2.4.2.37-RXN > GO:NAD+-dinitrogen-reductase ADP-D-ribosyltransferase activity ; GO:0030701
+GO:0030701	ec2go	EC:2.4.2.37 > GO:NAD+-dinitrogen-reductase ADP-D-ribosyltransferase activity ; GO:0030701
+GO:0030701	rhea2go	RHEA:18077 > GO:NAD+-dinitrogen-reductase ADP-D-ribosyltransferase activity ; GO:0030701
