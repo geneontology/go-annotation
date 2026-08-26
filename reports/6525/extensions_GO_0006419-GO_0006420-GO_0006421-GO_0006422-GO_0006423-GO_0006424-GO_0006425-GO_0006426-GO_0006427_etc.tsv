@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	UniProtKB:P14868	DARS1	PMID:9421509		GO:0004815	aspartate-tRNA ligase activity	IDA		UniProtKB:P14868	PANTHER:PTHR43450	20241211	GO:0006422	NCBITaxon:9606
+SGD	SGD:S000006237	HTS1	PMID:9724720		GO:0004821	histidine-tRNA ligase activity	IDA		SGD:S000006237	PANTHER:PTHR11476	20260701	GO:0006427	NCBITaxon:559292
+MGI	MGI:MGI:104630	Wars1	PMID:19941862		GO:0004830	tryptophan-tRNA ligase activity	IDA		MGI:MGI:104630	PANTHER:PTHR10055	20170830	GO:0006436	NCBITaxon:10090

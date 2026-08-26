@@ -1,0 +1,171 @@
+term	file	line
+GO:0006419	interpro2go	InterPro:IPR018162 Alanine-tRNA ligase, class IIc, anti-codon-binding domain superfamily > GO:alanyl-tRNA aminoacylation ; GO:0006419
+GO:0006419	interpro2go	InterPro:IPR018164 Alanyl-tRNA synthetase, class IIc, N-terminal > GO:alanyl-tRNA aminoacylation ; GO:0006419
+GO:0006419	interpro2go	InterPro:IPR018165 Alanyl-tRNA synthetase, class IIc, core domain > GO:alanyl-tRNA aminoacylation ; GO:0006419
+GO:0006419	interpro2go	InterPro:IPR022429 Alanine-tRNA ligase, archaea > GO:alanyl-tRNA aminoacylation ; GO:0006419
+GO:0006419	unirule2go	UniRule:UR000023192 > GO:alanyl-tRNA aminoacylation ; GO:0006419
+GO:0006419	unirule2go	UniRule:UR000106805 > GO:alanyl-tRNA aminoacylation ; GO:0006419
+GO:0006419	unirule2go	UniRule:UR000375824 > GO:alanyl-tRNA aminoacylation ; GO:0006419
+GO:0006419	unirule2go	UniRule:UR001995874 > GO:alanyl-tRNA aminoacylation ; GO:0006419
+GO:0006419	hamap2go	HAMAP:MF_00036 > GO:alanyl-tRNA aminoacylation ; GO:0006419
+GO:0006419	hamap2go	HAMAP:MF_03133 > GO:alanyl-tRNA aminoacylation ; GO:0006419
+GO:0006419	hamap2go	HAMAP:MF_03134 > GO:alanyl-tRNA aminoacylation ; GO:0006419
+GO:0006420	interpro2go	InterPro:IPR001278 Arginine-tRNA ligase > GO:arginyl-tRNA aminoacylation ; GO:0006420
+GO:0006420	interpro2go	InterPro:IPR005148 Arginyl tRNA synthetase N-terminal domain > GO:arginyl-tRNA aminoacylation ; GO:0006420
+GO:0006420	interpro2go	InterPro:IPR008909 DALR anticodon binding > GO:arginyl-tRNA aminoacylation ; GO:0006420
+GO:0006420	interpro2go	InterPro:IPR036695 Arginyl tRNA synthetase N-terminal domain superfamily > GO:arginyl-tRNA aminoacylation ; GO:0006420
+GO:0006420	unirule2go	UniRule:UR000102757 > GO:arginyl-tRNA aminoacylation ; GO:0006420
+GO:0006420	unirule2go	UniRule:UR001996149 > GO:arginyl-tRNA aminoacylation ; GO:0006420
+GO:0006420	hamap2go	HAMAP:MF_00123 > GO:arginyl-tRNA aminoacylation ; GO:0006420
+GO:0006421	interpro2go	InterPro:IPR004522 Asparagine-tRNA ligase > GO:asparaginyl-tRNA aminoacylation ; GO:0006421
+GO:0006421	unirule2go	UniRule:UR000037402 > GO:asparaginyl-tRNA aminoacylation ; GO:0006421
+GO:0006421	unirule2go	UniRule:UR001995906 > GO:asparaginyl-tRNA aminoacylation ; GO:0006421
+GO:0006421	hamap2go	HAMAP:MF_00534 > GO:asparaginyl-tRNA aminoacylation ; GO:0006421
+GO:0006422	interpro2go	InterPro:IPR004523 Aspartate-tRNA synthetase, type 2 > GO:aspartyl-tRNA aminoacylation ; GO:0006422
+GO:0006422	unirule2go	UniRule:UR000334366 > GO:aspartyl-tRNA aminoacylation ; GO:0006422
+GO:0006422	unirule2go	UniRule:UR000389657 > GO:aspartyl-tRNA aminoacylation ; GO:0006422
+GO:0006422	hamap2go	HAMAP:MF_00044 > GO:aspartyl-tRNA aminoacylation ; GO:0006422
+GO:0006422	hamap2go	HAMAP:MF_02075 > GO:aspartyl-tRNA aminoacylation ; GO:0006422
+GO:0006423	interpro2go	InterPro:IPR015273 Cysteinyl-tRNA synthetase, class Ia, DALR > GO:cysteinyl-tRNA aminoacylation ; GO:0006423
+GO:0006423	interpro2go	InterPro:IPR015803 Cysteine-tRNA ligase > GO:cysteinyl-tRNA aminoacylation ; GO:0006423
+GO:0006423	unirule2go	UniRule:UR000075852 > GO:cysteinyl-tRNA aminoacylation ; GO:0006423
+GO:0006423	unirule2go	UniRule:UR001996770 > GO:cysteinyl-tRNA aminoacylation ; GO:0006423
+GO:0006423	hamap2go	HAMAP:MF_00041 > GO:cysteinyl-tRNA aminoacylation ; GO:0006423
+GO:0006424	interpro2go	InterPro:IPR004526 Glutamyl-tRNA synthetase, archaeal/eukaryotic cytosolic > GO:glutamyl-tRNA aminoacylation ; GO:0006424
+GO:0006424	interpro2go	InterPro:IPR004527 Glutamate-tRNA ligase, bacterial/mitochondrial > GO:glutamyl-tRNA aminoacylation ; GO:0006424
+GO:0006424	interpro2go	InterPro:IPR022380 Glutamyl-Q tRNA(Asp) synthetase > GO:glutamyl-tRNA aminoacylation ; GO:0006424
+GO:0006424	interpro2go	InterPro:IPR033910 Glutamyl-tRNA synthetase > GO:glutamyl-tRNA aminoacylation ; GO:0006424
+GO:0006424	unirule2go	UniRule:UR000075658 > GO:glutamyl-tRNA aminoacylation ; GO:0006424
+GO:0006424	unirule2go	UniRule:UR000102759 > GO:glutamyl-tRNA aminoacylation ; GO:0006424
+GO:0006424	unirule2go	UniRule:UR000411596 > GO:glutamyl-tRNA aminoacylation ; GO:0006424
+GO:0006424	unirule2go	UniRule:UR002057121 > GO:glutamyl-tRNA aminoacylation ; GO:0006424
+GO:0006424	hamap2go	HAMAP:MF_00022 > GO:glutamyl-tRNA aminoacylation ; GO:0006424
+GO:0006424	hamap2go	HAMAP:MF_00126 > GO:glutamyl-tRNA aminoacylation ; GO:0006424
+GO:0006424	hamap2go	HAMAP:MF_02076 > GO:glutamyl-tRNA aminoacylation ; GO:0006424
+GO:0006425	interpro2go	InterPro:IPR004514 Glutamine-tRNA synthetase > GO:glutaminyl-tRNA aminoacylation ; GO:0006425
+GO:0006425	interpro2go	InterPro:IPR007638 Glutaminyl-tRNA synthetase, class Ib, non-specific RNA-binding domain 2 > GO:glutaminyl-tRNA aminoacylation ; GO:0006425
+GO:0006425	unirule2go	UniRule:UR001996107 > GO:glutaminyl-tRNA aminoacylation ; GO:0006425
+GO:0006426	interpro2go	InterPro:IPR002310 Glycine-tRNA ligase, alpha subunit > GO:glycyl-tRNA aminoacylation ; GO:0006426
+GO:0006426	interpro2go	InterPro:IPR002315 Glycyl-tRNA synthetase > GO:glycyl-tRNA aminoacylation ; GO:0006426
+GO:0006426	interpro2go	InterPro:IPR006194 Glycine-tRNA synthetase, heterodimeric > GO:glycyl-tRNA aminoacylation ; GO:0006426
+GO:0006426	interpro2go	InterPro:IPR015944 Glycine-tRNA ligase, beta subunit > GO:glycyl-tRNA aminoacylation ; GO:0006426
+GO:0006426	unirule2go	UniRule:UR000034380 > GO:glycyl-tRNA aminoacylation ; GO:0006426
+GO:0006426	unirule2go	UniRule:UR000034423 > GO:glycyl-tRNA aminoacylation ; GO:0006426
+GO:0006426	unirule2go	UniRule:UR000083063 > GO:glycyl-tRNA aminoacylation ; GO:0006426
+GO:0006426	hamap2go	HAMAP:MF_00253 > GO:glycyl-tRNA aminoacylation ; GO:0006426
+GO:0006426	hamap2go	HAMAP:MF_00254 > GO:glycyl-tRNA aminoacylation ; GO:0006426
+GO:0006426	hamap2go	HAMAP:MF_00255 > GO:glycyl-tRNA aminoacylation ; GO:0006426
+GO:0006427	interpro2go	InterPro:IPR015807 Histidine-tRNA ligase > GO:histidyl-tRNA aminoacylation ; GO:0006427
+GO:0006427	interpro2go	InterPro:IPR053846 Histidyl-tRNA synthetase HisZ, C-terminal domain, Bacillales > GO:histidyl-tRNA aminoacylation ; GO:0006427
+GO:0006427	unirule2go	UniRule:UR000033450 > GO:histidyl-tRNA aminoacylation ; GO:0006427
+GO:0006427	unirule2go	UniRule:UR001996769 > GO:histidyl-tRNA aminoacylation ; GO:0006427
+GO:0006427	hamap2go	HAMAP:MF_00127 > GO:histidyl-tRNA aminoacylation ; GO:0006427
+GO:0006428	interpro2go	InterPro:IPR002301 Isoleucine-tRNA ligase > GO:isoleucyl-tRNA aminoacylation ; GO:0006428
+GO:0006428	unirule2go	UniRule:UR000090066 > GO:isoleucyl-tRNA aminoacylation ; GO:0006428
+GO:0006428	unirule2go	UniRule:UR000090103 > GO:isoleucyl-tRNA aminoacylation ; GO:0006428
+GO:0006428	unirule2go	UniRule:UR001996768 > GO:isoleucyl-tRNA aminoacylation ; GO:0006428
+GO:0006428	hamap2go	HAMAP:MF_02002 > GO:isoleucyl-tRNA aminoacylation ; GO:0006428
+GO:0006428	hamap2go	HAMAP:MF_02003 > GO:isoleucyl-tRNA aminoacylation ; GO:0006428
+GO:0006429	interpro2go	InterPro:IPR002302 Leucine-tRNA ligase > GO:leucyl-tRNA aminoacylation ; GO:0006429
+GO:0006429	interpro2go	InterPro:IPR004493 Leucyl-tRNA synthetase, class Ia, archaeal/eukaryotic cytosolic > GO:leucyl-tRNA aminoacylation ; GO:0006429
+GO:0006429	interpro2go	InterPro:IPR020791 Leucine-tRNA ligase, archaeal > GO:leucyl-tRNA aminoacylation ; GO:0006429
+GO:0006429	unirule2go	UniRule:UR000075860 > GO:leucyl-tRNA aminoacylation ; GO:0006429
+GO:0006429	unirule2go	UniRule:UR001995873 > GO:leucyl-tRNA aminoacylation ; GO:0006429
+GO:0006429	unirule2go	UniRule:UR001995878 > GO:leucyl-tRNA aminoacylation ; GO:0006429
+GO:0006429	hamap2go	HAMAP:MF_00049 > GO:leucyl-tRNA aminoacylation ; GO:0006429
+GO:0006430	interpro2go	InterPro:IPR002313 Lysine-tRNA ligase, class II > GO:lysyl-tRNA aminoacylation ; GO:0006430
+GO:0006430	interpro2go	InterPro:IPR002904 Lysine-tRNA ligase > GO:lysyl-tRNA aminoacylation ; GO:0006430
+GO:0006430	interpro2go	InterPro:IPR004525 Elongation factor P--(R)-beta-lysine ligase > GO:lysyl-tRNA aminoacylation ; GO:0006430
+GO:0006430	interpro2go	InterPro:IPR018149 Lysyl-tRNA synthetase, class II, C-terminal > GO:lysyl-tRNA aminoacylation ; GO:0006430
+GO:0006430	interpro2go	InterPro:IPR034762 Bacterial/eukaryotic lysine-tRNA ligase, class II > GO:lysyl-tRNA aminoacylation ; GO:0006430
+GO:0006430	unirule2go	UniRule:UR000001455 > GO:lysyl-tRNA aminoacylation ; GO:0006430
+GO:0006430	unirule2go	UniRule:UR000083062 > GO:lysyl-tRNA aminoacylation ; GO:0006430
+GO:0006430	hamap2go	HAMAP:MF_00177 > GO:lysyl-tRNA aminoacylation ; GO:0006430
+GO:0006430	hamap2go	HAMAP:MF_00252 > GO:lysyl-tRNA aminoacylation ; GO:0006430
+GO:0006431	interpro2go	InterPro:IPR004495 Methionyl-tRNA synthetase, beta subunit, C-terminal > GO:methionyl-tRNA aminoacylation ; GO:0006431
+GO:0006431	interpro2go	InterPro:IPR014758 Methionyl-tRNA synthetase > GO:methionyl-tRNA aminoacylation ; GO:0006431
+GO:0006431	interpro2go	InterPro:IPR033911 Methioninyl-tRNA synthetase core domain > GO:methionyl-tRNA aminoacylation ; GO:0006431
+GO:0006431	unirule2go	UniRule:UR000076358 > GO:methionyl-tRNA aminoacylation ; GO:0006431
+GO:0006431	unirule2go	UniRule:UR000351882 > GO:methionyl-tRNA aminoacylation ; GO:0006431
+GO:0006431	hamap2go	HAMAP:MF_00098 > GO:methionyl-tRNA aminoacylation ; GO:0006431
+GO:0006431	hamap2go	HAMAP:MF_01228 > GO:methionyl-tRNA aminoacylation ; GO:0006431
+GO:0006432	interpro2go	InterPro:IPR004188 Phenylalanine-tRNA ligase, class II, N-terminal > GO:phenylalanyl-tRNA aminoacylation ; GO:0006432
+GO:0006432	interpro2go	InterPro:IPR004529 Phenylalanyl-tRNA synthetase, class IIc, alpha subunit > GO:phenylalanyl-tRNA aminoacylation ; GO:0006432
+GO:0006432	interpro2go	InterPro:IPR004530 Phenylalanyl-tRNA synthetase, class IIc, mitochondrial > GO:phenylalanyl-tRNA aminoacylation ; GO:0006432
+GO:0006432	interpro2go	InterPro:IPR004531 Phenylalanyl-tRNA synthetase, class IIc, beta subunit, archaeal/eukaryotic type > GO:phenylalanyl-tRNA aminoacylation ; GO:0006432
+GO:0006432	interpro2go	InterPro:IPR004532 Phenylalanine-tRNA ligase, class IIc, beta subunit, bacterial type > GO:phenylalanyl-tRNA aminoacylation ; GO:0006432
+GO:0006432	interpro2go	InterPro:IPR005147 tRNA synthetase, B5-domain > GO:phenylalanyl-tRNA aminoacylation ; GO:0006432
+GO:0006432	interpro2go	InterPro:IPR022918 Phenylalanine-tRNA ligase beta chain 2, archaeal type > GO:phenylalanyl-tRNA aminoacylation ; GO:0006432
+GO:0006432	interpro2go	InterPro:IPR045060 Phenylalanine-tRNA ligase, class IIc, beta subunit > GO:phenylalanyl-tRNA aminoacylation ; GO:0006432
+GO:0006432	unirule2go	UniRule:UR000035366 > GO:phenylalanyl-tRNA aminoacylation ; GO:0006432
+GO:0006432	unirule2go	UniRule:UR000058591 > GO:phenylalanyl-tRNA aminoacylation ; GO:0006432
+GO:0006432	unirule2go	UniRule:UR000083113 > GO:phenylalanyl-tRNA aminoacylation ; GO:0006432
+GO:0006432	unirule2go	UniRule:UR000083118 > GO:phenylalanyl-tRNA aminoacylation ; GO:0006432
+GO:0006432	hamap2go	HAMAP:MF_00281 > GO:phenylalanyl-tRNA aminoacylation ; GO:0006432
+GO:0006432	hamap2go	HAMAP:MF_00282 > GO:phenylalanyl-tRNA aminoacylation ; GO:0006432
+GO:0006432	hamap2go	HAMAP:MF_00283 > GO:phenylalanyl-tRNA aminoacylation ; GO:0006432
+GO:0006432	hamap2go	HAMAP:MF_00284 > GO:phenylalanyl-tRNA aminoacylation ; GO:0006432
+GO:0006433	interpro2go	InterPro:IPR002316 Proline-tRNA ligase, class IIa > GO:prolyl-tRNA aminoacylation ; GO:0006433
+GO:0006433	interpro2go	InterPro:IPR004499 Proline-tRNA ligase, class IIa, archaeal-type > GO:prolyl-tRNA aminoacylation ; GO:0006433
+GO:0006433	interpro2go	InterPro:IPR004500 Prolyl-tRNA synthetase, class IIa, bacterial-type > GO:prolyl-tRNA aminoacylation ; GO:0006433
+GO:0006433	interpro2go	InterPro:IPR015264 Prolyl-tRNA synthetase, class II, C-terminal, archaeal-type > GO:prolyl-tRNA aminoacylation ; GO:0006433
+GO:0006433	interpro2go	InterPro:IPR016061 Proline-tRNA ligase, class II, C-terminal > GO:prolyl-tRNA aminoacylation ; GO:0006433
+GO:0006433	interpro2go	InterPro:IPR017449 Prolyl-tRNA synthetase, class II > GO:prolyl-tRNA aminoacylation ; GO:0006433
+GO:0006433	interpro2go	InterPro:IPR023716 Proline-tRNA ligase, class IIa, type 2 > GO:prolyl-tRNA aminoacylation ; GO:0006433
+GO:0006433	interpro2go	InterPro:IPR023717 Prolyl-tRNA synthetase, class IIa, type 1 > GO:prolyl-tRNA aminoacylation ; GO:0006433
+GO:0006433	unirule2go	UniRule:UR000001301 > GO:prolyl-tRNA aminoacylation ; GO:0006433
+GO:0006433	unirule2go	UniRule:UR000038401 > GO:prolyl-tRNA aminoacylation ; GO:0006433
+GO:0006433	unirule2go	UniRule:UR000038419 > GO:prolyl-tRNA aminoacylation ; GO:0006433
+GO:0006433	unirule2go	UniRule:UR001995877 > GO:prolyl-tRNA aminoacylation ; GO:0006433
+GO:0006433	unirule2go	UniRule:UR001996058 > GO:prolyl-tRNA aminoacylation ; GO:0006433
+GO:0006433	hamap2go	HAMAP:MF_01569 > GO:prolyl-tRNA aminoacylation ; GO:0006433
+GO:0006433	hamap2go	HAMAP:MF_01570 > GO:prolyl-tRNA aminoacylation ; GO:0006433
+GO:0006433	hamap2go	HAMAP:MF_01571 > GO:prolyl-tRNA aminoacylation ; GO:0006433
+GO:0006434	interpro2go	InterPro:IPR002317 Serine-tRNA ligase, type1 > GO:seryl-tRNA aminoacylation ; GO:0006434
+GO:0006434	interpro2go	InterPro:IPR004503 Serine-tRNA ligase type 2, archaea > GO:seryl-tRNA aminoacylation ; GO:0006434
+GO:0006434	unirule2go	UniRule:UR000079193 > GO:seryl-tRNA aminoacylation ; GO:0006434
+GO:0006434	unirule2go	UniRule:UR000101635 > GO:seryl-tRNA aminoacylation ; GO:0006434
+GO:0006434	unirule2go	UniRule:UR001996045 > GO:seryl-tRNA aminoacylation ; GO:0006434
+GO:0006434	unirule2go	UniRule:UR001996772 > GO:seryl-tRNA aminoacylation ; GO:0006434
+GO:0006434	hamap2go	HAMAP:MF_00176 > GO:seryl-tRNA aminoacylation ; GO:0006434
+GO:0006434	hamap2go	HAMAP:MF_01278 > GO:seryl-tRNA aminoacylation ; GO:0006434
+GO:0006435	interpro2go	InterPro:IPR002320 Threonine-tRNA ligase, class IIa > GO:threonyl-tRNA aminoacylation ; GO:0006435
+GO:0006435	unirule2go	UniRule:UR000079216 > GO:threonyl-tRNA aminoacylation ; GO:0006435
+GO:0006435	unirule2go	UniRule:UR001995902 > GO:threonyl-tRNA aminoacylation ; GO:0006435
+GO:0006435	hamap2go	HAMAP:MF_00184 > GO:threonyl-tRNA aminoacylation ; GO:0006435
+GO:0006436	interpro2go	InterPro:IPR002306 Tryptophan-tRNA ligase > GO:tryptophanyl-tRNA aminoacylation ; GO:0006436
+GO:0006436	interpro2go	InterPro:IPR020653 Tryptophan-tRNA ligase, archaea > GO:tryptophanyl-tRNA aminoacylation ; GO:0006436
+GO:0006436	unirule2go	UniRule:UR000078521 > GO:tryptophanyl-tRNA aminoacylation ; GO:0006436
+GO:0006436	unirule2go	UniRule:UR001996766 > GO:tryptophanyl-tRNA aminoacylation ; GO:0006436
+GO:0006436	hamap2go	HAMAP:MF_00140 > GO:tryptophanyl-tRNA aminoacylation ; GO:0006436
+GO:0006437	interpro2go	InterPro:IPR002307 Tyrosine-tRNA ligase > GO:tyrosyl-tRNA aminoacylation ; GO:0006437
+GO:0006437	interpro2go	InterPro:IPR023678 Tyrosine-tRNA ligase, type 4 > GO:tyrosyl-tRNA aminoacylation ; GO:0006437
+GO:0006437	interpro2go	InterPro:IPR023684 Tyrosine-tRNA ligase, type 3 > GO:tyrosyl-tRNA aminoacylation ; GO:0006437
+GO:0006437	unirule2go	UniRule:UR000090114 > GO:tyrosyl-tRNA aminoacylation ; GO:0006437
+GO:0006437	unirule2go	UniRule:UR000090115 > GO:tyrosyl-tRNA aminoacylation ; GO:0006437
+GO:0006437	unirule2go	UniRule:UR000090122 > GO:tyrosyl-tRNA aminoacylation ; GO:0006437
+GO:0006437	unirule2go	UniRule:UR000336372 > GO:tyrosyl-tRNA aminoacylation ; GO:0006437
+GO:0006437	unirule2go	UniRule:UR001996076 > GO:tyrosyl-tRNA aminoacylation ; GO:0006437
+GO:0006437	hamap2go	HAMAP:MF_02006 > GO:tyrosyl-tRNA aminoacylation ; GO:0006437
+GO:0006437	hamap2go	HAMAP:MF_02007 > GO:tyrosyl-tRNA aminoacylation ; GO:0006437
+GO:0006437	hamap2go	HAMAP:MF_02008 > GO:tyrosyl-tRNA aminoacylation ; GO:0006437
+GO:0006437	hamap2go	HAMAP:MF_02009 > GO:tyrosyl-tRNA aminoacylation ; GO:0006437
+GO:0006438	interpro2go	InterPro:IPR002303 Valine-tRNA ligase > GO:valyl-tRNA aminoacylation ; GO:0006438
+GO:0006438	interpro2go	InterPro:IPR019499 Valyl-tRNA synthetase, tRNA-binding arm > GO:valyl-tRNA aminoacylation ; GO:0006438
+GO:0006438	unirule2go	UniRule:UR000090107 > GO:valyl-tRNA aminoacylation ; GO:0006438
+GO:0006438	unirule2go	UniRule:UR000090110 > GO:valyl-tRNA aminoacylation ; GO:0006438
+GO:0006438	unirule2go	UniRule:UR001996771 > GO:valyl-tRNA aminoacylation ; GO:0006438
+GO:0006438	hamap2go	HAMAP:MF_02004 > GO:valyl-tRNA aminoacylation ; GO:0006438
+GO:0006438	hamap2go	HAMAP:MF_02005 > GO:valyl-tRNA aminoacylation ; GO:0006438
+GO:0070143	unirule2go	UniRule:UR000375824 > GO:mitochondrial alanyl-tRNA aminoacylation ; GO:0070143
+GO:0070143	hamap2go	HAMAP:MF_03133 > GO:mitochondrial alanyl-tRNA aminoacylation ; GO:0070143
+GO:0070681	interpro2go	InterPro:IPR027499 Glutamyl-tRNA(Gln) amidotransferase subunit F, mitochondrial > GO:glutaminyl-tRNAGln biosynthesis via transamidation ; GO:0070681
+GO:0070681	metacyc2go	MetaCyc:PWY-5921 > GO:glutaminyl-tRNAGln biosynthesis via transamidation ; GO:0070681
+GO:0070681	unirule2go	UniRule:UR000185079 > GO:glutaminyl-tRNAGln biosynthesis via transamidation ; GO:0070681
+GO:0070681	unirule2go	UniRule:UR000375771 > GO:glutaminyl-tRNAGln biosynthesis via transamidation ; GO:0070681
+GO:0070681	unirule2go	UniRule:UR000375979 > GO:glutaminyl-tRNAGln biosynthesis via transamidation ; GO:0070681
+GO:0070681	unirule2go	UniRule:UR000376320 > GO:glutaminyl-tRNAGln biosynthesis via transamidation ; GO:0070681
+GO:0070681	hamap2go	HAMAP:MF_03147 > GO:glutaminyl-tRNAGln biosynthesis via transamidation ; GO:0070681
+GO:0070681	hamap2go	HAMAP:MF_03149 > GO:glutaminyl-tRNAGln biosynthesis via transamidation ; GO:0070681
+GO:0070681	hamap2go	HAMAP:MF_03150 > GO:glutaminyl-tRNAGln biosynthesis via transamidation ; GO:0070681
+GO:0070681	hamap2go	HAMAP:MF_03151 > GO:glutaminyl-tRNAGln biosynthesis via transamidation ; GO:0070681
