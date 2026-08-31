@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+JaponicusDB	JaponicusDB:SJAG_01601	swi6	PMID:32109380		GO:1990343	heterochromatin domain	EXP		JaponicusDB:SJAG_01601		20210617		NCBITaxon:4897
