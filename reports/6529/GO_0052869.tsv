@@ -1,0 +1,27 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+RGD	RGD:2074	Ahr	PMID:19889059		GO:0052869	arachidonate omega-hydroxylase activity	IMP		RGD:2074	PANTHER:PTHR10649	20230829		NCBITaxon:10116
+RGD	RGD:2806	Hmox1	PMID:19889059		GO:0052869	arachidonate omega-hydroxylase activity	IMP		RGD:2806	PANTHER:PTHR10720	20230829		NCBITaxon:10116
+UniProt	RGD:68945	Cyp4a1	PMID:10362749		GO:0052869	arachidonate omega-hydroxylase activity	EXP		RGD:68945	PANTHER:PTHR24291	20240916		NCBITaxon:10116
+UniProt	UniProtKB:Q02928	CYP4A11	PMID:10620324		GO:0052869	arachidonate omega-hydroxylase activity	EXP		UniProtKB:Q02928	PANTHER:PTHR24291	20240916		NCBITaxon:9606
+UniProt	RGD:68945	Cyp4a1	PMID:10620324		GO:0052869	arachidonate omega-hydroxylase activity	EXP		RGD:68945	PANTHER:PTHR24291	20240916		NCBITaxon:10116
+UniProt	UniProtKB:Q02928	CYP4A11	PMID:10660572		GO:0052869	arachidonate omega-hydroxylase activity	EXP		UniProtKB:Q02928	PANTHER:PTHR24291	20240916		NCBITaxon:9606
+UniProt	UniProtKB:P78329	CYP4F2	PMID:10660572		GO:0052869	arachidonate omega-hydroxylase activity	IDA		UniProtKB:P78329	PANTHER:PTHR24291	20120201		NCBITaxon:9606
+UniProt	UniProtKB:Q5TCH4	CYP4A22	PMID:10860550	not	GO:0052869	arachidonate omega-hydroxylase activity	IDA		UniProtKB:Q5TCH4	PANTHER:PTHR24291	20170607		NCBITaxon:9606
+UniProt	UniProtKB:Q08477	CYP4F3	PMID:11461919		GO:0052869	arachidonate omega-hydroxylase activity	EXP		UniProtKB:Q08477	PANTHER:PTHR24291	20240916		NCBITaxon:9606
+UniProt	RGD:708363	Cyp4f4	PMID:14634044		GO:0052869	arachidonate omega-hydroxylase activity	EXP		RGD:708363	PANTHER:PTHR24291	20240916		NCBITaxon:10116
+UniProt	RGD:70926	Cyp4f1	PMID:14634044		GO:0052869	arachidonate omega-hydroxylase activity	EXP		RGD:70926	PANTHER:PTHR24291	20240916		NCBITaxon:10116
+UniProt	UniProtKB:Q7Z449	CYP2U1	PMID:14660610		GO:0052869	arachidonate omega-hydroxylase activity	EXP		UniProtKB:Q7Z449	PANTHER:PTHR24300	20240916		NCBITaxon:9606
+UniProt	UniProtKB:Q08477	CYP4F3	PMID:15364545		GO:0052869	arachidonate omega-hydroxylase activity	EXP		UniProtKB:Q08477	PANTHER:PTHR24291	20240916		NCBITaxon:9606
+UniProt	UniProtKB:Q9HBI6	CYP4F11	PMID:15364545		GO:0052869	arachidonate omega-hydroxylase activity	EXP		UniProtKB:Q9HBI6	PANTHER:PTHR24291	20240916		NCBITaxon:9606
+UniProt	UniProtKB:Q02928	CYP4A11	PMID:15611369		GO:0052869	arachidonate omega-hydroxylase activity	EXP		UniProtKB:Q02928	PANTHER:PTHR24291	20240916		NCBITaxon:9606
+UniProt	RGD:628846	Cyp4a8	PMID:15618658		GO:0052869	arachidonate omega-hydroxylase activity	EXP		RGD:628846	PANTHER:PTHR24291	20240916		NCBITaxon:10116
+UniProt	UniProtKB:Q08477	CYP4F3	PMID:16820285		GO:0052869	arachidonate omega-hydroxylase activity	EXP		UniProtKB:Q08477	PANTHER:PTHR24291	20240916		NCBITaxon:9606
+UniProt	MGI:MGI:3611747	Cyp4a12b	PMID:17112342		GO:0052869	arachidonate omega-hydroxylase activity	IDA		MGI:MGI:3611747	PANTHER:PTHR24291	20191107		NCBITaxon:10090
+UniProt	MGI:MGI:88612	Cyp4a12a	PMID:17112342		GO:0052869	arachidonate omega-hydroxylase activity	IDA		MGI:MGI:88612	PANTHER:PTHR24291	20191107		NCBITaxon:10090
+UniProt	UniProtKB:P78329	CYP4F2	PMID:17341693		GO:0052869	arachidonate omega-hydroxylase activity	EXP		UniProtKB:P78329	PANTHER:PTHR24291	20240916		NCBITaxon:9606
+UniProt	UniProtKB:P78329	CYP4F2	PMID:18577768		GO:0052869	arachidonate omega-hydroxylase activity	EXP		UniProtKB:P78329	PANTHER:PTHR24291	20240916		NCBITaxon:9606
+UniProt	UniProtKB:Q08477	CYP4F3	PMID:18577768		GO:0052869	arachidonate omega-hydroxylase activity	EXP		UniProtKB:Q08477	PANTHER:PTHR24291	20240916		NCBITaxon:9606
+UniProt	UniProtKB:P78329	CYP4F2	PMID:24138531		GO:0052869	arachidonate omega-hydroxylase activity	EXP		UniProtKB:P78329	PANTHER:PTHR24291	20240916		NCBITaxon:9606
+UniProt	UniProtKB:Q7Z449	CYP2U1	PMID:24563460		GO:0052869	arachidonate omega-hydroxylase activity	IDA		UniProtKB:Q7Z449	PANTHER:PTHR24300	20191108		NCBITaxon:9606
+UniProt	UniProtKB:Q9HBI6	CYP4F11	PMID:37373382		GO:0052869	arachidonate omega-hydroxylase activity	EXP		UniProtKB:Q9HBI6	PANTHER:PTHR24291	20240916		NCBITaxon:9606
+UniProt	UniProtKB:P78329	CYP4F2	PMID:9618440		GO:0052869	arachidonate omega-hydroxylase activity	IDA		UniProtKB:P78329	PANTHER:PTHR24291	20120201		NCBITaxon:9606

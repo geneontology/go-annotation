@@ -1,0 +1,4 @@
+term	file	line
+GO:0052869	metacyc2go	MetaCyc:RXN-19677 > GO:arachidonate omega-hydroxylase activity ; GO:0052869
+GO:0052869	kegg_reaction2go	KEGG_REACTION:R07041 > GO:arachidonate omega-hydroxylase activity ; GO:0052869
+GO:0052869	rhea2go	RHEA:39755 > GO:arachidonate omega-hydroxylase activity ; GO:0052869
