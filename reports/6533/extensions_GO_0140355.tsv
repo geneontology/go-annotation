@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:1202394	Cblif	PMID:14321840		GO:0140104	molecular carrier activity	IDA		MGI:MGI:1202394	PANTHER:PTHR10559	20220623	EMAPA:17021|GO:0005576|CHEBI:140785|GO:0140355	NCBITaxon:10090

@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:1202394	Cblif	PMID:14321840		GO:0140355	cargo receptor ligand activity	IDA		MGI:MGI:1202394	PANTHER:PTHR10559	20220623	EMAPA:32764|GO:0005576	NCBITaxon:10090
+MGI	MGI:MGI:98534	Tcn2	PMID:237480		GO:0140355	cargo receptor ligand activity	IDA		MGI:MGI:98534	PANTHER:PTHR10559	20210913	GO:0015889|GO:0009897	NCBITaxon:10090
+Reactome	UniProtKB:P27352	CBLIF	PMID:17954916		GO:0140355	cargo receptor ligand activity	EXP		UniProtKB:P27352	PANTHER:PTHR10559	20230525		NCBITaxon:9606
+Reactome	UniProtKB:P20061	TCN1	PMID:22547309		GO:0140355	cargo receptor ligand activity	EXP		UniProtKB:P20061	PANTHER:PTHR10559	20230525		NCBITaxon:9606
+Reactome	UniProtKB:P20062	TCN2	PMID:3782074		GO:0140355	cargo receptor ligand activity	EXP		UniProtKB:P20062	PANTHER:PTHR10559	20230525		NCBITaxon:9606
+SGD	SGD:S000006070	ATG5	PMID:27879200		GO:0140355	cargo receptor ligand activity	IDA		SGD:S000006070	PANTHER:PTHR13040	20191213		NCBITaxon:559292
