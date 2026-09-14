@@ -1,0 +1,5 @@
+term	file	line
+GO:0046496	unirule2go	UniRule:UR000089076 > GO:nicotinamide nucleotide metabolic process ; GO:0046496
+GO:0046496	unirule2go	UniRule:UR000375786 > GO:nicotinamide nucleotide metabolic process ; GO:0046496
+GO:0046496	hamap2go	HAMAP:MF_01965 > GO:nicotinamide nucleotide metabolic process ; GO:0046496
+GO:0046496	hamap2go	HAMAP:MF_03157 > GO:nicotinamide nucleotide metabolic process ; GO:0046496

@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+SGD	SGD:S000002889	PHO8	PMID:21349851		GO:0046496	nicotinamide nucleotide metabolic process	IMP		SGD:S000002889	PANTHER:PTHR11596	20130807		NCBITaxon:559292
+SGD	SGD:S000005144	NNR1	PMID:21994945		GO:0046496	nicotinamide nucleotide metabolic process	IDA		SGD:S000005144	PANTHER:PTHR13232	20130807		NCBITaxon:559292
+SGD	SGD:S000001634	NNR2	PMID:21994945		GO:0046496	nicotinamide nucleotide metabolic process	IDA		SGD:S000001634	PANTHER:PTHR12592	20130807		NCBITaxon:559292
+UniProt	UniProtKB:Q8NCW5	NAXE	PMID:27616477		GO:0046496	nicotinamide nucleotide metabolic process	IMP		UniProtKB:Q8NCW5	PANTHER:PTHR13232	20170309		NCBITaxon:9606
