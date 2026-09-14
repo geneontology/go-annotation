@@ -1,0 +1,6 @@
+term	file	line
+GO:0019346	interpro2go	InterPro:IPR000277 Cys/Met metabolism, pyridoxal phosphate-dependent enzyme > GO:transsulfuration ; GO:0019346
+GO:0019346	metacyc2go	MetaCyc:PWY-801 > GO:transsulfuration ; GO:0019346
+GO:0019346	unirule2go	UniRule:UR001996070 > GO:transsulfuration ; GO:0019346
+GO:0019346	reactome2go	Reactome:R-HSA-1614603 > GO:transsulfuration ; GO:0019346
+GO:0019346	wikipedia2go	Wikipedia:Transsulfuration_pathway > GO:transsulfuration ; GO:0019346
