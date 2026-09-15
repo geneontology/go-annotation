@@ -1,0 +1,77 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	MGI:MGI:103008	Epb41l3	PMID:21966409		GO:0106006	cytoskeletal protein-membrane anchor activity	TAS		MGI:MGI:103008	PANTHER:PTHR23280	20200324	CL:0000540	NCBITaxon:10090
+BHF-UCL	UniProtKB:Q9Y2J2	EPB41L3	PMID:21966409		GO:0106006	cytoskeletal protein-membrane anchor activity	TAS		UniProtKB:Q9Y2J2	PANTHER:PTHR23280	20200324	CL:0000540	NCBITaxon:9606
+BHF-UCL	UniProtKB:P14923	JUP	PMID:9049256		GO:0106006	cytoskeletal protein-membrane anchor activity	IDA		UniProtKB:P14923	PANTHER:PTHR45976	20200324		NCBITaxon:9606
+FlyBase	FB:FBgn0000244	by	PMID:15030759		GO:0106006	cytoskeletal protein-membrane anchor activity	IMP		FB:FBgn0000244	PANTHER:PTHR45734	20200325		NCBITaxon:7227
+MGI	MGI:MGI:1261814	Palm	PMID:9813098		GO:0106006	cytoskeletal protein-membrane anchor activity	IDA		MGI:MGI:1261814	PANTHER:PTHR10498	20260508		NCBITaxon:10090
+PomBase	PomBase:SPCC4B3.15	mid1	PMID:15184401		GO:0106006	cytoskeletal protein-membrane anchor activity	IPI	PomBase:SPCC645.05c	PomBase:SPCC4B3.15	PANTHER:PTHR21538	20191214	GO:0000087|PomBase:SPCC645.05c|GO:1903475	NCBITaxon:4896
+PomBase	PomBase:SPAC20G8.05c	cdc15	PMID:15933715		GO:0106006	cytoskeletal protein-membrane anchor activity	EXP		PomBase:SPAC20G8.05c	PANTHER:PTHR23065	20220929	GO:0000087|PomBase:SPAC1006.08|GO:0031097|GO:1903475	NCBITaxon:4896
+PomBase	PomBase:SPBC216.02	num1	PMID:16585273		GO:0106006	cytoskeletal protein-membrane anchor activity	IMP		PomBase:SPBC216.02		20191119	PomBase:SPAC1093.06c|GO:0032118	NCBITaxon:4896
+PomBase	PomBase:SPBC216.02	num1	PMID:16624923		GO:0106006	cytoskeletal protein-membrane anchor activity	IDA		PomBase:SPBC216.02		20191119	PomBase:SPAC1093.06c|GO:0032178|GO:0032118	NCBITaxon:4896
+PomBase	PomBase:SPCC417.07c	mto1	PMID:19001497	contributes_to	GO:0106006	cytoskeletal protein-membrane anchor activity	EXP		PomBase:SPCC417.07c	PANTHER:PTHR43939	20210217	GO:0051329|PomBase:SPBC32F12.04|GO:0031316|GO:0030954	NCBITaxon:4896
+PomBase	PomBase:SPBC902.06	mto2	PMID:19001497	contributes_to	GO:0106006	cytoskeletal protein-membrane anchor activity	EXP		PomBase:SPBC902.06		20210217	GO:0051329|PomBase:SPBC32F12.04|GO:0031316|GO:0030954	NCBITaxon:4896
+PomBase	PomBase:SPBC11C11.02	imp2	PMID:19139265		GO:0106006	cytoskeletal protein-membrane anchor activity	IPI	PomBase:SPBC83.18c	PomBase:SPBC11C11.02	PANTHER:PTHR23065	20170914	GO:0000087|GO:1903475	NCBITaxon:4896
+PomBase	PomBase:SPBC83.18c	fic1	PMID:19139265		GO:0106006	cytoskeletal protein-membrane anchor activity	IPI	PomBase:SPAC20G8.05c	PomBase:SPBC83.18c	PANTHER:PTHR32246	20170914	GO:0000087|GO:1903475	NCBITaxon:4896
+PomBase	PomBase:SPBC83.18c	fic1	PMID:19139265		GO:0106006	cytoskeletal protein-membrane anchor activity	IPI	PomBase:SPBC11C11.02	PomBase:SPBC83.18c	PANTHER:PTHR32246	20170914	GO:0000087|GO:1903475	NCBITaxon:4896
+PomBase	PomBase:SPAC20G8.05c	cdc15	PMID:19139265		GO:0106006	cytoskeletal protein-membrane anchor activity	IPI	PomBase:SPBC83.18c	PomBase:SPAC20G8.05c	PANTHER:PTHR23065	20170914	GO:0000087|GO:1903475	NCBITaxon:4896
+PomBase	PomBase:SPCC4B3.15	mid1	PMID:21376595		GO:0106006	cytoskeletal protein-membrane anchor activity	EXP		PomBase:SPCC4B3.15	PANTHER:PTHR21538	20210106	PomBase:SPAC4F8.13c|GO:0031097|GO:1903475	NCBITaxon:4896
+PomBase	PomBase:SPBC12C2.05c	bzz1	PMID:21885283		GO:0106006	cytoskeletal protein-membrane anchor activity	IPI	PomBase:SPAC4F10.15c	PomBase:SPBC12C2.05c	PANTHER:PTHR15735	20171031	PomBase:SPAC4F10.15c|GO:0034314	NCBITaxon:4896
+PomBase	PomBase:SPAC20G8.05c	cdc15	PMID:23093943		GO:0106006	cytoskeletal protein-membrane anchor activity	IPI	PomBase:SPBC83.18c	PomBase:SPAC20G8.05c	PANTHER:PTHR23065	20210326	GO:0000087|PomBase:SPBC83.18c|GO:0061171	NCBITaxon:4896
+PomBase	PomBase:SPAC20G8.05c	cdc15	PMID:24127216		GO:0106006	cytoskeletal protein-membrane anchor activity	IMP		PomBase:SPAC20G8.05c	PANTHER:PTHR23065	20210113	GO:0000087|PomBase:SPCC895.05|GO:0031097|GO:1903475	NCBITaxon:4896
+PomBase	PomBase:SPBC1A4.05	blt1	PMID:24790095		GO:0106006	cytoskeletal protein-membrane anchor activity	IMP		PomBase:SPBC1A4.05		20191130	PomBase:SPAC1782.09c|GO:0000281	NCBITaxon:4896
+PomBase	PomBase:SPBC1A4.05	blt1	PMID:24790095		GO:0106006	cytoskeletal protein-membrane anchor activity	IMP		PomBase:SPBC1A4.05		20191130	PomBase:SPAC24B11.11c|GO:0000281	NCBITaxon:4896
+PomBase	PomBase:SPBC1A4.05	blt1	PMID:24790095		GO:0106006	cytoskeletal protein-membrane anchor activity	IMP		PomBase:SPBC1A4.05		20191130	PomBase:SPBC428.13c|GO:0000281	NCBITaxon:4896
+PomBase	PomBase:SPAC20G8.05c	cdc15	PMID:25428987		GO:0106006	cytoskeletal protein-membrane anchor activity	EXP		PomBase:SPAC20G8.05c	PANTHER:PTHR23065	20210118	GO:0000087|PomBase:SPAC3G9.05|GO:0031097|GO:1903475	NCBITaxon:4896
+PomBase	PomBase:SPAC20G8.05c	cdc15	PMID:25428987		GO:0106006	cytoskeletal protein-membrane anchor activity	EXP		PomBase:SPAC20G8.05c	PANTHER:PTHR23065	20210118	GO:0000087|PomBase:SPCC645.06c|GO:0031097|GO:1903475	NCBITaxon:4896
+PomBase	PomBase:SPAC20G8.05c	cdc15	PMID:25688133		GO:0106006	cytoskeletal protein-membrane anchor activity	EXP		PomBase:SPAC20G8.05c	PANTHER:PTHR23065	20200117	GO:0000087|PomBase:SPAC1F5.04c|GO:0031097|GO:1903475	NCBITaxon:4896
+PomBase	PomBase:SPBC216.02	num1	PMID:25736293	contributes_to	GO:0106006	cytoskeletal protein-membrane anchor activity	EXP		PomBase:SPBC216.02		20170718	GO:0032118	NCBITaxon:4896
+PomBase	PomBase:SPBC1347.12	arp1	PMID:25736293	contributes_to	GO:0106006	cytoskeletal protein-membrane anchor activity	EXP		PomBase:SPBC1347.12	PANTHER:PTHR11937	20170412	GO:0032118	NCBITaxon:4896
+PomBase	PomBase:SPAC14C4.08	mug5	PMID:25736293	contributes_to	GO:0106006	cytoskeletal protein-membrane anchor activity	EXP		PomBase:SPAC14C4.08		20170718	GO:0032118	NCBITaxon:4896
+PomBase	PomBase:SPCC11E10.03	jnm1	PMID:25736293	contributes_to	GO:0106006	cytoskeletal protein-membrane anchor activity	EXP		PomBase:SPCC11E10.03	PANTHER:PTHR15346	20170718	GO:0032118	NCBITaxon:4896
+PomBase	PomBase:SPCC4B3.15	mid1	PMID:25959226		GO:0106006	cytoskeletal protein-membrane anchor activity	EXP		PomBase:SPCC4B3.15	PANTHER:PTHR21538	20230228		NCBITaxon:4896
+PomBase	PomBase:SPAC20G8.05c	cdc15	PMID:26702831		GO:0106006	cytoskeletal protein-membrane anchor activity	IMP		PomBase:SPAC20G8.05c	PANTHER:PTHR23065	20200127	GO:0000087|GO:1903475	NCBITaxon:4896
+PomBase	PomBase:SPAC20G8.05c	cdc15	PMID:28784611		GO:0106006	cytoskeletal protein-membrane anchor activity	IMP		PomBase:SPAC20G8.05c	PANTHER:PTHR23065	20170911	GO:0000087|GO:1903475	NCBITaxon:4896
+PomBase	PomBase:SPAC20G8.05c	cdc15	PMID:29343550		GO:0106006	cytoskeletal protein-membrane anchor activity	IPI	PomBase:SPAC1F5.04c	PomBase:SPAC20G8.05c	PANTHER:PTHR23065	20180131	GO:0000087|PomBase:SPAC1F5.04c|GO:0031097|GO:1903475	NCBITaxon:4896
+PomBase	PomBase:SPAC20G8.05c	cdc15	PMID:32101481		GO:0106006	cytoskeletal protein-membrane anchor activity	EXP		PomBase:SPAC20G8.05c	PANTHER:PTHR23065	20210119	GO:1903475	NCBITaxon:4896
+PomBase	PomBase:SPAC20G8.05c	cdc15	PMID:33357436		GO:0106006	cytoskeletal protein-membrane anchor activity	EXP		PomBase:SPAC20G8.05c	PANTHER:PTHR23065	20210113	GO:0000087|PomBase:SPBC4F6.12|GO:0031097|GO:1903475	NCBITaxon:4896
+PomBase	PomBase:SPAC20G8.05c	cdc15	PMID:33357436		GO:0106006	cytoskeletal protein-membrane anchor activity	IDA		PomBase:SPAC20G8.05c	PANTHER:PTHR23065	20210113	GO:0000087|PomBase:SPAC1F5.04c|GO:0031097|GO:1903475	NCBITaxon:4896
+PomBase	PomBase:SPBC11C11.02	imp2	PMID:34402513		GO:0106006	cytoskeletal protein-membrane anchor activity	EXP		PomBase:SPBC11C11.02	PANTHER:PTHR23065	20210727	GO:1903475	NCBITaxon:4896
+PomBase	PomBase:SPCC162.07	ent1	PMID:37831774		GO:0106006	cytoskeletal protein-membrane anchor activity	TAS		PomBase:SPCC162.07	PANTHER:PTHR12276	20260713		NCBITaxon:4896
+PomBase	PomBase:SPAC688.11	end4	PMID:37831774		GO:0106006	cytoskeletal protein-membrane anchor activity	EXP		PomBase:SPAC688.11	PANTHER:PTHR10407	20240710	GO:0030669	NCBITaxon:4896
+PomBase	PomBase:SPAC688.11	end4	PMID:37831774		GO:0106006	cytoskeletal protein-membrane anchor activity	EXP		PomBase:SPAC688.11	PANTHER:PTHR10407	20240711	GO:0030669|GO:0097754	NCBITaxon:4896
+UniProt	UniProtKB:Q9H254	SPTBN4	PMID:11086001		GO:0106006	cytoskeletal protein-membrane anchor activity	TAS		UniProtKB:Q9H254	PANTHER:PTHR11915	20200331		NCBITaxon:9606
+UniProt	MGI:MGI:88026	Ank3	PMID:20877009		GO:0106006	cytoskeletal protein-membrane anchor activity	IDA		MGI:MGI:88026	PANTHER:PTHR24198	20260616		NCBITaxon:10090
+UniProt	UniProtKB:P17600	SYN1	PMID:2110562		GO:0106006	cytoskeletal protein-membrane anchor activity	TAS		UniProtKB:P17600	PANTHER:PTHR10841	20220207		NCBITaxon:9606
+dictyBase	dictyBase:DDB_G0293522	ponA	PMID:18522444		GO:0106006	cytoskeletal protein-membrane anchor activity	IDA		dictyBase:DDB_G0293522		20200324		NCBITaxon:44689
+ComplexPortal	ComplexPortal:CPX-1385	unc83_caeel-1	PMID:16481402		GO:0140444	cytoskeleton-nuclear membrane anchor activity	IPI				20240827		NCBITaxon:6239
+ComplexPortal	ComplexPortal:CPX-7675	sun1-kash4_human	PMID:22632968		GO:0140444	cytoskeleton-nuclear membrane anchor activity	NAS				20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-7674	sun2-kash4_human	PMID:22632968		GO:0140444	cytoskeleton-nuclear membrane anchor activity	NAS				20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-7673	sun1-kash3_human	PMID:22632968		GO:0140444	cytoskeleton-nuclear membrane anchor activity	NAS				20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-7671	sun2-kash3_human	PMID:22632968		GO:0140444	cytoskeleton-nuclear membrane anchor activity	NAS				20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-7670	sun1-kash2_human	PMID:22632968		GO:0140444	cytoskeleton-nuclear membrane anchor activity	NAS				20250227		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-7669	sun2-kash2_human	PMID:22632968		GO:0140444	cytoskeleton-nuclear membrane anchor activity	NAS				20250227		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-7668	sun1-kash1_human	PMID:22632968		GO:0140444	cytoskeleton-nuclear membrane anchor activity	NAS				20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-7667	sun2-kash1_human	PMID:22632968		GO:0140444	cytoskeleton-nuclear membrane anchor activity	NAS				20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-7666	sun2-kash5_human	PMID:22632968		GO:0140444	cytoskeleton-nuclear membrane anchor activity	NAS				20241113		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-2537	sun1-kash5_human	PMID:33393904		GO:0140444	cytoskeleton-nuclear membrane anchor activity	NAS				20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-9541	sun2-kash6_human	PMID:38291267		GO:0140444	cytoskeleton-nuclear membrane anchor activity	NAS				20240918		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-9521	sun1-kash6_human	PMID:38291267		GO:0140444	cytoskeleton-nuclear membrane anchor activity	NAS				20240918		NCBITaxon:9606
+GO_Central	UniProtKB:Q9UH99	SUN2	PMID:18396275		GO:0140444	cytoskeleton-nuclear membrane anchor activity	IDA		UniProtKB:Q9UH99	PANTHER:PTHR12911	20200512		NCBITaxon:9606
+GO_Central	UniProtKB:Q8WXH0	SYNE2	PMID:18396275		GO:0140444	cytoskeleton-nuclear membrane anchor activity	IDA		UniProtKB:Q8WXH0	PANTHER:PTHR14514	20200512		NCBITaxon:9606
+GO_Central	UniProtKB:O94901	SUN1	PMID:18396275		GO:0140444	cytoskeleton-nuclear membrane anchor activity	IDA		UniProtKB:O94901	PANTHER:PTHR12911	20200512		NCBITaxon:9606
+GO_Central	UniProtKB:Q8NF91	SYNE1	PMID:18396275		GO:0140444	cytoskeleton-nuclear membrane anchor activity	IDA		UniProtKB:Q8NF91	PANTHER:PTHR14514	20200512		NCBITaxon:9606
+GO_Central	UniProtKB:Q6ZMZ3	SYNE3	PMID:18396275		GO:0140444	cytoskeleton-nuclear membrane anchor activity	IDA		UniProtKB:Q6ZMZ3	PANTHER:PTHR47535	20200512		NCBITaxon:9606
+SGD	SGD:S000003043	MPS2	PMID:32059771		GO:0140444	cytoskeleton-nuclear membrane anchor activity	IMP		SGD:S000003043		20200529		NCBITaxon:559292
+SGD	SGD:S000006121	CSM4	PMID:32059771		GO:0140444	cytoskeleton-nuclear membrane anchor activity	IMP		SGD:S000006121		20200622		NCBITaxon:559292
+SGD	SGD:S000003043	MPS2	PMID:32967926		GO:0140444	cytoskeleton-nuclear membrane anchor activity	IDA		SGD:S000003043		20210311	GO:0044821|GO:0000781|GO:0034993	NCBITaxon:559292
+PomBase	PomBase:SPBC365.15	alp4	PMID:17486116		GO:1990734	astral microtubule anchoring at mitotic spindle pole body	IMP		PomBase:SPBC365.15	PANTHER:PTHR19302	20140905		NCBITaxon:4896
+SGD	SGD:S000000045	SPC72	PMID:12970190		GO:1990734	astral microtubule anchoring at mitotic spindle pole body	IMP		SGD:S000000045		20190706		NCBITaxon:559292
+ComplexPortal	ComplexPortal:CPX-26534	mwp_schpo	PMID:25987607		GO:1990810	microtubule anchoring at mitotic spindle pole body	IDA				20250828		NCBITaxon:284812
+ComplexPortal	PomBase:SPAC3A11.14c	pkl1	PMID:25987607		GO:1990810	microtubule anchoring at mitotic spindle pole body	IDA		PomBase:SPAC3A11.14c	PANTHER:PTHR24115	20250828		NCBITaxon:4896
+ComplexPortal	PomBase:SPBC13E7.06	msd1	PMID:25987607		GO:1990810	microtubule anchoring at mitotic spindle pole body	IDA		PomBase:SPBC13E7.06		20250828		NCBITaxon:4896
+ComplexPortal	PomBase:SPBC32H8.09	wdr8	PMID:25987607		GO:1990810	microtubule anchoring at mitotic spindle pole body	IDA		PomBase:SPBC32H8.09	PANTHER:PTHR16220	20250828		NCBITaxon:4896
+PomBase	PomBase:SPAC3A11.14c	pkl1	PMID:25987607		GO:1990810	microtubule anchoring at mitotic spindle pole body	IMP		PomBase:SPAC3A11.14c	PANTHER:PTHR24115	20150724		NCBITaxon:4896
+PomBase	PomBase:SPBC13E7.06	msd1	PMID:25987607		GO:1990810	microtubule anchoring at mitotic spindle pole body	IMP		PomBase:SPBC13E7.06		20150724		NCBITaxon:4896
+PomBase	PomBase:SPBC32H8.09	wdr8	PMID:25987607		GO:1990810	microtubule anchoring at mitotic spindle pole body	IMP		PomBase:SPBC32H8.09	PANTHER:PTHR16220	20150724		NCBITaxon:4896
+PomBase	PomBase:SPAC664.10	klp2	PMID:29167352		GO:1990810	microtubule anchoring at mitotic spindle pole body	IGI	PomBase:SPAC3A11.14c	PomBase:SPAC664.10	PANTHER:PTHR24115	20180611		NCBITaxon:4896
+PomBase	PomBase:SPAC3A11.14c	pkl1	PMID:29167352		GO:1990810	microtubule anchoring at mitotic spindle pole body	IMP		PomBase:SPAC3A11.14c	PANTHER:PTHR24115	20180611		NCBITaxon:4896

@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPAC3A11.14c	pkl1	PMID:25987607		GO:0008569	minus-end-directed microtubule motor activity	IMP		PomBase:SPAC3A11.14c	PANTHER:PTHR24115	20150909	PomBase:SPBC13E7.06|PomBase:SPBC32H8.09|GO:1990810	NCBITaxon:4896
