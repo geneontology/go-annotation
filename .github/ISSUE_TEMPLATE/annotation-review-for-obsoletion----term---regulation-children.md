@@ -2,8 +2,8 @@
 name: Annotation review for obsoletion  - term + regulation children
 about: 'Annotation review for obsoletion '
 title: Review annotations to [INSERT GO TERM]  & regulation children
-labels: annotation review, reg_ann_to_list_of_terms
-assignees: ''
+labels: annotation review, reg_ann_to_list_of_terms, UniRule
+assignees: PedroRaposo
 
 ---
 
@@ -11,6 +11,8 @@ Dear all,
 
 The proposal has been made to obsolete GO TERM ID: GO TERM, and its regulation children, 
 see [LINK TO GO-ONTOLOGY TICKET]
+
+The reason for obsoletion is: 
 
 Experimental annotations that need to be reviewed are here: 
 [LINK TO ANNOTATION REVIEW GOOGLE SPREADSHEET https://docs.google.com/spreadsheets/d/13oNsCNrIDGH26TAKCvpDW2QJXT_0vsR0g4qMKygR_b4]
