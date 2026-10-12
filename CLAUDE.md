@@ -53,7 +53,7 @@ The code surface is small. Most commits are issue-template nudges, spec tweaks, 
 
 - **GOlr Solr** — `https://golr-aux.geneontology.io/solr/select?...`. Existing scripts still use `http://` URLs; Cloudflare 301s them to HTTPS and `requests` follows silently, so they keep working. Prefer `https://` in new code. Canonical `fl` field list lives in `annotation-review-report.py`; add new fields there.
   - **GOlr flattens with/from grouping.** `evidence_with` is a flat multi-valued field, and no value anywhere in the index contains a comma (`fq=evidence_with:*,*` → `numFound: 0`, checked 2026-08-05). So `A,B` (AND) and `A|B` (OR) are indistinguishable by the time a reporter here sees them — see [GPAD 2.0 with/from semantics](#gpad-20-withfrom-column-7-semantics). A report that needs the grouping must read the GPAD/GAF files, not GOlr.
-- **External2go snapshot** — `http://snapshot.geneontology.org/ontology/external2go/`; the `reg` workflow `wget -r`'s it and then prunes specific files (`pfam2go`, `pirsf2go`, …) — mirror that pattern if adding another mapping reporter.
+- **External2go mappings** — `https://current.geneontology.org/ontology/external2go/` (the current release; not `snapshot`, which stopped updating in 2026-05 — go-site#2754). Both report workflows crawl it with `wget --recursive --accept '*2go' --reject pfam2go,pirsf2go,…` (curator-requested exclusions) into `$RUNNER_TEMP/external2go`, outside the checkout, so nothing needs cleaning up or can be committed by accident. The file set is whatever the release's `index.html` lists; it is defined in go-ontology `src/ontology/Makefile` (`generate-mappings`). Mirror that pattern if adding another mapping reporter.
 - **GitHub issue search** — plain REST, `api.github.com/search/issues`. No auth in scripts; rate limits apply, scripts `time.sleep(10)` before calling.
 
 ## GPAD 2.0 with/from (column 7) semantics
@@ -87,7 +87,7 @@ Workflows trigger on `issues: [opened]`. There's an inline TODO in both workflow
 
 - `geneontology/annotation-query` — closely related reporter scripts; changes here and there often move together (see commit `03bba9c`).
 - `geneontology/pipeline-from-goa` — upstream data ingest feeding GOlr. Shares the `; for org/repo#NN` commit-trailer convention.
-- `geneontology/operations` — documents the hosts behind `snapshot.geneontology.org` and `golr-aux.geneontology.io`; check there when debugging endpoint issues.
+- `geneontology/operations` — documents the hosts behind `current.geneontology.org` and `golr-aux.geneontology.io`; check there when debugging endpoint issues.
 - `geneontology/go-ontology` — authoritative source for GO terms referenced in tickets (obsoletion reviews link back here).
 - `geneontology/go-site` / `geneontology/go-fastapi` — downstream public surface for the data this repo's reports describe.
 
