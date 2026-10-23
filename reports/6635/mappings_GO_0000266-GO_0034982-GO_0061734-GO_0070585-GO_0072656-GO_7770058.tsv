@@ -1,0 +1,7 @@
+term	file	line
+GO:0000266	interpro2go	InterPro:IPR016543 Mitochondria fission 1 protein > GO:mitochondrial fission ; GO:0000266
+GO:0000266	interpro2go	InterPro:IPR021653 CCR4-associated factor 4 > GO:mitochondrial fission ; GO:0000266
+GO:0000266	unirule2go	UniRule:UR000460770 > GO:mitochondrial fission ; GO:0000266
+GO:0000266	unirule2go	UniRule:UR001527798 > GO:mitochondrial fission ; GO:0000266
+GO:0000266	unirule2go	UniRule:UR001693760 > GO:mitochondrial fission ; GO:0000266
+GO:0070585	interpro2go	InterPro:IPR037730 Mitochondrial inner membrane protease subunit 2 > GO:protein localization to mitochondrion ; GO:0070585
