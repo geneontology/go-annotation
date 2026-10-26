@@ -1,0 +1,171 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPCC1442.15c	cox18	PMID:16911509		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IGI	SGD:S000003294	PomBase:SPCC1442.15c	PANTHER:PTHR12428	20180807		NCBITaxon:4896
+SGD	SGD:S000005792	PNT1	PMID:10490599		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IMP		SGD:S000005792		20130807		NCBITaxon:559292
+SGD	SGD:S000002265	MSS2	PMID:11604502		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IMP		SGD:S000002265		20130807		NCBITaxon:559292
+SGD	SGD:S000003294	COX18	PMID:11950926		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IGI	SGD:S000002265	SGD:S000003294	PANTHER:PTHR12428	20130807		NCBITaxon:559292
+SGD	SGD:S000003294	COX18	PMID:11950926		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IGI	SGD:S000005792	SGD:S000003294	PANTHER:PTHR12428	20130807		NCBITaxon:559292
+SGD	SGD:S000003294	COX18	PMID:11950926		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IMP		SGD:S000003294	PANTHER:PTHR12428	20130807		NCBITaxon:559292
+SGD	SGD:S000005792	PNT1	PMID:11950926		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IGI	SGD:S000003294	SGD:S000005792		20130807		NCBITaxon:559292
+SGD	SGD:S000005792	PNT1	PMID:11950926		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IPI	SGD:S000003294	SGD:S000005792		20130807		NCBITaxon:559292
+SGD	SGD:S000002265	MSS2	PMID:11950926		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IGI	SGD:S000003294	SGD:S000002265		20130807		NCBITaxon:559292
+SGD	SGD:S000002265	MSS2	PMID:11950926		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IPI	SGD:S000003294	SGD:S000002265		20130807		NCBITaxon:559292
+SGD	SGD:S000005387	MDM38	PMID:16476776		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IMP		SGD:S000005387	PANTHER:PTHR14009	20190318		NCBITaxon:559292
+SGD	SGD:S000006329	YLH47	PMID:16476776		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IMP		SGD:S000006329	PANTHER:PTHR14009	20190318		NCBITaxon:559292
+SGD	SGD:S000000389	MBA1	PMID:16601683		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IMP		SGD:S000000389	PANTHER:PTHR13333	20130807		NCBITaxon:559292
+SGD	SGD:S000003294	COX18	PMID:17452441		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IPI	SGD:S000007281	SGD:S000003294	PANTHER:PTHR12428	20130807		NCBITaxon:559292
+SGD	SGD:S000000956	OXA1	PMID:17452441		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IMP		SGD:S000000956	PANTHER:PTHR12428	20130807		NCBITaxon:559292
+SGD	SGD:S000002265	MSS2	PMID:17452441		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IPI	SGD:S000007281	SGD:S000002265		20130807		NCBITaxon:559292
+SGD	SGD:S000003294	COX18	PMID:17922846		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IGI	UniProtKB:A1AHN9	SGD:S000003294	PANTHER:PTHR12428	20130807		NCBITaxon:559292
+SGD	SGD:S000002783	BCS1	PMID:22017868		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IMP		SGD:S000002783	PANTHER:PTHR23070	20130807		NCBITaxon:559292
+SGD	SGD:S000002783	BCS1	PMID:22017868		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IPI	SGD:S000000750	SGD:S000002783	PANTHER:PTHR23070	20180223		NCBITaxon:559292
+SGD	SGD:S000005323	MRX15	PMID:30091672		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IGI	SGD:S000000389	SGD:S000005323		20190319		NCBITaxon:559292
+SGD	SGD:S000000956	OXA1	PMID:9285818		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IMP		SGD:S000000956	PANTHER:PTHR12428	20130807		NCBITaxon:559292
+SGD	SGD:S000000956	OXA1	PMID:9428747		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IMP		SGD:S000000956	PANTHER:PTHR12428	20130807		NCBITaxon:559292
+SGD	SGD:S000000956	OXA1	PMID:9482871		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IMP		SGD:S000000956	PANTHER:PTHR12428	20130807		NCBITaxon:559292
+UniProt	UniProtKB:Q8N8Q8	COX18	PMID:28330871		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IDA		UniProtKB:Q8N8Q8	PANTHER:PTHR12428	20171207		NCBITaxon:9606
+UniProt	UniProtKB:Q15070	OXA1L	PMID:33602856		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IDA		UniProtKB:Q15070	PANTHER:PTHR12428	20240219		NCBITaxon:9606
+UniProt	UniProtKB:Q9H061	TMEM126A	PMID:38199007		GO:0032979	protein insertion into mitochondrial inner membrane from matrix	IDA		UniProtKB:Q9H061	PANTHER:PTHR16296	20240220		NCBITaxon:9606
+BHF-UCL	MGI:MGI:1353429	Timm10	PMID:14726512		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		MGI:MGI:1353429	PANTHER:PTHR11038	20110711		NCBITaxon:10090
+BHF-UCL	MGI:MGI:1353436	Timm9	PMID:14726512		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		MGI:MGI:1353436	PANTHER:PTHR13172	20110711		NCBITaxon:10090
+BHF-UCL	UniProtKB:Q9Y584	TIMM22	PMID:14726512		GO:0045039	protein insertion into mitochondrial inner membrane	TAS		UniProtKB:Q9Y584	PANTHER:PTHR14110	20110714		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9Y5L4	TIMM13	PMID:16387659		GO:0045039	protein insertion into mitochondrial inner membrane	TAS		UniProtKB:Q9Y5L4	PANTHER:PTHR19338	20210210		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9Y5J9	TIMM8B	PMID:16387659		GO:0045039	protein insertion into mitochondrial inner membrane	TAS		UniProtKB:Q9Y5J9	PANTHER:PTHR19338	20210210		NCBITaxon:9606
+BHF-UCL	UniProtKB:P62072	TIMM10	PMID:16387659		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:P62072	PANTHER:PTHR11038	20110715		NCBITaxon:9606
+BHF-UCL	UniProtKB:O60220	TIMM8A	PMID:16387659		GO:0045039	protein insertion into mitochondrial inner membrane	TAS		UniProtKB:O60220	PANTHER:PTHR19338	20210210		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9Y5J7	TIMM9	PMID:16387659		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q9Y5J7	PANTHER:PTHR13172	20210210		NCBITaxon:9606
+ComplexPortal	SGD:S000002376	TIM22	PMID:10648604		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		SGD:S000002376	PANTHER:PTHR14110	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000003590	TIM54	PMID:10648604		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		SGD:S000003590	PANTHER:PTHR12358	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000003530	TIM10	PMID:10648604		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		SGD:S000003530	PANTHER:PTHR11038	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000007256	TIM9	PMID:10648604		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		SGD:S000007256	PANTHER:PTHR13172	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000000295	TIM12	PMID:10648604		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		SGD:S000000295	PANTHER:PTHR11038	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000005823	TIM18	PMID:10648604		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		SGD:S000005823	PANTHER:PTHR13337	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000217949	CPX-1629	PMID:10648604		GO:0045039	protein insertion into mitochondrial inner membrane	IDA				20240827		NCBITaxon:559292
+ComplexPortal	UniProtKB:Q9Y5L4	TIMM13	PMID:11956200		GO:0045039	protein insertion into mitochondrial inner membrane	NAS		UniProtKB:Q9Y5L4	PANTHER:PTHR19338	20240823		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9Y5J9	TIMM8B	PMID:11956200		GO:0045039	protein insertion into mitochondrial inner membrane	NAS		UniProtKB:Q9Y5J9	PANTHER:PTHR19338	20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-6132	timm13-timm8b_human	PMID:11956200		GO:0045039	protein insertion into mitochondrial inner membrane	NAS				20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-6131	timm13-timm8a_human	PMID:11956200		GO:0045039	protein insertion into mitochondrial inner membrane	NAS				20240823		NCBITaxon:9606
+ComplexPortal	UniProtKB:O60220	TIMM8A	PMID:11956200		GO:0045039	protein insertion into mitochondrial inner membrane	NAS		UniProtKB:O60220	PANTHER:PTHR19338	20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-6126	tim9-tim10-tim10b_human	PMID:14726512		GO:0045039	protein insertion into mitochondrial inner membrane	NAS				20240823		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9Y5J6	TIMM10B	PMID:14726512		GO:0045039	protein insertion into mitochondrial inner membrane	NAS		UniProtKB:Q9Y5J6	PANTHER:PTHR13172	20240823		NCBITaxon:9606
+ComplexPortal	UniProtKB:P62072	TIMM10	PMID:14726512		GO:0045039	protein insertion into mitochondrial inner membrane	NAS		UniProtKB:P62072	PANTHER:PTHR11038	20240823		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9Y5J7	TIMM9	PMID:14726512		GO:0045039	protein insertion into mitochondrial inner membrane	NAS		UniProtKB:Q9Y5J7	PANTHER:PTHR13172	20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-6125	tim9-tim10_human	PMID:16387659		GO:0045039	protein insertion into mitochondrial inner membrane	IDA				20240823		NCBITaxon:9606
+ComplexPortal	UniProtKB:P62072	TIMM10	PMID:16387659		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:P62072	PANTHER:PTHR11038	20240823		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9Y5J7	TIMM9	PMID:16387659		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q9Y5J7	PANTHER:PTHR13172	20240823		NCBITaxon:9606
+ComplexPortal	SGD:S000007348	TIM8	PMID:18706423		GO:0045039	protein insertion into mitochondrial inner membrane	NAS		SGD:S000007348	PANTHER:PTHR19338	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000003413	TIM13	PMID:18706423		GO:0045039	protein insertion into mitochondrial inner membrane	NAS		SGD:S000003413	PANTHER:PTHR19338	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000218150	CPX-2371	PMID:18706423		GO:0045039	protein insertion into mitochondrial inner membrane	NAS				20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000003530	TIM10	PMID:19037098		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		SGD:S000003530	PANTHER:PTHR11038	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000007256	TIM9	PMID:19037098		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		SGD:S000007256	PANTHER:PTHR13172	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000218148	CPX-2268	PMID:19037098		GO:0045039	protein insertion into mitochondrial inner membrane	IDA				20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000005300	TIM23	PMID:25454944		GO:0045039	protein insertion into mitochondrial inner membrane	NAS		SGD:S000005300	PANTHER:PTHR15371	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000005984	TIM50	PMID:25454944		GO:0045039	protein insertion into mitochondrial inner membrane	NAS		SGD:S000005984	PANTHER:PTHR12210	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000003679	TIM17	PMID:25454944		GO:0045039	protein insertion into mitochondrial inner membrane	NAS		SGD:S000003679	PANTHER:PTHR10485	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000003265	TIM21	PMID:25454944		GO:0045039	protein insertion into mitochondrial inner membrane	NAS		SGD:S000003265	PANTHER:PTHR13032	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000006019	MGR2	PMID:25454944		GO:0045039	protein insertion into mitochondrial inner membrane	NAS		SGD:S000006019	PANTHER:PTHR28525	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000299194	CPX-6127	PMID:25454944		GO:0045039	protein insertion into mitochondrial inner membrane	NAS				20240827		NCBITaxon:559292
+ComplexPortal	UniProtKB:Q53H12	AGK	PMID:32901109		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q53H12	PANTHER:PTHR12358	20260109		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9BSF4	TIMM29	PMID:32901109		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q9BSF4	PANTHER:PTHR21435	20260109		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-6124	tim22_human-2	PMID:32901109		GO:0045039	protein insertion into mitochondrial inner membrane	IDA				20260109		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9Y5J6	TIMM10B	PMID:32901109		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q9Y5J6	PANTHER:PTHR13172	20260109		NCBITaxon:9606
+ComplexPortal	UniProtKB:P62072	TIMM10	PMID:32901109		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:P62072	PANTHER:PTHR11038	20260109		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9Y584	TIMM22	PMID:32901109		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q9Y584	PANTHER:PTHR14110	20260109		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9Y5J7	TIMM9	PMID:32901109		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q9Y5J7	PANTHER:PTHR13172	20260109		NCBITaxon:9606
+FlyBase	UniProtKB:Q9Y5L4	TIMM13	PMID:11875042		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		UniProtKB:Q9Y5L4	PANTHER:PTHR19338	20240807		NCBITaxon:9606
+FlyBase	UniProtKB:O60220	TIMM8A	PMID:11875042		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		UniProtKB:O60220	PANTHER:PTHR19338	20240807		NCBITaxon:9606
+FlyBase	UniProtKB:Q9BSF4	TIMM29	PMID:27554484		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		UniProtKB:Q9BSF4	PANTHER:PTHR21435	20201008		NCBITaxon:9606
+FlyBase	UniProtKB:Q9Y584	TIMM22	PMID:27554484		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		UniProtKB:Q9Y584	PANTHER:PTHR14110	20201008		NCBITaxon:9606
+FlyBase	UniProtKB:P60602	ROMO1	PMID:30598479		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		UniProtKB:P60602	PANTHER:PTHR28525	20231220		NCBITaxon:9606
+FlyBase	FB:FBgn0029665	Timm29	PMID:40022150		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		FB:FBgn0029665	PANTHER:PTHR21435	20260403		NCBITaxon:7227
+SGD	SGD:S000007348	TIM8	PMID:10051608		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		SGD:S000007348	PANTHER:PTHR19338	20130807		NCBITaxon:559292
+SGD	SGD:S000003413	TIM13	PMID:10051608		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		SGD:S000003413	PANTHER:PTHR19338	20130807		NCBITaxon:559292
+SGD	SGD:S000007348	TIM8	PMID:10469659		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		SGD:S000007348	PANTHER:PTHR19338	20130807		NCBITaxon:559292
+SGD	SGD:S000007348	TIM8	PMID:10469659		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		SGD:S000007348	PANTHER:PTHR19338	20130807		NCBITaxon:559292
+SGD	SGD:S000007256	TIM9	PMID:10469659		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		SGD:S000007256	PANTHER:PTHR13172	20130807		NCBITaxon:559292
+SGD	SGD:S000003413	TIM13	PMID:10469659		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		SGD:S000003413	PANTHER:PTHR19338	20130807		NCBITaxon:559292
+SGD	SGD:S000003413	TIM13	PMID:10469659		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		SGD:S000003413	PANTHER:PTHR19338	20130807		NCBITaxon:559292
+SGD	SGD:S000003590	TIM54	PMID:10637294		GO:0045039	protein insertion into mitochondrial inner membrane	IGI	SGD:S000005823	SGD:S000003590	PANTHER:PTHR12358	20130807		NCBITaxon:559292
+SGD	SGD:S000005823	TIM18	PMID:10637294		GO:0045039	protein insertion into mitochondrial inner membrane	IGI	SGD:S000003590	SGD:S000005823	PANTHER:PTHR13337	20130807		NCBITaxon:559292
+SGD	SGD:S000002376	TIM22	PMID:10648604		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		SGD:S000002376	PANTHER:PTHR14110	20130807		NCBITaxon:559292
+SGD	SGD:S000003590	TIM54	PMID:17893242		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		SGD:S000003590	PANTHER:PTHR12358	20130807		NCBITaxon:559292
+SGD	SGD:S000005065	TOM70	PMID:2177474		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		SGD:S000005065	PANTHER:PTHR46208	20130807		NCBITaxon:559292
+SGD	SGD:S000005065	TOM70	PMID:2177474		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		SGD:S000005065	PANTHER:PTHR46208	20130807		NCBITaxon:559292
+SGD	SGD:S000001624	SDH3	PMID:22152483		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		SGD:S000001624	PANTHER:PTHR10978	20130807		NCBITaxon:559292
+SGD	SGD:S000000956	OXA1	PMID:22846909		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		SGD:S000000956	PANTHER:PTHR12428	20130807		NCBITaxon:559292
+SGD	SGD:S000006019	MGR2	PMID:25454944		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		SGD:S000006019	PANTHER:PTHR28525	20150305		NCBITaxon:559292
+SGD	SGD:S000002376	TIM22	PMID:32591483		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		SGD:S000002376	PANTHER:PTHR14110	20211029		NCBITaxon:559292
+SGD	SGD:S000002376	TIM22	PMID:32591483		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		SGD:S000002376	PANTHER:PTHR14110	20211029		NCBITaxon:559292
+SGD	SGD:S000002376	TIM22	PMID:8955274		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		SGD:S000002376	PANTHER:PTHR14110	20130807		NCBITaxon:559292
+SGD	SGD:S000003590	TIM54	PMID:9412462		GO:0045039	protein insertion into mitochondrial inner membrane	IGI	SGD:S000002376	SGD:S000003590	PANTHER:PTHR12358	20130807		NCBITaxon:559292
+SGD	SGD:S000003590	TIM54	PMID:9412462		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		SGD:S000003590	PANTHER:PTHR12358	20130807		NCBITaxon:559292
+SGD	SGD:S000003530	TIM10	PMID:9430585		GO:0045039	protein insertion into mitochondrial inner membrane	IMP	SGD:S000000295	SGD:S000003530	PANTHER:PTHR11038	20160113		NCBITaxon:559292
+SGD	SGD:S000000295	TIM12	PMID:9430585		GO:0045039	protein insertion into mitochondrial inner membrane	IMP	SGD:S000003530	SGD:S000000295	PANTHER:PTHR11038	20160113		NCBITaxon:559292
+SGD	SGD:S000003530	TIM10	PMID:9495346		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		SGD:S000003530	PANTHER:PTHR11038	20160113	SGD:S000003530	NCBITaxon:559292
+SGD	SGD:S000000295	TIM12	PMID:9495346		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		SGD:S000000295	PANTHER:PTHR11038	20160113		NCBITaxon:559292
+SGD	SGD:S000000295	TIM12	PMID:9495346		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		SGD:S000000295	PANTHER:PTHR11038	20130827	SGD:S000002376	NCBITaxon:559292
+SGD	SGD:S000000295	TIM12	PMID:9495346		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		SGD:S000000295	PANTHER:PTHR11038	20130827	SGD:S000003669	NCBITaxon:559292
+SGD	SGD:S000007256	TIM9	PMID:9822593		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		SGD:S000007256	PANTHER:PTHR13172	20130807		NCBITaxon:559292
+SGD	SGD:S000007256	TIM9	PMID:9822593		GO:0045039	protein insertion into mitochondrial inner membrane	IGI	SGD:S000003530	SGD:S000007256	PANTHER:PTHR13172	20130807		NCBITaxon:559292
+SGD	SGD:S000007256	TIM9	PMID:9889188		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		SGD:S000007256	PANTHER:PTHR13172	20130807		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT2G37410	TIM17-2	PMID:15722347		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		AGI_LocusCode:AT2G37410		20050515		NCBITaxon:3702
+TIGR	AGI_LocusCode:AT2G46470	OXA1L	PMID:10636840		GO:0045039	protein insertion into mitochondrial inner membrane	TAS		AGI_LocusCode:AT2G46470		20030417		NCBITaxon:3702
+TIGR	AGI_LocusCode:AT5G62050	OXA1	PMID:10636840		GO:0045039	protein insertion into mitochondrial inner membrane	TAS		AGI_LocusCode:AT5G62050		20030417		NCBITaxon:3702
+UniProt	UniProtKB:Q9Y5L4	TIMM13	PMID:10552927		GO:0045039	protein insertion into mitochondrial inner membrane	TAS		UniProtKB:Q9Y5L4	PANTHER:PTHR19338	20251222		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y5J9	TIMM8B	PMID:10552927		GO:0045039	protein insertion into mitochondrial inner membrane	TAS		UniProtKB:Q9Y5J9	PANTHER:PTHR19338	20251222		NCBITaxon:9606
+UniProt	UniProtKB:P62072	TIMM10	PMID:10552927		GO:0045039	protein insertion into mitochondrial inner membrane	TAS		UniProtKB:P62072	PANTHER:PTHR11038	20251222		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y5J7	TIMM9	PMID:10552927		GO:0045039	protein insertion into mitochondrial inner membrane	TAS		UniProtKB:Q9Y5J7	PANTHER:PTHR13172	20251222		NCBITaxon:9606
+UniProt	ZFIN:ZDB-GENE-020419-17	timm23a	PMID:12154367		GO:0045039	protein insertion into mitochondrial inner membrane	TAS		ZFIN:ZDB-GENE-020419-17	PANTHER:PTHR15371	20040618		NCBITaxon:7955
+UniProt	UniProtKB:Q9P0J0	NDUFA13	PMID:23271731		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q9P0J0	PANTHER:PTHR12966	20140219	UniProtKB:P40763	NCBITaxon:9606
+UniProt	UniProtKB:Q53H12	AGK	PMID:28712724		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q53H12	PANTHER:PTHR12358	20170824		NCBITaxon:9606
+UniProt	UniProtKB:Q9BSF4	TIMM29	PMID:28712724		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q9BSF4	PANTHER:PTHR21435	20170824		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y584	TIMM22	PMID:28712724		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q9Y584	PANTHER:PTHR14110	20170824		NCBITaxon:9606
+UniProt	UniProtKB:Q53H12	AGK	PMID:28712726		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q53H12	PANTHER:PTHR12358	20170824		NCBITaxon:9606
+UniProt	UniProtKB:Q9BSF4	TIMM29	PMID:28712726		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q9BSF4	PANTHER:PTHR21435	20170824		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y584	TIMM22	PMID:28712726		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q9Y584	PANTHER:PTHR14110	20170824		NCBITaxon:9606
+WB	WB:WBGene00006573	tin-10	PMID:15485840		GO:0045039	protein insertion into mitochondrial inner membrane	IMP	WB:WBRNAi00062820	WB:WBGene00006573	PANTHER:PTHR11038	20110720		NCBITaxon:6239
+WB	WB:WBGene00006572	tin-9.1	PMID:15485840		GO:0045039	protein insertion into mitochondrial inner membrane	IMP	WB:WBRNAi00062815	WB:WBGene00006572	PANTHER:PTHR13172	20110720		NCBITaxon:6239
+BHF-UCL	UniProtKB:Q96BY2	MOAP1	PMID:16199525		GO:0051204	protein insertion into mitochondrial membrane	IMP		UniProtKB:Q96BY2	PANTHER:PTHR23095	20231013	UniProtKB:Q07812|GO:0090200|GO:0097190	NCBITaxon:9606
+MGI	MGI:MGI:99702	Bax	PMID:12952892		GO:0051204	protein insertion into mitochondrial membrane	IMP	MGI:MGI:1857429	MGI:MGI:99702	PANTHER:PTHR11256	20110609	GO:0006915	NCBITaxon:10090
+RGD	RGD:1303260	Tomm22	PMID:18687331		GO:0051204	protein insertion into mitochondrial membrane	IMP		RGD:1303260	PANTHER:PTHR12504	20171221		NCBITaxon:10116
+RGD	RGD:1303022	Tomm40	PMID:18687331		GO:0051204	protein insertion into mitochondrial membrane	IMP		RGD:1303022	PANTHER:PTHR10802	20171221		NCBITaxon:10116
+UniProt	PomBase:SPCC1442.15c	cox18	PMID:16911509		GO:0051204	protein insertion into mitochondrial membrane	IGI	UniProtKB:P53239	PomBase:SPCC1442.15c	PANTHER:PTHR12428	20090827		NCBITaxon:4896
+UniProt	UniProtKB:Q8N8Q8	COX18	PMID:16911509		GO:0051204	protein insertion into mitochondrial membrane	IGI	UniProtKB:P53239	UniProtKB:Q8N8Q8	PANTHER:PTHR12428	20090827		NCBITaxon:9606
+UniProt	UniProtKB:Q8WWC4	MAIP1	PMID:27642048		GO:0051204	protein insertion into mitochondrial membrane	IMP		UniProtKB:Q8WWC4	PANTHER:PTHR13333	20160923		NCBITaxon:9606
+MGI	MGI:MGI:109341	Eya2	PMID:11700312		GO:0097345	mitochondrial outer membrane permeabilization	IDA		MGI:MGI:109341	PANTHER:PTHR10190	20130510		NCBITaxon:10090
+MGI	MGI:MGI:108093	Bid	PMID:20436477		GO:0097345	mitochondrial outer membrane permeabilization	IGI	MGI:MGI:1929260	MGI:MGI:108093	PANTHER:PTHR35447	20140606		NCBITaxon:10090
+UniProt	UniProtKB:Q8IXI2	RHOT1	PMID:12482879		GO:0097345	mitochondrial outer membrane permeabilization	IMP		UniProtKB:Q8IXI2	PANTHER:PTHR24072	20130429		NCBITaxon:9606
+UniProt	UniProtKB:Q8IXI1	RHOT2	PMID:12482879		GO:0097345	mitochondrial outer membrane permeabilization	IMP		UniProtKB:Q8IXI1	PANTHER:PTHR24072	20130429		NCBITaxon:9606
+UniProt	UniProtKB:Q6QNY1	BLOC1S2	PMID:18188704		GO:0097345	mitochondrial outer membrane permeabilization	IDA		UniProtKB:Q6QNY1	PANTHER:PTHR46479	20130530		NCBITaxon:9606
+UniProt	UniProtKB:Q12983	BNIP3	PMID:18371312		GO:0097345	mitochondrial outer membrane permeabilization	IDA		UniProtKB:Q12983	PANTHER:PTHR15186	20130503		NCBITaxon:9606
+UniProt	UniProtKB:Q7L3V2	RTL10	PMID:23055042		GO:0097345	mitochondrial outer membrane permeabilization	IMP		UniProtKB:Q7L3V2	PANTHER:PTHR15503	20130513		NCBITaxon:9606
+UniProt	UniProtKB:P45880	VDAC2	PMID:31015432		GO:0097345	mitochondrial outer membrane permeabilization	IMP		UniProtKB:P45880	PANTHER:PTHR11743	20200711		NCBITaxon:9606
+BHF-UCL	UniProtKB:O15304	SIVA1	PMID:15034012		GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	IDA		UniProtKB:O15304-1	PANTHER:PTHR14365	20130524		NCBITaxon:9606
+BHF-UCL	UniProtKB:O95201	ZNF205	PMID:22306510		GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	IMP		UniProtKB:O95201	PANTHER:PTHR23226	20121109		NCBITaxon:9606
+ComplexPortal	MGI:MGI:1097161	Bak1	PMID:27488021		GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	NAS		MGI:MGI:1097161	PANTHER:PTHR11256	20241114		NCBITaxon:10090
+ComplexPortal	ComplexPortal:CPX-2033	bak_oligo_mouse	PMID:27488021		GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	NAS				20241114		NCBITaxon:10090
+ComplexPortal	ComplexPortal:CPX-2034	bak_oligo_rat	PMID:27488021		GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	NAS				20240827		NCBITaxon:10116
+ComplexPortal	UniProtKB:Q16611	BAK1	PMID:32929280		GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	NAS		UniProtKB:Q16611	PANTHER:PTHR11256	20250109		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-1989	bak_oligo_human	PMID:32929280		GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	NAS				20250109		NCBITaxon:9606
+MGI	MGI:MGI:1196457	Atp5if1	PMID:19096392		GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	IMP		MGI:MGI:1196457	PANTHER:PTHR23407	20130621		NCBITaxon:10090
+ParkinsonsUK-UCL	UniProtKB:O75146	HIP1R	PMID:19255499		GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	IGI	UniProtKB:Q9HD36	UniProtKB:O75146	PANTHER:PTHR10407	20160915		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q5S007	LRRK2	PMID:21370995		GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	IDA		UniProtKB:Q5S007	PANTHER:PTHR45752	20250215	UniProtKB:P21796|UniProtKB:P12236	NCBITaxon:9606
+UniProt	MGI:MGI:2152453	Gsk3a	PMID:16543145		GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	IDA		MGI:MGI:2152453	PANTHER:PTHR24057	20131011		NCBITaxon:10090
+UniProt	MGI:MGI:1861437	Gsk3b	PMID:16543145		GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	IDA		MGI:MGI:1861437	PANTHER:PTHR24057	20131011		NCBITaxon:10090
+UniProt	MGI:MGI:1858494	Bok	PMID:26949185		GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	IDA		MGI:MGI:1858494	PANTHER:PTHR11256	20160819		NCBITaxon:10090
+SGD	SGD:S000005000	POR1	PMID:30738704		GO:7770058	mitochondrial protein import pathway	IGI	SGD:S000005065	SGD:S000005000	PANTHER:PTHR11743	20260625		NCBITaxon:559292
+SGD	SGD:S000005000	POR1	PMID:30738704		GO:7770058	mitochondrial protein import pathway	IMP		SGD:S000005000	PANTHER:PTHR11743	20260625		NCBITaxon:559292
+FlyBase	UniProtKB:Q9Y6C9	MTCH2	PMID:38428433		GO:7770059	alpha helical protein insertion into mitochondrial outer membrane	IMP		UniProtKB:Q9Y6C9	PANTHER:PTHR10780	20260601		NCBITaxon:9606
+FlyBase	UniProtKB:O94826	TOMM70	PMID:38428433		GO:7770059	alpha helical protein insertion into mitochondrial outer membrane	IGI	UniProtKB:Q9Y6C9	UniProtKB:O94826	PANTHER:PTHR46208	20260601		NCBITaxon:9606
+FlyBase	UniProtKB:Q9NZJ7	MTCH1	PMID:38428433		GO:7770059	alpha helical protein insertion into mitochondrial outer membrane	IMP		UniProtKB:Q9NZJ7	PANTHER:PTHR10780	20260601		NCBITaxon:9606
+FlyBase	FB:FBgn0027786	Mtch	PMID:41576035		GO:7770059	alpha helical protein insertion into mitochondrial outer membrane	IMP		FB:FBgn0027786	PANTHER:PTHR10780	20260601		NCBITaxon:7227
+PomBase	PomBase:SPAC6B12.12	tom70	PMID:21825074		GO:7770059	alpha helical protein insertion into mitochondrial outer membrane	TAS		PomBase:SPAC6B12.12	PANTHER:PTHR46208	20260415		NCBITaxon:4896
+PomBase	PomBase:SPBC713.08	mim1	PMID:33138913		GO:7770059	alpha helical protein insertion into mitochondrial outer membrane	IMP		PomBase:SPBC713.08		20210108		NCBITaxon:4896
+PomBase	PomBase:SPBC409.23	mim2	PMID:33138913		GO:7770059	alpha helical protein insertion into mitochondrial outer membrane	IMP		PomBase:SPBC409.23	PANTHER:PTHR28230	20210108		NCBITaxon:4896
+SGD	SGD:S000217682	CPX-336	PMID:25378463		GO:7770059	alpha helical protein insertion into mitochondrial outer membrane	IDA				20260629		NCBITaxon:559292
+FlyBase	FB:FBgn0263977	Tim17b	PMID:21998726		GO:7770060	TOM-TIM23-SORT-mediated protein insertion into the mitochondrial inner membrane	IMP		FB:FBgn0263977	PANTHER:PTHR10485	20260511		NCBITaxon:7227
+FlyBase	SGD:S000003679	TIM17	PMID:37344598		GO:7770060	TOM-TIM23-SORT-mediated protein insertion into the mitochondrial inner membrane	EXP		SGD:S000003679	PANTHER:PTHR10485	20260511		NCBITaxon:559292
+FlyBase	SGD:S000006019	MGR2	PMID:37344598		GO:7770060	TOM-TIM23-SORT-mediated protein insertion into the mitochondrial inner membrane	EXP		SGD:S000006019	PANTHER:PTHR28525	20260511		NCBITaxon:559292
+FlyBase	SGD:S000003530	TIM10	PMID:30445040		GO:7770061	TOM-TIM22-mediated mitochondrial inner membrane protein insertion	IPI	UniProtKB:P38988	SGD:S000003530	PANTHER:PTHR11038	20260601		NCBITaxon:559292
+FlyBase	SGD:S000007256	TIM9	PMID:30445040		GO:7770061	TOM-TIM22-mediated mitochondrial inner membrane protein insertion	IPI	UniProtKB:P38988	SGD:S000007256	PANTHER:PTHR13172	20260601		NCBITaxon:559292
+FlyBase	SGD:S000003530	TIM10	PMID:30445040		GO:7770063	beta barrel protein insertion into mitochondrial outer membrane	IPI	UniProtKB:P04840	SGD:S000003530	PANTHER:PTHR11038	20260601		NCBITaxon:559292
+FlyBase	SGD:S000007256	TIM9	PMID:30445040		GO:7770063	beta barrel protein insertion into mitochondrial outer membrane	IPI	UniProtKB:P04840	SGD:S000007256	PANTHER:PTHR13172	20260601		NCBITaxon:559292

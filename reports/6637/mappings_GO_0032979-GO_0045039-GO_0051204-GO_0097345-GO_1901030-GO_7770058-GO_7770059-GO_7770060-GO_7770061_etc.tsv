@@ -1,0 +1,6 @@
+term	file	line
+GO:0032979	interpro2go	InterPro:IPR024621 Inner membrane mitoribosome receptor Mba1, mitochondrial > GO:protein insertion into mitochondrial inner membrane from matrix ; GO:0032979
+GO:0045039	interpro2go	InterPro:IPR039175 Mitochondrial import inner membrane translocase subunit TIM22 > GO:protein insertion into mitochondrial inner membrane ; GO:0045039
+GO:0045039	unirule2go	UniRule:UR001349796 > GO:protein insertion into mitochondrial inner membrane ; GO:0045039
+GO:1901030	reactome2go	Reactome:R-HSA-111452 > GO:positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway ; GO:1901030
+GO:1901030	reactome2go	Reactome:R-HSA-114294 > GO:positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway ; GO:1901030
