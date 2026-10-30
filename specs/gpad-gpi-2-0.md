@@ -85,12 +85,12 @@ Header property | Example value | Comment
 | ------ | ------ | ------ | ------ | ------ |
 | 1 | <code><a name="DB_Object_ID">DB_Object_ID</a></code> | <code>[ID](#ID)</code>| `UniProtKB:Q4VCS5` | |
 | 2 | <code><a name="DB_Object_Symbol">DB_Object_Symbol</a></code> | <code>[Text_No_Spaces](#Text_No_Spaces)</code>| `AMOT` | |
-| 3 | <code><a name="DB_Object_Name">DB_Object_Name</a></code> | <code>[Text](#Text)</code>| `Angiomotin` | |
+| 3 | <code><a name="DB_Object_Name">DB_Object_Name</a></code> | <code>[Text](#Text)?</code>| `Angiomotin` | |
 | 4 | <code><a name="DB_Object_Synonyms">DB_Object_Synonyms</a></code> | <code>([Text](#Text) ( '\|' [Text](#Text) )* )?</code>| `E230009N18Rik\|KIAA1071` | |
-| 5 | <code><a name="DB_Object_Type">DB_Object_Type</a></code> | <code>[ID](#ID) ( '\|' [ID](#ID) )*</code>| `PR:000000001` | Identifier used MUST conform to the list in [GPI entity types](#gpi-entity-types) |
+| 5 | <code><a name="DB_Object_Type">DB_Object_Type</a></code> | <code>[ID](#ID)</code>| `PR:000000001` | Identifier used MUST conform to the list in [GPI entity types](#gpi-entity-types) |
 | 6 | <code><a name="DB_Object_Taxon">DB_Object_Taxon</a></code> | <code>[ID](#ID)</code>| `NCBITaxon:9606` | The taxon MUST be a term from the NCBITaxon ontology |
 | 7 | <code><a name="Encoded_By">Encoded_By</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| `HGNC:17810` | For proteins and transcripts, this refers to the gene id that encodes those entities. |
-| 8 | <code><a name="Canonical_Object_ID">Canonical Object ID</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| | This column refers to the gene-centric reference protein accession of the column 1 entry, or to the complex ID for protein complexes. |
+| 8 | <code><a name="Canonical_Object_ID">Canonical Object ID</a></code> | <code>[ID](#ID)</code>| `UniProtKB:Q4VCS5` | For genes, gene-centric reference protein accessions, and protein-containing complexes, this repeats the column 1 value. For entities derived from a gene product, such as protein isoforms, modified proteins, or processed transcripts, this refers to the gene-centric ID of the column 1 entry. For entities the provider has no gene-centric ID for, such as uncloned genes, this repeats the column 1 value. |
 | 9 | <code><a name="Protein_Containing_Complex_Members">Protein_Containing_Complex_Members</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| `UniProtKB:Q15021\|UniProtKB:Q15003` | |
 | 10 | <code><a name="DB_Xrefs">DB_Xrefs</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| `HGNC:17810` | Identifiers used MUST include the [required DB xref values](#required-and-optional-db-xrefs) |
 | 11 | <code><a name="Gene_Product_Properties">Gene_Product_Properties</a></code> | <code>( [Property_Value_Pair](#Property_Value_Pair) ( '\|' [Property_Value_Pair](#Property_Value_Pair) )* )?</code>| `db-subset=Swiss-Prot` | Properties and values MUST conform to the list in [GPI gene product properties](#gpi-gene-product-properties) |
