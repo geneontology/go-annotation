@@ -1,0 +1,124 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	FB:FBgn0001085	fz	PMID:10490098		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0001085	PANTHER:PTHR11309	20200409		NCBITaxon:7227
+FlyBase	FB:FBgn0001085	fz	PMID:11239465		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0001085	PANTHER:PTHR11309	20200415		NCBITaxon:7227
+FlyBase	FB:FBgn0026181	Rok	PMID:11301004		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0026181	PANTHER:PTHR22988	20070523		NCBITaxon:7227
+FlyBase	FB:FBgn0086898	dgo	PMID:11703927		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0086898	PANTHER:PTHR24203	20200519		NCBITaxon:7227
+FlyBase	FB:FBgn0001259	in	PMID:12137730		GO:0001737	establishment of imaginal disc-derived wing hair orientation	TAS		FB:FBgn0001259	PANTHER:PTHR21082	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0000499	dsh	PMID:15075368		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0000499	PANTHER:PTHR10878	20200501		NCBITaxon:7227
+FlyBase	FB:FBgn0001122	Galphao	PMID:15652486		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0001122	PANTHER:PTHR10218	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0015838	Vang	PMID:15937478		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0015838	PANTHER:PTHR20886	20200519		NCBITaxon:7227
+FlyBase	FB:FBgn0003090	pk	PMID:15937478		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0003090	PANTHER:PTHR24211	20200519		NCBITaxon:7227
+FlyBase	FB:FBgn0001085	fz	PMID:15937478		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0001085	PANTHER:PTHR11309	20200519		NCBITaxon:7227
+FlyBase	FB:FBgn0086898	dgo	PMID:15937478		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0086898	PANTHER:PTHR24203	20200519		NCBITaxon:7227
+FlyBase	FB:FBgn0011726	tsr	PMID:16571634		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0011726	PANTHER:PTHR11913	20070523		NCBITaxon:7227
+FlyBase	FB:FBgn0283712	LIMK1	PMID:16571634		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0283712	PANTHER:PTHR46485	20070523		NCBITaxon:7227
+FlyBase	FB:FBgn0284247	ds	PMID:16687445		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0284247	PANTHER:PTHR24026	20260515		NCBITaxon:7227
+FlyBase	FB:FBgn0001075	ft	PMID:16687445		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0001075	PANTHER:PTHR24026	20070523		NCBITaxon:7227
+FlyBase	FB:FBgn0001075	ft	PMID:16735478		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0001075	PANTHER:PTHR24026	20070523		NCBITaxon:7227
+FlyBase	FB:FBgn0000499	dsh	PMID:16824921		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0000499	PANTHER:PTHR10878	20200428		NCBITaxon:7227
+FlyBase	FB:FBgn0001085	fz	PMID:16824922		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0001085	PANTHER:PTHR11309	20200409		NCBITaxon:7227
+FlyBase	FB:FBgn0039532	Mtl	PMID:17616927		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0039532	PANTHER:PTHR24072	20121101		NCBITaxon:7227
+FlyBase	FB:FBgn0260941	app	PMID:18804377		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0260941	PANTHER:PTHR22883	20090402		NCBITaxon:7227
+FlyBase	FB:FBgn0263289	scrib	PMID:19563796		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0263289	PANTHER:PTHR23119	20100114		NCBITaxon:7227
+FlyBase	FB:FBgn0261064	Rbsn-5	PMID:20534670		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0261064	PANTHER:PTHR13510	20101014		NCBITaxon:7227
+FlyBase	FB:FBgn0260934	par-1	PMID:20817616		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0260934	PANTHER:PTHR24346	20101209		NCBITaxon:7227
+FlyBase	FB:FBgn0284247	ds	PMID:20817616		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0284247	PANTHER:PTHR24026	20260515		NCBITaxon:7227
+FlyBase	FB:FBgn0001075	ft	PMID:20817616		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0001075	PANTHER:PTHR24026	20101209		NCBITaxon:7227
+FlyBase	FB:FBgn0000658	fj	PMID:21379328		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0000658	PANTHER:PTHR13147	20110414		NCBITaxon:7227
+FlyBase	FB:FBgn0284247	ds	PMID:21379328		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0284247	PANTHER:PTHR24026	20260515		NCBITaxon:7227
+FlyBase	FB:FBgn0003090	pk	PMID:21379328		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0003090	PANTHER:PTHR24211	20110414		NCBITaxon:7227
+FlyBase	FB:FBgn0001075	ft	PMID:21379328		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0001075	PANTHER:PTHR24026	20110414		NCBITaxon:7227
+FlyBase	FB:FBgn0024836	stan	PMID:22391484		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IGI	FB:FBgn0086898	FB:FBgn0024836	PANTHER:PTHR24026	20200519		NCBITaxon:7227
+FlyBase	FB:FBgn0003090	pk	PMID:22391484		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0003090	PANTHER:PTHR24211	20200519		NCBITaxon:7227
+FlyBase	FB:FBgn0086898	dgo	PMID:22391484		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0086898	PANTHER:PTHR24203	20200519		NCBITaxon:7227
+FlyBase	FB:FBgn0015615	SMC3	PMID:22563761		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0015615	PANTHER:PTHR43977	20120712		NCBITaxon:7227
+FlyBase	FB:FBgn0037671	ATP6AP2	PMID:23292348		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0037671	PANTHER:PTHR13351	20130307		NCBITaxon:7227
+FlyBase	FB:FBgn0011822	Pgcl	PMID:24403181		GO:0001737	establishment of imaginal disc-derived wing hair orientation	IMP		FB:FBgn0011822	PANTHER:PTHR47966	20140619		NCBITaxon:7227
+FlyBase	FB:FBgn0004956	upd1	PMID:10346822		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0004956		20191018		NCBITaxon:7227
+FlyBase	FB:FBgn0004864	hop	PMID:10479459		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0004864	PANTHER:PTHR45807	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0026181	Rok	PMID:11301004		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0026181	PANTHER:PTHR22988	20070523		NCBITaxon:7227
+FlyBase	FB:FBgn0086898	dgo	PMID:11703927		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0086898	PANTHER:PTHR24203	20200519		NCBITaxon:7227
+FlyBase	FB:FBgn0284247	ds	PMID:11893338		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0284247	PANTHER:PTHR24026	20260515		NCBITaxon:7227
+FlyBase	FB:FBgn0001085	fz	PMID:11893338		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0001085	PANTHER:PTHR11309	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0001075	ft	PMID:11893338		GO:0042067	establishment of ommatidial planar polarity	IGI	FB:FBgn0001085	FB:FBgn0001075	PANTHER:PTHR24026	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0001075	ft	PMID:11893338		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0001075	PANTHER:PTHR24026	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0003053	peb	PMID:11959832		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0003053	PANTHER:PTHR46451	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0024836	stan	PMID:12015972		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0024836	PANTHER:PTHR24026	20200518		NCBITaxon:7227
+FlyBase	FB:FBgn0001085	fz	PMID:12015972		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0001085	PANTHER:PTHR11309	20200519		NCBITaxon:7227
+FlyBase	FB:FBgn0015838	Vang	PMID:12642492		GO:0042067	establishment of ommatidial planar polarity	IGI	FB:FBgn0003090	FB:FBgn0015838	PANTHER:PTHR20886	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0015838	Vang	PMID:12642492		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0015838	PANTHER:PTHR20886	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0041342	Pcyt1	PMID:14536058		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0041342	PANTHER:PTHR10739	20070523		NCBITaxon:7227
+FlyBase	FB:FBgn0000499	dsh	PMID:15937478		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0000499	PANTHER:PTHR10878	20200519		NCBITaxon:7227
+FlyBase	FB:FBgn0003090	pk	PMID:15937478		GO:0042067	establishment of ommatidial planar polarity	IGI	FB:FBgn0000499	FB:FBgn0003090	PANTHER:PTHR24211	20200519		NCBITaxon:7227
+FlyBase	FB:FBgn0086898	dgo	PMID:15937478		GO:0042067	establishment of ommatidial planar polarity	IGI	FB:FBgn0000499	FB:FBgn0086898	PANTHER:PTHR24203	20200519		NCBITaxon:7227
+FlyBase	FB:FBgn0011726	tsr	PMID:16571634		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0011726	PANTHER:PTHR11913	20070523		NCBITaxon:7227
+FlyBase	FB:FBgn0262029	dachs	PMID:16735478		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0262029	PANTHER:PTHR13140	20070523		NCBITaxon:7227
+FlyBase	FB:FBgn0001075	ft	PMID:16735478		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0001075	PANTHER:PTHR24026	20070523		NCBITaxon:7227
+FlyBase	FB:FBgn0000499	dsh	PMID:16824921		GO:0042067	establishment of ommatidial planar polarity	IGI	FB:FBgn0001085	FB:FBgn0000499	PANTHER:PTHR10878	20200428		NCBITaxon:7227
+FlyBase	FB:FBgn0001085	fz	PMID:16824921		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0001085	PANTHER:PTHR11309	20200428		NCBITaxon:7227
+FlyBase	FB:FBgn0015838	Vang	PMID:16824922		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0015838	PANTHER:PTHR20886	20200409		NCBITaxon:7227
+FlyBase	FB:FBgn0001085	fz	PMID:16824922		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0001085	PANTHER:PTHR11309	20200409		NCBITaxon:7227
+FlyBase	FB:FBgn0039532	Mtl	PMID:17616927		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0039532	PANTHER:PTHR24072	20121101		NCBITaxon:7227
+FlyBase	FB:FBgn0263289	scrib	PMID:19563796		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0263289	PANTHER:PTHR23119	20100114		NCBITaxon:7227
+FlyBase	FB:FBgn0034408	sano	PMID:19956736		GO:0042067	establishment of ommatidial planar polarity	IDA		FB:FBgn0034408	PANTHER:PTHR14454	20100610		NCBITaxon:7227
+FlyBase	FB:FBgn0015838	Vang	PMID:21552260		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0015838	PANTHER:PTHR20886	20200420		NCBITaxon:7227
+FlyBase	FB:FBgn0003090	pk	PMID:21552260		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0003090	PANTHER:PTHR24211	20200420		NCBITaxon:7227
+FlyBase	FB:FBgn0287864	hbs	PMID:22814602		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0287864	PANTHER:PTHR11640	20120927		NCBITaxon:7227
+FlyBase	FB:FBgn0001083	fw	PMID:23973164		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0001083	PANTHER:PTHR19325	20140320		NCBITaxon:7227
+FlyBase	FB:FBgn0003090	pk	PMID:29758044		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0003090	PANTHER:PTHR24211	20200420		NCBITaxon:7227
+FlyBase	FB:FBgn0000499	dsh	PMID:7555730		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0000499	PANTHER:PTHR10878	20200420		NCBITaxon:7227
+FlyBase	FB:FBgn0003090	pk	PMID:7555730		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0003090	PANTHER:PTHR24211	20200420		NCBITaxon:7227
+FlyBase	FB:FBgn0001085	fz	PMID:7555730		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0001085	PANTHER:PTHR11309	20200420		NCBITaxon:7227
+FlyBase	FB:FBgn0001085	fz	PMID:9671581		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0001085	PANTHER:PTHR11309	20190912		NCBITaxon:7227
+UniProt	FB:FBgn0000658	fj	PMID:15548581		GO:0042067	establishment of ommatidial planar polarity	IMP	UniProtKB:Q24292	FB:FBgn0000658	PANTHER:PTHR13147	20150818		NCBITaxon:7227
+UniProt	FB:FBgn0284247	ds	PMID:15548581		GO:0042067	establishment of ommatidial planar polarity	IMP	UniProtKB:P54360	FB:FBgn0284247	PANTHER:PTHR24026	20150818		NCBITaxon:7227
+UniProt	FB:FBgn0001075	ft	PMID:15548581		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0001075	PANTHER:PTHR24026	20150818		NCBITaxon:7227
+UniProt	FB:FBgn0003267	ro	PMID:1974228		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0003267	PANTHER:PTHR45946	20090928		NCBITaxon:7227
+UniProt	FB:FBgn0001075	ft	PMID:23667559		GO:0042067	establishment of ommatidial planar polarity	IMP		FB:FBgn0001075	PANTHER:PTHR24026	20150820		NCBITaxon:7227
+FlyBase	FB:FBgn0261574	kug	PMID:19906848		GO:0042247	establishment of planar polarity of follicular epithelium	IMP		FB:FBgn0261574	PANTHER:PTHR24026	20100128		NCBITaxon:7227
+FlyBase	FB:FBgn0261574	kug	PMID:26903538		GO:0042247	establishment of planar polarity of follicular epithelium	IMP		FB:FBgn0261574	PANTHER:PTHR24026	20170728		NCBITaxon:7227
+FlyBase	FB:FBgn0020510	Abi	PMID:26903538		GO:0042247	establishment of planar polarity of follicular epithelium	IMP		FB:FBgn0020510	PANTHER:PTHR10460	20170728		NCBITaxon:7227
+UniProt	FB:FBgn0261574	kug	PMID:19906848		GO:0042247	establishment of planar polarity of follicular epithelium	IMP		FB:FBgn0261574	PANTHER:PTHR24026	20100423		NCBITaxon:7227
+UniProt	MGI:MGI:1337100	Wdr1	PMID:25915128		GO:0042247	establishment of planar polarity of follicular epithelium	IMP		MGI:MGI:1337100	PANTHER:PTHR19856	20160524		NCBITaxon:10090
+CACAO	MGI:MGI:109520	Pafah1b1	PMID:23533177		GO:0042249	establishment of planar polarity of embryonic epithelium	IMP		MGI:MGI:109520	PANTHER:PTHR44129	20130330		NCBITaxon:10090
+FlyBase	FB:FBgn0266756	btsz	PMID:16862128		GO:0042249	establishment of planar polarity of embryonic epithelium	IMP		FB:FBgn0266756	PANTHER:PTHR45716	20070523		NCBITaxon:7227
+FlyBase	FB:FBgn0085408	Shrm	PMID:24535826		GO:0042249	establishment of planar polarity of embryonic epithelium	IMP		FB:FBgn0085408	PANTHER:PTHR15012	20140619		NCBITaxon:7227
+FlyBase	FB:FBgn0014020	Rho1	PMID:24535826		GO:0042249	establishment of planar polarity of embryonic epithelium	IMP		FB:FBgn0014020	PANTHER:PTHR24072	20140619		NCBITaxon:7227
+MGI	MGI:MGI:1100883	Celsr1	PMID:12842012		GO:0042249	establishment of planar polarity of embryonic epithelium	IMP	MGI:MGI:1862019	MGI:MGI:1100883	PANTHER:PTHR24026	20110609	EMAPA:16194	NCBITaxon:10090
+MGI	MGI:MGI:1100883	Celsr1	PMID:12842012		GO:0042249	establishment of planar polarity of embryonic epithelium	IMP	MGI:MGI:2668337	MGI:MGI:1100883	PANTHER:PTHR24026	20110609	EMAPA:16194	NCBITaxon:10090
+MGI	MGI:MGI:1347479	Foxf2	PMID:16439479		GO:0042249	establishment of planar polarity of embryonic epithelium	IGI	MGI:MGI:1347470	MGI:MGI:1347479	PANTHER:PTHR46262	20060605	EMAPA:18941	NCBITaxon:10090
+MGI	MGI:MGI:1347479	Foxf2	PMID:16439479		GO:0042249	establishment of planar polarity of embryonic epithelium	IMP	MGI:MGI:2667134	MGI:MGI:1347479	PANTHER:PTHR46262	20060605	EMAPA:18941	NCBITaxon:10090
+FlyBase	FB:FBgn0260941	app	PMID:18804377		GO:0048104	establishment of body hair or bristle planar orientation	IMP		FB:FBgn0260941	PANTHER:PTHR22883	20090402		NCBITaxon:7227
+FlyBase	FB:FBgn0289650	jbug	PMID:21276726		GO:0048104	establishment of body hair or bristle planar orientation	IMP		FB:FBgn0289650		20110616		NCBITaxon:7227
+FlyBase	FB:FBgn0263258	chas	PMID:21276726		GO:0048104	establishment of body hair or bristle planar orientation	IMP		FB:FBgn0263258	PANTHER:PTHR13585	20110616		NCBITaxon:7227
+FlyBase	FB:FBgn0037671	ATP6AP2	PMID:23292348		GO:0048104	establishment of body hair or bristle planar orientation	IMP		FB:FBgn0037671	PANTHER:PTHR13351	20130307		NCBITaxon:7227
+FlyBase	FB:FBgn0001075	ft	PMID:16687445		GO:0048105	establishment of body hair planar orientation	IMP		FB:FBgn0001075	PANTHER:PTHR24026	20070523		NCBITaxon:7227
+MGI	MGI:MGI:2135272	Vangl2	PMID:18849982		GO:0048105	establishment of body hair planar orientation	IMP	MGI:MGI:1857642	MGI:MGI:2135272	PANTHER:PTHR20886	20101203		NCBITaxon:10090
+MGI	MGI:MGI:1100883	Celsr1	PMID:18849982		GO:0048105	establishment of body hair planar orientation	IMP	MGI:MGI:2668337	MGI:MGI:1100883	PANTHER:PTHR24026	20101203		NCBITaxon:10090
+MGI	MGI:MGI:1100883	Celsr1	PMID:19357712		GO:0048105	establishment of body hair planar orientation	IMP	MGI:MGI:4430218	MGI:MGI:1100883	PANTHER:PTHR24026	20101203		NCBITaxon:10090
+MGI	MGI:MGI:108474	Fzd6	PMID:26418459		GO:0048105	establishment of body hair planar orientation	IGI	MGI:MGI:1889277	MGI:MGI:108474	PANTHER:PTHR11309	20160705		NCBITaxon:10090
+MGI	MGI:MGI:1889277	Astn2	PMID:26418459		GO:0048105	establishment of body hair planar orientation	IGI	MGI:MGI:108474	MGI:MGI:1889277	PANTHER:PTHR16592	20160705		NCBITaxon:10090
+FlyBase	FB:FBgn0016977	spen	PMID:15596016		GO:0048106	establishment of thoracic bristle planar orientation	IMP		FB:FBgn0016977	PANTHER:PTHR23189	20101021		NCBITaxon:7227
+MGI	MGI:MGI:1197020	Wnt9b	PMID:19543268		GO:0072046	establishment of planar polarity involved in nephron morphogenesis	IMP	MGI:MGI:3526437	MGI:MGI:1197020	PANTHER:PTHR12027	20100713		NCBITaxon:10090
+MGI	MGI:MGI:1197020	Wnt9b	PMID:19543268		GO:0072046	establishment of planar polarity involved in nephron morphogenesis	IMP	MGI:MGI:3805020	MGI:MGI:1197020	PANTHER:PTHR12027	20100713		NCBITaxon:10090
+MGI	MGI:MGI:104771	Erbb4	PMID:22076439		GO:0072046	establishment of planar polarity involved in nephron morphogenesis	IMP	MGI:MGI:2445461|MGI:MGI:2680217	MGI:MGI:104771	PANTHER:PTHR24416	20210319	CL:0002518	NCBITaxon:10090
+ZFIN	ZFIN:ZDB-GENE-060526-348	upk3b	PMID:22848617		GO:0072046	establishment of planar polarity involved in nephron morphogenesis	IMP	ZFIN:ZDB-MRPHLNO-120816-4	ZFIN:ZDB-GENE-060526-348	PANTHER:PTHR15446	20131226		NCBITaxon:7955
+ARUK-UCL	MGI:MGI:2685946	Brsk1	PMID:18268107		GO:0090176	microtubule cytoskeleton organization involved in establishment of planar polarity	IGI	UniProtKB:Q69Z98	MGI:MGI:2685946	PANTHER:PTHR24343	20180313	CL:0002608|GO:0031175|GO:0007409	NCBITaxon:10090
+ARUK-UCL	MGI:MGI:1923020	Brsk2	PMID:18268107		GO:0090176	microtubule cytoskeleton organization involved in establishment of planar polarity	IGI	UniProtKB:Q5RJI5	MGI:MGI:1923020	PANTHER:PTHR24343	20180313	CL:0002608|GO:0031175|GO:0007409	NCBITaxon:10090
+CACAO	MGI:MGI:109520	Pafah1b1	PMID:23533177		GO:0090176	microtubule cytoskeleton organization involved in establishment of planar polarity	IMP		MGI:MGI:109520	PANTHER:PTHR44129	20130330		NCBITaxon:10090
+FlyBase	FB:FBgn0260934	par-1	PMID:20817616		GO:0090176	microtubule cytoskeleton organization involved in establishment of planar polarity	IMP		FB:FBgn0260934	PANTHER:PTHR24346	20101209		NCBITaxon:7227
+FlyBase	FB:FBgn0284247	ds	PMID:20817616		GO:0090176	microtubule cytoskeleton organization involved in establishment of planar polarity	IMP		FB:FBgn0284247	PANTHER:PTHR24026	20260515		NCBITaxon:7227
+FlyBase	FB:FBgn0001075	ft	PMID:20817616		GO:0090176	microtubule cytoskeleton organization involved in establishment of planar polarity	IMP		FB:FBgn0001075	PANTHER:PTHR24026	20101209		NCBITaxon:7227
+MGI	MGI:MGI:1915838	Cthrc1	PMID:18606138		GO:0090177	establishment of planar polarity involved in neural tube closure	IGI	MGI:MGI:1915838	MGI:MGI:1915838	PANTHER:PTHR11903	20100901		NCBITaxon:10090
+MGI	MGI:MGI:2135272	Vangl2	PMID:18606138		GO:0090177	establishment of planar polarity involved in neural tube closure	IMP	MGI:MGI:1857642	MGI:MGI:2135272	PANTHER:PTHR20886	20100901		NCBITaxon:10090
+MGI	MGI:MGI:2139764	Sec24b	PMID:19966784		GO:0090178	regulation of establishment of planar polarity involved in neural tube closure	IMP	MGI:MGI:4440619	MGI:MGI:2139764	PANTHER:PTHR13803	20130917		NCBITaxon:10090
+MGI	MGI:MGI:2139764	Sec24b	PMID:19966784		GO:0090178	regulation of establishment of planar polarity involved in neural tube closure	IMP	MGI:MGI:4440621	MGI:MGI:2139764	PANTHER:PTHR13803	20130917		NCBITaxon:10090
+FlyBase	FB:FBgn0037671	ATP6AP2	PMID:23292348		GO:0090251	protein localization involved in establishment of planar polarity	IMP		FB:FBgn0037671	PANTHER:PTHR13351	20130307		NCBITaxon:7227
+FlyBase	FB:FBgn0085408	Shrm	PMID:24535826		GO:0090251	protein localization involved in establishment of planar polarity	IMP		FB:FBgn0085408	PANTHER:PTHR15012	20140619		NCBITaxon:7227
+FlyBase	FB:FBgn0014020	Rho1	PMID:24535826		GO:0090251	protein localization involved in establishment of planar polarity	IMP		FB:FBgn0014020	PANTHER:PTHR24072	20140619		NCBITaxon:7227
+FlyBase	FB:FBgn0262029	dachs	PMID:27746048		GO:0090251	protein localization involved in establishment of planar polarity	IDA		FB:FBgn0262029	PANTHER:PTHR13140	20170816		NCBITaxon:7227
+FlyBase	FB:FBgn0034264	Dlish	PMID:27746048		GO:0090251	protein localization involved in establishment of planar polarity	IMP		FB:FBgn0034264	PANTHER:PTHR15176	20170816		NCBITaxon:7227
+FlyBase	FB:FBgn0284247	ds	PMID:27746048		GO:0090251	protein localization involved in establishment of planar polarity	IMP		FB:FBgn0284247	PANTHER:PTHR24026	20170816		NCBITaxon:7227
+FlyBase	FB:FBgn0001075	ft	PMID:27746048		GO:0090251	protein localization involved in establishment of planar polarity	IMP		FB:FBgn0001075	PANTHER:PTHR24026	20170816		NCBITaxon:7227
+FlyBase	FB:FBgn0034059	Tmem208	PMID:38381787		GO:0090251	protein localization involved in establishment of planar polarity	IDA		FB:FBgn0034059	PANTHER:PTHR13505	20240314	FB:FBgn0001085	NCBITaxon:7227
+MGI	MGI:MGI:1100883	Celsr1	PMID:18849982		GO:0090251	protein localization involved in establishment of planar polarity	IDA		MGI:MGI:1100883	PANTHER:PTHR24026	20101203		NCBITaxon:10090
