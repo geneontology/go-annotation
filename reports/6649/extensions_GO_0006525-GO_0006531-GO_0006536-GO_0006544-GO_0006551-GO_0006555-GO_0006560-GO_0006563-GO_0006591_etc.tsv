@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:Q8N159	NAGS	PMID:21757002		GO:0004042	L-glutamate N-acetyltransferase activity, acting on acetyl-CoA as donor	TAS		UniProtKB:Q8N159	PANTHER:PTHR23342	20250924	GO:0000050|GO:0006536	NCBITaxon:9606
