@@ -1,0 +1,104 @@
+term	file	line
+GO:0000045	unirule2go	UniRule:UR001378758 > GO:autophagosome assembly ; GO:0000045
+GO:0000045	unirule2go	UniRule:UR001453755 > GO:autophagosome assembly ; GO:0000045
+GO:0000045	interpro2go	InterPro:IPR007242 Ubiquitin-like protein Atg12 > GO:autophagosome assembly ; GO:0000045
+GO:0000045	interpro2go	InterPro:IPR039113 Autophagy-related protein 29 > GO:autophagosome assembly ; GO:0000045
+GO:0000045	interpro2go	InterPro:IPR040040 Autophagy-related protein 11 > GO:autophagosome assembly ; GO:0000045
+GO:0000045	interpro2go	InterPro:IPR040182 Autophagy-related protein 13 > GO:autophagosome assembly ; GO:0000045
+GO:0000045	interpro2go	InterPro:IPR045160 Autophagy-related protein 16 > GO:autophagosome assembly ; GO:0000045
+GO:0001881	unirule2go	UniRule:UR001694789 > GO:receptor recycling ; GO:0001881
+GO:0001881	interpro2go	InterPro:IPR027985 Rab15 effector > GO:receptor recycling ; GO:0001881
+GO:0006887	unirule2go	UniRule:UR000734776 > GO:exocytosis ; GO:0006887
+GO:0006887	unirule2go	UniRule:UR001419783 > GO:exocytosis ; GO:0006887
+GO:0006887	interpro2go	InterPro:IPR004140 Exocyst complex component Exo70 > GO:exocytosis ; GO:0006887
+GO:0006887	interpro2go	InterPro:IPR007191 Exocyst complex component Sec8, N-terminal > GO:exocytosis ; GO:0006887
+GO:0006887	interpro2go	InterPro:IPR010326 Exocyst complex component EXOC3/Sec6 > GO:exocytosis ; GO:0006887
+GO:0006887	interpro2go	InterPro:IPR019160 Exocyst complex component Sec3, coiled-coil > GO:exocytosis ; GO:0006887
+GO:0006887	interpro2go	InterPro:IPR028137 Syncollin > GO:exocytosis ; GO:0006887
+GO:0006887	interpro2go	InterPro:IPR029175 Exocyst complex component EXOC2/Sec5 > GO:exocytosis ; GO:0006887
+GO:0006887	interpro2go	InterPro:IPR030541 Rabphilin-1, FYVE-like domain > GO:exocytosis ; GO:0006887
+GO:0006887	interpro2go	InterPro:IPR033961 Exocyst complex component Exo84 > GO:exocytosis ; GO:0006887
+GO:0006887	interpro2go	InterPro:IPR039032 Rim-like > GO:exocytosis ; GO:0006887
+GO:0006887	interpro2go	InterPro:IPR046364 Exocyst complex subunit Exo70, C-terminal > GO:exocytosis ; GO:0006887
+GO:0006887	uniprotkb_kw2go	UniProtKB-KW:KW-0268 Exocytosis > GO:exocytosis ; GO:0006887
+GO:0006888	reactome2go	Reactome:R-HSA-159763 > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	reactome2go	Reactome:R-HSA-199977 > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	hamap2go	HAMAP:MF_03021 > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	unirule2go	UniRule:UR000107246 > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	unirule2go	UniRule:UR000438757 > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	unirule2go	UniRule:UR001349783 > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	unirule2go	UniRule:UR001553770 > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	unirule2go	UniRule:UR001597795 > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	unirule2go	UniRule:UR001628761 > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	interpro2go	InterPro:IPR005578 Yif1 family > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	interpro2go	InterPro:IPR006722 Trafficking protein particle complex subunit 2 > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	interpro2go	InterPro:IPR006895 Zinc finger, Sec23/Sec24-type > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	interpro2go	InterPro:IPR006896 Sec23/Sec24, trunk domain > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	interpro2go	InterPro:IPR006900 Sec23/Sec24, helical domain > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	interpro2go	InterPro:IPR007277 Svp26/Tex261 > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	interpro2go	InterPro:IPR016391 Coatomer subunit alpha > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	interpro2go	InterPro:IPR016710 Emp46/Emp47 > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	interpro2go	InterPro:IPR023601 Golgi SNAP receptor complex, subunit 1 > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	interpro2go	InterPro:IPR033512 Protein TFG > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	interpro2go	InterPro:IPR036174 Zinc finger, Sec23/Sec24-type superfamily > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	interpro2go	InterPro:IPR036175 Sec23/Sec24 helical domain superfamily > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	interpro2go	InterPro:IPR037603 SEC23-interacting protein, SAM domain > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	interpro2go	InterPro:IPR039541 Metallophosphoesterase 1, metallophosphatase domain > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	interpro2go	InterPro:IPR040251 Protein transport protein SEC31-like > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	interpro2go	InterPro:IPR041742 Sec24-like, trunk domain > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	interpro2go	InterPro:IPR043546 Vesicle-trafficking protein Sec22a/c > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	interpro2go	InterPro:IPR044565 Vesicle-trafficking protein Sec22 > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	interpro2go	InterPro:IPR044760 Trafficking protein particle complex subunit 2-like > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	interpro2go	InterPro:IPR045176 Protein transport protein Got1 > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006888	interpro2go	InterPro:IPR045231 Protein Yip1/4-like > GO:endoplasmic reticulum to Golgi vesicle-mediated transport ; GO:0006888
+GO:0006893	interpro2go	InterPro:IPR007225 Exocyst complex component EXOC6/Sec15 > GO:Golgi to plasma membrane transport ; GO:0006893
+GO:0006893	interpro2go	InterPro:IPR039682 Exocyst complex component Sec8/EXOC4 > GO:Golgi to plasma membrane transport ; GO:0006893
+GO:0006895	interpro2go	InterPro:IPR030702 Ras-related protein Rab14 > GO:Golgi to endosome transport ; GO:0006895
+GO:0006895	interpro2go	InterPro:IPR031483 AP-1 complex-associated regulatory protein > GO:Golgi to endosome transport ; GO:0006895
+GO:0006895	interpro2go	InterPro:IPR040314 Protein DOP1 > GO:Golgi to endosome transport ; GO:0006895
+GO:0006896	interpro2go	InterPro:IPR027155 AP-3 complex subunit sigma > GO:Golgi to vacuole transport ; GO:0006896
+GO:0006897	hamap2go	HAMAP:MF_03070 > GO:endocytosis ; GO:0006897
+GO:0006897	unirule2go	UniRule:UR000369453 > GO:endocytosis ; GO:0006897
+GO:0006897	unirule2go	UniRule:UR000413604 > GO:endocytosis ; GO:0006897
+GO:0006897	unirule2go	UniRule:UR001230794 > GO:endocytosis ; GO:0006897
+GO:0006897	interpro2go	InterPro:IPR003914 Rabaptin > GO:endocytosis ; GO:0006897
+GO:0006897	interpro2go	InterPro:IPR012320 Stonin homology > GO:endocytosis ; GO:0006897
+GO:0006897	interpro2go	InterPro:IPR012466 NECAP, PHear domain > GO:endocytosis ; GO:0006897
+GO:0006897	interpro2go	InterPro:IPR025604 Actin cytoskeleton-regulatory complex protein End3 > GO:endocytosis ; GO:0006897
+GO:0006897	interpro2go	InterPro:IPR029282 Equatorin > GO:endocytosis ; GO:0006897
+GO:0006897	interpro2go	InterPro:IPR030224 Sla2 family > GO:endocytosis ; GO:0006897
+GO:0006897	interpro2go	InterPro:IPR032469 Endophilin-A3, BAR domain > GO:endocytosis ; GO:0006897
+GO:0006897	interpro2go	InterPro:IPR037425 Sorting nexin-9, BAR domain > GO:endocytosis ; GO:0006897
+GO:0006897	interpro2go	InterPro:IPR037426 Sorting nexin-9, PX domain > GO:endocytosis ; GO:0006897
+GO:0006897	interpro2go	InterPro:IPR037427 Sorting nexin-33, BAR domain > GO:endocytosis ; GO:0006897
+GO:0006897	interpro2go	InterPro:IPR037449 Formin-binding protein 1, F-BAR domain > GO:endocytosis ; GO:0006897
+GO:0006897	interpro2go	InterPro:IPR037501 Protein TPLATE > GO:endocytosis ; GO:0006897
+GO:0006897	interpro2go	InterPro:IPR044103 LAS seventeen-binding protein 5 , GAT domain > GO:endocytosis ; GO:0006897
+GO:0006897	interpro2go	InterPro:IPR045007 LAS seventeen-binding protein 5 > GO:endocytosis ; GO:0006897
+GO:0006897	interpro2go	InterPro:IPR046982 Bridging integrator 3/RVS161-like > GO:endocytosis ; GO:0006897
+GO:0006897	uniprotkb_kw2go	UniProtKB-KW:KW-0254 Endocytosis > GO:endocytosis ; GO:0006897
+GO:0016236	reactome2go	Reactome:R-HSA-1632852 > GO:macroautophagy ; GO:0016236
+GO:0016236	reactome2go	Reactome:R-HSA-5205685 > GO:macroautophagy ; GO:0016236
+GO:0016236	reactome2go	Reactome:R-HSA-8934903 > GO:macroautophagy ; GO:0016236
+GO:0016236	interpro2go	InterPro:IPR023261 Autophagy-related protein 14 > GO:macroautophagy ; GO:0016236
+GO:0016236	interpro2go	InterPro:IPR045162 Serine/threonine-protein kinase Vps15-like > GO:macroautophagy ; GO:0016236
+GO:0035615	interpro2go	InterPro:IPR017104 Adaptor protein complex AP-2, alpha subunit > GO:clathrin-cargo adaptor activity ; GO:0035615
+GO:0035615	interpro2go	InterPro:IPR027156 AP-2 complex subunit sigma > GO:clathrin-cargo adaptor activity ; GO:0035615
+GO:0035615	interpro2go	InterPro:IPR044733 AP-1 complex subunit sigma > GO:clathrin-cargo adaptor activity ; GO:0035615
+GO:0038024	reactome2go	Reactome:R-HSA-203716 > GO:cargo receptor activity ; GO:0038024
+GO:0038024	reactome2go	Reactome:R-HSA-2160915 > GO:cargo receptor activity ; GO:0038024
+GO:0038024	reactome2go	Reactome:R-HSA-3000103 > GO:cargo receptor activity ; GO:0038024
+GO:0038024	reactome2go	Reactome:R-HSA-3000112 > GO:cargo receptor activity ; GO:0038024
+GO:0038024	reactome2go	Reactome:R-HSA-3000122 > GO:cargo receptor activity ; GO:0038024
+GO:0038024	reactome2go	Reactome:R-HSA-3000137 > GO:cargo receptor activity ; GO:0038024
+GO:0038024	reactome2go	Reactome:R-HSA-350168 > GO:cargo receptor activity ; GO:0038024
+GO:0038024	reactome2go	Reactome:R-HSA-350186 > GO:cargo receptor activity ; GO:0038024
+GO:0038024	reactome2go	Reactome:R-HSA-9759202 > GO:cargo receptor activity ; GO:0038024
+GO:0038024	reactome2go	Reactome:R-HSA-9759209 > GO:cargo receptor activity ; GO:0038024
+GO:0072583	interpro2go	InterPro:IPR017104 Adaptor protein complex AP-2, alpha subunit > GO:clathrin-dependent endocytosis ; GO:0072583
+GO:0072583	interpro2go	InterPro:IPR027156 AP-2 complex subunit sigma > GO:clathrin-dependent endocytosis ; GO:0072583
+GO:0072583	interpro2go	InterPro:IPR037984 SGIP1, mu-homology domain > GO:clathrin-dependent endocytosis ; GO:0072583
+GO:0072583	interpro2go	InterPro:IPR045192 Clathrin coat assembly protein AP180-like > GO:clathrin-dependent endocytosis ; GO:0072583
+GO:0090114	interpro2go	InterPro:IPR037550 Sec23, C-terminal > GO:COPII-coated vesicle budding ; GO:0090114
+GO:0140312	reactome2go	Reactome:R-HSA-203565 > GO:cargo adaptor activity ; GO:0140312
+GO:0140312	reactome2go	Reactome:R-HSA-203662 > GO:cargo adaptor activity ; GO:0140312
