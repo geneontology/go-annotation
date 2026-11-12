@@ -1,0 +1,18 @@
+term	file	line
+GO:0007338	reactome2go	Reactome:R-HSA-1187000 > GO:single fertilization ; GO:0007338
+GO:0007338	unirule2go	UniRule:UR000136809 > GO:single fertilization ; GO:0007338
+GO:0007338	interpro2go	InterPro:IPR000124 Spermadhesin > GO:single fertilization ; GO:0007338
+GO:0007338	interpro2go	InterPro:IPR001379 Egg lysin (Sperm-lysin) > GO:single fertilization ; GO:0007338
+GO:0007338	uniprotkb_kw2go	UniProtKB-KW:KW-0278 Fertilization > GO:single fertilization ; GO:0007338
+GO:0007342	interpro2go	InterPro:IPR000775 Bindin > GO:fusion of sperm to egg plasma membrane involved in single fertilization ; GO:0007342
+GO:0007342	interpro2go	InterPro:IPR001439 Hyaluronidase PH20/Hyaluronidase-5 > GO:fusion of sperm to egg plasma membrane involved in single fertilization ; GO:0007342
+GO:0007342	interpro2go	InterPro:IPR026743 Sperm equatorial segment protein 1 > GO:fusion of sperm to egg plasma membrane involved in single fertilization ; GO:0007342
+GO:0007342	interpro2go	InterPro:IPR027984 TMEM95 family > GO:fusion of sperm to egg plasma membrane involved in single fertilization ; GO:0007342
+GO:0007342	interpro2go	InterPro:IPR029282 Equatorin > GO:fusion of sperm to egg plasma membrane involved in single fertilization ; GO:0007342
+GO:0007342	interpro2go	InterPro:IPR031684 Sperm-egg fusion protein LLCFC1 > GO:fusion of sperm to egg plasma membrane involved in single fertilization ; GO:0007342
+GO:0007342	interpro2go	InterPro:IPR032700 Izumo sperm-egg fusion protein 1 > GO:fusion of sperm to egg plasma membrane involved in single fertilization ; GO:0007342
+GO:0007342	interpro2go	InterPro:IPR034549 Sperm acrosome membrane-associated protein 6 > GO:fusion of sperm to egg plasma membrane involved in single fertilization ; GO:0007342
+GO:0007342	interpro2go	InterPro:IPR038813 Fertilization-influencing membrane protein > GO:fusion of sperm to egg plasma membrane involved in single fertilization ; GO:0007342
+GO:0035036	reactome2go	Reactome:R-HSA-1300642 > GO:sperm-egg recognition ; GO:0035036
+GO:0035036	reactome2go	Reactome:R-HSA-2534343 > GO:sperm-egg recognition ; GO:0035036
+GO:0035036	interpro2go	InterPro:IPR032700 Izumo sperm-egg fusion protein 1 > GO:sperm-egg recognition ; GO:0035036
