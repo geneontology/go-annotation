@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+SGD	SGD:S000002264	PHO2	PMID:1495962		GO:0006141	regulation of purine nucleobase metabolic process	IDA		SGD:S000002264	PANTHER:PTHR24324	20190626		NCBITaxon:559292
+SGD	SGD:S000002264	PHO2	PMID:1495962		GO:0006141	regulation of purine nucleobase metabolic process	IMP		SGD:S000002264	PANTHER:PTHR24324	20190626		NCBITaxon:559292
+UniProt	MGI:MGI:2445077	Lacc1	PMID:31978345		GO:1900542	regulation of purine nucleotide metabolic process	IMP		MGI:MGI:2445077	PANTHER:PTHR30616	20200420		NCBITaxon:10090
+RGD	RGD:2503	Nqo1	PMID:29389585		GO:1902690	positive regulation of NAD metabolic process	IDA		RGD:2503	PANTHER:PTHR10204	20200503		NCBITaxon:10116
