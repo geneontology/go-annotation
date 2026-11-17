@@ -4,7 +4,7 @@ This document specifies the syntax of Gene Product Annotation Data (GPAD) and Ge
 
 ## Status
 
-This is specification has been approved as version 2.0.
+This specification has been approved as version 2.0.
 
 ## Summary of changes relative to 1.1
 
@@ -16,7 +16,7 @@ This is specification has been approved as version 2.0.
 - GPAD: Annotation Extensions in column 11 will use a Relation_ID, rather than a Relation_Symbol, in the Relational_Expression, e.g. RO:0002233(UniProtKB:Q00362)
 - GPAD and GPI: dates follow the ISO-8601 format, e.g. YYYY-MM-DD; time may be included as YYYY-MM-DDTHH:MM:SS
 - GPI: the entity type in column 5 is captured using an ID from the Sequence Ontology, Protein Ontology, or Gene Ontology.
-- GPI: the canonical object ID in column 8 refers to the gene-centric parent, e.g. the UniProtKB Gene-Centric Reference Proteome accession, Model Organism Database gene identifier, RNA Central ID or Complex Portal ID. 
+- GPI: the canonical object ID in column 8 refers to the gene-centric parent (or to the entity itself, if canonical), e.g. the UniProtKB Gene-Centric Reference Proteome accession, Model Organism Database gene identifier, RNAcentral ID or Complex Portal ID. 
 - Characters allowed in all fields have been explicitly specified
 - Extensions in file names are: *.gpad and *.gpi
 
@@ -89,8 +89,8 @@ Header property | Example value | Comment
 | 4 | <code><a name="DB_Object_Synonyms">DB_Object_Synonyms</a></code> | <code>([Text](#Text) ( '\|' [Text](#Text) )* )?</code>| `E230009N18Rik\|KIAA1071` | |
 | 5 | <code><a name="DB_Object_Type">DB_Object_Type</a></code> | <code>[ID](#ID)</code>| `PR:000000001` | Identifier used MUST conform to the list in [GPI entity types](#gpi-entity-types) |
 | 6 | <code><a name="DB_Object_Taxon">DB_Object_Taxon</a></code> | <code>[ID](#ID)</code>| `NCBITaxon:9606` | The taxon MUST be a term from the NCBITaxon ontology |
-| 7 | <code><a name="Encoded_By">Encoded_By</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| `HGNC:17810` | For proteins and transcripts, this refers to the gene id that encodes those entities. |
-| 8 | <code><a name="Canonical_Object_ID">Canonical_Object_ID</a></code> | <code>[ID](#ID)</code>| `UniProtKB:Q4VCS5` | For genes, gene-centric reference protein accessions, and protein-containing complexes, this repeats the column 1 value. For entities derived from a gene product, such as protein isoforms, modified proteins, or processed transcripts, this refers to the gene-centric ID of the column 1 entry. For entities the provider has no gene-centric ID for, such as uncloned genes, this repeats the column 1 value. |
+| 7 | <code><a name="Encoded_By">Encoded_By</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| `HGNC:17810` | For proteins and ncRNAs, this refers to the gene ID that encodes those entities. Not applicable to protein-containing complexes. |
+| 8 | <code><a name="Canonical_Object_ID">Canonical_Object_ID</a></code> | <code>[ID](#ID)</code>| `UniProtKB:Q4VCS5` | For canonical entities (protein-coding or ncRNA genes, gene-centric reference protein accessions, canonical ncRNAs, and protein-containing complexes), this repeats the column 1 value. For entities derived from a gene product, such as protein isoforms, modified proteins, or processed transcripts, this refers to the gene-centric ID of the column 1 entry. For entities the provider has no gene-centric ID for, such as uncloned genes, this repeats the column 1 value. |
 | 9 | <code><a name="Protein_Containing_Complex_Members">Protein_Containing_Complex_Members</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| `UniProtKB:Q15021\|UniProtKB:Q15003` | |
 | 10 | <code><a name="DB_Xrefs">DB_Xrefs</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| `HGNC:17810` | Identifiers used MUST include the [required DB xref values](#required-and-optional-db-xrefs) |
 | 11 | <code><a name="Gene_Product_Properties">Gene_Product_Properties</a></code> | <code>( [Property_Value_Pair](#Property_Value_Pair) ( '\|' [Property_Value_Pair](#Property_Value_Pair) )* )?</code>| `db-subset=Swiss-Prot` | Properties and values MUST conform to the list in [GPI gene product properties](#gpi-gene-product-properties) |
@@ -162,21 +162,25 @@ Property | Allowed usages per annotation | Value Grammar | Example | Comment
 `'reviewed-date'` | 0 or more | <code>[Date_Or_Date_Time](#Date_Or_Date_Time)</code> | `reviewed-date=2019-02-06` | The date(s) on which the annotation was reviewed. |
 `'comment'` | 0 or more | <code>[Text](#Text)</code> | `comment=Confirmed species by checking PMID:nnnnnnnn.` | Free-text field that allows curators or users to enter notes about a specific annotation. |
 
-### GPI Entity Types 
+### GPI Entity Types
 
-Entity type value must be provided as an ontology term identifier from Sequence Ontology, Protein Ontology, or GO, and must correspond to one of the permitted GPI entity types or a more granular child term. Common entries include:
+The entity type in column 5 MUST be an ontology term identifier from the Protein Ontology (proteins), the Gene Ontology (protein-containing complexes) or the Sequence Ontology (all other entities). It MUST be one of the permitted types below or a more granular child term of one of them, and describes the object as defined by the contributing database. The generic types 'gene' (SO:0000704) and 'gene product' are not allowed, as they do not distinguish proteins from ncRNAs.
+
+Permitted entity types:
 
 * PR:000000001: protein
 * GO:0032991: protein-containing complex
 * SO:0001217: protein-coding gene
-* SO:0000655: ncRNA or any SO child term
-* SO:0001263: ncRNA-coding gene or any SO child term
+* SO:0000655: ncRNA
+* SO:0001263: ncRNA-coding gene
 * SO:0000336: pseudogene
+
+Sequence Ontology child terms of the ncRNA and ncRNA-coding gene types in current use, and their mapping to gene product types, are listed in [biological_entity_mapping.yaml](https://github.com/geneontology/go-site/blob/master/metadata/biological_entity_mapping.yaml).
 
 ### Required and Optional DB xrefs
 #### Required:
 
- - **MODs:** Must associate gene IDs, for protein-coding genes, with UniProtKB gene-centric reference protein accessions. Must associated RNA Central IDs for RNA objects, and Complex Portal IDs for protein complexes.
+ - **MODs:** Must associate MOD identifiers for proteins or protein-coding genes with UniProtKB gene-centric reference protein accessions; RNAcentral IDs for ncRNAs; and Complex Portal IDs for protein-containing complexes.
  - **UniProtKB:** Must associate gene-centric reference protein accessions with MOD gene IDs.
 
 #### Optional DB xref suggestions (where applicable):
