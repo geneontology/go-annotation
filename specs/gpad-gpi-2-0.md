@@ -164,7 +164,7 @@ Property | Allowed usages per annotation | Value Grammar | Example | Comment
 
 ### GPI Entity Types
 
-The entity type in column 5 MUST be an ontology term identifier from the Protein Ontology (proteins), the Gene Ontology (protein-containing complexes) or the Sequence Ontology (all other entities). It MUST be one of the permitted types below or a more granular child term of one of them, and describes the object as defined by the contributing database. The generic types 'gene' (SO:0000704) and 'gene product' are not allowed, as they do not distinguish proteins from ncRNAs.
+The entity type in column 5 MUST be an ontology term identifier from the Protein Ontology (proteins), the Gene Ontology (protein-containing complexes) or the Sequence Ontology (all other entities). It MUST be one of the permitted types below or a more granular child term of one of them, and describes the object as defined by the contributing database. The generic type 'gene' (SO:0000704) is allowed in the GPI to decibe uncloned genetic loci, but since they do not distinguish proteins from ncRNAs, any annotations to these types are not exported in the GAF and GPAD. files.
 
 Permitted entity types:
 
@@ -174,6 +174,7 @@ Permitted entity types:
 * SO:0000655: ncRNA
 * SO:0001263: ncRNA-coding gene
 * SO:0000336: pseudogene
+* SO:0000704: gene 
 
 Sequence Ontology child terms of the ncRNA and ncRNA-coding gene types in current use, and their mapping to gene product types, are listed in [biological_entity_mapping.yaml](https://github.com/geneontology/go-site/blob/master/metadata/biological_entity_mapping.yaml).
 
