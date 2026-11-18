@@ -164,7 +164,7 @@ Property | Allowed usages per annotation | Value Grammar | Example | Comment
 
 ### GPI Entity Types
 
-The entity type in column 5 must be an ontology term identifier from the Protein Ontology (proteins), the Gene Ontology (protein-containing complexes) or the Sequence Ontology (all other entities). It must be one of the permitted types below. More granular child terms are allowed, except for protein (PR:000000001), protein-containing complex (GO:0032991) and gene (SO:0000704), which must be used as is. The generic type gene (SO:0000704) is allowed only to describe uncloned genetic loci; since it does not distinguish proteins from ncRNAs, annotations to objects of this type are not exported in GAF and GPAD files. Likewise, pseudogene (SO:0000336) and its child terms are allowed in the GPI, but annotations to objects of these types are not exported in GAF and GPAD files.
+The entity type in column 5 must be an ontology term identifier from the Protein Ontology (proteins), the Gene Ontology (protein-containing complexes) or the Sequence Ontology (all other entities). It must be one of the permitted types below. More granular child terms are allowed, except for protein (PR:000000001), protein-containing complex (GO:0032991), gene (SO:0000704) and pseudogene (SO:0000336), which must be used as is. The generic type gene (SO:0000704) is allowed only to describe uncloned genetic loci; since it does not distinguish proteins from ncRNAs, annotations to objects of this type are not exported in GAF and GPAD files. Likewise, pseudogene (SO:0000336) is allowed in the GPI, but annotations to objects of this type are not exported in GAF and GPAD files.
 
 Permitted entity types:
 
