@@ -77,7 +77,7 @@ Header property | Example value | Comment
 | 9 | <code><a name="Annotation_Date">Annotation_Date</a></code> | <code>[Date_Or_Date_Time](#Date_Or_Date_Time)</code>| `2019-01-30` | |
 | 10 | <code><a name="Assigned_By">Assigned_By</a></code> | <code>[Prefix](#Prefix)</code>| `MGI` | |
 | 11 | <code><a name="Annotation_Extensions">Annotation_Extensions</a></code> | <code>( [Extension_Conj](#Extension_Conj) ( '\|' [Extension_Conj](#Extension_Conj) )* )?</code>| `BFO:0000066(GO:0005829)` | |
-| 12 | <code><a name="Annotation_Properties">Annotation_Properties</a></code> | <code>( [Property_Value_Pair](#Property_Value_Pair) ( '\|' [Property_Value_Pair](#Property_Value_Pair) )* )?</code>| `contributor-id=orcid:0000-0002-1478-7671` | Properties and values MUST conform to the list in [GPAD annotation properties](#gpad-annotation-properties) |
+| 12 | <code><a name="Annotation_Properties">Annotation_Properties</a></code> | <code>( [Property_Value_Pair](#Property_Value_Pair) ( '\|' [Property_Value_Pair](#Property_Value_Pair) )* )?</code>| `contributor-id=orcid:0000-0002-1478-7671` | Properties and values must conform to the list in [GPAD annotation properties](#gpad-annotation-properties) |
 
 ### GPI columns
 
@@ -87,13 +87,13 @@ Header property | Example value | Comment
 | 2 | <code><a name="DB_Object_Symbol">DB_Object_Symbol</a></code> | <code>[Text_No_Spaces](#Text_No_Spaces)</code>| `AMOT` | |
 | 3 | <code><a name="DB_Object_Name">DB_Object_Name</a></code> | <code>[Text](#Text)?</code>| `Angiomotin` | |
 | 4 | <code><a name="DB_Object_Synonyms">DB_Object_Synonyms</a></code> | <code>([Text](#Text) ( '\|' [Text](#Text) )* )?</code>| `E230009N18Rik\|KIAA1071` | |
-| 5 | <code><a name="DB_Object_Type">DB_Object_Type</a></code> | <code>[ID](#ID)</code>| `PR:000000001` | Identifier used MUST conform to the list in [GPI entity types](#gpi-entity-types) |
-| 6 | <code><a name="DB_Object_Taxon">DB_Object_Taxon</a></code> | <code>[ID](#ID)</code>| `NCBITaxon:9606` | The taxon MUST be a term from the NCBITaxon ontology |
+| 5 | <code><a name="DB_Object_Type">DB_Object_Type</a></code> | <code>[ID](#ID)</code>| `PR:000000001` | Identifier used must conform to the list in [GPI entity types](#gpi-entity-types) |
+| 6 | <code><a name="DB_Object_Taxon">DB_Object_Taxon</a></code> | <code>[ID](#ID)</code>| `NCBITaxon:9606` | The taxon must be a term from the NCBITaxon ontology |
 | 7 | <code><a name="Encoded_By">Encoded_By</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| `HGNC:17810` | For proteins and ncRNAs, this refers to the gene ID that encodes those entities. Not applicable to protein-containing complexes. |
 | 8 | <code><a name="Canonical_Object_ID">Canonical_Object_ID</a></code> | <code>[ID](#ID)</code>| `UniProtKB:Q4VCS5` | For canonical entities (protein-coding or ncRNA genes, gene-centric reference protein accessions, canonical ncRNAs, and protein-containing complexes), this repeats the column 1 value. For entities derived from a gene product, such as protein isoforms, modified proteins, or processed transcripts, this refers to the gene-centric ID of the column 1 entry. For entities the provider has no gene-centric ID for, such as uncloned genes, this repeats the column 1 value. |
 | 9 | <code><a name="Protein_Containing_Complex_Members">Protein_Containing_Complex_Members</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| `UniProtKB:Q15021\|UniProtKB:Q15003` | |
-| 10 | <code><a name="DB_Xrefs">DB_Xrefs</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| `HGNC:17810` | Identifiers used MUST include the [required DB xref values](#required-and-optional-db-xrefs) |
-| 11 | <code><a name="Gene_Product_Properties">Gene_Product_Properties</a></code> | <code>( [Property_Value_Pair](#Property_Value_Pair) ( '\|' [Property_Value_Pair](#Property_Value_Pair) )* )?</code>| `db-subset=Swiss-Prot` | Properties and values MUST conform to the list in [GPI gene product properties](#gpi-gene-product-properties) |
+| 10 | <code><a name="DB_Xrefs">DB_Xrefs</a></code> | <code>( [ID](#ID) ( '\|' [ID](#ID) )* )?</code>| `HGNC:17810` | Identifiers used must include the [required DB xref values](#required-and-optional-db-xrefs) |
+| 11 | <code><a name="Gene_Product_Properties">Gene_Product_Properties</a></code> | <code>( [Property_Value_Pair](#Property_Value_Pair) ( '\|' [Property_Value_Pair](#Property_Value_Pair) )* )?</code>| `db-subset=Swiss-Prot` | Properties and values must conform to the list in [GPI gene product properties](#gpi-gene-product-properties) |
 
 ### Values
 
@@ -105,13 +105,13 @@ Header property | Example value | Comment
 | <code><a name="Header_Value">Header_Value</a></code> | <code>[Text](#Text)</code>| |
 | <code><a name="Extension_Conj">Extension_Conj</a></code> | <code>[Relational_Expression](#Relational_Expression) ( ',' [Relational_Expression](Relational_Expression) )*</code>| |
 | <code><a name="Relational_Expression">Relational_Expression</a></code> | <code>[Relation_ID](#Relation_ID) '(' [Target_ID](#Target_ID) ')'</code>| |
-| <code><a name="Relation_ID">Relation_ID</a></code> | <code>[ID](#ID)</code>| The identifier MUST be a term in the OBO relations ontology |
+| <code><a name="Relation_ID">Relation_ID</a></code> | <code>[ID](#ID)</code>| The identifier must be a term in the OBO relations ontology |
 | <code><a name="Target_ID">Target_ID</a></code> | <code>[ID](#ID)</code>| |
 | <code><a name="Property_Value_Pair">Property_Value_Pair</a></code> | <code>[Property](#Property) '=' [Property_Value](#Property_Value)</code>| |
 | <code><a name="Property">Property</a></code> | <code>([Alpha_Char](#Alpha_Char) \| [Digit](#Digit) \| '-')+</code>| |
 | <code><a name="Property_Value">Property_Value</a></code> | <code>[Text](#Text)</code>| |
 | <code><a name="ID">ID</a></code> | <code>[Prefix](#Prefix) ':' [Local_ID](#Local_ID)</code>| |
-| <code><a name="Prefix">Prefix</a></code> | <code>[Alpha_Char](#Alpha_Char) [ID_Char](#ID_Char)*</code>| The [GO database registry](https://github.com/geneontology/go-site/blob/master/metadata/db-xrefs.yaml) contains a list of valid prefixes that can be used in GPAD or GPI files. Every identifier prefix used in a GPAD or GPI file MUST have an entry in the registry. |
+| <code><a name="Prefix">Prefix</a></code> | <code>[Alpha_Char](#Alpha_Char) [ID_Char](#ID_Char)*</code>| The [GO database registry](https://github.com/geneontology/go-site/blob/master/metadata/db-xrefs.yaml) contains a list of valid prefixes that can be used in GPAD or GPI files. Every identifier prefix used in a GPAD or GPI file must have an entry in the registry. |
 | <code><a name="Local_ID">Local_ID</a></code> | <code>( [ID_Char](#ID_Char) \| ':' \| '\/' )+</code>| |
 | <code><a name="ID_Char">ID_Char</a></code> | <code>[Alpha_Char](#Alpha_Char) \| [Digit](#Digit) \| '_' \| '-' \| '.'</code>| |
 | <code><a name="Date_Or_Date_Time">Date_Or_Date_Time</a></code> | <code>[Date](#Date) \| [Date_Time](#Date_Time)</code>| |
@@ -155,8 +155,8 @@ Property | Allowed usages per annotation | Value Grammar | Example | Comment
 `'id'` | 0 or 1 | <code>[ID](#ID)</code> | `id=WBOA:3219` | Unique identifier for an annotation in a contributing database. |
 `'model-state'` | 0 or 1 | <code>[Alpha_Char](#Alpha_Char)+</code> | `model-state=production` | GO-CAM model state |
 `'noctua-model-id'` | 0 or 1 | <code>[ID](#ID)</code> | `noctua-model-id=gomodel:5a7e68a100001078` | Unique GO-CAM model id |
-`'contributor-id'` | 0 or more | <code>[ID](#ID)</code> | `contributor-id=orcid:0000-0002-1706-4196` | Identifier for curator or user who entered or changed an annotation. Prefix MUST be `orcid` or `goc` |
-`'reviewer-id'` | 0 or more | <code>[ID](#ID)</code> | `reviewer-id=orcid:0000-0001-7476-6306` | Identifier for curator or user who last reviewed an annotation. Prefix MUST be `orcid` or `goc` |
+`'contributor-id'` | 0 or more | <code>[ID](#ID)</code> | `contributor-id=orcid:0000-0002-1706-4196` | Identifier for curator or user who entered or changed an annotation. Prefix must be `orcid` or `goc` |
+`'reviewer-id'` | 0 or more | <code>[ID](#ID)</code> | `reviewer-id=orcid:0000-0001-7476-6306` | Identifier for curator or user who last reviewed an annotation. Prefix must be `orcid` or `goc` |
 `'creation-date'` | 0 or 1 | <code>[Date_Or_Date_Time](#Date_Or_Date_Time)</code> | `creation-date=2019-02-05` | The date on which the annotation was created. |
 `'modification-date'` | 0 or more | <code>[Date_Or_Date_Time](#Date_Or_Date_Time)</code> | `modification-date=2019-02-06` | The date(s) on which an annotation was modified. |
 `'reviewed-date'` | 0 or more | <code>[Date_Or_Date_Time](#Date_Or_Date_Time)</code> | `reviewed-date=2019-02-06` | The date(s) on which the annotation was reviewed. |
@@ -164,7 +164,7 @@ Property | Allowed usages per annotation | Value Grammar | Example | Comment
 
 ### GPI Entity Types
 
-The entity type in column 5 MUST be an ontology term identifier from the Protein Ontology (proteins), the Gene Ontology (protein-containing complexes) or the Sequence Ontology (all other entities). It MUST be one of the permitted types below or a more granular child term of one of them, and describes the object as defined by the contributing database. The generic type 'gene' (SO:0000704) is allowed in the GPI to describe uncloned genetic loci, but since they do not distinguish proteins from ncRNAs, any annotations to these types are not exported in the GAF and GPAD. files.
+The entity type in column 5 must be an ontology term identifier from the Protein Ontology (proteins), the Gene Ontology (protein-containing complexes) or the Sequence Ontology (all other entities). It must be one of the permitted types below. Except for protein (PR:000000001) and protein-containing complex (GO:0032991), more granular child terms are allowed. The generic type 'gene' (SO:0000704) is allowed in the GPI to describe uncloned genetic loci, but since they do not distinguish proteins from ncRNAs, any annotations to these types are not exported in the GAF and GPAD. files.
 
 Permitted entity types:
 
@@ -176,7 +176,7 @@ Permitted entity types:
 * SO:0000336: pseudogene
 * SO:0000704: gene 
 
-Sequence Ontology child terms of the ncRNA and ncRNA-coding gene types in current use, and their mapping to gene product types, are listed in [biological_entity_mapping.yaml](https://github.com/geneontology/go-site/blob/master/metadata/biological_entity_mapping.yaml).
+The full list of entity types and their corresponding Sequence Ontology identifiers can be found in the [biological_entity_mapping.yaml](https://github.com/geneontology/go-site/blob/master/metadata/biological_entity_mapping.yaml).
 
 ### Required and Optional DB xrefs
 #### Required:
