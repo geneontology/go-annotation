@@ -176,7 +176,7 @@ Permitted entity types:
 * SO:0000336: pseudogene
 * SO:0000704: gene 
 
-[biological_entity_mapping.yaml](https://github.com/geneontology/go-site/blob/master/metadata/biological_entity_mapping.yaml) maps entity types to the gene product types used when annotations are exported to GAF and GPAD. It is not the list of permitted types.
+[biological_entity_mapping.yaml](https://github.com/geneontology/go-site/blob/master/metadata/biological_entity_mapping.yaml) maps entity types to the gene product types used when annotations are exported to GAF and GPAD. It does not define which types are permitted in the GPI; only the types listed above are.
 
 ### Required and Optional DB xrefs
 #### Required:
