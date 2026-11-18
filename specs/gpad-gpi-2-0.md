@@ -164,7 +164,7 @@ Property | Allowed usages per annotation | Value Grammar | Example | Comment
 
 ### GPI Entity Types
 
-The entity type in column 5 must be an ontology term identifier from the Protein Ontology (proteins), the Gene Ontology (protein-containing complexes) or the Sequence Ontology (all other entities). It must be one of the permitted types below. Except for protein (PR:000000001) and protein-containing complex (GO:0032991), more granular child terms are allowed. The generic type 'gene' (SO:0000704) is allowed in the GPI to describe uncloned genetic loci, but since they do not distinguish proteins from ncRNAs, any annotations to these types are not exported in the GAF and GPAD. files.
+The entity type in column 5 must be an ontology term identifier from the Protein Ontology (proteins), the Gene Ontology (protein-containing complexes) or the Sequence Ontology (all other entities). It must be one of the permitted types below. More granular child terms are allowed, except for protein (PR:000000001), protein-containing complex (GO:0032991), gene (SO:0000704) and pseudogene (SO:0000336), which must be used as is. The generic type gene (SO:0000704) is allowed only to describe uncloned genetic loci; since it does not distinguish proteins from ncRNAs, annotations to objects of this type are not exported in GAF and GPAD files. Likewise, pseudogene (SO:0000336) is allowed in the GPI, but annotations to objects of this type are not exported in GAF and GPAD files.
 
 Permitted entity types:
 
@@ -176,7 +176,7 @@ Permitted entity types:
 * SO:0000336: pseudogene
 * SO:0000704: gene 
 
-The full list of entity types and their corresponding Sequence Ontology identifiers can be found in the [biological_entity_mapping.yaml](https://github.com/geneontology/go-site/blob/master/metadata/biological_entity_mapping.yaml).
+[biological_entity_mapping.yaml](https://github.com/geneontology/go-site/blob/master/metadata/biological_entity_mapping.yaml) maps entity types to the gene product types used when annotations are exported to GAF and GPAD. It does not define which types are permitted in the GPI; only the types listed above are.
 
 ### Required and Optional DB xrefs
 #### Required:
